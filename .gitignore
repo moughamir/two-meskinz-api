@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+data/search-index.json
 
 # debug
 npm-debug.log*
