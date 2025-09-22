@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "pnpm prepare:data && next build --turbopack",
     "start": "next start",
     "lint": "eslint",
     "prepare:data": "tsc --project tsconfig.scripts.json && node dist-scripts/scripts/prepare-data.js && rm -rf dist-scripts"
