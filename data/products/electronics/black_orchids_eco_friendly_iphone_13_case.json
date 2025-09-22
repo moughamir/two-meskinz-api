@@ -1,0 +1,77 @@
+{
+  "id": 8079245410392,
+  "title": "Black Orchids iPhone 13 Case",
+  "handle": "black-orchids-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Elevate your style with the mesmerizing beauty of the Orchids Phone Case! This striking design showcases a trio of vibrant orchids cascading down a sleek black background, each bloom more stunning than the last. Perfect for those who appreciate the delicate elegance of nature’s finest flowers, this case transforms your phone into a portable floral masterpiece. Let your phone blossom with this radiant and sophisticated accessory, turning heads wherever you go. 🌺</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-15T09:23:01-04:00",
+  "created_at": "2024-08-07T14:30:37-04:00",
+  "updated_at": "2025-09-22T15:15:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Orchids",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Orchids",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42133674197080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16685-IP13-BLACK-AOD:ORCHIDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8079245410392,
+      "created_at": "2024-08-07T14:30:37-04:00",
+      "updated_at": "2025-09-22T15:15:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33447632863320,
+      "created_at": "2024-08-07T14:30:37-04:00",
+      "position": 1,
+      "updated_at": "2024-08-07T14:30:37-04:00",
+      "product_id": 8079245410392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ORCHIDS_IP13_Black.jpg?v=1723055437",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ORCHIDS_IP13_Black.jpg?v=1723055437",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 8216565743704,
+  "title": "Seashell Love Pack iPhone XR Case",
+  "handle": "seashell-love-pack-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:22:44-05:00",
+  "created_at": "2024-12-16T10:52:26-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469058510936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216565743704,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130692800600,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:28-05:00",
+      "product_id": 8216565743704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IPXR_Seashell.jpg?v=1734364348",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215488815192,
+      "created_at": "2025-01-03T12:47:08-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:47:10-05:00",
+      "product_id": 8216565743704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_b6b393fd-7cf9-4070-9648-eec3244d93fb.jpg?v=1735926430",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215488782424,
+      "created_at": "2025-01-03T12:47:08-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:47:09-05:00",
+      "product_id": 8216565743704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_ff72d64a-2748-4763-b746-d1acb31167fb.jpg?v=1735926429",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215488684120,
+      "created_at": "2025-01-03T12:47:08-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:47:09-05:00",
+      "product_id": 8216565743704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_6fd67d73-d765-4401-a70a-31fcd2937d57.jpg?v=1735926429",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215488716888,
+      "created_at": "2025-01-03T12:47:08-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:47:09-05:00",
+      "product_id": 8216565743704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_bb174550-27dc-400f-8084-9321ce44cc48.jpg?v=1735926429",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IPXR_Seashell.jpg?v=1734364348",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

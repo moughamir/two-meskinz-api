@@ -1,0 +1,108 @@
+{
+  "id": 8216568070232,
+  "title": "Bubblegum Pink Swan Garden iPhone 12 Mini Case",
+  "handle": "bubblegum-pink-swan-garden-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Float into romance with the Swan Garden Phone Case, part of our dreamy Amour Collection. Featuring elegant swans tied with dainty bows and surrounded by delicate blossoms, this case is pure fairy-tale magic. <meta charset=\"utf-8\">🦢💗</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:18:50-05:00",
+  "created_at": "2024-12-16T10:52:34-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Swan Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469060804696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16367-IP12MINI-BUBPINK-AOD:SWAN-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216568070232,
+      "created_at": "2024-12-16T10:52:34-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130697224280,
+      "created_at": "2024-12-16T10:52:34-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:36-05:00",
+      "product_id": 8216568070232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_IP12MINI_BubblegumPink.jpg?v=1734364356",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34214925762648,
+      "created_at": "2025-01-03T10:55:31-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T10:55:36-05:00",
+      "product_id": 8216568070232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP1_c3ce0a7a-59bc-472b-8de4-8ad45db2dddb.jpg?v=1735919736",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214925697112,
+      "created_at": "2025-01-03T10:55:31-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T10:55:36-05:00",
+      "product_id": 8216568070232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP2_f37f8491-b202-4412-8238-8d56a54fa9d5.jpg?v=1735919736",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214925729880,
+      "created_at": "2025-01-03T10:55:31-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T10:55:36-05:00",
+      "product_id": 8216568070232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP3_214ff111-33ef-4588-855d-7074e4afeff9.jpg?v=1735919736",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_IP12MINI_BubblegumPink.jpg?v=1734364356",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

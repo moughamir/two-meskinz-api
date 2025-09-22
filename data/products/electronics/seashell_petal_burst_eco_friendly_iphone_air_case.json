@@ -1,0 +1,140 @@
+{
+  "id": 8444723003480,
+  "title": "Seashell Petal Burst iPhone Air Case",
+  "handle": "seashell-petal-burst-eco-friendly-iphone-air-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:56:25-04:00",
+  "created_at": "2025-08-08T12:07:07-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184256876632,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:PETAL-BURST_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444723003480,
+      "created_at": "2025-09-03T18:52:13-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184256909400,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444723003480,
+      "created_at": "2025-09-03T18:52:13-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567386001496,
+      "created_at": "2025-08-08T12:07:07-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:09-04:00",
+      "product_id": 8444723003480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP17AIR_Seashell.jpg?v=1754669229",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581733535832,
+      "created_at": "2025-08-11T15:00:29-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T15:00:29-04:00",
+      "product_id": 8444723003480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_ebfd9949-38c8-4eca-8b4a-caa73787b2a7.jpg?v=1754938829",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581733601368,
+      "created_at": "2025-08-11T15:00:31-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T15:00:31-04:00",
+      "product_id": 8444723003480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_2242a039-1917-4187-87d4-78d399fe9004.jpg?v=1754938831",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581733732440,
+      "created_at": "2025-08-11T15:00:32-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T15:00:32-04:00",
+      "product_id": 8444723003480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_76283e74-0c0d-4eae-b36e-174b36dc7b13.jpg?v=1754938832",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581733797976,
+      "created_at": "2025-08-11T15:00:34-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T15:00:34-04:00",
+      "product_id": 8444723003480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_732225e8-d534-4d84-9495-5fc11a72c220.jpg?v=1754938834",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP17AIR_Seashell.jpg?v=1754669229",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

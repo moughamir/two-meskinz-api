@@ -1,0 +1,97 @@
+{
+  "id": 8299245404248,
+  "title": "Chocolate Brown Cocoa Stripes Samsung Galaxy S24 Ultra Case",
+  "handle": "chocolate-brown-cocoa-stripes-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Classic, bold, and irresistibly rich—just like your favorite dark chocolate bar. The <em data-start=\"385\" data-end=\"400\">Cocoa Stripes Phone Case</em> brings timeless style to your phone with sleek vertical stripes in deep brown tones. Perfect for minimalists who love a touch of vintage charm.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:24:38-04:00",
+  "created_at": "2025-02-26T10:03:50-05:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cocoa Stripes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697335242840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13880-S24ULTRA-CHOBROWN-AOD:COCOA-STRIPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299245404248,
+      "created_at": "2025-02-26T10:03:50-05:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599128137816,
+      "created_at": "2025-02-26T10:03:50-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:03:52-05:00",
+      "product_id": 8299245404248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_S24ULTRA_ChocolateBrown.jpg?v=1740582232",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672836542552,
+      "created_at": "2025-03-11T18:24:41-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T18:24:43-04:00",
+      "product_id": 8299245404248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP1_cafeb64d-1b7a-4a33-aa0c-b93f631a8b49.jpg?v=1741731883",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672836575320,
+      "created_at": "2025-03-11T18:24:41-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T18:24:43-04:00",
+      "product_id": 8299245404248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP2_497d9adc-b932-4b6a-870c-1ee0e7934410.jpg?v=1741731883",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_S24ULTRA_ChocolateBrown.jpg?v=1740582232",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

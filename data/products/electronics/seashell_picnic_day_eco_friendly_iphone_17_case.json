@@ -1,0 +1,129 @@
+{
+  "id": 8444707799128,
+  "title": "Seashell Picnic Day iPhone 17 Case",
+  "handle": "seashell-picnic-day-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet your phone’s new picnic buddy—the Picnic Day Phone Case! 🍒🧺 Bursting with playful fruits like bananas, apples, grapes, oranges, watermelon, strawberries, cherries, blueberries, pears, tomatoes, and even a cheeky slice of cake, this case brings all the good vibes of a sunny park hangout.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:31:40-04:00",
+  "created_at": "2025-08-08T11:51:59-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Picnic Day",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184257761368,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PICNIC-DAY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444707799128,
+      "created_at": "2025-09-03T18:52:22-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184257794136,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PICNIC-DAY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444707799128,
+      "created_at": "2025-09-03T18:52:22-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567307161688,
+      "created_at": "2025-08-08T11:51:59-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:01-04:00",
+      "product_id": 8444707799128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICNIC-DAY_IP17_Seashell.jpg?v=1754668321",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288773460056,
+      "created_at": "2025-06-24T14:42:42-04:00",
+      "position": 2,
+      "updated_at": "2025-08-13T15:49:06-04:00",
+      "product_id": 8444707799128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Picnic_Day_1.jpg?v=1755114546",
+      "width": 4481,
+      "height": 4481
+    },
+    {
+      "id": 35288774017112,
+      "created_at": "2025-06-24T14:42:44-04:00",
+      "position": 3,
+      "updated_at": "2025-08-13T15:49:15-04:00",
+      "product_id": 8444707799128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Picnic_Day_2.jpg?v=1755114555",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288774541400,
+      "created_at": "2025-06-24T14:42:46-04:00",
+      "position": 4,
+      "updated_at": "2025-08-13T15:49:26-04:00",
+      "product_id": 8444707799128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Picnic_Day_3.jpg?v=1755114566",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICNIC-DAY_IP17_Seashell.jpg?v=1754668321",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

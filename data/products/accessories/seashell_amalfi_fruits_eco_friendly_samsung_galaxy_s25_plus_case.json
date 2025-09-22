@@ -1,0 +1,108 @@
+{
+  "id": 8254919376984,
+  "title": "Seashell Amalfi Fruits Samsung Galaxy S25+(Plus) Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-samsung-galaxy-s25-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:35:16-05:00",
+  "created_at": "2025-01-15T10:45:08-05:00",
+  "updated_at": "2025-09-22T15:15:15-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567770734680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13930-S25PLUS-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254919376984,
+      "created_at": "2025-01-15T10:45:08-05:00",
+      "updated_at": "2025-09-22T15:15:15-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303315181656,
+      "created_at": "2025-01-15T10:45:08-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:45:10-05:00",
+      "product_id": 8254919376984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_S25PLUS_Seashell.jpg?v=1736955910",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354875727960,
+      "created_at": "2025-01-22T16:21:43-05:00",
+      "position": 2,
+      "updated_at": "2025-01-22T16:21:45-05:00",
+      "product_id": 8254919376984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_PDP1_c5152aab-82ff-4cec-af01-6c80d34bea8a.jpg?v=1737580905",
+      "width": 2917,
+      "height": 2917
+    },
+    {
+      "id": 34678535716952,
+      "created_at": "2025-03-12T16:08:41-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T16:08:42-04:00",
+      "product_id": 8254919376984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_139f241c-4840-4199-b64e-f1593f99945c.jpg?v=1741810122",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678535749720,
+      "created_at": "2025-03-12T16:08:41-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T16:08:42-04:00",
+      "product_id": 8254919376984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_a4e212de-55c7-4478-b689-74bbd0ec17e3.jpg?v=1741810122",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_S25PLUS_Seashell.jpg?v=1736955910",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

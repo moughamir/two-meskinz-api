@@ -1,0 +1,71 @@
+{
+  "id": 7601511628909,
+  "title": "Build a Pura Set",
+  "handle": "get-started",
+  "body_html": "",
+  "published_at": "2025-02-04T12:07:23-07:00",
+  "created_at": "2025-02-04T12:07:23-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Box",
+  "tags": [
+    "__automation:disable",
+    "Group_Car",
+    "Group_Home",
+    "YCRF_homedevices",
+    "YGroup_device"
+  ],
+  "variants": [
+    {
+      "id": 42044365111405,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": false,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "price": "46.98",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7601511628909,
+      "created_at": "2025-02-04T12:07:24-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33117513318509,
+      "created_at": "2024-10-01T21:53:57-06:00",
+      "position": 1,
+      "updated_at": "2025-04-14T12:31:27-06:00",
+      "product_id": 7601511628909,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/buildcarbuildwall-resized_6024032c-b85b-4b7d-b367-8b8d4f36dc2e.jpg?v=1744655487",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/buildcarbuildwall-resized_6024032c-b85b-4b7d-b367-8b8d4f36dc2e.jpg?v=1744655487",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

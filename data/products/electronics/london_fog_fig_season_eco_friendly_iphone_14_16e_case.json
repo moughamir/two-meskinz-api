@@ -1,0 +1,120 @@
+{
+  "id": 8470408921176,
+  "title": "London Fog Fig Season iPhone 14/16e Case",
+  "handle": "london-fog-fig-season-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sweet, stylish, and just a little extra—just like fig season itself. This case brings rich purple tones and juicy vibes straight to your phone, making it the perfect accessory for anyone who loves a fruity pop of personality. Bold on the outside, protective at the core—because your phone deserves to look as fresh as it feels.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-18T09:03:16-04:00",
+  "created_at": "2025-09-11T11:57:45-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fig Season",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43202910421080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16735-IP14-LFOG-AOD:FIG-SEASON",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8470408921176,
+      "created_at": "2025-09-11T11:57:45-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35824740499544,
+      "created_at": "2025-09-11T11:57:45-04:00",
+      "position": 1,
+      "updated_at": "2025-09-11T14:08:06-04:00",
+      "product_id": 8470408921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FIG-SEASON_IP14_LondonFog.jpg?v=1757614086",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35878866190424,
+      "created_at": "2025-09-16T13:43:23-04:00",
+      "position": 2,
+      "updated_at": "2025-09-16T13:43:23-04:00",
+      "product_id": 8470408921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/53243033f316f6f0f0a59f7d101eeb7a_b7df617d-6859-49e3-9c79-304c48b44124.jpg?v=1758044603",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878866321496,
+      "created_at": "2025-09-16T13:43:24-04:00",
+      "position": 3,
+      "updated_at": "2025-09-16T13:43:25-04:00",
+      "product_id": 8470408921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fc716f38b4e2bafdf954bcbbb591ef63_57db122d-1ed5-448a-a838-dac968f4558c.jpg?v=1758044605",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878866518104,
+      "created_at": "2025-09-16T13:43:26-04:00",
+      "position": 4,
+      "updated_at": "2025-09-16T13:43:26-04:00",
+      "product_id": 8470408921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/46f952632eaf2fc3c97a5bd489ab3974_8a2a042c-776c-4177-8b97-d5e5a031ab02.jpg?v=1758044606",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878866681944,
+      "created_at": "2025-09-16T13:43:27-04:00",
+      "position": 5,
+      "updated_at": "2025-09-16T13:43:27-04:00",
+      "product_id": 8470408921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3197144ebce696fc0a12fc993f215c38_545511e9-f062-4983-ad76-91b27c55b641.jpg?v=1758044607",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FIG-SEASON_IP14_LondonFog.jpg?v=1757614086",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

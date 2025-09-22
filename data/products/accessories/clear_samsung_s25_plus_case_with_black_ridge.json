@@ -1,0 +1,91 @@
+{
+  "id": 8190703370328,
+  "title": "Clear Samsung S25+(Plus) Case with Black Ridge",
+  "handle": "clear-samsung-s25-plus-case-with-black-ridge",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span></p>",
+  "published_at": "2025-05-08T05:57:18-04:00",
+  "created_at": "2024-11-19T12:08:52-05:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "Clear Case With Ridge",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 42406571540568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28820-S25PLUS-BLACK-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "55.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190703370328,
+      "created_at": "2024-11-19T12:08:52-05:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34147675045976,
+      "created_at": "2024-12-18T12:57:37-05:00",
+      "position": 1,
+      "updated_at": "2024-12-18T12:57:39-05:00",
+      "product_id": 8190703370328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_BLACK_BACK_db96a2d6-57f2-4478-8cdd-138e794d0853.jpg?v=1734544659",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34147675078744,
+      "created_at": "2024-12-18T12:57:37-05:00",
+      "position": 2,
+      "updated_at": "2024-12-18T12:57:39-05:00",
+      "product_id": 8190703370328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_BLACK_BACK45L.jpg?v=1734544659",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34147675013208,
+      "created_at": "2024-12-18T12:57:37-05:00",
+      "position": 3,
+      "updated_at": "2024-12-18T12:57:39-05:00",
+      "product_id": 8190703370328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_BLACK_BACK45R.jpg?v=1734544659",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_BLACK_BACK_db96a2d6-57f2-4478-8cdd-138e794d0853.jpg?v=1734544659",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

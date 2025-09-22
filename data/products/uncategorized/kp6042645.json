@@ -1,0 +1,52 @@
+{
+  "id": 8453287805095,
+  "title": "5/8″ Hollow Shank Nut Driver 4″ Shank",
+  "handle": "kp6042645",
+  "body_html": null,
+  "published_at": "2025-01-24T00:09:28-06:00",
+  "created_at": "2025-01-24T00:09:25-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500111548583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6042645",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.98",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453287805095,
+      "created_at": "2025-01-24T00:09:26-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.98,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

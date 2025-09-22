@@ -1,0 +1,67 @@
+{
+  "id": 7785378480295,
+  "title": "Brand: Metro / Part #: MQ1430G",
+  "handle": "wk534140042",
+  "body_html": "<br><strong>Item #: </strong>09457755<br><strong>Brand: </strong>Metro<br><strong>Model #: </strong>MQ1430G<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Shelving Type</strong>\n</td>\n<td>Open Shelving</td>\n</tr>\n<tr>\n<td><strong>Shelf Style</strong></td>\n<td>Ventilated</td>\n</tr>\n<tr>\n<td><strong>Shelf Type</strong></td>\n<td>Adjustable</td>\n</tr>\n<tr>\n<td><strong>Shelf Capacity</strong></td>\n<td>800 lb</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>3.4375 in</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>30</td>\n</tr>\n<tr>\n<td><strong>Overall Depth</strong></td>\n<td>14.375 in</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Taupe; Blue</td>\n</tr>\n<tr>\n<td><strong>Number Of Shelves</strong></td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:26:34-06:00",
+  "created_at": "2023-12-28T19:26:34-06:00",
+  "updated_at": "2025-09-22T10:55:29-05:00",
+  "vendor": "Metro",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 43703707271335,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09457755",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "99.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785378480295,
+      "created_at": "2023-12-28T19:26:34-06:00",
+      "updated_at": "2025-09-22T10:55:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236822438055,
+      "created_at": "2025-02-03T17:55:07-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:55:08-06:00",
+      "product_id": 7785378480295,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0949334-21_2db4804d-9f6e-4edc-892a-a9e0c7c1e3fc.jpg?v=1738626908",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 99.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0949334-21_2db4804d-9f6e-4edc-892a-a9e0c7c1e3fc.jpg?v=1738626908",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Metro",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

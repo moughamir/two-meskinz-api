@@ -1,0 +1,113 @@
+{
+  "id": 7058110316653,
+  "title": "White Maple Bourbon",
+  "handle": "white-maple-bourbon",
+  "body_html": "<p>This scent evokes ease and warmth as smooth <strong>bourbon</strong> envelops accents of <strong>white maple wood</strong> and sweet <strong>vanilla bean</strong>, reminding you of quiet evenings curled up by the fire.</p>",
+  "published_at": "2023-09-01T10:23:21-06:00",
+  "created_at": "2023-08-17T08:32:04-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "CollectionFilter_Vanilla",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40706860744813,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WMBH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7058110316653,
+      "created_at": "2023-08-17T08:32:04-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30365815701613,
+      "created_at": "2023-08-17T08:35:02-06:00",
+      "position": 1,
+      "updated_at": "2023-08-17T08:35:08-06:00",
+      "product_id": 7058110316653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafcomaplewhitebourbonresizedpdp.jpg?v=1692282908",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30365815603309,
+      "created_at": "2023-08-17T08:35:02-06:00",
+      "position": 2,
+      "updated_at": "2023-08-17T08:35:08-06:00",
+      "product_id": 7058110316653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/vanilla-resized.jpg?v=1692282908",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30365815537773,
+      "created_at": "2023-08-17T08:35:01-06:00",
+      "position": 3,
+      "updated_at": "2023-08-17T08:35:08-06:00",
+      "product_id": 7058110316653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafcomaplewhitebourbonresizedpdp-5.jpg?v=1692282908",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30365815636077,
+      "created_at": "2023-08-17T08:35:01-06:00",
+      "position": 4,
+      "updated_at": "2023-08-17T08:35:08-06:00",
+      "product_id": 7058110316653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafcomaplewhitebourbonresizedpdp-3.jpg?v=1692282908",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafcomaplewhitebourbonresizedpdp.jpg?v=1692282908",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

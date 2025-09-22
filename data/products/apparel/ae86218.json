@@ -1,0 +1,69 @@
+{
+  "id": 5337180143783,
+  "title": "Brand: Panduit / Part #: PLT2M-M0",
+  "handle": "ae86218",
+  "body_html": "<br><strong>Item #: </strong>48853659<br><strong>Brand: </strong>Panduit<br><strong>Model #: </strong>PLT2M-M0<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cable Tie Type</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Nylon</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>8.0000 in</td>\n</tr>\n<tr>\n<td><strong>Overall Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0980</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (Decimal Inch)</strong></td>\n<td>2.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (Inch)</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (mm)</strong></td>\n<td>50.80</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength</strong></td>\n<td>18 lb</td>\n</tr>\n<tr>\n<td><strong>Resistance Features</strong></td>\n<td>UV-Resistant</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0430</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature (F)</strong></td>\n<td>-76</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature (F)</strong></td>\n<td>185</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>UL Listed File E56854; UL Recognized File E56854; UL 62275 Compliant Type 1 &amp; 11</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T09:44:19-06:00",
+  "created_at": "2020-06-15T16:30:31-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Panduit",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Drilling",
+    "Solid",
+    "Wire Management"
+  ],
+  "variants": [
+    {
+      "id": 34733817299111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48853659",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.13",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337180143783,
+      "created_at": "2020-06-15T16:30:31-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240507003047,
+      "created_at": "2025-02-03T20:25:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:25:33-06:00",
+      "product_id": 5337180143783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4885924-21_166315e4-7a23-4a99-89e8-d9d792c0c414.jpg?v=1738635933",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4885924-21_166315e4-7a23-4a99-89e8-d9d792c0c414.jpg?v=1738635933",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Panduit",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

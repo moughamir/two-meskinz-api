@@ -1,0 +1,112 @@
+{
+  "id": 7536125378648,
+  "title": "London Fog Indigo Bouquet iPhone 13 Mini Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:16:05-05:00",
+  "created_at": "2024-01-15T11:10:00-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949020491864,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16625-IP13MINI-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536125378648,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723266136,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:00-05:00",
+      "product_id": 7536125378648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP13MINI_LondonFog.jpg?v=1705335000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088839159896,
+      "created_at": "2024-01-17T10:14:55-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:14:56-05:00",
+      "product_id": 7536125378648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_9f4a2eef-00e6-43c8-8999-823ae9ab88b2.png?v=1705504496",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088839192664,
+      "created_at": "2024-01-17T10:14:55-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:14:56-05:00",
+      "product_id": 7536125378648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_da100f90-ba85-46fd-8764-034599fc46b2.png?v=1705504496",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088839258200,
+      "created_at": "2024-01-17T10:14:55-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:14:57-05:00",
+      "product_id": 7536125378648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_c7069069-800b-41c8-9f06-fe7c31c32777.png?v=1705504497",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP13MINI_LondonFog.jpg?v=1705335000",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

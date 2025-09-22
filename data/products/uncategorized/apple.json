@@ -1,0 +1,121 @@
+{
+  "id": 7051705090157,
+  "title": "Apple",
+  "handle": "apple",
+  "body_html": "<p>Crisp and sweet, <strong>red apples</strong> swirl with summer <strong>fruits</strong> and soft <strong>musk</strong>, adding a delicious brightness to every day.</p>",
+  "published_at": "2023-08-14T19:49:54-06:00",
+  "created_at": "2023-08-09T16:19:02-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Simplicity by Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand: Simplicity by Pura",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Strength_Strong",
+    "type_smart13",
+    "type_smart14",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_apple"
+  ],
+  "variants": [
+    {
+      "id": 40702257660013,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ACPH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705090157,
+      "created_at": "2023-08-09T16:19:02-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329774637165,
+      "created_at": "2023-08-09T16:19:19-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T16:19:21-06:00",
+      "product_id": 7051705090157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_d1023806-00eb-468a-a428-d7875f1fb438.png?v=1691619561",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329774735469,
+      "created_at": "2023-08-09T16:19:19-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T16:19:21-06:00",
+      "product_id": 7051705090157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_f7eba5c5-8761-4bc6-b7c0-ff0575776417.png?v=1691619561",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30435206266989,
+      "created_at": "2023-09-04T10:55:10-06:00",
+      "position": 3,
+      "updated_at": "2023-09-04T10:55:25-06:00",
+      "product_id": 7051705090157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PUR23011-simplicity-apple-device-4resized.jpg?v=1693846525",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30329774702701,
+      "created_at": "2023-08-09T16:19:19-06:00",
+      "position": 4,
+      "updated_at": "2023-09-04T10:55:25-06:00",
+      "product_id": 7051705090157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_2fbe8cde-41e3-4475-931c-b41599dd2ec4.png?v=1693846525",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_d1023806-00eb-468a-a428-d7875f1fb438.png?v=1691619561",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simplicity by Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

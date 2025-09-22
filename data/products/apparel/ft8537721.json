@@ -1,0 +1,67 @@
+{
+  "id": 7785514729639,
+  "title": "Brand: Tingley / Part #: J22257.XS",
+  "handle": "ft8537721",
+  "body_html": "<br><strong>Item #: </strong>60846177<br><strong>Brand: </strong>Tingley<br><strong>Model #: </strong>J22257.XS<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Style</strong>\n</td>\n<td>Jacket</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>X-Small</td>\n</tr>\n<tr>\n<td><strong>Gender</strong></td>\n<td>Unisex</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Gold</td>\n</tr>\n<tr>\n<td><strong>Sleeve Length</strong></td>\n<td>33 in</td>\n</tr>\n<tr>\n<td><strong>Seam Style</strong></td>\n<td>Heat Sealed</td>\n</tr>\n<tr>\n<td><strong>Resistance Features</strong></td>\n<td>Water-Resistant; Windproof; Oil resistant</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Snaps</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>0.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:22:56-06:00",
+  "created_at": "2023-12-28T22:22:57-06:00",
+  "updated_at": "2025-09-22T10:48:29-05:00",
+  "vendor": "Tingley",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43704223596711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "60846177",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "89.21",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785514729639,
+      "created_at": "2023-12-28T22:22:57-06:00",
+      "updated_at": "2025-09-22T10:48:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237023666343,
+      "created_at": "2025-02-03T18:01:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:01:46-06:00",
+      "product_id": 7785514729639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6084617-21_37a59dfb-ebbc-4bbf-a718-10e098096b74.jpg?v=1738627306",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 89.21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6084617-21_37a59dfb-ebbc-4bbf-a718-10e098096b74.jpg?v=1738627306",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tingley",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

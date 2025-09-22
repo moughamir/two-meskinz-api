@@ -1,0 +1,110 @@
+{
+  "id": 7555250815064,
+  "title": "Seashell Merry Medley iPhone 14/16e Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:02:56-05:00",
+  "created_at": "2024-02-06T13:51:33-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035276451928,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555250815064,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963009624,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:33-05:00",
+      "product_id": 7555250815064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP14_Seashell.jpg?v=1707245493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111531608,
+      "created_at": "2024-02-28T17:21:41-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:21:44-05:00",
+      "product_id": 7555250815064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_1cf69776-ad68-4a45-88e5-e63124807e11.jpg?v=1709158904",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111498840,
+      "created_at": "2024-02-28T17:21:41-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:21:44-05:00",
+      "product_id": 7555250815064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_a615fe56-6b00-4455-afc4-4bea1999dc97.jpg?v=1709158904",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111564376,
+      "created_at": "2024-02-28T17:21:41-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:21:43-05:00",
+      "product_id": 7555250815064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_b1b79dff-63e3-48f3-b505-de0ad61097a7.jpg?v=1709158903",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP14_Seashell.jpg?v=1707245493",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

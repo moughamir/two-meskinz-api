@@ -1,0 +1,84 @@
+{
+  "id": 7352276254829,
+  "title": "Home & Car Scent Sample Booklet",
+  "handle": "home-car-scent-sample-booklet-1",
+  "body_html": "<p>Our scent sample booklets were created to help you find scents that you love in a quick and easy way. This booklet includes seven premium top-selling scent samples that are available in both home and car—simply lift the scent film to experience the fragrance.</p>",
+  "published_at": "2025-01-23T15:39:59-07:00",
+  "created_at": "2024-04-25T13:48:50-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Gift",
+  "tags": [
+    "__noindex",
+    "Group_Sample",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "YBlocklist"
+  ],
+  "variants": [
+    {
+      "id": 41416545960045,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02468",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 23,
+      "compare_at_price": "0.00",
+      "position": 1,
+      "product_id": 7352276254829,
+      "created_at": "2024-04-25T13:48:50-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31768164302957,
+      "created_at": "2024-04-25T13:48:55-06:00",
+      "position": 1,
+      "updated_at": "2024-04-25T13:48:55-06:00",
+      "product_id": 7352276254829,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentSampleBooklet-HomeCar-Prod1-0424_98ddcec0-602c-402e-bced-0091fc445a7b.jpg?v=1714074535",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31768164335725,
+      "created_at": "2024-04-25T13:48:55-06:00",
+      "position": 2,
+      "updated_at": "2024-04-25T13:48:55-06:00",
+      "product_id": 7352276254829,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentSampleBooklet-PDP-0424_e07f11f8-695f-40e6-a143-72d558a9e970.jpg?v=1714074535",
+      "width": 2640,
+      "height": 3520
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "compare_at_price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentSampleBooklet-HomeCar-Prod1-0424_98ddcec0-602c-402e-bced-0091fc445a7b.jpg?v=1714074535",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

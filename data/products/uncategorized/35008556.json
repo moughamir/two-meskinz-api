@@ -1,0 +1,69 @@
+{
+  "id": 8452531716263,
+  "title": "Timing Belt Pulleys; Pitch Diameter: 0.713 in, 0.713 mm; Face Width: 0.313 mm, 0.313 in",
+  "handle": "35008556",
+  "body_html": "<br><strong>Item #: </strong>05071832<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>28T0800SF<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Pitch Diameter</strong>\n</td>\n<td>0.713 in; 0.713 mm</td>\n</tr>\n<tr> <td> <strong>Face Width</strong>\n</td>\n<td>0.313 mm; 0.313 in</td>\n</tr>\n<tr> <td> <strong>Flange Diameter</strong>\n</td>\n<td>0.88 mm; 0.88 in</td>\n</tr>\n<tr> <td> <strong>Number Of Teeth</strong>\n</td>\n<td>28</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>26111807</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:18:10-06:00",
+  "created_at": "2025-01-23T09:18:09-06:00",
+  "updated_at": "2025-09-22T10:52:23-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Belts",
+    "Chains",
+    "Pulleys & Sprockets"
+  ],
+  "variants": [
+    {
+      "id": 46498004402343,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05071832",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "6.64",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452531716263,
+      "created_at": "2025-01-23T09:18:09-06:00",
+      "updated_at": "2025-09-22T10:52:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242297512103,
+      "created_at": "2025-02-03T21:26:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:26:55-06:00",
+      "product_id": 8452531716263,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0426080-11_2e1dd174-6d33-4290-a102-819b489d6508.jpg?v=1738639615",
+      "width": 250,
+      "height": 188
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 6.64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0426080-11_2e1dd174-6d33-4290-a102-819b489d6508.jpg?v=1738639615",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

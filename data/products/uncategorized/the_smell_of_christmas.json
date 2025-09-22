@@ -1,0 +1,116 @@
+{
+  "id": 7092469661805,
+  "title": "The Smell of Christmas",
+  "handle": "the-smell-of-christmas",
+  "body_html": "<p>A captivating blend of <strong>orange peel</strong>, <strong>spices</strong>, and woody <strong>cinnamon</strong> sweetness creates a scent that can only be described as Christmas.</p>",
+  "published_at": "2023-10-11T10:19:37-06:00",
+  "created_at": "2023-09-27T15:37:40-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Aromatique",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Aromatique",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40735766642797,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TSCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7092469661805,
+      "created_at": "2023-09-27T15:37:41-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30523873624173,
+      "created_at": "2023-09-27T15:40:30-06:00",
+      "position": 1,
+      "updated_at": "2023-09-27T15:40:42-06:00",
+      "product_id": 7092469661805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AromatiqueSmellofChristmas-resized.jpg?v=1695850842",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30523873689709,
+      "created_at": "2023-09-27T15:40:30-06:00",
+      "position": 2,
+      "updated_at": "2023-09-27T15:40:42-06:00",
+      "product_id": 7092469661805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CLOVES-RESIZED_a06f63ab-7000-4690-a2ca-be04ff1d5049.jpg?v=1695850842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30523873558637,
+      "created_at": "2023-09-27T15:40:30-06:00",
+      "position": 3,
+      "updated_at": "2023-09-27T15:40:42-06:00",
+      "product_id": 7092469661805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-Smell-of-Christmas-device-resized-2.jpg?v=1695850842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30523873656941,
+      "created_at": "2023-09-27T15:40:30-06:00",
+      "position": 4,
+      "updated_at": "2023-09-27T15:40:42-06:00",
+      "product_id": 7092469661805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AromatiqueSmellofChristmas-resized-2.jpg?v=1695850842",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AromatiqueSmellofChristmas-resized.jpg?v=1695850842",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Aromatique",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785865674919,
+  "title": "Brand: Laird Plastics / Part #: 82537",
+  "handle": "cw8039955",
+  "body_html": "<br><strong>Item #: </strong>96178033<br><strong>Brand: </strong>Laird Plastics<br><strong>Model #: </strong>82537<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Polycarbonate</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/16</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>48</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Rockwell R-120</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>9000</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-40</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>240</td>\n</tr>\n<tr>\n<td><strong>Width (Feet)</strong></td>\n<td>4.00</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Film Masking</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>48.0000</td>\n</tr>\n<tr>\n<td><strong>Length Ft.</strong></td>\n<td>4.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:57:23-06:00",
+  "created_at": "2023-12-29T04:57:23-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Laird Plastics",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43705684263079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96178033",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.36",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785865674919,
+      "created_at": "2023-12-29T04:57:23-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237446766759,
+      "created_at": "2025-02-03T18:16:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:25-06:00",
+      "product_id": 7785865674919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9617766-21_2c6f8881-e402-402e-b640-065ce4fccf0a.jpg?v=1738628185",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.36,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9617766-21_2c6f8881-e402-402e-b640-065ce4fccf0a.jpg?v=1738628185",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Laird Plastics",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

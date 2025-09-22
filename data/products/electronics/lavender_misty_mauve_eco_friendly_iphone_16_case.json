@@ -1,0 +1,131 @@
+{
+  "id": 8412209184856,
+  "title": "Lavender Misty Mauve iPhone 16 Case",
+  "handle": "lavender-misty-mauve-eco-friendly-iphone-16-case",
+  "body_html": "<p data-start=\"0\" data-end=\"156\">Step into a pastel daydream with the Misty Mauve Phone Case — a soft, whimsical wonderland of lavender fields, rolling hills, and blooming florals. 💜🌸</p>\n<p data-start=\"158\" data-end=\"399\">This case is basically a breath of fresh air for your phone, with dreamy hues and gentle textures that say, “I’m chill, but make it magical.” Whether you’re a sunset chaser or a flower field wanderer, Misty Mauve is your new favorite vibe.</p>\n<p data-start=\"401\" data-end=\"439\" data-is-last-node=\"\" data-is-only-node=\"\">Soft on the eyes, strong on style.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-17T07:12:32-04:00",
+  "created_at": "2025-06-24T10:29:19-04:00",
+  "updated_at": "2025-09-22T15:13:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Colorful Landscapes",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Misty Mauve",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43010179694680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17242-IP16-LAV-AOD:MISTY-MAUVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8412209184856,
+      "created_at": "2025-06-24T10:29:19-04:00",
+      "updated_at": "2025-09-22T15:13:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35288027168856,
+      "created_at": "2025-06-24T10:29:19-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T10:29:21-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MISTY-MAUVE_IP16_Lavender.jpg?v=1750775361",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35404853772376,
+      "created_at": "2025-07-11T13:40:49-04:00",
+      "position": 2,
+      "updated_at": "2025-07-11T13:40:49-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/809f92fe9ba2e86f785b1d5a17e21543_620bf989-8e60-4691-a3c7-97c18ae7e001.jpg?v=1752255649",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35404854231128,
+      "created_at": "2025-07-11T13:40:50-04:00",
+      "position": 3,
+      "updated_at": "2025-07-11T13:40:50-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/136fca46ae700824ea29d26b6a68eeee_1cb894c2-2db3-4263-90b1-b4526dfb6ac7.jpg?v=1752255650",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35404854689880,
+      "created_at": "2025-07-11T13:40:52-04:00",
+      "position": 4,
+      "updated_at": "2025-07-11T13:40:52-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/db9fece82eeade971ad3229116663126_79356b48-5faa-41b8-8331-3a0307b5a48e.jpg?v=1752255652",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35404855050328,
+      "created_at": "2025-07-11T13:40:53-04:00",
+      "position": 5,
+      "updated_at": "2025-07-11T13:40:53-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8cb3e29477979a97007f48476adfa3e9_06b71770-0e4e-48ab-8bf6-84fd3b6e744f.jpg?v=1752255653",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35404855541848,
+      "created_at": "2025-07-11T13:40:55-04:00",
+      "position": 6,
+      "updated_at": "2025-07-11T13:40:55-04:00",
+      "product_id": 8412209184856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/5ecdec405f771bc07f5ab34e293776f3_e6654157-8408-4651-bad3-96129fb9731a.jpg?v=1752255655",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MISTY-MAUVE_IP16_Lavender.jpg?v=1750775361",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

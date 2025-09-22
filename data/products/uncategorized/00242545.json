@@ -1,0 +1,67 @@
+{
+  "id": 8452507926695,
+  "title": "Gravity Conveyors; Conveyor Type: Skate Wheel; Component: Flexible Skate Wheel Conveyor; Telescopic: Yes; Overall Width: 28; Roller Diameter: 1.9000; Minimum Extended Length: 8.1 ft; Maximum Extended Length: 32.5000; Minimum Height (Inch): 28.0000",
+  "handle": "00242545",
+  "body_html": "<br><strong>Item #: </strong>03315603<br><strong>Brand: </strong>Ashland Conveyor<br><strong>Model #: </strong>70165<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Conveyor Type</strong>\n</td>\n<td>Skate Wheel</td>\n</tr>\n<tr> <td> <strong>Component</strong>\n</td>\n<td>Flexible Skate Wheel Conveyor</td>\n</tr>\n<tr> <td> <strong>Telescopic</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Overall Width</strong>\n</td>\n<td>28</td>\n</tr>\n<tr> <td> <strong>Roller Diameter</strong>\n</td>\n<td>1.9000</td>\n</tr>\n<tr> <td> <strong>Minimum Extended Length</strong>\n</td>\n<td>8.1 ft</td>\n</tr>\n<tr> <td> <strong>Maximum Extended Length</strong>\n</td>\n<td>32.5000</td>\n</tr>\n<tr> <td> <strong>Minimum Height (Inch)</strong>\n</td>\n<td>28.0000</td>\n</tr>\n<tr> <td> <strong>Maximum Height</strong>\n</td>\n<td>43 in</td>\n</tr>\n<tr> <td> <strong>Load Capacity</strong>\n</td>\n<td>300</td>\n</tr>\n<tr> <td> <strong>Wheel Material</strong>\n</td>\n<td>HDPE</td>\n</tr>\n<tr> <td> <strong>Frame Material</strong>\n</td>\n<td>Galvanized Steel</td>\n</tr>\n<tr> <td> <strong>Duty Rating</strong>\n</td>\n<td>Heavy-Duty</td>\n</tr>\n<tr> <td> <strong>Portable</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Additional Information</strong>\n</td>\n<td>Capacity: 300 Lb per ft</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24101700</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:46:00-06:00",
+  "created_at": "2025-01-23T08:45:59-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Ashland Conveyor",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 46497891713191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "03315603",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9095.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452507926695,
+      "created_at": "2025-01-23T08:45:59-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241587134631,
+      "created_at": "2025-02-03T21:02:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:02:20-06:00",
+      "product_id": 8452507926695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0331561-21_24fcb5fa-4a4f-4564-aea6-909faf298de7.jpg?v=1738638140",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9095.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0331561-21_24fcb5fa-4a4f-4564-aea6-909faf298de7.jpg?v=1738638140",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ashland Conveyor",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

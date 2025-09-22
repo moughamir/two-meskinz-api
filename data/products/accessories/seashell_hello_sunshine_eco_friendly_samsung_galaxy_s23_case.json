@@ -1,0 +1,119 @@
+{
+  "id": 8388536500312,
+  "title": "Seashell Hello Sunshine Samsung Galaxy S23 Case",
+  "handle": "seashell-hello-sunshine-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say “ciao” to gloomy days—the Hello Sunshine Phone Case is here to turn up the brightness! Packed with cheerful palms, juicy fruits, and a whole lotta sunshine, this design brings Mediterranean vibes to your fingertips. It’s bold, it’s artsy, and it’s basically a summer vacation wrapped around your phone. ☀️🍊🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:09:49-04:00",
+  "created_at": "2025-05-30T12:37:40-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hello Sunshine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918167183448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:HELLO-SUNSHINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388536500312,
+      "created_at": "2025-05-30T12:37:40-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125639315544,
+      "created_at": "2025-05-30T12:37:40-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:42-04:00",
+      "product_id": 8388536500312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_S23_Seashell.jpg?v=1748623062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195868020824,
+      "created_at": "2025-06-09T17:11:03-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:11:03-04:00",
+      "product_id": 8388536500312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9f5e2a335630ed39413bd8190a2e378_0b1972c8-8e7b-4f86-be45-bdc171d9ee37.jpg?v=1749503463",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195868217432,
+      "created_at": "2025-06-09T17:11:05-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:11:05-04:00",
+      "product_id": 8388536500312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3bf30d5079dea0f88344305643166d7b_6a1c4856-e55e-43b7-a7d3-f3899cd005b8.jpg?v=1749503465",
+      "width": 4422,
+      "height": 4422
+    },
+    {
+      "id": 35195868414040,
+      "created_at": "2025-06-09T17:11:07-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:11:07-04:00",
+      "product_id": 8388536500312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/25a66dfb68f98606ad73f85050450769_0c9f5184-57eb-4578-83d5-1ef4576e4763.jpg?v=1749503467",
+      "width": 4047,
+      "height": 4047
+    },
+    {
+      "id": 35195868545112,
+      "created_at": "2025-06-09T17:11:09-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:11:09-04:00",
+      "product_id": 8388536500312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_0033d715-55dd-4459-b1a8-4c6215ea5690.jpg?v=1749503469",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_S23_Seashell.jpg?v=1748623062",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

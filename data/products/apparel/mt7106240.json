@@ -1,0 +1,67 @@
+{
+  "id": 7786456285351,
+  "title": "Brand: Widia / Part #: 4169688",
+  "handle": "mt7106240",
+  "body_html": "<br><strong>Item #: </strong>93315158<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>4169688<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>WMTC</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>030R</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>WU25PT</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (Decimal Inch)</strong></td>\n<td>0.1180</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (mm)</strong></td>\n<td>3.000</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Lead Angle Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Lead Angle</strong></td>\n<td>12.000</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>5.000</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.17</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0070</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>CM</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Cutting Tool Application</strong></td>\n<td>Cut-Off</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>WMTC</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Super-alloys &amp; Titanium</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>S</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material Code</strong></td>\n<td>P; K; M; N</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>WMTC030R12CM17</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>WMTC030R12CM17</td>\n</tr>\n<tr>\n<td><strong>Cutting Height (Decimal Inch)</strong></td>\n<td>0.1850</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>WMTC030R12CM17</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Insert Width (Decimal Inch)</strong></td>\n<td>0.0940</td>\n</tr>\n<tr>\n<td><strong>Overall Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1180</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Single Or Double End</strong></td>\n<td>Double</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:31:15-06:00",
+  "created_at": "2023-12-30T02:31:15-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43708108505255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "93315158",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.46",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786456285351,
+      "created_at": "2023-12-30T02:31:15-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238743265447,
+      "created_at": "2025-02-03T19:02:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:02:42-06:00",
+      "product_id": 7786456285351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9331956-21_987f5da7-aded-48d5-bd54-c2ff087cc2ca.jpg?v=1738630962",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.46,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9331956-21_987f5da7-aded-48d5-bd54-c2ff087cc2ca.jpg?v=1738630962",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

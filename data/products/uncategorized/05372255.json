@@ -1,0 +1,67 @@
+{
+  "id": 8452559175847,
+  "title": "Horizontal Locker: Latch",
+  "handle": "05372255",
+  "body_html": "<br><strong>Item #: </strong>07090046<br><strong>Brand: </strong>Hallowell<br><strong>Model #: </strong>U1282-3MR<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Locker Style</strong>\n</td>\n<td>Horizontal</td>\n</tr>\n<tr> <td> <strong>Locker Configuration</strong>\n</td>\n<td>1-Wide</td>\n</tr>\n<tr> <td> <strong>Assembled</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Shelf Capacity</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>Handle Type</strong>\n</td>\n<td>Recessed</td>\n</tr>\n<tr> <td> <strong>Locker Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Locking Mechanism</strong>\n</td>\n<td>Latch</td>\n</tr>\n<tr> <td> <strong>Body Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Outdoor Usage</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Number Of Lockers</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Number Of Tiers</strong>\n</td>\n<td>3.000</td>\n</tr>\n<tr> <td> <strong>Legs Included</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Locker Door Type</strong>\n</td>\n<td>Louvered</td>\n</tr>\n<tr> <td> <strong>Number Of Openings</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Number Of Locks</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Black Frame and Body / Relay Red Door</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Powder Coated</td>\n</tr>\n<tr> <td> <strong>Number Of Doors</strong>\n</td>\n<td>3.000</td>\n</tr>\n<tr> <td> <strong>Number Of Shelves</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>56101520</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:03:23-06:00",
+  "created_at": "2025-01-23T10:03:22-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Hallowell",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 46498087469223,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "07090046",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "303.15",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452559175847,
+      "created_at": "2025-01-23T10:03:22-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38243313385639,
+      "created_at": "2025-02-03T22:00:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:00:12-06:00",
+      "product_id": 8452559175847,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0709004-21.jpg?v=1738641612",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 303.15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0709004-21.jpg?v=1738641612",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Hallowell",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

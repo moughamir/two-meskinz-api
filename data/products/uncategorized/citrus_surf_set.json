@@ -1,0 +1,92 @@
+{
+  "id": 7075298377837,
+  "title": "Citrus Surf Set",
+  "handle": "citrus-surf-set",
+  "body_html": "<p>This set includes two signature scents, Capri Blue’s Volcano and Pura’s Linens &amp; Surf, and a Pura 4 smart fragrance diffuser.</p>\n<p class=\"p1\"><br></p>",
+  "published_at": "2023-12-04T21:38:47-07:00",
+  "created_at": "2023-09-05T14:07:49-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Box",
+  "tags": [
+    "900-00761",
+    "Brand:Capri Blue",
+    "Brand:Pura",
+    "collection:Citrus",
+    "Group_Home",
+    "Pura 4",
+    "Scent Type_Citrus",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Scent Type_Fruity",
+    "Strength_Medium",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_linenssurf"
+  ],
+  "variants": [
+    {
+      "id": 40720182181997,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.99",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7075298377837,
+      "created_at": "2023-09-05T14:07:50-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30436368253037,
+      "created_at": "2023-09-05T14:16:15-06:00",
+      "position": 1,
+      "updated_at": "2023-09-05T14:16:17-06:00",
+      "product_id": 7075298377837,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linens-and-surf-volcano-prod-1-resized.jpg?v=1693944977",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30436368285805,
+      "created_at": "2023-09-05T14:16:15-06:00",
+      "position": 2,
+      "updated_at": "2023-09-05T14:16:17-06:00",
+      "product_id": 7075298377837,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linens-and-surf-volcano-prod-2-resized.jpg?v=1693944977",
+      "width": 2400,
+      "height": 3199
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linens-and-surf-volcano-prod-1-resized.jpg?v=1693944977",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 8278277161048,
+  "title": "Chocolate Brown Samsung S24+(Plus) Phone Case",
+  "handle": "chocolate-brown-samsung-s24-plus-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:16:44-05:00",
+  "created_at": "2025-02-04T10:23:13-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24+(Plus)",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642248269912,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13835-S24PLUS-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278277161048,
+      "created_at": "2025-02-04T10:23:13-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569312829528,
+      "created_at": "2025-02-20T10:52:05-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:52:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24PLUS_CHOCOLATE_BROWN_BACK_2aa6ace0-0ba4-4e22-8727-6c9f9af65d2e.jpg?v=1740066727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569312796760,
+      "created_at": "2025-02-20T10:52:06-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:52:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24PLUS_CHOCOLATE_BROWN_BACK45L_26587ce9-6d15-4031-acaf-6531e550f65d.jpg?v=1740066727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569312763992,
+      "created_at": "2025-02-20T10:52:06-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:52:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24PLUS_CHOCOLATE_BROWN_BACK45R_e6f30217-ffd8-4664-8f1f-617cfa17de4c.jpg?v=1740066727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569422700632,
+      "created_at": "2025-02-20T11:07:06-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:07:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_224ea468-26ab-496b-a429-9fc63396c52e.jpg?v=1740067627",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569422667864,
+      "created_at": "2025-02-20T11:07:06-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:07:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_2acc6031-bd5c-4f33-989a-be00a53d3fa1.jpg?v=1740067627",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569422635096,
+      "created_at": "2025-02-20T11:07:06-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:07:07-05:00",
+      "product_id": 8278277161048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_2a066c44-4c86-43a2-ae42-98348ab3a9fa.jpg?v=1740067627",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24PLUS_CHOCOLATE_BROWN_BACK_2aa6ace0-0ba4-4e22-8727-6c9f9af65d2e.jpg?v=1740066727",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

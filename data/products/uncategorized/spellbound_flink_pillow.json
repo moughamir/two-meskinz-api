@@ -1,0 +1,89 @@
+{
+  "id": 7881104556079,
+  "title": "Spellbound Flink Pillow",
+  "handle": "spellbound-flink-pillow",
+  "body_html": "<p>Add a touch of cuteness to your home with the <em>Spellbound </em>Flink Pillow! Featuring an image of Flink this pillow adds both comfort and charm to any room. Inspired by the fuzzy friend, this pillow is perfect for those who love to infuse their space with a touch of magic.</p><ul>\n<li>100% soft polyester</li>\n<li>Thickness 3\"–5\" (7.6–12.7 cm)</li>\n<li>Sealed without zipper</li>\n<li>Spot wash with warm water</li>\n</ul>",
+  "published_at": "2024-12-09T12:06:32-05:00",
+  "created_at": "2024-12-03T10:18:55-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Pillows",
+  "tags": [
+    "81745658",
+    "CSP",
+    "Home & Office",
+    "home and office",
+    "Kid's",
+    "Kids and Babies",
+    "Kids and Children",
+    "kids and family",
+    "Pillows",
+    "Spellbound",
+    "unisex",
+    "us only"
+  ],
+  "variants": [
+    {
+      "id": 43446765584431,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SPB-101791-0002-SPB-FLINK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7881104556079,
+      "created_at": "2024-12-03T10:18:55-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35112830533679,
+      "created_at": "2024-12-03T10:18:55-05:00",
+      "position": 1,
+      "updated_at": "2024-12-03T10:18:55-05:00",
+      "product_id": 7881104556079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-FLINK_44_101791_MF.jpg?v=1733239135",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35149458997295,
+      "created_at": "2024-12-09T12:06:19-05:00",
+      "position": 2,
+      "updated_at": "2024-12-09T12:06:20-05:00",
+      "product_id": 7881104556079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-FLINK_44_101791_LIFE.jpg?v=1733763980",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-FLINK_44_101791_MF.jpg?v=1733239135",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pillows",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

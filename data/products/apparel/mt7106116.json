@@ -1,0 +1,67 @@
+{
+  "id": 7786395893927,
+  "title": "Brand: AcuRite / Part #: 02059M",
+  "handle": "mt7106116",
+  "body_html": "<br><strong>Item #: </strong>67733691<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>02059M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thermometer Type</strong>\n</td>\n<td>Digital Thermometer</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature</strong></td>\n<td>-40</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>158 ?F; 70 ?C</td>\n</tr>\n<tr>\n<td><strong>Temperature Accuracy</strong></td>\n<td>+/- 2 F</td>\n</tr>\n<tr>\n<td><strong>Graduation</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Housing Material</strong></td>\n<td>Plastic</td>\n</tr>\n<tr>\n<td><strong>Lens Material</strong></td>\n<td>Glass</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Wall</td>\n</tr>\n<tr>\n<td><strong>Meter Type</strong></td>\n<td>Remote Reading; Direct Reading</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Wireless sensor transmits readings to display every 16 seconds; Includes 1 display with a built-in temperature sensor and 1 wireless sensor; Display powered by (3) AAA batteries (not included); Monitor indoor/outdoor temperature in up to 4 different areas (add-on sensors sold separately)</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:42:28-06:00",
+  "created_at": "2023-12-29T22:42:28-06:00",
+  "updated_at": "2025-09-22T10:53:28-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Pressure & Temperature Measuring Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43707713618087,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67733691",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.29",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786395893927,
+      "created_at": "2023-12-29T22:42:28-06:00",
+      "updated_at": "2025-09-22T10:53:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238539776167,
+      "created_at": "2025-02-03T18:53:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:53:43-06:00",
+      "product_id": 7786395893927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773369-21.jpg?v=1738630423",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.29,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773369-21.jpg?v=1738630423",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444685779032,
+  "title": "Bubblegum Pink Swan Garden iPhone 17 Pro Max Case",
+  "handle": "bubblegum-pink-swan-garden-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Float into romance with the Swan Garden Phone Case, part of our dreamy Amour Collection. Featuring elegant swans tied with dainty bows and surrounded by delicate blossoms, this case is pure fairy-tale magic. <meta charset=\"utf-8\">🦢💗</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:12:58-04:00",
+  "created_at": "2025-08-08T11:50:39-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Swan Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184116891736,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:SWAN-GARDEN_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444685779032,
+      "created_at": "2025-09-03T18:28:18-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184116924504,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:SWAN-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444685779032,
+      "created_at": "2025-09-03T18:28:18-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567258959960,
+      "created_at": "2025-08-08T11:50:39-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:41-04:00",
+      "product_id": 8444685779032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_IP17PMAX_BubblegumPink.jpg?v=1754668241",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683522842712,
+      "created_at": "2025-03-13T10:02:44-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:02:46-04:00",
+      "product_id": 8444685779032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP2_ac229a77-aa98-4556-a156-ca5e06d5c0ad.jpg?v=1741874566",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683522875480,
+      "created_at": "2025-03-13T10:02:44-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:02:46-04:00",
+      "product_id": 8444685779032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP3_e010633d-6dd0-49f7-8970-43596646345a.jpg?v=1741874566",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683522809944,
+      "created_at": "2025-03-13T10:02:44-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:02:45-04:00",
+      "product_id": 8444685779032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP1_ded08acb-4c44-4cd8-86ea-ab1345d1ce92.jpg?v=1741874565",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_IP17PMAX_BubblegumPink.jpg?v=1754668241",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

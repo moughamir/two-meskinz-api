@@ -1,0 +1,97 @@
+{
+  "id": 7369018179672,
+  "title": "Seashell Hidden Tigers Google Pixel 7a Case",
+  "handle": "seashell-hidden-tigers-eco-friendly-google-pixel-7a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Let your style roar with the Pela Hidden Tigers Phone Case, where strokes of wild elegance meet modern flair.  <meta charset=\"utf-8\">It’s where protection meets the pinnacle of nature-inspired fashion, making your phone a fearless companion both in the urban jungle and in the wild. Carry a piece of the wilderness with you and let these hidden tigers turn your day into an adventure with just the right amount of pounce! 🐅✨🌸</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-27T09:10:09-04:00",
+  "created_at": "2023-07-17T11:20:13-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7a",
+  "tags": [
+    "art-type:Print",
+    "collection:International Tiger Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hidden Tigers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40246550298712,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14910-PX7a-SEASHELL-AOD:HIDDEN-TIGERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7369018179672,
+      "created_at": "2023-07-17T11:20:13-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30320956276824,
+      "created_at": "2023-07-17T11:20:13-04:00",
+      "position": 1,
+      "updated_at": "2023-07-17T11:20:13-04:00",
+      "product_id": 7369018179672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_PX7A_Seashell.jpg?v=1689607213",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30329120686168,
+      "created_at": "2023-07-25T15:39:53-04:00",
+      "position": 2,
+      "updated_at": "2023-07-25T15:39:55-04:00",
+      "product_id": 7369018179672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0940_ffbbcf92-85b9-4f02-ab82-c3b82057fb4b.jpg?v=1690313995",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30321101570136,
+      "created_at": "2023-07-17T12:53:02-04:00",
+      "position": 3,
+      "updated_at": "2023-07-25T15:39:55-04:00",
+      "product_id": 7369018179672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/InternationalTigerDayv2_94796c73-89e0-4aba-a47b-5a367cad131f.png?v=1690313995",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_PX7A_Seashell.jpg?v=1689607213",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

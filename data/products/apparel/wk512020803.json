@@ -1,0 +1,67 @@
+{
+  "id": 7786222616743,
+  "title": "Brand: Velcro Brand / Part #: 31085",
+  "handle": "wk512020803",
+  "body_html": "<br><strong>Item #: </strong>16427478<br><strong>Brand: </strong>Velcro?Brand<br><strong>Model #: </strong>31085<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cable Tie Type</strong>\n</td>\n<td>Reusable</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>75.00 ft</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength</strong></td>\n<td>100 lb</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T14:46:24-06:00",
+  "created_at": "2023-12-29T14:46:24-06:00",
+  "updated_at": "2025-09-22T10:53:55-05:00",
+  "vendor": "Velcro Brand",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Wire Management"
+  ],
+  "variants": [
+    {
+      "id": 43707266433191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16427478",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "46.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786222616743,
+      "created_at": "2023-12-29T14:46:24-06:00",
+      "updated_at": "2025-09-22T10:53:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238114513063,
+      "created_at": "2025-02-03T18:36:43-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:36:45-06:00",
+      "product_id": 7786222616743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9658760-21_a791d71c-e8da-4ca6-bf47-d7f2fe9009bc.jpg?v=1738629405",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9658760-21_a791d71c-e8da-4ca6-bf47-d7f2fe9009bc.jpg?v=1738629405",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Velcro Brand",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8254917345368,
+  "title": "London Fog Vintage Gallop Samsung Galaxy S25+(Plus) Case",
+  "handle": "london-fog-vintage-gallop-eco-friendly-samsung-galaxy-s25-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step back in time with the Vintage Gallop Phone Case by Pela! This timeless design features elegant sketches of horses in various poses, evoking a sense of classic equestrian charm. Perfect for horse lovers and vintage enthusiasts alike, this case not only protects your phone but also adds a touch of historical grace to your everyday style. Trot through your day with a dash of nostalgia and sophistication with the Vintage Gallop Phone Case! 🐴📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:11:35-05:00",
+  "created_at": "2025-01-15T10:45:02-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Vintage Gallop",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567768604760,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13931-S25PLUS-LFOG-AOD:VINTAGE-GALLOP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254917345368,
+      "created_at": "2025-01-15T10:45:02-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303310004312,
+      "created_at": "2025-01-15T10:45:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:45:04-05:00",
+      "product_id": 8254917345368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-GALLOP_S25PLUS_LondonFog.jpg?v=1736955904",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678216163416,
+      "created_at": "2025-03-12T14:49:17-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T14:49:19-04:00",
+      "product_id": 8254917345368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGEGALLOP_LFOG-2_732f8652-4bd3-4b72-80a9-16c8b2ee858a.jpg?v=1741805359",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678216196184,
+      "created_at": "2025-03-12T14:49:18-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T14:49:19-04:00",
+      "product_id": 8254917345368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGEGALLOP_LFOG-1_ea6dddd3-0840-4d3c-89c8-0efc93b95901.jpg?v=1741805359",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-GALLOP_S25PLUS_LondonFog.jpg?v=1736955904",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

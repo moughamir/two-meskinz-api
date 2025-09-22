@@ -1,0 +1,67 @@
+{
+  "id": 7785820455079,
+  "title": "Brand: Panduit / Part #: GPL-5-Q",
+  "handle": "cw8029425",
+  "body_html": "<br><strong>Item #: </strong>66847880<br><strong>Brand: </strong>Panduit<br><strong>Model #: </strong>GPL-5-Q<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Clamp Type</strong>\n</td>\n<td>Grounding Clamp</td>\n</tr>\n<tr>\n<td><strong>Compatible Wire Size (AWG)</strong></td>\n<td>4-2/0</td>\n</tr>\n<tr>\n<td><strong>Overall Clamp Length</strong></td>\n<td>2 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2 in</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>Standards Met</strong></td>\n<td>DB Rated; cULus Listed 467</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:26:53-06:00",
+  "created_at": "2023-12-29T03:26:53-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Panduit",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Conduits; Ducts & Routing"
+  ],
+  "variants": [
+    {
+      "id": 43705592152231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "66847880",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "73.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785820455079,
+      "created_at": "2023-12-29T03:26:53-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237349118119,
+      "created_at": "2025-02-03T18:12:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:59-06:00",
+      "product_id": 7785820455079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6682939-21_cc8afdb5-cd38-4101-a85b-c7e80d89b836.jpg?v=1738627979",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 73.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6682939-21_cc8afdb5-cd38-4101-a85b-c7e80d89b836.jpg?v=1738627979",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Panduit",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

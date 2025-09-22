@@ -1,0 +1,120 @@
+{
+  "id": 8216569249880,
+  "title": "Bubblegum Pink XOXO iPhone 16 Pro Max Case",
+  "handle": "bubblegum-pink-xoxo-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Pucker up for style with the XOXO Phone Case from our <em>Amour Collection</em>! Covered in bold red and pink lips, this case is the ultimate love note for your phone. Playful, flirty, and irresistibly cute, it’s perfect for spreading kisses and good vibes everywhere you go. <meta charset=\"utf-8\">💋❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:16:51-05:00",
+  "created_at": "2024-12-16T10:52:38-05:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:XOXO",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469061951576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17326-IP16PMAX-BUBPINK-AOD:XOXO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216569249880,
+      "created_at": "2024-12-16T10:52:38-05:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130699386968,
+      "created_at": "2024-12-16T10:52:38-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:40-05:00",
+      "product_id": 8216569249880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_IP16PMAX_BubblegumPink.jpg?v=1734364360",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34214800392280,
+      "created_at": "2025-01-03T10:22:54-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T10:22:56-05:00",
+      "product_id": 8216569249880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP1_2c797bbb-1982-483b-8c1f-ee8aa87cc855.jpg?v=1735917776",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214800425048,
+      "created_at": "2025-01-03T10:22:54-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T10:22:56-05:00",
+      "product_id": 8216569249880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP2_f8b89a3c-863f-4800-90dd-7df73f6d9247.jpg?v=1735917776",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214800326744,
+      "created_at": "2025-01-03T10:22:54-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T10:22:56-05:00",
+      "product_id": 8216569249880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP3_4aba0ff1-82d4-4bb0-884a-dbeb0f73dd16.jpg?v=1735917776",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214800359512,
+      "created_at": "2025-01-03T10:22:54-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T10:22:56-05:00",
+      "product_id": 8216569249880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP4_23d90bfc-682d-4b92-b2df-322d75dfb0b7.jpg?v=1735917776",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_IP16PMAX_BubblegumPink.jpg?v=1734364360",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

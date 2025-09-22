@@ -1,0 +1,113 @@
+{
+  "id": 7051707744365,
+  "title": "Jungle Bloom",
+  "handle": "jungle-bloom",
+  "body_html": "<p>Get whisked away to a dense, dewy jungle full of exotic florals and greens with a blend of <strong>palm leaf</strong>, <strong>water lily</strong>, <strong>mango wood</strong>, and <strong>lichen</strong>.</p>",
+  "published_at": "2023-08-14T19:50:44-06:00",
+  "created_at": "2023-08-09T16:19:38-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_junglebloom"
+  ],
+  "variants": [
+    {
+      "id": 40702260084845,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JBLH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707744365,
+      "created_at": "2023-08-09T16:19:38-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977018101869,
+      "created_at": "2024-01-07T14:37:30-07:00",
+      "position": 1,
+      "updated_at": "2024-01-07T14:37:41-07:00",
+      "product_id": 7051707744365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-JungleBloom-Vertical-Resized.jpg?v=1704663461",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30977018167405,
+      "created_at": "2024-01-07T14:37:30-07:00",
+      "position": 2,
+      "updated_at": "2024-01-07T14:37:41-07:00",
+      "product_id": 7051707744365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/callalillyresized-2.jpg?v=1704663461",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30440384200813,
+      "created_at": "2023-09-08T12:11:52-06:00",
+      "position": 3,
+      "updated_at": "2024-01-07T14:37:41-07:00",
+      "product_id": 7051707744365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Jungle-Bloom-Device-V4.jpg?v=1704663461",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977018331245,
+      "created_at": "2024-01-07T14:37:30-07:00",
+      "position": 4,
+      "updated_at": "2024-01-07T14:37:41-07:00",
+      "product_id": 7051707744365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoJungleBloom2resized.jpg?v=1704663461",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-JungleBloom-Vertical-Resized.jpg?v=1704663461",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

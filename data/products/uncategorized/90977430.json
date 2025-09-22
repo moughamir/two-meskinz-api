@@ -1,0 +1,67 @@
+{
+  "id": 8452708794535,
+  "title": "Retaining Compound: 50 mL Bottle, Green",
+  "handle": "90977430",
+  "body_html": "<br><strong>Item #: </strong>77847390<br><strong>Brand: </strong>Permatex<br><strong>Model #: </strong>68050<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Container Size</strong>\n</td>\n<td>50 mL</td>\n</tr>\n<tr> <td> <strong>Strength</strong>\n</td>\n<td>High</td>\n</tr>\n<tr> <td> <strong>Container Size Range</strong>\n</td>\n<td>1 to 15.9 oz</td>\n</tr>\n<tr> <td> <strong>Container Type</strong>\n</td>\n<td>Bottle</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Green</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>680</td>\n</tr>\n<tr> <td> <strong>Series Part Number</strong>\n</td>\n<td>68050</td>\n</tr>\n<tr> <td> <strong>Fixture Time</strong>\n</td>\n<td>10 min</td>\n</tr>\n<tr> <td> <strong>Full Cure Time (Hours)</strong>\n</td>\n<td>24.00</td>\n</tr>\n<tr> <td> <strong>Shear Strength (psi)</strong>\n</td>\n<td>3800</td>\n</tr>\n<tr> <td> <strong>Minimum Operating Temperature F</strong>\n</td>\n<td>-65.00</td>\n</tr>\n<tr> <td> <strong>Minimum Operating Temperature C</strong>\n</td>\n<td>-53.89</td>\n</tr>\n<tr> <td> <strong>Maximum Operating Temperature C</strong>\n</td>\n<td>148.89</td>\n</tr>\n<tr> <td> <strong>Maximum Operating Temperature F</strong>\n</td>\n<td>300.00</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31201701</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>8040</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T15:29:34-06:00",
+  "created_at": "2025-01-23T15:29:33-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Permatex",
+  "product_type": "Tapes & Adhesives",
+  "tags": [
+    "Threadlockers & Retaining Compounds"
+  ],
+  "variants": [
+    {
+      "id": 46498591637671,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "77847390",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "103.91",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452708794535,
+      "created_at": "2025-01-23T15:29:33-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38250552557735,
+      "created_at": "2025-02-04T02:11:35-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:11:37-06:00",
+      "product_id": 8452708794535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7784739-11.jpg?v=1738656697",
+      "width": 251,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 103.91,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7784739-11.jpg?v=1738656697",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Permatex",
+  "category": "Tapes & Adhesives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

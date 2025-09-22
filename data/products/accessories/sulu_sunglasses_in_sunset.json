@@ -1,0 +1,117 @@
+{
+  "id": 6764888260696,
+  "title": "Sulu Sunglasses in Sunset",
+  "handle": "sulu-sunglasses-in-sunset",
+  "body_html": "<meta charset=\"utf-8\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Eyewear for People Who Care:<span data-mce-fragment=\"1\"> </span></span><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span><span data-mce-fragment=\"1\"> These sunglasses offer full UVA/UVB protection and is durable enough for anything you want to do outside. Sustainability has never looked this cool.</span>",
+  "published_at": "2025-05-08T09:12:29-04:00",
+  "created_at": "2021-09-21T12:27:05-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Sulu"
+  ],
+  "variants": [
+    {
+      "id": 39617072726104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40143-SULU-SUNSET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6764888260696,
+      "created_at": "2021-09-21T12:27:05-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28654064271448,
+      "created_at": "2021-09-21T13:40:02-04:00",
+      "position": 1,
+      "updated_at": "2021-09-21T13:40:04-04:00",
+      "product_id": 6764888260696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_PINK_1_1.jpg?v=1632246004",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654064205912,
+      "created_at": "2021-09-21T13:40:02-04:00",
+      "position": 2,
+      "updated_at": "2021-09-21T13:40:04-04:00",
+      "product_id": 6764888260696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_PINK_2_1.jpg?v=1632246004",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654064238680,
+      "created_at": "2021-09-21T13:40:02-04:00",
+      "position": 3,
+      "updated_at": "2021-09-21T13:40:04-04:00",
+      "product_id": 6764888260696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_PINK_3_1.jpg?v=1632246004",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654064336984,
+      "created_at": "2021-09-21T13:40:02-04:00",
+      "position": 4,
+      "updated_at": "2021-09-21T13:40:05-04:00",
+      "product_id": 6764888260696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_PINK_4_1.jpg?v=1632246005",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654064304216,
+      "created_at": "2021-09-21T13:40:02-04:00",
+      "position": 5,
+      "updated_at": "2021-09-21T13:40:04-04:00",
+      "product_id": 6764888260696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Sulu-Sunset-Pink-Aneta.jpg?v=1632246004",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_PINK_1_1.jpg?v=1632246004",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

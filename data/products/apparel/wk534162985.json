@@ -1,0 +1,67 @@
+{
+  "id": 7785422454951,
+  "title": "Brand: Widia / Part #: 6949806",
+  "handle": "wk534162985",
+  "body_html": "<br><strong>Item #: </strong>98037252<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6949806<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Internal or External</strong>\n</td>\n<td>External</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>0.4724</td>\n</tr>\n<tr>\n<td><strong>Hand of Holder</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Maximum Groove Width (Decimal Inch)</strong></td>\n<td>0.1575</td>\n</tr>\n<tr>\n<td><strong>Minimum Groove Width (Decimal Inch)</strong></td>\n<td>0.1575</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>WGCSM</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Compatible Insert Size Code</strong></td>\n<td>0400</td>\n</tr>\n<tr>\n<td><strong>Insert Compatibility</strong></td>\n<td>WG0400M04P04</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>4.8976</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>WGCSM</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Cutting Tool Application</strong></td>\n<td>Grooving; Facing; Cut-Off; Turning</td>\n</tr>\n<tr>\n<td><strong>Back of Bar to Cutting Edge (Decimal Inch)</strong></td>\n<td>1.0031</td>\n</tr>\n<tr>\n<td><strong>Head Height (mm)</strong></td>\n<td>33.900</td>\n</tr>\n<tr>\n<td><strong>Head Length (Decimal Inch)</strong></td>\n<td>1.1024</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Universal</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>4.0</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:36:44-06:00",
+  "created_at": "2023-12-28T20:36:44-06:00",
+  "updated_at": "2025-09-22T10:55:19-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 43703806820519,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98037252",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "94.92",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785422454951,
+      "created_at": "2023-12-28T20:36:45-06:00",
+      "updated_at": "2025-09-22T10:55:19-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236902654119,
+      "created_at": "2025-02-03T17:57:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:57:42-06:00",
+      "product_id": 7785422454951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9829440-21.jpg?v=1738627062",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 94.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9829440-21.jpg?v=1738627062",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 7133258907736,
+  "title": "Black Glow iPhone 12/ iPhone 12 Pro Case",
+  "handle": "black-glow-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T14:24:09-04:00",
+  "created_at": "2022-05-30T09:50:20-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39954052710488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16440-IP12-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7133258907736,
+      "created_at": "2022-05-30T09:50:20-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285609533528,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7133258907736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP12_Black_c1e7cac6-a890-40f8-a796-914807997161.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719792728,
+      "created_at": "2023-06-13T14:28:31-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:28:33-04:00",
+      "product_id": 7133258907736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_fce1b222-3bd2-4ca5-80fd-976509cd80dc.jpg?v=1686680913",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719825496,
+      "created_at": "2023-06-13T14:28:31-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:28:33-04:00",
+      "product_id": 7133258907736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_714e2d5a-2ac1-4e7a-8ad6-3ebccf70e04c.png?v=1686680913",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719759960,
+      "created_at": "2023-06-13T14:28:31-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:28:32-04:00",
+      "product_id": 7133258907736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_32b7ed56-a118-48cc-82d5-4652f208b6b3.png?v=1686680912",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP12_Black_c1e7cac6-a890-40f8-a796-914807997161.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

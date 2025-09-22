@@ -1,0 +1,67 @@
+{
+  "id": 8452648566951,
+  "title": "Multimedia Training Kit",
+  "handle": "66361239",
+  "body_html": "<br><strong>Item #: </strong>59673079<br><strong>Brand: </strong>Marcom<br><strong>Model #: </strong>V000280UEM<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Multimedia Training</td>\n</tr>\n<tr> <td> <strong>Topic</strong>\n</td>\n<td>Material Handling</td>\n</tr>\n<tr> <td> <strong>Language</strong>\n</td>\n<td>English</td>\n</tr>\n<tr> <td> <strong>Training Program Title</strong>\n</td>\n<td>Materials Handling Safety</td>\n</tr>\n<tr> <td> <strong>Media Format</strong>\n</td>\n<td>USB</td>\n</tr>\n<tr> <td> <strong>Run Time</strong>\n</td>\n<td>19 min</td>\n</tr>\n<tr> <td> <strong>Number of Courses</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>DVD Program; Binder</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>60106108</td>\n</tr>\n<tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Multimedia Training</td>\n</tr>\n<tr> <td> <strong>Topic</strong>\n</td>\n<td>Material Handling</td>\n</tr>\n<tr> <td> <strong>Language</strong>\n</td>\n<td>English</td>\n</tr>\n<tr> <td> <strong>Training Program Title</strong>\n</td>\n<td>Materials Handling Safety</td>\n</tr>\n<tr> <td> <strong>Media Format</strong>\n</td>\n<td>USB</td>\n</tr>\n<tr> <td> <strong>Run Time</strong>\n</td>\n<td>19 min</td>\n</tr>\n<tr> <td> <strong>Number of Courses</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>DVD Program; Binder</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>60106108</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>59673079</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>V000280UEM</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:16:20-06:00",
+  "created_at": "2025-01-23T13:16:19-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Marcom",
+  "product_type": "Safety",
+  "tags": [
+    "Safety Training Materials"
+  ],
+  "variants": [
+    {
+      "id": 46498386149543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "59673079",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "233.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452648566951,
+      "created_at": "2025-01-23T13:16:19-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38247643119783,
+      "created_at": "2025-02-04T00:21:12-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:21:13-06:00",
+      "product_id": 8452648566951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5967307-21.jpg?v=1738650073",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 233.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5967307-21.jpg?v=1738650073",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Marcom",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

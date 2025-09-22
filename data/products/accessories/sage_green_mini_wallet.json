@@ -1,0 +1,104 @@
+{
+  "id": 7714668249176,
+  "title": "Sage Green Mini Wallet",
+  "handle": "sage-green-mini-wallet",
+  "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Our minimalist Mini Wallet from Pela Case is a stylish yet sustainable way to keep track of your cards. Available in a variety of colors.</span></p>\n<ul>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">97.7mm x 66mm</span></li>\n</ul>",
+  "published_at": "2024-05-14T12:36:12-04:00",
+  "created_at": "2024-04-04T13:38:40-04:00",
+  "updated_at": "2025-09-22T15:16:09-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Mini Wallet",
+  "tags": [
+    "accessory",
+    "Mini Wallet",
+    "new accessory",
+    "Solid Color Mini Wallet"
+  ],
+  "variants": [
+    {
+      "id": 41355209211992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25623-CARDK-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 41,
+      "compare_at_price": "40.00",
+      "position": 1,
+      "product_id": 7714668249176,
+      "created_at": "2024-04-04T13:38:40-04:00",
+      "updated_at": "2025-09-22T15:16:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640215515224,
+      "created_at": "2024-04-16T14:33:27-04:00",
+      "position": 1,
+      "updated_at": "2024-04-23T11:22:40-04:00",
+      "product_id": 7714668249176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_SAGEGREEN_FRONT45R.jpg?v=1713885760",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640215547992,
+      "created_at": "2024-04-16T14:33:27-04:00",
+      "position": 2,
+      "updated_at": "2024-04-23T11:22:40-04:00",
+      "product_id": 7714668249176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_SAGEGREEN_FRONT.jpg?v=1713885760",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640215482456,
+      "created_at": "2024-04-16T14:33:27-04:00",
+      "position": 3,
+      "updated_at": "2024-04-23T11:22:40-04:00",
+      "product_id": 7714668249176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_SAGEGREEN_BACK.jpg?v=1713885760",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640215580760,
+      "created_at": "2024-04-16T14:33:27-04:00",
+      "position": 4,
+      "updated_at": "2024-04-23T11:22:40-04:00",
+      "product_id": 7714668249176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_SAGEGREEN_BACK45L.jpg?v=1713885760",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 40,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_SAGEGREEN_FRONT45R.jpg?v=1713885760",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Mini Wallet",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

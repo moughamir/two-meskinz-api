@@ -1,0 +1,118 @@
+{
+  "id": 7991924621359,
+  "title": "Stranger Things Hawkins High Beach Towel",
+  "handle": "stranger-things-hawkins-high-beach-towel",
+  "body_html": "<p>Make a splash and grab some sun (hopefully not Upside Down sun!) with the <em>Stranger Things</em> Hawkins High Beach Towel! Perfect for a day at the pool or the lake, this towel proudly displays the Hawkins High emblem. It's soft, absorbent, and ideal for drying off after a swim, or just laying out to catch some rays while you ponder the mysteries of the universe (and Hawkins, Indiana). Show off your school spirit even when you're relaxing.</p><ul>\n<li> Made of: 52% cotton, 48% polyester </li>\n<li>Made of terry fabric, making the towel more water-absorbent</li>\n<li>Machine wash cold with like colors at no more than 86ºF (30ºC). Don't use bleach and don't dry-clean. It's best to hang-dry, but tumble-drying can be used on a low cycle if necessary.</li>\n</ul>",
+  "published_at": "2025-07-10T13:39:34-04:00",
+  "created_at": "2025-06-24T13:10:15-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Towels",
+  "tags": [
+    "80057281",
+    "Beach Towel",
+    "Hawkins High",
+    "Home",
+    "Home and Office",
+    "Netflix",
+    "New",
+    "New Arrivals",
+    "series_id-80057281",
+    "Stranger Things",
+    "Sublimated Towel",
+    "Summer",
+    "Title: Stranger Things",
+    "Towels",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43902304223279,
+      "title": "30 in x 60 in",
+      "option1": "30 in x 60 in",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101502-0001-ST-HWTWL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36244080590895,
+        "product_id": 7991924621359,
+        "position": 1,
+        "created_at": "2025-06-24T13:10:26-04:00",
+        "updated_at": "2025-06-24T13:10:28-04:00",
+        "alt": "Stranger Things Hawkins High Beach Towel",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWTWL_ST-S-0725_101502_MF.png?v=1750785028",
+        "variant_ids": [
+          43902304223279
+        ]
+      },
+      "available": true,
+      "price": "42.95",
+      "grams": 231,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7991924621359,
+      "created_at": "2025-06-24T13:10:15-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36244080590895,
+      "created_at": "2025-06-24T13:10:26-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T13:10:28-04:00",
+      "product_id": 7991924621359,
+      "variant_ids": [
+        43902304223279
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWTWL_ST-S-0725_101502_MF.png?v=1750785028",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36356420632623,
+      "created_at": "2025-07-10T14:13:28-04:00",
+      "position": 2,
+      "updated_at": "2025-07-10T14:13:38-04:00",
+      "product_id": 7991924621359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_3_5544034f-ad65-4df3-9639-4c71371ecaa4.png?v=1752171218",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36356420599855,
+      "created_at": "2025-07-10T14:13:28-04:00",
+      "position": 3,
+      "updated_at": "2025-07-10T14:13:38-04:00",
+      "product_id": 7991924621359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_2_938cd278-bbcc-4fff-98b4-7e2e3b1c8659.png?v=1752171218",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "30 in x 60 in"
+      ]
+    }
+  ],
+  "price": 42.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWTWL_ST-S-0725_101502_MF.png?v=1750785028",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

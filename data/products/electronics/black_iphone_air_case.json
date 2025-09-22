@@ -1,0 +1,113 @@
+{
+  "id": 8424097120344,
+  "title": "Black iPhone Air Case",
+  "handle": "black-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-09-09T17:27:34-04:00",
+  "created_at": "2025-07-09T16:23:51-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "Classic",
+    "IP17 Series",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 43184092872792,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17535-IP17AIR-BLACK_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 36,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8424097120344,
+      "created_at": "2025-09-03T18:23:52-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184092905560,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17535-IP17AIR-BLACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 0,
+      "compare_at_price": "55.00",
+      "position": 2,
+      "product_id": 8424097120344,
+      "created_at": "2025-09-03T18:23:52-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35499740004440,
+      "created_at": "2025-07-29T13:29:54-04:00",
+      "position": 1,
+      "updated_at": "2025-07-29T13:30:00-04:00",
+      "product_id": 8424097120344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_BLACK_BACK.jpg?v=1753810200",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35499739938904,
+      "created_at": "2025-07-29T13:29:54-04:00",
+      "position": 2,
+      "updated_at": "2025-07-29T13:30:00-04:00",
+      "product_id": 8424097120344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_BLACK_BACK_45L.jpg?v=1753810200",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35499739971672,
+      "created_at": "2025-07-29T13:29:54-04:00",
+      "position": 3,
+      "updated_at": "2025-07-29T13:30:00-04:00",
+      "product_id": 8424097120344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_BLACK_BACK_45R.jpg?v=1753810200",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_BLACK_BACK.jpg?v=1753810200",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

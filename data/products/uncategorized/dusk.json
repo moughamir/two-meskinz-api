@@ -1,0 +1,117 @@
+{
+  "id": 7051706138733,
+  "title": "Dusk",
+  "handle": "dusk",
+  "body_html": "<p>Effortlessly intriguing and endlessly alluring, this fragrance combines exotic notes of <strong>Maracuya</strong>, fresh <strong>pepper</strong>, and sparkling <strong>pear</strong> with <strong>ylang ylang</strong>, <strong>mimosa</strong>, and creamy <strong>coconut</strong>.</p>",
+  "published_at": "2023-08-14T19:50:13-06:00",
+  "created_at": "2023-08-09T16:19:22-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Unify Co.",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Unify Co.",
+    "Group_Home",
+    "Scent Type_Amber",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_dusk"
+  ],
+  "variants": [
+    {
+      "id": 40702258577517,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DSKH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051706138733,
+      "created_at": "2023-08-09T16:19:22-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30974889230445,
+      "created_at": "2024-01-06T16:53:42-07:00",
+      "position": 1,
+      "updated_at": "2024-01-06T16:54:22-07:00",
+      "product_id": 7051706138733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/unifyduskresized.jpg?v=1704585262",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30974889328749,
+      "created_at": "2024-01-06T16:53:42-07:00",
+      "position": 2,
+      "updated_at": "2024-01-06T16:54:22-07:00",
+      "product_id": 7051706138733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pearresized-3_6f6b6374-5450-4744-b8ac-484ecf698ed4.jpg?v=1704585262",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30974889295981,
+      "created_at": "2024-01-06T16:53:42-07:00",
+      "position": 3,
+      "updated_at": "2024-01-06T16:53:45-07:00",
+      "product_id": 7051706138733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Unify-Dusk-Device-V4.jpg?v=1704585225",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30974889197677,
+      "created_at": "2024-01-06T16:53:42-07:00",
+      "position": 4,
+      "updated_at": "2024-01-06T16:53:44-07:00",
+      "product_id": 7051706138733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Unify-Dusk-Overhead-Shadow-Resized.jpg?v=1704585224",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/unifyduskresized.jpg?v=1704585262",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Unify Co.",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

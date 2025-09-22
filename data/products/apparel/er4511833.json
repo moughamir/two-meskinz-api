@@ -1,0 +1,67 @@
+{
+  "id": 7785360162983,
+  "title": "Brand: Widia / Part #: 2736236",
+  "handle": "er4511833",
+  "body_html": "<br><strong>Item #: </strong>83140616<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2736236<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Head Shape</strong>\n</td>\n<td>Cylinder Ball End; Ball; Cylinder; Cone; Egg; Cylinder with End Cut; Tree with Radius End; Inverted Taper; Tree with Pointed End</td>\n</tr>\n<tr>\n<td><strong>Tooth Style</strong></td>\n<td>Single; Diamond</td>\n</tr>\n<tr>\n<td><strong>Head Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (Decimal Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-7/8; 1-5/8; 1-7/16; 1-3/4; 1-1/2</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>SA-51; SF-51; SE-51; SG-51; SC-51; SD-51; SB-51; SM-51; SN-51</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>9</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:48:47-06:00",
+  "created_at": "2023-12-28T18:48:47-06:00",
+  "updated_at": "2025-09-22T10:55:34-05:00",
+  "vendor": "Widia",
+  "product_type": "Abrasives",
+  "tags": [
+    "Points & Burrs"
+  ],
+  "variants": [
+    {
+      "id": 43703674536103,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "83140616",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "101.76",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785360162983,
+      "created_at": "2023-12-28T18:48:47-06:00",
+      "updated_at": "2025-09-22T10:55:34-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236781904039,
+      "created_at": "2025-02-03T17:53:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:53:50-06:00",
+      "product_id": 7785360162983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8314112-21_884416a9-e6e6-42fd-92c2-c7e0a9d7b6ed.jpg?v=1738626830",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 101.76,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8314112-21_884416a9-e6e6-42fd-92c2-c7e0a9d7b6ed.jpg?v=1738626830",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

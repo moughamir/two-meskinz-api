@@ -1,0 +1,99 @@
+{
+  "id": 7881106260015,
+  "title": "Spellbound Choose Your Own Path Backpack",
+  "handle": "spellbound-choose-your-own-path-backpack",
+  "body_html": "<p>Show out in style while wearing the <em>Spellbound </em>Choose Your Own Path Backpack! Whether heading to school or exploring new adventures with Princess Elliana, the <em>Spellbound </em>Choose Your Own Path Backpack is the ideal companion for those ready to carve out their own journey.</p><ul>\n<li>This water-resistant backpack is perfect for all your daily needs including: a big inner pocket, a separate section for a 15'' laptop, a front pocket, and a hidden pocket at the back. </li>\n<li>Dimensions: H 16\"\" (42cm), W 12¼\" (31cm), D 3\"\" (10cm).</li>\n<li>Made Of: 100% polyester.</li>\n<li>Care: Machine wash cold with like colors and tumble dry low.</li>\n</ul>",
+  "published_at": "2024-12-03T13:59:23-05:00",
+  "created_at": "2024-12-03T10:24:53-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Backpacks",
+  "tags": [
+    "81745658",
+    "Accessories",
+    "AOP-Backpack",
+    "Backpack",
+    "Backpacks",
+    "Kid's",
+    "Kids and Babies",
+    "Kids and Children",
+    "kids and family",
+    "Spellbound",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43446770761775,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SPB-100633-0001-SPB-CPBP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7881106260015,
+      "created_at": "2024-12-03T10:24:53-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35112848523311,
+      "created_at": "2024-12-03T10:24:53-05:00",
+      "position": 1,
+      "updated_at": "2024-12-03T10:24:53-05:00",
+      "product_id": 7881106260015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPK-CPBP_44_100633_MF.jpg?v=1733239493",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35112848588847,
+      "created_at": "2024-12-03T10:24:53-05:00",
+      "position": 2,
+      "updated_at": "2024-12-03T10:24:53-05:00",
+      "product_id": 7881106260015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPK-CPBP_44_100633_LIFE.jpg?v=1733239493",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35112848556079,
+      "created_at": "2024-12-03T10:24:53-05:00",
+      "position": 3,
+      "updated_at": "2024-12-03T10:24:53-05:00",
+      "product_id": 7881106260015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPK-CPBP_44_100633_MF2.jpg?v=1733239493",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPK-CPBP_44_100633_MF.jpg?v=1733239493",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Backpacks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

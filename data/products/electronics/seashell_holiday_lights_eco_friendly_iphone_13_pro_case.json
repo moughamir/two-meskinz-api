@@ -1,0 +1,110 @@
+{
+  "id": 8164329128024,
+  "title": "Seashell Holiday Lights iPhone 13 Pro Case",
+  "handle": "seashell-holiday-lights-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p class=\"p1\">It’s time to brighten up the season with the Holiday Lights Phone Case! Twinkling with colorful strands of classic holiday lights, this case brings all the cozy, festive vibes right to your phone. Whether you’re decking the halls or untangling lights, this design will keep your phone glowing with holiday cheer. Made from sustainable materials, it’s not just merry—it’s earth-friendly too. Keep your phone protected and let your holiday spirit shine bright with this delightful holiday case! <b>🎄💡</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:12:41-04:00",
+  "created_at": "2024-10-21T14:39:02-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Holiday Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345504407640,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16761-IP13P-SEASHELL-AOD:HOLIDAY-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164329128024,
+      "created_at": "2024-10-21T14:39:03-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832660795480,
+      "created_at": "2024-10-21T14:39:03-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:39:04-04:00",
+      "product_id": 8164329128024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP13P_Seashell.jpg?v=1729535944",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880937103448,
+      "created_at": "2024-10-28T14:47:30-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:47:32-04:00",
+      "product_id": 8164329128024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP1_6b04559d-71f1-4cb6-89f9-80dcc5295aae.jpg?v=1730141252",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880937136216,
+      "created_at": "2024-10-28T14:47:30-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:47:32-04:00",
+      "product_id": 8164329128024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP2_7dc5902a-e314-4ff7-990a-98e0a0253aa3.jpg?v=1730141252",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880937037912,
+      "created_at": "2024-10-28T14:47:30-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:47:32-04:00",
+      "product_id": 8164329128024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP3_a451afbd-905d-43b0-ab64-69fb438da0a3.jpg?v=1730141252",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP13P_Seashell.jpg?v=1729535944",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

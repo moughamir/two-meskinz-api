@@ -1,0 +1,67 @@
+{
+  "id": 7786281435303,
+  "title": "Brand: USA Sealing / Part #: PS-NYLB-230",
+  "handle": "wc137349606",
+  "body_html": "<br><strong>Item #: </strong>98192792<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>PS-NYLB-230<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Nylon 6/6</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Opaque</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Performance Properties</strong></td>\n<td>Friction; Wear</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium Soft</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Rockwell M-85</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Square</td>\n</tr>\n<tr>\n<td><strong>Coefficient Of Friction</strong></td>\n<td>Slippery (0.25 - 0.50)</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>13000</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-20.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>210.000</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>UL 94 HB</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Standard</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:55:59-06:00",
+  "created_at": "2023-12-29T16:55:59-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43707412447399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98192792",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "42.09",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786281435303,
+      "created_at": "2023-12-29T16:55:59-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238231396519,
+      "created_at": "2025-02-03T18:41:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:41:06-06:00",
+      "product_id": 7786281435303,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9824420-21_369d0e8f-c28c-40ef-9a15-3b27ef34a376.jpg?v=1738629666",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 42.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9824420-21_369d0e8f-c28c-40ef-9a15-3b27ef34a376.jpg?v=1738629666",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

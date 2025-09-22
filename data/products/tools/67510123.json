@@ -1,0 +1,68 @@
+{
+  "id": 5250368209063,
+  "title": "Bit Screwdrivers; Type: 2 in 1; Tip Type: Flat, Phillips; Drive Size (TXT): 1/4",
+  "handle": "67510123",
+  "body_html": "<br><strong>Item #: </strong>02012490<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>807SXUSA<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>2 in 1</td>\n</tr>\n<tr> <td> <strong>Tip Type</strong>\n</td>\n<td>Flat; Phillips</td>\n</tr>\n<tr> <td> <strong>Drive Size (TXT)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Handle Type</strong>\n</td>\n<td>Ergonomic</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Satin Chrome</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>6.0000</td>\n</tr>\n<tr> <td> <strong>Handle Length (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>4.0000</td>\n</tr>\n<tr> <td> <strong>Handle Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Insulated</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Non-sparking</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Tether Style</strong>\n</td>\n<td>Not Tether Capable</td>\n</tr>\n<tr> <td> <strong>Magnetic</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Features</strong>\n</td>\n<td>? Perfect size for working in tight spaces and for hard to reach fasteners; ? Smooth and consistent reverse ratcheting mechanism; ? Tips are precision machined to fit precisely to fasteners</td>\n</tr>\n<tr> <td> <strong>Style</strong>\n</td>\n<td>Handheld</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Number Of Pieces</strong>\n</td>\n<td>1.000</td>\n</tr>\n<tr> <td> <strong>Blade Length (Decimal Inch)</strong>\n</td>\n<td>4.0000</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112814</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:26:48-06:00",
+  "created_at": "2020-05-28T09:01:33-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Bolts Screws & Cap Screws",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34489095979175,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02012490",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.46",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5250368209063,
+      "created_at": "2020-05-28T09:01:34-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241134084263,
+      "created_at": "2025-02-03T20:47:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:47:46-06:00",
+      "product_id": 5250368209063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0201249-21.jpg?v=1738637266",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.46,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0201249-21.jpg?v=1738637266",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

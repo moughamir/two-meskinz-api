@@ -1,0 +1,112 @@
+{
+  "id": 7758264467503,
+  "title": "Beverly Hills Cop: Axel F The Heat is Back On Mug",
+  "handle": "beverly-hills-cop-axel-f-the-heat-is-back-on-mug",
+  "body_html": "<p>Start your day with a jolt of 80s nostalgia with our Beverly Hills Cop: Axel F The Heat is Back On Mug. Inspired by the iconic soundtrack, this mug is a must-have for fans of Axel Foley's daring adventures. Whether sipping coffee or tea, let this mug remind you that the heat is always on when you've got Axel F on your side.</p><ul>\n<li>This sturdy mug is perfect for your morning coffee, afternoon tea, or whatever hot beverage you enjoy.</li>\n<li>Dimensions: height - 3.85\" (9.8 cm), diameter - 3.35\" (8.5 cm). </li>\n<li>Ceramic. </li>\n<li>Care: Dishwasher and microwave safe.</li>\n</ul>",
+  "published_at": "2024-07-03T16:05:00-04:00",
+  "created_at": "2024-07-03T09:56:10-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "81076856",
+    "Beverly Hills Cop Axel F",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "Promo Eligible Collection",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43062089285679,
+      "title": "White / 11 oz",
+      "option1": "White",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "BHCAR-100654-0001-BHC-HBO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7758264467503,
+      "created_at": "2024-07-03T09:56:11-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    },
+    {
+      "id": 43062089318447,
+      "title": "White / 15 oz",
+      "option1": "White",
+      "option2": "15 oz",
+      "option3": null,
+      "sku": "BHCAR-100654-0002-BHC-HBO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7758264467503,
+      "created_at": "2024-07-03T09:56:11-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34205104242735,
+      "created_at": "2024-07-03T14:01:57-04:00",
+      "position": 1,
+      "updated_at": "2024-07-03T14:01:58-04:00",
+      "product_id": 7758264467503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BHCMug1.png?v=1720029718",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34205104275503,
+      "created_at": "2024-07-03T14:01:57-04:00",
+      "position": 2,
+      "updated_at": "2024-07-03T14:01:58-04:00",
+      "product_id": 7758264467503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BHCMug2.png?v=1720029718",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz",
+        "15 oz"
+      ]
+    }
+  ],
+  "price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BHCMug1.png?v=1720029718",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786125754535,
+  "title": "Brand: OEM Tools / Part #: 27037",
+  "handle": "wk506128275",
+  "body_html": "<br><strong>Item #: </strong>87384624<br><strong>Brand: </strong>OEM Tools<br><strong>Model #: </strong>27037<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Front Hub Puller</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Alloy Steel</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>6.60</td>\n</tr>\n<tr>\n<td><strong>Length (mm)</strong></td>\n<td>6.60</td>\n</tr>\n<tr>\n<td><strong>Jaw Spread</strong></td>\n<td>5 in</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Heat Treated Pressure Screw For Toughness; Yoke &amp; Bolt are Threaded 5/8-18</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Most Domestic &amp; Import Vehicles</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:31:33-06:00",
+  "created_at": "2023-12-29T10:31:33-06:00",
+  "updated_at": "2025-09-22T10:54:05-05:00",
+  "vendor": "OEM Tools",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Tools & Repair Parts"
+  ],
+  "variants": [
+    {
+      "id": 43707023786151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87384624",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "54.24",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786125754535,
+      "created_at": "2023-12-29T10:31:33-06:00",
+      "updated_at": "2025-09-22T10:54:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237869146279,
+      "created_at": "2025-02-03T18:27:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:27:50-06:00",
+      "product_id": 7786125754535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8738462-21.jpg?v=1738628870",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 54.24,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8738462-21.jpg?v=1738628870",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OEM Tools",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

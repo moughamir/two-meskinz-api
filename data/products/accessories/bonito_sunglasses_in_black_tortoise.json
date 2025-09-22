@@ -1,0 +1,105 @@
+{
+  "id": 6764875382872,
+  "title": "Bonito Sunglasses in Black Tortoise",
+  "handle": "bonito-sunglasses-in-black-tortoise",
+  "body_html": "<meta charset=\"utf-8\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Eyewear for People Who Care:<span data-mce-fragment=\"1\"> </span></span><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span><span data-mce-fragment=\"1\"> These sunglasses offer full UVA/UVB protection and is durable enough for anything you want to do outside. Sustainability has never looked this cool.</span>",
+  "published_at": "2025-05-08T09:12:44-04:00",
+  "created_at": "2021-09-21T12:11:40-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Bonito",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS"
+  ],
+  "variants": [
+    {
+      "id": 39617061879896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40120-BONITO-BLACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6764875382872,
+      "created_at": "2021-09-21T12:11:40-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28654077083736,
+      "created_at": "2021-09-21T13:46:41-04:00",
+      "position": 1,
+      "updated_at": "2021-09-21T13:46:42-04:00",
+      "product_id": 6764875382872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_BLACKTORT__1.png?v=1632246402",
+      "width": 2000,
+      "height": 1995
+    },
+    {
+      "id": 28654077214808,
+      "created_at": "2021-09-21T13:46:41-04:00",
+      "position": 2,
+      "updated_at": "2021-09-21T13:46:43-04:00",
+      "product_id": 6764875382872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_BLACKTORT__2.png?v=1632246403",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654077149272,
+      "created_at": "2021-09-21T13:46:41-04:00",
+      "position": 3,
+      "updated_at": "2021-09-21T13:46:42-04:00",
+      "product_id": 6764875382872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_BLACKTORT__3.png?v=1632246402",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654077182040,
+      "created_at": "2021-09-21T13:46:41-04:00",
+      "position": 4,
+      "updated_at": "2021-09-21T13:46:43-04:00",
+      "product_id": 6764875382872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_BLACKTORT__4.png?v=1632246403",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_BLACKTORT__1.png?v=1632246402",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

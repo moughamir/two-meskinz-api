@@ -1,0 +1,109 @@
+{
+  "id": 8429097713752,
+  "title": "Black Curve and Flow iPhone 13 Pro Max Case",
+  "handle": "black-curve-and-flow-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:09:00-04:00",
+  "created_at": "2025-07-17T07:09:42-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063789518936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16825-IP13PMAX-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429097713752,
+      "created_at": "2025-07-17T07:09:42-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436648530008,
+      "created_at": "2025-07-17T07:09:42-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:44-04:00",
+      "product_id": 8429097713752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP13PMAX_Black.jpg?v=1752750584",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581683695704,
+      "created_at": "2025-08-11T14:55:02-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:55:02-04:00",
+      "product_id": 8429097713752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_b1a8456c-a747-422c-9506-c2b6fbe16780.jpg?v=1754938502",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581683957848,
+      "created_at": "2025-08-11T14:55:03-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:55:03-04:00",
+      "product_id": 8429097713752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_3d4e6bb9-8676-4553-a78d-2d48f689d01e.jpg?v=1754938503",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581684187224,
+      "created_at": "2025-08-11T14:55:05-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:55:05-04:00",
+      "product_id": 8429097713752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_463cca45-4b86-4b70-a777-a46fe1267b19.jpg?v=1754938505",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP13PMAX_Black.jpg?v=1752750584",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

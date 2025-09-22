@@ -1,0 +1,129 @@
+{
+  "id": 8444711501912,
+  "title": "Seashell Coral Dreams iPhone Air Case",
+  "handle": "seashell-coral-dreams-eco-friendly-iphone-air-case",
+  "body_html": "<p data-start=\"0\" data-end=\"68\">Dive into a reef of color with the Coral Dreams Phone Case! 🪸💫</p>\n<p data-start=\"70\" data-end=\"318\">This ocean-inspired beauty brings a vibrant tangle of hand-drawn coral and sea flora straight to your fingertips. With hues of golden mustard, seafoam green, coral orange, and deep-sea blues, it's basically an underwater dance party for your phone.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:55:12-04:00",
+  "created_at": "2025-08-08T11:52:11-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coral Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184232398936,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:CORAL-DREAMS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444711501912,
+      "created_at": "2025-09-03T18:47:14-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184232431704,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:CORAL-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444711501912,
+      "created_at": "2025-09-03T18:47:14-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567314632792,
+      "created_at": "2025-08-08T11:52:11-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:13-04:00",
+      "product_id": 8444711501912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_IP17AIR_Seashell.jpg?v=1754668333",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453382557784,
+      "created_at": "2025-07-21T16:22:51-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T10:08:44-04:00",
+      "product_id": 8444711501912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_1.jpg?v=1755180524",
+      "width": 3650,
+      "height": 3650
+    },
+    {
+      "id": 35453382688856,
+      "created_at": "2025-07-21T16:22:54-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T10:09:05-04:00",
+      "product_id": 8444711501912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_3.jpg?v=1755180545",
+      "width": 3642,
+      "height": 3642
+    },
+    {
+      "id": 35453382623320,
+      "created_at": "2025-07-21T16:22:53-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T10:08:54-04:00",
+      "product_id": 8444711501912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_2.jpg?v=1755180534",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_IP17AIR_Seashell.jpg?v=1754668333",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

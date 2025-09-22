@@ -1,0 +1,68 @@
+{
+  "id": 5336465014951,
+  "title": "Fixture Kit - 52″ × 23″ × 1.125″ (Steel Subplate); 10″ × 16″ × 0.75″ (Jigsaw) (Aluminum Fixture Plate)",
+  "handle": "yg12dn515207",
+  "body_html": "<br><strong>Item #: </strong>SG6850031<br><strong>Brand: </strong>Jergens<br><strong>Model #: </strong>50031<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Fixture Kit </td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Aluminum (Fixture Plates); Steel (Subplates) </td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>490 lbs </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>Ball Lock for Haas </td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>52″ × 23″ × 1.125″ (Subplate); 10″ × 16″ × 0.75″ (Jigsaw) (Fixture Plate) </td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>‎(1) Subplate (49191); (6) Fixture Plate (28706); (18) Ball Lock Shanks (49601); (14) T-Slot Nuts (43306); (2) Sine Fixture Keys (39503); (14) Socket Head Cap Screws (1/2-13x15″) </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:52:49-06:00",
+  "created_at": "2020-06-15T13:02:52-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Jergens",
+  "product_type": "Clamping, Positioning, Workholding",
+  "tags": [
+    "Drilling",
+    "Modular Fixturing"
+  ],
+  "variants": [
+    {
+      "id": 34731221221543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SG6850031",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9769.97",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5336465014951,
+      "created_at": "2020-06-15T13:02:52-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38141006872743,
+      "created_at": "2025-01-23T20:52:56-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:52:58-06:00",
+      "product_id": 5336465014951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/jgs_50000_la_efcf_1c148d92-719e-46f2-9f2c-942506eeb463.jpg?v=1737687178",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9769.97,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/jgs_50000_la_efcf_1c148d92-719e-46f2-9f2c-942506eeb463.jpg?v=1737687178",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Jergens",
+  "category": "Clamping, Positioning, Workholding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

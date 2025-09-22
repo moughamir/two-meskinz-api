@@ -1,0 +1,67 @@
+{
+  "id": 8452722589863,
+  "title": "5/32 Inch Bit, Multipurpose Power Saw Bit",
+  "handle": "85659829",
+  "body_html": "<br><strong>Item #: </strong>80702517<br><strong>Brand: </strong>Rotozip<br><strong>Model #: </strong>XB-MP2<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Multipurpose Bit</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>Spiral Saw</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112800</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T15:49:44-06:00",
+  "created_at": "2025-01-23T15:49:43-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Rotozip",
+  "product_type": "Power Tools",
+  "tags": [
+    "Power Saws"
+  ],
+  "variants": [
+    {
+      "id": 46498673328295,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "80702517",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452722589863,
+      "created_at": "2025-01-23T15:49:43-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38250979328167,
+      "created_at": "2025-02-04T02:27:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:27:41-06:00",
+      "product_id": 8452722589863,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8070251-24.jpg?v=1738657661",
+      "width": 600,
+      "height": 111
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8070251-24.jpg?v=1738657661",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Rotozip",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

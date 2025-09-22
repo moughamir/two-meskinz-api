@@ -1,0 +1,109 @@
+{
+  "id": 8381671342168,
+  "title": "Seashell Radiate iPhone 16 Pro Max Case",
+  "handle": "seashell-radiate-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p>Add a touch of elegance to your phone with our Seashell Radiate case! Featuring a beautiful pink floral design, this case will radiate your feminine style while keeping your phone protected. Stand out from the crowd with this unique case.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T16:46:00-04:00",
+  "created_at": "2025-05-21T09:54:10-04:00",
+  "updated_at": "2025-09-22T15:14:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Radiate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895741059160,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17321-IP16PMAX-SEASHELL-AOD:RADIATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381671342168,
+      "created_at": "2025-05-21T09:54:10-04:00",
+      "updated_at": "2025-09-22T15:14:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065456164952,
+      "created_at": "2025-05-21T09:54:10-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:54:12-04:00",
+      "product_id": 8381671342168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP16PMAX_Seashell.jpg?v=1747835652",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066518470744,
+      "created_at": "2025-05-21T15:45:36-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T15:45:38-04:00",
+      "product_id": 8381671342168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-05_7926f200-d1de-4200-9cbe-289808ae5f1e.jpg?v=1747856738",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066518405208,
+      "created_at": "2025-05-21T15:45:36-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T15:45:37-04:00",
+      "product_id": 8381671342168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-06_98ccf30d-e47a-4939-bfa3-b35fc9f6a550.jpg?v=1747856737",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066518339672,
+      "created_at": "2025-05-21T15:45:36-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T15:45:37-04:00",
+      "product_id": 8381671342168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-07_9f1f6117-7474-49e8-b224-59e4cb274691.jpg?v=1747856737",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP16PMAX_Seashell.jpg?v=1747835652",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 7838949900335,
+  "title": "Heartstopper Change Can Be a Good Thing 25 oz. Travel Mug",
+  "handle": "heartstopper-change-can-be-a-good-thing-25-oz-travel-mug",
+  "body_html": "<p>Embrace the spirit of growth and change with the <em>Heartstopper</em> \"Change Can Be a Good Thing\" 25 oz. Travel Mug! Featuring an inspiring design that resonates with the show's heartfelt journey, this travel mug is perfect for fans who believe in the beauty of self-discovery. Keep your favorite beverages hot or cold while celebrating the transformative moments that Nick and Charlie experience on their path to love!</p>\n<ul>\n<li>Made with stainless steel and BPA-free plastic</li>\n<li>Capacity: 25 oz (739 ml)</li>\n<li>Upper diameter: 3.3\" × 6.9\" (8.4 × 20 cm)</li>\n<li>Bottom diameter: 2.7\" × 6.9\" (7 × 20 cm)</li>\n<li>Hand-wash only</li>\n</ul>",
+  "published_at": "2024-10-14T13:40:26-04:00",
+  "created_at": "2024-09-23T04:35:15-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "81059939",
+    "Drinkware",
+    "Heartstopper",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "new",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Travel Mug"
+  ],
+  "variants": [
+    {
+      "id": 43259041906735,
+      "title": "White / 25 oz",
+      "option1": "White",
+      "option2": "25 oz",
+      "option3": null,
+      "sku": "HRTSTPR-101693-0001-HS-CGTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34696895922223,
+        "product_id": 7838949900335,
+        "position": 1,
+        "created_at": "2024-09-23T04:35:15-04:00",
+        "updated_at": "2024-09-23T04:35:15-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CGTH_101693_L_MF.jpg?v=1727080515",
+        "variant_ids": [
+          43259041906735
+        ]
+      },
+      "available": true,
+      "price": "49.95",
+      "grams": 1588,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838949900335,
+      "created_at": "2024-09-23T04:35:15-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34696895922223,
+      "created_at": "2024-09-23T04:35:15-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T04:35:15-04:00",
+      "product_id": 7838949900335,
+      "variant_ids": [
+        43259041906735
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CGTH_101693_L_MF.jpg?v=1727080515",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696895987759,
+      "created_at": "2024-09-23T04:35:15-04:00",
+      "position": 2,
+      "updated_at": "2024-09-23T04:35:15-04:00",
+      "product_id": 7838949900335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CGTH_101693_FT_MF.jpg?v=1727080515",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696896020527,
+      "created_at": "2024-09-23T04:35:15-04:00",
+      "position": 3,
+      "updated_at": "2024-09-23T04:35:15-04:00",
+      "product_id": 7838949900335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CGTH_101693_R_MF.jpg?v=1727080515",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "25 oz"
+      ]
+    }
+  ],
+  "price": 49.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CGTH_101693_L_MF.jpg?v=1727080515",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

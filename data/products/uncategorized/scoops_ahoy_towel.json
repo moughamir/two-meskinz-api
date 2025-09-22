@@ -1,0 +1,118 @@
+{
+  "id": 7289706872879,
+  "title": "Scoops Ahoy Towel",
+  "handle": "scoops-ahoy-towel",
+  "body_html": "<p>Give your bathroom a vibrant look and wrap yourself up with this super soft and cozy all-over sublimation towel.</p>\n<p>Product Shipping:<br>• 52% cotton, 48% polyester<br>• Fabric weight: 10.6 oz/y² (360 g/m²)<br>• Size: 30″ × 60″ × 0.28″ (76 × 152 × 0.7 cm)<br>• Printed on one side only<br>• The non-printed side is made of terry fabric, making the towel more water-absorbent<br>• Blank product sourced from China<br><br>This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!</p>",
+  "published_at": "2023-09-15T11:13:51-04:00",
+  "created_at": "2023-08-17T06:17:33-04:00",
+  "updated_at": "2025-09-22T11:41:13-04:00",
+  "vendor": "printful",
+  "product_type": "Towels",
+  "tags": [
+    "2023",
+    "2023 BFCM SITEWIDE SALE",
+    "2023 Q4 Sales Bypass",
+    "category home goods",
+    "home and office",
+    "home goods",
+    "no-returns",
+    "pod",
+    "pod collection",
+    "printful",
+    "Promo Eligible Collection",
+    "Q3",
+    "scoops ahoy",
+    "stranger things",
+    "Title: Stranger Things",
+    "towels",
+    "Type: Home Goods",
+    "Vendor: Printful",
+    "View All"
+  ],
+  "variants": [
+    {
+      "id": 41700201955375,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "5115854_8874",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.00",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7289706872879,
+      "created_at": "2023-08-17T06:17:33-04:00",
+      "updated_at": "2025-09-22T11:41:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32951158997039,
+      "created_at": "2023-09-11T16:27:00-04:00",
+      "position": 1,
+      "updated_at": "2023-09-11T16:27:01-04:00",
+      "product_id": 7289706872879,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ScoopsAhoyXPrintful-Towel01.jpg?v=1694464021",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 32951159062575,
+      "created_at": "2023-09-11T16:27:00-04:00",
+      "position": 2,
+      "updated_at": "2023-09-11T16:27:01-04:00",
+      "product_id": 7289706872879,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ScoopsAhoyXPrintful-Towel02.jpg?v=1694464021",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 32951159095343,
+      "created_at": "2023-09-11T16:27:00-04:00",
+      "position": 3,
+      "updated_at": "2023-09-11T16:27:01-04:00",
+      "product_id": 7289706872879,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ScoopsAhoyXPrintful-Towel03.jpg?v=1694464021",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 32951159029807,
+      "created_at": "2023-09-11T16:27:00-04:00",
+      "position": 4,
+      "updated_at": "2023-09-11T16:27:01-04:00",
+      "product_id": 7289706872879,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ScoopsAhoyXPrintful-Towel04.jpg?v=1694464021",
+      "width": 1200,
+      "height": 1560
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ScoopsAhoyXPrintful-Towel01.jpg?v=1694464021",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful",
+  "category": "Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

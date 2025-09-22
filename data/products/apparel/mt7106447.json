@@ -1,0 +1,67 @@
+{
+  "id": 7786445930663,
+  "title": "Brand: Williams / Part #: JHW6223",
+  "handle": "mt7106447",
+  "body_html": "<br><strong>Item #: </strong>82310731<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>JHW6223<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Jaw Style</strong>\n</td>\n<td>Serrated Jaw</td>\n</tr>\n<tr>\n<td><strong>Head Style</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Side Cutter</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>8</td>\n</tr>\n<tr>\n<td><strong>Handle Type</strong></td>\n<td>Dipped</td>\n</tr>\n<tr>\n<td><strong>Jaw Length (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Jaw Width (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Capacity</strong></td>\n<td>1-3/4 in</td>\n</tr>\n<tr>\n<td><strong>Number Of Positions</strong></td>\n<td>10</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:48:25-06:00",
+  "created_at": "2023-12-30T01:48:25-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Pliers; Plier Sets & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43708031729831,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82310731",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.47",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786445930663,
+      "created_at": "2023-12-30T01:48:25-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238701256871,
+      "created_at": "2025-02-03T19:00:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:00:34-06:00",
+      "product_id": 7786445930663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8231003-21_3fa5d3f3-996d-4134-89b4-203d08f53547.jpg?v=1738630834",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.47,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8231003-21_3fa5d3f3-996d-4134-89b4-203d08f53547.jpg?v=1738630834",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

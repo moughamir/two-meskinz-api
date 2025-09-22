@@ -1,0 +1,119 @@
+{
+  "id": 7368634990680,
+  "title": "London Fog Grape Views Samsung Galaxy S22 Case",
+  "handle": "london-fog-grape-views-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Escape to the rustic charm of wine country with the Pela Grape Views Phone Case. This case is your daily vintage, with a watercolor panorama of lush vineyards and old-world cottages that evokes the romance of the rolling hills.  It's a masterpiece of pastoral peace, offering a sip of relaxation every time you glance at your phone.  For the lover of fine wines, tranquil views, and eco-conscious tech, this case is a toast to the good life! 🍇🏡</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T07:35:29-04:00",
+  "created_at": "2023-07-10T16:26:33-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Wine Country",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Grape Views",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40245527871576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13596-S22-LFOG-AOD:GRAPE-VIEWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7368634990680,
+      "created_at": "2023-07-10T16:26:33-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30314217898072,
+      "created_at": "2023-07-10T16:26:33-04:00",
+      "position": 1,
+      "updated_at": "2023-07-10T16:26:33-04:00",
+      "product_id": 7368634990680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRAPE-VIEWS_S22_LondonFog.jpg?v=1689020793",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316019286104,
+      "created_at": "2023-07-12T13:40:12-04:00",
+      "position": 2,
+      "updated_at": "2023-07-12T13:40:13-04:00",
+      "product_id": 7368634990680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv5_0323a12c-911e-4621-a773-a7a3138cc3ad.png?v=1689183613",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316019220568,
+      "created_at": "2023-07-12T13:40:12-04:00",
+      "position": 3,
+      "updated_at": "2023-07-12T13:40:13-04:00",
+      "product_id": 7368634990680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv4_175b48bf-1ea6-4408-808e-0f55dbab4e90.png?v=1689183613",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316019253336,
+      "created_at": "2023-07-12T13:40:12-04:00",
+      "position": 4,
+      "updated_at": "2023-07-12T13:40:13-04:00",
+      "product_id": 7368634990680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv1_16cac71e-5247-40df-8eca-2169fa161616.png?v=1689183613",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30320861544536,
+      "created_at": "2023-07-17T08:50:42-04:00",
+      "position": 5,
+      "updated_at": "2023-07-17T08:50:43-04:00",
+      "product_id": 7368634990680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0748_bef11451-348e-47c5-accd-ac41dea31532.jpg?v=1689598243",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRAPE-VIEWS_S22_LondonFog.jpg?v=1689020793",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

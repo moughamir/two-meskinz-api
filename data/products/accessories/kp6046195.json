@@ -1,0 +1,52 @@
+{
+  "id": 8453436276903,
+  "title": "Tool Bag, Vinyl Equipment Bag, Orange, Large",
+  "handle": "kp6046195",
+  "body_html": null,
+  "published_at": "2025-01-24T06:09:37-06:00",
+  "created_at": "2025-01-24T06:09:35-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500756848807,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6046195",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "191.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453436276903,
+      "created_at": "2025-01-24T06:09:35-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 191,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7068441444461,
+  "title": "Pumpkin Spice",
+  "handle": "pumpkin-spice",
+  "body_html": "<p>A delicious combination of sweet candied pumpkin and cinnamon are accented with ribbons of vanilla, maple, and cherry.</p>",
+  "published_at": "2023-09-12T09:52:56-06:00",
+  "created_at": "2023-08-29T08:26:37-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Aromatique",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Aromatique",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40713987555437,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PAIH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7068441444461,
+      "created_at": "2023-08-29T08:26:37-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30420579450989,
+      "created_at": "2023-08-29T08:37:47-06:00",
+      "position": 1,
+      "updated_at": "2023-08-29T08:38:10-06:00",
+      "product_id": 7068441444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/aromatiquepumpkinspiceresized.jpg?v=1693319890",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30420579418221,
+      "created_at": "2023-08-29T08:37:47-06:00",
+      "position": 2,
+      "updated_at": "2023-08-29T08:38:10-06:00",
+      "product_id": 7068441444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cloves-3_1383504f-3e73-4049-b4c5-5cab96d80cbd.jpg?v=1693319890",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 30420579385453,
+      "created_at": "2023-08-29T08:37:47-06:00",
+      "position": 3,
+      "updated_at": "2023-08-29T08:38:10-06:00",
+      "product_id": 7068441444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pumpkin-spice-prod-3.jpg?v=1693319890",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30420579582061,
+      "created_at": "2023-08-29T08:37:46-06:00",
+      "position": 4,
+      "updated_at": "2023-08-29T08:38:10-06:00",
+      "product_id": 7068441444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/aromatiquepumpkinspiceresized_-2.jpg?v=1693319890",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/aromatiquepumpkinspiceresized.jpg?v=1693319890",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Aromatique",
+  "category": "Fragrance",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 8335119188056,
+  "title": "Electric Blue Tangerine Mix iPhone 13 Mini Case",
+  "handle": "electric-blue-tangerine-mix-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a party with the Tangerine Mix Phone Case! With wavy lines, checkerboard patterns, and zesty swirls in bold blues and juicy orange, this design is serving maximalist magic. It's retro, it's modern, it’s a whole vibe—and it’s here to keep your phone safe while stealing the spotlight. 🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:11:28-04:00",
+  "created_at": "2025-04-01T11:42:20-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tangerine Mix",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788478877784,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16633-IP13MINI-ELEBLUE-AOD:TANGERINE-MIX",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335119188056,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775483646040,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:21-04:00",
+      "product_id": 8335119188056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP13MINI_ElectricBlue.jpg?v=1743522141",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892662538328,
+      "created_at": "2025-04-23T10:06:37-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:06:42-04:00",
+      "product_id": 8335119188056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_f8d2b7a4-3e34-4668-b185-5ca8f9d84c4e.jpg?v=1745417202",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892662440024,
+      "created_at": "2025-04-23T10:06:37-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:06:42-04:00",
+      "product_id": 8335119188056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_4956481b-35df-4545-b2c6-41dc3967ae57.jpg?v=1745417202",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892662472792,
+      "created_at": "2025-04-23T10:06:37-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:06:42-04:00",
+      "product_id": 8335119188056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_cfd98075-a085-460c-99a7-79db93816710.jpg?v=1745417202",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP13MINI_ElectricBlue.jpg?v=1743522141",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

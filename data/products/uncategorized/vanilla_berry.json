@@ -1,0 +1,122 @@
+{
+  "id": 7051712888941,
+  "title": "Vanilla Berry",
+  "handle": "vanilla-berry",
+  "body_html": "<p>Enjoy sheer summer bliss with warm <strong>vanilla extract</strong> and sun-ripened <strong>berries</strong> paired with hints of turquoise<strong> ocean</strong> notes and sparkling <strong>citrus</strong>.</p>",
+  "published_at": "2023-08-14T19:52:16-06:00",
+  "created_at": "2023-08-09T16:20:32-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Becki Owens",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Becki Owens",
+    "Group_Home",
+    "IFBH",
+    "Mood_Bold",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_vanillaberry"
+  ],
+  "variants": [
+    {
+      "id": 40702266212461,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "IFBH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712888941,
+      "created_at": "2023-08-09T16:20:33-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827662442605,
+      "created_at": "2023-12-07T13:44:30-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T13:44:47-07:00",
+      "product_id": 7051712888941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-VanillaBerry-Vertical-Resized.jpg?v=1701981887",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30335446646893,
+      "created_at": "2023-08-10T07:41:27-06:00",
+      "position": 2,
+      "updated_at": "2023-12-07T13:44:47-07:00",
+      "product_id": 7051712888941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/raspberries-4.jpg?v=1701981887",
+      "width": 3572,
+      "height": 3572
+    },
+    {
+      "id": 30350255784045,
+      "created_at": "2023-08-14T19:55:38-06:00",
+      "position": 3,
+      "updated_at": "2023-12-07T13:44:47-07:00",
+      "product_id": 7051712888941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Becki-Owens-Vanilla-Berry-Device-V4.jpg?v=1701981887",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827662508141,
+      "created_at": "2023-12-07T13:44:30-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T13:44:47-07:00",
+      "product_id": 7051712888941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-VanillaBerry-Overhead-Shadow-Resized.jpg?v=1701981887",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-VanillaBerry-Vertical-Resized.jpg?v=1701981887",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Becki Owens",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

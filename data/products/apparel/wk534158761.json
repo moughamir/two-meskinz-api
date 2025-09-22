@@ -1,0 +1,67 @@
+{
+  "id": 7785376645287,
+  "title": "Brand: USA Sealing / Part #: RS-N40MIL-34",
+  "handle": "wk534158761",
+  "body_html": "<br><strong>Item #: </strong>94515939<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>RS-N40MIL-34<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cell Type</strong>\n</td>\n<td>Closed</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Neoprene</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>3/32</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Rectangle</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>36</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Durometer 40A</td>\n</tr>\n<tr>\n<td><strong>Surface Texture</strong></td>\n<td>Smooth</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-30.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>250.000</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>1500</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>MIL-R-3065E, ASTM D2000 M2BC410</td>\n</tr>\n<tr>\n<td><strong>Durometer Shore A</strong></td>\n<td>40A</td>\n</tr>\n<tr>\n<td><strong>Density (Lb./Cu. Ft.)</strong></td>\n<td>84</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:22:55-06:00",
+  "created_at": "2023-12-28T19:22:55-06:00",
+  "updated_at": "2025-09-22T10:55:29-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Rubber & Foam"
+  ],
+  "variants": [
+    {
+      "id": 43703703339175,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94515939",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "99.88",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785376645287,
+      "created_at": "2023-12-28T19:22:55-06:00",
+      "updated_at": "2025-09-22T10:55:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236819423399,
+      "created_at": "2025-02-03T17:55:02-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:55:03-06:00",
+      "product_id": 7785376645287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9429304-21_df41abd6-5bd5-410f-8b3b-13fd3a68dc63.jpg?v=1738626903",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 99.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9429304-21_df41abd6-5bd5-410f-8b3b-13fd3a68dc63.jpg?v=1738626903",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

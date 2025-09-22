@@ -1,0 +1,98 @@
+{
+  "id": 8419732488280,
+  "title": "Forest Floor Trailbound iPhone 16 Case",
+  "handle": "forest-floor-trailbound-eco-friendly-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\">For the ones who chase the winding path and crave the wild unknown, the Trailbound Phone Case is your ride-or-die. With a hand-illustrated mountain road and a lone cyclist carving through towering pines, it’s a tribute to two-wheeled freedom and forest-filled escapes. Rugged, artistic, and always ready to go off the grid—just like you. 🚵🌲</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:10:04-04:00",
+  "created_at": "2025-07-03T14:11:40-04:00",
+  "updated_at": "2025-09-22T15:13:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Trailbound",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033228476504,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17247-IP16-FOREST-AOD:TRAILBOUND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419732488280,
+      "created_at": "2025-07-03T14:11:40-04:00",
+      "updated_at": "2025-09-22T15:13:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354072219736,
+      "created_at": "2025-07-03T14:11:40-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:42-04:00",
+      "product_id": 8419732488280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAILBOUND_IP16_ForestFloor.jpg?v=1751566302",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547447033944,
+      "created_at": "2025-08-05T10:06:13-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:06:13-04:00",
+      "product_id": 8419732488280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d9c26db41819943f3b2c0e9aaa636c_2e149f45-817c-402a-933a-70b0704b9462.jpg?v=1754402773",
+      "width": 4306,
+      "height": 4306
+    },
+    {
+      "id": 35547447525464,
+      "created_at": "2025-08-05T10:06:15-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:06:15-04:00",
+      "product_id": 8419732488280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1dcd8faedce8a743e95d357520db81c9_905efb3e-d1b8-4113-ad68-2eca9a259bc2.jpg?v=1754402775",
+      "width": 4192,
+      "height": 4192
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAILBOUND_IP16_ForestFloor.jpg?v=1751566302",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

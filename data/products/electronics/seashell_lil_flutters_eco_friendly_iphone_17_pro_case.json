@@ -1,0 +1,140 @@
+{
+  "id": 8444654092376,
+  "title": "Seashell Lil Flutters iPhone 17 Pro Case",
+  "handle": "seashell-lil-flutters-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p>Flutter your way through the day with the Seashell Lil Flutters Phone Case! This playful case features a charming print of little pink butterflies that will transform your phone into a whimsical accessory. Embrace the fun with this unique case!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:00:31-04:00",
+  "created_at": "2025-08-08T11:48:45-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Flutterbies",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Flutters",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184248225880,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:LIL-FLUTTERS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444654092376,
+      "created_at": "2025-09-03T18:50:43-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184248291416,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:LIL-FLUTTERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444654092376,
+      "created_at": "2025-09-03T18:50:43-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567190114392,
+      "created_at": "2025-08-08T11:48:45-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:47-04:00",
+      "product_id": 8444654092376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_IP17P_Seashell.jpg?v=1754668127",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32152611455064,
+      "created_at": "2024-02-01T11:44:31-05:00",
+      "position": 2,
+      "updated_at": "2025-08-13T11:40:30-04:00",
+      "product_id": 8444654092376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Lil_Flutters_3.jpg?v=1755099630",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32152611618904,
+      "created_at": "2024-02-01T11:44:31-05:00",
+      "position": 3,
+      "updated_at": "2025-08-13T11:40:42-04:00",
+      "product_id": 8444654092376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Lil_Flutters_4.jpg?v=1755099642",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32152611422296,
+      "created_at": "2024-02-01T11:44:31-05:00",
+      "position": 4,
+      "updated_at": "2025-08-13T11:40:22-04:00",
+      "product_id": 8444654092376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Lil_Flutters_2.jpg?v=1755099622",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32152611520600,
+      "created_at": "2024-02-01T11:44:31-05:00",
+      "position": 5,
+      "updated_at": "2025-08-13T11:40:15-04:00",
+      "product_id": 8444654092376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Lil_Flutters_1.jpg?v=1755099615",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_IP17P_Seashell.jpg?v=1754668127",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

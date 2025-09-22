@@ -1,0 +1,108 @@
+{
+  "id": 7882669686872,
+  "title": "Bubblegum Pink Snakebite iPhone 11 Case",
+  "handle": "bubblegum-pink-snakebite-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">🐍💀 Embrace the wild west with the Snakebite Phone Case from the exclusive Pela x Cam Miller Artist Series Collection! Featuring a bold and edgy design of a cowboy hat-wearing skull entangled with a fierce rattlesnake, this case brings a punch of rebellious charm to your everyday adventures. The vibrant bubblegum pink background adds a playful contrast to the gritty artwork, making it a standout piece for those who dare to be different. Perfect for thrill-seekers and art lovers alike, the Snakebite case is your ultimate accessory for a fearless and stylish look. Ride into the sunset with a touch of danger and a whole lot of attitude! 🌵🐍🔆</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-05-30T09:12:32-04:00",
+  "created_at": "2024-05-13T14:23:32-04:00",
+  "updated_at": "2025-09-22T15:16:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Cam Miller",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Snakebite",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41670175162456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16229-IP11-BUBPINK-AOD:SNAKEBITE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7882669686872,
+      "created_at": "2024-05-13T14:23:32-04:00",
+      "updated_at": "2025-09-22T15:16:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32853890596952,
+      "created_at": "2024-05-13T14:23:32-04:00",
+      "position": 1,
+      "updated_at": "2024-05-13T14:23:32-04:00",
+      "product_id": 7882669686872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_IP11_BubblegumPink.jpg?v=1715624612",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973563854936,
+      "created_at": "2024-05-28T13:34:48-04:00",
+      "position": 2,
+      "updated_at": "2024-05-28T13:34:52-04:00",
+      "product_id": 7882669686872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_BUBBLEGUMPINK--2_fd499af3-8a62-4477-9c03-4438a6a66b62.jpg?v=1716917692",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973563789400,
+      "created_at": "2024-05-28T13:34:48-04:00",
+      "position": 3,
+      "updated_at": "2024-05-28T13:34:52-04:00",
+      "product_id": 7882669686872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_BUBBLEGUMPINK--1_e0f2902c-ba66-4c72-b6f1-b7ff3180e44b.jpg?v=1716917692",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973563822168,
+      "created_at": "2024-05-28T13:34:48-04:00",
+      "position": 4,
+      "updated_at": "2024-05-28T13:34:52-04:00",
+      "product_id": 7882669686872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--4_f9ad9137-ef0f-4929-91db-6d6579b5540f.jpg?v=1716917692",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_IP11_BubblegumPink.jpg?v=1715624612",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

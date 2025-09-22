@@ -1,0 +1,67 @@
+{
+  "id": 8452551868583,
+  "title": "Decarb-Free Tool Steel Flats; Overall Width: 3 in; Length Type: Cut-to-Length",
+  "handle": "48727127",
+  "body_html": "<br><strong>Item #: </strong>05947650<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>0003605<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Overall Width</strong>\n</td>\n<td>3 in</td>\n</tr>\n<tr> <td> <strong>Length Type</strong>\n</td>\n<td>Cut-to-Length</td>\n</tr>\n<tr> <td> <strong>Maximum Length (Inch)</strong>\n</td>\n<td>120</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>20102105</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:40:24-06:00",
+  "created_at": "2025-01-23T09:40:23-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Metals"
+  ],
+  "variants": [
+    {
+      "id": 46498052898983,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05947650",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "344.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452551868583,
+      "created_at": "2025-01-23T09:40:23-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242748858535,
+      "created_at": "2025-02-03T21:43:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:43:30-06:00",
+      "product_id": 8452551868583,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0068041-24_400e1c06-8789-41f6-9849-2a8e38467ba9.jpg?v=1738640610",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 344.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0068041-24_400e1c06-8789-41f6-9849-2a8e38467ba9.jpg?v=1738640610",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

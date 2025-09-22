@@ -1,0 +1,67 @@
+{
+  "id": 8182081945767,
+  "title": "TD25NS Swiss Guide Bushing - Carbide Lined Round Smooth 11/16\" ID - Part # TD25NS-RM-06875",
+  "handle": "stdns25rm06875",
+  "body_html": "<br><strong>Part #: </strong>TD25NS-RM-06875<br><strong>Brand: </strong>Sure Swiss<br><strong>MFG #: </strong>STDNS25RM06875<br><br><p><strong><a href=\"https://benchmarktooling.com/pages/swiss-collets\">Click here</a></strong> to see our full line of Swiss Collets &amp; Guide Bushings with product charts with critical dimensions.</p>",
+  "published_at": "2024-05-23T21:30:19-05:00",
+  "created_at": "2024-05-23T21:30:19-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Sure Swiss",
+  "product_type": "Collets",
+  "tags": [
+    "Swiss Collets"
+  ],
+  "variants": [
+    {
+      "id": 45485924024487,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "STDNS25RM06875",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "304.92",
+      "grams": 800,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8182081945767,
+      "created_at": "2024-05-23T21:30:19-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36337273143463,
+      "created_at": "2024-05-23T21:30:22-05:00",
+      "position": 1,
+      "updated_at": "2024-05-23T21:30:24-05:00",
+      "product_id": 8182081945767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/Fuehrungsbuchse-mit-Hartmetalleinsatz-T229_38a92d61-945c-4ccd-b79a-39e16da17be7.png?v=1716517824",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 304.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/Fuehrungsbuchse-mit-Hartmetalleinsatz-T229_38a92d61-945c-4ccd-b79a-39e16da17be7.png?v=1716517824",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sure Swiss",
+  "category": "Collets",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 6725751832664,
+  "title": "Seashell Waves iPhone XR Case",
+  "handle": "seashell-waves-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Ride the tide with the Wave Phone Case! Featuring a breathtaking view of crashing ocean waves in stunning blue hues, this case brings the serenity and power of the sea right to your fingertips. Whether you're a beach lover or just need a splash of tranquility in your daily grind, the Wave Phone Case is the perfect way to carry a piece of the ocean with you wherever you go. 🌊📱<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T14:02:36-05:00",
+  "created_at": "2021-08-17T10:25:12-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Waves",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Waves",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39567792406616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:WAVES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6725751832664,
+      "created_at": "2021-08-17T10:25:12-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116383776856,
+      "created_at": "2024-01-23T13:43:38-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:43:38-05:00",
+      "product_id": 6725751832664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WAVES_IPXR_Seashell_906cde4d-0119-4d13-a462-6c525b4d9bfa.jpg?v=1706035418",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28552316289112,
+      "created_at": "2021-08-18T18:10:45-04:00",
+      "position": 2,
+      "updated_at": "2021-08-18T18:10:45-04:00",
+      "product_id": 6725751832664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SeashellWAVESSQUARE2504_9bb10405-fe55-462a-8b4d-c1079c8a59e3.jpg?v=1629324645",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28552316321880,
+      "created_at": "2021-08-18T18:10:45-04:00",
+      "position": 3,
+      "updated_at": "2021-08-18T18:10:45-04:00",
+      "product_id": 6725751832664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SeashellWAVES2391_a0f1542f-7795-44cc-b6b3-4c0d3e682fdf.jpg?v=1629324645",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28552316387416,
+      "created_at": "2021-08-18T18:10:46-04:00",
+      "position": 4,
+      "updated_at": "2021-08-18T18:10:46-04:00",
+      "product_id": 6725751832664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SeashellWAVESSQAURE2495_17f06322-e381-40aa-b57d-c42692ec788f.jpg?v=1629324646",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WAVES_IPXR_Seashell_906cde4d-0119-4d13-a462-6c525b4d9bfa.jpg?v=1706035418",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

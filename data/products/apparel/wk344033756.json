@@ -1,0 +1,67 @@
+{
+  "id": 7786443407527,
+  "title": "Brand: Point6 / Part #: 11-2566-240-06",
+  "handle": "wk344033756",
+  "body_html": "<br><strong>Item #: </strong>52426194<br><strong>Brand: </strong>Point6<br><strong>Model #: </strong>11-2566-240-06<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Gender</strong>\n</td>\n<td>Unisex</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Merino Wool</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Lime</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:31:36-06:00",
+  "created_at": "2023-12-30T01:31:36-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Point6",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43708026781863,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "52426194",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.82",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786443407527,
+      "created_at": "2023-12-30T01:31:36-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238686576807,
+      "created_at": "2025-02-03T18:59:55-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:59:57-06:00",
+      "product_id": 7786443407527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5243377-21_87b0d5e1-434c-4405-b998-e5a511e4cc4d.jpg?v=1738630797",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.82,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5243377-21_87b0d5e1-434c-4405-b998-e5a511e4cc4d.jpg?v=1738630797",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Point6",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

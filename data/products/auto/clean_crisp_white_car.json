@@ -1,0 +1,110 @@
+{
+  "id": 7645187670125,
+  "title": "Clean Crisp White",
+  "handle": "clean-crisp-white-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">This fragrance’s name says it all—notes of <strong>ozone</strong>, <strong>lilies</strong>, and <strong>musk</strong> with just a hint of <strong>citrus</strong> create a sophisticated, clean scent that makes your car feel airy and fresh.</p>",
+  "published_at": "2025-05-14T09:26:43-06:00",
+  "created_at": "2025-04-28T10:45:37-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Votivo",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Votivo",
+    "collection:Car",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Floral",
+    "Scent Type_Marine",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42366425432173,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CXYC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7645187670125,
+      "created_at": "2025-04-28T10:45:38-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34178442920045,
+      "created_at": "2025-04-28T10:52:49-06:00",
+      "position": 1,
+      "updated_at": "2025-04-28T10:52:52-06:00",
+      "product_id": 7645187670125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CleanCrispWhite-Votivo-Car-Prod1-0425.png?v=1745859172",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34178443018349,
+      "created_at": "2025-04-28T10:52:59-06:00",
+      "position": 2,
+      "updated_at": "2025-04-28T10:53:07-06:00",
+      "product_id": 7645187670125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linen-resized_d937b81e-4dee-4599-9497-4952006cc342.jpg?v=1745859187",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 34178442887277,
+      "created_at": "2025-04-28T10:52:49-06:00",
+      "position": 3,
+      "updated_at": "2025-04-28T10:53:07-06:00",
+      "product_id": 7645187670125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CleanCrispWhite-Votivo-Car-Prod3-0425.png?v=1745859187",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34178442952813,
+      "created_at": "2025-04-28T10:52:49-06:00",
+      "position": 4,
+      "updated_at": "2025-04-28T10:53:07-06:00",
+      "product_id": 7645187670125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CleanCrispWhite-Votivo-Car-Prod4-0425.png?v=1745859187",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CleanCrispWhite-Votivo-Car-Prod1-0425.png?v=1745859172",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Votivo",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444699607128,
+  "title": "Seashell Farm Market iPhone 17 Case",
+  "handle": "seashell-farm-market-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Fresh-picked and phone-ready! <meta charset=\"utf-8\">🧺<meta charset=\"utf-8\">🍓 The <em data-start=\"72\" data-end=\"85\">Farm Market</em> Phone Case is stacked with all your farmers market faves—baskets of berries, bunches of tulips, jars of jam, leafy greens, and the cutest squash around. It’s like a Saturday morning stroll through your local stand, minus the reusable tote.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:24:07-04:00",
+  "created_at": "2025-08-08T11:51:30-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Farm Life",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Farm Market",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184237084760,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:FARM-MARKET_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444699607128,
+      "created_at": "2025-09-03T18:47:56-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184237117528,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:FARM-MARKET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444699607128,
+      "created_at": "2025-09-03T18:47:56-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567289663576,
+      "created_at": "2025-08-08T11:51:30-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:33-04:00",
+      "product_id": 8444699607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FARM-MARKET_IP17_Seashell.jpg?v=1754668293",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34901926543448,
+      "created_at": "2025-04-25T16:43:14-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T16:43:16-04:00",
+      "product_id": 8444699607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FarmMarket_PDP_01_c78fc37e-d8ea-4b27-a815-2f06d6bcf654.jpg?v=1745613796",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34901926576216,
+      "created_at": "2025-04-25T16:43:15-04:00",
+      "position": 3,
+      "updated_at": "2025-04-25T16:43:16-04:00",
+      "product_id": 8444699607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FarmMarket_PDP_02_8d33b98a-0d7d-4a97-928e-8eba71f21cff.jpg?v=1745613796",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FARM-MARKET_IP17_Seashell.jpg?v=1754668293",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

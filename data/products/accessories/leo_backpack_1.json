@@ -1,0 +1,119 @@
+{
+  "id": 7325845913647,
+  "title": "Leo Backpack - Blue",
+  "handle": "leo-backpack-1",
+  "body_html": "<p><span data-mce-fragment=\"1\">A Class Pet You'll Never Forget.</span><br></p>\n<p><span data-mce-fragment=\"1\"><meta charset=\"utf-8\">Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.</span></p>\n<p>This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather.</p>\n<p>Product Details:<br>• Made from 100% polyester<br>• Dimensions: H 16⅞\" (42cm), W 12¼\" (31cm), D 3⅞\" (10cm)<br>• 9.56 oz/yd² (325 g/m²), weight may vary by 5%<br>• Maximum weight limit: 44lbs (20kg)<br>• Water-resistant material<br>• Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag<br>• Top zipper has 2 sliders with zipper pullers<br>• Silky lining, piped inside hems, and a soft mesh back<br>• Padded ergonomic bag straps from polyester with plastic strap regulators<br>• Blank product components sourced from China</p>",
+  "published_at": "2023-11-20T23:39:40-05:00",
+  "created_at": "2023-10-27T12:26:51-04:00",
+  "updated_at": "2025-09-22T11:41:13-04:00",
+  "vendor": "printful",
+  "product_type": "Backpacks",
+  "tags": [
+    "2023",
+    "81218917",
+    "accessories",
+    "backpack",
+    "bags",
+    "bags and wallets",
+    "category accessories",
+    "collections",
+    "kids and family",
+    "no-returns",
+    "pod",
+    "pod collection",
+    "printful",
+    "Promo Eligible Collection",
+    "Q4",
+    "Title: Leo",
+    "Type: Accessories",
+    "Type: Bags",
+    "Vendor: Printful",
+    "View All"
+  ],
+  "variants": [
+    {
+      "id": 41821540581423,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "1079844_9063",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 1134,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7325845913647,
+      "created_at": "2023-10-27T12:26:51-04:00",
+      "updated_at": "2025-09-22T11:41:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33078654107695,
+      "created_at": "2023-11-20T19:21:45-05:00",
+      "position": 1,
+      "updated_at": "2023-11-20T19:21:46-05:00",
+      "product_id": 7325845913647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Leo-Backpack-06.png?v=1700526106",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 33078654205999,
+      "created_at": "2023-11-20T19:21:49-05:00",
+      "position": 2,
+      "updated_at": "2023-11-20T19:21:50-05:00",
+      "product_id": 7325845913647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Leo-Backpack-10.png?v=1700526110",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 33078654140463,
+      "created_at": "2023-11-20T19:21:46-05:00",
+      "position": 3,
+      "updated_at": "2023-11-20T19:21:50-05:00",
+      "product_id": 7325845913647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Leo-Backpack-08.png?v=1700526110",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 33078654173231,
+      "created_at": "2023-11-20T19:21:49-05:00",
+      "position": 4,
+      "updated_at": "2023-11-20T19:21:50-05:00",
+      "product_id": 7325845913647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Leo-Backpack-09.png?v=1700526110",
+      "width": 1200,
+      "height": 1560
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 45,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Leo-Backpack-06.png?v=1700526106",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful",
+  "category": "Backpacks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

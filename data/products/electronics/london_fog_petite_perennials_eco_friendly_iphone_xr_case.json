@@ -1,0 +1,120 @@
+{
+  "id": 7536126394456,
+  "title": "London Fog Petite Perennials iPhone XR Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-xr-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:46-05:00",
+  "created_at": "2024-01-15T11:10:03-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021638744,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126394456,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079724216408,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:03-05:00",
+      "product_id": 7536126394456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IPXR_LondonFog.jpg?v=1705335003",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088879300696,
+      "created_at": "2024-01-17T10:28:15-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:28:24-05:00",
+      "product_id": 7536126394456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_9080a99d-9036-4f6b-be4e-cfb6316b044b.png?v=1705505304",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088879235160,
+      "created_at": "2024-01-17T10:28:15-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:28:24-05:00",
+      "product_id": 7536126394456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_1423ecda-1647-4eb2-9f9e-f018437a2090.png?v=1705505304",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088879267928,
+      "created_at": "2024-01-17T10:28:15-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:28:24-05:00",
+      "product_id": 7536126394456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_438d08e2-1dc5-4b5f-b1ef-2ef284eb398f.png?v=1705505304",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088879202392,
+      "created_at": "2024-01-17T10:28:15-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:28:24-05:00",
+      "product_id": 7536126394456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_2c19d91c-d482-4ac7-91ae-d17dbac3d1f6.png?v=1705505304",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IPXR_LondonFog.jpg?v=1705335003",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

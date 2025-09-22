@@ -1,0 +1,108 @@
+{
+  "id": 8444632825944,
+  "title": "Seashell Coastal Club Google Pixel 10 Pro XL Case",
+  "handle": "seashell-coastal-club-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to vibe like it’s vacay every day with the Coastal Club Phone Case! ☀️🍹 This beachy beauty is decked out in doodles of palm trees, parasols, cocktails, bikinis, and more—basically everything you’d pack for your dream seaside escape. Whether you're soaking up sun or just wish you were, this case brings the beach party straight to your pocket. SPF not included. 😎🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T11:14:14-04:00",
+  "created_at": "2025-08-08T11:04:16-04:00",
+  "updated_at": "2025-09-22T15:13:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107936960600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15821-PX10PXL-SEASHELL-AOD:COASTAL-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444632825944,
+      "created_at": "2025-08-08T11:04:16-04:00",
+      "updated_at": "2025-09-22T15:13:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567075917912,
+      "created_at": "2025-08-08T11:04:16-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:04:19-04:00",
+      "product_id": 8444632825944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_PX10PXL_Seashell.jpg?v=1754665459",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35584538640472,
+      "created_at": "2025-08-12T10:28:22-04:00",
+      "position": 2,
+      "updated_at": "2025-08-12T10:28:31-04:00",
+      "product_id": 8444632825944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_02_9e42c4d4-851c-4189-852e-8ae07547f687.jpg?v=1755008911",
+      "width": 1088,
+      "height": 1088
+    },
+    {
+      "id": 35584538607704,
+      "created_at": "2025-08-12T10:28:22-04:00",
+      "position": 3,
+      "updated_at": "2025-08-12T10:28:31-04:00",
+      "product_id": 8444632825944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_01_b1e4a560-0615-4150-9525-8e85155156a6.jpg?v=1755008911",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35584538574936,
+      "created_at": "2025-08-12T10:28:22-04:00",
+      "position": 4,
+      "updated_at": "2025-08-12T10:28:31-04:00",
+      "product_id": 8444632825944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_03_4baa7670-1c36-49e8-8a20-bc227fdad8a8.jpg?v=1755008911",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_PX10PXL_Seashell.jpg?v=1754665459",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

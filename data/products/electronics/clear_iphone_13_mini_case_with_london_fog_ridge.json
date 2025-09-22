@@ -1,0 +1,71 @@
+{
+  "id": 7033216172120,
+  "title": "Clear iPhone 13 Mini Case with London Fog Ridge",
+  "handle": "clear-iphone-13-mini-case-with-london-fog-ridge",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span>",
+  "published_at": "2023-10-17T10:17:12-04:00",
+  "created_at": "2022-03-15T16:58:47-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "Phone Case",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39875849355352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28354-IP13MINI-LFOG-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 37,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7033216172120,
+      "created_at": "2022-03-15T16:58:47-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 29384802533464,
+      "created_at": "2022-03-25T15:39:06-04:00",
+      "position": 1,
+      "updated_at": "2022-03-25T15:39:07-04:00",
+      "product_id": 7033216172120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Mini_Clear_AOD_LondonFog_Back.jpg?v=1648237147",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Mini_Clear_AOD_LondonFog_Back.jpg?v=1648237147",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 6805826109642,
+  "title": "Gymshark 1.5L Water Bottle - Retro Blue",
+  "handle": "gymshark-1-5l-water-bottle-retro-blue-ss24",
+  "body_html": "<p><strong>H2O ON THE GO</strong></p>\n<p><br>In the gym, at home or out and about, be hydration-ready with the 1.5L Water Bottle.</p>\n<p> </p>\n<p><br>• Convenient side-handle for carrying<br>• Durable stainless steel screw cap<br>• ml markings on the side to track how much you’re drinking</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• Volume: 1.5 litres<br>• Size: 11.5cm x 24cm</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• Do not microwave<br>• Not dishwasher safe<br>• PETG material (BPA free)</p>\n<p><br><strong>Note: For hygiene reasons, all our bottles and shakers are non-refundable.</strong></p>\n<p><br>SKU: I1A2J-UCMP</p>",
+  "published_at": "2024-04-16T09:32:01-07:00",
+  "created_at": "2024-03-01T06:03:10-08:00",
+  "updated_at": "2025-09-22T08:45:53-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "28/03/24",
+    "accessories",
+    "all-products",
+    "bfcm24",
+    "Bottles",
+    "category:Bottles",
+    "concert-ready",
+    "created_by:product-service",
+    "division:Accessories",
+    "fathers-day",
+    "festival-ready",
+    "filter-colour:Blue",
+    "INTL-25/04/24",
+    "NAM-28/03/24",
+    "NAM-28/03/24NPD",
+    "no-returns",
+    "no-returns:2024-07-05T01:00:00_2024-07-08T08:00:00",
+    "percentageInStockV2",
+    "range:Lifting Goods",
+    "seamtype:Accessories",
+    "segmentation:Lifting",
+    "SS24",
+    "subcategory:Large Plastic",
+    "test",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39792301473994,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A2J-UCMP-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "14.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805826109642,
+      "created_at": "2024-03-01T06:03:10-08:00",
+      "updated_at": "2025-09-22T08:45:53-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28981031239882,
+      "created_at": "2024-04-23T07:10:37-07:00",
+      "position": 1,
+      "updated_at": "2024-04-23T07:10:39-07:00",
+      "product_id": 6805826109642,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/1.5LWaterBottleGSRetroBlueI1A2J-UCMP-0020.jpg?v=1713881439",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981032681674,
+      "created_at": "2024-04-23T07:10:37-07:00",
+      "position": 2,
+      "updated_at": "2024-04-23T07:10:40-07:00",
+      "product_id": 6805826109642,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/1.5LWaterBottleGSRetroBlueI1A2J-UCMP-0022.jpg?v=1713881440",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981029994698,
+      "created_at": "2024-04-23T07:10:37-07:00",
+      "position": 3,
+      "updated_at": "2024-04-23T07:10:38-07:00",
+      "product_id": 6805826109642,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/1.5LWaterBottleGSRetroBlueI1A2J-UCMP-0024.jpg?v=1713881438",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/1.5LWaterBottleGSRetroBlueI1A2J-UCMP-0020.jpg?v=1713881439",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

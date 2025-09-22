@@ -1,0 +1,69 @@
+{
+  "id": 5321873916071,
+  "title": "Brand: Z-Clear / Part #: 50501",
+  "handle": "mm30522406",
+  "body_html": "<br><strong>Item #: </strong>99798217<br><strong>Brand: </strong>Z-Clear<br><strong>Model #: </strong>50501<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cleaning Supplies Type</strong>\n</td>\n<td>Cleaning Wipes</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Glasses</td>\n</tr>\n<tr>\n<td><strong>Cleaner Type</strong></td>\n<td>Pre-Moistened; Silicone Free; Alcohol Free; Dry</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Fabric</td>\n</tr>\n<tr>\n<td><strong>Individually Wrapped</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Dispenser Height (Fractional Inch)</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Dispenser Height (cm)</strong></td>\n<td>0.70</td>\n</tr>\n<tr>\n<td><strong>Dispenser Width (Fractional Inch)</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Dispenser Depth (Fractional Inch)</strong></td>\n<td>5.75</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>OSHA</td>\n</tr>\n<tr>\n<td><strong>Towelette/Tissue Properties</strong></td>\n<td>Non-Toxic; Anti-Static; Non-Alcohol; Anti-Fog</td>\n</tr>\n<tr>\n<td><strong>Number of Towelettes/ Tissues</strong></td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>7830</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T07:18:30-06:00",
+  "created_at": "2020-06-12T11:55:15-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Z-Clear",
+  "product_type": "Safety",
+  "tags": [
+    "Coated Abrasives",
+    "Personal Protective Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34694187745447,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99798217",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.74",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321873916071,
+      "created_at": "2020-06-12T11:55:15-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239014453415,
+      "created_at": "2025-02-03T19:15:25-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:15:27-06:00",
+      "product_id": 5321873916071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9979821-21.jpg?v=1738631727",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.74,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9979821-21.jpg?v=1738631727",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Z-Clear",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

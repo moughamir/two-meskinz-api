@@ -1,0 +1,109 @@
+{
+  "id": 8307893469272,
+  "title": "Seashell Cowgirl Chic iPhone 14 Plus Case",
+  "handle": "seashell-cowgirl-chic-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up, sweetheart—<em data-start=\"60\" data-end=\"74\">Cowgirl Chic Phone Case</em> is bringing western charm with a flirty twist! <meta charset=\"utf-8\">🌵<meta charset=\"utf-8\">🎲 This doodle-style design is packed with cowgirl hats, boots, lucky dice, cherries, bows, and all the rodeo-ready details you need to show off your wild side. Whether you’re a rodeo queen, country concert regular, or just love a little yeehaw energy, this case is the perfect mix of western and whimsy.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-03T09:13:07-04:00",
+  "created_at": "2025-03-07T11:10:54-05:00",
+  "updated_at": "2025-09-22T15:14:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Cowgirl Chic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718291296344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:COWGIRL-CHIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307893469272,
+      "created_at": "2025-03-07T11:10:54-05:00",
+      "updated_at": "2025-09-22T15:14:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655141855320,
+      "created_at": "2025-03-07T11:10:54-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T11:10:56-05:00",
+      "product_id": 8307893469272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COWGIRL-CHIC_IP14PLUS_Seashell.jpg?v=1741363856",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34769185407064,
+      "created_at": "2025-03-31T12:06:18-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T12:06:20-04:00",
+      "product_id": 8307893469272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_03Large_2a94563e-6c4a-4fbc-ac86-f4f7d17c4bbb.jpg?v=1743437180",
+      "width": 1024,
+      "height": 1280
+    },
+    {
+      "id": 34769185439832,
+      "created_at": "2025-03-31T12:06:18-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T12:06:20-04:00",
+      "product_id": 8307893469272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_01_2de15dc1-0374-423f-988b-7603bbf09428.jpg?v=1743437180",
+      "width": 4262,
+      "height": 5327
+    },
+    {
+      "id": 34769185374296,
+      "created_at": "2025-03-31T12:06:18-04:00",
+      "position": 4,
+      "updated_at": "2025-03-31T12:06:20-04:00",
+      "product_id": 8307893469272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_02_c294d6e1-d377-4709-9c9e-b71fec25927b.jpg?v=1743437180",
+      "width": 4335,
+      "height": 5419
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COWGIRL-CHIC_IP14PLUS_Seashell.jpg?v=1741363856",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

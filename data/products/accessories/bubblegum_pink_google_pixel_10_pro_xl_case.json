@@ -1,0 +1,92 @@
+{
+  "id": 8396683378776,
+  "title": "Bubblegum Pink Google Pixel 10 Pro XL Case",
+  "handle": "bubblegum-pink-google-pixel-10-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-08-20T09:59:56-04:00",
+  "created_at": "2025-06-09T15:23:05-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42936902123608,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "15825-PX10PXL-BUBPINK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8396683378776,
+      "created_at": "2025-06-09T15:23:06-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35462788153432,
+      "created_at": "2025-07-23T13:57:09-04:00",
+      "position": 1,
+      "updated_at": "2025-07-23T13:57:30-04:00",
+      "product_id": 8396683378776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_BUBBLEGUMPINK_BACK.jpg?v=1753293450",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462788087896,
+      "created_at": "2025-07-23T13:57:09-04:00",
+      "position": 2,
+      "updated_at": "2025-07-23T13:57:30-04:00",
+      "product_id": 8396683378776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_BUBBLEGUMPINK_BACK_45L.jpg?v=1753293450",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462788120664,
+      "created_at": "2025-07-23T13:57:09-04:00",
+      "position": 3,
+      "updated_at": "2025-07-23T13:57:30-04:00",
+      "product_id": 8396683378776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_BUBBLEGUMPINK_BACK_45R.jpg?v=1753293450",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_BUBBLEGUMPINK_BACK.jpg?v=1753293450",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

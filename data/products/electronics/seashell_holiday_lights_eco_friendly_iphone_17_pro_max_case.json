@@ -1,0 +1,129 @@
+{
+  "id": 8444682469464,
+  "title": "Seashell Holiday Lights iPhone 17 Pro Max Case",
+  "handle": "seashell-holiday-lights-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p class=\"p1\">It’s time to brighten up the season with the Holiday Lights Phone Case! Twinkling with colorful strands of classic holiday lights, this case brings all the cozy, festive vibes right to your phone. Whether you’re decking the halls or untangling lights, this design will keep your phone glowing with holiday cheer. Made from sustainable materials, it’s not just merry—it’s earth-friendly too. Keep your phone protected and let your holiday spirit shine bright with this delightful holiday case! <b>🎄💡</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:26:44-04:00",
+  "created_at": "2025-08-08T11:50:27-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184243900504,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:HOLIDAY-LIGHTS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444682469464,
+      "created_at": "2025-09-03T18:49:22-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184243933272,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:HOLIDAY-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444682469464,
+      "created_at": "2025-09-03T18:49:22-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567251849304,
+      "created_at": "2025-08-08T11:50:27-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:30-04:00",
+      "product_id": 8444682469464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP17PMAX_Seashell.jpg?v=1754668230",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677399289944,
+      "created_at": "2025-03-12T11:31:00-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T11:31:01-04:00",
+      "product_id": 8444682469464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP1_626235d1-fa21-4754-b04a-fcf0ee9c8406.jpg?v=1741793461",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677399322712,
+      "created_at": "2025-03-12T11:30:59-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T11:31:01-04:00",
+      "product_id": 8444682469464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP2_323a2020-4160-446d-912f-47fed5178baa.jpg?v=1741793461",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881035341912,
+      "created_at": "2024-10-28T14:50:21-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:50:22-04:00",
+      "product_id": 8444682469464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP3_c5601d4a-2ba5-4ec1-bf4e-a476ee04c35c.jpg?v=1730141422",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP17PMAX_Seashell.jpg?v=1754668230",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

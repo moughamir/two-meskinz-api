@@ -1,0 +1,114 @@
+{
+  "id": 6805477294282,
+  "title": "Gymshark Premium Lifestyle Laptop Sleeve 13 \" - Onyx Grey",
+  "handle": "gymshark-premium-lifestyle-laptop-sleeve-13-onyx-grey-aw23",
+  "body_html": "<p><strong>IT’S A LIFESTYLE</strong></p>\n<p><br data-mce-fragment=\"1\">Premium materials, metal accents, elegant branding details. When your day needs a little sophistication, the Lifestyle collection is the finishing touch.</p>\n<p> </p>\n<p>• Premium, durable fabric<br data-mce-fragment=\"1\">• Sophisticated branded metal accents</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• Fits a 13” laptop<br data-mce-fragment=\"1\">• Length: 12.5in. Height: 9.4in. Depth: 0.8in.</p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• Outer: 100% Nylon<br data-mce-fragment=\"1\">• Lining: 100% Polyester <br data-mce-fragment=\"1\">• Wipe clean only<br data-mce-fragment=\"1\">• Don’t wash, bleach, tumble dry, iron, or dry clean</p>\n<p><br data-mce-fragment=\"1\">SKU: I3A5Y-GB7N</p>",
+  "published_at": "2023-11-15T14:23:34-08:00",
+  "created_at": "2023-08-23T06:13:11-07:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1758186903",
+    "all-products",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Grey",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Lifestyle",
+    "rest-day",
+    "seamtype:Accessories",
+    "season:AW23",
+    "segmentation:Rest Day",
+    "subcategory:Tote",
+    "tier:2",
+    "tote-bags"
+  ],
+  "variants": [
+    {
+      "id": 39790165065930,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A5Y-GB7N-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805477294282,
+      "created_at": "2023-08-23T06:13:11-07:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976470655178,
+      "created_at": "2023-11-07T03:08:17-08:00",
+      "position": 1,
+      "updated_at": "2023-11-07T03:08:19-08:00",
+      "product_id": 6805477294282,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/PremiumLifestyleLaptopSleeve13GSOnyxGreyI3A5Y-GB7N1-0313.jpg?v=1699355299",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976469737674,
+      "created_at": "2023-11-07T03:08:17-08:00",
+      "position": 2,
+      "updated_at": "2023-11-07T03:08:18-08:00",
+      "product_id": 6805477294282,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/PremiumLifestyleLaptopSleeve13GSOnyxGreyI3A5Y-GB7N-0297.jpg?v=1699355298",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976470294730,
+      "created_at": "2023-11-07T03:08:17-08:00",
+      "position": 3,
+      "updated_at": "2023-11-07T03:08:18-08:00",
+      "product_id": 6805477294282,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/PremiumLifestyleLaptopSleeve13GSOnyxGreyI3A5Y-GB7N-0305.jpg?v=1699355298",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/PremiumLifestyleLaptopSleeve13GSOnyxGreyI3A5Y-GB7N1-0313.jpg?v=1699355299",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

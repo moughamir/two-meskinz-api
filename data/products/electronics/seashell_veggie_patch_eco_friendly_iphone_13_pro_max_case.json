@@ -1,0 +1,98 @@
+{
+  "id": 8286015553624,
+  "title": "Seashell Veggie Patch iPhone 13 Pro Max Case",
+  "handle": "seashell-veggie-patch-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Who said veggies can't be fun? <meta charset=\"utf-8\">🥬🥕 Sprout a little joy with the Veggie Patch Phone Case, bursting with playful, garden-grown goodies like crisp asparagus, vibrant garlic, and leafy greens. Every glance at your phone is a friendly reminder to keep things fresh, colorful, and sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:52:04-05:00",
+  "created_at": "2025-02-12T10:14:58-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Veggie Patch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658631254104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:VEGGIE-PATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286015553624,
+      "created_at": "2025-02-12T10:14:58-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505579364440,
+      "created_at": "2025-02-12T10:14:58-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:15:01-05:00",
+      "product_id": 8286015553624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP13PMAX_Seashell.jpg?v=1739373301",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34601114828888,
+      "created_at": "2025-02-26T16:14:31-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T16:14:32-05:00",
+      "product_id": 8286015553624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_53439f9d-d78e-4682-acc2-807370139f01.jpg?v=1740604472",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601114861656,
+      "created_at": "2025-02-26T16:14:31-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T16:14:32-05:00",
+      "product_id": 8286015553624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Friends_PDP_1x1_01_51d79eb0-08da-416b-8ca6-63af3aa01193.jpg?v=1740604472",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP13PMAX_Seashell.jpg?v=1739373301",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

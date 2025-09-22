@@ -1,0 +1,67 @@
+{
+  "id": 8453222170791,
+  "title": "0.437″ Diameter × 80 Grit, 4 1/2″ OAL, Silicon Carbide, 85 AY-Abrasive Nylon Brush",
+  "handle": "kp6047895",
+  "body_html": "<br><strong>Item #: </strong>MJ7485AY43780SC<br><strong>Brand: </strong>Brush Research<br><strong>Model #: </strong>85AY43780SC<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>85 AY-Abrasive Nylon Brush </td>\n</tr>\n<tr>\n<td><strong>Bristle Diameter</strong></td>\n<td>0.040″ </td>\n</tr>\n<tr>\n<td><strong>Diameter</strong></td>\n<td>0.437″ </td>\n</tr>\n<tr>\n<td><strong>Bore Diameter</strong></td>\n<td>0.437″ </td>\n</tr>\n<tr>\n<td><strong>Stem Diameter</strong></td>\n<td>0.168″ </td>\n</tr>\n<tr>\n<td><strong>Maximum RPM</strong></td>\n<td>2,000 </td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Silicon Carbide </td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>85 AY-Abrasive Nylon Brush </td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>4 1/2″ </td>\n</tr>\n<tr>\n<td><strong>Brush Diameter</strong></td>\n<td>0.481″ </td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>80 </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:58:00-06:00",
+  "created_at": "2025-01-23T21:57:59-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Brush Research",
+  "product_type": "Abrasives & Finishing",
+  "tags": [
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 46499884236967,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MJ7485AY43780SC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.51",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453222170791,
+      "created_at": "2025-01-23T21:57:59-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143753519271,
+      "created_at": "2025-01-23T21:58:09-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:58:10-06:00",
+      "product_id": 8453222170791,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_85ay_series_2_cp_b3c6_8228c807-086e-4765-bdda-793276b4e4a3.jpg?v=1737691090",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_85ay_series_2_cp_b3c6_8228c807-086e-4765-bdda-793276b4e4a3.jpg?v=1737691090",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brush Research",
+  "category": "Abrasives & Finishing",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

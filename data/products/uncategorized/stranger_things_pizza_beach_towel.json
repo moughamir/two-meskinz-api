@@ -1,0 +1,102 @@
+{
+  "id": 8039268253743,
+  "title": "Stranger Things Pizza Beach Towel",
+  "handle": "stranger-things-pizza-beach-towel",
+  "body_html": "<p>Dry off in true <em>Stranger Things</em> style with the Surfer Boy Pizza Beach Towel, inspired by Argyle's laid-back vibes and the fan-favorite Surfer Boy Pizza van from Season 4. Whether you're chilling poolside, hitting the beach, or just escaping the Upside Down for some sun, this towel delivers bold 80s flair and Hawkins-approved cool. </p><ul>\n<li> Made of: 52% cotton, 48% polyester </li>\n<li>Made of terry fabric, making the towel more water-absorbent</li>\n<li>Machine wash cold with like colors at no more than 86ºF (30ºC). Don't use bleach and don't dry-clean. It's best to hang-dry, but tumble-drying can be used on a low cycle if necessary.</li>\n</ul>",
+  "published_at": "2025-08-13T12:30:10-04:00",
+  "created_at": "2025-08-11T14:30:43-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Towels",
+  "tags": [
+    "80057281",
+    "Home and Office",
+    "Netflix",
+    "series_id-80057281",
+    "shop all",
+    "ST-SS-0825",
+    "Stranger Things",
+    "Sublimated Towel",
+    "Towels",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44420336648239,
+      "title": "30 in x 60 in",
+      "option1": "30 in x 60 in",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101502-0001-ST-SS-0825-TOWL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37046554525743,
+        "product_id": 8039268253743,
+        "position": 1,
+        "created_at": "2025-08-11T14:30:53-04:00",
+        "updated_at": "2025-08-11T14:30:56-04:00",
+        "alt": "Stranger Things Pizza Beach Towel",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-TOWL_101502_MF.jpg?v=1754937056",
+        "variant_ids": [
+          44420336648239
+        ]
+      },
+      "available": true,
+      "price": "42.95",
+      "grams": 1134,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8039268253743,
+      "created_at": "2025-08-11T14:30:43-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 37046554525743,
+      "created_at": "2025-08-11T14:30:53-04:00",
+      "position": 1,
+      "updated_at": "2025-08-11T14:30:56-04:00",
+      "product_id": 8039268253743,
+      "variant_ids": [
+        44420336648239
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-TOWL_101502_MF.jpg?v=1754937056",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37046554558511,
+      "created_at": "2025-08-11T14:30:53-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:30:56-04:00",
+      "product_id": 8039268253743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-TOWL_101502_DETS_MF.jpg?v=1754937056",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "30 in x 60 in"
+      ]
+    }
+  ],
+  "price": 42.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-TOWL_101502_MF.jpg?v=1754937056",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 7358873174104,
+  "title": "Black Fairy Forest iPhone 14 Pro Case",
+  "handle": "black-fairy-forest-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🧚‍♂️ Step into a magical realm with our Fairy Forest Phone Case by Pela! This enchanting design showcases a vibrant tapestry of delicate flowers and lush greenery against a midnight black background, reminiscent of a fairy-tale woodland in full bloom. Perfect for those who adore a touch of whimsy and elegance, this case transforms your device into a delightful garden that's always in bloom. Let your phone be the gateway to your own enchanted forest adventure! 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:13:12-04:00",
+  "created_at": "2023-03-31T13:55:44-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fairy Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221306945624,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16795-IP14P-BLACK-AOD:FAIRY-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358873174104,
+      "created_at": "2023-03-31T13:55:44-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233612746840,
+      "created_at": "2023-03-31T13:55:44-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:44-04:00",
+      "product_id": 7358873174104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_IP14P_Black.jpg?v=1680285344",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241102790744,
+      "created_at": "2023-04-12T14:40:12-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T14:40:14-04:00",
+      "product_id": 7358873174104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden3_a161ae21-6fee-447f-a4b2-2700373987ef.png?v=1681324814",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241102757976,
+      "created_at": "2023-04-12T14:40:12-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T14:40:16-04:00",
+      "product_id": 7358873174104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_d864a283-cd26-4640-b770-dd931ccc40eb.png?v=1681324816",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241102823512,
+      "created_at": "2023-04-12T14:40:12-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T14:40:16-04:00",
+      "product_id": 7358873174104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_5e142a8d-5662-43a5-ac3a-2ddaf659c5c1.png?v=1681324816",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236634447960,
+      "created_at": "2023-04-05T18:20:13-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T14:40:16-04:00",
+      "product_id": 7358873174104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9064_4eb9b2f9-9cc3-4eaa-9bee-a35508bcded8.png?v=1681324816",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_IP14P_Black.jpg?v=1680285344",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

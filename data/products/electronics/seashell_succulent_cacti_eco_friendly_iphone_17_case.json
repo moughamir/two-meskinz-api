@@ -1,0 +1,129 @@
+{
+  "id": 8444649013336,
+  "title": "Seashell Succulent Cacti iPhone 17 Case",
+  "handle": "seashell-succulent-cacti-eco-friendly-iphone-17-case",
+  "body_html": "<p><span>Introducing the Succulent Cacti Phone Case, a vibrant tribute to the resilient beauty of the desert, from the Coastal Cowgirl Collection by Pela.  The intricate design, featuring a variety of cacti, brings a piece of the arid desert to your daily life, adding a touch of nature's artistry to your tech. 🌵🌿🌊</span></p>\n<p><span>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-09-09T16:08:54-04:00",
+  "created_at": "2025-08-08T11:48:26-04:00",
+  "updated_at": "2025-09-22T15:12:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Cowgirl",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Succulent Cacti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184266346584,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:SUCCULENT-CACTI_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444649013336,
+      "created_at": "2025-09-03T18:53:57-04:00",
+      "updated_at": "2025-09-22T15:12:47-04:00"
+    },
+    {
+      "id": 43184266379352,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:SUCCULENT-CACTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444649013336,
+      "created_at": "2025-09-03T18:53:57-04:00",
+      "updated_at": "2025-09-22T15:12:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567179759704,
+      "created_at": "2025-08-08T11:48:26-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:28-04:00",
+      "product_id": 8444649013336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUCCULENT-CACTI_IP17_Seashell.jpg?v=1754668108",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388317272,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 2,
+      "updated_at": "2025-08-12T10:54:51-04:00",
+      "product_id": 8444649013336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_1.jpg?v=1755010491",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388350040,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 3,
+      "updated_at": "2025-08-12T10:55:13-04:00",
+      "product_id": 8444649013336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_3.jpg?v=1755010513",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388382808,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 4,
+      "updated_at": "2025-08-12T10:55:04-04:00",
+      "product_id": 8444649013336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_2.jpg?v=1755010504",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUCCULENT-CACTI_IP17_Seashell.jpg?v=1754668108",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

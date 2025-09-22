@@ -1,0 +1,67 @@
+{
+  "id": 7786445242535,
+  "title": "Brand: Ability One / Part #: 651500NIB0304",
+  "handle": "wk402256466",
+  "body_html": "<br><strong>Item #: </strong>29253440<br><strong>Brand: </strong>Ability One<br><strong>Model #: </strong>651500NIB0304<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Primary Material</strong>\n</td>\n<td>Latex</td>\n</tr>\n<tr>\n<td><strong>Powdered</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>Large</td>\n</tr>\n<tr>\n<td><strong>Package Quantity</strong></td>\n<td>1000 Count</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:44:28-06:00",
+  "created_at": "2023-12-30T01:44:28-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Ability One",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43708029206695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "29253440",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.55",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786445242535,
+      "created_at": "2023-12-30T01:44:28-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238697423015,
+      "created_at": "2025-02-03T19:00:22-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:00:23-06:00",
+      "product_id": 7786445242535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2925344-21.jpg?v=1738630823",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2925344-21.jpg?v=1738630823",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ability One",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

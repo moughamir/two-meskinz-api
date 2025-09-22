@@ -1,0 +1,98 @@
+{
+  "id": 8243496681560,
+  "title": "Seashell Noodle Fiesta iPhone 13 Case",
+  "handle": "seashell-noodle-fiesta-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to celebrate your love for carbs with the Noodle Fiesta Phone Case! Featuring a vibrant array of pasta shapes—bowties, macaroni, rigatoni, and more—this design is a feast of fun and flavor. Perfect for foodies and pasta enthusiasts alike, it’s a case that brings the joy of your favorite noodles to your everyday style. <meta charset=\"utf-8\">🍝🎉</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:03:39-05:00",
+  "created_at": "2025-01-08T12:41:07-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Noodle Fiesta",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541141131352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:NOODLE-FIESTA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243496681560,
+      "created_at": "2025-01-08T12:41:07-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242774302808,
+      "created_at": "2025-01-08T12:41:07-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:09-05:00",
+      "product_id": 8243496681560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_IP13_Seashell.jpg?v=1736358069",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357485273176,
+      "created_at": "2025-01-23T11:28:34-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T11:28:36-05:00",
+      "product_id": 8243496681560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP1_db4b528a-85a4-47a5-9eb8-0704272be2c2.jpg?v=1737649716",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357485305944,
+      "created_at": "2025-01-23T11:28:34-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T11:28:36-05:00",
+      "product_id": 8243496681560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP2_3b223333-90a2-4663-b8ab-8234da154464.jpg?v=1737649716",
+      "width": 3218,
+      "height": 3218
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_IP13_Seashell.jpg?v=1736358069",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 7364971692120,
+  "title": "Black Glow Google Pixel 6 Case",
+  "handle": "black-glow-eco-friendly-google-pixel-6-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-16T09:23:03-04:00",
+  "created_at": "2023-06-09T14:12:23-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236440682584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14700-PX6-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364971692120,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285609500760,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7364971692120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_PX6_Black.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287718482008,
+      "created_at": "2023-06-13T14:26:52-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:26:53-04:00",
+      "product_id": 7364971692120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_5dca23c0-acb0-4fc5-83f0-2b9e06c9c27a.jpg?v=1686680813",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287718547544,
+      "created_at": "2023-06-13T14:26:52-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:26:54-04:00",
+      "product_id": 7364971692120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_f78a2b90-57b6-4f0d-af59-5b1af3e19cc0.png?v=1686680814",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287718514776,
+      "created_at": "2023-06-13T14:26:52-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:26:54-04:00",
+      "product_id": 7364971692120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_11a2bc6f-a8dc-44da-8485-58e3759a6ace.png?v=1686680814",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_PX6_Black.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

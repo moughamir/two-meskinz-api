@@ -1,0 +1,67 @@
+{
+  "id": 7786158653607,
+  "title": "Brand: Lincoln Pack / Part #: LP1600",
+  "handle": "wk612760381",
+  "body_html": "<br><strong>Item #: </strong>96761556<br><strong>Brand: </strong>Lincoln Pack<br><strong>Model #: </strong>LP1600<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Paper Style</strong>\n</td>\n<td>Roll</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Brown</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:55:33-06:00",
+  "created_at": "2023-12-29T11:55:33-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Lincoln Pack",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Packaging & Shipping Supplies"
+  ],
+  "variants": [
+    {
+      "id": 43707097317543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96761556",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786158653607,
+      "created_at": "2023-12-29T11:55:34-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237950771367,
+      "created_at": "2025-02-03T18:30:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:34-06:00",
+      "product_id": 7786158653607,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9676155-21.jpg?v=1738629034",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9676155-21.jpg?v=1738629034",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lincoln Pack",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

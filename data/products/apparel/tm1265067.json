@@ -1,0 +1,68 @@
+{
+  "id": 5343293472935,
+  "title": "‎H40ALV-R-30375-R.015 ZPLUS COATED",
+  "handle": "tm1265067",
+  "body_html": "<br><strong>Item #: </strong>HS1048266<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>48266<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Corner Radius (RE)</strong></td>\n<td>0.015″ </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>2.5D </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎2-1/2″ </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.375″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>ZPLUS </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>3 </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>1.5″ </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:58:31-06:00",
+  "created_at": "2020-06-16T18:19:29-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "Coated Abrasives",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34754271772839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HS1048266",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.16",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5343293472935,
+      "created_at": "2020-06-16T18:19:30-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38141382557863,
+      "created_at": "2025-01-23T20:58:38-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:58:40-06:00",
+      "product_id": 5343293472935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_922db5bc-e6e1-4e16-bec9-3ed9805e5892.png?v=1737687520",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_922db5bc-e6e1-4e16-bec9-3ed9805e5892.png?v=1737687520",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

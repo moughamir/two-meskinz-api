@@ -1,0 +1,108 @@
+{
+  "id": 8259875307608,
+  "title": "Seashell Carbs Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-carbs-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:00:16-05:00",
+  "created_at": "2025-01-20T13:45:58-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42579118096472,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8259875307608,
+      "created_at": "2025-01-20T13:45:59-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34336477544536,
+      "created_at": "2025-01-20T13:45:59-05:00",
+      "position": 1,
+      "updated_at": "2025-01-20T13:46:01-05:00",
+      "product_id": 8259875307608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S25ULTRA_Seashell.jpg?v=1737398761",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357641085016,
+      "created_at": "2025-01-23T12:04:31-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T12:04:33-05:00",
+      "product_id": 8259875307608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_f919ece3-4698-490b-ab3f-4976366e880b.jpg?v=1737651873",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357641248856,
+      "created_at": "2025-01-23T12:04:32-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T12:04:35-05:00",
+      "product_id": 8259875307608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_74e2fa64-4959-4192-b397-be4dfc85512d.jpg?v=1737651875",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357641052248,
+      "created_at": "2025-01-23T12:04:31-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T12:04:35-05:00",
+      "product_id": 8259875307608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_9fe9dcf9-448b-491e-9dcf-b503fe473453.jpg?v=1737651875",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S25ULTRA_Seashell.jpg?v=1737398761",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

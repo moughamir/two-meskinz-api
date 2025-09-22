@@ -1,0 +1,108 @@
+{
+  "id": 8397881868376,
+  "title": "Seashell Whimsy Shapes Google Pixel 8 Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:25:31-04:00",
+  "created_at": "2025-06-10T10:31:34-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939097612376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14954-PX8-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397881868376,
+      "created_at": "2025-06-10T10:31:34-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200263749720,
+      "created_at": "2025-06-10T10:31:34-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:36-04:00",
+      "product_id": 8397881868376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_PX8_Seashell.jpg?v=1749565896",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288763596888,
+      "created_at": "2025-06-24T14:41:50-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:41:50-04:00",
+      "product_id": 8397881868376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_6193a0e8-5ad2-4bc4-9e04-a4668014c28e.jpg?v=1750790510",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288764055640,
+      "created_at": "2025-06-24T14:41:52-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:41:52-04:00",
+      "product_id": 8397881868376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_c3841df2-5e19-4deb-b291-ac8596aef6e8.jpg?v=1750790512",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288764317784,
+      "created_at": "2025-06-24T14:41:53-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:41:53-04:00",
+      "product_id": 8397881868376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_cc8b35af-3893-407d-95ca-d4272768ac81.jpg?v=1750790513",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_PX8_Seashell.jpg?v=1749565896",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

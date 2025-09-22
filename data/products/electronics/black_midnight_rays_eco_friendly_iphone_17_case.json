@@ -1,0 +1,118 @@
+{
+  "id": 8444704030808,
+  "title": "Black Midnight Rays iPhone 17 Case",
+  "handle": "black-midnight-rays-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Glide into the deep blue with the Midnight Rays Phone Case. Featuring a graceful school of spotted eagle rays against a moody ocean backdrop, this case is here to make waves—quietly but confidently. It’s equal parts sleek, mysterious, and <em data-start=\"239\" data-end=\"254\">fintastically</em> stylish. 🐚🌊✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:53:39-04:00",
+  "created_at": "2025-08-08T11:51:44-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Midnight Rays",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184094576728,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17460-IP17-BLACK-AOD:MIDNIGHT-RAYS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444704030808,
+      "created_at": "2025-09-03T18:24:12-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184094609496,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17460-IP17-BLACK-AOD:MIDNIGHT-RAYS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444704030808,
+      "created_at": "2025-09-03T18:24:12-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567298445400,
+      "created_at": "2025-08-08T11:51:44-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:46-04:00",
+      "product_id": 8444704030808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHT-RAYS_IP17_Black.jpg?v=1754668306",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102659051608,
+      "created_at": "2025-05-27T13:43:59-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T14:31:54-04:00",
+      "product_id": 8444704030808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Midnight_Rays_1.jpg?v=1755196314",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102659215448,
+      "created_at": "2025-05-27T13:44:01-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T14:32:03-04:00",
+      "product_id": 8444704030808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Midnight_Rays_2.jpg?v=1755196323",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHT-RAYS_IP17_Black.jpg?v=1754668306",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8254962991192,
+  "title": "Sage Green Tiny Turtles Samsung Galaxy S25 Case",
+  "handle": "sage-green-tiny-turtles-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the cuteness with the Tiny Turtles Phone Case! 🐢💚 This adorable case showcases a delightful pattern of charming little turtles, bringing a touch of ocean whimsy to your daily life. The soft sage green backdrop perfectly complements the playful turtle design, making your phone stand out with a fun and unique flair. Embrace the joy and serenity of the sea with the Tiny Turtles Phone Case and let these little swimmers brighten up your day! 🌊✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:27:18-05:00",
+  "created_at": "2025-01-15T11:45:12-05:00",
+  "updated_at": "2025-09-22T15:15:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Turtles",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tiny Turtles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567879589976,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13899-S25-SAGE-AOD:TINY-TURTLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254962991192,
+      "created_at": "2025-01-15T11:45:12-05:00",
+      "updated_at": "2025-09-22T15:15:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303577751640,
+      "created_at": "2025-01-15T11:45:12-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:14-05:00",
+      "product_id": 8254962991192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TINY-TURTLES_S25_SageGreen.jpg?v=1736959514",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678609641560,
+      "created_at": "2025-03-12T16:31:41-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T16:31:43-04:00",
+      "product_id": 8254962991192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A4266_2000x2000_c71038bc-3132-48d0-a9e1-7cf9582ed5bf.jpg?v=1741811503",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678609608792,
+      "created_at": "2025-03-12T16:31:41-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T16:31:43-04:00",
+      "product_id": 8254962991192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A4241_2000x2000_ca1ef6c7-b54e-4d2a-9ed6-f039304bed42.jpg?v=1741811503",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TINY-TURTLES_S25_SageGreen.jpg?v=1736959514",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

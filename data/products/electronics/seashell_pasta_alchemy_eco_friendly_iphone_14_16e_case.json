@@ -1,0 +1,109 @@
+{
+  "id": 8243494715480,
+  "title": "Seashell Pasta Alchemy iPhone 14/16e Case",
+  "handle": "seashell-pasta-alchemy-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a masterpiece with the Pasta Alchemy Phone Case! Featuring a vibrant medley of pasta shapes, fresh ingredients like tomatoes, garlic, olives, and cheese, this case is a feast for the eyes. It’s perfect for foodies, pasta lovers, and anyone who believes in the magic of a great meal. <meta charset=\"utf-8\">Stir up some fun and let your style simmer with this delicious design! <meta charset=\"utf-8\">🍝🍅🧄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:06:57-05:00",
+  "created_at": "2025-01-08T12:41:02-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Pasta Alchemy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541139296344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:PASTA-ALCHEMY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243494715480,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242770600024,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:04-05:00",
+      "product_id": 8243494715480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP14_Seashell.jpg?v=1736358064",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357449752664,
+      "created_at": "2025-01-23T10:46:04-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:46:06-05:00",
+      "product_id": 8243494715480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP1_e7f12520-d488-4085-8b5d-beb3d1e99c82.jpg?v=1737647166",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357449818200,
+      "created_at": "2025-01-23T10:46:04-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:46:08-05:00",
+      "product_id": 8243494715480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP3_02030537-582f-4a7b-9f8a-7d1c30b1adb4.jpg?v=1737647168",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357449785432,
+      "created_at": "2025-01-23T10:46:04-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:46:08-05:00",
+      "product_id": 8243494715480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP2_64dd6b89-8ee9-491a-8a05-f8db65462c46.jpg?v=1737647168",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP14_Seashell.jpg?v=1736358064",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

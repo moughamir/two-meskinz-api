@@ -1,0 +1,113 @@
+{
+  "id": 7986360844335,
+  "title": "Stranger Things Stuck In The Upside Down Tote Bag",
+  "handle": "stranger-things-stuck-in-the-upside-down-tote-bag",
+  "body_html": "<p>Step into the eerie world of <em>Hawkins</em> with the <em>Stranger Things</em> Stuck In The Upside Down Tote Bag. Featuring a bold design inspired by the show's most chilling dimension, this bag is perfect for fans who love mystery, retro vibes, and everyday utility. Great for books, groceries, or daily essentials—this tote blends fandom with function. </p><ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\". </li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim. </li>\n<li>Care: Handwash.</li>\n</ul>",
+  "published_at": "2025-08-21T11:30:53-04:00",
+  "created_at": "2025-06-12T12:17:37-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "80057281",
+    "Accessories",
+    "All-Over Print",
+    "Badge: New | #FFFFFF | #000000",
+    "Bags",
+    "Netflix",
+    "new",
+    "series_id-80057281",
+    "ST-PP-1025",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Tote Bags",
+    "Type: Accessories",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43874948055087,
+      "title": "Black Handles / 15 in x 15 in",
+      "option1": "Black Handles",
+      "option2": "15 in x 15 in",
+      "option3": null,
+      "sku": "ST-100645-0001-ST-SIDU",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36196504272943,
+        "product_id": 7986360844335,
+        "position": 1,
+        "created_at": "2025-06-12T12:17:49-04:00",
+        "updated_at": "2025-06-12T12:17:51-04:00",
+        "alt": "Stranger Things Stuck In The Upside Down Tote Bag Black Handles",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SIDU_ST-PP-1025_101210_LIFE17.png?v=1749745071",
+        "variant_ids": [
+          43874948055087
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7986360844335,
+      "created_at": "2025-06-12T12:17:37-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36196504272943,
+      "created_at": "2025-06-12T12:17:49-04:00",
+      "position": 1,
+      "updated_at": "2025-06-12T12:17:51-04:00",
+      "product_id": 7986360844335,
+      "variant_ids": [
+        43874948055087
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SIDU_ST-PP-1025_101210_LIFE17.png?v=1749745071",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36196504371247,
+      "created_at": "2025-06-12T12:17:49-04:00",
+      "position": 2,
+      "updated_at": "2025-06-12T12:17:51-04:00",
+      "product_id": 7986360844335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SIDU_ST-PP-1025_101210_LIFE14.png?v=1749745071",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Handles"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "15 in x 15 in"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SIDU_ST-PP-1025_101210_LIFE17.png?v=1749745071",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 7495944863832,
+  "title": "Honey Samsung S24 Phone Case",
+  "handle": "honey-samsung-s24-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2024-01-17T09:33:39-05:00",
+  "created_at": "2023-12-01T13:08:50-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40802653175896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13788-S24-HONEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7495944863832,
+      "created_at": "2023-12-01T13:08:51-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32010144710744,
+      "created_at": "2023-12-21T11:24:44-05:00",
+      "position": 1,
+      "updated_at": "2023-12-21T11:24:47-05:00",
+      "product_id": 7495944863832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_HONEY_BACK.jpg?v=1703175887",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010144743512,
+      "created_at": "2023-12-21T11:24:44-05:00",
+      "position": 2,
+      "updated_at": "2023-12-21T11:24:47-05:00",
+      "product_id": 7495944863832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_HONEY_BACK_45L.jpg?v=1703175887",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010144776280,
+      "created_at": "2023-12-21T11:24:44-05:00",
+      "position": 3,
+      "updated_at": "2023-12-21T11:24:47-05:00",
+      "product_id": 7495944863832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_HONEY_BACK_45R.jpg?v=1703175887",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_HONEY_BACK.jpg?v=1703175887",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 7422147690584,
+  "title": "Powder Blue Ghostly iPhone 15 Plus Case",
+  "handle": "powder-blue-ghostly-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get into the spirit with the Ghostly Phone Case! 👻✨ Featuring an adorable parade of friendly ghosts floating across a serene powder blue background, this case is perfect for those who love a playful and whimsical touch. Whether it's Halloween or you just love all things ghostly, this phone case is sure to make you smile every time you pick up your phone. Embrace the cute and spooky vibes with the Ghostly Phone Case! 🎃🦇</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-21T14:31:22-04:00",
+  "created_at": "2023-09-21T14:11:07-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Ghostly",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40593286594648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17193-IP15PLUS-POWDERBLUE-AOD:GHOSTLY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7422147690584,
+      "created_at": "2023-09-21T14:11:07-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31801765953624,
+      "created_at": "2023-10-04T15:46:13-04:00",
+      "position": 1,
+      "updated_at": "2023-10-04T15:46:13-04:00",
+      "product_id": 7422147690584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GHOSTLY_IP15PLUS_PowderBlue_5599c651-f84e-43bd-afb0-8d605030f64d.jpg?v=1696448773",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800409620568,
+      "created_at": "2023-10-03T11:52:26-04:00",
+      "position": 2,
+      "updated_at": "2023-10-03T11:52:27-04:00",
+      "product_id": 7422147690584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HALLOWEENv1_e71e3bf8-d4d4-4dff-a496-027cfd91784c.png?v=1696348347",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GHOSTLY_IP15PLUS_PowderBlue_5599c651-f84e-43bd-afb0-8d605030f64d.jpg?v=1696448773",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

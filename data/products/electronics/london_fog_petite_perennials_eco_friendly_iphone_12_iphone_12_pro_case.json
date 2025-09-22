@@ -1,0 +1,120 @@
+{
+  "id": 7536126066776,
+  "title": "London Fog Petite Perennials iPhone 12/ iPhone 12 Pro Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:33-05:00",
+  "created_at": "2024-01-15T11:10:03-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021311064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16448-IP12-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126066776,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723921496,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:03-05:00",
+      "product_id": 7536126066776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP12_LondonFog.jpg?v=1705335003",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088867471448,
+      "created_at": "2024-01-17T10:24:54-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:25:00-05:00",
+      "product_id": 7536126066776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_a22b0a2a-4e58-41c2-9ee2-12c3d1bff225.png?v=1705505100",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088867569752,
+      "created_at": "2024-01-17T10:24:55-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:25:00-05:00",
+      "product_id": 7536126066776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_d53f7458-0332-48d7-9ba9-d04c5d321fd3.png?v=1705505100",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088867504216,
+      "created_at": "2024-01-17T10:24:54-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:25:00-05:00",
+      "product_id": 7536126066776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_8a6818d5-4095-46cb-8bdc-0f8405149818.png?v=1705505100",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088867536984,
+      "created_at": "2024-01-17T10:24:54-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:25:00-05:00",
+      "product_id": 7536126066776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_0d9e62f5-838b-4274-b54f-e99342026863.png?v=1705505100",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP12_LondonFog.jpg?v=1705335003",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

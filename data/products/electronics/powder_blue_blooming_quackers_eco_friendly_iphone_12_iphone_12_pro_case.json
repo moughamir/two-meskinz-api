@@ -1,0 +1,108 @@
+{
+  "id": 8320084279384,
+  "title": "Powder Blue Blooming Quackers iPhone 12/ iPhone 12 Pro Case",
+  "handle": "powder-blue-blooming-quackers-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Part cottagecore, part barnyard bash—the <em data-start=\"85\" data-end=\"104\">Blooming Quackers</em> Phone Case is serving sweet springtime sass! With a crew of cheerful geese in pastel blue bows, prancing across a gingham backdrop with tiny blooms, this case brings all the charm of a storybook picnic right to your pocket.<meta charset=\"utf-8\">🪿<meta charset=\"utf-8\">🧺</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:22:58-04:00",
+  "created_at": "2025-03-20T10:50:49-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Blooming Quackers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756163371096,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16462-IP12-POWDERBLUE-AOD:BLOOMING-QUACKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320084279384,
+      "created_at": "2025-03-20T10:50:49-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722019344472,
+      "created_at": "2025-03-20T10:50:49-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:51-04:00",
+      "product_id": 8320084279384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLOOMING-QUACKERS_IP12_PowderBlue.jpg?v=1742482251",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814035230808,
+      "created_at": "2025-04-10T10:14:48-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:14:52-04:00",
+      "product_id": 8320084279384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_9e92a7d9-7514-4453-af78-18dea3a0ae30.jpg?v=1744294492",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814035263576,
+      "created_at": "2025-04-10T10:14:48-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:14:52-04:00",
+      "product_id": 8320084279384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_5e2f8c74-4811-4c01-8549-1fe052ac62b8.jpg?v=1744294492",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814035296344,
+      "created_at": "2025-04-10T10:14:48-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:14:52-04:00",
+      "product_id": 8320084279384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_b03577a4-a2ea-4d50-9b34-b09a6f604324.jpg?v=1744294492",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLOOMING-QUACKERS_IP12_PowderBlue.jpg?v=1742482251",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

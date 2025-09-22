@@ -1,0 +1,75 @@
+{
+  "id": 8444610183256,
+  "title": "London Fog Solar Sparkle Google Pixel 10/10 Pro Case",
+  "handle": "london-fog-solar-sparkle-eco-friendly-google-pixel-10-10-pro-case",
+  "body_html": "<p>Protect your phone in style with the London Fog Solar Sparkle Phone Case! Durability meets sustainability with this beautifully designed compostable case, featuring a starry blue print. Your phone will be as unique as you are!</p>",
+  "published_at": "2025-08-20T10:50:33-04:00",
+  "created_at": "2025-08-08T11:02:50-04:00",
+  "updated_at": "2025-09-22T15:13:12-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Space",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Solar Sparkle",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107912908888,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15780-PX10-LFOG-AOD:SOLAR-SPARKLE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444610183256,
+      "created_at": "2025-08-08T11:02:50-04:00",
+      "updated_at": "2025-09-22T15:13:12-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567028633688,
+      "created_at": "2025-08-08T11:02:50-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:02:52-04:00",
+      "product_id": 8444610183256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SOLAR-SPARKLE_PX10_LondonFog.jpg?v=1754665372",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SOLAR-SPARKLE_PX10_LondonFog.jpg?v=1754665372",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

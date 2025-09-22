@@ -1,0 +1,58 @@
+{
+  "id": 6601523495000,
+  "title": "Free Case",
+  "handle": "free-case",
+  "body_html": "",
+  "published_at": "2025-05-08T09:32:23-04:00",
+  "created_at": "2021-04-29T17:46:53-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "referral",
+  "tags": [
+    "exclude_rebuy",
+    "exclude_SS",
+    "Free Case",
+    "product_notice_1",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39383764697176,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FREE_CASE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.01",
+      "grams": 35,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6601523495000,
+      "created_at": "2021-04-29T17:46:54-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0.01,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "referral",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

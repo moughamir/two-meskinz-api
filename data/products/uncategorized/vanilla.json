@@ -1,0 +1,120 @@
+{
+  "id": 7051712921709,
+  "title": "Vanilla",
+  "handle": "vanilla",
+  "body_html": "<p>Pure Madagascar <strong>vanilla</strong> blends with <strong>milky</strong> notes and subtle hints of <strong>mint</strong> and <strong>praline</strong>, creating a scent that’s just right for a touch of sweetness in your home.</p>",
+  "published_at": "2023-08-14T19:52:17-06:00",
+  "created_at": "2023-08-09T16:20:32-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Simplicity by Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand: Simplicity by Pura",
+    "CollectionFilter_Vanilla",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Strength_Strong",
+    "type_smart13",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_vanilla"
+  ],
+  "variants": [
+    {
+      "id": 40702266245229,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VNPH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712921709,
+      "created_at": "2023-08-09T16:20:33-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329816383597,
+      "created_at": "2023-08-09T16:20:50-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T16:20:51-06:00",
+      "product_id": 7051712921709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_d3ba0627-59f0-427e-b68b-4132de7aeb20.png?v=1691619651",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329816645741,
+      "created_at": "2023-08-09T16:20:50-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T16:20:52-06:00",
+      "product_id": 7051712921709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_b5279de4-3f12-4991-b610-d6b53520d6bc.png?v=1691619652",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32191102550125,
+      "created_at": "2024-06-12T14:22:34-06:00",
+      "position": 3,
+      "updated_at": "2024-06-12T14:22:36-06:00",
+      "product_id": 7051712921709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/vanilla-simplicity-v4-resized.jpg?v=1718223756",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329816580205,
+      "created_at": "2023-08-09T16:20:50-06:00",
+      "position": 4,
+      "updated_at": "2024-06-12T14:22:44-06:00",
+      "product_id": 7051712921709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_006d89e6-771c-4451-b48d-d8317cc90f00.png?v=1718223764",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_d3ba0627-59f0-427e-b68b-4132de7aeb20.png?v=1691619651",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simplicity by Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

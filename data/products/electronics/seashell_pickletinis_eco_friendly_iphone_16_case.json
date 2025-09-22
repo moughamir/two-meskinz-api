@@ -1,0 +1,120 @@
+{
+  "id": 8301528416344,
+  "title": "Seashell Pickletinis iPhone 16 Case",
+  "handle": "seashell-pickletinis-eco-friendly-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\">Shaken, stirred, and served with a twist—of pickle, of course! <em data-start=\"100\" data-end=\"113\">Pickletinis</em> is the ultimate case for brine enthusiasts and cocktail connoisseurs who like their drinks a little salty and a lot of fun. Featuring hand-drawn martini glasses garnished with the best part—the pickles, this design is equal parts quirky and classy.<meta charset=\"utf-8\">🍸<meta charset=\"utf-8\">🥒</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-25T09:10:41-04:00",
+  "created_at": "2025-02-28T13:40:25-05:00",
+  "updated_at": "2025-09-22T15:14:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Pickles",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Pickletinis",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42702168031320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17246-IP16-SEASHELL-AOD:PICKLETINIS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8301528416344,
+      "created_at": "2025-02-28T13:40:25-05:00",
+      "updated_at": "2025-09-22T15:14:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34616699191384,
+      "created_at": "2025-02-28T13:40:25-05:00",
+      "position": 1,
+      "updated_at": "2025-02-28T13:40:27-05:00",
+      "product_id": 8301528416344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLETINIS_IP16_Seashell.jpg?v=1740768027",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34739237486680,
+      "created_at": "2025-03-24T11:20:30-04:00",
+      "position": 2,
+      "updated_at": "2025-03-24T11:20:35-04:00",
+      "product_id": 8301528416344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Friends_PDP_1x1_01_c266f0c2-7040-4fb4-a292-ca4e14bf2170.jpg?v=1742829635",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739237453912,
+      "created_at": "2025-03-24T11:20:30-04:00",
+      "position": 3,
+      "updated_at": "2025-03-24T11:20:35-04:00",
+      "product_id": 8301528416344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Androids_PDP_1x1_03_adcb4832-751b-4f75-bc7d-d779d3a12c12.jpg?v=1742829635",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739237421144,
+      "created_at": "2025-03-24T11:20:30-04:00",
+      "position": 4,
+      "updated_at": "2025-03-24T11:20:35-04:00",
+      "product_id": 8301528416344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_IPGrid_PDP_1x1_05_4bd17cc0-af7b-4410-9a94-e4c6017be324.jpg?v=1742829635",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34739237388376,
+      "created_at": "2025-03-24T11:20:30-04:00",
+      "position": 5,
+      "updated_at": "2025-03-24T11:20:35-04:00",
+      "product_id": 8301528416344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Pile_PDP_1x1_02_0ff8e775-e333-430c-b81f-29c5c8c0f94a.jpg?v=1742829635",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLETINIS_IP16_Seashell.jpg?v=1740768027",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

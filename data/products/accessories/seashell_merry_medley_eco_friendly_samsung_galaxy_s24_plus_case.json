@@ -1,0 +1,108 @@
+{
+  "id": 7555251830872,
+  "title": "Seashell Merry Medley Samsung Galaxy S24+(Plus) Case",
+  "handle": "seashell-merry-medley-eco-friendly-samsung-galaxy-s24-plus-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:04:23-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277467736,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13830-S24PLUS-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251830872,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170964123736,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251830872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S24PLUS_Seashell.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241117495384,
+      "created_at": "2024-02-28T17:23:58-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:24:01-05:00",
+      "product_id": 7555251830872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_919d4d38-17df-496b-bc0c-ac9bbb572678.jpg?v=1709159041",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241117429848,
+      "created_at": "2024-02-28T17:23:58-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:24:01-05:00",
+      "product_id": 7555251830872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_d9e2c147-c13e-44aa-9368-918bd9bcdc7d.jpg?v=1709159041",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241117528152,
+      "created_at": "2024-02-28T17:23:58-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:24:00-05:00",
+      "product_id": 7555251830872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_c60aaa9c-38d1-4d5b-8827-69f9e48be045.jpg?v=1709159040",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S24PLUS_Seashell.jpg?v=1707245497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

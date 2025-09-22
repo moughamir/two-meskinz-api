@@ -1,0 +1,97 @@
+{
+  "id": 7699255033944,
+  "title": "Sage Green Luminate iPhone 6/6s/7/8/SE Case",
+  "handle": "sage-green-luminate-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p>Grow your phone's style with the Sage Green Luminate Phone Case. This case features a bright blue and green color scheme, inspiring you to thrive, flourish, and evolve. Protect your phone while adding a touch of positivity and watch it blossom.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:38:19-04:00",
+  "created_at": "2024-04-01T12:47:32-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Luminate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311486378072,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32752-IP7-SAGE-AOD:LUMINATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699255033944,
+      "created_at": "2024-04-01T12:47:32-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487788478552,
+      "created_at": "2024-04-01T12:47:32-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:32-04:00",
+      "product_id": 7699255033944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_IP7_SageGreen.jpg?v=1711990052",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520780709976,
+      "created_at": "2024-04-04T17:21:05-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T17:21:07-04:00",
+      "product_id": 7699255033944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_SEASHELL_-15_6d4e1c1b-49fe-4e4a-9142-62def8d1fda4.jpg?v=1712265667",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520780677208,
+      "created_at": "2024-04-04T17:21:05-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T17:21:06-04:00",
+      "product_id": 7699255033944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_SEASHELL_-18_dae40ea0-d53e-4ec1-93fb-8f0c944f7220.jpg?v=1712265666",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_IP7_SageGreen.jpg?v=1711990052",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

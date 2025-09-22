@@ -1,0 +1,97 @@
+{
+  "id": 8303981101144,
+  "title": "Chocolate Brown Gone Fishing iPhone 6/6s/7/8/SE Case",
+  "handle": "chocolate-brown-gone-fishing-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Nothing beats the peace of casting a line in the middle of nowhere. <em data-start=\"1051\" data-end=\"1065\">Gone Fishing</em> captures that serene moment—mountains towering above, a quiet stream below, and the hope of a trophy fish at the end of the line.<meta charset=\"utf-8\">⛰️🎣</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-27T09:13:57-04:00",
+  "created_at": "2025-03-03T11:13:07-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Gone Fishing",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42707144507480,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32518-IP7-CHOBROWN-AOD:GONE-FISHING",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8303981101144,
+      "created_at": "2025-03-03T11:13:07-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34626206728280,
+      "created_at": "2025-03-03T11:13:07-05:00",
+      "position": 1,
+      "updated_at": "2025-03-03T11:13:09-05:00",
+      "product_id": 8303981101144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GONE-FISHING_IP7_ChocolateBrown.jpg?v=1741018389",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34743053090904,
+      "created_at": "2025-03-25T11:53:17-04:00",
+      "position": 2,
+      "updated_at": "2025-03-25T11:53:18-04:00",
+      "product_id": 8303981101144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_IPGrid_PDP_1x1_05_75a8874e-1e64-4eb4-839b-b45d844d7c8a.jpg?v=1742917998",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34743053058136,
+      "created_at": "2025-03-25T11:53:17-04:00",
+      "position": 3,
+      "updated_at": "2025-03-25T11:53:18-04:00",
+      "product_id": 8303981101144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Pile_PDP_1x1_07_857df98e-f94e-42c5-b1f4-868f66d19501.jpg?v=1742917998",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GONE-FISHING_IP7_ChocolateBrown.jpg?v=1741018389",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

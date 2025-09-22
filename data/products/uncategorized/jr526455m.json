@@ -1,0 +1,68 @@
+{
+  "id": 5340971925671,
+  "title": "C080XSCLCR06100EZP Right-Hand, Positive Rake, Boring Bar",
+  "handle": "jr526455m",
+  "body_html": "<br><strong>Item #: </strong>KY96THC14615<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THC14615<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>8 mm </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>85.5 mm </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>85.5 mm </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Axial (GAMP)</strong></td>\n<td>0 Degrees </td>\n</tr>\n<tr>\n<td><strong>Head Length (LH)</strong></td>\n<td>14 mm </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Radial (GAMF)</strong></td>\n<td>-14 Degrees </td>\n</tr>\n<tr>\n<td><strong>Shank Height (H)</strong></td>\n<td>7.5 mm </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>EZB </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>71.5 mm </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>C...SCLC-EZP </td>\n</tr>\n<tr>\n<td><strong>Functional Width (WF)</strong></td>\n<td>5 mm </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Master Insert Identification (MIID)</strong></td>\n<td>| CCGT215 | CCMT215 | CCET215 | CCGW215 | CCMW215 | </td>\n</tr>\n<tr>\n<td><strong>Weight of Item (WT)</strong></td>\n<td>0.1885 </td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (DMIN)</strong></td>\n<td>10 mm </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:18:17-06:00",
+  "created_at": "2020-06-16T10:50:18-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Turning",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Internal Turning"
+  ],
+  "variants": [
+    {
+      "id": 34748093268135,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THC14615",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "314.48",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5340971925671,
+      "created_at": "2020-06-16T10:50:18-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144170852519,
+      "created_at": "2025-01-23T22:18:27-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:18:29-06:00",
+      "product_id": 5340971925671,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_CSCLCREZP_ed9c_2d6fc465-ed66-433e-9e49-b104300bb071.jpg?v=1737692309",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 314.48,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_CSCLCREZP_ed9c_2d6fc465-ed66-433e-9e49-b104300bb071.jpg?v=1737692309",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 8422949912804,
+  "title": "APlusLift 4-Post Lift Touchup Paint",
+  "handle": "apluslift-4-post-lift-touchup-paint",
+  "body_html": "<h3>4oz touchup paint can for all 4-post lifts.</h3>\n",
+  "published_at": "2024-06-20T19:15:26-07:00",
+  "created_at": "2024-06-20T19:15:26-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "4-Post Lifts and Jacks Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330578407652,
+      "title": "Black - RAL 9005",
+      "option1": "Black - RAL 9005",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 73551161491684,
+        "product_id": 8422949912804,
+        "position": 2,
+        "created_at": "2025-01-16T22:02:14-08:00",
+        "updated_at": "2025-01-16T22:02:16-08:00",
+        "alt": null,
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/black_4253e7c8-8019-4841-82ee-1e0618a86223.jpg?v=1737093736",
+        "variant_ids": [
+          45330578407652
+        ]
+      },
+      "available": true,
+      "price": "45.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8422949912804,
+      "created_at": "2024-06-20T19:15:26-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 73547794841828,
+      "created_at": "2025-01-16T17:23:57-08:00",
+      "position": 1,
+      "updated_at": "2025-01-16T17:23:59-08:00",
+      "product_id": 8422949912804,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/paint.jpg?v=1737077039",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 73551161491684,
+      "created_at": "2025-01-16T22:02:14-08:00",
+      "position": 2,
+      "updated_at": "2025-01-16T22:02:16-08:00",
+      "product_id": 8422949912804,
+      "variant_ids": [
+        45330578407652
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/black_4253e7c8-8019-4841-82ee-1e0618a86223.jpg?v=1737093736",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Type",
+      "position": 1,
+      "values": [
+        "Black - RAL 9005"
+      ]
+    }
+  ],
+  "price": 45,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/paint.jpg?v=1737077039",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

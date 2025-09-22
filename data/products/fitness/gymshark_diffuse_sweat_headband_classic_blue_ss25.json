@@ -1,0 +1,130 @@
+{
+  "id": 6806036381898,
+  "title": "Gymshark Diffuse Sweat Headband - Classic Blue",
+  "handle": "gymshark-diffuse-sweat-headband-classic-blue-ss25",
+  "body_html": "<p><strong>A HEADBAND THAT WORKS</strong></p>\n<p><br>We built the Diffuse Sweat Headband with the black community and all hair types in mind, so you can get the most out of your workout. </p>\n<p> </p>\n<p><br>• Designed to stay put, and made to last<br>• Multi-wear, sweat-wicking and durable to support you through your training<br>• Woven tab logo</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• One Size<br>• Full circumference: 42cm. Width: 8cm folded, 16cm fully open.</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• 90% Nylon, 10% Elastane</p>\n<p><br>SKU: I3A1N-UDBR<br></p>",
+  "published_at": "2025-01-30T07:45:15-08:00",
+  "created_at": "2024-08-27T15:00:22-07:00",
+  "updated_at": "2025-09-22T08:45:47-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1758186882",
+    "all-products",
+    "build-your-wishlist",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "feature:sweat-wicking",
+    "filter-colour:Blue",
+    "hair-accessories",
+    "headwear",
+    "last-chance",
+    "last-chance-accessories",
+    "lower-bucket",
+    "must-have",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Diffuse",
+    "seamtype:Accessories",
+    "season:SS25",
+    "segmentation:Conditioning",
+    "stocking-fillers",
+    "subcategory:Headband",
+    "tier:3"
+  ],
+  "variants": [
+    {
+      "id": 39793691525322,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A1N-UDBR-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "14.00",
+      "grams": 0,
+      "compare_at_price": "20.00",
+      "position": 1,
+      "product_id": 6806036381898,
+      "created_at": "2024-08-27T15:00:22-07:00",
+      "updated_at": "2025-09-22T08:45:47-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28990666113226,
+      "created_at": "2025-01-29T09:08:52-08:00",
+      "position": 1,
+      "updated_at": "2025-01-29T09:08:53-08:00",
+      "product_id": 6806036381898,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/Diffuse_Sweat_Headband_GS_Classic_Blue_I3A1N-UDBR_1162_-_0216_b3609c26-ef18-4d22-b7cc-3cc6132ceb26.jpg?v=1738170533",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28990666211530,
+      "created_at": "2025-01-29T09:08:52-08:00",
+      "position": 2,
+      "updated_at": "2025-01-29T09:08:53-08:00",
+      "product_id": 6806036381898,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/DiffuseSweatHeadbandGSClassicBlueI3A1N-UDBR0039_92552f6f-9084-4df3-bcfd-b8f9081cd43e.jpg?v=1738170533",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28990942707914,
+      "created_at": "2025-02-17T08:10:03-08:00",
+      "position": 3,
+      "updated_at": "2025-02-17T08:10:10-08:00",
+      "product_id": 6806036381898,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/3.jpg?v=1739808610",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28990666145994,
+      "created_at": "2025-01-29T09:08:52-08:00",
+      "position": 4,
+      "updated_at": "2025-02-17T08:10:10-08:00",
+      "product_id": 6806036381898,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/DiffuseSweatHeadbandGSClassicBlueI3A1N-UDBR0042_2f79d5e9-79d2-4681-8521-79a6720918f7.jpg?v=1739808610",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14,
+  "compare_at_price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/Diffuse_Sweat_Headband_GS_Classic_Blue_I3A1N-UDBR_1162_-_0216_b3609c26-ef18-4d22-b7cc-3cc6132ceb26.jpg?v=1738170533",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

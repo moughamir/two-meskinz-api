@@ -1,0 +1,52 @@
+{
+  "id": 8453484216487,
+  "title": "3/4 4 Flute Long Carbide End Mill-TiAlN",
+  "handle": "er4521039",
+  "body_html": null,
+  "published_at": "2025-01-24T08:12:14-06:00",
+  "created_at": "2025-01-24T08:12:13-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 Cutting to Endmills",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500955226279,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "er4521039",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "596.48",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453484216487,
+      "created_at": "2025-01-24T08:12:13-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 596.48,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 Cutting to Endmills",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

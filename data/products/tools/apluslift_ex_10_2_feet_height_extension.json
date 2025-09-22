@@ -1,0 +1,87 @@
+{
+  "id": 7780672307428,
+  "title": "APlusLift EX-10 2 Feet Height Extension Kit for 2-Post Lifts",
+  "handle": "apluslift-ex-10-2-feet-height-extension",
+  "body_html": "<h3>APlusLift EX-10 2 feet height extension kit for 2-post lifts.</h3>\n<h3>The extension kit includes two extension columns, two extension hoses, and two extension cables.</h3>\n<!-- <h3>When used for AP-10SR lift, it needs a new extended release cable, which will be shipped separately.</h3> -->\n<h3><font color=\"red\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</font></h3>\n",
+  "published_at": "2023-11-08T11:46:41-08:00",
+  "created_at": "2022-09-03T09:18:56-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift Official Store",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 46028643795172,
+      "title": "For HW-10KOH Model (Blue Color)",
+      "option1": "For HW-10KOH Model (Blue Color)",
+      "option2": null,
+      "option3": null,
+      "sku": "0312-10122",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "650.00",
+      "grams": 113398,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7780672307428,
+      "created_at": "2025-02-03T20:46:30-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 46028643827940,
+      "title": "For HW-10ASY Model (Black Color)",
+      "option1": "For HW-10ASY Model (Black Color)",
+      "option2": null,
+      "option3": null,
+      "sku": "0312-10123",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "650.00",
+      "grams": 113398,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7780672307428,
+      "created_at": "2025-02-03T20:46:30-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 39219894812900,
+      "created_at": "2022-09-03T09:21:27-07:00",
+      "position": 1,
+      "updated_at": "2022-09-03T09:21:28-07:00",
+      "product_id": 7780672307428,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/EX-10.jpg?v=1662222088",
+      "width": 1032,
+      "height": 864
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "For HW-10KOH Model (Blue Color)",
+        "For HW-10ASY Model (Black Color)"
+      ]
+    }
+  ],
+  "price": 650,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/EX-10.jpg?v=1662222088",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift Official Store",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

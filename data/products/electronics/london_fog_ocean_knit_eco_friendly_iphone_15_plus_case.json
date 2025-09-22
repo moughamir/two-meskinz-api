@@ -1,0 +1,87 @@
+{
+  "id": 8303982313560,
+  "title": "London Fog Ocean Knit iPhone 15 Plus Case",
+  "handle": "london-fog-ocean-knit-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Cozy up to the salty sea breeze with <em data-start=\"1470\" data-end=\"1482\">Ocean Knit Phone Case</em>! Inspired by classic fisherman sweaters, this case features a knitted wave and anchor pattern in deep navy tones. Whether you're out on the water or just love a good nautical vibe, this case keeps things warm, stylish, and sustainable.<meta charset=\"utf-8\">🌊🧶</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-27T09:12:12-04:00",
+  "created_at": "2025-03-03T11:13:11-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Ocean Knit",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42707145818200,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17190-IP15PLUS-LFOG-AOD:OCEAN-KNIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8303982313560,
+      "created_at": "2025-03-03T11:13:12-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34626209775704,
+      "created_at": "2025-03-03T11:13:12-05:00",
+      "position": 1,
+      "updated_at": "2025-03-03T11:13:14-05:00",
+      "product_id": 8303982313560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-KNIT_IP15PLUS_LondonFog.jpg?v=1741018394",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34743437918296,
+      "created_at": "2025-03-25T13:44:14-04:00",
+      "position": 2,
+      "updated_at": "2025-03-25T13:44:15-04:00",
+      "product_id": 8303982313560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Androids_PDP_1x1_08_2a9a55f5-1edb-4fcd-867f-3880c0f33f1f.jpg?v=1742924655",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-KNIT_IP15PLUS_LondonFog.jpg?v=1741018394",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

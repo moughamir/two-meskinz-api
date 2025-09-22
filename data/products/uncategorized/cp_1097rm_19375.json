@@ -1,0 +1,67 @@
+{
+  "id": 8182836232359,
+  "title": "Collet Pad for Bardons & Oliver Machine #7 - 1-15/16\" Round Smooth - Part #  CP-1097RM-19375",
+  "handle": "cp-1097rm-19375",
+  "body_html": "<p>Used On Bardons &amp; Oliver Machine #7. Inventory In Stock - Fast Online Checkout - Same Day Shipping.</p><p><strong><a href=\"https://benchmarktooling.com/pages/colletpads\">Click here</a></strong> to see our full line of Bardons &amp; Oliver Collet Pads with product charts with critical dimensions.</p>",
+  "published_at": "2024-05-23T23:05:24-05:00",
+  "created_at": "2024-05-23T23:05:24-05:00",
+  "updated_at": "2025-09-22T10:53:09-05:00",
+  "vendor": "Exact Tooling",
+  "product_type": "Collet Pads",
+  "tags": [
+    "Bardons Oliver"
+  ],
+  "variants": [
+    {
+      "id": 45487228518567,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CP-1097RM-19375",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.00",
+      "grams": 2726,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8182836232359,
+      "created_at": "2024-05-23T23:05:24-05:00",
+      "updated_at": "2025-09-22T10:53:09-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36342051930279,
+      "created_at": "2024-05-23T23:05:26-05:00",
+      "position": 1,
+      "updated_at": "2024-05-23T23:05:27-05:00",
+      "product_id": 8182836232359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ws_collet_pad_main_fbf146e0-23e8-4002-9e62-6a72c46e9587.jpg?v=1716523527",
+      "width": 390,
+      "height": 398
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ws_collet_pad_main_fbf146e0-23e8-4002-9e62-6a72c46e9587.jpg?v=1716523527",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Exact Tooling",
+  "category": "Collet Pads",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

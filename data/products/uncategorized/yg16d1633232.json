@@ -1,0 +1,68 @@
+{
+  "id": 5333597487271,
+  "title": "‎52″ × 18″ Steel Subplate, 1-1/4″ Thickness",
+  "handle": "yg16d1633232",
+  "body_html": "<br><strong>Item #: </strong>SG6849179<br><strong>Brand: </strong>Jergens<br><strong>Model #: </strong>49179<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Subplate </td>\n</tr>\n<tr>\n<td><strong>Thickness of Plate</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Weight</strong></td>\n<td>338 lbs </td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel </td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>52″ × 18″ </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>Haas </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:52:59-06:00",
+  "created_at": "2020-06-14T23:22:06-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Jergens",
+  "product_type": "Clamping, Positioning, Workholding",
+  "tags": [
+    "Drilling",
+    "Modular Fixturing"
+  ],
+  "variants": [
+    {
+      "id": 34722865381543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SG6849179",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "5380.65",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5333597487271,
+      "created_at": "2020-06-14T23:22:06-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38141013000359,
+      "created_at": "2025-01-23T20:53:06-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:53:08-06:00",
+      "product_id": 5333597487271,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_881eb93c-b09d-4dba-8d05-f8a198b80c24.png?v=1737687188",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 5380.65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_881eb93c-b09d-4dba-8d05-f8a198b80c24.png?v=1737687188",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Jergens",
+  "category": "Clamping, Positioning, Workholding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8014200111192,
+  "title": "Honey Summer Paradise iPhone 11 Pro Case",
+  "handle": "honey-summer-paradise-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p>Welcome to your own pocket-sized vacation with the Summer Paradise Phone Case! Adorned with delightful, retro-style travel stickers featuring tropical icons like juicy lemons, lush palm trees, and refreshing cocktails, this vibrant design will transport you to a sunny getaway. Perfect for bringing a bit of warmth and fun to your everyday routine, this phone case is the ideal companion for dreamers and adventurers alike. Let the cheerful colors and playful illustrations brighten your day and keep the summer vibes alive all year round. 🍍🍋🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-07-02T16:44:35-04:00",
+  "created_at": "2024-07-02T16:33:39-04:00",
+  "updated_at": "2025-09-22T15:15:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Summer Paradise",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41982183473240,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16015-IP11P-HONEY-AOD:SUMMER-PARADISE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8014200111192,
+      "created_at": "2024-07-02T16:33:39-04:00",
+      "updated_at": "2025-09-22T15:15:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33204878901336,
+      "created_at": "2024-07-02T16:33:39-04:00",
+      "position": 1,
+      "updated_at": "2024-07-02T16:33:39-04:00",
+      "product_id": 8014200111192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_IP11P_Honey.jpg?v=1719952419",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33204897906776,
+      "created_at": "2024-07-02T16:38:38-04:00",
+      "position": 2,
+      "updated_at": "2024-07-02T16:38:40-04:00",
+      "product_id": 8014200111192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_10_701aeb17-f6f6-493c-a6ab-1db62997c76d.jpg?v=1719952720",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33204897874008,
+      "created_at": "2024-07-02T16:38:38-04:00",
+      "position": 3,
+      "updated_at": "2024-07-02T16:38:40-04:00",
+      "product_id": 8014200111192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_14_92ff8388-f115-4bc2-8c15-1689a94ae03d.jpg?v=1719952720",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_IP11P_Honey.jpg?v=1719952419",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

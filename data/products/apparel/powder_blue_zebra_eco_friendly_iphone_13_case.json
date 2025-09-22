@@ -1,0 +1,77 @@
+{
+  "id": 6999278944344,
+  "title": "Powder Blue Zebra iPhone 13 Case",
+  "handle": "powder-blue-zebra-eco-friendly-iphone-13-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T08:50:43-04:00",
+  "created_at": "2022-02-18T14:43:56-05:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Wildlife",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Zebra",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2",
+    "Wildlife Door Crasher"
+  ],
+  "variants": [
+    {
+      "id": 39846968590424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16695-IP13-POWDERBLUE-AOD:ZEBRA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6999278944344,
+      "created_at": "2022-02-18T14:43:56-05:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30232784371800,
+      "created_at": "2023-03-30T10:31:50-04:00",
+      "position": 1,
+      "updated_at": "2023-03-30T10:31:50-04:00",
+      "product_id": 6999278944344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ZEBRA_IP13_PowderBlue_db4b8397-9908-446c-a16f-b8a471dd8bab.jpg?v=1680186710",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/ZEBRA_IP13_PowderBlue_db4b8397-9908-446c-a16f-b8a471dd8bab.jpg?v=1680186710",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

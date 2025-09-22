@@ -1,0 +1,109 @@
+{
+  "id": 8418749284440,
+  "title": "Seashell Mermaid Dreams iPhone 15 Case",
+  "handle": "seashell-mermaid-dreams-eco-friendly-iphone-15-case",
+  "body_html": "<p data-start=\"0\" data-end=\"169\">Dive into the dreamy depths with the Mermaid Dreams Phone Case — a pastel ocean party packed with seashells, dolphins, jellyfish, and sparkly sea treasures! 🐬🧜♀️✨</p>\n<p data-start=\"171\" data-end=\"439\">With bubbly pinks and purples, this case is pure mermaidcore magic. It's giving shell-yeah energy and under-the-sea cuteness all day long. Whether you're channeling Ariel or just living your best beachside fantasy, this case is ready to make waves.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-24T08:47:07-04:00",
+  "created_at": "2025-07-02T13:46:38-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Mermaid Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43031085482072,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:MERMAID-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8418749284440,
+      "created_at": "2025-07-02T13:46:38-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35348386807896,
+      "created_at": "2025-07-02T13:46:38-04:00",
+      "position": 1,
+      "updated_at": "2025-07-02T13:46:40-04:00",
+      "product_id": 8418749284440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-DREAMS_IP15_Seashell.jpg?v=1751478400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453407559768,
+      "created_at": "2025-07-21T16:25:31-04:00",
+      "position": 2,
+      "updated_at": "2025-07-21T16:25:31-04:00",
+      "product_id": 8418749284440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b8adac1affa03afbc17602957f5bcb4a_1bdfc241-3ea3-471d-8af0-2dfda0febdcb.jpg?v=1753129531",
+      "width": 3625,
+      "height": 3625
+    },
+    {
+      "id": 35453407920216,
+      "created_at": "2025-07-21T16:25:33-04:00",
+      "position": 3,
+      "updated_at": "2025-07-21T16:25:33-04:00",
+      "product_id": 8418749284440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b7c940d51dae60d7ddb93d59f55dd636_fbc84a24-7ec5-468e-bed6-a3ee92290f5d.jpg?v=1753129533",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453408411736,
+      "created_at": "2025-07-21T16:25:35-04:00",
+      "position": 4,
+      "updated_at": "2025-07-21T16:25:35-04:00",
+      "product_id": 8418749284440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/792c6a713f892c558ad12efbec2bdefe_a031e473-03e5-4646-b894-06b68173e418.jpg?v=1753129535",
+      "width": 4169,
+      "height": 4169
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-DREAMS_IP15_Seashell.jpg?v=1751478400",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

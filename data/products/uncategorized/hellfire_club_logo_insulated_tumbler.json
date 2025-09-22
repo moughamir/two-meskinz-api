@@ -1,0 +1,109 @@
+{
+  "id": 7878049103919,
+  "title": "Hellfire Club Logo Insulated Tumbler",
+  "handle": "hellfire-club-logo-insulated-tumbler",
+  "body_html": "<p>Ready to join the Hellfire Club? This Insulated Tumbler is your perfect sidekick for those late-night <em>Stranger Things</em> marathons, whether you're waiting for the next twist in Hawkins or plotting your own D&amp;D campaign. With the iconic Hellfire Club logo front and center, it's not just a tumbler—it's a badge of honor, a promise that you're always ready for whatever strange things are brewing next.</p>\n<ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz. (600 ml)</li>\n<li>Tumbler size: 4\" × 7.2\" (10.1 cm × 18.2 cm)</li>\n<li>Includes straw and lid</li>\n</ul>",
+  "published_at": "2024-12-04T13:23:01-05:00",
+  "created_at": "2024-11-27T09:41:14-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80057281",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "ITS",
+    "NTF-38-1124",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Tumblers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43435980488751,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101761-0001-ST-HCIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "39.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7878049103919,
+      "created_at": "2024-11-27T09:41:14-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35081739567151,
+      "created_at": "2024-11-27T09:41:14-05:00",
+      "position": 1,
+      "updated_at": "2024-11-27T09:41:14-05:00",
+      "product_id": 7878049103919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HCIT_38_101761_FT_MF.jpg?v=1732718474",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081739632687,
+      "created_at": "2024-11-27T09:41:14-05:00",
+      "position": 2,
+      "updated_at": "2024-11-27T09:41:14-05:00",
+      "product_id": 7878049103919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HCIT_38_101761_BK_MF.jpg?v=1732718474",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081739665455,
+      "created_at": "2024-11-27T09:41:14-05:00",
+      "position": 3,
+      "updated_at": "2024-11-27T09:41:14-05:00",
+      "product_id": 7878049103919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HCIT_38_101761_R_MF.jpg?v=1732718474",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081739698223,
+      "created_at": "2024-11-27T09:41:14-05:00",
+      "position": 4,
+      "updated_at": "2024-11-27T09:41:14-05:00",
+      "product_id": 7878049103919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HCIT_38_101761_FT_LIFE.jpg?v=1732718474",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HCIT_38_101761_FT_MF.jpg?v=1732718474",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

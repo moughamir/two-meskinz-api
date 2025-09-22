@@ -1,0 +1,115 @@
+{
+  "id": 7051708366957,
+  "title": "Mandarin Coriander",
+  "handle": "mandarin-coriander",
+  "body_html": "<p>Awaken your senses with a citrus and herbal blend of juicy <strong>mandarin</strong>, robust <strong>coriander</strong>, and warm <strong>cedarwood</strong>.</p>",
+  "published_at": "2023-08-14T19:50:56-06:00",
+  "created_at": "2023-08-09T16:19:45-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Thymes",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Thymes",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_mandarincoriander"
+  ],
+  "variants": [
+    {
+      "id": 40702260641901,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TMCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051708366957,
+      "created_at": "2023-08-09T16:19:45-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977501266029,
+      "created_at": "2024-01-07T19:34:41-07:00",
+      "position": 1,
+      "updated_at": "2024-01-10T11:00:12-07:00",
+      "product_id": 7051708366957,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/thymesmandarincoriander-resized.jpg?v=1704909612",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30977501167725,
+      "created_at": "2024-01-07T19:34:41-07:00",
+      "position": 2,
+      "updated_at": "2024-01-10T11:00:12-07:00",
+      "product_id": 7051708366957,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mandarin-resized_96318888-28bc-478f-951c-fbfda6c205b8.jpg?v=1704909612",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977501200493,
+      "created_at": "2024-01-07T19:34:41-07:00",
+      "position": 3,
+      "updated_at": "2024-01-10T11:00:12-07:00",
+      "product_id": 7051708366957,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Mandarin-Coriander-Device-V4.jpg?v=1704909612",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977501298797,
+      "created_at": "2024-01-07T19:34:41-07:00",
+      "position": 4,
+      "updated_at": "2024-01-10T11:00:12-07:00",
+      "product_id": 7051708366957,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/thymesmandarincoriander-resized-2.jpg?v=1704909612",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/thymesmandarincoriander-resized.jpg?v=1704909612",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Thymes",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

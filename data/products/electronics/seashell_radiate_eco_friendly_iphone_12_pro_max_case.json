@@ -1,0 +1,108 @@
+{
+  "id": 7699251232856,
+  "title": "Seashell Radiate iPhone 12 Pro Max Case",
+  "handle": "seashell-radiate-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p>Add a touch of elegance to your phone with our Seashell Radiate case! Featuring a beautiful pink floral design, this case will radiate your feminine style while keeping your phone protected. Stand out from the crowd with this unique case.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:27:09-04:00",
+  "created_at": "2024-04-01T12:47:19-04:00",
+  "updated_at": "2025-09-22T15:16:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Radiate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311481495640,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16539-IP12PMAX-SEASHELL-AOD:RADIATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699251232856,
+      "created_at": "2024-04-01T12:47:19-04:00",
+      "updated_at": "2025-09-22T15:16:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487783235672,
+      "created_at": "2024-04-01T12:47:19-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:19-04:00",
+      "product_id": 7699251232856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP12PMAX_Seashell.jpg?v=1711990039",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520466563160,
+      "created_at": "2024-04-04T15:19:47-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T15:19:49-04:00",
+      "product_id": 7699251232856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-06_135e1ce5-731c-44bc-912b-d456a0aa8614.jpg?v=1712258389",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520466595928,
+      "created_at": "2024-04-04T15:19:47-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T15:19:50-04:00",
+      "product_id": 7699251232856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-07_902c64a2-db60-4e88-8d73-83048c063022.jpg?v=1712258390",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520466432088,
+      "created_at": "2024-04-04T15:19:47-04:00",
+      "position": 4,
+      "updated_at": "2024-04-04T15:19:49-04:00",
+      "product_id": 7699251232856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-10_d09c2dc4-6795-4792-a85a-0ce5eaf7f1bf.jpg?v=1712258389",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP12PMAX_Seashell.jpg?v=1711990039",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

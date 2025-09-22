@@ -1,0 +1,101 @@
+{
+  "id": 7886002913327,
+  "title": "Stranger Things Upside Down Holiday Kitchen Towel",
+  "handle": "stranger-things-upside-down-holiday-kitchen-towel",
+  "body_html": "<p>Happy Holidays from the Upside down! The <em>Stranger Things</em> Upside Down Holiday Kitchen Towel brings a unique twist to your festive season with a <em>Stranger Things</em> spin! Whether you're hosting a holiday gathering with a twist or just embracing the eerie charm of the Upside Down during the season, this towel is the perfect way to show off your love for <em>Stranger Things</em> while celebrating the holidays.</p><ul>\n<li>      16\" x 24\" </li>\n<li>    Microfiber Cloth (80% Polyester, 20% Polyamide)</li>\n<li>       Superior Absorbency</li>\n<li>       Fast Dry</li>\n<li>       Cold water washing and low heat drying or hand wash</li>\n<li>       No bleach</li>\n</ul>",
+  "published_at": "2024-12-11T10:49:21-05:00",
+  "created_at": "2024-12-10T03:33:07-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "progift",
+  "product_type": "Kitchen Towels",
+  "tags": [
+    "80057281",
+    "Dish Towels",
+    "Gifting",
+    "Holiday",
+    "Home & Office",
+    "home and office",
+    "Kitchen Accessories",
+    "Kitchen Towels",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Towels",
+    "unisex",
+    "Waffle Tea Towel"
+  ],
+  "variants": [
+    {
+      "id": 43463201554479,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101814-0001-ST-UDTW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.95",
+      "grams": 113,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7886002913327,
+      "created_at": "2024-12-10T03:33:08-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35154055692335,
+      "created_at": "2024-12-10T03:33:07-05:00",
+      "position": 1,
+      "updated_at": "2024-12-10T22:05:25-05:00",
+      "product_id": 7886002913327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UDTW_101814_LIFE.png?v=1733886325",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154055626799,
+      "created_at": "2024-12-10T03:33:07-05:00",
+      "position": 2,
+      "updated_at": "2024-12-10T22:05:25-05:00",
+      "product_id": 7886002913327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UDTW_101814_MF.png?v=1733886325",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154055659567,
+      "created_at": "2024-12-10T03:33:07-05:00",
+      "position": 3,
+      "updated_at": "2024-12-10T22:05:25-05:00",
+      "product_id": 7886002913327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UDTW_101814_RO.png?v=1733886325",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UDTW_101814_LIFE.png?v=1733886325",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "progift",
+  "category": "Kitchen Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

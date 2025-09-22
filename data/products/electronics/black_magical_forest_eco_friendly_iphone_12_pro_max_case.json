@@ -1,0 +1,98 @@
+{
+  "id": 6816643612760,
+  "title": "Black Magical Forest iPhone 12 Pro Max Case",
+  "handle": "black-magical-forest-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Step into a whimsical wonderland with the Magical Forest Phone Case! Featuring a delightful array of vibrant, psychedelic mushrooms and charming flowers, this case brings a touch of fantasy to your everyday life. Perfect for those who love a splash of color and a hint of magic, the design will make your phone stand out from the crowd. Embrace your inner dreamer and let this enchanting case take you on a journey through a fairytale forest, where every glance at your phone feels like a magical adventure! 🌟🌸</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T13:41:15-04:00",
+  "created_at": "2021-10-12T13:29:33-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Mushrooms",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Magical Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39671398137944,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16535-IP12PMAX-BLACK-AOD:MAGICAL-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6816643612760,
+      "created_at": "2021-10-12T13:29:33-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328309186648,
+      "created_at": "2023-07-24T13:41:17-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T13:41:17-04:00",
+      "product_id": 6816643612760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MAGICAL-FOREST_IP12PMAX_Black_2e9a7981-20d0-4e21-a47f-0e3d9fe02c0f.jpg?v=1690220477",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798485463128,
+      "created_at": "2021-10-13T14:06:54-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T14:06:55-04:00",
+      "product_id": 6816643612760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MagicalForest_10e8a8f3-387b-4205-908e-8046a47c5b2d.jpg?v=1634148415",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28798485495896,
+      "created_at": "2021-10-13T14:06:54-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T14:06:55-04:00",
+      "product_id": 6816643612760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Asst_Mushrooms_f3685c26-dfdf-4db2-946e-a9c7d31dcaca.jpg?v=1634148415",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MAGICAL-FOREST_IP12PMAX_Black_2e9a7981-20d0-4e21-a47f-0e3d9fe02c0f.jpg?v=1690220477",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 7997842522200,
+  "title": "Seashell Amalfi Fruits iPhone 11 Pro Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:06:28-04:00",
+  "created_at": "2024-06-24T11:14:34-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946512425048,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997842522200,
+      "created_at": "2024-06-24T11:14:34-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144124932184,
+      "created_at": "2024-06-24T11:14:34-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:34-04:00",
+      "product_id": 7997842522200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP11P_Seashell.jpg?v=1719242074",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161103048792,
+      "created_at": "2024-06-26T15:37:13-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:37:17-04:00",
+      "product_id": 7997842522200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_b3a4e916-06ec-4aa9-a379-884acbc432c5.jpg?v=1719430637",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161102884952,
+      "created_at": "2024-06-26T15:37:13-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:37:14-04:00",
+      "product_id": 7997842522200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_931db0a9-6b8b-41df-8442-05c358f6661e.jpg?v=1719430634",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161102983256,
+      "created_at": "2024-06-26T15:37:13-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:37:17-04:00",
+      "product_id": 7997842522200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_470f41bc-d26a-4f8d-bcea-e4ddccbf2235.jpg?v=1719430637",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP11P_Seashell.jpg?v=1719242074",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8243494191192,
+  "title": "Seashell Carbs Samsung Galaxy S24 Case",
+  "handle": "seashell-carbs-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:08:12-05:00",
+  "created_at": "2025-01-08T12:41:00-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541138772056,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243494191192,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242769420376,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:02-05:00",
+      "product_id": 8243494191192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S24_Seashell.jpg?v=1736358062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357639250008,
+      "created_at": "2025-01-23T12:04:15-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T12:04:17-05:00",
+      "product_id": 8243494191192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_fd71c075-0087-47d8-bd0c-e3788a3c9e2d.jpg?v=1737651857",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357639315544,
+      "created_at": "2025-01-23T12:04:16-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T12:04:18-05:00",
+      "product_id": 8243494191192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_7ebce4e4-2314-4951-8e47-90325a93a16d.jpg?v=1737651858",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357639282776,
+      "created_at": "2025-01-23T12:04:16-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T12:04:17-05:00",
+      "product_id": 8243494191192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_2fb01a4f-6507-464d-a880-9b20f57636e1.jpg?v=1737651857",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S24_Seashell.jpg?v=1736358062",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

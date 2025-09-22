@@ -1,0 +1,97 @@
+{
+  "id": 6837235384408,
+  "title": "Seashell Color Study iPhone 11 Case",
+  "handle": "seashell-color-study-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a canvas of creativity with the Color Study Phone Case! <meta charset=\"utf-8\">🎨 This delightful design showcases bold brush strokes and splashes of rich, vibrant colors, capturing the essence of abstract art. Each hue blends seamlessly, evoking a playful yet sophisticated vibe that’s perfect for any art lover. Whether you’re an artist at heart or simply love a splash of color in your life, this case is a masterpiece that will make your phone stand out. Embrace your inner Picasso and let your phone reflect your colorful personality with the Color Study Phone Case! 🌈📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T13:44:59-05:00",
+  "created_at": "2021-10-29T12:19:17-04:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Artist Studio",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Color Study",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39694672003160,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:COLOR-STUDY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6837235384408,
+      "created_at": "2021-10-29T12:19:18-04:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116372242520,
+      "created_at": "2024-01-23T13:42:37-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:42:37-05:00",
+      "product_id": 6837235384408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COLOR-STUDY_IP11_Seashell_f9407d0f-838c-49b0-9256-29edf0c4dd5d.jpg?v=1706035357",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28847941353560,
+      "created_at": "2021-10-29T12:54:49-04:00",
+      "position": 2,
+      "updated_at": "2021-10-29T12:54:51-04:00",
+      "product_id": 6837235384408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COLORSTUDY_4712ecf0-52bc-4e8a-ab6e-97fa38955f13.jpg?v=1635526491",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": 28847941320792,
+      "created_at": "2021-10-29T12:54:49-04:00",
+      "position": 3,
+      "updated_at": "2021-10-29T12:54:50-04:00",
+      "product_id": 6837235384408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ARTISSTUDIO_FEED-0736_0c001a56-913b-45f4-bc00-650db6ae64d0.jpg?v=1635526490",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COLOR-STUDY_IP11_Seashell_f9407d0f-838c-49b0-9256-29edf0c4dd5d.jpg?v=1706035357",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8423007977700,
+  "title": "APlusLift 2\" Diameter Truck Adapters 2 3/4\"Tall for HW-SL6600X Lift - 4 Pieces",
+  "handle": "apluslift-2-diameter-truck-adapters-for-hw-sl6600x-lift",
+  "body_html": "<h3>4 Truck Adapters (Height Extensions) with a 2\" Diameter and 2 3/4\" Tall. The adapters fit HW-SL6600X Model.</h3>",
+  "published_at": "2024-06-20T20:36:35-07:00",
+  "created_at": "2024-06-20T20:36:35-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "Scissor Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330769281252,
+      "title": "2 3/4\" Tall",
+      "option1": "2 3/4\" Tall",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.00",
+      "grams": 9072,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8423007977700,
+      "created_at": "2024-06-20T20:36:35-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891356532894,
+      "created_at": "2020-11-01T16:10:37-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:10:49-08:00",
+      "product_id": 8423007977700,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-truck-adapters-4-inch.jpg?v=1604275849",
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "2 3/4\" Tall"
+      ]
+    }
+  ],
+  "price": 110,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-truck-adapters-4-inch.jpg?v=1604275849",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

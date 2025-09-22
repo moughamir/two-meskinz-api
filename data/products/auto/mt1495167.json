@@ -1,0 +1,68 @@
+{
+  "id": 5337360269479,
+  "title": "0.02″ Cutting Dia. × 0.1575″ Shank Size × 0.03″ LOC × 1.575″ OAL, 4 Flute, Carbide, AlTiN Nano, Square End Mill",
+  "handle": "mt1495167",
+  "body_html": "<br><strong>Item #: </strong>GE90791820C6<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>791820-C6<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>0.02″ </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>0.12″ </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.1575″ </td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (DN)</strong></td>\n<td>0.0192″ </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>0.03″ </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>6D </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>1.575″ </td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>AlTiN Nano </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Shank Size (SS)</strong></td>\n<td>0.1575″ </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>35 Degrees </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Square </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:20:24-06:00",
+  "created_at": "2020-06-15T17:28:51-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "Drilling",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34734544322727,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GE90791820C6",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.55",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337360269479,
+      "created_at": "2020-06-15T17:28:52-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38142520623271,
+      "created_at": "2025-01-23T21:20:32-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:20:33-06:00",
+      "product_id": 5337360269479,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e6a2347a-004d-4997-9480-778164872fbb.png?v=1737688833",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e6a2347a-004d-4997-9480-778164872fbb.png?v=1737688833",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

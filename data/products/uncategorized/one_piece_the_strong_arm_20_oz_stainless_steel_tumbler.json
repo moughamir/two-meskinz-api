@@ -1,0 +1,120 @@
+{
+  "id": 7838954455087,
+  "title": "One Piece The Strong Arm 20 oz. Stainless Steel Tumbler",
+  "handle": "one-piece-the-strong-arm-20-oz-stainless-steel-tumbler",
+  "body_html": "<p>Gear up for adventure with the One Piece The Strong Arm 20 oz. Stainless Steel Tumbler! Designed for fans who admire Luffy's unyielding spirit, this durable tumbler keeps your drinks at the perfect temperature while showcasing bold graphics inspired by the show. Whether you're on deck or at home, this tumbler is your perfect companion for every voyage and a tribute to the strength of friendship and dreams!</p><ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz (600 ml)</li>\n<li>Straw and lid included with the tumbler</li>\n<li>Glossy finish</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n<br>\n</ul>",
+  "published_at": "2024-10-14T13:40:34-04:00",
+  "created_at": "2024-09-23T04:40:52-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80217863",
+    "81969517",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "new",
+    "NF-19-0924",
+    "One Piece",
+    "Promo Eligible Collection",
+    "Tumblers"
+  ],
+  "variants": [
+    {
+      "id": 43259046461487,
+      "title": "White / 20 oz",
+      "option1": "White",
+      "option2": "20 oz",
+      "option3": null,
+      "sku": "OP-101668-0002-OP-SAWG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34806533586991,
+        "product_id": 7838954455087,
+        "position": 1,
+        "created_at": "2024-10-11T05:15:41-04:00",
+        "updated_at": "2024-10-11T05:15:41-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-SAWG_101688_R_MF_33453289-1e04-41de-b1bc-cce50504a63e.jpg?v=1728638141",
+        "variant_ids": [
+          43259046461487
+        ]
+      },
+      "available": true,
+      "price": "36.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838954455087,
+      "created_at": "2024-09-23T04:40:52-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34806533586991,
+      "created_at": "2024-10-11T05:15:41-04:00",
+      "position": 1,
+      "updated_at": "2024-10-11T05:15:41-04:00",
+      "product_id": 7838954455087,
+      "variant_ids": [
+        43259046461487
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-SAWG_101688_R_MF_33453289-1e04-41de-b1bc-cce50504a63e.jpg?v=1728638141",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34806533750831,
+      "created_at": "2024-10-11T05:15:44-04:00",
+      "position": 2,
+      "updated_at": "2024-10-11T05:15:44-04:00",
+      "product_id": 7838954455087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-SAWG_101688_R_MF2.jpg?v=1728638144",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34806533652527,
+      "created_at": "2024-10-11T05:15:42-04:00",
+      "position": 3,
+      "updated_at": "2024-10-11T05:15:42-04:00",
+      "product_id": 7838954455087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-SAWG_101688_L_MF_d2264038-fae4-4943-9185-c5924dca75e2.jpg?v=1728638142",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "20 oz"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-SAWG_101688_R_MF_33453289-1e04-41de-b1bc-cce50504a63e.jpg?v=1728638141",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

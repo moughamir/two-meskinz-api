@@ -1,0 +1,67 @@
+{
+  "id": 8451815407783,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 2929987",
+  "handle": "19898386",
+  "body_html": "<br><strong>Item #: </strong>10031409<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>2929987<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>5.5000</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (Decimal Inch)</strong></td>\n<td>0.9410</td>\n</tr>\n<tr>\n<td><strong>Neck Thread Size</strong></td>\n<td>T15</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Nose Diameter (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.9410</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>S*T*SA</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>S*T*SA</td>\n</tr>\n<tr>\n<td><strong>Tip Connection Size</strong></td>\n<td>T15</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Chamfering; Milling</td>\n</tr>\n<tr>\n<td><strong>Tool Performance</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Milling Tips</td>\n</tr>\n<tr>\n<td><strong>Weldon Flat</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Effective Length (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Extension Length (Decimal Inch)</strong></td>\n<td>1.6200</td>\n</tr>\n<tr>\n<td><strong>Shank Shape</strong></td>\n<td>Round</td>\n</tr>\n<tr>\n<td><strong>Thread Size Connection to Tip</strong></td>\n<td>T15</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>S100T15SA-15-01</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>\"T\" Style Thread Connection</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:36:54-06:00",
+  "created_at": "2025-01-22T09:36:53-06:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Milling"
+  ],
+  "variants": [
+    {
+      "id": 46493921607847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "10031409",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451815407783,
+      "created_at": "2025-01-22T09:36:53-06:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38111129010343,
+      "created_at": "2025-01-22T09:37:01-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:37:03-06:00",
+      "product_id": 8451815407783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1003140-21_9831e495-b2af-4fd3-8f63-2d09993d15f9.jpg?v=1737560223",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1003140-21_9831e495-b2af-4fd3-8f63-2d09993d15f9.jpg?v=1737560223",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

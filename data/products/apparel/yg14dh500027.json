@@ -1,0 +1,67 @@
+{
+  "id": 7785450340519,
+  "title": "Brand: Wiha / Part #: 28348",
+  "handle": "yg14dh500027",
+  "body_html": "<br><strong>Item #: </strong>32817496<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>28348<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Set Type</strong>\n</td>\n<td>12 Piece Insulated Slimline Blade Belt Set</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Slotted; Torx; Hex; Phillips</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Plastic Holder</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>4.0 mm</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Wiha 28335 - Insulated SlimLine Blade Hex 3.0mm (OAL 3?); Wiha 28342 - Insulated SlimLine Blade Torx T20 (OAL 3?); Wiha 28314 - Belt Clip for Set #28313; Wiha 28343 - Insulated SlimLine Blade Torx T25 (OAL 3?); Wiha 28312 - Insulated SlimLine Blade Slotted 5.5mm (OAL 3?); Wiha 28346 - Insulated SlimLine Blade Square #1 (OAL 3?); Wiha 28319 - Insulated SlimLine Blade Phillips #2 (OAL 3?); Wiha 28341 - Insulated SlimLine Blade Torx T15 (OAL 3?); Wiha 28317 - Insulated SlimLine Blade Phillips #1 (OAL 3?); Wiha 28309 - Insulated SlimLine Blade Slotted 4.0mm (OAL 3?); Wiha 28334 - Insulated SlimLine Blade Hex 2.5mm (OAL 3?); Wiha 28336 - Insulated SlimLine Blade Hex 4.0mm (OAL 3?); Wiha 28347 - Insulated SlimLine Square Blade #2 (OAL 3?)</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>4.0mm slim diameter; Chrome-vanadium-molybdenum steel, through-hardened, titanium silver; Very slim blade diameter for hard to reach screws; Individually tested to 10,000 volts AC and rated to 1,000 volts AC for safety and peace of mind; Made in Germany</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>5-1/2 in</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:24:32-06:00",
+  "created_at": "2023-12-28T21:24:32-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 43703882907815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "32817496",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "92.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785450340519,
+      "created_at": "2023-12-28T21:24:32-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236953575591,
+      "created_at": "2025-02-03T17:59:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:59:22-06:00",
+      "product_id": 7785450340519,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3281749-21.jpg?v=1738627162",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 92.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3281749-21.jpg?v=1738627162",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

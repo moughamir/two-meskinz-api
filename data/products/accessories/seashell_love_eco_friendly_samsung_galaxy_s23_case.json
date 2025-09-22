@@ -1,0 +1,76 @@
+{
+  "id": 7364907728984,
+  "title": "Seashell Love Samsung Galaxy S23 Case",
+  "handle": "seashell-love-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T07:26:47-04:00",
+  "created_at": "2023-06-08T13:07:52-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Love",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236273959000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364907728984,
+      "created_at": "2023-06-08T13:07:52-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30284947456088,
+      "created_at": "2023-06-08T13:07:52-04:00",
+      "position": 1,
+      "updated_at": "2023-06-08T13:07:52-04:00",
+      "product_id": 7364907728984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/LOVE_S23_Seashell.jpg?v=1686244072",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/LOVE_S23_Seashell.jpg?v=1686244072",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

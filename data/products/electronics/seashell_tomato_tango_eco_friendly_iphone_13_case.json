@@ -1,0 +1,109 @@
+{
+  "id": 8286014046296,
+  "title": "Seashell Tomato Tango iPhone 13 Case",
+  "handle": "seashell-tomato-tango-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Vine &amp; Dandy! 🍅💃 <meta charset=\"utf-8\">Brighten up your phone with juicy tomatoes dancing across this playful case! The Tomato Tango Phone Case is ripe for the picking, featuring a fun, fresh-from-the-vine design that’ll make you smile every time you reach for your phone. Made from Pela’s earth-friendly, compostable materials, it's style that's deliciously sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:52:21-05:00",
+  "created_at": "2025-02-12T10:14:54-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tomato Tango",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658629779544,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:TOMATO-TANGO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286014046296,
+      "created_at": "2025-02-12T10:14:54-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505576546392,
+      "created_at": "2025-02-12T10:14:54-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:14:57-05:00",
+      "product_id": 8286014046296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_IP13_Seashell.jpg?v=1739373297",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34601024553048,
+      "created_at": "2025-02-26T16:06:56-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T16:07:01-05:00",
+      "product_id": 8286014046296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_07_1fc49ad6-0041-453e-820f-6d4e0d6fad2f.jpg?v=1740604021",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601024585816,
+      "created_at": "2025-02-26T16:06:56-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T16:07:01-05:00",
+      "product_id": 8286014046296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_09_17d36042-bb12-41fc-b277-668b5dea97e7.jpg?v=1740604021",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601024618584,
+      "created_at": "2025-02-26T16:06:56-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T16:07:01-05:00",
+      "product_id": 8286014046296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_IPGrid_PDP_1x1_05_4b0ba915-7d76-45af-b812-4dd7d2ff99e3.jpg?v=1740604021",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_IP13_Seashell.jpg?v=1739373297",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

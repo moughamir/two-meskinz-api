@@ -1,0 +1,67 @@
+{
+  "id": 8453178196135,
+  "title": "2.36 mm Dia. × 2.5 mm Shank Dia. × 35 mm OAL × 14 mm Flute Length, 120 Degrees, 2 Flute, HSS-E, Micro Drill",
+  "handle": "kp6046655",
+  "body_html": "<br><strong>Item #: </strong>FB505100236R<br><strong>Brand: </strong>GMauvias<br><strong>Model #: </strong>5100236R<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Tool Diameter</strong></td>\n<td>2.36 mm </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>2.5 mm </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSS-E </td>\n</tr>\n<tr>\n<td><strong>Flute Length</strong></td>\n<td>14 mm </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>35 mm </td>\n</tr>\n<tr>\n<td><strong>Angle</strong></td>\n<td>120 Degrees </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>5xD </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:21:02-06:00",
+  "created_at": "2025-01-23T21:21:01-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "GMauvias",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling"
+  ],
+  "variants": [
+    {
+      "id": 46499805954215,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FB505100236R",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.79",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453178196135,
+      "created_at": "2025-01-23T21:21:01-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38142550278311,
+      "created_at": "2025-01-23T21:21:10-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:21:11-06:00",
+      "product_id": 8453178196135,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_gmauvaisusa5100_7c1d_da4a1a9c-f3e0-4f49-844f-a4884ac8808e.png?v=1737688871",
+      "width": 265,
+      "height": 265
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.79,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_gmauvaisusa5100_7c1d_da4a1a9c-f3e0-4f49-844f-a4884ac8808e.png?v=1737688871",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GMauvias",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

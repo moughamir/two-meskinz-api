@@ -1,0 +1,97 @@
+{
+  "id": 7878062047279,
+  "title": "Love is Blind Golden Goblet Insulated Tumbler",
+  "handle": "love-is-blind-golden-goblet-insulated-tumbler",
+  "body_html": "<p>Channel your inner <em>Love is Blind</em> star with the Golden Goblet Insulated Tumbler. Inspired by the iconic golden goblets from the show, this tumbler adds a touch of elegance and mystery to your drink. Whether you're sipping wine, coffee, or something in between, it keeps your beverage at the perfect temperature while giving a nod to the unforgettable moments of the show. Ready for love, surprises, and a perfectly chilled sip? This tumbler has you covered!</p>\n<ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz. (600 ml)</li>\n<li>Tumbler size: 4\" × 7.2\" (10.1 cm × 18.2 cm)</li>\n<li>Includes straw and lid</li>\n</ul>",
+  "published_at": "2024-12-04T13:23:13-05:00",
+  "created_at": "2024-11-27T10:15:33-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80996601",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "ITS",
+    "Love is Blind",
+    "NTF-38-1124",
+    "Tumblers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43436008374319,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LIB-101761-0001-LIB-GLIT2",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "39.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7878062047279,
+      "created_at": "2024-11-27T10:15:33-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35081880076335,
+      "created_at": "2024-11-27T10:15:33-05:00",
+      "position": 1,
+      "updated_at": "2024-11-27T10:15:33-05:00",
+      "product_id": 7878062047279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-GLIT2_38_101761_BK_MF.jpg?v=1732720533",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081880141871,
+      "created_at": "2024-11-27T10:15:33-05:00",
+      "position": 2,
+      "updated_at": "2024-11-27T10:15:33-05:00",
+      "product_id": 7878062047279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-GLIT2_38_101761_FT_MF.jpg?v=1732720533",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081880207407,
+      "created_at": "2024-11-27T10:15:33-05:00",
+      "position": 3,
+      "updated_at": "2024-11-27T10:15:33-05:00",
+      "product_id": 7878062047279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-GLIT2_38_101761_LIFE.jpg?v=1732720533",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-GLIT2_38_101761_BK_MF.jpg?v=1732720533",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

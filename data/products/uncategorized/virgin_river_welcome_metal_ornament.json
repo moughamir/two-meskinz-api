@@ -1,0 +1,96 @@
+{
+  "id": 7888694870063,
+  "title": "Virgin River Welcome Metal Ornament",
+  "handle": "virgin-river-welcome-metal-ornament",
+  "body_html": "<p>Celebrate the holidays with the <em>Virgin River</em> Welcome to Virgin River Striped Metal Ornament! Whether you're decorating for the holidays or celebrating year-round, the <em>Virgin River</em> Welcome to Virgin River Striped Metal Ornament brings a bit of <em>Virgin River</em>'s cozy spirit into your home.</p>\n<ul>\n<li>Material: metal aluminum</li>\n<li>Ornament thickness: 0.04\" (1 mm)</li>\n<li>Comes with a red ribbon and a hole to thread it through</li>\n</ul>",
+  "published_at": "2024-12-13T15:41:11-05:00",
+  "created_at": "2024-12-12T10:29:00-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Ornaments",
+  "tags": [
+    "80240027",
+    "Gifting",
+    "Holiday",
+    "Metal Ornaments",
+    "Ornaments",
+    "unisex",
+    "usa-only",
+    "Virgin River"
+  ],
+  "variants": [
+    {
+      "id": 43469895958575,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VIR-101827-0001-VR-WLCM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7888694870063,
+      "created_at": "2024-12-12T10:29:01-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35169551810607,
+      "created_at": "2024-12-12T10:29:00-05:00",
+      "position": 1,
+      "updated_at": "2024-12-13T15:35:13-05:00",
+      "product_id": 7888694870063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/VR-WLCM_43_101827_LIFE.jpg?v=1734122113",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35169551745071,
+      "created_at": "2024-12-12T10:29:00-05:00",
+      "position": 2,
+      "updated_at": "2024-12-13T15:35:13-05:00",
+      "product_id": 7888694870063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/VR-WLCM_43_101827_FT_MF.jpg?v=1734122113",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35169551843375,
+      "created_at": "2024-12-12T10:29:00-05:00",
+      "position": 3,
+      "updated_at": "2024-12-13T15:35:13-05:00",
+      "product_id": 7888694870063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/VR-WLCM_43_101827_LIFE2.jpg?v=1734122113",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/VR-WLCM_43_101827_LIFE.jpg?v=1734122113",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Ornaments",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

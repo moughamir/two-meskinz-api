@@ -1,0 +1,164 @@
+{
+  "id": 8456035041508,
+  "title": "APlusLift Seal Assembly for Tire Changers",
+  "handle": "apluslift-tire-changer-parts-seal-assembly",
+  "body_html": "<h3>One seal assembly for APlusLift tire changers.</h3>",
+  "published_at": "2024-07-24T15:58:16-07:00",
+  "created_at": "2024-07-16T23:22:14-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift Official Store",
+  "product_type": "",
+  "tags": [
+    "Tire Machine Parts"
+  ],
+  "variants": [
+    {
+      "id": 45422190952676,
+      "title": "TSA-24",
+      "option1": "TSA-24",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68296037826788,
+        "product_id": 8456035041508,
+        "position": 1,
+        "created_at": "2024-07-16T23:22:40-07:00",
+        "updated_at": "2024-07-16T23:22:42-07:00",
+        "alt": "APlusLift Tire Changer Parts Seal Assembly",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly.jpg?v=1721197362",
+        "variant_ids": [
+          45422190952676,
+          45422190985444
+        ]
+      },
+      "available": true,
+      "price": "41.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 8456035041508,
+      "created_at": "2024-07-16T23:22:14-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45422190985444,
+      "title": "DHM-24",
+      "option1": "DHM-24",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68296037826788,
+        "product_id": 8456035041508,
+        "position": 1,
+        "created_at": "2024-07-16T23:22:40-07:00",
+        "updated_at": "2024-07-16T23:22:42-07:00",
+        "alt": "APlusLift Tire Changer Parts Seal Assembly",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly.jpg?v=1721197362",
+        "variant_ids": [
+          45422190952676,
+          45422190985444
+        ]
+      },
+      "available": true,
+      "price": "41.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 4,
+      "product_id": 8456035041508,
+      "created_at": "2024-07-16T23:22:14-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45422191018212,
+      "title": "THA-28",
+      "option1": "THA-28",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68296037761252,
+        "product_id": 8456035041508,
+        "position": 2,
+        "created_at": "2024-07-16T23:22:40-07:00",
+        "updated_at": "2024-07-16T23:22:41-07:00",
+        "alt": "APlusLift Tire Changer Parts Seal Assembly for THA-28",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly-For-THA-28.jpg?v=1721197361",
+        "variant_ids": [
+          45422191018212
+        ]
+      },
+      "available": true,
+      "price": "46.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 5,
+      "product_id": 8456035041508,
+      "created_at": "2024-07-16T23:22:14-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 68296037826788,
+      "created_at": "2024-07-16T23:22:40-07:00",
+      "position": 1,
+      "updated_at": "2024-07-16T23:22:42-07:00",
+      "product_id": 8456035041508,
+      "variant_ids": [
+        45422190952676,
+        45422190985444
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly.jpg?v=1721197362",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 68296037761252,
+      "created_at": "2024-07-16T23:22:40-07:00",
+      "position": 2,
+      "updated_at": "2024-07-16T23:22:41-07:00",
+      "product_id": 8456035041508,
+      "variant_ids": [
+        45422191018212
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly-For-THA-28.jpg?v=1721197361",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "TSA-24",
+        "DHM-24",
+        "THA-28"
+      ]
+    }
+  ],
+  "price": 41,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Seal-Assembly.jpg?v=1721197362",
+  "images_count": 2,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift Official Store",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

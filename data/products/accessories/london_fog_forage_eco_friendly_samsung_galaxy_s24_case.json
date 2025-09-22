@@ -1,0 +1,86 @@
+{
+  "id": 7529024946264,
+  "title": "London Fog Forage Samsung Galaxy S24 Case",
+  "handle": "london-fog-forage-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Explore the enchanting world of nature with the Forage Phone Case! Featuring an intricate design of delicately etched mushrooms, this case brings the serene beauty of the forest floor right to your fingertips. Perfect for nature lovers and wanderers alike, its subtle, earthy tones and detailed craftsmanship create a look that's both whimsical and sophisticated. Let your phone be your guide on a woodland adventure, where every glance transports you to a tranquil forest brimming with wonder and discovery! 🌲🍂</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T14:23:36-05:00",
+  "created_at": "2024-01-04T11:25:23-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Mushrooms",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Forage",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40920528093272,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13787-S24-LFOG-AOD:FORAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7529024946264,
+      "created_at": "2024-01-04T11:25:23-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116379549784,
+      "created_at": "2024-01-23T13:43:16-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:43:16-05:00",
+      "product_id": 7529024946264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FORAGE_S24_LondonFog_b5094501-cda3-4b0f-b026-af725cf7aca2.jpg?v=1706035396",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32043926913112,
+      "created_at": "2024-01-04T11:58:01-05:00",
+      "position": 2,
+      "updated_at": "2024-01-04T11:58:02-05:00",
+      "product_id": 7529024946264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EI6A2824_2add3843-9d43-4d25-bc67-3b26e7f1e94a.jpg?v=1704387482",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FORAGE_S24_LondonFog_b5094501-cda3-4b0f-b026-af725cf7aca2.jpg?v=1706035396",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

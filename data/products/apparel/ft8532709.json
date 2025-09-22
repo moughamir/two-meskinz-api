@@ -1,0 +1,67 @@
+{
+  "id": 7785742925991,
+  "title": "Brand: AcuRite / Part #: 75155M",
+  "handle": "ft8532709",
+  "body_html": "<br><strong>Item #: </strong>67736462<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>75155M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Digital</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black; Green</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:58:25-06:00",
+  "created_at": "2023-12-29T00:58:25-06:00",
+  "updated_at": "2025-09-22T10:54:52-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Counters; Totalizers; Timers & Clocks"
+  ],
+  "variants": [
+    {
+      "id": 43705405407399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67736462",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "81.18",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785742925991,
+      "created_at": "2023-12-29T00:58:25-06:00",
+      "updated_at": "2025-09-22T10:54:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237185409191,
+      "created_at": "2025-02-03T18:07:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:32-06:00",
+      "product_id": 7785742925991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773646-21.jpg?v=1738627652",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 81.18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773646-21.jpg?v=1738627652",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

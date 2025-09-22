@@ -1,0 +1,109 @@
+{
+  "id": 7133258711128,
+  "title": "Black Glow iPhone 13 Case",
+  "handle": "black-glow-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T14:24:09-04:00",
+  "created_at": "2022-05-30T09:50:20-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39954052579416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16685-IP13-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7133258711128,
+      "created_at": "2022-05-30T09:50:20-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285609992280,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7133258711128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP13_Black_200c4856-9d53-4ebc-a22e-28692786ff22.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719858264,
+      "created_at": "2023-06-13T14:28:49-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:28:50-04:00",
+      "product_id": 7133258711128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_6c349021-6d76-4658-b361-130071117f57.jpg?v=1686680930",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719923800,
+      "created_at": "2023-06-13T14:28:49-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:28:51-04:00",
+      "product_id": 7133258711128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_c56a6bdd-db4b-4166-9669-6b92845e3a71.png?v=1686680931",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719891032,
+      "created_at": "2023-06-13T14:28:49-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:28:50-04:00",
+      "product_id": 7133258711128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_230e63f6-6b9a-4320-b0b2-483d5523e540.png?v=1686680930",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP13_Black_200c4856-9d53-4ebc-a22e-28692786ff22.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

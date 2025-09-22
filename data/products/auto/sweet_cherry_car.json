@@ -1,0 +1,110 @@
+{
+  "id": 7503798435949,
+  "title": "Sweet Cherry",
+  "handle": "sweet-cherry-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Like biting into a ripened summer cherry, this scent blends bold, fruity notes of cherry and red apple with juicy pink pineapple, bringing a bit of sunny summer along for the ride.</p>",
+  "published_at": "2024-08-01T12:59:40-06:00",
+  "created_at": "2024-07-25T10:55:24-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand:Pura",
+    "collection:Car",
+    "CollectionFilter_Fall Fruit",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Fruity",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 41743683551341,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SELC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7503798435949,
+      "created_at": "2024-07-25T10:55:25-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32609627897965,
+      "created_at": "2024-07-25T11:07:29-06:00",
+      "position": 1,
+      "updated_at": "2024-07-25T11:07:31-06:00",
+      "product_id": 7503798435949,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-SweetCherry-Prod4-0524--4.jpg?v=1721927251",
+      "width": 3853,
+      "height": 4671
+    },
+    {
+      "id": 32609627832429,
+      "created_at": "2024-07-25T11:07:29-06:00",
+      "position": 2,
+      "updated_at": "2024-07-25T11:07:31-06:00",
+      "product_id": 7503798435949,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-Cherries-Resized-0524-4083.jpg?v=1721927251",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34307078914157,
+      "created_at": "2025-05-16T14:38:58-06:00",
+      "position": 3,
+      "updated_at": "2025-05-16T14:39:00-06:00",
+      "product_id": 7503798435949,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-SweetCherry-CarPro-Prod3-0525.jpg?v=1747427940",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34307078979693,
+      "created_at": "2025-05-16T14:38:59-06:00",
+      "position": 4,
+      "updated_at": "2025-05-16T14:39:00-06:00",
+      "product_id": 7503798435949,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-SweetCherry-CarPro-Prod4-0525_f8e82f03-3f9b-4b86-bd28-e742e7a7df37.jpg?v=1747427940",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-SweetCherry-Prod4-0524--4.jpg?v=1721927251",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

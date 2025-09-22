@@ -1,0 +1,155 @@
+{
+  "id": 7113542172781,
+  "title": "NEST New York",
+  "handle": "nest-new-york-1",
+  "body_html": "<p>As a well-loved brand with over ten years in the fragrance industry, NEST New York fine fragrance brings you scents that are unlike any other with quality ingredients and bold, beautiful notes that set your home apart.\n<br>Included Fragrances:\n<br>Himalayan Salt &amp; Rosewater\n<br>Grapefruit\n<br>Bamboo\n<br>Wild Mint &amp; Eucalyptus\n<br>Amalfi Lemon &amp; Mint\n<br>Ocean Mist &amp; Sea Salt</p>",
+  "published_at": "2023-12-01T10:23:23-07:00",
+  "created_at": "2023-10-23T13:18:00-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Gift",
+  "tags": [
+    "3 Month",
+    "900-02424",
+    "__automation:disable",
+    "collection:NEST New York",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCFR_grapefruit",
+    "YGroup_grapefruit"
+  ],
+  "variants": [
+    {
+      "id": 40778599563373,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02424",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "47.97",
+      "grams": 91,
+      "compare_at_price": "59.97",
+      "position": 1,
+      "product_id": 7113542172781,
+      "created_at": "2023-10-23T13:18:00-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30744890736749,
+      "created_at": "2023-11-20T15:07:14-07:00",
+      "position": 1,
+      "updated_at": "2023-11-20T15:07:15-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nest.jpg?v=1700518035",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798301724781,
+      "created_at": "2023-12-01T15:28:51-07:00",
+      "position": 2,
+      "updated_at": "2023-12-01T15:28:53-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/NEST-Hover-11-23.png?v=1701469733",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31186203410541,
+      "created_at": "2024-02-09T16:04:59-07:00",
+      "position": 3,
+      "updated_at": "2024-02-09T16:05:01-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-HimalayanSaltandRosewater-Vertical-Resized_5e5ae977-527b-46d7-825e-a27b264c3cb2.jpg?v=1707519901",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744934416493,
+      "created_at": "2023-11-20T15:45:19-07:00",
+      "position": 4,
+      "updated_at": "2024-02-09T16:05:01-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestgrapefruitresized_bfb59217-f750-4e31-a562-e2dc31d38046.jpg?v=1707519901",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744934547565,
+      "created_at": "2023-11-20T15:45:19-07:00",
+      "position": 5,
+      "updated_at": "2024-02-09T16:05:01-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestbamboo-resized_9f096e74-1bd1-4adf-9f41-e0d591a7b2a0.jpg?v=1707519901",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744934449261,
+      "created_at": "2023-11-20T15:45:19-07:00",
+      "position": 6,
+      "updated_at": "2024-02-09T16:05:01-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-WildMint-Eucalyptus-Vertical-Resized_2553bbd8-81b6-4fe3-9e98-ce1666ce9024.jpg?v=1707519901",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744934514797,
+      "created_at": "2023-11-20T15:45:19-07:00",
+      "position": 7,
+      "updated_at": "2024-02-09T16:05:01-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/NestAmalfiLemonandMint-resized_09a6cc68-bdbd-418e-99fd-e0e79f0bc767.jpg?v=1707519901",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31186203705453,
+      "created_at": "2024-02-09T16:05:17-07:00",
+      "position": 8,
+      "updated_at": "2024-02-09T16:05:19-07:00",
+      "product_id": 7113542172781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestoceanmistseasaltresized_0d5f70dd-04e4-43f6-a331-f1a28901ab17.jpg?v=1707519919",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 47.97,
+  "compare_at_price": 59.97,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nest.jpg?v=1700518035",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

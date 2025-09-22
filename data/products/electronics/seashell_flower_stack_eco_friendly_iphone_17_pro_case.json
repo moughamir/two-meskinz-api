@@ -1,0 +1,140 @@
+{
+  "id": 8444722872408,
+  "title": "Seashell Flower Stack iPhone 17 Pro Case",
+  "handle": "seashell-flower-stack-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:25:00-04:00",
+  "created_at": "2025-08-08T12:07:04-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flower Stack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184238887000,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:FLOWER-STACK_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444722872408,
+      "created_at": "2025-09-03T18:48:19-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184238919768,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:FLOWER-STACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444722872408,
+      "created_at": "2025-09-03T18:48:19-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567385673816,
+      "created_at": "2025-08-08T12:07:04-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:07-04:00",
+      "product_id": 8444722872408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP17P_Seashell.jpg?v=1754669227",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581729275992,
+      "created_at": "2025-08-11T15:00:00-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T15:00:00-04:00",
+      "product_id": 8444722872408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c81eef7f9a5e98edb69690c897019b9a_1b02bf15-b3ff-4541-8492-4717b8c86131.jpg?v=1754938800",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581729538136,
+      "created_at": "2025-08-11T15:00:02-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T15:00:02-04:00",
+      "product_id": 8444722872408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b518cf37e930a3a29a67dc0c5e124dbd_f9622740-c432-4297-98f5-8acfc89411dc.jpg?v=1754938802",
+      "width": 3916,
+      "height": 3916
+    },
+    {
+      "id": 35581730226264,
+      "created_at": "2025-08-11T15:00:04-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T15:00:04-04:00",
+      "product_id": 8444722872408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_78d52453-dce8-4954-88ff-c5188d5ea4e3.jpg?v=1754938804",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581730717784,
+      "created_at": "2025-08-11T15:00:05-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T15:00:05-04:00",
+      "product_id": 8444722872408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/90cba3e3beb68e24805c7d70742b5cc9_b56038a9-1f88-4494-b904-aab6c6b3aa3f.jpg?v=1754938805",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP17P_Seashell.jpg?v=1754669227",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

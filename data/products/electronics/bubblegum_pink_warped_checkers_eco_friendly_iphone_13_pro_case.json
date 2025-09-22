@@ -1,0 +1,111 @@
+{
+  "id": 7556234936408,
+  "title": "Bubblegum Pink Warped Checkers iPhone 13 Pro Case",
+  "handle": "bubblegum-pink-warped-checkers-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Get ready to twist and shout with the Warped Checkers Phone Case in Bubblegum Pink! 🌸📱 This delightful design adds a playful spin to the classic checkered pattern, featuring wavy lines in a sweet bubblegum pink and cream that create a fun optical illusion. Make your phone a charming accessory that turns heads and starts conversations. Dive into the funhouse of style with the Warped Checkers Phone Case! 🍭✨<br></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-02-22T04:45:48-05:00",
+  "created_at": "2024-02-08T11:08:34-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Warped Checkers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038006452312,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16769-IP13P-BUBPINK-AOD:WARPED-CHECKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556234936408,
+      "created_at": "2024-02-08T11:08:34-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177737334872,
+      "created_at": "2024-02-08T11:08:34-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:34-05:00",
+      "product_id": 7556234936408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WARPED-CHECKERS_IP13P_BubblegumPink.jpg?v=1707408514",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211950796888,
+      "created_at": "2024-02-21T03:03:47-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:03:51-05:00",
+      "product_id": 7556234936408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WARPED-CHECKERS_BUBBLEGARDEN_1_fd9e18dd-4800-4647-9286-650f88b38085.jpg?v=1708502631",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211950862424,
+      "created_at": "2024-02-21T03:03:47-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:03:51-05:00",
+      "product_id": 7556234936408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-1_d3dbbe02-4971-4cd8-a4fb-4e9dafbcbb49.jpg?v=1708502631",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211950895192,
+      "created_at": "2024-02-21T03:03:47-05:00",
+      "position": 4,
+      "updated_at": "2024-02-21T03:03:51-05:00",
+      "product_id": 7556234936408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-2_ac48eb81-8180-4925-b9d7-3195cf8afedb.jpg?v=1708502631",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WARPED-CHECKERS_IP13P_BubblegumPink.jpg?v=1707408514",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

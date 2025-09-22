@@ -1,0 +1,69 @@
+{
+  "id": 5254379700391,
+  "title": "1/2\" X 1/2\" X 1/2 SQ MEGA GRP NOTCH TRWL",
+  "handle": "39033857",
+  "body_html": "<br><strong>Item #: </strong>09794447<br><strong>Brand: </strong>QEP<br><strong>Model #: </strong>49919-12<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Handle Material</strong>\n</td>\n<td>Rubber</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112201</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:48:21-06:00",
+  "created_at": "2020-05-29T11:29:19-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "QEP",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Coatings & Surface Preparation",
+    "Paints",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34501035884711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09794447",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.63",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5254379700391,
+      "created_at": "2020-05-29T11:29:20-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244318544039,
+      "created_at": "2025-02-03T22:32:25-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:32:27-06:00",
+      "product_id": 5254379700391,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0979436-11_fcf93c10-8a30-4066-adff-a3b16e9e0844.jpg?v=1738643547",
+      "width": 583,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.63,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0979436-11_fcf93c10-8a30-4066-adff-a3b16e9e0844.jpg?v=1738643547",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "QEP",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444681683032,
+  "title": "Seashell Holiday Bows iPhone 17 Pro Case",
+  "handle": "seashell-holiday-bows-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:26:41-04:00",
+  "created_at": "2025-08-08T11:50:25-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184243540056,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:HOLIDAY-BOWS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444681683032,
+      "created_at": "2025-09-03T18:49:16-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184243572824,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444681683032,
+      "created_at": "2025-09-03T18:49:16-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567250014296,
+      "created_at": "2025-08-08T11:50:25-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:27-04:00",
+      "product_id": 8444681683032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP17P_Seashell.jpg?v=1754668227",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678168551512,
+      "created_at": "2025-03-12T14:39:31-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T14:39:33-04:00",
+      "product_id": 8444681683032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_d084db93-d882-4e39-a33e-58e4623eefb9.jpg?v=1741804773",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34678168518744,
+      "created_at": "2025-03-12T14:39:31-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T14:39:33-04:00",
+      "product_id": 8444681683032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_19f86b8d-291f-4bc3-a5b3-0027c8389b0b.jpg?v=1741804773",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838770782296,
+      "created_at": "2024-10-22T11:46:13-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:46:15-04:00",
+      "product_id": 8444681683032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_301fffd7-5462-4d51-8acd-ffc8a46151dd.jpg?v=1729611975",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP17P_Seashell.jpg?v=1754668227",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

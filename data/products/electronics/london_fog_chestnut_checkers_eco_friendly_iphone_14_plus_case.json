@@ -1,0 +1,110 @@
+{
+  "id": 8127736545368,
+  "title": "London Fog Chestnut Checkers iPhone 14 Plus Case",
+  "handle": "london-fog-chestnut-checkers-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Chestnut Checkers Phone Case! 🍂 With its rich chestnut brown and cream checkered pattern, this case perfectly captures the essence of fall. It’s like wrapping your phone in your favorite fall sweater – stylish, warm, and oh-so-inviting. Whether you’re sipping on a pumpkin spice latte or crunching through autumn leaves, this case is the perfect accessory to complement all your fall adventures! 🌰🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:12:02-04:00",
+  "created_at": "2024-09-13T10:29:05-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Chestnut Checkers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263342121048,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16945-IP14PLUS-LFOG-AOD:CHESTNUT-CHECKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127736545368,
+      "created_at": "2024-09-13T10:29:06-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615314223192,
+      "created_at": "2024-09-13T10:29:05-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:05-04:00",
+      "product_id": 8127736545368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IP14PLUS_LondonFog.jpg?v=1726237745",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685576613976,
+      "created_at": "2024-09-26T17:10:39-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:10:41-04:00",
+      "product_id": 8127736545368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_02_3004099d-8512-4b9c-9396-87804646dcf2.jpg?v=1727385041",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678310572120,
+      "created_at": "2024-09-25T14:29:40-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T14:29:41-04:00",
+      "product_id": 8127736545368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_3e75ac4d-bf43-4fe8-8c5a-89b150e72ab1.jpg?v=1727288981",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685576646744,
+      "created_at": "2024-09-26T17:10:39-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:10:42-04:00",
+      "product_id": 8127736545368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_4a677d6b-e3c9-4d86-bff6-31b1ce3c9434.jpg?v=1727385042",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IP14PLUS_LondonFog.jpg?v=1726237745",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

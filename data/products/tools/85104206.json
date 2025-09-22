@@ -1,0 +1,68 @@
+{
+  "id": 5255416447143,
+  "title": "Indexable High-Feed End Mill: 3/4\" Cut Dia, 3/4\" Cylindrical Shank",
+  "handle": "85104206",
+  "body_html": "<br><strong>Item #: </strong>23184302<br><strong>Brand: </strong>Tungaloy<br><strong>Model #: </strong>6837419<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Minimum Cutting Diameter (Decimal Inch)</strong>\n</td>\n<td>0.5851</td>\n</tr>\n<tr> <td> <strong>Maximum Cutting Diameter (Decimal Inch)</strong>\n</td>\n<td>0.7500</td>\n</tr>\n<tr> <td> <strong>Maximum Cutting Diameter (Inch)</strong>\n</td>\n<td>3/4</td>\n</tr>\n<tr> <td> <strong>Maximum Depth of Cut (Decimal Inch)</strong>\n</td>\n<td>0.0200</td>\n</tr>\n<tr> <td> <strong>Toolholder Style</strong>\n</td>\n<td>EXN</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Cylindrical</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Decimal Inch)</strong>\n</td>\n<td>0.7500</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>3/4</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (mm)</strong>\n</td>\n<td>0.75</td>\n</tr>\n<tr> <td> <strong>Maximum Ramping Angle</strong>\n</td>\n<td>0.95</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Style</strong>\n</td>\n<td>LNMU</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Size Code</strong>\n</td>\n<td>02</td>\n</tr>\n<tr> <td> <strong>Insert Holding Method</strong>\n</td>\n<td>Screw</td>\n</tr>\n<tr> <td> <strong>Number Of Cutter Inserts</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>6.5000</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>6-1/2</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>6.50</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>EXN-02</td>\n</tr>\n<tr> <td> <strong>Flute Type</strong>\n</td>\n<td>Straight</td>\n</tr>\n<tr> <td> <strong>Head Length (Decimal Inch)</strong>\n</td>\n<td>3.5000</td>\n</tr>\n<tr> <td> <strong>Functional Length (Decimal Inch)</strong>\n</td>\n<td>6.5000</td>\n</tr>\n<tr> <td> <strong>Tool Application</strong>\n</td>\n<td>Facing; Milling</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112803</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:42:13-06:00",
+  "created_at": "2020-05-29T18:42:19-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Tungaloy",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Milling",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34504465973415,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "23184302",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "497.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5255416447143,
+      "created_at": "2020-05-29T18:42:19-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38245441765543,
+      "created_at": "2025-02-03T23:09:15-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:09:16-06:00",
+      "product_id": 5255416447143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2318430-21.jpg?v=1738645756",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 497.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2318430-21.jpg?v=1738645756",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tungaloy",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

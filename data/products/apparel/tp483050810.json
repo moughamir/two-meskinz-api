@@ -1,0 +1,67 @@
+{
+  "id": 7785785491623,
+  "title": "Brand: Made in USA / Part #: 809775-07821",
+  "handle": "tp483050810",
+  "body_html": "<br><strong>Item #: </strong>05827282<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>809775-07821<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Disc Diameter (Decimal Inch)</strong>\n</td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>80</td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Aluminum Oxide</td>\n</tr>\n<tr>\n<td><strong>Backing Material</strong></td>\n<td>Cloth</td>\n</tr>\n<tr>\n<td><strong>Product Type</strong></td>\n<td>Disc</td>\n</tr>\n<tr>\n<td><strong>Vacuum Holes Included</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Backing Weight</strong></td>\n<td>X</td>\n</tr>\n<tr>\n<td><strong>Flexible</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T02:09:03-06:00",
+  "created_at": "2023-12-29T02:09:03-06:00",
+  "updated_at": "2025-09-22T10:54:45-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 43705497419943,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05827282",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "77.36",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785785491623,
+      "created_at": "2023-12-29T02:09:03-06:00",
+      "updated_at": "2025-09-22T10:54:45-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237264019623,
+      "created_at": "2025-02-03T18:10:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:10:15-06:00",
+      "product_id": 7785785491623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0582728-23.jpg?v=1738627815",
+      "width": 600,
+      "height": 583
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 77.36,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0582728-23.jpg?v=1738627815",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

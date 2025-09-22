@@ -1,0 +1,118 @@
+{
+  "id": 7833201082415,
+  "title": "Cobra Kai Miyagi Fang Karate 17 oz. Stainless Steel Water Bottle",
+  "handle": "cobra-kai-miyagi-fang-karate-20-oz-stainless-steel-tumbler",
+  "body_html": "<p>Elevate your <em>Cobra Kai </em>experience with our Miyagi Fang Karate 17 oz. Stainless Steel Tumbler. Featuring a sleek, durable design, this tumbler keeps your drinks hot or cold while showcasing your love for <em>Cobra Kai</em>. Perfect for on-the-go hydration, it's a stylish and practical accessory for any martial arts enthusiast.</p><ul>\n<li>High-grade stainless steel</li>\n<li>Vacuum flask</li>\n<li>Double-wall construction</li>\n<li>Odorless and leak-proof cap</li>\n<li>Insulated and suitable for hot and cold liquids (keeps the liquid hot or cold for 6 h)</li>\n<li>Hand-wash only (dishwasher not recommended due to vacuum seal)</li>\n</ul>",
+  "published_at": "2024-09-18T14:41:00-04:00",
+  "created_at": "2024-09-16T03:42:02-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Water Bottles",
+  "tags": [
+    "81002370",
+    "CC-17-0924",
+    "Cobra Kai",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Promo Eligible Collection",
+    "Water Bottles"
+  ],
+  "variants": [
+    {
+      "id": 43245215055919,
+      "title": "Black / 17 oz",
+      "option1": "Black",
+      "option2": "17 oz",
+      "option3": null,
+      "sku": "CK-100960-0003-CK-MFK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34653699407919,
+        "product_id": 7833201082415,
+        "position": 1,
+        "created_at": "2024-09-16T03:42:02-04:00",
+        "updated_at": "2024-09-16T03:42:02-04:00",
+        "alt": "Cobra Kai Tumbler Cup",
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MFK_17_100960_FT_MF.jpg?v=1726472522",
+        "variant_ids": [
+          43245215055919
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7833201082415,
+      "created_at": "2024-09-16T03:42:02-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34653699407919,
+      "created_at": "2024-09-16T03:42:02-04:00",
+      "position": 1,
+      "updated_at": "2024-09-16T03:42:02-04:00",
+      "product_id": 7833201082415,
+      "variant_ids": [
+        43245215055919
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MFK_17_100960_FT_MF.jpg?v=1726472522",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34653699440687,
+      "created_at": "2024-09-16T03:42:02-04:00",
+      "position": 2,
+      "updated_at": "2024-09-16T03:42:02-04:00",
+      "product_id": 7833201082415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MFK_17_100960_BK_17_MF.jpg?v=1726472522",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34653700259887,
+      "created_at": "2024-09-16T03:42:02-04:00",
+      "position": 3,
+      "updated_at": "2024-09-16T03:42:02-04:00",
+      "product_id": 7833201082415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MFK_17_100960_LIFE25.jpg?v=1726472522",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "17 oz"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MFK_17_100960_FT_MF.jpg?v=1726472522",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Water Bottles",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

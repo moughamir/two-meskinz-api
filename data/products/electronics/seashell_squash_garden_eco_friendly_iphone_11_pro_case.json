@@ -1,0 +1,108 @@
+{
+  "id": 8127737528408,
+  "title": "Seashell Squash Garden iPhone 11 Pro Case",
+  "handle": "seashell-squash-garden-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Welcome to the harvest season with the Squash Garden Phone Case! 🎃🍂 This playful design features a charming medley of colorful squashes and gourds, scattered across a soft, neutral backdrop that perfectly captures the essence of autumn. Whether you’re a farmer’s market lover or just a fan of fall decor, this phone case will keep your device cozy and stylish through the season. 🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:14:59-04:00",
+  "created_at": "2024-09-13T10:29:10-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Squash Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263343136856,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:SQUASH-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127737528408,
+      "created_at": "2024-09-13T10:29:10-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615315206232,
+      "created_at": "2024-09-13T10:29:10-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:10-04:00",
+      "product_id": 8127737528408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP11P_Seashell.jpg?v=1726237750",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685607809112,
+      "created_at": "2024-09-26T17:16:01-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:16:03-04:00",
+      "product_id": 8127737528408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_02_ed84f985-b653-46d2-b6f7-ea52b1263483.jpg?v=1727385363",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678442102872,
+      "created_at": "2024-09-25T14:59:28-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T14:59:30-04:00",
+      "product_id": 8127737528408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_0502e9ac-8e21-4bc4-8d1a-dc049925ac14.jpg?v=1727290770",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685607841880,
+      "created_at": "2024-09-26T17:16:00-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:16:03-04:00",
+      "product_id": 8127737528408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_9c87ec8e-a9ff-4beb-af0a-76382b2aeb03.jpg?v=1727385363",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP11P_Seashell.jpg?v=1726237750",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

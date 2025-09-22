@@ -1,0 +1,101 @@
+{
+  "id": 7556236345432,
+  "title": "Bubblegum Pink Cow iPhone 15 Plus Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:49:01-05:00",
+  "created_at": "2024-02-08T11:08:41-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007828568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17195-IP15PLUS-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556236345432,
+      "created_at": "2024-02-08T11:08:41-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177738940504,
+      "created_at": "2024-02-08T11:08:41-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:41-05:00",
+      "product_id": 7556236345432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP15PLUS_BubblegumPink.jpg?v=1707408521",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211978944600,
+      "created_at": "2024-02-21T03:10:28-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:10:30-05:00",
+      "product_id": 7556236345432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_ea0ed9d4-fd52-45f7-a5ae-e0fd2a52fd6a.jpg?v=1708503030",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211978977368,
+      "created_at": "2024-02-21T03:10:28-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:10:30-05:00",
+      "product_id": 7556236345432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_655c0e3b-d6c7-49c8-b36d-4270041415b0.jpg?v=1708503030",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP15PLUS_BubblegumPink.jpg?v=1707408521",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786374725799,
+  "title": "Brand: Sandvik Coromant / Part #: 8003578",
+  "handle": "rj40t640003-5c",
+  "body_html": "<br><strong>Item #: </strong>17674417<br><strong>Brand: </strong>Sandvik Coromant<br><strong>Model #: </strong>8003578<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>VNMG</td>\n</tr>\n<tr>\n<td><strong>Insert Shape Code</strong></td>\n<td>V</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>1604</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Diamond 35?</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiCN; TiN; Al2O3</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>S205</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0156</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw; Clamp</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Decimal Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Clearance Code</strong></td>\n<td>N</td>\n</tr>\n<tr>\n<td><strong>Tolerance Code</strong></td>\n<td>M</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>T-Max P</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>CVD</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Superalloys &amp; Titanium</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>VNMG 16 04 04-MF S205</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>VNMG 16 04 04-MF S205</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>MF</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:12:43-06:00",
+  "created_at": "2023-12-29T21:12:43-06:00",
+  "updated_at": "2025-09-22T10:53:30-05:00",
+  "vendor": "Sandvik Coromant",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43707648082087,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17674417",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786374725799,
+      "created_at": "2023-12-29T21:12:43-06:00",
+      "updated_at": "2025-09-22T10:53:30-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238457561255,
+      "created_at": "2025-02-03T18:50:30-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:50:31-06:00",
+      "product_id": 7786374725799,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1079485-21_3d77a68c-e596-4410-839f-a2a84190750a.jpg?v=1738630231",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1079485-21_3d77a68c-e596-4410-839f-a2a84190750a.jpg?v=1738630231",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sandvik Coromant",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

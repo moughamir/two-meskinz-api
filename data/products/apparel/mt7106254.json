@@ -1,0 +1,67 @@
+{
+  "id": 7786439016615,
+  "title": "Brand: Big Kaiser / Part #: 10.651.837",
+  "handle": "mt7106254",
+  "body_html": "<br><strong>Item #: </strong>79023560<br><strong>Brand: </strong>Big Kaiser<br><strong>Model #: </strong>10.651.837<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>TPGT</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>0702</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>ALCR10</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0080</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>T</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Coated</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0980</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:03:31-06:00",
+  "created_at": "2023-12-30T01:03:31-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Big Kaiser",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43708014919847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "79023560",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786439016615,
+      "created_at": "2023-12-30T01:03:31-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238662656167,
+      "created_at": "2025-02-03T18:58:55-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:58:56-06:00",
+      "product_id": 7786439016615,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7902356-24.jpg?v=1738630736",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7902356-24.jpg?v=1738630736",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Big Kaiser",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

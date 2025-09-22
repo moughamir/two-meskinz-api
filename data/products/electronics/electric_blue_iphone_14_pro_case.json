@@ -1,0 +1,104 @@
+{
+  "id": 7361819541592,
+  "title": "Electric Blue iPhone 14 Pro Case",
+  "handle": "electric-blue-iphone-14-pro-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:16:19-04:00",
+  "created_at": "2023-05-12T10:16:19-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230008094808,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16806-IP14P-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819541592,
+      "created_at": "2023-05-12T10:16:19-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30269181329496,
+      "created_at": "2023-05-23T18:26:15-04:00",
+      "position": 1,
+      "updated_at": "2023-05-23T18:26:18-04:00",
+      "product_id": 7361819541592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_ELECTRIC_BLUE_BACK.jpg?v=1684880778",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269181362264,
+      "created_at": "2023-05-23T18:26:15-04:00",
+      "position": 2,
+      "updated_at": "2023-05-23T18:26:18-04:00",
+      "product_id": 7361819541592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_ELECTRIC_BLUE_BACK_45L.jpg?v=1684880778",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269181395032,
+      "created_at": "2023-05-23T18:26:15-04:00",
+      "position": 3,
+      "updated_at": "2023-05-23T18:26:18-04:00",
+      "product_id": 7361819541592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_ELECTRIC_BLUE_BACK_45R.jpg?v=1684880778",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826947539032,
+      "created_at": "2023-10-16T14:29:37-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:29:38-04:00",
+      "product_id": 7361819541592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_7e128ba1-9eab-4e35-8dca-9b593b9d5ea9.jpg?v=1697480978",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_ELECTRIC_BLUE_BACK.jpg?v=1684880778",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

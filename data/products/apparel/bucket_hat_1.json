@@ -1,0 +1,108 @@
+{
+  "id": 7060657209391,
+  "title": "Hellfire Club Hat",
+  "handle": "bucket-hat-1",
+  "body_html": "<p>Combine practicality, comfort, and fashion in one. Keep the sun out of your eyes with this 100% cotton twill bucket hat. Cotton fabric and sewn eyelets are sure to help you stay cool during any activity, be it a stroll in the park or an intense game of sports.<meta charset=\"utf-8\"></p>\n<p data-mce-fragment=\"1\">Product Details:</p>\n<p data-mce-fragment=\"1\">• 100% cotton twill<br>• 3 ¾″ (7.6 cm) crown<br>• 2 ¼″ (5.1 cm) brim<br>• One size fits most<br>• Sewn eyelets for breathability</p>",
+  "published_at": "2022-07-01T18:58:08-04:00",
+  "created_at": "2022-06-30T19:08:35-04:00",
+  "updated_at": "2025-09-22T11:41:13-04:00",
+  "vendor": "Stranger Things",
+  "product_type": "Hats",
+  "tags": [
+    "2022",
+    "2023 BFCM SITEWIDE SALE",
+    "2023 Q4 Sales Bypass",
+    "80057281",
+    "80229865",
+    "accessories",
+    "bfcm 2022 sale collection",
+    "black friday sale",
+    "Bucket Hat",
+    "category accessories",
+    "category apparel",
+    "collections",
+    "Custom label 1",
+    "Headwear",
+    "hellfire club",
+    "Netflix 26th Anniversary Sale",
+    "no-returns",
+    "pod",
+    "pod collection",
+    "printful",
+    "Promo Eligible Collection",
+    "Q3",
+    "series",
+    "series_id-80057281",
+    "stranger things",
+    "title",
+    "Title: Stranger Things",
+    "Type: Accessories",
+    "Type: Headwear",
+    "Vendor: Printful",
+    "View All"
+  ],
+  "variants": [
+    {
+      "id": 41003881627695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "3569045_10735",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.00",
+      "grams": 77,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7060657209391,
+      "created_at": "2022-06-30T19:08:35-04:00",
+      "updated_at": "2025-09-22T11:41:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31654640222255,
+      "created_at": "2022-07-01T18:57:58-04:00",
+      "position": 1,
+      "updated_at": "2022-07-01T18:58:00-04:00",
+      "product_id": 7060657209391,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/StrangerThingsFriendsDon_tLieBucketHat-BLK_Main.png?v=1656716280",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 31654640255023,
+      "created_at": "2022-07-01T18:57:58-04:00",
+      "position": 2,
+      "updated_at": "2022-07-01T18:58:00-04:00",
+      "product_id": 7060657209391,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/StrangerThingsFriendsDon_tLieBucketHat-BLK_Close.png?v=1656716280",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/StrangerThingsFriendsDon_tLieBucketHat-BLK_Main.png?v=1656716280",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Stranger Things",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786121494695,
+  "title": "Brand: Made in USA / Part #: WC-468-N",
+  "handle": "eh565505877",
+  "body_html": "<br><strong>Item #: </strong>05704903<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>WC-468-N<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Nylon</td>\n</tr>\n<tr>\n<td><strong>Clamp Type</strong></td>\n<td>Wire Clip, Self-Adhesive</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Natural</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Inch)</strong></td>\n<td>7/32</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>33/64</td>\n</tr>\n<tr>\n<td><strong>Height (Inch)</strong></td>\n<td>7/32</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>15/32</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:24:12-06:00",
+  "created_at": "2023-12-29T10:24:12-06:00",
+  "updated_at": "2025-09-22T10:54:05-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Wire Management"
+  ],
+  "variants": [
+    {
+      "id": 43707017298087,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05704903",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "54.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786121494695,
+      "created_at": "2023-12-29T10:24:12-06:00",
+      "updated_at": "2025-09-22T10:54:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237861347495,
+      "created_at": "2025-02-03T18:27:34-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:27:35-06:00",
+      "product_id": 7786121494695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0570488-11.jpg?v=1738628855",
+      "width": 250,
+      "height": 197
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 54.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0570488-11.jpg?v=1738628855",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

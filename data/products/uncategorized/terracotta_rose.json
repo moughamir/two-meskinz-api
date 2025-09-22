@@ -1,0 +1,118 @@
+{
+  "id": 7051712594029,
+  "title": "Terracotta Rose",
+  "handle": "terracotta-rose",
+  "body_html": "<p>The detailed and intricate work of Greek artisans inspires this scent with notes of earthen terracotta, geranium, and salt.</p>",
+  "published_at": "2023-08-14T19:52:11-06:00",
+  "created_at": "2023-08-09T16:20:29-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "The Met",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:The Met",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_terracottarose"
+  ],
+  "variants": [
+    {
+      "id": 40702265950317,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "RVFH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712594029,
+      "created_at": "2023-08-09T16:20:30-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31086901723245,
+      "created_at": "2024-01-24T12:51:28-07:00",
+      "position": 1,
+      "updated_at": "2024-01-24T12:51:38-07:00",
+      "product_id": 7051712594029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-TerracottaRose-Vertical-Resized.jpg?v=1706125898",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31086901756013,
+      "created_at": "2024-01-24T12:51:28-07:00",
+      "position": 2,
+      "updated_at": "2024-01-24T12:51:38-07:00",
+      "product_id": 7051712594029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cardamomingredientsresized-2_b597e825-6820-4d91-b8a0-6f3272601cb0.jpg?v=1706125898",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30350946500717,
+      "created_at": "2023-08-14T22:09:13-06:00",
+      "position": 3,
+      "updated_at": "2024-01-24T12:51:38-07:00",
+      "product_id": 7051712594029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/the-met-terrocotta-rose-prod-3-resized.jpg?v=1706125898",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31086901788781,
+      "created_at": "2024-01-24T12:51:28-07:00",
+      "position": 4,
+      "updated_at": "2024-01-24T12:51:35-07:00",
+      "product_id": 7051712594029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-TerracottaRose-Overhead-Shadow-Resized.jpg?v=1706125895",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-TerracottaRose-Vertical-Resized.jpg?v=1706125898",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "The Met",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

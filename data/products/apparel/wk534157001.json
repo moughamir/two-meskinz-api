@@ -1,0 +1,67 @@
+{
+  "id": 7785407873191,
+  "title": "Brand: Vestil / Part #: PAL-LP",
+  "handle": "wk534157001",
+  "body_html": "<br><strong>Item #: </strong>65352882<br><strong>Brand: </strong>Vestil<br><strong>Model #: </strong>PAL-LP<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Pallet Puller</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Pulling Capacity</strong></td>\n<td>5000</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Yellow</td>\n</tr>\n<tr>\n<td><strong>Chain Length</strong></td>\n<td>30 in</td>\n</tr>\n<tr>\n<td><strong>Jaw Opening</strong></td>\n<td>3.2500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:14:53-06:00",
+  "created_at": "2023-12-28T20:14:53-06:00",
+  "updated_at": "2025-09-22T10:55:22-05:00",
+  "vendor": "Vestil",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 43703778541735,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "65352882",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "96.40",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785407873191,
+      "created_at": "2023-12-28T20:14:53-06:00",
+      "updated_at": "2025-09-22T10:55:22-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236873392295,
+      "created_at": "2025-02-03T17:56:51-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:56:52-06:00",
+      "product_id": 7785407873191,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6535288-21.jpg?v=1738627012",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 96.4,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6535288-21.jpg?v=1738627012",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Vestil",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

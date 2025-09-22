@@ -1,0 +1,97 @@
+{
+  "id": 8015971483736,
+  "title": "Seashell Lil Crabby iPhone 12 Mini Case",
+  "handle": "seashell-lil-crabby-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to scuttle into cuteness with the Lil Crabby Phone Case! Adorned with delightful little red crabs, this case brings a touch of beachy charm and playful whimsy to your phone. Perfect for those who love the ocean or just appreciate a pinch of fun in their accessories. Whether you're navigating the sandy shores or just daydreaming of a seaside escape, the Lil Crabby Phone Case is your perfect crustacean companion. Keep your phone snug and stylish, and let the crabby vibes take over! <meta charset=\"utf-8\">🦀 🌊📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-07-11T09:30:30-04:00",
+  "created_at": "2024-07-03T12:04:15-04:00",
+  "updated_at": "2025-09-22T15:15:56-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Crabby",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41986379251800,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:LIL-CRABBY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8015971483736,
+      "created_at": "2024-07-03T12:04:15-04:00",
+      "updated_at": "2025-09-22T15:15:56-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33213842751576,
+      "created_at": "2024-07-03T12:04:15-04:00",
+      "position": 1,
+      "updated_at": "2024-07-03T12:04:15-04:00",
+      "product_id": 8015971483736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-CRABBY_IP12MINI_Seashell.jpg?v=1720022655",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33264823500888,
+      "created_at": "2024-07-10T13:17:32-04:00",
+      "position": 2,
+      "updated_at": "2024-07-10T13:17:34-04:00",
+      "product_id": 8015971483736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LILCRABBY_SEASHELL-1_3d786990-6934-457b-90cb-839b4427da52.jpg?v=1720631854",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33264823599192,
+      "created_at": "2024-07-10T13:17:32-04:00",
+      "position": 3,
+      "updated_at": "2024-07-10T13:17:34-04:00",
+      "product_id": 8015971483736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LILCRABBY_SEASHELL-2_5ce1dd8e-5a95-4108-b21d-ff6520da246d.jpg?v=1720631854",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-CRABBY_IP12MINI_Seashell.jpg?v=1720022655",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

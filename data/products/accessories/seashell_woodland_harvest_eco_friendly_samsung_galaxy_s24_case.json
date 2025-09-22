@@ -1,0 +1,108 @@
+{
+  "id": 8127739592792,
+  "title": "Seashell Woodland Harvest Samsung Galaxy S24 Case",
+  "handle": "seashell-woodland-harvest-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Woodland Harvest Phone Case! 🍁 This charming design brings the beauty of the forest right to your fingertips, featuring playful acorns, colorful autumn leaves, and delightful mushrooms scattered across a soft, neutral background. Whether you’re an adventurer at heart or simply love the fall aesthetic, this case is the perfect accessory to complement your seasonal style. 🍂🌿 Get ready to carry a little bit of nature with you, wherever you go! 🌰</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:17:14-04:00",
+  "created_at": "2024-09-13T10:29:23-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Woodland Harvest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263345201240,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:WOODLAND-HARVEST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127739592792,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615317303384,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:23-04:00",
+      "product_id": 8127739592792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_S24_Seashell.jpg?v=1726237763",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685705392216,
+      "created_at": "2024-09-26T17:33:14-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:33:16-04:00",
+      "product_id": 8127739592792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_02_202f4db1-352d-42df-8635-6106dce32237.jpg?v=1727386396",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678513635416,
+      "created_at": "2024-09-25T15:14:54-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:14:55-04:00",
+      "product_id": 8127739592792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_1dc4f1c1-8c58-47ea-baa5-8088ead0dbe8.jpg?v=1727291695",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685705424984,
+      "created_at": "2024-09-26T17:33:14-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:33:16-04:00",
+      "product_id": 8127739592792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_343a2f2f-400a-4956-8f1c-222c584b7904.jpg?v=1727386396",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_S24_Seashell.jpg?v=1726237763",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 7051713413229,
+  "title": "Volcano",
+  "handle": "volcano",
+  "body_html": "<p>The iconic, cult-favorite scent with the perfect blend of <strong>tropical citrus</strong> and <strong>sugary</strong> notes.</p>",
+  "published_at": "2025-06-10T10:48:14-06:00",
+  "created_at": "2023-08-09T16:20:38-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Capri Blue",
+    "collection:Best Sellers",
+    "collection:Capri Blue",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Fresh",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_volcano"
+  ],
+  "variants": [
+    {
+      "id": 40702266703981,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NDMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051713413229,
+      "created_at": "2023-08-09T16:20:38-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30335110873197,
+      "created_at": "2023-08-10T06:52:55-06:00",
+      "position": 1,
+      "updated_at": "2023-08-10T06:54:09-06:00",
+      "product_id": 7051713413229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/volcano-resized.jpg?v=1691672049",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30446998356077,
+      "created_at": "2023-09-11T11:12:29-06:00",
+      "position": 2,
+      "updated_at": "2023-09-11T11:12:31-06:00",
+      "product_id": 7051713413229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/grapefruit-resized_edc1aa8d-277e-4a1b-8509-2b99785bb454.jpg?v=1694452351",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30846663950445,
+      "created_at": "2023-12-11T11:56:20-07:00",
+      "position": 3,
+      "updated_at": "2023-12-11T11:56:22-07:00",
+      "product_id": 7051713413229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Volcano-Device-V4.jpg?v=1702320982",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30335110807661,
+      "created_at": "2023-08-10T06:52:55-06:00",
+      "position": 4,
+      "updated_at": "2023-12-11T11:56:22-07:00",
+      "product_id": 7051713413229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/volcano-2-resized.jpg?v=1702320982",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/volcano-resized.jpg?v=1691672049",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

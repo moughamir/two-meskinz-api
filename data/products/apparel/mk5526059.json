@@ -1,0 +1,69 @@
+{
+  "id": 5322293280935,
+  "title": "Brand: Panduit / Part #: LCAF250-12-X",
+  "handle": "mk5526059",
+  "body_html": "<br><strong>Item #: </strong>30975122<br><strong>Brand: </strong>Panduit<br><strong>Model #: </strong>LCAF250-12-X<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Terminal Type</strong>\n</td>\n<td>Right Angle</td>\n</tr>\n<tr>\n<td><strong>Insulation Type</strong></td>\n<td>Non-Insulated</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Compression</td>\n</tr>\n<tr>\n<td><strong>Stud Size (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Contact Material</strong></td>\n<td>Copper</td>\n</tr>\n<tr>\n<td><strong>Contact Plating</strong></td>\n<td>TiN</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1700</td>\n</tr>\n<tr>\n<td><strong>Ring Width (Decimal Inch)</strong></td>\n<td>1.2800</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.3000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T21:05:17-06:00",
+  "created_at": "2020-06-12T14:10:32-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Panduit",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Electrical Connectors",
+    "Rotating Brushes",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34695691993255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "30975122",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.14",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322293280935,
+      "created_at": "2020-06-12T14:10:32-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239737512103,
+      "created_at": "2025-02-03T19:53:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:53:32-06:00",
+      "product_id": 5322293280935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3097516-21_0e0a4d6a-5e86-4e5b-b541-10e353020aa5.jpg?v=1738634012",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3097516-21_0e0a4d6a-5e86-4e5b-b541-10e353020aa5.jpg?v=1738634012",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Panduit",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

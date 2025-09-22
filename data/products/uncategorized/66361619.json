@@ -1,0 +1,67 @@
+{
+  "id": 8452649320615,
+  "title": "18\" BLACK 1/PR SMOOTH FINISH PVC GLOVES",
+  "handle": "66361619",
+  "body_html": "<br><strong>Item #: </strong>59972034<br><strong>Brand: </strong>Cordova<br><strong>Model #: </strong>5018<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>46181504</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4240</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>46181504</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4240</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>59972034</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>5018</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:17:51-06:00",
+  "created_at": "2025-01-23T13:17:49-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Cordova",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46498389065895,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "59972034",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "6.72",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452649320615,
+      "created_at": "2025-01-23T13:17:49-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38247672938663,
+      "created_at": "2025-02-04T00:22:08-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:22:10-06:00",
+      "product_id": 8452649320615,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/noimageavailable_b972ad20-fd1f-4c64-a64a-b657d2a629aa.jpg?v=1738650130",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 6.72,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/noimageavailable_b972ad20-fd1f-4c64-a64a-b657d2a629aa.jpg?v=1738650130",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Cordova",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

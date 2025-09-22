@@ -1,0 +1,108 @@
+{
+  "id": 7363432972376,
+  "title": "Lavender Frequency iPhone 13 Mini Case",
+  "handle": "lavender-frequency-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Dress your phone in the undulating charm of the Pela Frequency Phone Case! This case features a playful rhythm of wavy lines in a soothing palette of lavender and soft pink, giving your device a touch of artistic flair that's as calming as it is captivating. Perfect for anyone who appreciates a blend of modern design with a twist of whimsy, this case not only offers excellent protection but also ensures your phone looks great in any setting. It’s like a visual lullaby for your tech, wrapping it in waves of style! 🌊💜📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-25T08:30:50-04:00",
+  "created_at": "2023-05-24T12:43:16-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Retro Shapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Frequency",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40232963833944,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16622-IP13MINI-LAV-AOD:FREQUENCY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363432972376,
+      "created_at": "2023-05-24T12:43:16-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30270395056216,
+      "created_at": "2023-05-24T12:43:16-04:00",
+      "position": 1,
+      "updated_at": "2023-05-24T12:43:16-04:00",
+      "product_id": 7363432972376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FREQUENCY_IP13MINI_Lavender.jpg?v=1684946596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270492311640,
+      "created_at": "2023-05-24T14:53:49-04:00",
+      "position": 2,
+      "updated_at": "2023-05-24T14:53:53-04:00",
+      "product_id": 7363432972376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesignv5_93ff5ffd-b1f2-4df6-a2b0-6315b813ba43.png?v=1684954433",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270492278872,
+      "created_at": "2023-05-24T14:53:49-04:00",
+      "position": 3,
+      "updated_at": "2023-05-24T14:53:54-04:00",
+      "product_id": 7363432972376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesign_4342a915-0bfd-43c2-b224-646a1aa62c25.png?v=1684954434",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270492246104,
+      "created_at": "2023-05-24T14:53:49-04:00",
+      "position": 4,
+      "updated_at": "2023-05-24T14:53:54-04:00",
+      "product_id": 7363432972376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CASE-21_73e898f9-1566-4017-a0c8-18c2d4d90b3f.jpg?v=1684954434",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FREQUENCY_IP13MINI_Lavender.jpg?v=1684946596",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

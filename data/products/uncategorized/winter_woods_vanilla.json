@@ -1,0 +1,117 @@
+{
+  "id": 7728812523629,
+  "title": "Winter Woods & Vanilla",
+  "handle": "winter-woods-vanilla",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Create the ultimate cozy retreat with a sweet, woody blend of <strong>blue cypress </strong>layered with luscious<strong> toasted marshmallow</strong>, <strong>cappuccino</strong>, and <strong>vanilla creme</strong> notes. <br></p>",
+  "published_at": "2025-09-10T09:01:15-06:00",
+  "created_at": "2025-08-21T13:13:17-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Anthropologie",
+    "CollectionFilter_Vanilla",
+    "Group_Home",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 43142844416109,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WADH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7728812523629,
+      "created_at": "2025-08-21T13:13:18-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35096964333677,
+      "created_at": "2025-08-21T13:24:00-06:00",
+      "position": 1,
+      "updated_at": "2025-08-21T13:24:03-06:00",
+      "product_id": 7728812523629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-WinterWoodsAndVanilla-Prod1-0725.jpg?v=1755804243",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 35096964399213,
+      "created_at": "2025-08-21T13:24:00-06:00",
+      "position": 2,
+      "updated_at": "2025-08-21T13:24:54-06:00",
+      "product_id": 7728812523629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WinterWoods_Vanilla-Prod2.png?v=1755804294",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35096964431981,
+      "created_at": "2025-08-21T13:24:00-06:00",
+      "position": 3,
+      "updated_at": "2025-08-21T13:24:54-06:00",
+      "product_id": 7728812523629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WinterWoods_Vanilla-Prod3.png?v=1755804294",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35096964366445,
+      "created_at": "2025-08-21T13:24:00-06:00",
+      "position": 4,
+      "updated_at": "2025-08-21T13:24:54-06:00",
+      "product_id": 7728812523629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-WinterWoodsAndVanilla-Prod4-0725.jpg?v=1755804294",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-WinterWoodsAndVanilla-Prod1-0725.jpg?v=1755804243",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

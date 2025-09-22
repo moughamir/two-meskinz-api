@@ -1,0 +1,76 @@
+{
+  "id": 7364967530584,
+  "title": "London Fog Out of Office iPhone 14/16e Case",
+  "handle": "london-fog-out-of-office-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Declare your well-deserved break with style using the Out of Office Phone Case! This chic and minimalist case in a calming beige tone is perfect for anyone who loves to flaunt their vacation vibes. Whether you're off on a tropical adventure or simply taking a breather from the daily grind, let everyone know you're in full relaxation mode. Sleek, protective, and effortlessly cool, this case is a must-have for all the wanderlust souls. Escape the hustle and keep it stylishly laid-back with the Out of Office Phone Case! 🌴✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T13:20:00-04:00",
+  "created_at": "2023-06-09T13:19:59-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Quotes",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Out of Office",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236429017176,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16735-IP14-LFOG-AOD:OUT-OF-OFFICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364967530584,
+      "created_at": "2023-06-09T13:19:59-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285592723544,
+      "created_at": "2023-06-09T13:19:59-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T13:19:59-04:00",
+      "product_id": 7364967530584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/OUT-OF-OFFICE_IP14_LondonFog.jpg?v=1686331199",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/OUT-OF-OFFICE_IP14_LondonFog.jpg?v=1686331199",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

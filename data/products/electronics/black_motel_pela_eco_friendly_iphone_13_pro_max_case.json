@@ -1,0 +1,110 @@
+{
+  "id": 7882667032664,
+  "title": "Black Motel Pela iPhone 13 Pro Max Case",
+  "handle": "black-motel-pela-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">✨🏨 Welcome to Motel Pela, a captivating phone case from the exclusive Pela x Cam Miller Artist Series Collection! Inspired by the nostalgic charm of vintage motels, this design features a retro signboard and a starry night sky, transporting you to a dreamy roadside escape. This case captures the essence of endless adventures and cozy stays under the stars. Perfect for wanderlust-filled souls and design enthusiasts alike, the Motel Pela Phone Case adds a touch of classic Americana to your tech gear. Check in and carry a piece of art wherever you go! 🌟📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-05-30T09:07:28-04:00",
+  "created_at": "2024-05-13T14:23:20-04:00",
+  "updated_at": "2025-09-22T15:16:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Cam Miller",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Motel Pela",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41670172049496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16825-IP13PMAX-BLACK-AOD:MOTEL-PELA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7882667032664,
+      "created_at": "2024-05-13T14:23:20-04:00",
+      "updated_at": "2025-09-22T15:16:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32853887025240,
+      "created_at": "2024-05-13T14:23:20-04:00",
+      "position": 1,
+      "updated_at": "2024-05-13T14:23:20-04:00",
+      "product_id": 7882667032664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTEL-PELA_IP13PMAX_Black.jpg?v=1715624600",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973518012504,
+      "created_at": "2024-05-28T13:29:17-04:00",
+      "position": 2,
+      "updated_at": "2024-05-28T13:29:20-04:00",
+      "product_id": 7882667032664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTELPELA_BLACK_b9ae373d-23a6-4f40-9faa-c58145d16f04.jpg?v=1716917360",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973517979736,
+      "created_at": "2024-05-28T13:29:17-04:00",
+      "position": 3,
+      "updated_at": "2024-05-28T13:29:20-04:00",
+      "product_id": 7882667032664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--2_f091c4fd-672b-482d-b15b-3ca4e3357267.jpg?v=1716917360",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32973517946968,
+      "created_at": "2024-05-28T13:29:17-04:00",
+      "position": 4,
+      "updated_at": "2024-05-28T13:29:20-04:00",
+      "product_id": 7882667032664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--3_31a170a2-96d4-41bd-a454-c3ebb540cefc.jpg?v=1716917360",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTEL-PELA_IP13PMAX_Black.jpg?v=1715624600",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

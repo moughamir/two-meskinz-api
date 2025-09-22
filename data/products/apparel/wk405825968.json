@@ -1,0 +1,67 @@
+{
+  "id": 7785686892711,
+  "title": "Brand: Ability One / Part #: 7920004327117",
+  "handle": "wk405825968",
+  "body_html": "<br><strong>Item #: </strong>53391231<br><strong>Brand: </strong>Ability One<br><strong>Model #: </strong>7920004327117<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Sponge Mop</td>\n</tr>\n<tr>\n<td><strong>Head Material</strong></td>\n<td>Cellulose</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Quick-Change</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:09:43-06:00",
+  "created_at": "2023-12-29T00:09:43-06:00",
+  "updated_at": "2025-09-22T10:54:57-05:00",
+  "vendor": "Ability One",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Brooms; Mops; Squeegees & Buckets"
+  ],
+  "variants": [
+    {
+      "id": 43705172721831,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "53391231",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "83.53",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785686892711,
+      "created_at": "2023-12-29T00:09:43-06:00",
+      "updated_at": "2025-09-22T10:54:57-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237135143079,
+      "created_at": "2025-02-03T18:05:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:05:46-06:00",
+      "product_id": 7785686892711,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5339123AA-21.jpg?v=1738627546",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 83.53,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5339123AA-21.jpg?v=1738627546",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ability One",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

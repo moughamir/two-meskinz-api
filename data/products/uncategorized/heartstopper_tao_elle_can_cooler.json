@@ -1,0 +1,180 @@
+{
+  "id": 7878056640559,
+  "title": "Heartstopper Tao & Elle Can Cooler",
+  "handle": "heartstopper-tao-elle-can-cooler",
+  "body_html": "<p>Celebrate the friendship and sweetness of <em>Heartstopper </em>with the Tao &amp; Elle Can Cooler. Featuring the adorable duo, this cooler is perfect for fans who love the heartwarming connection between Tao and Elle. Whether you're enjoying a cold drink during a <em>Heartstopper </em>rewatch or just showing off your favorite pair, this cooler keeps your beverage cool while adding a touch of fandom magic to your day. Just like Tao and Elle's bond, it's the perfect mix of fun and refreshment!</p><ul>\n<li>Made from neoprene</li>\n<li>Waterproof</li>\n<li>Ribbed seams</li>\n<li>Regular 5\" × 4\" (12 × 10 cm), or slim 6.5\" × 3.2\" (17 × 8 cm)</li>\n<li>Spot clean as needed</li>\n</ul>",
+  "published_at": "2024-12-16T13:00:11-05:00",
+  "created_at": "2024-11-27T10:00:35-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Can Coolers",
+  "tags": [
+    "81059939",
+    "Can Coolers",
+    "CC-12OZ",
+    "Coolers",
+    "Drinkware",
+    "Heartstopper",
+    "NTF-38-1124",
+    "size-option",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43435997200431,
+      "title": "Regular 12 oz",
+      "option1": "Regular 12 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101787-0001-HS-CLLG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35190530900015,
+        "product_id": 7878056640559,
+        "position": 1,
+        "created_at": "2024-12-16T12:24:54-05:00",
+        "updated_at": "2024-12-16T12:24:54-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_REG_FT_MF.jpg?v=1734369894",
+        "variant_ids": [
+          43435997200431
+        ]
+      },
+      "available": true,
+      "price": "7.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7878056640559,
+      "created_at": "2024-11-27T10:00:35-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43477558231087,
+      "title": "Slim 12 oz",
+      "option1": "Slim 12 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101787-0002-HS-CLLG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35190531096623,
+        "product_id": 7878056640559,
+        "position": 4,
+        "created_at": "2024-12-16T12:24:59-05:00",
+        "updated_at": "2024-12-16T12:24:59-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_SLIM_FT_MF.jpg?v=1734369899",
+        "variant_ids": [
+          43477558231087
+        ]
+      },
+      "available": true,
+      "price": "7.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7878056640559,
+      "created_at": "2024-12-16T12:24:34-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35190530900015,
+      "created_at": "2024-12-16T12:24:54-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T12:24:54-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [
+        43435997200431
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_REG_FT_MF.jpg?v=1734369894",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35190530965551,
+      "created_at": "2024-12-16T12:24:56-05:00",
+      "position": 2,
+      "updated_at": "2024-12-16T12:24:56-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_REG_BK_MF.jpg?v=1734369896",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35190531031087,
+      "created_at": "2024-12-16T12:24:57-05:00",
+      "position": 3,
+      "updated_at": "2024-12-16T12:24:57-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_REG_LIFE.jpg?v=1734369897",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35190531096623,
+      "created_at": "2024-12-16T12:24:59-05:00",
+      "position": 4,
+      "updated_at": "2024-12-16T12:24:59-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [
+        43477558231087
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_SLIM_FT_MF.jpg?v=1734369899",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35190531162159,
+      "created_at": "2024-12-16T12:25:01-05:00",
+      "position": 5,
+      "updated_at": "2024-12-16T12:25:01-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_SLIM_BK_MF.jpg?v=1734369901",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35190531260463,
+      "created_at": "2024-12-16T12:25:02-05:00",
+      "position": 6,
+      "updated_at": "2024-12-16T12:25:02-05:00",
+      "product_id": 7878056640559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_SLIM_LIFE.jpg?v=1734369902",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "Regular 12 oz",
+        "Slim 12 oz"
+      ]
+    }
+  ],
+  "price": 7.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-CLLG_38_101787_REG_FT_MF.jpg?v=1734369894",
+  "images_count": 6,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Can Coolers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

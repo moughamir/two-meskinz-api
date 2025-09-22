@@ -1,0 +1,67 @@
+{
+  "id": 7785739714727,
+  "title": "Brand: Milwaukee Tool / Part #: 48-89-4860",
+  "handle": "ft8536058",
+  "body_html": "<br><strong>Item #: </strong>17614215<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>48-89-4860<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drill Bit Set Type</strong>\n</td>\n<td>Hex Shank Drill Bits</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Titanium</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Hex; Straight</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>(TiN)</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Standard; Straight</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Sizes Included (mm)</strong></td>\n<td>2.00, 2.50, 3.00, 3.50, 4.00. 4.50, 5.00, 5.50, 6.00, 6.50, 7.00, 7.50, 8.00, 8.50, 9.00, 9.50, 10.00</td>\n</tr>\n<tr>\n<td><strong>Contents</strong></td>\n<td>(1) Metric Shockwave Titanium Red Helix 2 mm (48-89-4803), (1) Metric Shockwave Titanium Red Helix 2.5 mm (48-89-4804), (1) Metric Shockwave Titanium Red Helix 3 mm (48-89-4805), (1) Metric Shockwave Titanium Red Helix 3.5 mm (48-89-4807), (1) Metric Shockwave Titanium Red Helix 4 mm (48-89-4808), (1) Metric Shockwave Titanium Red Helix 4.5 mm (48-89-4810), (1) Metric Shockwave Titanium Red Helix 5 mm (48-89-4812), (1) Metric Shockwave Titanium Red Helix 5.5 mm (48-89-4813), (1) Metric Shockwave Titanium Red Helix 6 mm (48-89-4814), (1) Metric Shockwave Titanium Red Helix 6.5 mm (48-89-4815), (1) Metric Shockwave Titanium Red Helix 7 mm (48-89-4817), (1) Metric Shockwave Titanium Red Helix 7.5 mm (48-89-4818), (1) Metric Shockwave Titanium Red Helix 8 mm (48-89-4819), (1) Metric Shockwave Titanium Red Helix 8.5 mm (48-89-4820), (1) Metric Shockwave Titanium Red Helix 9 mm (48-89-4821), (1) Metric Shockwave Titanium Red Helix 9.5 mm (48-89-4822), (1) Metric Shockwave Titanium Red Helix 10 mm (48-89-4823)</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Neutral</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:52:21-06:00",
+  "created_at": "2023-12-29T00:52:21-06:00",
+  "updated_at": "2025-09-22T10:54:52-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 43705389383847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17614215",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "81.43",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785739714727,
+      "created_at": "2023-12-29T00:52:21-06:00",
+      "updated_at": "2025-09-22T10:54:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237179412647,
+      "created_at": "2025-02-03T18:07:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:19-06:00",
+      "product_id": 7785739714727,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1761421-21.jpg?v=1738627639",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 81.43,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1761421-21.jpg?v=1738627639",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

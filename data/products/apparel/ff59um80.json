@@ -1,0 +1,67 @@
+{
+  "id": 7786265673895,
+  "title": "Brand: WGTC / Part #: 3BK04E02",
+  "handle": "ff59um80",
+  "body_html": "<br><strong>Item #: </strong>67286476<br><strong>Brand: </strong>WGTC<br><strong>Model #: </strong>3BK04E02<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accuracy (%)</strong>\n</td>\n<td>1.00</td>\n</tr>\n<tr>\n<td><strong>Connection Location</strong></td>\n<td>Back</td>\n</tr>\n<tr>\n<td><strong>Mount</strong></td>\n<td>Center Back</td>\n</tr>\n<tr>\n<td><strong>Lens Material</strong></td>\n<td>Glass</td>\n</tr>\n<tr>\n<td><strong>Mounting Location</strong></td>\n<td>Pipe</td>\n</tr>\n<tr>\n<td><strong>Stem Length</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Dial Diameter (Inch)</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-40.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>120.000</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>1/2\" NPT</td>\n</tr>\n<tr>\n<td><strong>Connection Size</strong></td>\n<td>1/2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:18:44-06:00",
+  "created_at": "2023-12-29T16:18:44-06:00",
+  "updated_at": "2025-09-22T10:53:47-05:00",
+  "vendor": "WGTC",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Pressure & Temperature Measuring Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43707376959655,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67286476",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "42.89",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786265673895,
+      "created_at": "2023-12-29T16:18:44-06:00",
+      "updated_at": "2025-09-22T10:53:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238198202535,
+      "created_at": "2025-02-03T18:39:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:39:52-06:00",
+      "product_id": 7786265673895,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6728647-21.jpg?v=1738629592",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 42.89,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6728647-21.jpg?v=1738629592",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WGTC",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

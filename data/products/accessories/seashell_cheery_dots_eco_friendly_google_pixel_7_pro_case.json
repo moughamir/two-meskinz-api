@@ -1,0 +1,119 @@
+{
+  "id": 8396686000216,
+  "title": "Seashell Cheery Dots Google Pixel 7 Pro Case",
+  "handle": "seashell-cheery-dots-eco-friendly-google-pixel-7-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Playful, punchy, and positively dotty—meet the Cheery Dots Phone Case! 🎯<br data-start=\"77\" data-end=\"80\">Covered in hand-drawn red polka dots with a painterly twist, this case is your daily dose of joy and a little wink of whimsy.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-17T09:09:33-04:00",
+  "created_at": "2025-06-09T15:34:28-04:00",
+  "updated_at": "2025-09-22T15:13:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Polka Dots",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cheery Dots",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42936913068120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14876-PX7P-SEASHELL-AOD:CHEERY-DOTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8396686000216,
+      "created_at": "2025-06-09T15:34:28-04:00",
+      "updated_at": "2025-09-22T15:13:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35195461140568,
+      "created_at": "2025-06-09T15:34:28-04:00",
+      "position": 1,
+      "updated_at": "2025-06-09T15:34:30-04:00",
+      "product_id": 8396686000216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHEERY-DOTS_PX7P_Seashell.jpg?v=1749497670",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35213380452440,
+      "created_at": "2025-06-12T16:21:28-04:00",
+      "position": 2,
+      "updated_at": "2025-06-12T16:21:28-04:00",
+      "product_id": 8396686000216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a10b2653a023d61b254b69d49f9ce562_73a01dd0-5014-4dd8-9549-12d57db588ba.jpg?v=1749759688",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35213380747352,
+      "created_at": "2025-06-12T16:21:30-04:00",
+      "position": 3,
+      "updated_at": "2025-06-12T16:21:30-04:00",
+      "product_id": 8396686000216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a45908a13717fb3c1dc0a05a82601dbb_64b70498-62db-470b-8587-680e282504b1.jpg?v=1749759690",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35213382025304,
+      "created_at": "2025-06-12T16:21:42-04:00",
+      "position": 4,
+      "updated_at": "2025-06-12T16:21:42-04:00",
+      "product_id": 8396686000216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fe77898230715fa2ab7488b86c6ea107_d2044464-9aae-4940-8394-a8b89c035610.jpg?v=1749759702",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35213382156376,
+      "created_at": "2025-06-12T16:21:44-04:00",
+      "position": 5,
+      "updated_at": "2025-06-12T16:21:44-04:00",
+      "product_id": 8396686000216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2e1c814a887a801e559ad4e43ae86e16_cd448e7f-fe73-44eb-8dd8-3d1b48a1dbd8.jpg?v=1749759704",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHEERY-DOTS_PX7P_Seashell.jpg?v=1749497670",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

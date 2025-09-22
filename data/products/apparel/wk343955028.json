@@ -1,0 +1,67 @@
+{
+  "id": 7786457759911,
+  "title": "Brand: Williams / Part #: JHW6M-1235",
+  "handle": "wk343955028",
+  "body_html": "<br><strong>Item #: </strong>82303959<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>JHW6M-1235<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drive Size</strong>\n</td>\n<td>3/4 in</td>\n</tr>\n<tr>\n<td><strong>Socket Size (mm)</strong></td>\n<td>35</td>\n</tr>\n<tr>\n<td><strong>Drive Style</strong></td>\n<td>Square</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/4</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Non-sparking</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Deep</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Number Of Points</strong></td>\n<td>12</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:38:10-06:00",
+  "created_at": "2023-12-30T02:38:10-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43708112306343,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82303959",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786457759911,
+      "created_at": "2023-12-30T02:38:10-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238750769319,
+      "created_at": "2025-02-03T19:03:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:03:02-06:00",
+      "product_id": 7786457759911,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8230705-21_02bf58ba-4855-446b-90f7-daa725e9e07d.jpg?v=1738630982",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8230705-21_02bf58ba-4855-446b-90f7-daa725e9e07d.jpg?v=1738630982",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

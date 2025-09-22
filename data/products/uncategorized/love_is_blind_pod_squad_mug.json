@@ -1,0 +1,104 @@
+{
+  "id": 7866481606703,
+  "title": "Love is Blind Pod Squad Mug",
+  "handle": "love-is-blind-pod-squad-mug",
+  "body_html": "<p>Join the fun with the <em>Love is Blind </em>Pod Squad Mug! Perfect for sipping your favorite drink while diving into the juicy drama of love and connections, this mug celebrates those unforgettable moments with your favorite cast. Whether you're watching solo or sharing laughs with friends, let this playful mug remind you that in the quest for love, every sip is a toast to the wild ride ahead!</p>\n<ul>\n<li>11 oz.</li>\n<li>Dimensions: height - 3.85\" (9.8 cm), diameter - 3.35\" (8.5 cm).</li>\n<li>Ceramic.</li>\n<li>Care: Dishwasher and microwave safe.</li>\n</ul>",
+  "published_at": "2024-11-13T14:24:50-05:00",
+  "created_at": "2024-11-12T04:09:20-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "80996601",
+    "Drinkware",
+    "Gifting",
+    "Home & Office",
+    "home and office",
+    "Love is Blind",
+    "Mugs",
+    "new",
+    "NFX-27-1024",
+    "Promo Eligible Collection",
+    "unisex",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43365440290863,
+      "title": "White",
+      "option1": "White",
+      "option2": null,
+      "option3": null,
+      "sku": "LIB-100654-0001-LB-PSQMG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34968531533871,
+        "product_id": 7866481606703,
+        "position": 1,
+        "created_at": "2024-11-12T04:09:20-05:00",
+        "updated_at": "2024-11-12T04:09:20-05:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LB-PSQMG_100654_FT_MF.jpg?v=1731402560",
+        "variant_ids": [
+          43365440290863
+        ]
+      },
+      "available": true,
+      "price": "15.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7866481606703,
+      "created_at": "2024-11-12T04:09:20-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34968531533871,
+      "created_at": "2024-11-12T04:09:20-05:00",
+      "position": 1,
+      "updated_at": "2024-11-12T04:09:20-05:00",
+      "product_id": 7866481606703,
+      "variant_ids": [
+        43365440290863
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LB-PSQMG_100654_FT_MF.jpg?v=1731402560",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34968531566639,
+      "created_at": "2024-11-12T04:09:20-05:00",
+      "position": 2,
+      "updated_at": "2024-11-12T04:09:20-05:00",
+      "product_id": 7866481606703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LB-PSQMG_100654_BK_MF.jpg?v=1731402560",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    }
+  ],
+  "price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LB-PSQMG_100654_FT_MF.jpg?v=1731402560",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

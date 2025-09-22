@@ -1,0 +1,95 @@
+{
+  "id": 8026990248024,
+  "title": "Stormy Blue iPhone 16 Case",
+  "handle": "stormy-blue-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<!---->",
+  "published_at": "2024-09-09T14:20:24-04:00",
+  "created_at": "2024-07-08T17:09:02-04:00",
+  "updated_at": "2025-09-22T15:15:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "Classic",
+    "Clearance",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42004010467416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17244-IP16-STORMBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8026990248024,
+      "created_at": "2024-07-08T17:09:02-04:00",
+      "updated_at": "2025-09-22T15:15:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33482146185304,
+      "created_at": "2024-08-15T13:14:07-04:00",
+      "position": 1,
+      "updated_at": "2024-08-15T13:14:09-04:00",
+      "product_id": 8026990248024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16_STORMYBLUE_BACK.jpg?v=1723742049",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33482146119768,
+      "created_at": "2024-08-15T13:14:07-04:00",
+      "position": 2,
+      "updated_at": "2024-08-15T13:14:09-04:00",
+      "product_id": 8026990248024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16_STORMYBLUE_BACK_45L.jpg?v=1723742049",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33482146152536,
+      "created_at": "2024-08-15T13:14:07-04:00",
+      "position": 3,
+      "updated_at": "2024-08-15T13:14:09-04:00",
+      "product_id": 8026990248024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16_STORMYBLUE_BACK_45R.jpg?v=1723742049",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 27,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16_STORMYBLUE_BACK.jpg?v=1723742049",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

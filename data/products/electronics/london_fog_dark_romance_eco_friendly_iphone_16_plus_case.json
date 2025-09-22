@@ -1,0 +1,98 @@
+{
+  "id": 8267605049432,
+  "title": "London Fog Dark Romance iPhone 16 Plus Case",
+  "handle": "london-fog-dark-romance-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Where vintage charm meets moody elegance, the <strong>Dark Romance Phone Case</strong> is for those who adore a little mystery with their romance. Featuring delicate roses tied with whimsical bows, this design whispers of timeless love letters, candlelit poetry, and a touch of gothic glamour. <meta charset=\"utf-8\">🖤🌹 Perfect for hopeless romantics, dark academia lovers, and anyone who believes love should always have a little edge. </p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-20T09:10:17-05:00",
+  "created_at": "2025-01-27T13:59:02-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Noir Romance",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dark Romance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42597374623832,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17360-IP16PLUS-LFOG-AOD:DARK-ROMANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8267605049432,
+      "created_at": "2025-01-27T13:59:02-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34373322571864,
+      "created_at": "2025-01-27T13:59:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-27T13:59:04-05:00",
+      "product_id": 8267605049432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARK-ROMANCE_IP16PLUS_LondonFog.jpg?v=1738004344",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34537540616280,
+      "created_at": "2025-02-18T15:23:55-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T15:24:01-05:00",
+      "product_id": 8267605049432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARKROMANCE_PDP1_bac18209-c8bb-404d-82d1-4f188bff907a.jpg?v=1739910241",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34537540517976,
+      "created_at": "2025-02-18T15:23:55-05:00",
+      "position": 3,
+      "updated_at": "2025-02-18T15:24:01-05:00",
+      "product_id": 8267605049432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARKROMANCE_PDP2_7ed3a34f-fd5f-4595-b7ef-9bc54515835e.jpg?v=1739910241",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARK-ROMANCE_IP16PLUS_LondonFog.jpg?v=1738004344",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

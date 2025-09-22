@@ -1,0 +1,67 @@
+{
+  "id": 7785303834791,
+  "title": "Brand: AirSept / Part #: 86441",
+  "handle": "wk315364674",
+  "body_html": "<br><strong>Item #: </strong>02023976<br><strong>Brand: </strong>AirSept<br><strong>Model #: </strong>86441<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connector Type</strong>\n</td>\n<td>Female Line Blockoff Fitting</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>2-3/4-27</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:52:19-06:00",
+  "created_at": "2023-12-28T16:52:19-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "AirSept",
+  "product_type": "Hose; Tube; Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 43703588421799,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02023976",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "109.14",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785303834791,
+      "created_at": "2023-12-28T16:52:19-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236661252263,
+      "created_at": "2025-02-03T17:49:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:45-06:00",
+      "product_id": 7785303834791,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0202397-21.jpg?v=1738626585",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 109.14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0202397-21.jpg?v=1738626585",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AirSept",
+  "category": "Hose; Tube; Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

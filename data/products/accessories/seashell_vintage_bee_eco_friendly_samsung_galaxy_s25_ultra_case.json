@@ -1,0 +1,97 @@
+{
+  "id": 8254961877080,
+  "title": "Seashell Vintage Bee Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-vintage-bee-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌼🐝 Step into spring any time of year with the Vintage Bee Phone Case by Pela! Adorned with a charming pattern of golden poppies and busy little bees, this case brings the beauty of a sunlit garden right to your fingertips.  Perfect for those who appreciate the elegance of nature and want to keep their tech as fresh and flourishing as a blooming meadow. Embrace the buzz of life with this delightfully floral tribute to nature’s tiny workers! 🌿🌞</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:48:25-05:00",
+  "created_at": "2025-01-15T11:45:09-05:00",
+  "updated_at": "2025-09-22T15:15:15-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Nature",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Vintage Bee",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567878443096,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:VINTAGE-BEE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254961877080,
+      "created_at": "2025-01-15T11:45:10-05:00",
+      "updated_at": "2025-09-22T15:15:15-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303575392344,
+      "created_at": "2025-01-15T11:45:09-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:11-05:00",
+      "product_id": 8254961877080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-BEE_S25ULTRA_Seashell.jpg?v=1736959511",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678361620568,
+      "created_at": "2025-03-12T15:16:35-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T15:16:37-04:00",
+      "product_id": 8254961877080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2227_b2214c13-0cad-428b-be80-f2ae3d419a8d.jpg?v=1741806997",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354880512088,
+      "created_at": "2025-01-22T16:26:01-05:00",
+      "position": 3,
+      "updated_at": "2025-03-12T15:16:37-04:00",
+      "product_id": 8254961877080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP1_b61c8933-ea9d-4ae1-9631-b08d2950e388.jpg?v=1741806997",
+      "width": 3530,
+      "height": 3530
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-BEE_S25ULTRA_Seashell.jpg?v=1736959511",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

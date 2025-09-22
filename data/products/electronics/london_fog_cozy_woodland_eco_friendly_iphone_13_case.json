@@ -1,0 +1,121 @@
+{
+  "id": 8159695568984,
+  "title": "London Fog Cozy Woodland iPhone 13 Case",
+  "handle": "london-fog-cozy-woodland-eco-friendly-iphone-13-case",
+  "body_html": "<p class=\"p1\">Step into a winter wonderland with the Pela Cozy Woodland Phone Case! 🌲❄️ Featuring charming green sketches of woodland creatures, stars, bows, reindeer, and holiday treats, this case brings cozy vibes straight to your phone. Lightweight, durable, and full of holiday magic, this case will keep your phone safe while spreading seasonal cheer!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:20:45-04:00",
+  "created_at": "2024-10-16T10:40:49-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Cozy Woodland",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333273948248,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16690-IP13-LFOG-AOD:COZY-WOODLAND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159695568984,
+      "created_at": "2024-10-16T10:40:49-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799057047640,
+      "created_at": "2024-10-16T10:40:49-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:49-04:00",
+      "product_id": 8159695568984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP13_LondonFog.jpg?v=1729089649",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838831108184,
+      "created_at": "2024-10-22T12:07:16-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T12:07:18-04:00",
+      "product_id": 8159695568984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP1_57e78c17-3171-4a62-83bb-ae4c02b1b019.jpg?v=1729613238",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838831042648,
+      "created_at": "2024-10-22T12:07:16-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T12:07:18-04:00",
+      "product_id": 8159695568984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP2_1f4705f3-5388-4b2b-b7f2-571c0f64d3d4.jpg?v=1729613238",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838831140952,
+      "created_at": "2024-10-22T12:07:16-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T12:07:18-04:00",
+      "product_id": 8159695568984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP3_2838bb12-f5d0-4b8d-ae58-e23c1e035e49.jpg?v=1729613238",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838831075416,
+      "created_at": "2024-10-22T12:07:16-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T12:07:18-04:00",
+      "product_id": 8159695568984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP4_324ffb7e-76c2-427c-b694-be149bdb48c8.jpg?v=1729613238",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP13_LondonFog.jpg?v=1729089649",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

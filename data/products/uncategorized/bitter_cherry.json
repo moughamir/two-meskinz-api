@@ -1,0 +1,119 @@
+{
+  "id": 7669894742125,
+  "title": "Bitter Cherry",
+  "handle": "bitter-cherry",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">This sophisticated blend of juicy <strong>black cherry</strong>, <strong>sandalwood</strong>, and warm <strong>vanilla</strong> creates a tart and creamy scent with a bold, refined edge.</p>",
+  "published_at": "2025-07-09T08:53:13-06:00",
+  "created_at": "2025-06-16T14:44:57-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Apotheke",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Apotheke",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42599311343725,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BCVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7669894742125,
+      "created_at": "2025-06-16T14:44:58-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34535135969389,
+      "created_at": "2025-06-16T14:50:59-06:00",
+      "position": 1,
+      "updated_at": "2025-06-16T14:51:01-06:00",
+      "product_id": 7669894742125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-BitterCherry-Prod1-0525.jpg?v=1750107061",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34535135936621,
+      "created_at": "2025-06-16T14:50:59-06:00",
+      "position": 2,
+      "updated_at": "2025-06-16T14:51:05-06:00",
+      "product_id": 7669894742125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-Cherries-Resized-0525.jpg?v=1750107065",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34535136034925,
+      "created_at": "2025-06-16T14:50:59-06:00",
+      "position": 3,
+      "updated_at": "2025-06-16T14:51:05-06:00",
+      "product_id": 7669894742125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BitterCherry-Apotheke-Prod3-0625.jpg?v=1750107065",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34535136133229,
+      "created_at": "2025-06-16T14:50:59-06:00",
+      "position": 4,
+      "updated_at": "2025-06-16T14:51:05-06:00",
+      "product_id": 7669894742125,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-BitterCherry-Prod4-0525.jpg?v=1750107065",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-BitterCherry-Prod1-0525.jpg?v=1750107061",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Apotheke",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

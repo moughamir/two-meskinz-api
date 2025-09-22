@@ -1,0 +1,67 @@
+{
+  "id": 7785338273959,
+  "title": "Brand: Dawn Professional / Part #: PGC07308",
+  "handle": "er4510939",
+  "body_html": "<br><strong>Item #: </strong>94529658<br><strong>Brand: </strong>Dawn Professional<br><strong>Model #: </strong>PGC07308<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Cleaners &amp; Detergents</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Spray Bottle</td>\n</tr>\n<tr>\n<td><strong>Container Size (fl. oz.)</strong></td>\n<td>32.00</td>\n</tr>\n<tr>\n<td><strong>Container Size (Gal.)</strong></td>\n<td>0.25</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Degreaser</td>\n</tr>\n<tr>\n<td><strong>Composition</strong></td>\n<td>Solvent Based</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:58:57-06:00",
+  "created_at": "2023-12-28T17:58:57-06:00",
+  "updated_at": "2025-09-22T10:55:42-05:00",
+  "vendor": "Dawn Professional",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Cleaners; Detergents & Odor Control"
+  ],
+  "variants": [
+    {
+      "id": 43703642456231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94529658",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "104.71",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785338273959,
+      "created_at": "2023-12-28T17:58:57-06:00",
+      "updated_at": "2025-09-22T10:55:42-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236732719271,
+      "created_at": "2025-02-03T17:52:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:11-06:00",
+      "product_id": 7785338273959,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9452965-21.jpg?v=1738626731",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 104.71,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9452965-21.jpg?v=1738626731",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Dawn Professional",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

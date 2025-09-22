@@ -1,0 +1,118 @@
+{
+  "id": 8444693413976,
+  "title": "Seashell Red Checks iPhone Air Case",
+  "handle": "seashell-red-checks-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—this case is a wild ride for your eyes! <em data-start=\"99\" data-end=\"111\">Red Checks</em> puts a twist on classic harlequin patterns, with bold waves and a dizzying design that feels straight out of a carnival funhouse. It’s bold, retro, and totally unforgettable!<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:56:33-04:00",
+  "created_at": "2025-08-08T11:51:07-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Red Checks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184260644952,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:RED-CHECKS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444693413976,
+      "created_at": "2025-09-03T18:52:54-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184260677720,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:RED-CHECKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444693413976,
+      "created_at": "2025-09-03T18:52:54-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567274917976,
+      "created_at": "2025-08-08T11:51:07-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:09-04:00",
+      "product_id": 8444693413976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP17AIR_Seashell.jpg?v=1754668269",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683717386328,
+      "created_at": "2025-03-13T10:44:08-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:44:10-04:00",
+      "product_id": 8444693413976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP1_09a3c431-67dc-477d-a9b9-b1ed32bb49be.jpg?v=1741877050",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34683717419096,
+      "created_at": "2025-03-13T10:44:08-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:44:10-04:00",
+      "product_id": 8444693413976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP2_751af598-5cd6-4599-9cb0-e315915adf85.jpg?v=1741877050",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP17AIR_Seashell.jpg?v=1754668269",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

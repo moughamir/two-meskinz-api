@@ -1,0 +1,119 @@
+{
+  "id": 8216565907544,
+  "title": "Seashell Love Pack Google Pixel 8 Pro Case",
+  "handle": "seashell-love-pack-eco-friendly-google-pixel-8-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:22:28-05:00",
+  "created_at": "2024-12-16T10:52:28-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469058642008,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14999-PX8P-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216565907544,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130693292120,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:30-05:00",
+      "product_id": 8216565907544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX8P_Seashell.jpg?v=1734364350",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215378616408,
+      "created_at": "2025-01-03T12:23:52-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:23:54-05:00",
+      "product_id": 8216565907544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_6a55745f-92ba-4ce8-a085-43c0a7394fc2.jpg?v=1735925034",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215378550872,
+      "created_at": "2025-01-03T12:23:52-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:23:53-05:00",
+      "product_id": 8216565907544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_408cb4f6-6587-4539-9f93-14e69cad697a.jpg?v=1735925033",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215378583640,
+      "created_at": "2025-01-03T12:23:52-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:23:54-05:00",
+      "product_id": 8216565907544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_40bfe49c-8a7a-4bad-8a22-b9ecd745f0b1.jpg?v=1735925034",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215378518104,
+      "created_at": "2025-01-03T12:23:52-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:23:53-05:00",
+      "product_id": 8216565907544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_8adad7e5-55c4-4597-b0e7-ce4738e448c6.jpg?v=1735925033",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX8P_Seashell.jpg?v=1734364350",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

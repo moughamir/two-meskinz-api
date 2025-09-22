@@ -1,0 +1,68 @@
+{
+  "id": 5246538940583,
+  "title": "Plastic Shim Stock; Type: Shim Stock Sheet; Thickness (Decimal Inch): 0.025 in; Width (Inch): 10; Length (Inch): 20.00; Color: White; Thickness Tolerance: +/- 5%; Minimum Temperature: -10¬∞F",
+  "handle": "83204941",
+  "body_html": "<br><strong>Item #: </strong>48696223<br><strong>Brand: </strong>Precision Brand<br><strong>Model #: </strong>44265<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Shim Stock Sheet</td>\n</tr>\n<tr> <td> <strong>Thickness (Decimal Inch)</strong>\n</td>\n<td>0.025 in</td>\n</tr>\n<tr> <td> <strong>Width (Inch)</strong>\n</td>\n<td>10</td>\n</tr>\n<tr> <td> <strong>Length (Inch)</strong>\n</td>\n<td>20.00</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>White</td>\n</tr>\n<tr> <td> <strong>Thickness Tolerance</strong>\n</td>\n<td>+/- 5%</td>\n</tr>\n<tr> <td> <strong>Minimum Temperature</strong>\n</td>\n<td>-10¬∞F</td>\n</tr>\n<tr> <td> <strong>Maximum Temperature</strong>\n</td>\n<td>155¬∞F</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>LP-535</td>\n</tr>\n<tr> <td> <strong>Number Of Pieces</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Number of Pieces</strong>\n</td>\n<td>1.000</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31231400</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T12:30:19-06:00",
+  "created_at": "2020-05-27T07:08:54-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Precision Brand",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Coated & Non-Woven Abrasives",
+    "Shim Stock"
+  ],
+  "variants": [
+    {
+      "id": 34479127363751,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48696223",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.90",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5246538940583,
+      "created_at": "2020-05-27T07:08:54-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38246610403495,
+      "created_at": "2025-02-03T23:46:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:46:39-06:00",
+      "product_id": 5246538940583,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4875253-21_41b92dfa-c2c7-418c-9b43-6433181f4d16.jpg?v=1738647999",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.9,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4875253-21_41b92dfa-c2c7-418c-9b43-6433181f4d16.jpg?v=1738647999",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Precision Brand",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

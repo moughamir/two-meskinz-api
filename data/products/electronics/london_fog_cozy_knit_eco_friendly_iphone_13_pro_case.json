@@ -1,0 +1,77 @@
+{
+  "id": 7571854917720,
+  "title": "London Fog Cozy Knit iPhone 13 Pro Case",
+  "handle": "london-fog-cozy-knit-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><span>Wrap your device in the warmth of the Cozy Knit Phone Case, a celebration of homely crafts and earthy tones. Inspired by a crafter's basket, the case features illustrated skeins of wool, knitting needles, and adorable yarn bunnies, inviting a sense of comfort and craft to your daily routine. <meta charset=\"utf-8\">🧶📱🌿</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!<br><br></p>",
+  "published_at": "2024-03-05T09:08:22-05:00",
+  "created_at": "2024-03-01T10:29:31-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Knitting",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Cozy Knit",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41089896710232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16760-IP13P-LFOG-AOD:COZY-KNIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7571854917720,
+      "created_at": "2024-03-01T10:29:32-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32249177636952,
+      "created_at": "2024-03-01T10:29:31-05:00",
+      "position": 1,
+      "updated_at": "2024-03-01T10:29:31-05:00",
+      "product_id": 7571854917720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COZY-KNIT_IP13P_LondonFog.jpg?v=1709306971",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COZY-KNIT_IP13P_LondonFog.jpg?v=1709306971",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785843753127,
+  "title": "Brand: Lakeland Industries / Part #: C31424-52",
+  "handle": "cw8037795",
+  "body_html": "<br><strong>Item #: </strong>77650711<br><strong>Brand: </strong>Lakeland Industries<br><strong>Model #: </strong>C31424-52<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/Logos/LAKELA-91.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">77650711</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>C31424-52</p></td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">Country of Origin<span class=\"block text-xs text-monochromes-GradientGrey mt-2 text-width\">Country of Origin is subject to change</span>\n</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">Mexico</td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-29T04:23:02-06:00",
+  "created_at": "2023-12-29T04:23:02-06:00",
+  "updated_at": "2025-09-22T10:47:48-05:00",
+  "vendor": "Lakeland Industries",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705631015079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "77650711",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "70.43",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785843753127,
+      "created_at": "2023-12-29T04:23:02-06:00",
+      "updated_at": "2025-09-22T10:47:48-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237409509543,
+      "created_at": "2025-02-03T18:15:02-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:15:04-06:00",
+      "product_id": 7785843753127,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_9d8d63c9-e9bb-4df2-867e-7d7401e9e0d9.png?v=1738628104",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 70.43,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_9d8d63c9-e9bb-4df2-867e-7d7401e9e0d9.png?v=1738628104",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lakeland Industries",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

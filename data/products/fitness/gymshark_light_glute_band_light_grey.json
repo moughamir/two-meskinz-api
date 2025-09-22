@@ -1,0 +1,108 @@
+{
+  "id": 6535210107082,
+  "title": "Gymshark Light Glute Band - Light Grey",
+  "handle": "gymshark-light-glute-band-light-grey",
+  "body_html": "<p><strong>LIGHT WORK</strong></p>\n<p><br data-mce-fragment=\"1\">The Light Glute Band offers a low resistance without all the equipment, making it easy to take your leg training with you anywhere. Alternatively, up the ante by adding it into your next weight session.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Low resistance<br data-mce-fragment=\"1\">- Premium fabric band<br data-mce-fragment=\"1\">- Durable, lightweight build<br data-mce-fragment=\"1\">- Silicone taping for non-slip hold<br data-mce-fragment=\"1\">- Raised rubber tab logo<br data-mce-fragment=\"1\">- Carry bag included<br data-mce-fragment=\"1\">- 63% Polyester 37% Elastodiene<br data-mce-fragment=\"1\">- Length: 38cm. Width: 7.5cm.<br data-mce-fragment=\"1\">- 15-25lbs(7-12kg)<br data-mce-fragment=\"1\">- SKU: I1A4M-GBCM<meta charset=\"utf-8\"></p>",
+  "published_at": "2023-05-01T15:16:24-07:00",
+  "created_at": "2021-08-24T10:08:07-07:00",
+  "updated_at": "2025-09-22T08:46:23-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "25/01/24",
+    "25th-jan-24",
+    "26/08/21",
+    "Accessories",
+    "all-products",
+    "AW21",
+    "bfcm24",
+    "category:Equipment",
+    "division:Accessories",
+    "equipment",
+    "filter-colour: Grey",
+    "nosizeguide",
+    "range:Conditioning Goods",
+    "seamtype:Accessories",
+    "segmentation:Conditioning",
+    "subcategory:Resistance",
+    "tier:3",
+    "uk-active",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39245970211018,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A4M-GBCM-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6535210107082,
+      "created_at": "2021-08-24T10:08:08-07:00",
+      "updated_at": "2025-09-22T08:46:23-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28984463261898,
+      "created_at": "2024-08-01T02:38:04-07:00",
+      "position": 1,
+      "updated_at": "2024-08-01T02:38:06-07:00",
+      "product_id": 6535210107082,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LightGluteBandLightGrey_I1A4M-GBCM119.jpg?v=1722505086",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28984463098058,
+      "created_at": "2024-08-01T02:38:04-07:00",
+      "position": 2,
+      "updated_at": "2024-08-01T02:38:05-07:00",
+      "product_id": 6535210107082,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LightGluteBandLightGreyI1A4M-GBCM125_2618ba4b-98dd-4727-ac33-a1ff921a157f.jpg?v=1722505085",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28984463196362,
+      "created_at": "2024-08-01T02:38:04-07:00",
+      "position": 3,
+      "updated_at": "2024-08-01T02:38:06-07:00",
+      "product_id": 6535210107082,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LightGluteBandLightGreyI1A4M-GBCM120_03c45fdb-684b-4f3a-af9c-a20eaa44172a.jpg?v=1722505086",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/LightGluteBandLightGrey_I1A4M-GBCM119.jpg?v=1722505086",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

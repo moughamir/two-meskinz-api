@@ -1,0 +1,129 @@
+{
+  "id": 7843529424943,
+  "title": "Stranger Things Dustin's Thinking Cap Trucker Hat",
+  "handle": "stranger-things-dustin-s-thinking-cap-trucker-hat",
+  "body_html": "<p>Channel your inner genius with Dustin's Thinking Cap Trucker Hat from <em>Stranger Things</em>! This stylish hat features a fun design, as seen on Dustin, perfect for adding a touch of nostalgia to your cosplay. Whether you're strategizing against Demogorgons or simply hanging out with friends, this hat will have you looking sharp while embracing the spirit of Hawkins!</p><ul>\n<li>100% polyester front</li>\n<li>100% polyester mesh back</li>\n<li>Structured, 5-panel cap, high-profile</li>\n<li>Adjustable plastic snap</li>\n<li>One size fits most</li>\n</ul>",
+  "published_at": "2024-10-02T14:29:48-04:00",
+  "created_at": "2024-10-01T08:42:01-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "80057281",
+    "Accessories",
+    "As Seen On",
+    "COS-23-0924",
+    "Cosplay",
+    "costumes",
+    "Dustin",
+    "featured",
+    "Gifting",
+    "Halloween",
+    "halloween costumes",
+    "Hat",
+    "Hats",
+    "Otto Cap 39-165",
+    "Promo Eligible Collection",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Type: Costumes",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43276981862447,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101805-0007-ST-THNK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "26.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7843529424943,
+      "created_at": "2024-10-01T08:42:02-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34744822857775,
+      "created_at": "2024-10-01T08:42:01-04:00",
+      "position": 1,
+      "updated_at": "2024-10-01T08:42:01-04:00",
+      "product_id": 7843529424943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_FT_MF.png?v=1727786521",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34744822890543,
+      "created_at": "2024-10-01T08:42:01-04:00",
+      "position": 2,
+      "updated_at": "2024-10-01T08:42:01-04:00",
+      "product_id": 7843529424943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_BK_MF.png?v=1727786521",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34744822923311,
+      "created_at": "2024-10-01T08:42:01-04:00",
+      "position": 3,
+      "updated_at": "2024-10-01T08:42:01-04:00",
+      "product_id": 7843529424943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_LIFE1.png?v=1727786521",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34744822988847,
+      "created_at": "2024-10-01T08:42:01-04:00",
+      "position": 4,
+      "updated_at": "2024-10-01T08:42:01-04:00",
+      "product_id": 7843529424943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_LIFE3.png?v=1727786521",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34744822956079,
+      "created_at": "2024-10-01T08:42:01-04:00",
+      "position": 5,
+      "updated_at": "2024-10-01T08:42:01-04:00",
+      "product_id": 7843529424943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_LIFE2.png?v=1727786521",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 26.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-THNK_100653_FT_MF.png?v=1727786521",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786147971239,
+  "title": "Brand: Zurn / Part #: P6000-3-A-CP",
+  "handle": "eh584818300",
+  "body_html": "<br><strong>Item #: </strong>04412631<br><strong>Brand: </strong>Zurn<br><strong>Model #: </strong>P6000-3-A-CP<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Commercial Repair Kit</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>AquaSense? Flush Valves</td>\n</tr>\n<tr>\n<td><strong>For Manufacturer's Number</strong></td>\n<td>Z6000AV-WS1;Z6000AV-HET;Z6000PL-WS1;Z6000PL-HET;Z6000-WS1-YB-YC;Z6000-HET-YB-YC</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>1 ?? X 24? Vacuum Breaker/Backflow Preventer With Flush Tube In Polished Chrome Finish</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:36:16-06:00",
+  "created_at": "2023-12-29T11:36:16-06:00",
+  "updated_at": "2025-09-22T10:47:18-05:00",
+  "vendor": "Zurn",
+  "product_type": "Plumbing; Pumps & Filtration",
+  "tags": [
+    "Faucets; Sinks & Bathrooms"
+  ],
+  "variants": [
+    {
+      "id": 43707076542631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04412631",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.98",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786147971239,
+      "created_at": "2023-12-29T11:36:16-06:00",
+      "updated_at": "2025-09-22T10:47:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237930127527,
+      "created_at": "2025-02-03T18:29:52-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:29:54-06:00",
+      "product_id": 7786147971239,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0441263-21.jpg?v=1738628994",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0441263-21.jpg?v=1738628994",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Zurn",
+  "category": "Plumbing; Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

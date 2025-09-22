@@ -1,0 +1,70 @@
+{
+  "id": 5299160350887,
+  "title": "Braided Twine: Nylon, Natural Color",
+  "handle": "97817100",
+  "body_html": "<br><strong>Item #: </strong>67670000<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>51599<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Twine Type</strong>\n</td>\n<td>Braided Twine</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Nylon</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Natural</td>\n</tr>\n<tr> <td> <strong>Breaking Strength (Lb.)</strong>\n</td>\n<td>155</td>\n</tr>\n<tr> <td> <strong>Length Ft.</strong>\n</td>\n<td>1000.00</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4020</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31151507</td>\n</tr>\n<tr> <td> <strong>Twine Type</strong>\n</td>\n<td>Braided Twine</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Nylon</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Natural</td>\n</tr>\n<tr> <td> <strong>Breaking Strength (Lb.)</strong>\n</td>\n<td>155</td>\n</tr>\n<tr> <td> <strong>Length Ft.</strong>\n</td>\n<td>1000.00</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4020</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31151507</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>67670000</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>51599</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>Mexico</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T14:18:19-06:00",
+  "created_at": "2020-06-08T06:31:16-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Chain",
+    "Power Fastening Tools",
+    "Rope",
+    "Wire Rope & Hardware"
+  ],
+  "variants": [
+    {
+      "id": 34625390608551,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67670000",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.20",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5299160350887,
+      "created_at": "2020-06-08T06:31:16-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38248911765671,
+      "created_at": "2025-02-04T01:07:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T01:07:18-06:00",
+      "product_id": 5299160350887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6767000-24.jpg?v=1738652838",
+      "width": 600,
+      "height": 297
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.2,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6767000-24.jpg?v=1738652838",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

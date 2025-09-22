@@ -1,0 +1,132 @@
+{
+  "id": 6804987936970,
+  "title": "Gymshark Sharkhead Gymsack - Coastal Blue",
+  "handle": "gymshark-sharkhead-gymsack-costal-blue-aw22",
+  "body_html": "<p><strong>PACK IT UP, PACK IT IN</strong></p>\n<p><br data-mce-fragment=\"1\">This bag means business. Take functionality even further with this premium quality drawstring bag, perfect for storing your essentials and matching your look wherever you go.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Classic drawstring design<br data-mce-fragment=\"1\">- Premium thick fabric and cords<br data-mce-fragment=\"1\">- Printed logo<br data-mce-fragment=\"1\">- Not machine washable, wipe clean only<br data-mce-fragment=\"1\">- 100% Polyester<br data-mce-fragment=\"1\">- SKU: I2A1I-UBPP</p>",
+  "published_at": "2023-05-01T15:10:28-07:00",
+  "created_at": "2022-08-31T09:02:33-07:00",
+  "updated_at": "2025-09-22T08:46:26-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "20EXTRA",
+    "4-20-23-sale",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "backpacks",
+    "Bags",
+    "bf-23",
+    "bfcm24",
+    "category:Bag",
+    "conditioning",
+    "conditioning-essentials",
+    "filter-colour: Blue",
+    "member-exclusive-just-in-case",
+    "member-sale-republish",
+    "no-returns:2023-11-16T00:01:00_2023-12-01T12:00",
+    "no-returns:2024-06-27T08:00:00_2024-07-08T08:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Sharkhead",
+    "small-bags",
+    "spanish-dg-ss24-rebuy",
+    "spanish-done",
+    "ss-20",
+    "ss-2023",
+    "subcategory:Drawstring",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787183014090,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1I-UBPP-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804987936970,
+      "created_at": "2022-08-31T09:02:33-07:00",
+      "updated_at": "2025-09-22T08:46:26-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973793738954,
+      "created_at": "2022-11-07T09:16:40-08:00",
+      "position": 1,
+      "updated_at": "2022-11-07T09:16:41-08:00",
+      "product_id": 6804987936970,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadGymsackCoastalBlueI2A1I-UBPP.218.jpg?v=1667841401",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973793968330,
+      "created_at": "2022-11-07T09:16:40-08:00",
+      "position": 2,
+      "updated_at": "2022-11-07T09:16:42-08:00",
+      "product_id": 6804987936970,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadGymsackCoastalBlueI2A1I-UBPP.1368.140_4fd9a695-6e01-435e-9d62-541f78da679e.jpg?v=1667841402",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973794623690,
+      "created_at": "2022-11-07T09:16:40-08:00",
+      "position": 3,
+      "updated_at": "2022-11-07T09:16:42-08:00",
+      "product_id": 6804987936970,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadGymsackCoastalBlueI2A1I-UBPP.219_ad5ba032-147d-45af-8a15-9245efdf200c.jpg?v=1667841402",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973794132170,
+      "created_at": "2022-11-07T09:16:40-08:00",
+      "position": 4,
+      "updated_at": "2022-11-07T09:16:42-08:00",
+      "product_id": 6804987936970,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadGymsackCoastalBlueCoastalBlueI2A1I-UBPP-2097.333.jpg?v=1667841402",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadGymsackCoastalBlueI2A1I-UBPP.218.jpg?v=1667841401",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

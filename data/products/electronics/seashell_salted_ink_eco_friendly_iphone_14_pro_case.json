@@ -1,0 +1,109 @@
+{
+  "id": 8359100514392,
+  "title": "Seashell Salted Ink iPhone 14 Pro Case",
+  "handle": "seashell-salted-ink-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet the Salted Ink Phone Case—a sun-soaked sketchbook of coastal daydreams. With hand-drawn doodles of floppy hats, beach cocktails, palm trees, and seashells in a breezy nautical blue, this case is basically a postcard from paradise. It's laid-back, beachy, and ready to tag along on every salty adventure. 🏖️🌊🍸</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:48:07-04:00",
+  "created_at": "2025-04-28T09:44:56-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Salted Ink",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846506811480,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:SALTED-INK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359100514392,
+      "created_at": "2025-04-28T09:44:56-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914312061016,
+      "created_at": "2025-04-28T09:44:56-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:58-04:00",
+      "product_id": 8359100514392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SALTED-INK_IP14P_Seashell.jpg?v=1745847898",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010584084568,
+      "created_at": "2025-05-13T07:14:05-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T07:14:10-04:00",
+      "product_id": 8359100514392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_SaltedInk_PDP_02_df58ed99-9ba2-4023-b2ba-69db7729ca0b.jpg?v=1747134850",
+      "width": 1121,
+      "height": 1121
+    },
+    {
+      "id": 35010584051800,
+      "created_at": "2025-05-13T07:14:05-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T07:14:10-04:00",
+      "product_id": 8359100514392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_SaltedInk_PDP_01_35a7ee29-05ef-48b3-a17a-da5aa754d8a9.jpg?v=1747134850",
+      "width": 1117,
+      "height": 1117
+    },
+    {
+      "id": 35010584117336,
+      "created_at": "2025-05-13T07:14:05-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T07:14:10-04:00",
+      "product_id": 8359100514392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_SaltedInk_PDP_03_b65c71b7-1414-480e-9c0f-fa27ea728d18.jpg?v=1747134850",
+      "width": 1152,
+      "height": 1152
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SALTED-INK_IP14P_Seashell.jpg?v=1745847898",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

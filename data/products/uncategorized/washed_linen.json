@@ -1,0 +1,116 @@
+{
+  "id": 7051713347693,
+  "title": "Washed Linen",
+  "handle": "washed-linen",
+  "body_html": "<p>An intriguing blend of <strong>grapefruit</strong>, <strong>white pepper</strong>, and <strong>lavender</strong> create a scent reminiscent of freshly laundered linens.</p>",
+  "published_at": "2023-08-14T19:52:23-06:00",
+  "created_at": "2023-08-09T16:20:37-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Thymes",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Thymes",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_washedlinen"
+  ],
+  "variants": [
+    {
+      "id": 40702266638445,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WSLH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051713347693,
+      "created_at": "2023-08-09T16:20:37-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31117950976109,
+      "created_at": "2024-01-30T12:41:18-07:00",
+      "position": 1,
+      "updated_at": "2024-01-30T12:41:37-07:00",
+      "product_id": 7051713347693,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-WashedLinen-Vertical-Resized.jpg?v=1706643697",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31117950943341,
+      "created_at": "2024-01-30T12:41:18-07:00",
+      "position": 2,
+      "updated_at": "2024-01-30T12:41:37-07:00",
+      "product_id": 7051713347693,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linen-resized_6ed9504d-f8cf-4ef6-9415-5c1b7880e2b2.jpg?v=1706643697",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 31117950812269,
+      "created_at": "2024-01-30T12:41:18-07:00",
+      "position": 3,
+      "updated_at": "2024-01-30T12:41:37-07:00",
+      "product_id": 7051713347693,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Washed-Linen-Device-V4.jpg?v=1706643697",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31117951008877,
+      "created_at": "2024-01-30T12:41:18-07:00",
+      "position": 4,
+      "updated_at": "2024-01-30T12:41:37-07:00",
+      "product_id": 7051713347693,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-WashedLinen-Overhead-Shadow-Resized.jpg?v=1706643697",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-WashedLinen-Vertical-Resized.jpg?v=1706643697",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Thymes",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

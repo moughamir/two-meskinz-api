@@ -1,0 +1,67 @@
+{
+  "id": 7785492873383,
+  "title": "Brand: Flextur / Part #: 78908750",
+  "handle": "ft8539130",
+  "body_html": "<br><strong>Item #: </strong>03856135<br><strong>Brand: </strong>Flextur<br><strong>Model #: </strong>78908750<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Weld Table Tool Holder</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(1) Steel Welding Table Tool Holder</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>6-3/4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:07:36-06:00",
+  "created_at": "2023-12-28T22:07:36-06:00",
+  "updated_at": "2025-09-22T10:48:29-05:00",
+  "vendor": "Flextur",
+  "product_type": "Welding & Soldering",
+  "tags": [
+    "Welders & Welding Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43704086069415,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "03856135",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.09",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785492873383,
+      "created_at": "2023-12-28T22:07:36-06:00",
+      "updated_at": "2025-09-22T10:48:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237007904935,
+      "created_at": "2025-02-03T18:01:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:01:02-06:00",
+      "product_id": 7785492873383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0385613-21.jpg?v=1738627262",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 90.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0385613-21.jpg?v=1738627262",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Flextur",
+  "category": "Welding & Soldering",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

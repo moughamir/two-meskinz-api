@@ -1,0 +1,108 @@
+{
+  "id": 7555251667032,
+  "title": "Seashell Merry Medley Samsung Galaxy S23 Case",
+  "handle": "seashell-merry-medley-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:04:11-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277303896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251667032,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963959896,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251667032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S23_Seashell.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241115791448,
+      "created_at": "2024-02-28T17:23:28-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:23:32-05:00",
+      "product_id": 7555251667032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_f20872aa-b571-47e2-afb1-4473c840854e.jpg?v=1709159012",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241115824216,
+      "created_at": "2024-02-28T17:23:28-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:23:32-05:00",
+      "product_id": 7555251667032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_a75a2d90-7437-4a6a-bd15-4890b180e79e.jpg?v=1709159012",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241115758680,
+      "created_at": "2024-02-28T17:23:28-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:23:30-05:00",
+      "product_id": 7555251667032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_269e781f-de8e-4d85-b705-44ddad391e6c.jpg?v=1709159010",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S23_Seashell.jpg?v=1707245497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

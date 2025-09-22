@@ -1,0 +1,119 @@
+{
+  "id": 8453540184152,
+  "title": "Seashell Strawboories Google Pixel 8 Pro Case",
+  "handle": "seashell-strawboories-eco-friendly-google-pixel-8-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Berry cute, berry creepy 🍓👻—the Strawboories Phone Case is serving up fruit with a frightful twist! These strawberries aren’t just sweet; they’re spooked, with little ghostly faces that make your phone look hauntingly adorable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-04T09:02:46-04:00",
+  "created_at": "2025-08-21T13:49:38-04:00",
+  "updated_at": "2025-09-22T15:13:07-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Strawboories",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43146600382552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14999-PX8P-SEASHELL-AOD:STRAWBOORIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8453540184152,
+      "created_at": "2025-08-21T13:49:38-04:00",
+      "updated_at": "2025-09-22T15:13:07-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638756180056,
+      "created_at": "2025-08-21T13:49:38-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T14:15:31-04:00",
+      "product_id": 8453540184152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_PX8P_Seashell.jpg?v=1755800131",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736240357464,
+      "created_at": "2025-09-03T10:38:31-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:38:31-04:00",
+      "product_id": 8453540184152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70bae47684d0823f356b9e55c918731a_e1183736-2ebe-4523-8430-130a89d37d9b.jpg?v=1756910311",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736240554072,
+      "created_at": "2025-09-03T10:38:33-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:38:33-04:00",
+      "product_id": 8453540184152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d5187f2a3596b91601ec83ed7502ac4_1f2570e8-56ae-4e42-9395-16c882bd86e5.jpg?v=1756910313",
+      "width": 2048,
+      "height": 2039
+    },
+    {
+      "id": 35736240717912,
+      "created_at": "2025-09-03T10:38:34-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:38:34-04:00",
+      "product_id": 8453540184152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/771a45ddc4671ca5861316cd18f45778_f6e20f25-d274-4b75-8cbc-eddd7f292b34.jpg?v=1756910314",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736241307736,
+      "created_at": "2025-09-03T10:38:36-04:00",
+      "position": 5,
+      "updated_at": "2025-09-03T10:38:36-04:00",
+      "product_id": 8453540184152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/952a4fe7db645654d39f94f4aa82ec86_7cbafe34-6a2b-4283-b164-1a719b068684.jpg?v=1756910316",
+      "width": 3373,
+      "height": 3373
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_PX8P_Seashell.jpg?v=1755800131",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

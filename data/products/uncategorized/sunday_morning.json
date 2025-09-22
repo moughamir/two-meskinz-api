@@ -1,0 +1,119 @@
+{
+  "id": 7051712397421,
+  "title": "Sunday Morning",
+  "handle": "sunday-morning",
+  "body_html": "<p>Top notes of <strong>pear</strong> and <strong>bergamot</strong> float above a heart of <strong>jasmine</strong> and <strong>gardenia</strong> with a heady base of <strong>amber woods.</strong></p>",
+  "published_at": "2023-08-14T19:52:07-06:00",
+  "created_at": "2023-08-09T16:20:28-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Brooklyn Candle Studio",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Brooklyn Candle Studio",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_sundaymorning"
+  ],
+  "variants": [
+    {
+      "id": 40702265753709,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LMSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712397421,
+      "created_at": "2023-08-09T16:20:29-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525482303597,
+      "created_at": "2023-09-28T17:28:48-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T17:29:07-06:00",
+      "product_id": 7051712397421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-SundayMorning-Vertical-Resized.jpg?v=1695943747",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525482074221,
+      "created_at": "2023-09-28T17:28:34-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T17:29:07-06:00",
+      "product_id": 7051712397421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pearresized-3_4aafc163-a9bf-41f3-ac0b-e8bb76b3d1f0.jpg?v=1695943747",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525482041453,
+      "created_at": "2023-09-28T17:28:34-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T17:29:07-06:00",
+      "product_id": 7051712397421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Brooklyn-Candle-Studio-Sunday-Morning-Device-V4_001d6abf-c19c-42aa-860c-887fdae492fb.jpg?v=1695943747",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525482336365,
+      "created_at": "2023-09-28T17:28:47-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T17:29:06-06:00",
+      "product_id": 7051712397421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-SundayMorning-OverheadShadow-Resized.jpg?v=1695943746",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-SundayMorning-Vertical-Resized.jpg?v=1695943747",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brooklyn Candle Studio",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

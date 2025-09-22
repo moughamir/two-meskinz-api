@@ -1,0 +1,69 @@
+{
+  "id": 5327995601063,
+  "title": "Brand: Made in USA / Part #: SP-WASH-12",
+  "handle": "sg2500640",
+  "body_html": "<br><strong>Item #: </strong>07187826<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>SP-WASH-12<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Washer Type</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Nylon</td>\n</tr>\n<tr>\n<td><strong>Screw Size</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Inside Diameter (Decimal Inch)</strong></td>\n<td>0.2620</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0310</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Inch</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T09:22:57-06:00",
+  "created_at": "2020-06-13T21:34:55-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Fasteners",
+  "tags": [
+    "Personal Protective Equipment",
+    "Solid",
+    "Washers & Shims"
+  ],
+  "variants": [
+    {
+      "id": 34710754361511,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "07187826",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1.13",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5327995601063,
+      "created_at": "2020-06-13T21:34:55-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240488128679,
+      "created_at": "2025-02-03T20:24:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:24:45-06:00",
+      "product_id": 5327995601063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_66ab8f47-8740-495a-b134-052a945601ea.png?v=1738635885",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_66ab8f47-8740-495a-b134-052a945601ea.png?v=1738635885",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

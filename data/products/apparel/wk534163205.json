@@ -1,0 +1,67 @@
+{
+  "id": 7785382183079,
+  "title": "Brand: Widia / Part #: 2071294",
+  "handle": "wk534163205",
+  "body_html": "<br><strong>Item #: </strong>99728487<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2071294<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Type</strong>\n</td>\n<td>External</td>\n</tr>\n<tr>\n<td><strong>Hand of Holder</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Compatible Insert Size Code</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (mm)</strong></td>\n<td>16.00</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>AL</td>\n</tr>\n<tr>\n<td><strong>Insert Compatibility</strong></td>\n<td>LT16EL</td>\n</tr>\n<tr>\n<td><strong>Coolant Entry Style Code</strong></td>\n<td>0-Without Coolant</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Shank Height (mm)</strong></td>\n<td>16.00</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>75.000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>100.0000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>LT</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Cutting Tool Application</strong></td>\n<td>Threading</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>4.76</td>\n</tr>\n<tr>\n<td><strong>Adjustable Overhang</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Back of Bar to Cutting Edge (mm)</strong></td>\n<td>16.00</td>\n</tr>\n<tr>\n<td><strong>Center to Cutting Edge (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (Inch)</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (mm)</strong></td>\n<td>9.53</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Super-alloys &amp; Titanium; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; S; K; M; N</td>\n</tr>\n<tr>\n<td><strong>Toolholder Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>AL163L</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>LT</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:33:11-06:00",
+  "created_at": "2023-12-28T19:33:11-06:00",
+  "updated_at": "2025-09-22T10:55:27-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Threading"
+  ],
+  "variants": [
+    {
+      "id": 43703711465639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99728487",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "99.16",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785382183079,
+      "created_at": "2023-12-28T19:33:11-06:00",
+      "updated_at": "2025-09-22T10:55:27-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236829941927,
+      "created_at": "2025-02-03T17:55:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:55:22-06:00",
+      "product_id": 7785382183079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9972851-21_4b97c40d-6465-45ba-bc2e-b60586d273cc.jpg?v=1738626922",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 99.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9972851-21_4b97c40d-6465-45ba-bc2e-b60586d273cc.jpg?v=1738626922",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

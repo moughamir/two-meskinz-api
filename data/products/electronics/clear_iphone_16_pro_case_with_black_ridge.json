@@ -1,0 +1,94 @@
+{
+  "id": 8026991624280,
+  "title": "Clear iPhone 16 Pro Case with Black Ridge",
+  "handle": "clear-iphone-16-pro-case-with-black-ridge",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span></p>\n<!---->",
+  "published_at": "2025-01-06T11:47:04-05:00",
+  "created_at": "2024-07-08T17:09:49-04:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 42004012204120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28645-IP16P-BLACK-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8026991624280,
+      "created_at": "2024-07-08T17:09:50-04:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33487203663960,
+      "created_at": "2024-08-16T14:41:44-04:00",
+      "position": 1,
+      "updated_at": "2024-08-16T14:41:45-04:00",
+      "product_id": 8026991624280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_BLACK_BACK_bdf26432-5bb2-4b05-9f56-ce4080fec647.jpg?v=1723833705",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487203729496,
+      "created_at": "2024-08-16T14:41:44-04:00",
+      "position": 2,
+      "updated_at": "2024-08-16T14:41:45-04:00",
+      "product_id": 8026991624280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_BLACK_BACK45L.jpg?v=1723833705",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487203762264,
+      "created_at": "2024-08-16T14:41:44-04:00",
+      "position": 3,
+      "updated_at": "2024-08-16T14:41:46-04:00",
+      "product_id": 8026991624280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_BLACK_BACK45R.jpg?v=1723833706",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_BLACK_BACK_bdf26432-5bb2-4b05-9f56-ce4080fec647.jpg?v=1723833705",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

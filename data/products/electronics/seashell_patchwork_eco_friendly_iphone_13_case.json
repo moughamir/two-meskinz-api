@@ -1,0 +1,108 @@
+{
+  "id": 7363432775768,
+  "title": "Seashell Patchwork iPhone 13 Case",
+  "handle": "seashell-patchwork-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Wrap your phone in a kaleidoscope of color with the Pela Patchwork Phone Case! This vibrant accessory features an enchanting array of colorful tiles, arranged in a dynamic, sweeping pattern that brings to mind the spirited designs of a patchwork quilt. Perfect for those who love to add a splash of fun and a pop of color to their everyday essentials, this case not only protects your phone but also turns it into a statement piece. It's an artful celebration of creativity and joy, ensuring your device stands out in the most delightful way. 🌈📱✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-25T08:21:16-04:00",
+  "created_at": "2023-05-24T12:43:06-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Retro Shapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Patchwork",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40232963571800,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:PATCHWORK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363432775768,
+      "created_at": "2023-05-24T12:43:06-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30270394630232,
+      "created_at": "2023-05-24T12:43:06-04:00",
+      "position": 1,
+      "updated_at": "2023-05-24T12:43:06-04:00",
+      "product_id": 7363432775768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP13_Seashell.jpg?v=1684946586",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413045848,
+      "created_at": "2023-05-24T13:09:24-04:00",
+      "position": 2,
+      "updated_at": "2023-05-24T13:09:26-04:00",
+      "product_id": 7363432775768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesignv3_08a52f05-6c7e-4a08-b631-9c18b5d9f6eb.png?v=1684948166",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413013080,
+      "created_at": "2023-05-24T13:09:24-04:00",
+      "position": 3,
+      "updated_at": "2023-05-24T13:09:26-04:00",
+      "product_id": 7363432775768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CASE-25_93f859b5-3ffb-4878-b7c1-6296b4e076c9.jpg?v=1684948166",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270412980312,
+      "created_at": "2023-05-24T13:09:24-04:00",
+      "position": 4,
+      "updated_at": "2023-05-24T13:09:26-04:00",
+      "product_id": 7363432775768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesign_307fc67b-d20d-44ef-8de4-b7f04f7a12e8.png?v=1684948166",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP13_Seashell.jpg?v=1684946586",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

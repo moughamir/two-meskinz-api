@@ -1,0 +1,115 @@
+{
+  "id": 7261393813613,
+  "title": "French Lilac",
+  "handle": "french-lilac",
+  "body_html": "<p>The delicate scent of <strong>French lilac </strong>is wrapped in a pure bouquet of <strong>jasmine</strong> and <strong>hyacinth</strong>, softened by <strong>hawthorn</strong>, <strong>heliotrope</strong>, and lush <strong>greens</strong>.</p>",
+  "published_at": "2024-04-01T09:02:46-06:00",
+  "created_at": "2024-03-28T09:39:19-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:LAFCO",
+    "collection:New Arrivals",
+    "Group_Home",
+    "LLFH",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41210922172525,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LLFH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7261393813613,
+      "created_at": "2024-03-28T09:39:20-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31507450626157,
+      "created_at": "2024-03-28T09:53:28-06:00",
+      "position": 1,
+      "updated_at": "2024-03-28T09:53:34-06:00",
+      "product_id": 7261393813613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoFrenchLilac-Prod1-0324.jpg?v=1711641214",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31507450593389,
+      "created_at": "2024-03-28T09:53:28-06:00",
+      "position": 2,
+      "updated_at": "2024-03-28T09:53:34-06:00",
+      "product_id": 7261393813613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lilac-resized_a54afaeb-2c50-4086-8657-c113d164efb5.jpg?v=1711641214",
+      "width": 2400,
+      "height": 3202
+    },
+    {
+      "id": 31507450658925,
+      "created_at": "2024-03-28T09:53:28-06:00",
+      "position": 3,
+      "updated_at": "2024-03-28T09:53:34-06:00",
+      "product_id": 7261393813613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CopyofFrenchLilac-Lafco-Prod3-0324.png?v=1711641214",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31507450691693,
+      "created_at": "2024-03-28T09:53:28-06:00",
+      "position": 4,
+      "updated_at": "2024-03-28T09:53:34-06:00",
+      "product_id": 7261393813613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoFrenchLilac-Prod4-0324.jpg?v=1711641214",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoFrenchLilac-Prod1-0324.jpg?v=1711641214",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

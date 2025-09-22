@@ -1,0 +1,67 @@
+{
+  "id": 7785400074407,
+  "title": "Brand: Medique / Part #: PS730RF",
+  "handle": "wk534167203",
+  "body_html": "<br><strong>Item #: </strong>96733209<br><strong>Brand: </strong>Medique?<br><strong>Model #: </strong>PS730RF<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Kit Type</strong>\n</td>\n<td>First Aid</td>\n</tr>\n<tr>\n<td><strong>Number of People</strong></td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Box</td>\n</tr>\n<tr>\n<td><strong>Container Material</strong></td>\n<td>Cardboard</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>2 - Triangular Bandage with Pins Non-Sterile; 4 - Combine ABD Pads 5 in x 9 in; 1 - Adhesive Tape 1/2 in x 5 yd; 1 - Gauze Pad 3 in x 3 in Sterile 25ct; 1 - Adhesive Bandage 1 in x 3 in Strip 50/box; 1 - Gauze Roll 4 in x 5 yd; 1 - Splint Multi-Purpose; 1 - First Aid Handbook; 1 - Hand Sanitizer 25/box; 1 - Eye Wash 4oz; 1 - CPR Mask/Breathing Barrier; 1 - Antiseptic Spray 2oz Pump; 2 - Gauze Roll 2 in x 5 yd; 2 - Burn Dressing 4 in x 4 in; 2 - Eye Pads; 1 - Triple Antibiotic Ointment 25/box; 1 - Burn Cream with Lidocaine 25/box; 1 - Rescue Blanket Silver 52 in x 84 in; 2 - Cold Pack Small Boxed; 1 - Tourniquet CAT/Windlass; 4 - Powder Free Vinyl Gloves Disposable Pair/L; 1 - Wire Scissors 4.5 in</td>\n</tr>\n<tr>\n<td><strong>Height (Decimal Inch)</strong></td>\n<td>5.500000</td>\n</tr>\n<tr>\n<td><strong>Height (Inch)</strong></td>\n<td>5-1/2</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>178</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>11.0000</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>11</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>12.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:00:29-06:00",
+  "created_at": "2023-12-28T20:00:29-06:00",
+  "updated_at": "2025-09-22T10:55:24-05:00",
+  "vendor": "Medique",
+  "product_type": "Safety",
+  "tags": [
+    "First Aid; Medical & Hydration"
+  ],
+  "variants": [
+    {
+      "id": 43703763239079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96733209",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "97.49",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785400074407,
+      "created_at": "2023-12-28T20:00:29-06:00",
+      "updated_at": "2025-09-22T10:55:24-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236859728039,
+      "created_at": "2025-02-03T17:56:23-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:56:25-06:00",
+      "product_id": 7785400074407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9673320-24.jpg?v=1738626985",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 97.49,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9673320-24.jpg?v=1738626985",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Medique",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 6572751781976,
+  "title": "London Fog Google Pixel 5 Phone Case",
+  "handle": "london-fog-google-pixel-5-eco-friendly-phone-case",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>\n<p data-mce-fragment=\"1\"> </p>",
+  "published_at": "2023-10-05T10:02:17-04:00",
+  "created_at": "2021-04-01T11:14:56-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 5",
+  "tags": [
+    "Classic",
+    "Clearance",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39331234775128,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14585-PX5-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.00",
+      "grams": 54,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6572751781976,
+      "created_at": "2021-04-01T11:14:56-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28163623518296,
+      "created_at": "2021-05-03T15:27:08-04:00",
+      "position": 1,
+      "updated_at": "2021-05-03T15:27:10-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Pixel5_LONDONFOG_BACK.jpg?v=1620070030",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163623551064,
+      "created_at": "2021-05-03T15:27:08-04:00",
+      "position": 2,
+      "updated_at": "2021-05-03T15:27:10-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Pixel5_LONDONFOG_45L.jpg?v=1620070030",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163623485528,
+      "created_at": "2021-05-03T15:27:08-04:00",
+      "position": 3,
+      "updated_at": "2021-05-03T15:27:09-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Pixel5_LONDONFOG_45R.jpg?v=1620070029",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28346218119256,
+      "created_at": "2021-06-28T15:15:59-04:00",
+      "position": 4,
+      "updated_at": "2021-06-28T15:16:01-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog1_f62de733-faf5-4648-84bb-ff6ae2e16dd8.jpg?v=1624907761",
+      "width": 1108,
+      "height": 1100
+    },
+    {
+      "id": 28346218217560,
+      "created_at": "2021-06-28T15:15:59-04:00",
+      "position": 5,
+      "updated_at": "2021-06-28T15:16:02-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog2_99cfc940-ba4f-4881-849a-ecdce03b99a2.jpg?v=1624907762",
+      "width": 884,
+      "height": 884
+    },
+    {
+      "id": 28346218184792,
+      "created_at": "2021-06-28T15:15:59-04:00",
+      "position": 6,
+      "updated_at": "2021-06-28T15:16:01-04:00",
+      "product_id": 6572751781976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog3_d45c07e3-e22c-4534-9675-48bf21046b11.jpg?v=1624907761",
+      "width": 948,
+      "height": 948
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 27,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/Pixel5_LONDONFOG_BACK.jpg?v=1620070030",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 5",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

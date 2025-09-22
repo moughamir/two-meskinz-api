@@ -1,0 +1,116 @@
+{
+  "id": 7051707482221,
+  "title": "Icy Blue Pine",
+  "handle": "icy-blue-pine",
+  "body_html": "<p>Icy Blue Pine brings snowy woods to your door with resinous, honeyed <strong>fir balsam</strong> in combination with frosty, cooling notes of <strong>camphor</strong>, <strong>cedar leaf</strong>, and <strong>eucalyptus</strong>.</p>",
+  "published_at": "2023-08-14T19:50:40-06:00",
+  "created_at": "2023-08-09T16:19:35-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Votivo",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Votivo",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_icybluepine"
+  ],
+  "variants": [
+    {
+      "id": 40702259855469,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JYTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707482221,
+      "created_at": "2023-08-09T16:19:35-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525543415917,
+      "created_at": "2023-09-28T18:33:14-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:33:31-06:00",
+      "product_id": 7051707482221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Votivo-IcyBluePine-Vertical-Resized.jpg?v=1695947611",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30406503596141,
+      "created_at": "2023-08-25T12:27:00-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T18:33:31-06:00",
+      "product_id": 7051707482221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/bluespruceresized-2.jpg?v=1695947611",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30350238089325,
+      "created_at": "2023-08-14T19:27:32-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:33:31-06:00",
+      "product_id": 7051707482221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Votivo-Icy-Blue-Pine-Device-V4.jpg?v=1695947611",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525543317613,
+      "created_at": "2023-09-28T18:33:14-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:33:16-06:00",
+      "product_id": 7051707482221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Votivo-IcyBluePine-Overhead-Shadow-Resized.jpg?v=1695947596",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Votivo-IcyBluePine-Vertical-Resized.jpg?v=1695947611",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Votivo",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

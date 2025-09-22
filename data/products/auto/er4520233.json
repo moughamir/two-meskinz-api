@@ -1,0 +1,52 @@
+{
+  "id": 8453462851751,
+  "title": "16mm 4 Flute Standard Carbide End Mill 1.5mm Radius-TiAlN",
+  "handle": "er4520233",
+  "body_html": null,
+  "published_at": "2025-01-24T07:11:57-06:00",
+  "created_at": "2025-01-24T07:11:55-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 Cutting to Endmills",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500863049895,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "er4520233",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "330.74",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453462851751,
+      "created_at": "2025-01-24T07:11:55-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 330.74,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 Cutting to Endmills",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

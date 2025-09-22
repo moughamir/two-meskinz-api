@@ -1,0 +1,109 @@
+{
+  "id": 7997842292824,
+  "title": "Seashell Amalfi Fruits iPhone XR Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:05:59-04:00",
+  "created_at": "2024-06-24T11:14:33-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946512195672,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997842292824,
+      "created_at": "2024-06-24T11:14:33-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144124670040,
+      "created_at": "2024-06-24T11:14:33-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:33-04:00",
+      "product_id": 7997842292824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IPXR_Seashell.jpg?v=1719242073",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161135620184,
+      "created_at": "2024-06-26T15:40:20-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:40:25-04:00",
+      "product_id": 7997842292824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_ac157845-040c-4b7e-b7af-a2c68d49d4f1.jpg?v=1719430825",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161135685720,
+      "created_at": "2024-06-26T15:40:20-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:40:25-04:00",
+      "product_id": 7997842292824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_ea2e7374-8c5b-494a-a18f-ea1e98b3b109.jpg?v=1719430825",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161135652952,
+      "created_at": "2024-06-26T15:40:20-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:40:22-04:00",
+      "product_id": 7997842292824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_a723ba08-dc5c-4cac-9aa1-0eb6da95fe1a.jpg?v=1719430822",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IPXR_Seashell.jpg?v=1719242073",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 5333578285223,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 3212428",
+  "handle": "yg16d1633222",
+  "body_html": "<br><strong>Item #: </strong>95961843<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>3212428<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Depth</strong>\n</td>\n<td>48.00 mm</td>\n</tr>\n<tr>\n<td><strong>Drill Depth by Diameter Ratio</strong></td>\n<td>2xD</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>48.00</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Weldon Flat</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>63/64</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Drill Body Length to Flange (mm)</strong></td>\n<td>70.00</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>QR02</td>\n</tr>\n<tr>\n<td><strong>Nose Diameter (Mm) ( - 2 Decimals)</strong></td>\n<td>24.00</td>\n</tr>\n<tr>\n<td><strong>Nose Diameter (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.9450</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>126.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>126.00</td>\n</tr>\n<tr>\n<td><strong>Through Coolant</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>QR</td>\n</tr>\n<tr>\n<td><strong>Flute Length (mm)</strong></td>\n<td>48.00</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>56.000</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Universal</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>O</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Slow Spiral</td>\n</tr>\n<tr>\n<td><strong>Maximum Cutting Diameter (mm)</strong></td>\n<td>24.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Cutting Diameter (Decimal Inch)</strong></td>\n<td>0.9450</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T12:15:17-06:00",
+  "created_at": "2020-06-14T23:16:08-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Drilling",
+    "Indexable Holemaking",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34722809577639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95961843",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5333578285223,
+      "created_at": "2020-06-14T23:16:08-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240664584359,
+      "created_at": "2025-02-03T20:31:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:31:20-06:00",
+      "product_id": 5333578285223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9596184-21.jpg?v=1738636280",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9596184-21.jpg?v=1738636280",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

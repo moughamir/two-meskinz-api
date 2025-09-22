@@ -1,0 +1,108 @@
+{
+  "id": 8359098253400,
+  "title": "Seashell Coastline Sketch Google Pixel 6a Case",
+  "handle": "seashell-coastline-sketch-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Introducing your new summer sidekick: the Coastline Sketch Phone Case! Covered in doodle-style beachy icons—from salty snacks and lemony drinks to palm trees, swimsuits, and seashells—it’s basically your vacation Pinterest board in case form. Whether you’re seaside dreaming or poolside lounging, this case brings the vibe (and the sunscreen energy) with every glance. 🍹⛱️🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:47:34-04:00",
+  "created_at": "2025-04-28T09:44:46-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastline Sketch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846504321112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:COASTLINE-SKETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359098253400,
+      "created_at": "2025-04-28T09:44:46-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914306719832,
+      "created_at": "2025-04-28T09:44:46-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:48-04:00",
+      "product_id": 8359098253400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTLINE-SKETCH_PX6A_Seashell.jpg?v=1745847888",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010560983128,
+      "created_at": "2025-05-13T07:03:44-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T07:03:46-04:00",
+      "product_id": 8359098253400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_03_a410e288-c99b-4066-abc9-4b943bdd6c4a.jpg?v=1747134226",
+      "width": 1056,
+      "height": 1056
+    },
+    {
+      "id": 35010561015896,
+      "created_at": "2025-05-13T07:03:44-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T07:03:46-04:00",
+      "product_id": 8359098253400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_01_f390529e-6fe1-4c69-9b16-90c12fe392e0.jpg?v=1747134226",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010560950360,
+      "created_at": "2025-05-13T07:03:44-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T07:03:46-04:00",
+      "product_id": 8359098253400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_02_c9bbe561-7227-4fb3-bfb3-ac797cee86b1.jpg?v=1747134226",
+      "width": 1152,
+      "height": 1152
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTLINE-SKETCH_PX6A_Seashell.jpg?v=1745847888",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

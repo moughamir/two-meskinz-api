@@ -1,0 +1,67 @@
+{
+  "id": 7785454764199,
+  "title": "Brand: USA Sealing / Part #: BULK-PS-PC-41",
+  "handle": "ft8215705",
+  "body_html": "<br><strong>Item #: </strong>16590960<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>BULK-PS-PC-41<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Polycarbonate</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>9000</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>24</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:36:53-06:00",
+  "created_at": "2023-12-28T21:36:53-06:00",
+  "updated_at": "2025-09-22T10:55:12-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43703892574375,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16590960",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "91.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785454764199,
+      "created_at": "2023-12-28T21:36:53-06:00",
+      "updated_at": "2025-09-22T10:55:12-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236967633063,
+      "created_at": "2025-02-03T17:59:52-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:59:53-06:00",
+      "product_id": 7785454764199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1547728-21_a86cd00b-87b5-481a-8f7c-b6909cce4fac.jpg?v=1738627193",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 91.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1547728-21_a86cd00b-87b5-481a-8f7c-b6909cce4fac.jpg?v=1738627193",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

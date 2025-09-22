@@ -1,0 +1,110 @@
+{
+  "id": 8164305600600,
+  "title": "Seashell Jolly Doggos iPhone 15 Pro Case",
+  "handle": "seashell-jolly-doggos-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p class=\"p1\">Get ready to fetch some holiday joy with our Jolly Doggos Phone Case! Featuring a pack of playful pups decked out in their coziest holiday sweaters, this case is barking with festive fun. From wagging tails to reindeer ears, these adorable doggos are here to spread cheer while keeping your phone protected. Made with eco-friendly materials that are as kind to the planet as a puppy’s love, this case is a perfect gift for you <i>and</i> the Earth. Keep your phone safe in paws-itively cute style this season! 🐶🎁✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:08:41-04:00",
+  "created_at": "2024-10-21T14:06:11-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Jolly Doggos",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345454960728,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17056-IP15P-SEASHELL-AOD:JOLLY-DOGGOS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164305600600,
+      "created_at": "2024-10-21T14:06:11-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832583233624,
+      "created_at": "2024-10-21T14:06:11-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:06:13-04:00",
+      "product_id": 8164305600600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP15P_Seashell.jpg?v=1729533973",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880410292312,
+      "created_at": "2024-10-28T14:28:27-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:28:29-04:00",
+      "product_id": 8164305600600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP2_94d0ac69-2689-49b3-9748-4d72d4be4bee.jpg?v=1730140109",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880410357848,
+      "created_at": "2024-10-28T14:28:27-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:28:29-04:00",
+      "product_id": 8164305600600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP1_544b13d8-245a-4db7-93b9-080944dce4ee.jpg?v=1730140109",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880410325080,
+      "created_at": "2024-10-28T14:28:27-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:28:29-04:00",
+      "product_id": 8164305600600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP3_37fc92c9-44b4-4570-9e1e-38d46cb95c24.jpg?v=1730140109",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP15P_Seashell.jpg?v=1729533973",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

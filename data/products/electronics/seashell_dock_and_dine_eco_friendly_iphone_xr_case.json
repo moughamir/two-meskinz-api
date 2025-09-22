@@ -1,0 +1,130 @@
+{
+  "id": 8405421621336,
+  "title": "Seashell Dock and Dine iPhone XR Case",
+  "handle": "seashell-dock-and-dine-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">The Dock and Dine Phone Case is serving up coastal charm with a side of shellfish sass. 🦞🐟🍋 From lobsters and oysters to fresh fish, olives, and white wine, this foodie-approved design is a love letter to long lunches by the sea and salty breezes on sun-kissed decks.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-03T09:20:54-04:00",
+  "created_at": "2025-06-16T13:21:18-04:00",
+  "updated_at": "2025-09-22T15:13:43-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Chefcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Dock and Dine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42987034083416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:DOCK-AND-DINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8405421621336,
+      "created_at": "2025-06-16T13:21:18-04:00",
+      "updated_at": "2025-09-22T15:13:43-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35236210671704,
+      "created_at": "2025-06-16T13:21:18-04:00",
+      "position": 1,
+      "updated_at": "2025-06-16T13:21:20-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DOCK-AND-DINE_IPXR_Seashell.jpg?v=1750094480",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35346607898712,
+      "created_at": "2025-07-02T09:06:54-04:00",
+      "position": 2,
+      "updated_at": "2025-07-02T09:06:54-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9b6a131802e83aae567b0437792dfbf6_626db110-27a0-44a4-b301-a01016097787.jpg?v=1751461614",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35346608160856,
+      "created_at": "2025-07-02T09:06:56-04:00",
+      "position": 3,
+      "updated_at": "2025-07-02T09:06:56-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/925e2dc70aeb5ab37994f0f92f2b8bd1_007d20c8-275d-44b5-b423-ded9215cf415.jpg?v=1751461616",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35346609012824,
+      "created_at": "2025-07-02T09:06:57-04:00",
+      "position": 4,
+      "updated_at": "2025-07-02T09:06:57-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/297e4225f291dc7c84ba77b859d902ad_240738ae-a1a9-481d-aeb5-0dc0aecd0c95.jpg?v=1751461617",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35346609406040,
+      "created_at": "2025-07-02T09:06:59-04:00",
+      "position": 5,
+      "updated_at": "2025-07-02T09:06:59-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d8ba5bde668f972cc2dbc4c498d628a3_453a73f0-6827-43d6-9c60-139e29afe00d.jpg?v=1751461619",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35346609635416,
+      "created_at": "2025-07-02T09:07:00-04:00",
+      "position": 6,
+      "updated_at": "2025-07-02T09:07:00-04:00",
+      "product_id": 8405421621336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/732d367725ff214dbfdee6fc4dd3c40b_38718c66-8ef6-4b01-9f4d-a9293491f9a5.jpg?v=1751461620",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DOCK-AND-DINE_IPXR_Seashell.jpg?v=1750094480",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

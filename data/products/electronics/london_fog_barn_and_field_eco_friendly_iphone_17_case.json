@@ -1,0 +1,118 @@
+{
+  "id": 8444699738200,
+  "title": "London Fog Barn and Field iPhone 17 Case",
+  "handle": "london-fog-barn-and-field-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Y’all ready for some farm-fresh flair? <meta charset=\"utf-8\">🐄<meta charset=\"utf-8\">🚜 The <em data-start=\"84\" data-end=\"100\">Barn and Field</em> Phone Case brings rustic charm right to your fingertips with hand-drawn cows, chickens, barns, tractors, and more—all in a vintage sketch style that’s straight outta the countryside. It’s giving wholesome, it’s giving rural romance, and yes—it’s still compostable and tough as nails.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:04:22-04:00",
+  "created_at": "2025-08-08T11:51:30-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Farm Life",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Barn and Field",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184162930776,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:BARN-AND-FIELD_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444699738200,
+      "created_at": "2025-09-03T18:34:57-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184162963544,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:BARN-AND-FIELD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444699738200,
+      "created_at": "2025-09-03T18:34:57-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567289761880,
+      "created_at": "2025-08-08T11:51:30-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:33-04:00",
+      "product_id": 8444699738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BARN-AND-FIELD_IP17_LondonFog.jpg?v=1754668293",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34901847539800,
+      "created_at": "2025-04-25T16:24:03-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T16:24:07-04:00",
+      "product_id": 8444699738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_BarnandField_PDP_01_43e60c38-2ffb-40ec-aa72-29ab362c016c.jpg?v=1745612647",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34901847572568,
+      "created_at": "2025-04-25T16:24:03-04:00",
+      "position": 3,
+      "updated_at": "2025-04-25T16:24:07-04:00",
+      "product_id": 8444699738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_BarnandField_PDP_02_b2459608-e3ee-4cda-a5b0-ae995e418c37.jpg?v=1745612647",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BARN-AND-FIELD_IP17_LondonFog.jpg?v=1754668293",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

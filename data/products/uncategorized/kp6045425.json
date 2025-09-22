@@ -1,0 +1,52 @@
+{
+  "id": 8453362057383,
+  "title": "‎Lightweight Lockback Knife 2-1/2″ Sheepfoot Blade, Black Handle",
+  "handle": "kp6045425",
+  "body_html": null,
+  "published_at": "2025-01-24T03:02:42-06:00",
+  "created_at": "2025-01-24T03:02:36-06:00",
+  "updated_at": "2025-09-22T10:51:50-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500450730151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6045425",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "61.77",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453362057383,
+      "created_at": "2025-01-24T03:02:36-06:00",
+      "updated_at": "2025-09-22T10:51:50-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 61.77,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5325737099431,
+  "title": "74523 20.0 7FL SQ ENDMILL",
+  "handle": "jr507375p",
+  "body_html": "<br><strong>Item #: </strong>DD9274523<br><strong>Brand: </strong>KYOCERA SGS Precision Tools<br><strong>Model #: </strong>74523<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>20 mm </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Cast Iron | Hard Materials | Super-Alloys / Titanium | </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>20 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Solid Carbide Endmill </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>60 mm </td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>115 mm </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TM </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>77MS </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>7 </td>\n</tr>\n<tr>\n<td><strong>Shank Size (SS)</strong></td>\n<td>0.7874″ </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>37 Degrees </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>2.165″ </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>2.3622″ </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:13:05-06:00",
+  "created_at": "2020-06-13T09:10:55-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "KYOCERA SGS Precision Tools",
+  "product_type": "Milling",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34705230233767,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DD9274523",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "469.57",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5325737099431,
+      "created_at": "2020-06-13T09:10:55-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144064422055,
+      "created_at": "2025-01-23T22:13:15-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:13:17-06:00",
+      "product_id": 5325737099431,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/SGP_Series_77SCB_TM_37cc_61ef950b-2c89-4c9e-94be-c21cd96fb5a9.jpg?v=1737691997",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 469.57,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/SGP_Series_77SCB_TM_37cc_61ef950b-2c89-4c9e-94be-c21cd96fb5a9.jpg?v=1737691997",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "KYOCERA SGS Precision Tools",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

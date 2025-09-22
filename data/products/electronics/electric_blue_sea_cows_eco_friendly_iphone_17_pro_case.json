@@ -1,0 +1,107 @@
+{
+  "id": 8444675457112,
+  "title": "Electric Blue Sea Cows iPhone 17 Pro Case",
+  "handle": "electric-blue-sea-cows-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p class=\"p1\">Make a splash with the adorable Sea Cows Phone Case! Featuring a pod of playful manatees in bright colors— from coral pink to teal blue— these gentle giants bring a delightful dose of cuteness wherever you go. Perfect for ocean lovers and those who enjoy a bit of aquatic fun. Let these sweet sea cows keep your device safe while swimming through your day in style! 🐋 🌊</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:26:34-04:00",
+  "created_at": "2025-08-08T11:50:02-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Animals",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sea Cows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184133996632,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17504-IP17P-ELEBLUE-AOD:SEA-COWS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444675457112,
+      "created_at": "2025-09-03T18:31:34-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184134029400,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17504-IP17P-ELEBLUE-AOD:SEA-COWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444675457112,
+      "created_at": "2025-09-03T18:31:34-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567236710488,
+      "created_at": "2025-08-08T11:50:02-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:04-04:00",
+      "product_id": 8444675457112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEA-COWS_IP17P_ElectricBlue.jpg?v=1754668204",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516506775640,
+      "created_at": "2024-08-22T12:44:23-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:44:25-04:00",
+      "product_id": 8444675457112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_SeaCows_d917d5b3-92da-4538-8c45-23f8ece014bd.jpg?v=1724345065",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEA-COWS_IP17P_ElectricBlue.jpg?v=1754668204",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

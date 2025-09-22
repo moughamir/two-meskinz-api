@@ -1,0 +1,119 @@
+{
+  "id": 7067845558381,
+  "title": "Bonfire Nights",
+  "handle": "bonfire-nights",
+  "body_html": "<p>Warmth radiates from a crackling fire as friends gather around, enveloped in notes of smoky embers, <strong>palo santo</strong>, <strong>pine</strong>, and <strong>vanilla</strong>.</p>",
+  "published_at": "2023-09-01T10:31:39-06:00",
+  "created_at": "2023-08-28T13:21:39-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Homesick",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "BFNH",
+    "Brand:Homesick",
+    "CollectionFilter_Vanilla",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40713539813485,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BFNH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7067845558381,
+      "created_at": "2023-08-28T13:21:39-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30826472931437,
+      "created_at": "2023-12-07T10:30:31-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T10:30:54-07:00",
+      "product_id": 7067845558381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/homesickbonfirenightsresizedpdp_67b7d18c-7b32-460e-bcff-6c6918ff091e.jpg?v=1701970254",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30415797289069,
+      "created_at": "2023-08-28T13:23:39-06:00",
+      "position": 2,
+      "updated_at": "2023-12-07T10:30:54-07:00",
+      "product_id": 7067845558381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Copyofpalo-santo.jpg?v=1701970254",
+      "width": 2400,
+      "height": 3198
+    },
+    {
+      "id": 30415797321837,
+      "created_at": "2023-08-28T13:23:39-06:00",
+      "position": 3,
+      "updated_at": "2023-12-07T10:30:54-07:00",
+      "product_id": 7067845558381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/homesickbonfirenightsresizedpdp-4.jpg?v=1701970254",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30415797387373,
+      "created_at": "2023-08-28T13:23:39-06:00",
+      "position": 4,
+      "updated_at": "2023-12-07T10:30:54-07:00",
+      "product_id": 7067845558381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/homesickbonfirenightsresizedpdp-2.jpg?v=1701970254",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/homesickbonfirenightsresizedpdp_67b7d18c-7b32-460e-bcff-6c6918ff091e.jpg?v=1701970254",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Homesick",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

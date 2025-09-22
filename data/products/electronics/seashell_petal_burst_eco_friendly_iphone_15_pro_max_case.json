@@ -1,0 +1,120 @@
+{
+  "id": 8429102006360,
+  "title": "Seashell Petal Burst iPhone 15 Pro Max Case",
+  "handle": "seashell-petal-burst-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:21:00-04:00",
+  "created_at": "2025-07-17T07:09:58-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063793942616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17126-IP15PMAX-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429102006360,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436658688088,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:10:01-04:00",
+      "product_id": 8429102006360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP15PMAX_Seashell.jpg?v=1752750601",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581710467160,
+      "created_at": "2025-08-11T14:57:53-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:57:53-04:00",
+      "product_id": 8429102006360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_2ea3a8f8-f30a-417f-ba3f-6ff188327e7d.jpg?v=1754938673",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581710696536,
+      "created_at": "2025-08-11T14:57:55-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:57:55-04:00",
+      "product_id": 8429102006360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_231de587-0117-4645-8309-d50d6938acd4.jpg?v=1754938675",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581710925912,
+      "created_at": "2025-08-11T14:57:57-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:57:57-04:00",
+      "product_id": 8429102006360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_8575fe41-f3ea-4092-bdc7-235cac200d50.jpg?v=1754938677",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581711089752,
+      "created_at": "2025-08-11T14:57:58-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:57:58-04:00",
+      "product_id": 8429102006360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_b485e67f-dce3-47f4-b18c-11d2b5b6456b.jpg?v=1754938678",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP15PMAX_Seashell.jpg?v=1752750601",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

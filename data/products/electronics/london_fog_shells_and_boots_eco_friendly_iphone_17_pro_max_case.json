@@ -1,0 +1,129 @@
+{
+  "id": 8444648521816,
+  "title": "London Fog Shells and Boots iPhone 17 Pro Max Case",
+  "handle": "london-fog-shells-and-boots-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><span>Step into the charm of the seashore with the Shells and Boots Phone Case from Pela's enchanting Coastal Cowgirl Collection.  The case features a playful array of intricately patterned cowboy boots intermingled with serene sea stars and shells, all set against a soothing neutral background. 🌟🐚👢</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:09:48-04:00",
+  "created_at": "2025-08-08T11:48:24-04:00",
+  "updated_at": "2025-09-22T15:12:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Cowgirl",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Shells and Boots",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184188883032,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17580-IP17PMAX-LFOG-AOD:SHELLS-AND-BOOTS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444648521816,
+      "created_at": "2025-09-03T18:40:10-04:00",
+      "updated_at": "2025-09-22T15:12:47-04:00"
+    },
+    {
+      "id": 43184188915800,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17580-IP17PMAX-LFOG-AOD:SHELLS-AND-BOOTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444648521816,
+      "created_at": "2025-09-03T18:40:10-04:00",
+      "updated_at": "2025-09-22T15:12:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567178907736,
+      "created_at": "2025-08-08T11:48:24-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:27-04:00",
+      "product_id": 8444648521816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHELLS-AND-BOOTS_IP17PMAX_LondonFog.jpg?v=1754668107",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776383303768,
+      "created_at": "2023-09-20T13:35:44-04:00",
+      "position": 2,
+      "updated_at": "2025-08-12T10:50:56-04:00",
+      "product_id": 8444648521816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Shells_Boots_1.jpg?v=1755010256",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776383271000,
+      "created_at": "2023-09-20T13:35:44-04:00",
+      "position": 3,
+      "updated_at": "2025-08-12T10:51:12-04:00",
+      "product_id": 8444648521816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Shells_Boots_3.jpg?v=1755010272",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776383238232,
+      "created_at": "2023-09-20T13:35:44-04:00",
+      "position": 4,
+      "updated_at": "2025-08-12T10:51:04-04:00",
+      "product_id": 8444648521816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Shells_Boots_2.jpg?v=1755010264",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHELLS-AND-BOOTS_IP17PMAX_LondonFog.jpg?v=1754668107",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

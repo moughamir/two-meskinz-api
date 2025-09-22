@@ -1,0 +1,109 @@
+{
+  "id": 7536128032856,
+  "title": "Powder Blue Bows and Blossoms iPhone 11 Case",
+  "handle": "powder-blue-bows-and-blossoms-eco-friendly-iphone-11-case",
+  "body_html": "<p><span>Wrap your phone in the quaint charm of the Bows and Blossoms Phone Case. This case's enchanting powder blue backdrop is adorned with a symmetrical dance of florals and bows, creating a soothing and graceful pattern that's a nod to traditional fabric designs. 🎀🌸📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:20:34-05:00",
+  "created_at": "2024-01-15T11:10:10-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "coquette",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bows and Blossoms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949024030808,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16227-IP11-POWDERBLUE-AOD:BOWS-AND-BLOSSOMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536128032856,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079726149720,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:10-05:00",
+      "product_id": 7536128032856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BOWS-AND-BLOSSOMS_IP11_PowderBlue.jpg?v=1705335010",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088920981592,
+      "created_at": "2024-01-17T10:42:50-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:42:51-05:00",
+      "product_id": 7536128032856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP2_b3b44a9e-0894-4305-b51d-3c24832155d7.png?v=1705506171",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088921047128,
+      "created_at": "2024-01-17T10:42:50-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:42:52-05:00",
+      "product_id": 7536128032856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP1_4eb6ee8e-dec0-4397-85e6-88e9a9cf998c.png?v=1705506172",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088921014360,
+      "created_at": "2024-01-17T10:42:50-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:42:51-05:00",
+      "product_id": 7536128032856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_e41c1dae-5063-4b20-8b59-39c6a23f7792.png?v=1705506171",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/BOWS-AND-BLOSSOMS_IP11_PowderBlue.jpg?v=1705335010",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

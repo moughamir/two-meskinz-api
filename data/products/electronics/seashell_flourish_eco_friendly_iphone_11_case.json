@@ -1,0 +1,108 @@
+{
+  "id": 8320079954008,
+  "title": "Seashell Flourish iPhone 11 Case",
+  "handle": "seashell-flourish-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Spring has officially sprung—on your phone! The <em data-start=\"83\" data-end=\"93\">Flourish</em> Phone Case is a bloom-filled wonderland sprinkled with bunnies, ducklings, bees, blossoms, and even the occasional hedgehog. It's like a storybook meadow that fits in the palm of your hand, perfect for anyone who loves sunny days, fresh flowers, and all things adorable.<meta charset=\"utf-8\">🐇🌷</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:28:18-04:00",
+  "created_at": "2025-03-20T10:50:35-04:00",
+  "updated_at": "2025-09-22T15:14:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756159242328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320079954008,
+      "created_at": "2025-03-20T10:50:35-04:00",
+      "updated_at": "2025-09-22T15:14:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722012627032,
+      "created_at": "2025-03-20T10:50:35-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:37-04:00",
+      "product_id": 8320079954008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_IP11_Seashell.jpg?v=1742482237",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814145364056,
+      "created_at": "2025-04-10T10:22:26-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:22:30-04:00",
+      "product_id": 8320079954008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_0e807406-161d-4aef-9778-4932c74d6a62.jpg?v=1744294950",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814145331288,
+      "created_at": "2025-04-10T10:22:26-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:22:30-04:00",
+      "product_id": 8320079954008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_f14c7156-9692-4616-8125-8afd71b1367e.jpg?v=1744294950",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814145265752,
+      "created_at": "2025-04-10T10:22:25-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:22:30-04:00",
+      "product_id": 8320079954008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_f3dc45f8-bce9-4f91-817c-1d140c763556.jpg?v=1744294950",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_IP11_Seashell.jpg?v=1742482237",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

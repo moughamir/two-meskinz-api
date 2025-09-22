@@ -1,0 +1,110 @@
+{
+  "id": 7699251069016,
+  "title": "Seashell Radiate iPhone 13 Case",
+  "handle": "seashell-radiate-eco-friendly-iphone-13-case",
+  "body_html": "<p>Add a touch of elegance to your phone with our Seashell Radiate case! Featuring a beautiful pink floral design, this case will radiate your feminine style while keeping your phone protected. Stand out from the crowd with this unique case.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:26:48-04:00",
+  "created_at": "2024-04-01T12:47:19-04:00",
+  "updated_at": "2025-09-22T15:16:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Radiate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311481331800,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:RADIATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699251069016,
+      "created_at": "2024-04-01T12:47:19-04:00",
+      "updated_at": "2025-09-22T15:16:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487783071832,
+      "created_at": "2024-04-01T12:47:19-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:19-04:00",
+      "product_id": 7699251069016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP13_Seashell.jpg?v=1711990039",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520495824984,
+      "created_at": "2024-04-04T15:29:12-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T15:29:15-04:00",
+      "product_id": 7699251069016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-06_27e1dee2-ff2c-4f33-aabe-bfae7937041f.jpg?v=1712258955",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520495792216,
+      "created_at": "2024-04-04T15:29:12-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T15:29:14-04:00",
+      "product_id": 7699251069016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-07_68979eb2-0b8c-49ee-928c-22d73542a901.jpg?v=1712258954",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520495595608,
+      "created_at": "2024-04-04T15:29:12-04:00",
+      "position": 4,
+      "updated_at": "2024-04-04T15:29:14-04:00",
+      "product_id": 7699251069016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-10_bf4ffd50-a309-40ae-a8f1-7c21654d0107.jpg?v=1712258954",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_IP13_Seashell.jpg?v=1711990039",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

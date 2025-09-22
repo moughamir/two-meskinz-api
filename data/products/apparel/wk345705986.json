@@ -1,0 +1,67 @@
+{
+  "id": 7785295478951,
+  "title": "Brand: 3M / Part #: 7000125231",
+  "handle": "wk345705986",
+  "body_html": "<br><strong>Item #: </strong>48358055<br><strong>Brand: </strong>3M<br><strong>Model #: </strong>7000125231<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/Logos/3M-61.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">48358055</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>7000125231</p></td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">Country of Origin<span class=\"block text-xs text-monochromes-GradientGrey mt-2 text-width\">Country of Origin is subject to change</span>\n</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">UNITED STATES</td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-28T16:37:06-06:00",
+  "created_at": "2023-12-28T16:37:06-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "3M",
+  "product_type": "Tapes & Adhesives",
+  "tags": [
+    "Tape"
+  ],
+  "variants": [
+    {
+      "id": 43703565320359,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48358055",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785295478951,
+      "created_at": "2023-12-28T16:37:06-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236643164327,
+      "created_at": "2025-02-03T17:49:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:12-06:00",
+      "product_id": 7785295478951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4835805-21.jpg?v=1738626552",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 110.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4835805-21.jpg?v=1738626552",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "3M",
+  "category": "Tapes & Adhesives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

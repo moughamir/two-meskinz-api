@@ -1,0 +1,121 @@
+{
+  "id": 6806071247050,
+  "title": "Gymshark Script Cap - Muted Pink",
+  "handle": "gymshark-script-cap-muted-pink-ss25",
+  "body_html": "<p><strong>YOU CAN LEAVE YOUR HAT ON</strong></p>\n<p> </p>\n<p>The finishing touch to any gym or rest day ‘fit. ‘Cause nothing says hats off to your outfit like, um, a hat.</p>\n<p>• Soft front panels for a relaxed shape<br>• Curved peak<br>• Adjuster to the back for the perfect fit<br>• Embroidered graphic to the front and sharkhead logo to the back</p>\n<p><strong>SIZE &amp; FIT</strong><br>• One size<br>• Wear it on your head<br> <br><strong>MATERIALS &amp; CARE </strong><br>• 100% Cotton<br> <br>SKU: I1B6Z-KB68</p>",
+  "published_at": "2025-04-03T12:51:52-07:00",
+  "created_at": "2024-09-03T17:12:33-07:00",
+  "updated_at": "2025-09-22T08:45:41-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-graphic-collection",
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1758186852",
+    "all-products",
+    "build-your-wishlist",
+    "caps",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Pink",
+    "headwear",
+    "last-chance",
+    "last-chance-accessories",
+    "loungewear",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Rest Day Essentials",
+    "rest-day",
+    "seamtype:Accessories",
+    "season:SS25",
+    "segmentation:Rest Day",
+    "stocking-fillers",
+    "subcategory:Cap",
+    "tier:2",
+    "valentines-day"
+  ],
+  "variants": [
+    {
+      "id": 39793856381130,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1B6Z-KB68-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "22.40",
+      "grams": 0,
+      "compare_at_price": "28.00",
+      "position": 1,
+      "product_id": 6806071247050,
+      "created_at": "2024-09-03T17:12:33-07:00",
+      "updated_at": "2025-09-22T08:45:41-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28991749882058,
+      "created_at": "2025-02-27T12:46:46-08:00",
+      "position": 1,
+      "updated_at": "2025-02-27T12:46:48-08:00",
+      "product_id": 6806071247050,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCap-ScriptGSMutedPinkI1B6Z-KB681854-0004.jpg?v=1740689208",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28991750242506,
+      "created_at": "2025-02-27T12:46:47-08:00",
+      "position": 2,
+      "updated_at": "2025-02-27T12:46:48-08:00",
+      "product_id": 6806071247050,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCap-ScriptGSMutedPinkI1B6Z-KB681855-0005.jpg?v=1740689208",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28991749914826,
+      "created_at": "2025-02-27T12:46:47-08:00",
+      "position": 3,
+      "updated_at": "2025-02-27T12:46:48-08:00",
+      "product_id": 6806071247050,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCap-ScriptGSMutedPinkI1B6Z-KB681856-0006.jpg?v=1740689208",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.4,
+  "compare_at_price": 28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCap-ScriptGSMutedPinkI1B6Z-KB681854-0004.jpg?v=1740689208",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

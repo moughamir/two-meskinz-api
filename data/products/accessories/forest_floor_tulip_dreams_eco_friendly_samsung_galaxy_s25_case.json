@@ -1,0 +1,119 @@
+{
+  "id": 8419718135896,
+  "title": "Forest Floor Tulip Dreams Samsung Galaxy S25 Case",
+  "handle": "forest-floor-tulip-dreams-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to soft blooms and daydreams with the Tulip Dreams Phone Case. Featuring a delicate sky-blue tulip outline that dances across a rich olive green backdrop, this case brings a garden stroll right to your fingertips. It's minimalist, modern, and effortlessly whimsical — perfect for flower lovers with a subtle side.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:37:05-04:00",
+  "created_at": "2025-07-03T14:10:53-04:00",
+  "updated_at": "2025-09-22T15:13:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tulip Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033213829208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13906-S25-FOREST-AOD:TULIP-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419718135896,
+      "created_at": "2025-07-03T14:10:53-04:00",
+      "updated_at": "2025-09-22T15:13:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354043613272,
+      "created_at": "2025-07-03T14:10:53-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:10:55-04:00",
+      "product_id": 8419718135896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TULIP-DREAMS_S25_ForestFloor.jpg?v=1751566255",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547939504216,
+      "created_at": "2025-08-05T11:39:48-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T11:39:48-04:00",
+      "product_id": 8419718135896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9198bfbd7a66cf14738901e514b48527_76973ca7-a18d-4291-abc5-eed00ff4f9d9.jpg?v=1754408388",
+      "width": 4305,
+      "height": 4305
+    },
+    {
+      "id": 35547939569752,
+      "created_at": "2025-08-05T11:39:50-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T11:39:50-04:00",
+      "product_id": 8419718135896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0376dedb39d1dc4715a0c62f49578d59_a16006f5-cef2-48bb-becf-e244d09ed67c.jpg?v=1754408390",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547939635288,
+      "created_at": "2025-08-05T11:39:51-04:00",
+      "position": 4,
+      "updated_at": "2025-08-05T11:39:51-04:00",
+      "product_id": 8419718135896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4275fc2fff5ae41943158767f03000e3_9dd8c01b-8af0-45b7-9dba-319b1a96524f.jpg?v=1754408391",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547939897432,
+      "created_at": "2025-08-05T11:39:53-04:00",
+      "position": 5,
+      "updated_at": "2025-08-05T11:39:53-04:00",
+      "product_id": 8419718135896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/128ed6cfb6a87fe6e417b16d3a332785_bc63415a-6d6d-41e1-a621-1cd0de83c2f8.jpg?v=1754408393",
+      "width": 4157,
+      "height": 4157
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TULIP-DREAMS_S25_ForestFloor.jpg?v=1751566255",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

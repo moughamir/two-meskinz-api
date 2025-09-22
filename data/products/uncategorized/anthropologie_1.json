@@ -1,0 +1,154 @@
+{
+  "id": 7113544630381,
+  "title": "Anthropologie",
+  "handle": "anthropologie-1",
+  "body_html": "<p>Anthropologie is a uniquely beautiful lifestyle brand created for the creative, housing a fragrance collection representing a portal of discovery—a brush with what could be.\n<br>Included Fragrances:\n<br>White Amber Mandarin\n<br>Ambered Topaz\n<br>Sandalwood Vanilla\n<br>Santal Blush\n<br>Sol Tobac\n<br>Honeycrisp Oakwood</p>",
+  "published_at": "2023-12-04T17:49:48-07:00",
+  "created_at": "2023-10-23T13:19:53-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Gift",
+  "tags": [
+    "6 Month",
+    "900-02426",
+    "__automation:disable",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_whiteamberman",
+    "YGroup_whiteamberman"
+  ],
+  "variants": [
+    {
+      "id": 40778602840173,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02426",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.56",
+      "grams": 91,
+      "compare_at_price": "107.94",
+      "position": 1,
+      "product_id": 7113544630381,
+      "created_at": "2023-10-23T13:19:53-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30611553615981,
+      "created_at": "2023-10-27T09:32:43-06:00",
+      "position": 1,
+      "updated_at": "2023-10-27T09:32:45-06:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthro_162fd7c7-a1eb-4a96-81c2-58b2ae73b9d8.jpg?v=1698420765",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798299660397,
+      "created_at": "2023-12-01T15:28:06-07:00",
+      "position": 2,
+      "updated_at": "2023-12-01T15:28:08-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Hover-11-23_15bf3c82-0760-4c2d-b305-3d23c0e514dd.png?v=1701469688",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744928092269,
+      "created_at": "2023-11-20T15:36:40-07:00",
+      "position": 3,
+      "updated_at": "2023-12-01T15:28:08-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/resized_584785bc-730b-44de-937a-ae430cb6de6f.jpg?v=1701469688",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31186215960685,
+      "created_at": "2024-02-09T16:08:34-07:00",
+      "position": 4,
+      "updated_at": "2024-02-09T16:08:46-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologieamberedtopaz-resized_f8c667ab-c45e-4932-9dee-163eb33b9d64.jpg?v=1707520126",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744928125037,
+      "created_at": "2023-11-20T15:36:40-07:00",
+      "position": 5,
+      "updated_at": "2024-02-09T16:08:46-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologie-2023-08-v1_0927b9a7-2a2e-41ed-8ea9-c5c2652cc984.png?v=1707520126",
+      "width": 1024,
+      "height": 1365
+    },
+    {
+      "id": 30744928157805,
+      "created_at": "2023-11-20T15:36:40-07:00",
+      "position": 6,
+      "updated_at": "2024-02-09T16:08:46-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnthroSantalBlush-resized-2_7fadce82-e2e2-4ff6-a1d0-2742134cfc7f.jpg?v=1707520126",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744928223341,
+      "created_at": "2023-11-20T15:36:40-07:00",
+      "position": 7,
+      "updated_at": "2024-02-09T16:08:46-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologiesoltobaresizedpdp_18284e67-2dd2-463c-9c0a-50d88fb703c2.jpg?v=1707520126",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744928256109,
+      "created_at": "2023-11-20T15:36:40-07:00",
+      "position": 8,
+      "updated_at": "2024-02-09T16:08:46-07:00",
+      "product_id": 7113544630381,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthrohoneycrispoakwood-resized_3a5664dd-02ba-4448-a1c6-7e7297f49ddc.jpg?v=1707520126",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 75.56,
+  "compare_at_price": 107.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthro_162fd7c7-a1eb-4a96-81c2-58b2ae73b9d8.jpg?v=1698420765",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

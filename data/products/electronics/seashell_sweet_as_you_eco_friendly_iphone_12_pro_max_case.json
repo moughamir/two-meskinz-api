@@ -1,0 +1,119 @@
+{
+  "id": 8216566562904,
+  "title": "Seashell Sweet As You iPhone 12 Pro Max Case",
+  "handle": "seashell-sweet-as-you-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring on the cuteness with the Sweet As You Phone Case from our <em>Amour Collection</em>! Featuring adorable gummy bears, candy hearts, and playful bows, this design is as sweet as you are. Perfect for spreading love and good vibes! <meta charset=\"utf-8\">🍬💖</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:21:25-05:00",
+  "created_at": "2024-12-16T10:52:30-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sweet As You",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059264600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16539-IP12PMAX-SEASHELL-AOD:SWEET-AS-YOU",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216566562904,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130694439000,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:32-05:00",
+      "product_id": 8216566562904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEET-AS-YOU_IP12PMAX_Seashell.jpg?v=1734364352",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34214874513496,
+      "created_at": "2025-01-03T10:45:52-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T10:45:53-05:00",
+      "product_id": 8216566562904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP1_e294f064-052f-41de-83f7-ab462152c81c.jpg?v=1735919153",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214874611800,
+      "created_at": "2025-01-03T10:45:52-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T10:45:53-05:00",
+      "product_id": 8216566562904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP2_fe8c04ef-d7a3-4216-9034-498bf5ae0ea6.jpg?v=1735919153",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214874579032,
+      "created_at": "2025-01-03T10:45:52-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T10:45:53-05:00",
+      "product_id": 8216566562904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP3_e1f9af03-e514-41c0-8a1f-640a174d1c85.jpg?v=1735919153",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214874546264,
+      "created_at": "2025-01-03T10:45:52-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T10:45:53-05:00",
+      "product_id": 8216566562904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP4_12d59b7a-3eb0-4d4e-9133-42d133f9e726.jpg?v=1735919153",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEET-AS-YOU_IP12PMAX_Seashell.jpg?v=1734364352",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

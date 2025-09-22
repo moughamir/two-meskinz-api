@@ -1,0 +1,102 @@
+{
+  "id": 7928394874927,
+  "title": "Castlevania: Nocturne Drolta Poster",
+  "handle": "castlevania-nocturne-drolta-poster",
+  "body_html": "<p>Bring the darkness of <em>Castlevania: Nocturne</em> into your space with this striking Drolta Poster. Featuring the enigmatic and powerful character in vivid detail, it's a must-have for any fan looking to add a touch of the supernatural to their walls. Perfect for elevating your room or gaming den, this poster captures the essence of the Castlevania anime in every inch!</p>\n<ul>\n<li>Dimensions: 18x24</li>\n<li>10 mil (0.25 mm) thick</li>\n<li>Paper weight: 7.67 oz/y² (260 g/m²)</li>\n<li>Slightly glossy</li>\n<li>Fingerprint resistant</li>\n</ul>",
+  "published_at": "2025-02-27T13:40:40-05:00",
+  "created_at": "2025-02-18T11:31:51-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Posters",
+  "tags": [
+    "81437018",
+    "Castlevania Nocturne",
+    "Home & Office",
+    "home and office",
+    "Posters",
+    "Premium Poster",
+    "Title: Castlevania Nocturne",
+    "Type: Wall Art",
+    "unisex",
+    "Wall Art"
+  ],
+  "variants": [
+    {
+      "id": 43606089170991,
+      "title": "18 in x 24 in",
+      "option1": "18 in x 24 in",
+      "option2": null,
+      "option3": null,
+      "sku": "CVN-100850-00010-CN-DLPT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35549561716783,
+        "product_id": 7928394874927,
+        "position": 1,
+        "created_at": "2025-02-18T11:31:51-05:00",
+        "updated_at": "2025-02-18T11:31:51-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CN-DLPT_53_100850_FT_MF.jpg?v=1739896311",
+        "variant_ids": [
+          43606089170991
+        ]
+      },
+      "available": true,
+      "price": "29.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7928394874927,
+      "created_at": "2025-02-18T11:31:51-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35549561716783,
+      "created_at": "2025-02-18T11:31:51-05:00",
+      "position": 1,
+      "updated_at": "2025-02-18T11:31:51-05:00",
+      "product_id": 7928394874927,
+      "variant_ids": [
+        43606089170991
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CN-DLPT_53_100850_FT_MF.jpg?v=1739896311",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35549561847855,
+      "created_at": "2025-02-18T11:31:51-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T11:31:51-05:00",
+      "product_id": 7928394874927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CN-DLPT_53_100850_LIFE4.jpg?v=1739896311",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "18 in x 24 in"
+      ]
+    }
+  ],
+  "price": 29.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CN-DLPT_53_100850_FT_MF.jpg?v=1739896311",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Posters",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

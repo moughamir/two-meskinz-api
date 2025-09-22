@@ -1,0 +1,93 @@
+{
+  "id": 7582192894040,
+  "title": "Electric Blue Pixel 6a Phone Case",
+  "handle": "electric-blue-pixel-6a-phone-case",
+  "body_html": "<span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-04-30T13:21:28-04:00",
+  "created_at": "2024-03-05T13:07:21-05:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 41109308145752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14811-PX6a-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 61,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7582192894040,
+      "created_at": "2024-03-05T13:07:21-05:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32659027656792,
+      "created_at": "2024-04-18T09:51:01-04:00",
+      "position": 1,
+      "updated_at": "2024-04-18T09:51:03-04:00",
+      "product_id": 7582192894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIXEL_6A_ELECTRIC_BLUE_BACK.jpg?v=1713448263",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659027787864,
+      "created_at": "2024-04-18T09:51:01-04:00",
+      "position": 2,
+      "updated_at": "2024-04-18T09:51:03-04:00",
+      "product_id": 7582192894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIXEL_6A_ELECTRIC_BLUE_BACK45L.jpg?v=1713448263",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659027820632,
+      "created_at": "2024-04-18T09:51:01-04:00",
+      "position": 3,
+      "updated_at": "2024-04-18T09:51:04-04:00",
+      "product_id": 7582192894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIXEL_6A_ELECTRIC_BLUE_BACK45R.jpg?v=1713448264",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIXEL_6A_ELECTRIC_BLUE_BACK.jpg?v=1713448263",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 7016412381293,
+  "title": "Festival",
+  "handle": "festival",
+  "body_html": "<p>Wristband clasped, a buzz in the air—finally, the beat drops. Warm notes of <strong>blonde</strong> <strong>woods</strong> bring balance to a whimsical blend of sparkling <strong>grapefruit</strong> and sweet <strong>apricot</strong>, giving you a magical night to remember.</p>",
+  "published_at": "2023-07-21T11:18:38-06:00",
+  "created_at": "2023-06-16T16:02:44-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Moodcast",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Moodcast",
+    "Festival",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40661628387437,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FTVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7016412381293,
+      "created_at": "2023-06-16T16:02:44-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30534496911469,
+      "created_at": "2023-10-04T09:20:30-06:00",
+      "position": 1,
+      "updated_at": "2023-10-04T09:20:42-06:00",
+      "product_id": 7016412381293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/moodcast-festival-1-resized.jpg?v=1696432842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345321185389,
+      "created_at": "2023-08-13T13:27:54-06:00",
+      "position": 2,
+      "updated_at": "2023-10-04T09:20:42-06:00",
+      "product_id": 7016412381293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/apricots-resized.jpg?v=1696432842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345320956013,
+      "created_at": "2023-08-13T13:26:28-06:00",
+      "position": 3,
+      "updated_at": "2023-10-04T09:20:42-06:00",
+      "product_id": 7016412381293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-Festival-Device-V4.jpg?v=1696432842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30534496878701,
+      "created_at": "2023-10-04T09:20:30-06:00",
+      "position": 4,
+      "updated_at": "2023-10-04T09:20:31-06:00",
+      "product_id": 7016412381293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/moodcast-festival-2-resized.jpg?v=1696432831",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/moodcast-festival-1-resized.jpg?v=1696432842",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Moodcast",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

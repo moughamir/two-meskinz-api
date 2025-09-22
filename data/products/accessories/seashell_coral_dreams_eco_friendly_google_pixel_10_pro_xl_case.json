@@ -1,0 +1,108 @@
+{
+  "id": 8444637675608,
+  "title": "Seashell Coral Dreams Google Pixel 10 Pro XL Case",
+  "handle": "seashell-coral-dreams-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p data-start=\"0\" data-end=\"68\">Dive into a reef of color with the Coral Dreams Phone Case! 🪸💫</p>\n<p data-start=\"70\" data-end=\"318\">This ocean-inspired beauty brings a vibrant tangle of hand-drawn coral and sea flora straight to your fingertips. With hues of golden mustard, seafoam green, coral orange, and deep-sea blues, it's basically an underwater dance party for your phone.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T11:15:22-04:00",
+  "created_at": "2025-08-08T11:04:32-04:00",
+  "updated_at": "2025-09-22T15:13:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coral Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107942137944,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15821-PX10PXL-SEASHELL-AOD:CORAL-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444637675608,
+      "created_at": "2025-08-08T11:04:32-04:00",
+      "updated_at": "2025-09-22T15:13:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567085027416,
+      "created_at": "2025-08-08T11:04:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:04:35-04:00",
+      "product_id": 8444637675608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_PX10PXL_Seashell.jpg?v=1754665475",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453382557784,
+      "created_at": "2025-07-21T16:22:51-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T10:08:44-04:00",
+      "product_id": 8444637675608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_1.jpg?v=1755180524",
+      "width": 3650,
+      "height": 3650
+    },
+    {
+      "id": 35453382688856,
+      "created_at": "2025-07-21T16:22:54-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T10:09:05-04:00",
+      "product_id": 8444637675608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_3.jpg?v=1755180545",
+      "width": 3642,
+      "height": 3642
+    },
+    {
+      "id": 35453382623320,
+      "created_at": "2025-07-21T16:22:53-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T10:08:54-04:00",
+      "product_id": 8444637675608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Coral_Dreams_2.jpg?v=1755180534",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_PX10PXL_Seashell.jpg?v=1754665475",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 7915878711343,
+  "title": "Bridgerton Lady Whistledown Heart Pillow",
+  "handle": "bridgerton-lady-whistledown-heart-pillow",
+  "body_html": "<p>Add a touch of intrigue to your décor with the <em>Bridgerton </em>Lady Whistledown Heart Pillow. This charming, heart-shaped pillow features elegant details and a nod to the mysterious gossip columnist. Perfect for fans of Regency romance, it's a stylish and cozy accent for any space!</p>\n<ul>\n<li>100% soft polyester</li>\n<li>Thickness 3\"–5\" (7.6–12.7 cm)</li>\n<li>Dimensions: 16\"x16\"</li>\n<li>Sealed without zipper</li>\n<li>Spot wash with warm water</li>\n</ul>",
+  "published_at": "2025-01-27T10:21:24-05:00",
+  "created_at": "2025-01-23T08:26:45-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Pillows",
+  "tags": [
+    "80232398",
+    "BR-01-0125",
+    "Bridgerton",
+    "CSP",
+    "Home & Office",
+    "Pillows",
+    "unisex",
+    "us only",
+    "Valentines Day"
+  ],
+  "variants": [
+    {
+      "id": 43559410761775,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BRDGTN-101791-0002-BR-VLCSP2",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7915878711343,
+      "created_at": "2025-01-23T08:26:45-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35385595396143,
+      "created_at": "2025-01-23T08:26:45-05:00",
+      "position": 1,
+      "updated_at": "2025-01-23T08:26:45-05:00",
+      "product_id": 7915878711343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-VLCSP2_50_101791_MF.jpg?v=1737638805",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35385595428911,
+      "created_at": "2025-01-23T08:26:45-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T08:26:45-05:00",
+      "product_id": 7915878711343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-VLCSP2_50_101791_LIFE2.jpg?v=1737638805",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-VLCSP2_50_101791_MF.jpg?v=1737638805",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pillows",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

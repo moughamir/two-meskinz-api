@@ -1,0 +1,68 @@
+{
+  "id": 5323934072999,
+  "title": "8 mm Cutting Dia. × 8 mm Shank Dia. × 42 mm LOC × 84 mm OAL, 7 Flute, Carbide, Polychrom, Square Endmill, Multicut XF",
+  "handle": "kf50hc184",
+  "body_html": "<br><strong>Item #: </strong>FR10P8521391<br><strong>Brand: </strong>Fraisa USA Inc<br><strong>Model #: </strong>P8521391<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>8 mm </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>7 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>8 mm </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Square </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>42 mm </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Hard Materials | </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>84 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Square Endmill </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>Multicut XF </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Polychrom </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:10:46-06:00",
+  "created_at": "2020-06-12T23:18:47-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Fraisa USA Inc",
+  "product_type": "Milling",
+  "tags": [
+    "Marking Tools - Chisels/Punches/Stamps & Fluids",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34700859310247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FR10P8521391",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "146.38",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5323934072999,
+      "created_at": "2020-06-12T23:18:48-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144014909607,
+      "created_at": "2025-01-23T22:10:54-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:10:55-06:00",
+      "product_id": 5323934072999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/frs_frs_p8521_290f_a72d909a-fa2e-4a99-9914-f68716e4bf44.jpg?v=1737691855",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 146.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/frs_frs_p8521_290f_a72d909a-fa2e-4a99-9914-f68716e4bf44.jpg?v=1737691855",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Fraisa USA Inc",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

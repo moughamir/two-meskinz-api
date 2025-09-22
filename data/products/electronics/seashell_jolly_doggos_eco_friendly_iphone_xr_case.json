@@ -1,0 +1,108 @@
+{
+  "id": 8164304748632,
+  "title": "Seashell Jolly Doggos iPhone XR Case",
+  "handle": "seashell-jolly-doggos-eco-friendly-iphone-xr-case",
+  "body_html": "<p class=\"p1\">Get ready to fetch some holiday joy with our Jolly Doggos Phone Case! Featuring a pack of playful pups decked out in their coziest holiday sweaters, this case is barking with festive fun. From wagging tails to reindeer ears, these adorable doggos are here to spread cheer while keeping your phone protected. Made with eco-friendly materials that are as kind to the planet as a puppy’s love, this case is a perfect gift for you <i>and</i> the Earth. Keep your phone safe in paws-itively cute style this season! 🐶🎁✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:08:45-04:00",
+  "created_at": "2024-10-21T14:06:05-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jolly Doggos",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345454108760,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:JOLLY-DOGGOS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164304748632,
+      "created_at": "2024-10-21T14:06:06-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832580874328,
+      "created_at": "2024-10-21T14:06:05-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:06:08-04:00",
+      "product_id": 8164304748632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IPXR_Seashell.jpg?v=1729533968",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880446271576,
+      "created_at": "2024-10-28T14:29:44-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:29:45-04:00",
+      "product_id": 8164304748632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP2_cdcc7247-21ff-4482-82b1-9fc5e478f0b2.jpg?v=1730140185",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880446402648,
+      "created_at": "2024-10-28T14:29:44-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:29:46-04:00",
+      "product_id": 8164304748632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP1_cd66aa87-693b-4436-9ef4-26ca962998da.jpg?v=1730140186",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880446500952,
+      "created_at": "2024-10-28T14:29:44-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:29:46-04:00",
+      "product_id": 8164304748632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP3_ef2649be-2ec3-4b00-99c3-3d19ca1404da.jpg?v=1730140186",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IPXR_Seashell.jpg?v=1729533968",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

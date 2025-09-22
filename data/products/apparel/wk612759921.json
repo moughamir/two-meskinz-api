@@ -1,0 +1,67 @@
+{
+  "id": 7786159702183,
+  "title": "Brand: Channellock / Part #: 968",
+  "handle": "wk612759921",
+  "body_html": "<br><strong>Item #: </strong>09450792<br><strong>Brand: </strong>Channellock<br><strong>Model #: </strong>968<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Capacity</strong>\n</td>\n<td>10 AWG solid and 12 AWG stranded wire</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Forged Wire Stripper, Cutter, Reamer</td>\n</tr>\n<tr>\n<td><strong>Minimum Wire Gauge</strong></td>\n<td>18 AWG solid and 20 AWG stranded wire</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Maximum Strip Length (Decimal Inch)</strong></td>\n<td>2.0000</td>\n</tr>\n<tr>\n<td><strong>Wire Type</strong></td>\n<td>AWG; Stranded; Solid</td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Tether Style</strong></td>\n<td>Not Tether Capable</td>\n</tr>\n<tr>\n<td><strong>Handle Style</strong></td>\n<td>Cushion</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Comfort Grips</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>7.5000</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>CHANNELLOCK? Xtreme Leverage Technology (XLT? ), it requires considerably less force to cut than traditional high leverage designs. The 968 is a 100% made in USA product with U.S. steel and comes equipped with robust, comfortable CHANNELLOCK BLUE? grips, a spring-loaded handle for easy, one-handed operation and a lock for safe storage. It strips 8-18 AWG solid, 10-20 AWG stranded wire, has a reaming head for up to 1\" conduit and cuts 6-32 and 8-32 bolts.</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>100% MADE IN USA, Limited Lifetime Warranty</td>\n</tr>\n<tr>\n<td><strong>Spring</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Jaw Width (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Wire Cutting Capacity</strong></td>\n<td>18-8 AWG Solid, 20-10 AWG Stranded</td>\n</tr>\n<tr>\n<td><strong>Tool Style</strong></td>\n<td>Wire Stripper</td>\n</tr>\n<tr>\n<td><strong>Bolt Cutting Capacity</strong></td>\n<td>8-32; 6-32</td>\n</tr>\n<tr>\n<td><strong>Jaw Width (Decimal Inch)</strong></td>\n<td>1.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:57:07-06:00",
+  "created_at": "2023-12-29T11:57:07-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Channellock",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Benders; Strippers & Crimpers"
+  ],
+  "variants": [
+    {
+      "id": 43707099087015,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09450792",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786159702183,
+      "created_at": "2023-12-29T11:57:07-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237953523879,
+      "created_at": "2025-02-03T18:30:37-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:39-06:00",
+      "product_id": 7786159702183,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0945079-21.jpg?v=1738629039",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0945079-21.jpg?v=1738629039",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Channellock",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

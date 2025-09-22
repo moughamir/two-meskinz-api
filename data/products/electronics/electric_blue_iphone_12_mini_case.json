@@ -1,0 +1,93 @@
+{
+  "id": 7582192992344,
+  "title": "Electric Blue iPhone 12 Mini Case",
+  "handle": "electric-blue-iphone-12-mini-case",
+  "body_html": "<span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-04-30T13:21:40-04:00",
+  "created_at": "2024-03-05T13:07:22-05:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 41109308571736,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16368-IP12MINI-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.00",
+      "grams": 29,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7582192992344,
+      "created_at": "2024-03-05T13:07:22-05:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32659024937048,
+      "created_at": "2024-04-18T09:50:20-04:00",
+      "position": 1,
+      "updated_at": "2024-04-18T09:50:25-04:00",
+      "product_id": 7582192992344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_ELECTRIC_BLUE_BACK.jpg?v=1713448225",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659024904280,
+      "created_at": "2024-04-18T09:50:20-04:00",
+      "position": 2,
+      "updated_at": "2024-04-18T09:50:25-04:00",
+      "product_id": 7582192992344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_ELECTRIC_BLUE_BACK_45L.jpg?v=1713448225",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659024871512,
+      "created_at": "2024-04-18T09:50:20-04:00",
+      "position": 3,
+      "updated_at": "2024-04-18T09:50:25-04:00",
+      "product_id": 7582192992344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_ELECTRIC_BLUE_BACK_45R.jpg?v=1713448225",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_ELECTRIC_BLUE_BACK.jpg?v=1713448225",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

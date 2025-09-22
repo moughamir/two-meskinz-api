@@ -1,0 +1,119 @@
+{
+  "id": 8444624535640,
+  "title": "Seashell Love Pack Google Pixel 10 Pro XL Case",
+  "handle": "seashell-love-pack-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T11:23:59-04:00",
+  "created_at": "2025-08-08T11:03:41-04:00",
+  "updated_at": "2025-09-22T15:13:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107927949400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15821-PX10PXL-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444624535640,
+      "created_at": "2025-08-08T11:03:41-04:00",
+      "updated_at": "2025-09-22T15:13:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567059402840,
+      "created_at": "2025-08-08T11:03:41-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:03:44-04:00",
+      "product_id": 8444624535640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX10PXL_Seashell.jpg?v=1754665424",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683537686616,
+      "created_at": "2025-03-13T10:06:53-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:06:55-04:00",
+      "product_id": 8444624535640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_cd17a610-63e1-4210-a38f-ee05b590c4d8.jpg?v=1741874815",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683537850456,
+      "created_at": "2025-03-13T10:06:53-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:06:55-04:00",
+      "product_id": 8444624535640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_0ce58622-3144-425c-b630-6b8cd6ca77bd.jpg?v=1741874815",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683537817688,
+      "created_at": "2025-03-13T10:06:53-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:06:55-04:00",
+      "product_id": 8444624535640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_e996a1bb-7e0b-4486-ba1c-329bd1f3a454.jpg?v=1741874815",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683537719384,
+      "created_at": "2025-03-13T10:06:53-04:00",
+      "position": 5,
+      "updated_at": "2025-03-13T10:06:55-04:00",
+      "product_id": 8444624535640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_4796f15b-68a1-43c1-8572-6d4f90acf7a2.jpg?v=1741874815",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX10PXL_Seashell.jpg?v=1754665424",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786401530023,
+  "title": "Brand: Vargus / Part #: 28101",
+  "handle": "tm1140494",
+  "body_html": "<br><strong>Item #: </strong>81687170<br><strong>Brand: </strong>Vargus<br><strong>Model #: </strong>28101<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Boring Bar Type</strong>\n</td>\n<td>Micro Boring</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (mm)</strong></td>\n<td>5.200</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Submicron</td>\n</tr>\n<tr>\n<td><strong>Maximum Bore Depth (mm)</strong></td>\n<td>21.00</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>5.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>46.0000</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>TiCN</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>0.50</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>0.0196</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:51:57-06:00",
+  "created_at": "2023-12-29T22:51:57-06:00",
+  "updated_at": "2025-09-22T10:53:25-05:00",
+  "vendor": "Vargus",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools"
+  ],
+  "variants": [
+    {
+      "id": 43707730231463,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81687170",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.06",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786401530023,
+      "created_at": "2023-12-29T22:51:57-06:00",
+      "updated_at": "2025-09-22T10:53:25-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238548754599,
+      "created_at": "2025-02-03T18:54:07-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:54:08-06:00",
+      "product_id": 7786401530023,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8527809-21_706e9b8d-cf6c-4554-b186-85284d34fa86.jpg?v=1738630448",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8527809-21_706e9b8d-cf6c-4554-b186-85284d34fa86.jpg?v=1738630448",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Vargus",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

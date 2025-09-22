@@ -1,0 +1,104 @@
+{
+  "id": 7619517677677,
+  "title": "Pura Mini",
+  "handle": "pura-mini",
+  "body_html": "<p>Pura Mini™ is an ultra-compact, sleek diffuser that delivers a personalized fragrance experience designed specifically for small, compact spaces. Its single-vial feature conserves fragrance while filling smaller spaces where odors can seem more prominent.</p>\n<p><meta charset=\"utf-8\"><i style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-stringify-type=\"italic\">This product is excluded from promos and discounts.</i></p>",
+  "published_at": "2025-04-09T16:35:47-06:00",
+  "created_at": "2025-03-13T14:53:07-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Mini",
+  "tags": [
+    "__label:New",
+    "Group_Home",
+    "Pura Mini",
+    "YCRF_homedevices",
+    "YGroup_Mini"
+  ],
+  "variants": [
+    {
+      "id": 42112085917805,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02160",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7619517677677,
+      "created_at": "2025-03-13T14:53:07-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33897216409709,
+      "created_at": "2025-03-13T15:00:28-06:00",
+      "position": 1,
+      "updated_at": "2025-03-13T15:01:47-06:00",
+      "product_id": 7619517677677,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Minionwhite.jpg?v=1741899707",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34064492953709,
+      "created_at": "2025-04-08T20:24:42-06:00",
+      "position": 2,
+      "updated_at": "2025-04-08T20:25:04-06:00",
+      "product_id": 7619517677677,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini2.png?v=1744165504",
+      "width": 2401,
+      "height": 3200
+    },
+    {
+      "id": 34064493772909,
+      "created_at": "2025-04-08T20:24:51-06:00",
+      "position": 3,
+      "updated_at": "2025-04-08T20:25:04-06:00",
+      "product_id": 7619517677677,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini3.png?v=1744165504",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34084159422573,
+      "created_at": "2025-04-11T09:56:49-06:00",
+      "position": 4,
+      "updated_at": "2025-04-11T09:56:52-06:00",
+      "product_id": 7619517677677,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini-PDP-Nightlight-ImageScroll-0525-2400x2400_bd6c5f35-05cc-4cc7-ba04-66991d350ad5.png?v=1744387012",
+      "width": 2400,
+      "height": 2400
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Minionwhite.jpg?v=1741899707",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

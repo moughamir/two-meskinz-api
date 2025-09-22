@@ -1,0 +1,98 @@
+{
+  "id": 8419727409240,
+  "title": "Forest Floor Olive Hour iPhone 13 Case",
+  "handle": "forest-floor-olive-hour-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get into your garnish era with the Olive Hour Phone Case. Whether you're a martini lover or just vibing with vintage cocktail culture, this case is the perfect pickled aesthetic. With rows of pimento-stuffed olives on skewers, it's salty, cheeky, and served with sustainable style—zero plastic, extra charm. Cheers to that. 🍸🫒</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:18:52-04:00",
+  "created_at": "2025-07-03T14:11:25-04:00",
+  "updated_at": "2025-09-22T15:13:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Olive Hour",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033223331928,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16692-IP13-FOREST-AOD:OLIVE-HOUR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419727409240,
+      "created_at": "2025-07-03T14:11:25-04:00",
+      "updated_at": "2025-09-22T15:13:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354062651480,
+      "created_at": "2025-07-03T14:11:25-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:27-04:00",
+      "product_id": 8419727409240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OLIVE-HOUR_IP13_ForestFloor.jpg?v=1751566287",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547432517720,
+      "created_at": "2025-08-05T10:05:18-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:05:18-04:00",
+      "product_id": 8419727409240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/e9782cbc444c623ae40c7ffd7a20005e_d7a54a1c-4383-4f01-8bab-6d7622096698.jpg?v=1754402718",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547432976472,
+      "created_at": "2025-08-05T10:05:20-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:05:20-04:00",
+      "product_id": 8419727409240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/5061531bd545e19e6a85a86200a1d83b_4ae3fc32-28f8-4699-a47c-730cec7fa5a2.jpg?v=1754402720",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OLIVE-HOUR_IP13_ForestFloor.jpg?v=1751566287",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786344284327,
+  "title": "Brand: Tekton / Part #: DHD91201",
+  "handle": "tm1005735",
+  "body_html": "<br><strong>Item #: </strong>75761171<br><strong>Brand: </strong>Tekton<br><strong>Model #: </strong>DHD91201<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>7.7000</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>5.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T19:58:17-06:00",
+  "created_at": "2023-12-29T19:58:17-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "Tekton",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 43707593556135,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "75761171",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786344284327,
+      "created_at": "2023-12-29T19:58:17-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238390714535,
+      "created_at": "2025-02-03T18:47:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:47:47-06:00",
+      "product_id": 7786344284327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7576117-21.jpg?v=1738630067",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7576117-21.jpg?v=1738630067",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tekton",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

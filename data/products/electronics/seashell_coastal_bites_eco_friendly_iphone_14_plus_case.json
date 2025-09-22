@@ -1,0 +1,109 @@
+{
+  "id": 8388534272088,
+  "title": "Seashell Coastal Bites iPhone 14 Plus Case",
+  "handle": "seashell-coastal-bites-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sunshine, seafood, and sips — the Coastal Bites Phone Case is serving Mediterranean vacation energy 24/7. With sardines, shrimp, olives, and wine all making an appearance, it’s basically a charcuterie board you can call your own. Perfect for snack lovers, beach dreamers, and anyone who believes life is better al fresco. ☀️🍷🍤📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:10:32-04:00",
+  "created_at": "2025-05-30T12:37:34-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coastal Bites",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918164987992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:COASTAL-BITES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388534272088,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125636137048,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:38-04:00",
+      "product_id": 8388534272088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP14PLUS_Seashell.jpg?v=1748623058",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195826831448,
+      "created_at": "2025-06-09T17:07:07-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:07:07-04:00",
+      "product_id": 8388534272088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/50176f46403a607ec189a5955511319f_1658783f-081e-44ca-b409-e6beac1dbdfa.jpg?v=1749503227",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195827355736,
+      "created_at": "2025-06-09T17:07:09-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:07:09-04:00",
+      "product_id": 8388534272088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2c8fd9ff78236ffb82d740b0d52bc957_e07e1960-9a65-48d4-bc28-bf4a363db915.jpg?v=1749503229",
+      "width": 3835,
+      "height": 3835
+    },
+    {
+      "id": 35195828011096,
+      "created_at": "2025-06-09T17:07:10-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:07:11-04:00",
+      "product_id": 8388534272088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7d736efaa0741b7b66cc849cc916f501_97dbc61d-cf47-4e93-8fa7-9ab6ff42725a.jpg?v=1749503231",
+      "width": 4336,
+      "height": 4336
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP14PLUS_Seashell.jpg?v=1748623058",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

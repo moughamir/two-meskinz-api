@@ -1,0 +1,68 @@
+{
+  "id": 7786562224295,
+  "title": "Brand: OSG / Part #: 7821088",
+  "handle": "mm75592326",
+  "body_html": "<br><strong>Item #: </strong>83112631<br><strong>Brand: </strong>OSG<br><strong>Model #: </strong>7821088<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>TNKU</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>120608</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>XP1020</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>6.55</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.80</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>78PSTW</td>\n</tr>\n<tr>\n<td><strong>Number Of Cutting Edges</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>TNKU120608ER-GM XP1020</td>\n</tr>\n<tr>\n<td><strong>Cutter Series Compatibility</strong></td>\n<td>PSTW</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>GM</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Triangle</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Thickness (mm)</strong></td>\n<td>6.5500</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiSiAlN; TiCN</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>60</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T09:12:01-06:00",
+  "created_at": "2023-12-30T09:12:01-06:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "OSG",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Drilling",
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43708479635623,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "83112631",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.26",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786562224295,
+      "created_at": "2023-12-30T09:12:01-06:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239112003751,
+      "created_at": "2025-02-03T19:20:16-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:20:18-06:00",
+      "product_id": 7786562224295,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8311327-21_195ef7ab-c4a6-4873-ba7b-ea963004f205.jpg?v=1738632018",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8311327-21_195ef7ab-c4a6-4873-ba7b-ea963004f205.jpg?v=1738632018",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OSG",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

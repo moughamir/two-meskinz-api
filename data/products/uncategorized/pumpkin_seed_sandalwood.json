@@ -1,0 +1,115 @@
+{
+  "id": 7691733925997,
+  "title": "Pumpkin Seed & Sandalwood",
+  "handle": "pumpkin-seed-sandalwood",
+  "body_html": "<p dir=\"ltr\"><span>Indulge in the warm embrace of autumn as <strong>bergamot</strong>,<strong> rose petals</strong>, and <strong>peach</strong> dance with earthy <strong>pumpkin</strong> <strong>seed</strong> before settling into a rich base of <strong>sandalwood</strong> and <strong>vanilla</strong> <strong>bourbon</strong>.</span></p>\n<p dir=\"ltr\"> </p>",
+  "published_at": "2025-08-27T09:15:52-06:00",
+  "created_at": "2025-07-21T15:30:24-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:LAFCO",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Gourmand",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42694456967277,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "UMKH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7691733925997,
+      "created_at": "2025-07-21T15:30:25-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34791789494381,
+      "created_at": "2025-07-21T15:32:01-06:00",
+      "position": 1,
+      "updated_at": "2025-07-21T15:32:04-06:00",
+      "product_id": 7691733925997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-PumpkinSeedAndSandalwood-Prod1-0525.jpg?v=1753133524",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34791789428845,
+      "created_at": "2025-07-21T15:32:01-06:00",
+      "position": 2,
+      "updated_at": "2025-07-21T15:36:36-06:00",
+      "product_id": 7691733925997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pumpkin-seeds-2_3a2e4344-be88-46ef-a796-15b400cdb2e7.jpg?v=1753133796",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34791789363309,
+      "created_at": "2025-07-21T15:32:01-06:00",
+      "position": 3,
+      "updated_at": "2025-07-21T15:36:36-06:00",
+      "product_id": 7691733925997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PumpkinSeed_Sandalwood-LAFCO-Prod3-0625.jpg?v=1753133796",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34791789527149,
+      "created_at": "2025-07-21T15:32:01-06:00",
+      "position": 4,
+      "updated_at": "2025-07-21T15:36:36-06:00",
+      "product_id": 7691733925997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-PumpkinSeedAndSandalwood-Prod4-0525-2.jpg?v=1753133796",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-PumpkinSeedAndSandalwood-Prod1-0525.jpg?v=1753133524",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

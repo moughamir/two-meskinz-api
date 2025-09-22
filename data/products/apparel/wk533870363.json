@@ -1,0 +1,67 @@
+{
+  "id": 7786237001895,
+  "title": "Brand: Alvord Polk / Part #: 03015",
+  "handle": "wk533870363",
+  "body_html": "<br><strong>Item #: </strong>43983592<br><strong>Brand: </strong>Alvord Polk<br><strong>Model #: </strong>03015<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fastener Type Compatibility</strong>\n</td>\n<td>Socket-Head Cap Screw</td>\n</tr>\n<tr>\n<td><strong>Fastener Size Compatibility (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Counterbore Diameter (Decimal Inch)</strong></td>\n<td>0.3820</td>\n</tr>\n<tr>\n<td><strong>Fastener Size Compatibility (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter</strong></td>\n<td>0.3125 in</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.3125</td>\n</tr>\n<tr>\n<td><strong>Standard/Oversize Pilot</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Aircraft Style</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Pilot Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>5-5/8</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>5.6300</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Forward</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Bright/Uncoated</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:15:13-06:00",
+  "created_at": "2023-12-29T15:15:13-06:00",
+  "updated_at": "2025-09-22T10:53:52-05:00",
+  "vendor": "Alvord Polk",
+  "product_type": "Holemaking",
+  "tags": [
+    "Counterbores & Porting Tools"
+  ],
+  "variants": [
+    {
+      "id": 43707301560487,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43983592",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.13",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786237001895,
+      "created_at": "2023-12-29T15:15:13-06:00",
+      "updated_at": "2025-09-22T10:53:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238140760231,
+      "created_at": "2025-02-03T18:37:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:37:46-06:00",
+      "product_id": 7786237001895,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_69114c5e-89d1-4026-8c05-900d4f67cc2e.png?v=1738629466",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 45.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_69114c5e-89d1-4026-8c05-900d4f67cc2e.png?v=1738629466",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Alvord Polk",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

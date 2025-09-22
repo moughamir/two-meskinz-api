@@ -1,0 +1,67 @@
+{
+  "id": 7785524330663,
+  "title": "Brand: Holemaker Technology / Part #: 101030-0170",
+  "handle": "ft8537725",
+  "body_html": "<br><strong>Item #: </strong>08368342<br><strong>Brand: </strong>Holemaker Technology<br><strong>Model #: </strong>101030-0170<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Saw Diameter (Inch)</strong>\n</td>\n<td>11/16</td>\n</tr>\n<tr>\n<td><strong>Saw Material</strong></td>\n<td>Carbide Tipped</td>\n</tr>\n<tr>\n<td><strong>Cutting Depth (Inch)</strong></td>\n<td>2-1/4</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Stainless Steel; Cast Iron; Carbon Steel; Structural Steel</td>\n</tr>\n<tr>\n<td><strong>Pitch Pattern</strong></td>\n<td>Constant</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:29:58-06:00",
+  "created_at": "2023-12-28T22:29:58-06:00",
+  "updated_at": "2025-09-22T10:55:07-05:00",
+  "vendor": "Holemaker Technology",
+  "product_type": "Saw Blades",
+  "tags": [
+    "Hole Saws & Hole-Cutting Tool Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43704290967719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08368342",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "88.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785524330663,
+      "created_at": "2023-12-28T22:29:58-06:00",
+      "updated_at": "2025-09-22T10:55:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237032218791,
+      "created_at": "2025-02-03T18:02:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:02:07-06:00",
+      "product_id": 7785524330663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0856971-21_e0c9bffa-106e-4ae7-8494-4f20ab11b9bb.jpg?v=1738627327",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 88.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0856971-21_e0c9bffa-106e-4ae7-8494-4f20ab11b9bb.jpg?v=1738627327",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Holemaker Technology",
+  "category": "Saw Blades",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7086752759917,
+  "title": "Stonehenge",
+  "handle": "stonehenge",
+  "body_html": "<p>Create an atmosphere of magic and mystery inspired by the alluring scenery of Stonehenge with notes of <strong>smoked cedar</strong>, <strong>bergamot</strong>, and <strong>amber</strong>.</p>",
+  "published_at": "2023-10-16T09:44:37-06:00",
+  "created_at": "2023-09-19T13:55:30-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Archipelago",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:Archipelago",
+    "collection:New Arrivals",
+    "discount_20",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40731779170413,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SAOH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7086752759917,
+      "created_at": "2023-09-19T13:55:30-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30809219629165,
+      "created_at": "2023-12-04T17:23:27-07:00",
+      "position": 1,
+      "updated_at": "2023-12-04T17:23:40-07:00",
+      "product_id": 7086752759917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-stonehenge-Vertical--resized.jpg?v=1701735820",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30496889798765,
+      "created_at": "2023-09-19T13:57:41-06:00",
+      "position": 2,
+      "updated_at": "2023-12-04T17:23:40-07:00",
+      "product_id": 7086752759917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cedarwoodingredients-resized_-4.jpg?v=1701735820",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30496889733229,
+      "created_at": "2023-09-19T13:57:41-06:00",
+      "position": 3,
+      "updated_at": "2023-12-04T17:23:40-07:00",
+      "product_id": 7086752759917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PUR23011-stonehenge-device-4resized.jpg?v=1701735820",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30809219596397,
+      "created_at": "2023-12-04T17:23:27-07:00",
+      "position": 4,
+      "updated_at": "2023-12-04T17:23:28-07:00",
+      "product_id": 7086752759917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-stonehenge-Overhead-Shadow--resized.jpg?v=1701735808",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-stonehenge-Vertical--resized.jpg?v=1701735820",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Archipelago",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

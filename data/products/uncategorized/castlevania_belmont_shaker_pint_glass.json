@@ -1,0 +1,105 @@
+{
+  "id": 7838926503983,
+  "title": "Castlevania Belmont Crest Pint Glass",
+  "handle": "castlevania-belmont-shaker-pint-glass",
+  "body_html": "<p>Raise a toast to the epic battles of <em>Castlevania </em>with the Belmont Crest Pint Glass, a must-have for any fan of the legendary vampire hunters. Adorned with the iconic Belmont family crest, this glass captures the spirit of heroic quests and dark adventures. Perfect for enjoying your favorite drink while channeling the strength and courage of the Belmont clan!</p>\n<ul>\n<li>Glass material</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>\n<p><br></p>",
+  "published_at": "2024-10-14T13:40:08-04:00",
+  "created_at": "2024-09-23T04:09:18-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "80095339",
+    "Castlevania",
+    "Drinking Glasses",
+    "Drinkware",
+    "Father's Day",
+    "glass",
+    "Glasseware",
+    "glassware",
+    "Home & Office",
+    "home and office",
+    "new",
+    "NF-19-0924",
+    "Promo Eligible Collection"
+  ],
+  "variants": [
+    {
+      "id": 43259008221231,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "CV-101667-0001-CVN-BCRST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34696809807919,
+        "product_id": 7838926503983,
+        "position": 1,
+        "created_at": "2024-09-23T04:09:18-04:00",
+        "updated_at": "2024-09-23T04:09:18-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CVN-BCRST_101667_FT_MF.jpg?v=1727078958",
+        "variant_ids": [
+          43259008221231
+        ]
+      },
+      "available": true,
+      "price": "26.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838926503983,
+      "created_at": "2024-09-23T04:09:19-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34696809807919,
+      "created_at": "2024-09-23T04:09:18-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T04:09:18-04:00",
+      "product_id": 7838926503983,
+      "variant_ids": [
+        43259008221231
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CVN-BCRST_101667_FT_MF.jpg?v=1727078958",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696809840687,
+      "created_at": "2024-09-23T04:09:19-04:00",
+      "position": 2,
+      "updated_at": "2024-09-23T04:09:19-04:00",
+      "product_id": 7838926503983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CVN-BCRST_101667_BK_MF.jpg?v=1727078959",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 26.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CVN-BCRST_101667_FT_MF.jpg?v=1727078958",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5326959476903,
+  "title": "‎1/4-4FL FUSION-SE-XLG 1-1/2x4 AlTiCrN",
+  "handle": "jr52691p",
+  "body_html": "<br><strong>Item #: </strong>MW21284000125<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>284-000125<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Stainless Steel | Cast Iron | Hard Materials | Super-Alloys / Titanium | </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Slotting | Profiling | Rampdown | Profile Cutting | </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>‎1-1/2″ </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>C-2 Sub-Micron </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>4″ </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>Extra Long </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Solid Tungsten Carbide </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.25″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>AlTiCrN </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>284 </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>Variable </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Square </td>\n</tr>\n<tr>\n<td><strong>Center Cutting</strong></td>\n<td>Yes </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:16:20-06:00",
+  "created_at": "2020-06-13T15:26:42-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Milling",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34708372881575,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW21284000125",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.68",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5326959476903,
+      "created_at": "2020-06-13T15:26:42-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144130187431,
+      "created_at": "2025-01-23T22:16:29-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:16:31-06:00",
+      "product_id": 5326959476903,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0516745.png?v=1737692191",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.68,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0516745.png?v=1737692191",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

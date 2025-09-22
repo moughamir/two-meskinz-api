@@ -1,0 +1,67 @@
+{
+  "id": 7785418424487,
+  "title": "Brand: Vargus / Part #: 66002",
+  "handle": "wk534156643",
+  "body_html": "<br><strong>Item #: </strong>88215850<br><strong>Brand: </strong>Vargus<br><strong>Model #: </strong>66002<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Type</strong>\n</td>\n<td>External</td>\n</tr>\n<tr>\n<td><strong>Hand of Holder</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Compatible Insert Size Code</strong></td>\n<td>3ER</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (mm)</strong></td>\n<td>12.70</td>\n</tr>\n<tr>\n<td><strong>Shank Width/Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>MACH TT</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Shank Height (mm)</strong></td>\n<td>12.70</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>59.940</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>2.3600</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>82.6000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.2520</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>MACH TT</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Adjustable Overhang</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Toolholder Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:30:45-06:00",
+  "created_at": "2023-12-28T20:30:45-06:00",
+  "updated_at": "2025-09-22T10:55:19-05:00",
+  "vendor": "Vargus",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Threading"
+  ],
+  "variants": [
+    {
+      "id": 43703797809319,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "88215850",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "95.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785418424487,
+      "created_at": "2023-12-28T20:30:45-06:00",
+      "updated_at": "2025-09-22T10:55:19-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236895019175,
+      "created_at": "2025-02-03T17:57:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:57:30-06:00",
+      "product_id": 7785418424487,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8821683-21_8f1f8766-8575-49b3-9533-04ed2f939689.jpg?v=1738627050",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 95.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8821683-21_8f1f8766-8575-49b3-9533-04ed2f939689.jpg?v=1738627050",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Vargus",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

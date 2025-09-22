@@ -1,0 +1,67 @@
+{
+  "id": 7785874784423,
+  "title": "Brand: Made in USA / Part #: KPRV208FNC",
+  "handle": "mt2643188",
+  "body_html": "<br><strong>Item #: </strong>70100813<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>KPRV208FNC<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Knurl Shape</strong>\n</td>\n<td>Convex</td>\n</tr>\n<tr>\n<td><strong>Tooth Pattern</strong></td>\n<td>Diagonal</td>\n</tr>\n<tr>\n<td><strong>Pattern</strong></td>\n<td>Right-Hand Diagonal</td>\n</tr>\n<tr>\n<td><strong>Form Or Cut Type</strong></td>\n<td>Form</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Cobalt</td>\n</tr>\n<tr>\n<td><strong>Knurl Diameter (Decimal Inch)</strong></td>\n<td>0.7500</td>\n</tr>\n<tr>\n<td><strong>Knurl Diameter (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Face Width (Inch)</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Face Width (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Pitch System</strong></td>\n<td>Circular</td>\n</tr>\n<tr>\n<td><strong>Pitch (TPI)</strong></td>\n<td>8</td>\n</tr>\n<tr>\n<td><strong>Included Tooth Angle</strong></td>\n<td>90</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Ferritic Nitrocarburized</td>\n</tr>\n<tr>\n<td><strong>Knurl Series</strong></td>\n<td>KPV</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:16:29-06:00",
+  "created_at": "2023-12-29T05:16:29-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Knurling Tools"
+  ],
+  "variants": [
+    {
+      "id": 43705714016423,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "70100813",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "67.73",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785874784423,
+      "created_at": "2023-12-29T05:16:29-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237487792295,
+      "created_at": "2025-02-03T18:17:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:17:07-06:00",
+      "product_id": 7785874784423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7010041-21_4fa142fd-e0eb-4feb-9063-0dcd6dd8599b.jpg?v=1738628227",
+      "width": 600,
+      "height": 514
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 67.73,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7010041-21_4fa142fd-e0eb-4feb-9063-0dcd6dd8599b.jpg?v=1738628227",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 8088983109720,
+  "title": "London Fog Jelly Party iPhone 13 Pro Max Case",
+  "handle": "london-fog-jelly-party-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p class=\"p1\">Dive into a sea of vibrant colors with the Jelly Party Phone Case! 🦑 This lively design features an array of jellyfish floating gracefully against a soft backdrop. Whether you’re an ocean lover or just someone who enjoys a splash of fun in their life, this case is sure to make waves. Protect your phone while celebrating the beauty of the deep blue—perfect for those who want to keep their phone as fresh and lively as a jellyfish bloom! 🌊✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-22T09:36:03-04:00",
+  "created_at": "2024-08-14T10:28:50-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Jelly Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42169000296536,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16830-IP13PMAX-LFOG-AOD:JELLY-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088983109720,
+      "created_at": "2024-08-14T10:28:50-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33475982622808,
+      "created_at": "2024-08-14T10:28:50-04:00",
+      "position": 1,
+      "updated_at": "2024-08-14T10:28:50-04:00",
+      "product_id": 8088983109720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JELLY-PARTY_IP13PMAX_LondonFog.jpg?v=1723645730",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516494749784,
+      "created_at": "2024-08-22T12:40:49-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:40:52-04:00",
+      "product_id": 8088983109720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_JellyParty_6cb3bd02-cdc5-4792-9e1f-4b238a1b8d81.jpg?v=1724344852",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JELLY-PARTY_IP13PMAX_LondonFog.jpg?v=1723645730",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

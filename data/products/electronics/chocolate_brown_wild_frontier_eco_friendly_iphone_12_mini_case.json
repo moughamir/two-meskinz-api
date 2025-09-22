@@ -1,0 +1,97 @@
+{
+  "id": 8307896615000,
+  "title": "Chocolate Brown Wild Frontier iPhone 12 Mini Case",
+  "handle": "chocolate-brown-wild-frontier-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—<em data-start=\"59\" data-end=\"74\">Wild Frontier Phone Case</em> is taking you straight to the dusty trails of the Old West! <meta charset=\"utf-8\">🌵🐎 Featuring vintage-style sketches of bucking broncos, cowboys, cacti, and longhorn skulls, this case is made for those who live for open ranges and untamed adventures. Whether you're a rodeo rider or just love a little western grit, this design brings classic cowboy energy right to your pocket.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-03T09:11:40-04:00",
+  "created_at": "2025-03-07T11:11:05-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Wild Frontier",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718294540376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16385-IP12MINI-CHOBROWN-AOD:WILD-FRONTIER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307896615000,
+      "created_at": "2025-03-07T11:11:05-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655147622488,
+      "created_at": "2025-03-07T11:11:05-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T11:11:08-05:00",
+      "product_id": 8307896615000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FRONTIER_IP12MINI_ChocolateBrown.jpg?v=1741363868",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34769026809944,
+      "created_at": "2025-03-31T11:33:10-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T11:33:13-04:00",
+      "product_id": 8307896615000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WildFrontier_PDP_02_fb56a796-e2b9-4947-a573-646d6d785503.jpg?v=1743435193",
+      "width": 3460,
+      "height": 4325
+    },
+    {
+      "id": 34769026777176,
+      "created_at": "2025-03-31T11:33:10-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T11:33:13-04:00",
+      "product_id": 8307896615000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WildFrontier_PDP_03_49d0f593-6031-4852-a00d-f4337c836362.jpg?v=1743435193",
+      "width": 3280,
+      "height": 4100
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FRONTIER_IP12MINI_ChocolateBrown.jpg?v=1741363868",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

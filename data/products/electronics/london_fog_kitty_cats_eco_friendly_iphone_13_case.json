@@ -1,0 +1,86 @@
+{
+  "id": 6807725244504,
+  "title": "London Fog Kitty Cats iPhone 13 Case",
+  "handle": "london-fog-kitty-cats-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Say hello to the purr-fect accessory for cat lovers! The Kitty Cats Phone Case is a whimsical celebration of our feline friends, featuring a delightful array of cat illustrations in various playful poses. From curious kittens to lounging tabbies, this case captures the diverse personalities of cats in a charming and fun design. It's the ideal way to showcase your love for these furry companions while adding a touch of cuteness to your device. Whether you're a proud cat parent or simply adore cats, the Kitty Cats Phone Case is a must-have for your collection! 🐾</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T13:47:30-05:00",
+  "created_at": "2021-10-05T10:08:50-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Cats & Dogs",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Kitty Cats",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39660391694424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16690-IP13-LFOG-AOD:KITTY-CATS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6807725244504,
+      "created_at": "2021-10-05T10:08:51-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116373815384,
+      "created_at": "2024-01-23T13:42:46-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:42:46-05:00",
+      "product_id": 6807725244504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/KITTY-CATS_IP13_LondonFog_7d6b245e-c311-41f3-9b3a-b4aa067b4b7f.jpg?v=1706035366",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28772911644760,
+      "created_at": "2021-10-05T10:41:05-04:00",
+      "position": 2,
+      "updated_at": "2021-10-05T10:41:06-04:00",
+      "product_id": 6807725244504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CATS_DOGSSQ-5995_201deff7-78ec-435e-bfba-25861a1638e1.jpg?v=1633444866",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/KITTY-CATS_IP13_LondonFog_7d6b245e-c311-41f3-9b3a-b4aa067b4b7f.jpg?v=1706035366",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

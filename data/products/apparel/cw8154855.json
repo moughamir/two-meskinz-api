@@ -1,0 +1,67 @@
+{
+  "id": 7785369567399,
+  "title": "Brand: Titan USA / Part #: TC84520",
+  "handle": "cw8154855",
+  "body_html": "<br><strong>Item #: </strong>87723094<br><strong>Brand: </strong>Titan USA<br><strong>Model #: </strong>TC84520<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Thread Size (mm)</strong></td>\n<td>M4x0.7</td>\n</tr>\n<tr>\n<td><strong>Thread Depth</strong></td>\n<td>0.25</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal/External</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (Decimal Inch)</strong></td>\n<td>0.1150</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Minimum Nominal Diameter (mm)</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>1.7500</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Thread Length (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:07:19-06:00",
+  "created_at": "2023-12-28T19:07:20-06:00",
+  "updated_at": "2025-09-22T10:55:34-05:00",
+  "vendor": "Titan USA",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703695442087,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87723094",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.73",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785369567399,
+      "created_at": "2023-12-28T19:07:20-06:00",
+      "updated_at": "2025-09-22T10:55:34-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236802384039,
+      "created_at": "2025-02-03T17:54:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:54:31-06:00",
+      "product_id": 7785369567399,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8772309-21_537daf4b-9155-43c8-934b-2e68be33ae1b.jpg?v=1738626871",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100.73,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8772309-21_537daf4b-9155-43c8-934b-2e68be33ae1b.jpg?v=1738626871",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Titan USA",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786220814503,
+  "title": "Brand: Value Collection / Part #: EBSOS-1032-18",
+  "handle": "ff87a31646318",
+  "body_html": "<br><strong>Item #: </strong>43271550<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>EBSOS-1032-18<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Type</strong>\n</td>\n<td>Female</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>#10-32</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>0.5620</td>\n</tr>\n<tr>\n<td><strong>Width Across Flats (Decimal Inch)</strong></td>\n<td>0.3120</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>0.562 in</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Passivated</td>\n</tr>\n<tr>\n<td><strong>Body Length (Decimal Inch)</strong></td>\n<td>0.5620</td>\n</tr>\n<tr>\n<td><strong>Body Shape</strong></td>\n<td>Hex</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Inch</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>303</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Passivated</td>\n</tr>\n<tr>\n<td><strong>Fastening Method</strong></td>\n<td>Self Clinching with Blind Hole</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T14:41:49-06:00",
+  "created_at": "2023-12-29T14:41:49-06:00",
+  "updated_at": "2025-09-22T10:53:55-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Fasteners",
+  "tags": [
+    "Circuit Board Fasteners"
+  ],
+  "variants": [
+    {
+      "id": 43707255849127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43271550",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "46.42",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786220814503,
+      "created_at": "2023-12-29T14:41:50-06:00",
+      "updated_at": "2025-09-22T10:53:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238110548135,
+      "created_at": "2025-02-03T18:36:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:36:35-06:00",
+      "product_id": 7786220814503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4326978-21_b53db325-2af6-434a-8d05-bb4d7f7931ca.jpg?v=1738629395",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46.42,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4326978-21_b53db325-2af6-434a-8d05-bb4d7f7931ca.jpg?v=1738629395",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8278270902360,
+  "title": "Seashell Giraffe Samsung Galaxy S23+(Plus) Case",
+  "handle": "seashell-giraffe-eco-friendly-samsung-galaxy-s23-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Stand Tall, Stay Wild! Take your phone on a safari adventure with the Giraffe Phone Case! Inspired by the majestic beauty of the tallest land animal, this design features a bold giraffe print that brings a wild touch to your everyday essentials.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:19:12-05:00",
+  "created_at": "2025-02-04T10:20:44-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Giraffe",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642241257560,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13755-S23PLUS-SEASHELL-AOD:GIRAFFE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278270902360,
+      "created_at": "2025-02-04T10:20:44-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454008103000,
+      "created_at": "2025-02-04T10:20:44-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:20:47-05:00",
+      "product_id": 8278270902360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIRAFFE_S23PLUS_Seashell.jpg?v=1738682447",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572269289560,
+      "created_at": "2025-02-20T17:26:29-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T17:26:30-05:00",
+      "product_id": 8278270902360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_4843dd56-7fcd-4996-9918-f34b53f16713.jpg?v=1740090390",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572269322328,
+      "created_at": "2025-02-20T17:26:29-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T17:26:30-05:00",
+      "product_id": 8278270902360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_3d01f3f6-8eef-4ab9-b31a-44b04cc861d7.jpg?v=1740090390",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIRAFFE_S23PLUS_Seashell.jpg?v=1738682447",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8310735175768,
+  "title": "Seashell Full Bloom Google Pixel 9a Case",
+  "handle": "seashell-full-bloom-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p>Add a touch of nature to your phone with our Seashell Full Bloom Phone Case. The vibrant yellow and subtle pink flowers convey a sense of beauty that will surely make your device stand out. Plus, it's sure to bring a smile to your face every time you use it!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T09:30:10-04:00",
+  "created_at": "2025-03-11T12:32:05-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Full Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726127206488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:FULL-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310735175768,
+      "created_at": "2025-03-11T12:32:06-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671287074904,
+      "created_at": "2025-03-11T12:32:05-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:07-04:00",
+      "product_id": 8310735175768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_PX9A_Seashell.jpg?v=1741710727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676835778648,
+      "created_at": "2025-03-12T10:34:25-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T10:34:30-04:00",
+      "product_id": 8310735175768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-18_45f01ec2-79e1-45f9-9dce-357314c01618.jpg?v=1741790070",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676835582040,
+      "created_at": "2025-03-12T10:34:25-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T10:34:30-04:00",
+      "product_id": 8310735175768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-01_c6e14381-ac93-462b-a709-c757af6a06c2.jpg?v=1741790070",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676835680344,
+      "created_at": "2025-03-12T10:34:25-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T10:34:30-04:00",
+      "product_id": 8310735175768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-08_d434aa9b-f9cf-425e-883e-084d4557e580.jpg?v=1741790070",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_PX9A_Seashell.jpg?v=1741710727",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

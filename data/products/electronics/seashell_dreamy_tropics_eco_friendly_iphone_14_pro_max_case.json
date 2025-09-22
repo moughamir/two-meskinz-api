@@ -1,0 +1,109 @@
+{
+  "id": 8406068035672,
+  "title": "Seashell Dreamy Tropics iPhone 14 Pro Max Case",
+  "handle": "seashell-dreamy-tropics-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet the Dreamy Tropics Phone Case — your daily dose of vacation vibes, no flight required. 🌴🌺🌞 With lush palms, whimsical leaves, and sun-drenched hues, this case brings breezy jungle magic straight to your fingertips.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-10T09:05:13-04:00",
+  "created_at": "2025-06-17T14:37:03-04:00",
+  "updated_at": "2025-09-22T15:13:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Tropical Plants",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dreamy Tropics",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42990978990168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:DREAMY-TROPICS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8406068035672,
+      "created_at": "2025-06-17T14:37:04-04:00",
+      "updated_at": "2025-09-22T15:13:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35241707470936,
+      "created_at": "2025-06-17T14:37:03-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T14:37:06-04:00",
+      "product_id": 8406068035672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DREAMY-TROPICS_IP14PMAX_Seashell.jpg?v=1750185426",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359240290392,
+      "created_at": "2025-07-04T14:11:27-04:00",
+      "position": 2,
+      "updated_at": "2025-07-04T14:11:27-04:00",
+      "product_id": 8406068035672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a1250fef5f70b6a94ab30cab351d3a65_e20888da-5baf-4fa1-8eaf-522fd9aaecbc.jpg?v=1751652687",
+      "width": 4334,
+      "height": 4334
+    },
+    {
+      "id": 35359240618072,
+      "created_at": "2025-07-04T14:11:29-04:00",
+      "position": 3,
+      "updated_at": "2025-07-04T14:11:29-04:00",
+      "product_id": 8406068035672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ba65dfe12c94a99d849ed874a9cd6401_cd328bae-ff9f-4edd-b337-61653d6cae3a.jpg?v=1751652689",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359240945752,
+      "created_at": "2025-07-04T14:11:31-04:00",
+      "position": 4,
+      "updated_at": "2025-07-04T14:11:31-04:00",
+      "product_id": 8406068035672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8eff27cab364208b36646ca514de4f4c_f3bf81e5-fd38-471f-ac71-9bba48263282.jpg?v=1751652691",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DREAMY-TROPICS_IP14PMAX_Seashell.jpg?v=1750185426",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

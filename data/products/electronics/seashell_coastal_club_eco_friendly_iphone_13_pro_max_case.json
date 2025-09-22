@@ -1,0 +1,109 @@
+{
+  "id": 8359093108824,
+  "title": "Seashell Coastal Club iPhone 13 Pro Max Case",
+  "handle": "seashell-coastal-club-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to vibe like it’s vacay every day with the Coastal Club Phone Case! ☀️🍹 This beachy beauty is decked out in doodles of palm trees, parasols, cocktails, bikinis, and more—basically everything you’d pack for your dream seaside escape. Whether you're soaking up sun or just wish you were, this case brings the beach party straight to your pocket. SPF not included. 😎🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:55:54-04:00",
+  "created_at": "2025-04-28T09:44:22-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coastal Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846497570904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:COASTAL-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359093108824,
+      "created_at": "2025-04-28T09:44:22-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914295545944,
+      "created_at": "2025-04-28T09:44:22-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:24-04:00",
+      "product_id": 8359093108824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_IP13PMAX_Seashell.jpg?v=1745847864",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010488926296,
+      "created_at": "2025-05-13T06:24:04-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:24:11-04:00",
+      "product_id": 8359093108824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_01_a402aae2-395c-4a17-9d84-96eb656dd5c5.jpg?v=1747131851",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010488991832,
+      "created_at": "2025-05-13T06:24:04-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T06:24:11-04:00",
+      "product_id": 8359093108824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_02_17cc672f-095c-4a16-8d5e-8e70f48e0f48.jpg?v=1747131851",
+      "width": 1088,
+      "height": 1088
+    },
+    {
+      "id": 35010488959064,
+      "created_at": "2025-05-13T06:24:04-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T06:24:11-04:00",
+      "product_id": 8359093108824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_03_ace3ebc0-fe42-4ea4-815d-11654c2ef345.jpg?v=1747131851",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_IP13PMAX_Seashell.jpg?v=1745847864",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

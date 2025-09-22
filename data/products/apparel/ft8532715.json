@@ -1,0 +1,67 @@
+{
+  "id": 7785574498471,
+  "title": "Brand: Wiha / Part #: 32619",
+  "handle": "ft8532715",
+  "body_html": "<br><strong>Item #: </strong>31054307<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>32619<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Plier Type Included</strong>\n</td>\n<td>Assortment</td>\n</tr>\n<tr>\n<td><strong>Set Type</strong></td>\n<td>Plier Set</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Vinyl Pouch</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>12 in</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Vinyl</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Wiha 32635 - Classic Grip V-Jaw Tongue and Groove Pliers 10.25\" (OAL 10.25?); Wiha 32637 - Classic Auto Grip V-Jaw Tongue and Groove Pliers 10\" (OAL 10.0?)</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Tether Style</strong></td>\n<td>Not Tether Capable</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Jaw Type</strong></td>\n<td>V-Jaw; Adjustable</td>\n</tr>\n<tr>\n<td><strong>Handle Color</strong></td>\n<td>Red</td>\n</tr>\n<tr>\n<td><strong>Tool Style</strong></td>\n<td>Adustable</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:04:08-06:00",
+  "created_at": "2023-12-28T23:04:08-06:00",
+  "updated_at": "2025-09-22T10:55:05-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Pliers; Plier Sets & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43704585715879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "31054307",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "87.10",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785574498471,
+      "created_at": "2023-12-28T23:04:08-06:00",
+      "updated_at": "2025-09-22T10:55:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237068525735,
+      "created_at": "2025-02-03T18:03:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:03:28-06:00",
+      "product_id": 7785574498471,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3105430-21.jpg?v=1738627408",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 87.1,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3105430-21.jpg?v=1738627408",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

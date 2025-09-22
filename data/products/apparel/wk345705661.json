@@ -1,0 +1,67 @@
+{
+  "id": 7785296298151,
+  "title": "Brand: Widia / Part #: 5564347",
+  "handle": "wk345705661",
+  "body_html": "<br><strong>Item #: </strong>98777592<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>5564347<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Hand of Holder</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Compatible Insert Size Code</strong></td>\n<td>43.</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>DVJNR</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Negative</td>\n</tr>\n<tr>\n<td><strong>Rake Angle</strong></td>\n<td>-9 (Axial);-5 (Radial)</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Lead Angle</strong></td>\n<td>93.000</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Shank Width (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Width (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Insert Compatibility</strong></td>\n<td>VN..43.</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Height (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>DVJN</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Cutting Tool Application</strong></td>\n<td>Copying; Turning</td>\n</tr>\n<tr>\n<td><strong>Head Length (Decimal Inch)</strong></td>\n<td>2.1500</td>\n</tr>\n<tr>\n<td><strong>Back of Bar to Cutting Edge (Inch)</strong></td>\n<td>1-1/4</td>\n</tr>\n<tr>\n<td><strong>Back of Bar to Cutting Edge (Decimal Inch)</strong></td>\n<td>1.2500</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Universal</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Insert Width (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Insert Width (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Toolholder Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>DVJNR164DKC3</td>\n</tr>\n<tr>\n<td><strong>Complete Insert Compatibility</strong></td>\n<td>VN..</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Decimal Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:38:54-06:00",
+  "created_at": "2023-12-28T16:38:54-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 43703566434471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98777592",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "109.93",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785296298151,
+      "created_at": "2023-12-28T16:38:54-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236646342823,
+      "created_at": "2025-02-03T17:49:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:20-06:00",
+      "product_id": 7785296298151,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9877741-21_c8b7469c-f787-4330-aade-155b70c4d022.jpg?v=1738626560",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 109.93,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9877741-21_c8b7469c-f787-4330-aade-155b70c4d022.jpg?v=1738626560",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

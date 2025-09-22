@@ -1,0 +1,67 @@
+{
+  "id": 8452800643239,
+  "title": "Top Plate Casters; Mount Type: Plate; Number of Wheels: 1.000; Wheel Diameter (Inch): 5; Wheel Material: Rubber; Wheel Width (Inch): 1-1/4; Wheel Color: Gray",
+  "handle": "90975426",
+  "body_html": "<br><strong>Item #: </strong>93486678<br><strong>Brand: </strong>Blickle<br><strong>Model #: </strong>913605<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Mount Type</strong>\n</td>\n<td>Plate</td>\n</tr>\n<tr> <td> <strong>Number of Wheels</strong>\n</td>\n<td>1.000</td>\n</tr>\n<tr> <td> <strong>Wheel Diameter (Inch)</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>Wheel Material</strong>\n</td>\n<td>Rubber</td>\n</tr>\n<tr> <td> <strong>Wheel Width (Inch)</strong>\n</td>\n<td>1-1/4</td>\n</tr>\n<tr> <td> <strong>Wheel Color</strong>\n</td>\n<td>Gray</td>\n</tr>\n<tr> <td> <strong>For Surface Type</strong>\n</td>\n<td>Linoleum; Tile; Carpet; Concrete; Hardwood; Steel; Track</td>\n</tr>\n<tr> <td> <strong>Brake/Locking Style</strong>\n</td>\n<td>No Brake</td>\n</tr>\n<tr> <td> <strong>Bearing Seal Type</strong>\n</td>\n<td>Sealed</td>\n</tr>\n<tr> <td> <strong>Wheel Bearing Type</strong>\n</td>\n<td>Ball</td>\n</tr>\n<tr> <td> <strong>Bearing Type</strong>\n</td>\n<td>Precision Ball</td>\n</tr>\n<tr> <td> <strong>Swivel Construction</strong>\n</td>\n<td>Kingpin Swivel</td>\n</tr>\n<tr> <td> <strong>Plate Size (Inch)</strong>\n</td>\n<td>3-5/8 x 2-1/2</td>\n</tr>\n<tr> <td> <strong>Overall Height (Inch)</strong>\n</td>\n<td>6-5/16</td>\n</tr>\n<tr> <td> <strong>Load Capacity</strong>\n</td>\n<td>120</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31162701</td>\n</tr>\n<tr> <td> <strong>Wheel Hardness Rating</strong>\n</td>\n<td>85¬†Shore¬†A</td>\n</tr>\n<tr> <td> <strong>Mount</strong>\n</td>\n<td>Top Plate</td>\n</tr>\n<tr> <td> <strong>Style</strong>\n</td>\n<td>Rigid</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>Germany</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T18:02:54-06:00",
+  "created_at": "2025-01-23T18:02:52-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Blickle",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 46499132768423,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "93486678",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452800643239,
+      "created_at": "2025-01-23T18:02:52-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38253837975719,
+      "created_at": "2025-02-04T04:05:30-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T04:05:31-06:00",
+      "product_id": 8452800643239,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9348667-21.jpg?v=1738663531",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9348667-21.jpg?v=1738663531",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Blickle",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7370326343768,
+  "title": "London Fog Jumbo iPhone 13 Pro Case",
+  "handle": "london-fog-jumbo-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Embrace nature's gentle giants with the Pela Jumbo Phone Case. Adorned with etchings of serene elephants amidst a forest of delicate foliage, this case is a peaceful pocket-sized tribute to the wild. It transforms your phone into an ode to the gentle and the strong. The Pela Jumbo is more than a protective shell; it's a call to mindfulness, a reminder to carry the quiet majesty of nature with you through the concrete jungle. Let your phone be a beacon of calm in the chaos of daily life! 🐘🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-10T10:44:34-04:00",
+  "created_at": "2023-07-27T14:52:16-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Elephant Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jumbo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249088802904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16760-IP13P-LFOG-AOD:JUMBO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370326343768,
+      "created_at": "2023-07-27T14:52:16-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330732740696,
+      "created_at": "2023-07-27T14:52:16-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T14:52:16-04:00",
+      "product_id": 7370326343768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUMBO_IP13P_LondonFog.jpg?v=1690483936",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332665004120,
+      "created_at": "2023-07-31T14:39:32-04:00",
+      "position": 2,
+      "updated_at": "2023-07-31T14:39:34-04:00",
+      "product_id": 7370326343768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday_7be92a38-133b-4675-bd57-4a710ca88497.jpg?v=1690828774",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332664971352,
+      "created_at": "2023-07-31T14:39:32-04:00",
+      "position": 3,
+      "updated_at": "2023-07-31T14:39:33-04:00",
+      "product_id": 7370326343768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday5_fb2a9345-76fd-4524-a8e8-b64fb1d5cd9d.jpg?v=1690828773",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335813320792,
+      "created_at": "2023-08-03T10:21:32-04:00",
+      "position": 4,
+      "updated_at": "2023-08-03T10:21:34-04:00",
+      "product_id": 7370326343768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1262_797d905d-82dd-495c-9ed7-91e908c7018a.jpg?v=1691072494",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335813288024,
+      "created_at": "2023-08-03T10:21:32-04:00",
+      "position": 5,
+      "updated_at": "2023-08-03T10:21:33-04:00",
+      "product_id": 7370326343768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1240_be90f1b8-7c9b-4df1-8851-6991895418dc.jpg?v=1691072493",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUMBO_IP13P_LondonFog.jpg?v=1690483936",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

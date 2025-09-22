@@ -1,0 +1,68 @@
+{
+  "id": 5322614702247,
+  "title": "Square End Mill; 20 mm Dia. × 38 mm LOC × 20 mm Shank Dia. × 104 mm OAL ; 8 FL ; Carbide ; AlTiN ; Series 1827A",
+  "handle": "kn5426331",
+  "body_html": "<br><strong>Item #: </strong>ER4518051<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>1827A.020<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>20 mm </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Square </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>20 mm </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Roughing | </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>38 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Standard Length </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>104 mm </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>Regular </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>AlTiN </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.7874″ </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>8 </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>HA </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>1827A </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:28:16-06:00",
+  "created_at": "2020-06-12T16:06:14-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Milling",
+  "tags": [
+    "Screwdrivers; Nutdrivers & Hex Keys",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34696743813287,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4518051",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "656.88",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322614702247,
+      "created_at": "2020-06-12T16:06:14-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143078793383,
+      "created_at": "2025-01-23T21:28:24-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:28:26-06:00",
+      "product_id": 5322614702247,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_12194_1827A_90b1_ae26c891-9c4f-485e-a95c-7ebeca392634.jpg?v=1737689306",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 656.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_12194_1827A_90b1_ae26c891-9c4f-485e-a95c-7ebeca392634.jpg?v=1737689306",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

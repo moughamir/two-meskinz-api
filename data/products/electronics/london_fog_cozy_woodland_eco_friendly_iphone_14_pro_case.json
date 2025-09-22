@@ -1,0 +1,121 @@
+{
+  "id": 8159695503448,
+  "title": "London Fog Cozy Woodland iPhone 14 Pro Case",
+  "handle": "london-fog-cozy-woodland-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p class=\"p1\">Step into a winter wonderland with the Pela Cozy Woodland Phone Case! 🌲❄️ Featuring charming green sketches of woodland creatures, stars, bows, reindeer, and holiday treats, this case brings cozy vibes straight to your phone. Lightweight, durable, and full of holiday magic, this case will keep your phone safe while spreading seasonal cheer!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:20:46-04:00",
+  "created_at": "2024-10-16T10:40:49-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Cozy Woodland",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333273882712,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16800-IP14P-LFOG-AOD:COZY-WOODLAND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159695503448,
+      "created_at": "2024-10-16T10:40:49-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799056982104,
+      "created_at": "2024-10-16T10:40:49-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:49-04:00",
+      "product_id": 8159695503448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP14P_LondonFog.jpg?v=1729089649",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838834155608,
+      "created_at": "2024-10-22T12:08:18-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T12:08:20-04:00",
+      "product_id": 8159695503448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP1_2d3f76f1-0d05-4379-8542-21653e301f20.jpg?v=1729613300",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838834057304,
+      "created_at": "2024-10-22T12:08:18-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T12:08:20-04:00",
+      "product_id": 8159695503448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP2_492fb2c3-ba6f-418a-821a-92872e9ef30b.jpg?v=1729613300",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838834090072,
+      "created_at": "2024-10-22T12:08:18-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T12:08:20-04:00",
+      "product_id": 8159695503448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP3_6bdd8e37-f4e1-4fac-b53d-6ea2cb28342b.jpg?v=1729613300",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838834122840,
+      "created_at": "2024-10-22T12:08:18-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T12:08:20-04:00",
+      "product_id": 8159695503448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP4_05484271-c3f1-4374-b7c5-b71b201e298f.jpg?v=1729613300",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP14P_LondonFog.jpg?v=1729089649",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

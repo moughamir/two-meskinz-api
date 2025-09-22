@@ -1,0 +1,67 @@
+{
+  "id": 7786099409063,
+  "title": "Brand: DeWALT / Part #: DWHT75021",
+  "handle": "ff8787072273",
+  "body_html": "<br><strong>Item #: </strong>13658745<br><strong>Brand: </strong>DeWALT<br><strong>Model #: </strong>DWHT75021<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fastener Type</strong>\n</td>\n<td>Brad Nailer</td>\n</tr>\n<tr>\n<td><strong>Nail Length (Inch)</strong></td>\n<td>3/8 - 1-3/16</td>\n</tr>\n<tr>\n<td><strong>Nail Diameter (Gauge)</strong></td>\n<td>18.00</td>\n</tr>\n<tr>\n<td><strong>Amperage</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Cord Length (Feet)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>nstalling carpet, installing sheets of installation, and attaching lightweight trim using the brads, to name a few</td>\n</tr>\n<tr>\n<td><strong>Reach</strong></td>\n<td>1.97</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:53:35-06:00",
+  "created_at": "2023-12-29T09:53:35-06:00",
+  "updated_at": "2025-09-22T10:54:10-05:00",
+  "vendor": "DeWALT",
+  "product_type": "Power Tools",
+  "tags": [
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 43706932265127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13658745",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786099409063,
+      "created_at": "2023-12-29T09:53:36-06:00",
+      "updated_at": "2025-09-22T10:54:10-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237830480039,
+      "created_at": "2025-02-03T18:26:35-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:37-06:00",
+      "product_id": 7786099409063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1365874-21.jpg?v=1738628797",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1365874-21.jpg?v=1738628797",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DeWALT",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

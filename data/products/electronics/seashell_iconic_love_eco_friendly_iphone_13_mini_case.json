@@ -1,0 +1,120 @@
+{
+  "id": 8216564662360,
+  "title": "Seashell Iconic Love iPhone 13 Mini Case",
+  "handle": "seashell-iconic-love-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Celebrate love in all its playful forms with the Iconic Love Phone Case from our <em>Amour Collection</em>! Featuring a charming mix of hearts, strawberries, teddy bears, and sweet treats (with a dash of spice 🌶️), this case is bursting with Valentine’s Day vibes.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:24:38-05:00",
+  "created_at": "2024-12-16T10:52:23-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Iconic Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469057331288,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:ICONIC-LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216564662360,
+      "created_at": "2024-12-16T10:52:23-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130690408536,
+      "created_at": "2024-12-16T10:52:23-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:25-05:00",
+      "product_id": 8216564662360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP13MINI_Seashell.jpg?v=1734364345",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215566868568,
+      "created_at": "2025-01-03T13:07:17-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T13:07:19-05:00",
+      "product_id": 8216564662360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP1_12894432-00a3-44d0-8487-d3fc8a7a411c.jpg?v=1735927639",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215566770264,
+      "created_at": "2025-01-03T13:07:17-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T13:07:19-05:00",
+      "product_id": 8216564662360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP2_8c66f413-36cd-40be-abe1-a1988eeb6c11.jpg?v=1735927639",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215566835800,
+      "created_at": "2025-01-03T13:07:17-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T13:07:19-05:00",
+      "product_id": 8216564662360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP3_4b74cb6a-24dd-4a9c-bd91-3775f9ffdec7.jpg?v=1735927639",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215566803032,
+      "created_at": "2025-01-03T13:07:17-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T13:07:19-05:00",
+      "product_id": 8216564662360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP4_17a103c5-ebb0-4058-83fa-b40b49f11786.jpg?v=1735927639",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP13MINI_Seashell.jpg?v=1734364345",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

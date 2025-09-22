@@ -1,0 +1,67 @@
+{
+  "id": 7786072342695,
+  "title": "Brand: Miller Electric / Part #: ML00994",
+  "handle": "wk535696294",
+  "body_html": "<br><strong>Item #: </strong>36563567<br><strong>Brand: </strong>Miller Electric<br><strong>Model #: </strong>ML00994<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Protection Type</strong>\n</td>\n<td>Particulates</td>\n</tr>\n<tr>\n<td><strong>Suspension Type</strong></td>\n<td>4-Point</td>\n</tr>\n<tr>\n<td><strong>Filter Rating</strong></td>\n<td>P100</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Small; Medium</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Welding</td>\n</tr>\n<tr>\n<td><strong>Exhalation Valve</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:00:11-06:00",
+  "created_at": "2023-12-29T09:00:11-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "Miller Electric",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43706816364711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "36563567",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.13",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786072342695,
+      "created_at": "2023-12-29T09:00:12-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237774577831,
+      "created_at": "2025-02-03T18:24:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:24:52-06:00",
+      "product_id": 7786072342695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3656356-24.jpg?v=1738628692",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3656356-24.jpg?v=1738628692",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Miller Electric",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

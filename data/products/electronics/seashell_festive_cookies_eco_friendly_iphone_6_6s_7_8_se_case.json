@@ -1,0 +1,119 @@
+{
+  "id": 8164328243288,
+  "title": "Seashell Festive Cookies iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-festive-cookies-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p class=\"p1\">Craving some holiday sweetness? The Festive Cookies Phone Case is here to satisfy! Adorned with a scrumptious mix of holiday cookie designs—think Santa hats, candy canes, stockings, and more—this case is a holiday treat that will have your phone looking deliciously festive. Made with sustainable materials, it’s as good for the planet as your favorite holiday cookies are for your soul. Ready to sprinkle some holiday magic into your everyday routine? This case is the perfect recipe! 🎄<b>🍪</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:11:05-04:00",
+  "created_at": "2024-10-21T14:38:57-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Festive Cookies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345503391832,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:FESTIVE-COOKIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164328243288,
+      "created_at": "2024-10-21T14:38:58-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832658600024,
+      "created_at": "2024-10-21T14:38:58-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:38:59-04:00",
+      "product_id": 8164328243288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-COOKIES_IP7_Seashell.jpg?v=1729535939",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33881389858904,
+      "created_at": "2024-10-28T15:01:35-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T15:01:37-04:00",
+      "product_id": 8164328243288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP1_6362a6cc-2265-41a9-bfbf-1e9670e6c7b6.jpg?v=1730142097",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881390252120,
+      "created_at": "2024-10-28T15:01:35-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T15:01:37-04:00",
+      "product_id": 8164328243288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP2_45a4a2c3-ee5b-42c4-b438-220e63a63029.jpg?v=1730142097",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881389269080,
+      "created_at": "2024-10-28T15:01:35-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T15:01:37-04:00",
+      "product_id": 8164328243288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP3_543223b9-d9c5-45a6-b905-845b381ea696.jpg?v=1730142097",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881389793368,
+      "created_at": "2024-10-28T15:01:35-04:00",
+      "position": 5,
+      "updated_at": "2024-10-28T15:01:37-04:00",
+      "product_id": 8164328243288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP4_2eca779c-cd1c-46c7-b2c1-08bb1f2cd320.jpg?v=1730142097",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-COOKIES_IP7_Seashell.jpg?v=1729535939",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

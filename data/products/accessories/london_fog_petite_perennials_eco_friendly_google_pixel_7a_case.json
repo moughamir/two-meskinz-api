@@ -1,0 +1,120 @@
+{
+  "id": 7536126754904,
+  "title": "London Fog Petite Perennials Google Pixel 7a Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-google-pixel-7a-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:56-05:00",
+  "created_at": "2024-01-15T11:10:06-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7a",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021966424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14908-PX7a-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126754904,
+      "created_at": "2024-01-15T11:10:07-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079724609624,
+      "created_at": "2024-01-15T11:10:07-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:07-05:00",
+      "product_id": 7536126754904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_PX7A_LondonFog.jpg?v=1705335007",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088863113304,
+      "created_at": "2024-01-17T10:23:23-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:23:29-05:00",
+      "product_id": 7536126754904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_8c9f4c84-15ce-4073-9f9b-258f2ba7265d.png?v=1705505009",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088863080536,
+      "created_at": "2024-01-17T10:23:23-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:23:29-05:00",
+      "product_id": 7536126754904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_275a9f8a-1227-42f9-9e03-57637a22e647.png?v=1705505009",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088863178840,
+      "created_at": "2024-01-17T10:23:23-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:23:29-05:00",
+      "product_id": 7536126754904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_c5d73d9d-f280-43fc-abd6-146c16246293.png?v=1705505009",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088863146072,
+      "created_at": "2024-01-17T10:23:23-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:23:29-05:00",
+      "product_id": 7536126754904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_dc6b40c2-1abf-48d5-a321-eaf3c613e409.png?v=1705505009",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_PX7A_LondonFog.jpg?v=1705335007",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

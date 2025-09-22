@@ -1,0 +1,98 @@
+{
+  "id": 8262512902232,
+  "title": "London Fog Trail Lines iPhone 14 Pro Case",
+  "handle": "london-fog-trail-lines-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Discover the beauty of the journey with the Trail Lines Phone Case, part of the <em>Pela x Ollie Smither Artist Series Collection</em>! Featuring Ollie Smither's captivating topographic-inspired design, this case lets you carry the essence of winding trails and rugged landscapes wherever you go.</p>\n<p><img><img>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-06T09:12:03-05:00",
+  "created_at": "2025-01-23T13:39:25-05:00",
+  "updated_at": "2025-09-22T15:15:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Pela x Ollie Smither",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Trail Lines",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42584701567064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16800-IP14P-LFOG-AOD:TRAIL-LINES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8262512902232,
+      "created_at": "2025-01-23T13:39:25-05:00",
+      "updated_at": "2025-09-22T15:15:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34357795225688,
+      "created_at": "2025-01-23T13:39:25-05:00",
+      "position": 1,
+      "updated_at": "2025-01-23T13:54:47-05:00",
+      "product_id": 8262512902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAIL-LINES_IP14P_LondonFog.jpg?v=1737658487",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34529425621080,
+      "created_at": "2025-02-16T12:12:16-05:00",
+      "position": 2,
+      "updated_at": "2025-02-16T12:12:18-05:00",
+      "product_id": 8262512902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9559_jpg_fc646c46-50fe-4221-95c7-beb19781b0dd.jpg?v=1739725938",
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "id": 34529425588312,
+      "created_at": "2025-02-16T12:12:16-05:00",
+      "position": 3,
+      "updated_at": "2025-02-16T12:12:18-05:00",
+      "product_id": 8262512902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9748_jpg_eb156621-0532-4291-b38f-9d1b65d3e715.jpg?v=1739725938",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAIL-LINES_IP14P_LondonFog.jpg?v=1737658487",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

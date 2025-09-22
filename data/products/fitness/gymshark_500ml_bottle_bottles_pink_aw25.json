@@ -1,0 +1,120 @@
+{
+  "id": 6806305407178,
+  "title": "Gymshark 500ml Bottle - Reset Pink",
+  "handle": "gymshark-500ml-bottle-bottles-pink-aw25",
+  "body_html": "<p><b>HOT AND COLD</b></p><p>Cold drinks? Yes. Hot drinks? Yes. Lukewarm drinks? Also yes, although we’d question your choices.</p><ul>\n<li>Metal insulation keeps your drink at the temp you want it</li>\n<li>Laser etched logo</li>\n<li>Twist top lid</li>\n</ul><p><br></p><p><b>SIZE &amp; FIT</b></p><ul><li>500ml</li></ul><p><br></p><p><b>MATERIALS &amp; CARE</b></p><ul>\n<li>Stainless steel</li>\n<li>\n<b>Note:</b> For hygiene reasons, all our shakers &amp; bottles are non-refundable</li>\n</ul><p><br>SKU: I1C8L-KC2J</p>",
+  "published_at": "2025-07-31T10:48:16-07:00",
+  "created_at": "2025-01-20T08:03:25-08:00",
+  "updated_at": "2025-09-22T08:45:17-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Bottles",
+  "tags": [
+    "31/07/25",
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1757934272",
+    "all-products",
+    "bottles",
+    "build-your-wishlist",
+    "category:Bottles",
+    "created_by:product-service",
+    "division:Accessories",
+    "equipment",
+    "filter-colour:Pink",
+    "lower-bucket",
+    "Mens",
+    "must-have",
+    "new-accessories",
+    "new-releases",
+    "no-returns",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Conditioning Goods",
+    "seamtype:Accessories",
+    "seasonal-accessories",
+    "segmentation:Conditioning",
+    "spanish-translated",
+    "stocking-fillers",
+    "subcategory:Insulated",
+    "tier:2",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39795347980490,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1C8L-KC2J-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6806305407178,
+      "created_at": "2025-01-20T08:03:26-08:00",
+      "updated_at": "2025-09-22T08:45:17-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28993811087562,
+      "created_at": "2025-07-17T05:22:17-07:00",
+      "position": 1,
+      "updated_at": "2025-07-17T05:22:20-07:00",
+      "product_id": 6806305407178,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-MetalInsulatedBottle500mlGSResetPinkI1C8L_KC2J_0004.jpg?v=1752754940",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993811251402,
+      "created_at": "2025-07-17T05:22:17-07:00",
+      "position": 2,
+      "updated_at": "2025-07-17T05:22:20-07:00",
+      "product_id": 6806305407178,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-MetalInsulatedBottle500mlGSResetPinkI1C8L_KC2J_0007.jpg?v=1752754940",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993811349706,
+      "created_at": "2025-07-17T05:22:17-07:00",
+      "position": 3,
+      "updated_at": "2025-07-17T05:22:20-07:00",
+      "product_id": 6806305407178,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-MetalInsulatedBottle500mlGSResetPinkI1C8L_KC2J_0008.jpg?v=1752754940",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-MetalInsulatedBottle500mlGSResetPinkI1C8L_KC2J_0004.jpg?v=1752754940",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Bottles",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

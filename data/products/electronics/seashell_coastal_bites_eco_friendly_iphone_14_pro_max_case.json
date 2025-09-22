@@ -1,0 +1,109 @@
+{
+  "id": 8388534239320,
+  "title": "Seashell Coastal Bites iPhone 14 Pro Max Case",
+  "handle": "seashell-coastal-bites-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sunshine, seafood, and sips — the Coastal Bites Phone Case is serving Mediterranean vacation energy 24/7. With sardines, shrimp, olives, and wine all making an appearance, it’s basically a charcuterie board you can call your own. Perfect for snack lovers, beach dreamers, and anyone who believes life is better al fresco. ☀️🍷🍤📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:10:35-04:00",
+  "created_at": "2025-05-30T12:37:34-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coastal Bites",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918164824152,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:COASTAL-BITES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388534239320,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125634629720,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:35-04:00",
+      "product_id": 8388534239320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP14PMAX_Seashell.jpg?v=1748623055",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195829780568,
+      "created_at": "2025-06-09T17:07:18-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:07:18-04:00",
+      "product_id": 8388534239320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/50176f46403a607ec189a5955511319f_cf08cf3b-51e0-4ecb-a439-2ee1d2375f75.jpg?v=1749503238",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195830173784,
+      "created_at": "2025-06-09T17:07:20-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:07:20-04:00",
+      "product_id": 8388534239320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2c8fd9ff78236ffb82d740b0d52bc957_79ce289b-0301-4522-b16e-4614024dcb48.jpg?v=1749503240",
+      "width": 3835,
+      "height": 3835
+    },
+    {
+      "id": 35195830730840,
+      "created_at": "2025-06-09T17:07:22-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:07:22-04:00",
+      "product_id": 8388534239320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7d736efaa0741b7b66cc849cc916f501_fea8116a-5103-40b0-928e-c0d63e21ddc4.jpg?v=1749503242",
+      "width": 4336,
+      "height": 4336
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP14PMAX_Seashell.jpg?v=1748623055",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8453279678631,
+  "title": "11/32″ Magnetic Nut Driver 6″ Hollow Shaft",
+  "handle": "kp6049045",
+  "body_html": null,
+  "published_at": "2025-01-23T23:51:10-06:00",
+  "created_at": "2025-01-23T23:51:10-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500075962535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6049045",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.92",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453279678631,
+      "created_at": "2025-01-23T23:51:10-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.92,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

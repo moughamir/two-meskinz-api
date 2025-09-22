@@ -1,0 +1,93 @@
+{
+  "id": 7596456837229,
+  "title": "Dreamscapes Set",
+  "handle": "dreamscapes-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>This set includes two Pura x Dutjahn signature scents,</span> So Many Colours and Somewhere Land, and a Pura 4™ smart fragrance diffuser.</p>",
+  "published_at": "2025-02-18T12:16:39-07:00",
+  "created_at": "2025-01-21T15:29:10-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura x Dutjahn",
+  "product_type": "Box",
+  "tags": [
+    "900-00761",
+    "__label:New",
+    "Brand:Pura x Dutjahn",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Mood_Relaxing",
+    "Pura 4",
+    "Scent Type_Amber",
+    "Scent Type_Citrus",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "Ygroup_somanycolours"
+  ],
+  "variants": [
+    {
+      "id": 42020103454829,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.99",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7596456837229,
+      "created_at": "2025-01-21T15:29:10-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33597249978477,
+      "created_at": "2025-01-21T15:35:17-07:00",
+      "position": 1,
+      "updated_at": "2025-01-21T15:39:40-07:00",
+      "product_id": 7596456837229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoManyColours-SomewhereLand-V4Set-1224-Image2.png?v=1737499180",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33597250011245,
+      "created_at": "2025-01-21T15:35:17-07:00",
+      "position": 2,
+      "updated_at": "2025-01-21T15:39:40-07:00",
+      "product_id": 7596456837229,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoManyColours-SomewhereLand-V4Set-1224-Image1.png?v=1737499180",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoManyColours-SomewhereLand-V4Set-1224-Image2.png?v=1737499180",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura x Dutjahn",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

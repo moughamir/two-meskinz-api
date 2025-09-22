@@ -1,0 +1,68 @@
+{
+  "id": 5340613214375,
+  "title": "18 × 200″ Spherosyn Serial Configuration on Cross Slide Encoder Lathe Package",
+  "handle": "jr501463mmm",
+  "body_html": "<br><strong>Item #: </strong>MS33820018XXLP1<br><strong>Brand: </strong>Newall<br><strong>Model #: </strong>N820018XXP1015<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Digital Readout System </td>\n</tr>\n<tr>\n<td><strong>Y-Axis Stage Travel</strong></td>\n<td>200″ </td>\n</tr>\n<tr>\n<td><strong>X-Axis Stage Travel</strong></td>\n<td>18″ </td>\n</tr>\n<tr>\n<td><strong>Machine Compatibility</strong></td>\n<td>Turning Applications </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:17:41-06:00",
+  "created_at": "2020-06-16T09:40:25-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Newall",
+  "product_type": "Machinery",
+  "tags": [
+    "Digital Readouts Equipment & Accessories",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34747190247591,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MS33820018XXLP1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "8796.81",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5340613214375,
+      "created_at": "2020-06-16T09:40:25-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144158072999,
+      "created_at": "2025-01-23T22:17:51-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:17:52-06:00",
+      "product_id": 5340613214375,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NWA_NMS300DROwithSphandMicTight_463e_4869a5f4-67d4-471e-bb3d-5ce8182cdfa7.jpg?v=1737692272",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 8796.81,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NWA_NMS300DROwithSphandMicTight_463e_4869a5f4-67d4-471e-bb3d-5ce8182cdfa7.jpg?v=1737692272",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Newall",
+  "category": "Machinery",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,179 @@
+{
+  "id": 7919064481839,
+  "title": "Stranger Things Hawkins Embroidered Dad Hat",
+  "handle": "stranger-things-hawkins-embroidered-dad-hat",
+  "body_html": "<p>Top off your look with the <em>Stranger Things</em> Hawkins Embroidered Dad Hat. Whether you're shooting hoops at Hawkins High or cracking mysteries with friends, this hat brings small-town charm with a supernatural twist. Comfortable, classic, and a must-have for any <em>Stranger Things</em> fan.</p>\n<ul>\n<li>Made of: 100% chino cotton twill</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2025-02-10T17:38:24-05:00",
+  "created_at": "2025-01-30T07:02:47-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "Accessories",
+    "Hat",
+    "Hats",
+    "SNOW-01-0125",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43572394491951,
+      "title": "Black",
+      "option1": "Black",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101082-0001-ST-HWKT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35970688614447,
+        "product_id": 7919064481839,
+        "position": 1,
+        "created_at": "2025-04-23T20:26:26-04:00",
+        "updated_at": "2025-04-23T20:26:42-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_BLK_MF_d5c729cd-9f53-4735-bddb-2748ff70cfa9.png?v=1745454402",
+        "variant_ids": [
+          43572394491951
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7919064481839,
+      "created_at": "2025-01-30T07:02:48-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43572394524719,
+      "title": "White",
+      "option1": "White",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101082-0002-ST-HWKT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35970688647215,
+        "product_id": 7919064481839,
+        "position": 4,
+        "created_at": "2025-04-23T20:26:26-04:00",
+        "updated_at": "2025-04-23T20:26:42-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_WHT_MF_564fd606-3c26-456e-8b27-d4650055b02a.png?v=1745454402",
+        "variant_ids": [
+          43572394524719
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7919064481839,
+      "created_at": "2025-01-30T07:02:48-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35970688614447,
+      "created_at": "2025-04-23T20:26:26-04:00",
+      "position": 1,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [
+        43572394491951
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_BLK_MF_d5c729cd-9f53-4735-bddb-2748ff70cfa9.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427661250607,
+      "created_at": "2025-01-30T07:02:47-05:00",
+      "position": 2,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_BLK_LIFE4.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427661119535,
+      "created_at": "2025-01-30T07:02:47-05:00",
+      "position": 3,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_BLK_MF2.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35970688647215,
+      "created_at": "2025-04-23T20:26:26-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [
+        43572394524719
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_WHT_MF_564fd606-3c26-456e-8b27-d4650055b02a.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427661381679,
+      "created_at": "2025-01-30T07:02:47-05:00",
+      "position": 5,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_WHT_LIFE2.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427661316143,
+      "created_at": "2025-01-30T07:02:47-05:00",
+      "position": 6,
+      "updated_at": "2025-04-23T20:26:42-04:00",
+      "product_id": 7919064481839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_WHT_MF2.png?v=1745454402",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "White"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKT_52_101082_FT_BLK_MF_d5c729cd-9f53-4735-bddb-2748ff70cfa9.png?v=1745454402",
+  "images_count": 6,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

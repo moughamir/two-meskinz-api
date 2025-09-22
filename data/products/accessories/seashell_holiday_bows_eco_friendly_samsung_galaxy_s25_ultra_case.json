@@ -1,0 +1,97 @@
+{
+  "id": 8253213573208,
+  "title": "Seashell Holiday Bows Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-holiday-bows-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:53:53-05:00",
+  "created_at": "2025-01-13T18:03:47-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42561338081368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8253213573208,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34293960310872,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "position": 1,
+      "updated_at": "2025-01-13T18:03:49-05:00",
+      "product_id": 8253213573208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_S25ULTRA_Seashell.jpg?v=1736809429",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678168027224,
+      "created_at": "2025-03-12T14:39:23-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T14:39:25-04:00",
+      "product_id": 8253213573208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_ba7f8963-77c5-4b96-a848-2a2822e710e2.jpg?v=1741804765",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34678167994456,
+      "created_at": "2025-03-12T14:39:23-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T14:39:25-04:00",
+      "product_id": 8253213573208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_0182f2bb-5f41-499c-90e1-1045c5bb3ada.jpg?v=1741804765",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_S25ULTRA_Seashell.jpg?v=1736809429",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 8159693766744,
+  "title": "Seashell Holiday Bows iPhone 15 Pro Case",
+  "handle": "seashell-holiday-bows-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:17:57-04:00",
+  "created_at": "2024-10-16T10:40:40-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333272277080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17056-IP15P-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159693766744,
+      "created_at": "2024-10-16T10:40:40-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799055343704,
+      "created_at": "2024-10-16T10:40:40-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:40-04:00",
+      "product_id": 8159693766744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP15P_Seashell.jpg?v=1729089640",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838767898712,
+      "created_at": "2024-10-22T11:45:06-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T11:45:07-04:00",
+      "product_id": 8159693766744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_0fdbd90d-4f9b-4004-bbda-7f2d17000b9f.jpg?v=1729611907",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838767931480,
+      "created_at": "2024-10-22T11:45:06-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T11:45:07-04:00",
+      "product_id": 8159693766744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_5602c7b9-1870-485c-b2c4-e7dcebd29f42.jpg?v=1729611907",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838767865944,
+      "created_at": "2024-10-22T11:45:06-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:45:07-04:00",
+      "product_id": 8159693766744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_d12d498b-392b-48f6-ac8f-a8ce33a1ce09.jpg?v=1729611907",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP15P_Seashell.jpg?v=1729089640",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

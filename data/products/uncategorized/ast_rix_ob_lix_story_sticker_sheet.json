@@ -1,0 +1,101 @@
+{
+  "id": 7964635529263,
+  "title": "Astérix & Obélix Story Sticker Sheet",
+  "handle": "ast-rix-ob-lix-story-sticker-sheet",
+  "body_html": "<p>Show off your love for <em>Astérix &amp; Obélix</em> with this fantastic sticker sheet! Decorate your laptop, notebooks, and more with your favorite heroes and symbols from the beloved comics.</p><ul>\n<li>Sheet Size: 5.8\" x 8.3\" with 0.12\" (0.3 cm) white sticker border</li>\n<li> Individual stickers range in size </li>\n<li>Material: Paper with glossy finish</li>\n<li>Fast and easy application</li>\n<li>2-3 year durability</li>\n<li>Indoor use</li>\n</ul>",
+  "published_at": "2025-04-25T16:33:57-04:00",
+  "created_at": "2025-04-25T16:18:21-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "Netflix Shop",
+  "product_type": "Stickers",
+  "tags": [
+    "Astrix  Oblix",
+    "Astérix & Obélix",
+    "Home and Office",
+    "New",
+    "series_id-81316606",
+    "Shop All",
+    "Sticker Sheet",
+    "Stickers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43783031750703,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "A&O-100952-0001-AO-STSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35978563878959,
+        "product_id": 7964635529263,
+        "position": 1,
+        "created_at": "2025-04-25T16:24:28-04:00",
+        "updated_at": "2025-04-25T16:24:30-04:00",
+        "alt": "Asterix Obelix Story Sticker Sheet",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AO-STSH_AO-01-0325_100952_MF.png?v=1745612670",
+        "variant_ids": [
+          43783031750703
+        ]
+      },
+      "available": true,
+      "price": "9.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7964635529263,
+      "created_at": "2025-04-25T16:18:21-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35978563878959,
+      "created_at": "2025-04-25T16:24:28-04:00",
+      "position": 1,
+      "updated_at": "2025-04-25T16:24:30-04:00",
+      "product_id": 7964635529263,
+      "variant_ids": [
+        43783031750703
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AO-STSH_AO-01-0325_100952_MF.png?v=1745612670",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35978564337711,
+      "created_at": "2025-04-25T16:24:38-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T16:24:40-04:00",
+      "product_id": 7964635529263,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AO-STSH_AO-01-0325_100952_LIFE4.png?v=1745612680",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 9.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AO-STSH_AO-01-0325_100952_MF.png?v=1745612670",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Netflix Shop",
+  "category": "Stickers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

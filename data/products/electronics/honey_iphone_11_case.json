@@ -1,0 +1,103 @@
+{
+  "id": 7420633383000,
+  "title": "Honey iPhone 11 Case",
+  "handle": "honey-iphone-11-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T10:41:34-04:00",
+  "created_at": "2023-09-14T21:27:06-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40265661448280,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16214-IP11-HONEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7420633383000,
+      "created_at": "2023-09-14T21:27:06-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31781461688408,
+      "created_at": "2023-09-28T11:37:57-04:00",
+      "position": 1,
+      "updated_at": "2023-09-28T11:38:01-04:00",
+      "product_id": 7420633383000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_11_HONEY_BACK.jpg?v=1695915481",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31972246782040,
+      "created_at": "2023-12-11T18:55:50-05:00",
+      "position": 2,
+      "updated_at": "2023-12-11T18:55:52-05:00",
+      "product_id": 7420633383000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HONEY-IP11-PERSONALIZATION.jpg?v=1702338952",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": 31781461622872,
+      "created_at": "2023-09-28T11:37:57-04:00",
+      "position": 3,
+      "updated_at": "2023-12-11T18:55:52-05:00",
+      "product_id": 7420633383000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_11_HONEY_BACK45L.jpg?v=1702338952",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781461655640,
+      "created_at": "2023-09-28T11:37:57-04:00",
+      "position": 4,
+      "updated_at": "2023-12-11T18:55:52-05:00",
+      "product_id": 7420633383000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_11_HONEY_BACK45R.jpg?v=1702338952",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_11_HONEY_BACK.jpg?v=1695915481",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 5321981558951,
+  "title": "Brand: USA Sealing / Part #: RS-NAT60-48",
+  "handle": "mm5961465",
+  "body_html": "<br><strong>Item #: </strong>67677435<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>RS-NAT60-48<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cell Type</strong>\n</td>\n<td>Closed</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Natural Rubber</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Square</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium Hard</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Tan</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Durometer 60A</td>\n</tr>\n<tr>\n<td><strong>Surface Texture</strong></td>\n<td>Smooth</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-45.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>200.000</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>3000</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ASTM D2000 AA 621</td>\n</tr>\n<tr>\n<td><strong>Durometer Shore A</strong></td>\n<td>60A</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0250</td>\n</tr>\n<tr>\n<td><strong>Density (Lb./Cu. Ft.)</strong></td>\n<td>62</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T15:20:43-06:00",
+  "created_at": "2020-06-12T12:27:41-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Coated Abrasives",
+    "Drilling",
+    "Rubber & Foam"
+  ],
+  "variants": [
+    {
+      "id": 34694515523751,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67677435",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321981558951,
+      "created_at": "2020-06-12T12:27:42-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239432868007,
+      "created_at": "2025-02-03T19:36:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:36:43-06:00",
+      "product_id": 5321981558951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6763677-21_df5d0923-9731-412b-b9db-2e0190deab85.jpg?v=1738633003",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6763677-21_df5d0923-9731-412b-b9db-2e0190deab85.jpg?v=1738633003",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785905979559,
+  "title": "Brand: Norton / Part #: 77696045732",
+  "handle": "hc4935090",
+  "body_html": "<br><strong>Item #: </strong>61071247<br><strong>Brand: </strong>Norton<br><strong>Model #: </strong>77696045732<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Belt Width (Inch)</strong>\n</td>\n<td>3-1/2</td>\n</tr>\n<tr>\n<td><strong>Belt Length (Inch)</strong></td>\n<td>15-1/2</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Abrasive Type</strong></td>\n<td>Non-Woven</td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Aluminum Oxide</td>\n</tr>\n<tr>\n<td><strong>Wet/Dry Operation</strong></td>\n<td>Wet; Dry</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Vortex Rapid Prep</td>\n</tr>\n<tr>\n<td><strong>Backing Material</strong></td>\n<td>Scrim</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:49:27-06:00",
+  "created_at": "2023-12-29T06:49:27-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Norton",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 43705904726183,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "61071247",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "63.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785905979559,
+      "created_at": "2023-12-29T06:49:27-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237642752167,
+      "created_at": "2025-02-03T18:20:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:20:13-06:00",
+      "product_id": 7785905979559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6107124-21.jpg?v=1738628413",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 63.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6107124-21.jpg?v=1738628413",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norton",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

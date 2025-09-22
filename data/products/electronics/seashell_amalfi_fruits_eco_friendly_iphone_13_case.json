@@ -1,0 +1,111 @@
+{
+  "id": 7997842686040,
+  "title": "Seashell Amalfi Fruits iPhone 13 Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:06:49-04:00",
+  "created_at": "2024-06-24T11:14:34-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946512621656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997842686040,
+      "created_at": "2024-06-24T11:14:34-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144125096024,
+      "created_at": "2024-06-24T11:14:34-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:34-04:00",
+      "product_id": 7997842686040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP13_Seashell.jpg?v=1719242074",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161110913112,
+      "created_at": "2024-06-26T15:37:53-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:37:57-04:00",
+      "product_id": 7997842686040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_f7b8e5d8-0773-41b8-aea5-cfa9dd4cd24f.jpg?v=1719430677",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161110749272,
+      "created_at": "2024-06-26T15:37:53-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:37:57-04:00",
+      "product_id": 7997842686040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_58c9f4b4-daca-4e3d-92b4-d1e4f7292474.jpg?v=1719430677",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161110945880,
+      "created_at": "2024-06-26T15:37:53-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:37:55-04:00",
+      "product_id": 7997842686040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_8ab4f3fd-63a1-4673-aeb5-13a2e0c303fd.jpg?v=1719430675",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP13_Seashell.jpg?v=1719242074",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8453540773976,
+  "title": "Seashell Creepy Crop iPhone 17 Pro Max Case",
+  "handle": "seashell-creepy-crop-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Welcome to the patch where spooky meets sweet! 🎃 The Creepy Crop Phone Case is bursting with jack-o’-lanterns on the vine, ready to bring some pumpkin spice <em data-start=\"268\" data-end=\"273\">and</em> a little fright to your everyday scroll. With their cheeky grins and twinkly eyes, these pumpkins are less scary-movie and more cute-and-creepy.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:23:52-04:00",
+  "created_at": "2025-08-21T13:49:42-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Creepy Crop",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184234233944,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CREEPY-CROP_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8453540773976,
+      "created_at": "2025-09-03T18:47:26-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184234266712,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CREEPY-CROP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8453540773976,
+      "created_at": "2025-09-03T18:47:26-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638756802648,
+      "created_at": "2025-08-21T13:49:42-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T13:49:44-04:00",
+      "product_id": 8453540773976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CREEPY-CROP_IP17PMAX_Seashell.jpg?v=1755798584",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736262639704,
+      "created_at": "2025-09-03T10:40:33-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:40:33-04:00",
+      "product_id": 8453540773976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c0925ace6ceaa971cce47e62a256fecb_28ba472c-1389-4377-9895-5f8903b6c75d.jpg?v=1756910433",
+      "width": 3154,
+      "height": 3154
+    },
+    {
+      "id": 35736263000152,
+      "created_at": "2025-09-03T10:40:34-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:40:34-04:00",
+      "product_id": 8453540773976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/35a56fc1f2fdbbc1d13f197f946ba06d_8035d607-1bdf-465d-860c-ce738ff2f759.jpg?v=1756910434",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736263163992,
+      "created_at": "2025-09-03T10:40:36-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:40:36-04:00",
+      "product_id": 8453540773976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8b55a0355573855b15a43ded2739802e_721b9127-0ed9-4281-a995-7b984142e236.jpg?v=1756910436",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CREEPY-CROP_IP17PMAX_Seashell.jpg?v=1755798584",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

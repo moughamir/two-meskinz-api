@@ -1,0 +1,118 @@
+{
+  "id": 8442722910296,
+  "title": "Bubblegum Pink Flora iPhone 17 Pro Max Case",
+  "handle": "bubblegum-pink-flora-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p>Dress your phone in a burst of color with our Bubblegum Pink Flora Phone Case! This beautifully designed case features an engraved floral pattern, perfect for nature lovers. Made with sustainable materials, it's both durable and compostable - a win for your phone and the environment.</p>",
+  "published_at": "2025-09-09T14:39:52-04:00",
+  "created_at": "2025-08-05T12:07:55-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flora",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184106143832,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:FLORA_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8442722910296,
+      "created_at": "2025-09-03T18:26:42-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184106176600,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:FLORA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8442722910296,
+      "created_at": "2025-09-03T18:26:42-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35548035973208,
+      "created_at": "2025-08-05T12:07:55-04:00",
+      "position": 1,
+      "updated_at": "2025-08-05T12:07:57-04:00",
+      "product_id": 8442722910296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLORA_IP17PMAX_BubblegumPink.jpg?v=1754410077",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103000330328,
+      "created_at": "2025-05-27T15:41:27-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T12:27:43-04:00",
+      "product_id": 8442722910296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flora_Bubblegum_Pink_2.jpg?v=1754411263",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103000297560,
+      "created_at": "2025-05-27T15:41:27-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T12:27:27-04:00",
+      "product_id": 8442722910296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flora_Bubblegum_Pink.jpg?v=1754411247",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLORA_IP17PMAX_BubblegumPink.jpg?v=1754410077",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

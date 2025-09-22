@@ -1,0 +1,69 @@
+{
+  "id": 8452501569703,
+  "title": "1,120 Lbs. at 80 psi Closing Force, Hand Operation Air Cutter Power Pack",
+  "handle": "31208820",
+  "body_html": "<br><strong>Item #: </strong>02320828<br><strong>Brand: </strong>Simonds Inc.<br><strong>Model #: </strong>SP-002<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Air Pressure</strong>\n</td>\n<td>60-100 psi</td>\n</tr>\n<tr> <td> <strong>Air Consumption at 30 Strokes/Minute</strong>\n</td>\n<td>0.09 @ 30 strokes/min CFM</td>\n</tr>\n<tr> <td> <strong>Closing Force (Lb.)</strong>\n</td>\n<td>1120 @ 80 psi</td>\n</tr>\n<tr> <td> <strong>Closing Force at 80 PSI</strong>\n</td>\n<td>1120 @ 80 psi lb</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Aluminum</td>\n</tr>\n<tr> <td> <strong>Outside Diameter</strong>\n</td>\n<td>1.72 in; 43.75 mm</td>\n</tr>\n<tr> <td> <strong>Features</strong>\n</td>\n<td>Hand Operated; Standard Cam (25-H) Installed</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>5 ft Air Hose Assembly</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112800</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:30:38-06:00",
+  "created_at": "2025-01-23T08:30:37-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Simonds Inc.",
+  "product_type": "Power Tools",
+  "tags": [
+    "Crimpers & Cutters",
+    "Nibblers",
+    "Power Shears"
+  ],
+  "variants": [
+    {
+      "id": 46497825718439,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02320828",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "501.98",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452501569703,
+      "created_at": "2025-01-23T08:30:37-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241229045927,
+      "created_at": "2025-02-03T20:50:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:50:58-06:00",
+      "product_id": 8452501569703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0232082-11_fa71394e-3864-48af-ad2e-a56c524b2376.jpg?v=1738637458",
+      "width": 600,
+      "height": 230
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 501.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0232082-11_fa71394e-3864-48af-ad2e-a56c524b2376.jpg?v=1738637458",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simonds Inc.",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

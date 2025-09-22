@@ -1,0 +1,67 @@
+{
+  "id": 8452543709351,
+  "title": "Oversized Tool Mount Accessory",
+  "handle": "49457252",
+  "body_html": "<br><strong>Item #: </strong>05419478<br><strong>Brand: </strong>JS Products<br><strong>Model #: </strong>67115<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Mounting Plates</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>Miter Saws</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24102006</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:25:44-06:00",
+  "created_at": "2025-01-23T09:25:41-06:00",
+  "updated_at": "2025-09-22T10:52:20-05:00",
+  "vendor": "JS Products",
+  "product_type": "Power Tools",
+  "tags": [
+    "Power Saws"
+  ],
+  "variants": [
+    {
+      "id": 46498026913959,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05419478",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "39.12",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452543709351,
+      "created_at": "2025-01-23T09:25:41-06:00",
+      "updated_at": "2025-09-22T10:52:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242463318183,
+      "created_at": "2025-02-03T21:33:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:33:20-06:00",
+      "product_id": 8452543709351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0541947-21.jpg?v=1738640000",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.12,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0541947-21.jpg?v=1738640000",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "JS Products",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

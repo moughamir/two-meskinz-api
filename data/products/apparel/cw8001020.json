@@ -1,0 +1,67 @@
+{
+  "id": 7785815736487,
+  "title": "Brand: AcuRite / Part #: 02077M",
+  "handle": "cw8001020",
+  "body_html": "<br><strong>Item #: </strong>67734210<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>02077M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Measures</strong>\n</td>\n<td>Temperature; Humidity</td>\n</tr>\n<tr>\n<td><strong>Wifi Capability</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Lightning Detector</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Measures Indoor Temperature</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Anemometer</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Measures Indoor Humidity</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Moon Phases</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (C - 2 Decimals)</strong></td>\n<td>-40.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-40.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature C</strong></td>\n<td>70.00</td>\n</tr>\n<tr>\n<td><strong>Power Source</strong></td>\n<td>(2) AA Batteries</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>158.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Humidity (Percent)</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Maximum Humidity (Percent)</strong></td>\n<td>99</td>\n</tr>\n<tr>\n<td><strong>Temperature Accuracy</strong></td>\n<td>+/- 2 F</td>\n</tr>\n<tr>\n<td><strong>Humidity Accuracy</strong></td>\n<td>+/-4% from 10-20% RH; +/-3% from 20-80% RH; +/-4% from 80-90% RH; +/-5% from 90-99% RH; +/-5% from 0-10% RH</td>\n</tr>\n<tr>\n<td><strong>Display Type</strong></td>\n<td>Color LCD</td>\n</tr>\n<tr>\n<td><strong>Display Width (Decimal Inch)</strong></td>\n<td>4.884</td>\n</tr>\n<tr>\n<td><strong>Display Height (Decimal Inch)</strong></td>\n<td>3.1020</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>AcuRite Weather Station Forecaster With Color Display For Temperature, Humidity, Hyperlocal Forecast, And Built-In Barometer; Illuminated LCD Color Display: Easy-To-View Display With Adjustable Dimmer Makes For The Perfect Addition To Your Home Technology And Easy Placement Anywhere In The House Or Office; Weather Forecast And Forecasting Technology: Remote Temperature Sensor Hung Outside Provides A Hyperlocal, Personalized Weather Forecast 12 Hours From Your Current Conditions; Dynamic Forecast Icons And Time: Displays Trend Arrows And Acts As A Weather Clock, So You'll Always Know The Latest Weather Trends And Current Time; Intelli-Time Weather Clock: Automatically Adjusts For Daylight Saving Time; Real-Time Weather Conditions: Receive Readings On Your Home Weather Station For Indoor And Outdoor Temperature, Humidity, And Barometric Pressure Trends From An Outdoor Temperature Sensor</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:15:13-06:00",
+  "created_at": "2023-12-29T03:15:13-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43705582256295,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67734210",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.11",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785815736487,
+      "created_at": "2023-12-29T03:15:13-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237336109223,
+      "created_at": "2025-02-03T18:12:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:34-06:00",
+      "product_id": 7785815736487,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773421-21.jpg?v=1738627954",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.11,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773421-21.jpg?v=1738627954",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

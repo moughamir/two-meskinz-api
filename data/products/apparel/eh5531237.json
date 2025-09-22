@@ -1,0 +1,67 @@
+{
+  "id": 7785443557543,
+  "title": "Brand: Bertech / Part #: PPTDEAWL-3/4",
+  "handle": "eh5531237",
+  "body_html": "<br><strong>Item #: </strong>01499219<br><strong>Brand: </strong>Bertech<br><strong>Model #: </strong>PPTDEAWL-3/4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tape Material</strong>\n</td>\n<td>Acrylic</td>\n</tr>\n<tr>\n<td><strong>Material Family</strong></td>\n<td>Film</td>\n</tr>\n<tr>\n<td><strong>Length Range</strong></td>\n<td>36 yd. - 71.9 yd.</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Roll</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Thickness (mil)</strong></td>\n<td>4.0000</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Amber</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>PPTDEAWL</td>\n</tr>\n<tr>\n<td><strong>Series Part Number</strong></td>\n<td>PPTDEAWL</td>\n</tr>\n<tr>\n<td><strong>Adhesive Material</strong></td>\n<td>Acrylic</td>\n</tr>\n<tr>\n<td><strong>Liner Material</strong></td>\n<td>Polyethylene Film</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>3D Printing, Aerospace Assembly, EV Manufacturing, Electronic Assembly, Fiber Optics Manufacturing, and Solar Panel Manufacturing</td>\n</tr>\n<tr>\n<td><strong>Length Ft.</strong></td>\n<td>108.000</td>\n</tr>\n<tr>\n<td><strong>Length (Yards - 2 Decimals)</strong></td>\n<td>36.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature C</strong></td>\n<td>-29.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature C</strong></td>\n<td>155.000</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (Lb./Inch)</strong></td>\n<td>30.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature F</strong></td>\n<td>311.000</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.7500</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature F</strong></td>\n<td>-20.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:12:16-06:00",
+  "created_at": "2023-12-28T21:12:16-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "Bertech",
+  "product_type": "Tapes & Adhesives",
+  "tags": [
+    "Tape"
+  ],
+  "variants": [
+    {
+      "id": 43703869931687,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01499219",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "93.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785443557543,
+      "created_at": "2023-12-28T21:12:17-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236941222055,
+      "created_at": "2025-02-03T17:58:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:58-06:00",
+      "product_id": 7785443557543,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0149918-21_c5d90b0a-9756-4584-82c8-4848e4ad6dc5.jpg?v=1738627138",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 93.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0149918-21_c5d90b0a-9756-4584-82c8-4848e4ad6dc5.jpg?v=1738627138",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bertech",
+  "category": "Tapes & Adhesives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

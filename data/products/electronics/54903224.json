@@ -1,0 +1,69 @@
+{
+  "id": 5270401056935,
+  "title": "Inspection Camera Kits; Kit Type: Inspection Camera with Cable Reel; Camera Type: Self-Leveling Head with TruSense; Mount Type: Freestanding; Audio Capability: No",
+  "handle": "54903224",
+  "body_html": "<br><strong>Item #: </strong>00908921<br><strong>Brand: </strong>Ridgid<br><strong>Model #: </strong>76883<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Inspection Camera with Cable Reel</td>\n</tr>\n<tr> <td> <strong>Camera Type</strong>\n</td>\n<td>Self-Leveling Head with TruSense</td>\n</tr>\n<tr> <td> <strong>Mount Type</strong>\n</td>\n<td>Freestanding</td>\n</tr>\n<tr> <td> <strong>Audio Capability</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Magnification</strong>\n</td>\n<td>2x</td>\n</tr>\n<tr> <td> <strong>Wireless Connection</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Picture Reolution Pixels (Pixels)</strong>\n</td>\n<td>640 x 480</td>\n</tr>\n<tr> <td> <strong>Cable Length (Feet)</strong>\n</td>\n<td>200.00</td>\n</tr>\n<tr> <td> <strong>Batteries Included</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Camera Reel, Connection Cable, Pipe Guide Kit, Spanner Wrench</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>41111737</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:15:50-06:00",
+  "created_at": "2020-06-01T23:46:51-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Ridgid",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Detecting & Testing Instruments",
+    "Indexable Turning & Boring",
+    "Inspecting"
+  ],
+  "variants": [
+    {
+      "id": 34547603767463,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00908921",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10872.55",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5270401056935,
+      "created_at": "2020-06-01T23:46:52-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240873054375,
+      "created_at": "2025-02-03T20:38:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:38:46-06:00",
+      "product_id": 5270401056935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0090892-21.jpg?v=1738636726",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10872.55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0090892-21.jpg?v=1738636726",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ridgid",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

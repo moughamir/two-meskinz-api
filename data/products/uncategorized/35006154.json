@@ -1,0 +1,67 @@
+{
+  "id": 8452540137639,
+  "title": "Boring & Grooving Bar Holders; Inside Diameter (mm): 12.7000; Inside Diameter (Inch): 1/2; Inside Diameter (Decimal Inch): 0.5000; Outside Diameter (Decimal Inch",
+  "handle": "35006154",
+  "body_html": "<br><strong>Item #: </strong>05294947<br><strong>Brand: </strong>Micro 100<br><strong>Model #: </strong>QT-500-C4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Inside Diameter (mm)</strong>\n</td>\n<td>12.7000</td>\n</tr>\n<tr> <td> <strong>Inside Diameter (Inch)</strong>\n</td>\n<td>1/2</td>\n</tr>\n<tr> <td> <strong>Inside Diameter (Decimal Inch)</strong>\n</td>\n<td>0.5000</td>\n</tr>\n<tr> <td> <strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>1.5748</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>3.2603</td>\n</tr>\n<tr> <td> <strong>Head Diameter (Decimal Inch)</strong>\n</td>\n<td>0.9843</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Shank Length (mm)</strong>\n</td>\n<td>20.000</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112809</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:23:20-06:00",
+  "created_at": "2025-01-23T09:23:18-06:00",
+  "updated_at": "2025-09-22T10:52:20-05:00",
+  "vendor": "Micro 100",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools"
+  ],
+  "variants": [
+    {
+      "id": 46498020688039,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05294947",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "361.05",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452540137639,
+      "created_at": "2025-01-23T09:23:18-06:00",
+      "updated_at": "2025-09-22T10:52:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242412789927,
+      "created_at": "2025-02-03T21:31:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:31:29-06:00",
+      "product_id": 8452540137639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0529501-21_4ee6ec44-50a5-4a87-bdf7-09b35cd58e1d.jpg?v=1738639889",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 361.05,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0529501-21_4ee6ec44-50a5-4a87-bdf7-09b35cd58e1d.jpg?v=1738639889",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Micro 100",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

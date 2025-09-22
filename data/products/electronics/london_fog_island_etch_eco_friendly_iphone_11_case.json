@@ -1,0 +1,97 @@
+{
+  "id": 8406068887640,
+  "title": "London Fog Island Etch iPhone 11 Case",
+  "handle": "london-fog-island-etch-eco-friendly-iphone-11-case",
+  "body_html": "<p data-start=\"0\" data-end=\"102\">Say aloha to Island Etch — the phone case that whispers \"tropical escape\" with every glance. 🌿🏝️</p>\n<p data-start=\"104\" data-end=\"304\">Subtly etched with dreamy island botanicals, this sandy-toned stunner proves that laid-back can still look luxe. It’s the kind of case that says, “I brunch in hammocks.”</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-10T09:03:30-04:00",
+  "created_at": "2025-06-17T14:37:06-04:00",
+  "updated_at": "2025-09-22T15:13:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Tropical Plants",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Island Etch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42990979973208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16219-IP11-LFOG-AOD:ISLAND-ETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8406068887640,
+      "created_at": "2025-06-17T14:37:06-04:00",
+      "updated_at": "2025-09-22T15:13:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35241709043800,
+      "created_at": "2025-06-17T14:37:06-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T14:37:08-04:00",
+      "product_id": 8406068887640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ISLAND-ETCH_IP11_LondonFog.jpg?v=1750185428",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359229542488,
+      "created_at": "2025-07-04T14:10:26-04:00",
+      "position": 2,
+      "updated_at": "2025-07-04T14:10:26-04:00",
+      "product_id": 8406068887640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/171bcaaa885e510c897b4e914bbc25cd_9d195e5a-42cd-462f-9f97-174d53ffdfc0.jpg?v=1751652626",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359229706328,
+      "created_at": "2025-07-04T14:10:28-04:00",
+      "position": 3,
+      "updated_at": "2025-07-04T14:10:28-04:00",
+      "product_id": 8406068887640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/58ccbe8e008f806cb1686674d0615c1f_8279f3e5-45af-474a-acd6-f1876e2269f7.jpg?v=1751652628",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ISLAND-ETCH_IP11_LondonFog.jpg?v=1750185428",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

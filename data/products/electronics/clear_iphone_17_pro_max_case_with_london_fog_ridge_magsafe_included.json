@@ -1,0 +1,92 @@
+{
+  "id": 8452569759832,
+  "title": "Clear iPhone 17 Pro Max Case with London Fog Ridge (MagSafe Included)",
+  "handle": "clear-iphone-17-pro-max-case-with-london-fog-ridge-magsafe-included",
+  "body_html": "<p class=\"p1\"><meta charset=\"utf-8\"><b data-stringify-type=\"bold\">Clear protection that doesn't quit.</b><span> Pela's most advanced clear case yet—premium drop protection and seamless wireless charging. Because you're not settling for basic, and neither should your phone case.</span></p>",
+  "published_at": "2025-09-09T14:33:51-04:00",
+  "created_at": "2025-08-20T14:38:04-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "Clear Case With Ridge",
+    "IP17 Series",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 43141477990488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28964-IP17PMAX-LFOG-CLEAR-MS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 30,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8452569759832,
+      "created_at": "2025-08-20T14:38:05-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35631247589464,
+      "created_at": "2025-08-20T15:49:43-04:00",
+      "position": 1,
+      "updated_at": "2025-08-20T15:49:44-04:00",
+      "product_id": 8452569759832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LONDONFOG_BACK_8b72867c-be2c-4ddd-b512-13aff3656d28.jpg?v=1755719384",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35631247622232,
+      "created_at": "2025-08-20T15:49:43-04:00",
+      "position": 2,
+      "updated_at": "2025-08-20T15:49:44-04:00",
+      "product_id": 8452569759832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LONDONFOG_BACK45L.jpg?v=1755719384",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35631247655000,
+      "created_at": "2025-08-20T15:49:43-04:00",
+      "position": 3,
+      "updated_at": "2025-08-20T15:49:44-04:00",
+      "product_id": 8452569759832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LONDONFOG_BACK45R.jpg?v=1755719384",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LONDONFOG_BACK_8b72867c-be2c-4ddd-b512-13aff3656d28.jpg?v=1755719384",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

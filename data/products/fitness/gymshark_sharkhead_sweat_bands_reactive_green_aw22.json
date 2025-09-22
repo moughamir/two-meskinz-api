@@ -1,0 +1,136 @@
+{
+  "id": 6804987445450,
+  "title": "Gymshark Sharkhead Sweat Bands - Reactive Green",
+  "handle": "gymshark-sharkhead-sweat-bands-reactive-green-aw22",
+  "body_html": "",
+  "published_at": "2023-05-01T15:10:29-07:00",
+  "created_at": "2022-08-31T09:02:32-07:00",
+  "updated_at": "2025-09-22T08:46:26-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "20EXTRA",
+    "4-20-23-sale",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "bf-23",
+    "category:Equipment",
+    "conditioning",
+    "equipment",
+    "filter-colour: Green",
+    "lifting-acc",
+    "member-exclusive-just-in-case",
+    "member-sale-republish",
+    "no-returns:2023-03-13T09:00:00_2023-03-23T07:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Conditioning Goods",
+    "ss-20",
+    "ss-2023",
+    "subcategory:Other",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787182522570,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1X-YBDK-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "8.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804987445450,
+      "created_at": "2022-08-31T09:02:32-07:00",
+      "updated_at": "2025-09-22T08:46:26-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973700776138,
+      "created_at": "2022-10-27T12:23:20-07:00",
+      "position": 1,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987445450,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK.116.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973702119626,
+      "created_at": "2022-10-27T12:23:20-07:00",
+      "position": 2,
+      "updated_at": "2022-10-27T12:23:22-07:00",
+      "product_id": 6804987445450,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK-0316.41.jpg?v=1666898602",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973701726410,
+      "created_at": "2022-10-27T12:23:20-07:00",
+      "position": 3,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987445450,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK.1116.80.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973701365962,
+      "created_at": "2022-10-27T12:23:20-07:00",
+      "position": 4,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987445450,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK.1117.81.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973701103818,
+      "created_at": "2022-10-27T12:23:20-07:00",
+      "position": 5,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987445450,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK.1118.82.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsReactiveGreenI2A1X-YBDK.116.jpg?v=1666898601",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

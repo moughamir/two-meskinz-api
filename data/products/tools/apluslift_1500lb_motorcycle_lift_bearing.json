@@ -1,0 +1,107 @@
+{
+  "id": 5865709076638,
+  "title": "APlusLift 1,500LB Motorcycle Lift Table Bearing",
+  "handle": "apluslift-1500lb-motorcycle-lift-bearing",
+  "body_html": "<h3>Three types of bearing for MT1500, MT1500X, and MT1500XLT motorcycle lift table.</h3>\n<ul>\n<li>\n<h4>Bearing at the scissor frame</h4>\n</li>\n<li>\n<h4>Bearing under the lift table</h4>\n</li>\n<li>\n<h4>Bearing for service jack (not in the picture)</h4>\n</li>\n</ul>\n<h3><span style=\"color: red;\" color=\"red\">This part does not fit motorcycle lifts from other brands. We do not accept returns if you purchase the part for other lifts.</span></h3>",
+  "published_at": "2020-11-01T23:39:58-08:00",
+  "created_at": "2020-11-01T23:39:57-08:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift Car & Motorcycle Lifts",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 42782390976740,
+      "title": "Bearing at Scissor Frame",
+      "option1": "Bearing at Scissor Frame",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.00",
+      "grams": 142,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5865709076638,
+      "created_at": "2022-04-20T00:13:03-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 42782391009508,
+      "title": "Bearing under Lift Table",
+      "option1": "Bearing under Lift Table",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.00",
+      "grams": 142,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5865709076638,
+      "created_at": "2022-04-20T00:13:03-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45051444035812,
+      "title": "Bearing for Service Jack (Not in the Picture)",
+      "option1": "Bearing for Service Jack (Not in the Picture)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.00",
+      "grams": 142,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 5865709076638,
+      "created_at": "2024-04-29T13:01:47-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19895625056414,
+      "created_at": "2020-11-01T23:40:01-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T23:40:01-08:00",
+      "product_id": 5865709076638,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-bearing.jpg?v=1604302801",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Position",
+      "position": 1,
+      "values": [
+        "Bearing at Scissor Frame",
+        "Bearing under Lift Table",
+        "Bearing for Service Jack (Not in the Picture)"
+      ]
+    }
+  ],
+  "price": 11,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-bearing.jpg?v=1604302801",
+  "images_count": 1,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift Car & Motorcycle Lifts",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

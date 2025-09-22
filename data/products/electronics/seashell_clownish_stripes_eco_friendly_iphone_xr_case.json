@@ -1,0 +1,97 @@
+{
+  "id": 8295449985112,
+  "title": "Seashell Clownish Stripes iPhone XR Case",
+  "handle": "seashell-clownish-stripes-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to bend the rules of boring phone cases—because <em data-start=\"104\" data-end=\"122\">Clownish Stripes</em> is all about bold, wavy fun! <meta charset=\"utf-8\">🤹<meta charset=\"utf-8\">🎪 Inspired by the whimsy of circus tents and playful performer costumes, this case is a riot of color and movement, bringing a little carnival magic to your everyday.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:14:50-05:00",
+  "created_at": "2025-02-21T13:31:33-05:00",
+  "updated_at": "2025-09-22T15:14:58-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Clownish Stripes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688139067480,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:CLOWNISH-STRIPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295449985112,
+      "created_at": "2025-02-21T13:31:33-05:00",
+      "updated_at": "2025-09-22T15:14:58-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579766935640,
+      "created_at": "2025-02-21T13:31:33-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:35-05:00",
+      "product_id": 8295449985112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CLOWNISH-STRIPES_IPXR_Seashell.jpg?v=1740162695",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34616182079576,
+      "created_at": "2025-02-28T11:13:48-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T11:13:51-05:00",
+      "product_id": 8295449985112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ClownishStripes_PDP1_64834f2e-7156-4d76-9527-9a00c9b0a601.jpg?v=1740759231",
+      "width": 4319,
+      "height": 4319
+    },
+    {
+      "id": 34616182112344,
+      "created_at": "2025-02-28T11:13:48-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T11:13:51-05:00",
+      "product_id": 8295449985112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ClownishStripes_PDP2_68e41f53-9f74-4eae-b067-7e2e0b5507d5.jpg?v=1740759231",
+      "width": 4263,
+      "height": 4263
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CLOWNISH-STRIPES_IPXR_Seashell.jpg?v=1740162695",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

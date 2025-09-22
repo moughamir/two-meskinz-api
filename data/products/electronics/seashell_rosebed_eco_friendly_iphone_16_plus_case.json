@@ -1,0 +1,98 @@
+{
+  "id": 8381667803224,
+  "title": "Seashell Rosebed iPhone 16 Plus Case",
+  "handle": "seashell-rosebed-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><span>The Rosebed Phone Case by Pela is a veritable garden of blooming roses, sprawling across your phone in a pattern reminiscent of an English cottage garden. Perfect for those who appreciate the delicate dance of floral harmony, this case is a tribute to the timeless elegance of the rose.</span><span>📱<meta charset=\"utf-8\">🌹✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T16:59:57-04:00",
+  "created_at": "2025-05-21T09:53:32-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Rosebed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895736668248,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:ROSEBED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381667803224,
+      "created_at": "2025-05-21T09:53:32-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065447841880,
+      "created_at": "2025-05-21T09:53:32-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:53:34-04:00",
+      "product_id": 8381667803224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_IP16PLUS_Seashell.jpg?v=1747835614",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066295287896,
+      "created_at": "2025-05-21T14:44:27-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T14:44:29-04:00",
+      "product_id": 8381667803224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-1_23b37054-4352-4c4e-b4d9-b95d9111f5b5.jpg?v=1747853069",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066295255128,
+      "created_at": "2025-05-21T14:44:27-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T14:44:28-04:00",
+      "product_id": 8381667803224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-2_77fcda24-d662-44ab-bd0f-02df4c87f029.jpg?v=1747853068",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_IP16PLUS_Seashell.jpg?v=1747835614",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

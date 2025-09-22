@@ -1,0 +1,69 @@
+{
+  "id": 8452747165863,
+  "title": "Pulley Stock; Belt Type: HTD; Useable Length: 10; Pitch Diameter: 1.2030; Material: Aluminum; Outside Diameter (Decimal Inch - 4 Decimals): 1.1730",
+  "handle": "01-309-119",
+  "body_html": "<br><strong>Item #: </strong>84965482<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>32-3M-PS10A<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Belt Type</strong>\n</td>\n<td>HTD</td>\n</tr>\n<tr> <td> <strong>Useable Length</strong>\n</td>\n<td>10</td>\n</tr>\n<tr> <td> <strong>Pitch Diameter</strong>\n</td>\n<td>1.2030</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Aluminum</td>\n</tr>\n<tr> <td> <strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>1.1730</td>\n</tr>\n<tr> <td> <strong>Number Of Teeth</strong>\n</td>\n<td>32</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>26111800</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T16:30:14-06:00",
+  "created_at": "2025-01-23T16:30:13-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Belts",
+    "Chains",
+    "Pulleys & Sprockets"
+  ],
+  "variants": [
+    {
+      "id": 46498820849831,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "84965482",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "145.93",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452747165863,
+      "created_at": "2025-01-23T16:30:13-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38251873108135,
+      "created_at": "2025-02-04T02:57:53-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:57:54-06:00",
+      "product_id": 8452747165863,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8205082L-41_25b3dbc0-2d80-4cae-a616-b556f5f4e866.jpg?v=1738659474",
+      "width": 250,
+      "height": 99
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 145.93,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8205082L-41_25b3dbc0-2d80-4cae-a616-b556f5f4e866.jpg?v=1738659474",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

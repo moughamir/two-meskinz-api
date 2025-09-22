@@ -1,0 +1,109 @@
+{
+  "id": 8286013325400,
+  "title": "Bubblegum Pink Heatwave iPhone 16 Pro Case",
+  "handle": "bubblegum-pink-heatwave-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p>Feeling bold? The Heatwave Phone Case is bringing the fire!<meta charset=\"utf-8\">🌶️🔥 Covered in sizzling red chili peppers on a playful pink background, this case is a must-have for anyone who loves a little extra heat in their life. Whether you're a spice enthusiast, a trendsetter, or just looking to add some flavor to your phone, this design is too hot to handle (but don’t worry, it’s totally safe to touch <meta charset=\"utf-8\">😉).</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:53:18-05:00",
+  "created_at": "2025-02-12T10:14:52-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Heatwave",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658628796504,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17291-IP16P-BUBPINK-AOD:HEATWAVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286013325400,
+      "created_at": "2025-02-12T10:14:52-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505573695576,
+      "created_at": "2025-02-12T10:14:52-05:00",
+      "position": 1,
+      "updated_at": "2025-02-25T10:01:34-05:00",
+      "product_id": 8286013325400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEATWAVE_IP16P_BubblegumPink.jpg?v=1740495694",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34600784691288,
+      "created_at": "2025-02-26T15:42:27-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T15:42:29-05:00",
+      "product_id": 8286013325400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_IPGrid_PDP_1x1_05_d6c52d04-72f4-491c-889e-65bba895f3e4.jpg?v=1740602549",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600784658520,
+      "created_at": "2025-02-26T15:42:27-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T15:42:28-05:00",
+      "product_id": 8286013325400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_69d20f24-0247-4a08-a020-5285482426ba.jpg?v=1740602548",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600784724056,
+      "created_at": "2025-02-26T15:42:27-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T15:42:29-05:00",
+      "product_id": 8286013325400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Androids_PDP_1x1_03_cea58f2e-4872-4591-a000-9d4e3cc88720.jpg?v=1740602549",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEATWAVE_IP16P_BubblegumPink.jpg?v=1740495694",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

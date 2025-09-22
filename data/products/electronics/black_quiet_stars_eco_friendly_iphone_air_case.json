@@ -1,0 +1,97 @@
+{
+  "id": 8444649603160,
+  "title": "Black Quiet Stars iPhone Air Case",
+  "handle": "black-quiet-stars-eco-friendly-iphone-air-case",
+  "body_html": "<p><span>Discover the enchantment of a night sky with the Quiet Stars Phone Case, a stellar member of the Milky Way Collection.  Designed to capture the serene beauty of a star-filled expanse, this case features a constellation of twinkling stars and crescent moons that dance across a dark expanse, providing a touch of nighttime wonder to your device. 🌌🌙✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:24:29-04:00",
+  "created_at": "2025-08-08T11:48:30-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Milky Way",
+    "collection:Space",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Quiet Stars",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184098443352,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17535-IP17AIR-BLACK-AOD:QUIET-STARS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444649603160,
+      "created_at": "2025-09-03T18:24:58-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184098476120,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17535-IP17AIR-BLACK-AOD:QUIET-STARS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444649603160,
+      "created_at": "2025-09-03T18:24:58-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567181430872,
+      "created_at": "2025-08-08T11:48:30-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:53-04:00",
+      "product_id": 8444649603160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/QUIET-STARS_IP17AIR_Black.jpg?v=1754668133",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/QUIET-STARS_IP17AIR_Black.jpg?v=1754668133",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

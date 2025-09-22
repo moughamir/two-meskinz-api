@@ -1,0 +1,97 @@
+{
+  "id": 7878049660975,
+  "title": "Stranger Things Logo Clear Tumbler",
+  "handle": "stranger-things-logo-clear-tumbler",
+  "body_html": "<p>Get ready to sip in style with the <em>Stranger Things</em> Logo Clear Tumbler. Featuring the iconic logo from Hawkins' most mysterious phenomenon, this tumbler is perfect for fans who are always chasing the next adventure—whether it's in the Upside Down or your favorite coffee shop. Made from durable, BPA-free plastic, it's lightweight, spill-proof, and ready to go wherever you do. So, grab it, fill it up, and get ready for whatever <em>Stranger Things</em> comes next—it's going to be one wild ride.</p><ul>\n<li>Material: Clear acrylic plastic</li>\n<li>Capacity: 16 oz. (590 ml)</li>\n<li>Height: 6.3\" (16 cm)</li>\n<li>Lid diameter: 3.9\" (10 cm)</li>\n<li>Bottom diameter: 2.6\" (6.7 cm)</li>\n<li>Double wall-insulated</li>\n<li>Comes with a plastic straw and screw-on lid</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n</ul>",
+  "published_at": "2024-12-04T13:23:02-05:00",
+  "created_at": "2024-11-27T09:42:40-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80057281",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "NTF-38-1124",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Tumblers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43435981570095,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101804-0001-ST-LGCT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7878049660975,
+      "created_at": "2024-11-27T09:42:40-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35081744842799,
+      "created_at": "2024-11-27T09:42:40-05:00",
+      "position": 1,
+      "updated_at": "2024-11-27T09:42:40-05:00",
+      "product_id": 7878049660975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-LGCT_38_101804_FT_MF.jpg?v=1732718560",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081744908335,
+      "created_at": "2024-11-27T09:42:40-05:00",
+      "position": 2,
+      "updated_at": "2024-11-27T09:42:40-05:00",
+      "product_id": 7878049660975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-LGCT_38_101804_BK_MF.jpg?v=1732718560",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081744875567,
+      "created_at": "2024-11-27T09:42:40-05:00",
+      "position": 3,
+      "updated_at": "2024-11-27T09:42:40-05:00",
+      "product_id": 7878049660975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-LGCT_38_101804_R_MF.jpg?v=1732718560",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-LGCT_38_101804_FT_MF.jpg?v=1732718560",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

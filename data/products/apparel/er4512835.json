@@ -1,0 +1,67 @@
+{
+  "id": 7785344041127,
+  "title": "Brand: Lincoln Electric / Part #: ED027866",
+  "handle": "er4512835",
+  "body_html": "<br><strong>Item #: </strong>18315770<br><strong>Brand: </strong>Lincoln Electric<br><strong>Model #: </strong>ED027866<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Soldering Flux</td>\n</tr>\n<tr>\n<td><strong>Volume Capacity</strong></td>\n<td>Various</td>\n</tr>\n<tr>\n<td><strong>Flux Type</strong></td>\n<td>Solder Flux</td>\n</tr>\n<tr>\n<td><strong>Flux Material</strong></td>\n<td>Petroleum/Zinc Chloride</td>\n</tr>\n<tr>\n<td><strong>Form</strong></td>\n<td>Powder</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:10:55-06:00",
+  "created_at": "2023-12-28T18:10:55-06:00",
+  "updated_at": "2025-09-22T10:55:39-05:00",
+  "vendor": "Lincoln Electric",
+  "product_type": "Welding & Soldering",
+  "tags": [
+    "Soldering & Desoldering Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43703651598503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "18315770",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "104.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785344041127,
+      "created_at": "2023-12-28T18:10:55-06:00",
+      "updated_at": "2025-09-22T10:55:39-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236744384679,
+      "created_at": "2025-02-03T17:52:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:33-06:00",
+      "product_id": 7785344041127,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1831577-21.jpg?v=1738626753",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 104.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1831577-21.jpg?v=1738626753",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lincoln Electric",
+  "category": "Welding & Soldering",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

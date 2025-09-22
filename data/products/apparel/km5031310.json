@@ -1,0 +1,69 @@
+{
+  "id": 5322594287783,
+  "title": "Brand: USA Sealing / Part #: BULK-FS-PET-61",
+  "handle": "km5031310",
+  "body_html": "<br><strong>Item #: </strong>88030754<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>BULK-FS-PET-61<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Stock Length</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Overall Thickness</strong></td>\n<td>0.375 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>12.00</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Synthetic</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Acrylic Adhesive</td>\n</tr>\n<tr>\n<td><strong>Density</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Firm</td>\n</tr>\n<tr>\n<td><strong>Durometer</strong></td>\n<td>20 to 30 Shore A</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature</strong></td>\n<td>-80 ?F</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>180 ?F</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength</strong></td>\n<td>400 psi</td>\n</tr>\n<tr>\n<td><strong>Wool Fiber Content</strong></td>\n<td>0</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T00:54:24-06:00",
+  "created_at": "2020-06-12T15:58:37-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Felt",
+    "Screwdrivers; Nutdrivers & Hex Keys",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34696678899879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "88030754",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.45",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322594287783,
+      "created_at": "2020-06-12T15:58:37-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240008568999,
+      "created_at": "2025-02-03T20:04:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:04:19-06:00",
+      "product_id": 5322594287783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8803597-21_dc060469-d7a7-495f-bcfc-ba6efc411182.jpg?v=1738634659",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10.45,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8803597-21_dc060469-d7a7-495f-bcfc-ba6efc411182.jpg?v=1738634659",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

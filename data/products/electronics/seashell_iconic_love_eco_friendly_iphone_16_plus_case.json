@@ -1,0 +1,120 @@
+{
+  "id": 8216565678168,
+  "title": "Seashell Iconic Love iPhone 16 Plus Case",
+  "handle": "seashell-iconic-love-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Celebrate love in all its playful forms with the Iconic Love Phone Case from our <em>Amour Collection</em>! Featuring a charming mix of hearts, strawberries, teddy bears, and sweet treats (with a dash of spice 🌶️), this case is bursting with Valentine’s Day vibes.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:22:50-05:00",
+  "created_at": "2024-12-16T10:52:26-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Iconic Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469058412632,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:ICONIC-LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216565678168,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130691588184,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:28-05:00",
+      "product_id": 8216565678168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP16PLUS_Seashell.jpg?v=1734364348",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215573749848,
+      "created_at": "2025-01-03T13:09:17-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T13:09:19-05:00",
+      "product_id": 8216565678168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP1_94c8d008-2fcf-4510-9c6c-0ffe6d35c496.jpg?v=1735927759",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215573717080,
+      "created_at": "2025-01-03T13:09:17-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T13:09:19-05:00",
+      "product_id": 8216565678168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP2_4117274b-aaee-4296-8c7a-97ba1f0d7fe1.jpg?v=1735927759",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215573782616,
+      "created_at": "2025-01-03T13:09:17-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T13:09:19-05:00",
+      "product_id": 8216565678168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP3_d0fb3513-6970-4532-b067-88f41cb5bc9a.jpg?v=1735927759",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215573651544,
+      "created_at": "2025-01-03T13:09:17-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T13:09:19-05:00",
+      "product_id": 8216565678168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP4_bef620e0-cf76-4815-9e5a-09e030259e56.jpg?v=1735927759",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP16PLUS_Seashell.jpg?v=1734364348",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

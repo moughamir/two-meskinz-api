@@ -1,0 +1,52 @@
+{
+  "id": 8453517148327,
+  "title": "Heavy Duty Ratcheting Cutter",
+  "handle": "kp6048845",
+  "body_html": null,
+  "published_at": "2025-01-24T08:56:16-06:00",
+  "created_at": "2025-01-24T08:56:16-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46501120540839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6048845",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1597.96",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453517148327,
+      "created_at": "2025-01-24T08:56:16-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1597.96,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

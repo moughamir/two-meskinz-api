@@ -1,0 +1,68 @@
+{
+  "id": 5340570714279,
+  "title": "‎BURR SET Y SINGLE CUT SF-1, SF-3, SF-5, SG-1, SG-3, SG-5, SL-1, SL-3, SL-5, SM-1",
+  "handle": "jr526335m",
+  "body_html": "<br><strong>Item #: </strong>MW17310110025<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>310-110025<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Bright </td>\n</tr>\n<tr>\n<td><strong>Diameter Range</strong></td>\n<td>1/4″ | 3/8″ | 1/2″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Tungsten Carbide </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>310 </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>Single Cut </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>PackSize</strong></td>\n<td>1.00 </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>C-2 Sub-Micron </td>\n</tr>\n<tr>\n<td><strong>Quantity</strong></td>\n<td>12 </td>\n</tr>\n<tr>\n<td><strong>Set Letter</strong></td>\n<td>Y </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:17:37-06:00",
+  "created_at": "2020-06-16T09:30:25-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Deburring & Broaching",
+  "tags": [
+    "Deburring",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34747072544935,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW17310110025",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "267.86",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5340570714279,
+      "created_at": "2020-06-16T09:30:25-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144157319335,
+      "created_at": "2025-01-23T22:17:48-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:17:49-06:00",
+      "product_id": 5340570714279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0518599.png?v=1737692269",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 267.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0518599.png?v=1737692269",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Deburring & Broaching",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

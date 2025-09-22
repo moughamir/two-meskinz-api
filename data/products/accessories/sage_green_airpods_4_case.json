@@ -1,0 +1,91 @@
+{
+  "id": 8190703665240,
+  "title": "Sage Green AirPods 4 Case",
+  "handle": "sage-green-airpods-4-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Safeguard your sound with our durable AirPods 4</span><span> Case, crafted from our signature plant-based material renowned for its protective qualities. This case is engineered to withstand drops and resist scratches, ensuring your earbuds remain unscathed from daily hustle and bustle. The carabiner ring offers the convenience of clipping your AirPods to your personal items for secure transport. Embrace the harmony of style, security, and sustainability with a case that's not only earth-friendly but also a guardian against the bumps and knocks of everyday life. Keep your tunes close and your AirPods safer, wherever your rhythm takes you. 🎵✨</span></p>",
+  "published_at": "2025-02-06T13:17:38-05:00",
+  "created_at": "2024-11-19T12:09:01-05:00",
+  "updated_at": "2025-09-22T15:15:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "AirPods 4",
+  "tags": [
+    "accessory",
+    "AirPods 4"
+  ],
+  "variants": [
+    {
+      "id": 42406572523608,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25433-AIRPOD4-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 40,
+      "compare_at_price": "30.00",
+      "position": 1,
+      "product_id": 8190703665240,
+      "created_at": "2024-11-19T12:09:01-05:00",
+      "updated_at": "2025-09-22T15:15:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34073879707736,
+      "created_at": "2024-12-04T15:54:34-05:00",
+      "position": 1,
+      "updated_at": "2024-12-04T15:54:35-05:00",
+      "product_id": 8190703665240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRPODS_4_SAGEGREEN_BACK.jpg?v=1733345675",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34073879740504,
+      "created_at": "2024-12-04T15:54:34-05:00",
+      "position": 2,
+      "updated_at": "2024-12-04T15:54:35-05:00",
+      "product_id": 8190703665240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRPODS_4_SAGEGREEN_45L.jpg?v=1733345675",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34073879773272,
+      "created_at": "2024-12-04T15:54:34-05:00",
+      "position": 3,
+      "updated_at": "2024-12-04T15:54:36-05:00",
+      "product_id": 8190703665240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRPODS_4_SAGEGREEN_45R.jpg?v=1733345676",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRPODS_4_SAGEGREEN_BACK.jpg?v=1733345675",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "AirPods 4",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

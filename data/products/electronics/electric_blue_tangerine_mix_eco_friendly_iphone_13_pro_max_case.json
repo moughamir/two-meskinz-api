@@ -1,0 +1,109 @@
+{
+  "id": 8335119286360,
+  "title": "Electric Blue Tangerine Mix iPhone 13 Pro Max Case",
+  "handle": "electric-blue-tangerine-mix-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a party with the Tangerine Mix Phone Case! With wavy lines, checkerboard patterns, and zesty swirls in bold blues and juicy orange, this design is serving maximalist magic. It's retro, it's modern, it’s a whole vibe—and it’s here to keep your phone safe while stealing the spotlight. 🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:11:18-04:00",
+  "created_at": "2025-04-01T11:42:20-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tangerine Mix",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788478910552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16839-IP13PMAX-ELEBLUE-AOD:TANGERINE-MIX",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335119286360,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775483908184,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:22-04:00",
+      "product_id": 8335119286360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP13PMAX_ElectricBlue.jpg?v=1743522142",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892664668248,
+      "created_at": "2025-04-23T10:06:57-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:07:04-04:00",
+      "product_id": 8335119286360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_d4adfcda-061d-4e93-8496-54d45ca6dc3d.jpg?v=1745417224",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892664701016,
+      "created_at": "2025-04-23T10:06:57-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:07:04-04:00",
+      "product_id": 8335119286360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_71638279-5a8b-4153-8ec6-6c6d88ec1f7a.jpg?v=1745417224",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892664733784,
+      "created_at": "2025-04-23T10:06:57-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:07:04-04:00",
+      "product_id": 8335119286360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_d205b1e5-c4a8-4095-8834-37902f3fbae1.jpg?v=1745417224",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP13PMAX_ElectricBlue.jpg?v=1743522142",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

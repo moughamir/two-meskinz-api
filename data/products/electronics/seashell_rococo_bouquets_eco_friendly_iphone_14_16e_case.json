@@ -1,0 +1,120 @@
+{
+  "id": 8341684748376,
+  "title": "Seashell Rococo Bouquets iPhone 14/16e Case",
+  "handle": "seashell-rococo-bouquets-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say bonjour to baroque! The Rococo Bouquets Phone Case is your pocket-sized passport to 18th-century garden parties and over-the-top floral fantasy. With delicately sketched blooms in a soft rose hue, it’s giving Versailles elegance with Pela’s planet-friendly twist. Fancy? Absolutely. Compostable? Of course. Because your phone should be as dramatic and delightful as a powdered wig in a windstorm.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T05:36:44-04:00",
+  "created_at": "2025-04-09T12:56:28-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Rococo Revival",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Rococo Bouquets",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42806298542168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:ROCOCO-BOUQUETS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8341684748376,
+      "created_at": "2025-04-09T12:56:28-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34808996692056,
+      "created_at": "2025-04-09T12:56:28-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T12:56:30-04:00",
+      "product_id": 8341684748376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-BOUQUETS_IP14_Seashell.jpg?v=1744217790",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34986408804440,
+      "created_at": "2025-05-08T04:48:56-04:00",
+      "position": 2,
+      "updated_at": "2025-05-08T04:49:04-04:00",
+      "product_id": 8341684748376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Friends_PDP_1x1_01_0524d55c-7e4b-44d3-9a50-c5def4f657eb.jpg?v=1746694144",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986408673368,
+      "created_at": "2025-05-08T04:48:56-04:00",
+      "position": 3,
+      "updated_at": "2025-05-08T04:49:04-04:00",
+      "product_id": 8341684748376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Android_PDP_1x1_03_debeedfc-72c0-47a9-bfcd-6d215e659307.jpg?v=1746694144",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986408738904,
+      "created_at": "2025-05-08T04:48:56-04:00",
+      "position": 4,
+      "updated_at": "2025-05-08T04:49:04-04:00",
+      "product_id": 8341684748376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_IPADGrid_PDP_1x1_05_9b2910a2-e9c5-443d-be04-fc2053c42f61.jpg?v=1746694144",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986408706136,
+      "created_at": "2025-05-08T04:48:56-04:00",
+      "position": 5,
+      "updated_at": "2025-05-08T04:49:04-04:00",
+      "product_id": 8341684748376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Grid_PDP_1x1_04_c76a4215-7d5c-48ae-8f2e-ac678eaf496e.jpg?v=1746694144",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-BOUQUETS_IP14_Seashell.jpg?v=1744217790",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

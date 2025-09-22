@@ -1,0 +1,131 @@
+{
+  "id": 7359546818648,
+  "title": "Seashell Painted Petals iPhone 11 Pro Case",
+  "handle": "seashell-painted-petals-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸 Embrace the beauty of a blooming garden with our Painted Petals Phone Case. This case showcases a stunning array of watercolor flowers in vibrant shades of pink, purple, and red, creating a lush and artistic masterpiece right in your hand. Perfect for floral enthusiasts and art lovers alike, this case adds a burst of color and charm, making every call feel like a walk through a flower-filled paradise. 🌺📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-13T09:03:54-04:00",
+  "created_at": "2023-04-10T09:46:25-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Spring Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Painted Petals",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40223086248024,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:PAINTED-PETALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7359546818648,
+      "created_at": "2023-04-10T09:46:25-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30239718015064,
+      "created_at": "2023-04-10T09:46:25-04:00",
+      "position": 1,
+      "updated_at": "2023-04-10T09:46:25-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PAINTED-PETALS_IP11P_Seashell.jpg?v=1681134385",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241262567512,
+      "created_at": "2023-04-12T19:01:38-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T19:01:40-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SpringFlowersv1_d4190f17-1541-401a-b3b8-535a25483ff4.png?v=1681340500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30240461750360,
+      "created_at": "2023-04-11T15:37:09-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T19:01:40-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9513_be008ab0-3567-4ac1-b8e2-57d49b93f8d7.jpg?v=1681340500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30240461783128,
+      "created_at": "2023-04-11T15:37:09-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T19:01:40-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9394_44046037-f205-4a6c-adb7-8f025545b67e.jpg?v=1681340500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241262534744,
+      "created_at": "2023-04-12T19:01:38-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T19:01:40-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SpringFlowersv5_cd807eb4-aa6c-45a6-96de-010401d49f9e.png?v=1681340500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241262600280,
+      "created_at": "2023-04-12T19:01:38-04:00",
+      "position": 6,
+      "updated_at": "2023-04-12T19:01:40-04:00",
+      "product_id": 7359546818648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SpringFlowersv4_9fb0406d-bd7a-49cb-a0cc-f273e41bd9d2.png?v=1681340500",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PAINTED-PETALS_IP11P_Seashell.jpg?v=1681134385",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

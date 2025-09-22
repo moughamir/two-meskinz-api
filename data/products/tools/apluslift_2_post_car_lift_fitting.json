@@ -1,0 +1,174 @@
+{
+  "id": 5643252760734,
+  "title": "APlusLift 2-Post Car Lift Fitting",
+  "handle": "apluslift-2-post-car-lift-fitting",
+  "body_html": "<h3>One 2-post car lift fitting.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2020-09-02T00:39:52-07:00",
+  "created_at": "2020-09-02T00:39:51-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 44663191437540,
+      "title": "Short Fitting (HW-10KBP Models)",
+      "option1": "Short Fitting (HW-10KBP Models)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 65756638314724,
+        "product_id": 5643252760734,
+        "position": 1,
+        "created_at": "2024-03-01T12:56:44-08:00",
+        "updated_at": "2024-03-01T12:56:45-08:00",
+        "alt": "APlusLift Car Lift Short Fitting",
+        "width": 1080,
+        "height": 1440,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+        "variant_ids": [
+          44663191437540
+        ]
+      },
+      "available": true,
+      "price": "18.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5643252760734,
+      "created_at": "2024-03-01T12:54:33-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330476171492,
+      "title": "Long Fitting (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)",
+      "option1": "Long Fitting (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 67956585627876,
+        "product_id": 5643252760734,
+        "position": 2,
+        "created_at": "2024-06-20T18:36:20-07:00",
+        "updated_at": "2024-06-20T18:36:21-07:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1440,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-4-inch.jpg?v=1718933781",
+        "variant_ids": [
+          45330476171492
+        ]
+      },
+      "available": true,
+      "price": "24.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5643252760734,
+      "created_at": "2024-06-20T18:49:25-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330476204260,
+      "title": "T-Fitting (HW-10KOH AP-10SR HW-10ASY Models)",
+      "option1": "T-Fitting (HW-10KOH AP-10SR HW-10ASY Models)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 67957406302436,
+        "product_id": 5643252760734,
+        "position": 3,
+        "created_at": "2024-06-20T20:52:12-07:00",
+        "updated_at": "2024-06-20T20:52:13-07:00",
+        "alt": null,
+        "width": 933,
+        "height": 769,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/10koh-t-fitting.jpg?v=1718941933",
+        "variant_ids": [
+          45330476204260
+        ]
+      },
+      "available": true,
+      "price": "20.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 5643252760734,
+      "created_at": "2024-06-20T18:49:25-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 65756638314724,
+      "created_at": "2024-03-01T12:56:44-08:00",
+      "position": 1,
+      "updated_at": "2024-03-01T12:56:45-08:00",
+      "product_id": 5643252760734,
+      "variant_ids": [
+        44663191437540
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": 67956585627876,
+      "created_at": "2024-06-20T18:36:20-07:00",
+      "position": 2,
+      "updated_at": "2024-06-20T18:36:21-07:00",
+      "product_id": 5643252760734,
+      "variant_ids": [
+        45330476171492
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-4-inch.jpg?v=1718933781",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": 67957406302436,
+      "created_at": "2024-06-20T20:52:12-07:00",
+      "position": 3,
+      "updated_at": "2024-06-20T20:52:13-07:00",
+      "product_id": 5643252760734,
+      "variant_ids": [
+        45330476204260
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/10koh-t-fitting.jpg?v=1718941933",
+      "width": 933,
+      "height": 769
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "Short Fitting (HW-10KBP Models)",
+        "Long Fitting (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)",
+        "T-Fitting (HW-10KOH AP-10SR HW-10ASY Models)"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+  "images_count": 3,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

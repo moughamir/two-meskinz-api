@@ -1,0 +1,117 @@
+{
+  "id": 7051708170349,
+  "title": "Lemon, Verbena & Cedar",
+  "handle": "lemon-verbena",
+  "body_html": "<p>A wonderfully complex twist on a traditional lemon scent with notes of <strong>lemongrass</strong>, <strong>Italian verbena</strong>, and earthy <strong>cedarwood</strong>.</p>",
+  "published_at": "2023-08-14T19:50:51-06:00",
+  "created_at": "2023-08-09T16:19:43-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Antica Farmacista",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Antica Farmacista",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Citrus",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_lemonverbenacedar"
+  ],
+  "variants": [
+    {
+      "id": 40702260445293,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LVBH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051708170349,
+      "created_at": "2023-08-09T16:19:43-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525476208749,
+      "created_at": "2023-09-28T17:22:22-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T17:22:37-06:00",
+      "product_id": 7051708170349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-LemonVerbena-Vertical-Resized.jpg?v=1695943357",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525476274285,
+      "created_at": "2023-09-28T17:22:22-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T17:22:37-06:00",
+      "product_id": 7051708170349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lemonresized_fa716405-938d-4bf3-9025-53bd0439e2f0.jpg?v=1695943357",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350238318701,
+      "created_at": "2023-08-14T19:30:06-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T17:22:37-06:00",
+      "product_id": 7051708170349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Antica-Farmacista-Lemon-Verbena-Device-V4.jpg?v=1695943357",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525476241517,
+      "created_at": "2023-09-28T17:22:22-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T17:22:37-06:00",
+      "product_id": 7051708170349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-LemonVerbena-Overhead-Shadow-Resized.jpg?v=1695943357",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-LemonVerbena-Vertical-Resized.jpg?v=1695943357",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Antica Farmacista",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

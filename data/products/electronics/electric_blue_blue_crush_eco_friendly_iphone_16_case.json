@@ -1,0 +1,98 @@
+{
+  "id": 8383675924568,
+  "title": "Electric Blue Blue Crush iPhone 16 Case",
+  "handle": "electric-blue-blue-crush-eco-friendly-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌊📱 Make waves with our Blue Crush Phone Case by Pela! Inspired by the rhythmic flow of ocean waves, this striking blue and white design offers a fresh, modern look that captures the essence of a seaside escape. Perfect for the environmentally conscious and style-savvy, it’s made from sustainable, compostable materials that protect your phone and the planet. Whether you’re surfing the web or catching real waves, this case keeps your device safe and stylish. Dive into sustainability with a splash of bold, oceanic flair! 🐚💙</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-23T18:21:33-04:00",
+  "created_at": "2025-05-23T11:24:47-04:00",
+  "updated_at": "2025-09-22T15:14:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Bold and Bright",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Blue Crush",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42902418292824,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17250-IP16-ELEBLUE-AOD:BLUE-CRUSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8383675924568,
+      "created_at": "2025-05-23T11:24:47-04:00",
+      "updated_at": "2025-09-22T15:14:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35080343453784,
+      "created_at": "2025-05-23T11:24:47-04:00",
+      "position": 1,
+      "updated_at": "2025-05-23T11:24:49-04:00",
+      "product_id": 8383675924568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_IP16_ElectricBlue.jpg?v=1748013889",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35080957919320,
+      "created_at": "2025-05-23T13:25:24-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T13:25:28-04:00",
+      "product_id": 8383675924568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BRIGHTBLOOMS_LAV_1-3_18ed01ee-de37-4da9-8816-508ab587df61.jpg?v=1748021128",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35080957886552,
+      "created_at": "2025-05-23T13:25:24-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T13:25:28-04:00",
+      "product_id": 8383675924568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOLDANDBRIGHT_MULTI-16_56ff40fe-0340-4512-9c54-b79d97a86772.jpg?v=1748021128",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_IP16_ElectricBlue.jpg?v=1748013889",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

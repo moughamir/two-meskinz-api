@@ -1,0 +1,67 @@
+{
+  "id": 7785814458535,
+  "title": "Brand: Sandvik Coromant / Part #: 8330258",
+  "handle": "ic043018909",
+  "body_html": "<br><strong>Item #: </strong>67609792<br><strong>Brand: </strong>Sandvik Coromant<br><strong>Model #: </strong>8330258<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tap Type</strong>\n</td>\n<td>Straight Flute</td>\n</tr>\n<tr>\n<td><strong>Thread Size (mm)</strong></td>\n<td>M6x0.75</td>\n</tr>\n<tr>\n<td><strong>Thread Limit</strong></td>\n<td>D5</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6HX</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Bottoming</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>HSS-E-PM</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>DLC</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>34</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>M</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>80.0000</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>0.75</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>15.00</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>15.00</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Through &amp; Blind Hole Threading; Tapping; Automotive</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>6.4800</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (mm)</strong></td>\n<td>40.00</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>CoroTap? 100</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:12:21-06:00",
+  "created_at": "2023-12-29T03:12:21-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Sandvik Coromant",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43705580945575,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67609792",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.32",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785814458535,
+      "created_at": "2023-12-29T03:12:21-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237333815463,
+      "created_at": "2025-02-03T18:12:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:29-06:00",
+      "product_id": 7785814458535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6761017-21_fbff7f85-541b-45d3-9d9c-7d15be998436.jpg?v=1738627949",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.32,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6761017-21_fbff7f85-541b-45d3-9d9c-7d15be998436.jpg?v=1738627949",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sandvik Coromant",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

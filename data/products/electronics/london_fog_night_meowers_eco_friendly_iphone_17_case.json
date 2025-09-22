@@ -1,0 +1,140 @@
+{
+  "id": 8453537005656,
+  "title": "London Fog Night Meowers iPhone 17 Case",
+  "handle": "london-fog-night-meowers-eco-friendly-iphone-17-case",
+  "body_html": "<p data-start=\"83\" data-end=\"519\">Who says black cats are bad luck? The Night Meowers Phone Case is here to prove otherwise—with a whole clowder of sleek, sassy kitties ready to keep your phone purr-fectly protected. Whether they’re stretching, sitting, or plotting world domination, these cool cats bring just the right amount of mischief and charm to your everyday. Midnight vibes, feline flair, and a touch of mystery—all in one case.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:11:43-04:00",
+  "created_at": "2025-08-21T13:48:44-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Night Meowers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184182689880,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:NIGHT-MEOWERS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8453537005656,
+      "created_at": "2025-09-03T18:39:01-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184182722648,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:NIGHT-MEOWERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8453537005656,
+      "created_at": "2025-09-03T18:39:01-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638752673880,
+      "created_at": "2025-08-21T13:48:44-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T13:48:47-04:00",
+      "product_id": 8453537005656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NIGHT-MEOWERS_IP17_LondonFog.jpg?v=1755798527",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736275255384,
+      "created_at": "2025-09-03T10:41:37-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:41:37-04:00",
+      "product_id": 8453537005656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/beb8d4870c6d07b769cacd5dfbc547c4_ec6be94f-75c8-4918-b6cd-85f3d58f775a.jpg?v=1756910497",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736275583064,
+      "created_at": "2025-09-03T10:41:38-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:41:38-04:00",
+      "product_id": 8453537005656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fca8a21a409658bb86940ad6b603929a_c8a07994-de8e-4b96-8b77-24e1b4789259.jpg?v=1756910498",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736275976280,
+      "created_at": "2025-09-03T10:41:40-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:41:40-04:00",
+      "product_id": 8453537005656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fca8a21a409658bb86940ad6b603929a_4a322cb7-0e97-430a-a771-68f194a3a1e2.jpg?v=1756910500",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736276074584,
+      "created_at": "2025-09-03T10:41:41-04:00",
+      "position": 5,
+      "updated_at": "2025-09-03T10:41:41-04:00",
+      "product_id": 8453537005656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/48f0d7a247f006b1352d920bb6af8aaa_c5a4d1fe-dd0b-4010-8415-3421f435bbfd.jpg?v=1756910501",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NIGHT-MEOWERS_IP17_LondonFog.jpg?v=1755798527",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

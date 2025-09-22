@@ -1,0 +1,92 @@
+{
+  "id": 8452569628760,
+  "title": "Clear iPhone 17 Pro Case with Forest Floor Ridge (MagSafe Included)",
+  "handle": "clear-iphone-17-pro-case-with-forest-floor-ridge-magsafe-included",
+  "body_html": "<p class=\"p1\"><meta charset=\"utf-8\"><b data-stringify-type=\"bold\">Clear protection that doesn't quit.</b><span> Pela's most advanced clear case yet—premium drop protection and seamless wireless charging. Because you're not settling for basic, and neither should your phone case.</span></p>",
+  "published_at": "2025-09-09T14:33:55-04:00",
+  "created_at": "2025-08-20T14:38:02-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "Clear Case With Ridge",
+    "IP17 Series",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 43141477859416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28925-IP17P-FOREST-CLEAR-MS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 30,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8452569628760,
+      "created_at": "2025-08-20T14:38:03-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35631236776024,
+      "created_at": "2025-08-20T15:48:07-04:00",
+      "position": 1,
+      "updated_at": "2025-08-20T15:48:09-04:00",
+      "product_id": 8452569628760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17P_FORESTFLOOR_BACK_e85b0193-d1f4-4822-9c60-4aea05116929.jpg?v=1755719289",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35631236808792,
+      "created_at": "2025-08-20T15:48:07-04:00",
+      "position": 2,
+      "updated_at": "2025-08-20T15:48:08-04:00",
+      "product_id": 8452569628760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17P_FORESTFLOOR_BACK45L.jpg?v=1755719288",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35631236841560,
+      "created_at": "2025-08-20T15:48:07-04:00",
+      "position": 3,
+      "updated_at": "2025-08-20T15:48:08-04:00",
+      "product_id": 8452569628760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17P_FORESTFLOOR_BACK45R.jpg?v=1755719288",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17P_FORESTFLOOR_BACK_e85b0193-d1f4-4822-9c60-4aea05116929.jpg?v=1755719289",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

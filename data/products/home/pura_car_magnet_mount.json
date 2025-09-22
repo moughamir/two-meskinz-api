@@ -1,0 +1,89 @@
+{
+  "id": 7599417360493,
+  "title": "Pura Car Magnet Mount",
+  "handle": "pura-car-magnet-mount",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Secure, sleek, and effortless—the Pura Car™ Magnet Mount keeps your diffuser firmly in place anywhere the road takes you. With strong 3M adhesive and a scratch-resistant rubberized cover, it blends seamlessly into your car while making scenting easier than ever.</p>",
+  "published_at": "2025-02-11T14:13:18-07:00",
+  "created_at": "2025-01-29T13:42:13-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Accessories",
+  "tags": [
+    "remove-subs"
+  ],
+  "variants": [
+    {
+      "id": 42031424405613,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02939",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 9,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7599417360493,
+      "created_at": "2025-01-29T13:42:13-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33634182627437,
+      "created_at": "2025-01-29T13:46:25-07:00",
+      "position": 1,
+      "updated_at": "2025-01-29T13:46:27-07:00",
+      "product_id": 7599417360493,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CarMagnetMount-Prod1-0125.jpg?v=1738183587",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33634182234221,
+      "created_at": "2025-01-29T13:46:25-07:00",
+      "position": 2,
+      "updated_at": "2025-01-29T13:46:27-07:00",
+      "product_id": 7599417360493,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CarMagnetMount-Prod2-0125.jpg?v=1738183587",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33634182463597,
+      "created_at": "2025-01-29T13:46:25-07:00",
+      "position": 3,
+      "updated_at": "2025-01-29T13:46:27-07:00",
+      "product_id": 7599417360493,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CarMagnetMount-Prod3-0125.jpg?v=1738183587",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CarMagnetMount-Prod1-0125.jpg?v=1738183587",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

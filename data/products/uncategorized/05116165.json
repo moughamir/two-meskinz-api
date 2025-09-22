@@ -1,0 +1,67 @@
+{
+  "id": 8452605051047,
+  "title": "Vinyl Pebbled Surface Pattern, Static Dissipative Antistatic Matting",
+  "handle": "05116165",
+  "body_html": "<br><strong>Item #: </strong>18400887<br><strong>Brand: </strong>Bertech<br><strong>Model #: </strong>CM-3X3GKT<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Mat Type</strong>\n</td>\n<td>Anti-Static Floor Mat</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Vinyl</td>\n</tr>\n<tr> <td> <strong>Mat Length (Feet)</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Mat Width (Feet)</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Static Control Type</strong>\n</td>\n<td>Static Dissipative</td>\n</tr>\n<tr> <td> <strong>Mat Base Material</strong>\n</td>\n<td>Vinyl</td>\n</tr>\n<tr> <td> <strong>Surface Pattern</strong>\n</td>\n<td>Pebbled</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Gray</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Grounding Cord; ESD Mat; Heel Grounder</td>\n</tr>\n<tr> <td> <strong>Mat Thickness (Decimal Inch)</strong>\n</td>\n<td>0.190</td>\n</tr>\n<tr> <td> <strong>Mat Thickness (mm)</strong>\n</td>\n<td>0.19</td>\n</tr>\n<tr> <td> <strong>Grounding Cord Required</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Surface Material</strong>\n</td>\n<td>Vinyl</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>46182100</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:28:25-06:00",
+  "created_at": "2025-01-23T11:28:25-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Bertech",
+  "product_type": "Safety",
+  "tags": [
+    "Anti-Static & ESD Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46498232336551,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "18400887",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "244.43",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452605051047,
+      "created_at": "2025-01-23T11:28:25-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38245160550567,
+      "created_at": "2025-02-03T22:59:39-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:59:40-06:00",
+      "product_id": 8452605051047,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1840063-21.jpg?v=1738645180",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 244.43,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1840063-21.jpg?v=1738645180",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bertech",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 8381660790872,
+  "title": "Seashell Dancing Lights iPhone 16 Pro Max Case",
+  "handle": "seashell-dancing-lights-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><span>Step into the spotlight with the Dancing Lights Phone Case, a part of our delightful Cheers to You Collection.  Featuring a playful pattern of pink disco balls, party ribbon and champagne glasses, this case is perfect for those who carry the rhythm of the night in their hearts. 🎉✨🌱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:15:17-04:00",
+  "created_at": "2025-05-21T09:51:41-04:00",
+  "updated_at": "2025-09-22T15:14:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers to You",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dancing Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895727657048,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17321-IP16PMAX-SEASHELL-AOD:DANCING-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381660790872,
+      "created_at": "2025-05-21T09:51:41-04:00",
+      "updated_at": "2025-09-22T15:14:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065427296344,
+      "created_at": "2025-05-21T09:51:41-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:51:43-04:00",
+      "product_id": 8381660790872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_IP16PMAX_Seashell.jpg?v=1747835503",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065575276632,
+      "created_at": "2025-05-21T10:29:30-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:29:34-04:00",
+      "product_id": 8381660790872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8501Large_64ee5cde-e0cd-4890-86b2-4835756ff3ab.jpg?v=1747837774",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065575309400,
+      "created_at": "2025-05-21T10:29:30-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T10:29:34-04:00",
+      "product_id": 8381660790872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8491Large_0da9dcd8-fd51-4f07-a242-dd46116f66e8.jpg?v=1747837774",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_IP16PMAX_Seashell.jpg?v=1747835503",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

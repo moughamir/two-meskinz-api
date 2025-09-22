@@ -1,0 +1,69 @@
+{
+  "id": 5642977771678,
+  "title": "APlusLift Rubber Stack Blocks - 4 Pieces",
+  "handle": "apluslift-rubber-block-pads",
+  "body_html": "<h3>Four hard rubber stack blocks 6 3/8\" (L) x 4 3/4\" (W) x 1 5/8\" (H).</h3>",
+  "published_at": "2020-09-01T23:21:25-07:00",
+  "created_at": "2020-09-01T23:21:24-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts",
+    "4-Post Lifts and Jacks Parts",
+    "Scissor Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 35954601033886,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "70.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5642977771678,
+      "created_at": "2020-09-01T23:21:24-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 71873809252580,
+      "created_at": "2024-10-31T07:52:45-07:00",
+      "position": 1,
+      "updated_at": "2024-10-31T07:52:47-07:00",
+      "product_id": 5642977771678,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-rubber-block-pad.jpg?v=1730386367",
+      "width": 1800,
+      "height": 1800
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 70,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-rubber-block-pad.jpg?v=1730386367",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

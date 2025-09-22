@@ -1,0 +1,120 @@
+{
+  "id": 8328349352024,
+  "title": "Seashell Petals Sketch iPhone 15 Case",
+  "handle": "seashell-petals-sketch-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\">Like a doodle straight from a daydream, the <em data-start=\"85\" data-end=\"100\">Petals Sketch</em> Phone Case is all about those carefree, flower-filled vibes. With hand-drawn blooms in a rainbow of colors, this case feels like spring scribbled on your favorite notepad—playful, artsy, and totally charming.<meta charset=\"utf-8\">☀️🌷<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-17T08:18:54-04:00",
+  "created_at": "2025-03-26T11:48:43-04:00",
+  "updated_at": "2025-09-22T15:14:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Petals Sketch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42774343090264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:PETALS-SKETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8328349352024,
+      "created_at": "2025-03-26T11:48:43-04:00",
+      "updated_at": "2025-09-22T15:14:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34748588032088,
+      "created_at": "2025-03-26T11:48:43-04:00",
+      "position": 1,
+      "updated_at": "2025-03-26T11:48:45-04:00",
+      "product_id": 8328349352024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETALS-SKETCH_IP15_Seashell.jpg?v=1743004125",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814916427864,
+      "created_at": "2025-04-10T13:14:02-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T13:14:07-04:00",
+      "product_id": 8328349352024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_PetalsSketch_PDP_03_ea4c8494-91fb-4126-bf54-09a95f10d7e6.jpg?v=1744305247",
+      "width": 4380,
+      "height": 4380
+    },
+    {
+      "id": 34814916395096,
+      "created_at": "2025-04-10T13:14:02-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T13:14:07-04:00",
+      "product_id": 8328349352024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_PetalsSketch_PDP_02_8991a926-1932-4924-9a0c-32014c87e47d.jpg?v=1744305247",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34814916362328,
+      "created_at": "2025-04-10T13:14:02-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T13:14:07-04:00",
+      "product_id": 8328349352024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_PetalsSketch_PDP_01_b2eddf79-ad54-47fc-a764-0451e69f686a.jpg?v=1744305247",
+      "width": 4144,
+      "height": 4144
+    },
+    {
+      "id": 34814916460632,
+      "created_at": "2025-04-10T13:14:02-04:00",
+      "position": 5,
+      "updated_at": "2025-04-10T13:14:04-04:00",
+      "product_id": 8328349352024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_PetalsSketch_PDP_04_f3e37a2e-e556-4501-a373-8006e103f630.jpg?v=1744305244",
+      "width": 3777,
+      "height": 3777
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETALS-SKETCH_IP15_Seashell.jpg?v=1743004125",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

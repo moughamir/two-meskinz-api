@@ -1,0 +1,52 @@
+{
+  "id": 8453240520871,
+  "title": "11 mm Nut Driver, 3″ Hollow Shaft",
+  "handle": "kp6048510",
+  "body_html": null,
+  "published_at": "2025-01-23T22:42:14-06:00",
+  "created_at": "2025-01-23T22:42:13-06:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46499935289511,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6048510",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.20",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453240520871,
+      "created_at": "2025-01-23T22:42:13-06:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.2,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

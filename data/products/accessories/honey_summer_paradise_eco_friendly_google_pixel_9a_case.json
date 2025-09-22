@@ -1,0 +1,97 @@
+{
+  "id": 8310737371224,
+  "title": "Honey Summer Paradise Google Pixel 9a Case",
+  "handle": "honey-summer-paradise-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Welcome to your own pocket-sized vacation with the Summer Paradise Phone Case! Adorned with delightful, retro-style travel stickers featuring tropical icons like juicy lemons, lush palm trees, and refreshing cocktails, this vibrant design will transport you to a sunny getaway. Perfect for bringing a bit of warmth and fun to your everyday routine, this phone case is the ideal companion for dreamers and adventurers alike. Let the cheerful colors and playful illustrations brighten your day and keep the summer vibes alive all year round. 🍍🍋🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T08:48:18-04:00",
+  "created_at": "2025-03-11T12:32:13-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Summer Paradise",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726129336408,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15747-PX9a-HONEY-AOD:SUMMER-PARADISE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310737371224,
+      "created_at": "2025-03-11T12:32:14-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671291727960,
+      "created_at": "2025-03-11T12:32:13-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:16-04:00",
+      "product_id": 8310737371224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_PX9A_Honey.jpg?v=1741710736",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678521167960,
+      "created_at": "2025-03-12T16:05:30-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T16:05:31-04:00",
+      "product_id": 8310737371224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_14_ce8bb4a7-dc46-433a-a786-271d8fcc62c0.jpg?v=1741809931",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678521135192,
+      "created_at": "2025-03-12T16:05:30-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T16:05:31-04:00",
+      "product_id": 8310737371224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_10_ade4e931-8c41-4119-9609-0d8300cbc1ab.jpg?v=1741809931",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_PX9A_Honey.jpg?v=1741710736",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785901621415,
+  "title": "Brand: Stahlwille / Part #: 02470020",
+  "handle": "hc4935220",
+  "body_html": "<br><strong>Item #: </strong>94089695<br><strong>Brand: </strong>Stahlwille<br><strong>Model #: </strong>02470020<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wrench Type</strong>\n</td>\n<td>Flat Ring Wrench</td>\n</tr>\n<tr>\n<td><strong>Wrench Size</strong></td>\n<td>5/16 in</td>\n</tr>\n<tr>\n<td><strong>Head Type</strong></td>\n<td>Box End; Straight</td>\n</tr>\n<tr>\n<td><strong>Double/Single End</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Wrench Shape</strong></td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2.56 in</td>\n</tr>\n<tr>\n<td><strong>Head Thickness</strong></td>\n<td>0.2362</td>\n</tr>\n<tr>\n<td><strong>Size (Decimal Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Number Of Points</strong></td>\n<td>12</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:41:57-06:00",
+  "created_at": "2023-12-29T06:41:57-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Stahlwille",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Wrenches"
+  ],
+  "variants": [
+    {
+      "id": 43705875792039,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94089695",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785901621415,
+      "created_at": "2023-12-29T06:41:57-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237634953383,
+      "created_at": "2025-02-03T18:19:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:19:58-06:00",
+      "product_id": 7785901621415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9409092-21_b4544669-48c6-4f36-adc8-1be6e31b55c7.jpg?v=1738628398",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9409092-21_b4544669-48c6-4f36-adc8-1be6e31b55c7.jpg?v=1738628398",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Stahlwille",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

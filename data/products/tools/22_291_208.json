@@ -1,0 +1,69 @@
+{
+  "id": 5478900334759,
+  "title": "Socket Handles; Tool Type: Ratcheting Handle; Drive Size (mm): 122.00; Overall Length (mm): 122.0000; Material: Steel",
+  "handle": "22-291-208",
+  "body_html": "<br><strong>Item #: </strong>02015402<br><strong>Brand: </strong>Bahco<br><strong>Model #: </strong>BAH808060<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Ratcheting Handle</td>\n</tr>\n<tr> <td> <strong>Drive Size (mm)</strong>\n</td>\n<td>122.00</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>122.0000</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Insulated</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Tether Style</strong>\n</td>\n<td>Not Tether Capable</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112832</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:26:48-06:00",
+  "created_at": "2020-07-14T02:16:29-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Bahco",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Drivers & Extensions",
+    "Floor Cleaning Machines & Vacuums",
+    "Ratchets"
+  ],
+  "variants": [
+    {
+      "id": 35208956608679,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02015402",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5478900334759,
+      "created_at": "2020-07-14T02:16:29-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241134280871,
+      "created_at": "2025-02-03T20:47:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:47:47-06:00",
+      "product_id": 5478900334759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0201540-21.jpg?v=1738637267",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 75.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0201540-21.jpg?v=1738637267",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bahco",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

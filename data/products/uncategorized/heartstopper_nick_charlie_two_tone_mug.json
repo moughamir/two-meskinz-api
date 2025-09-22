@@ -1,0 +1,104 @@
+{
+  "id": 7844792238127,
+  "title": "Heartstopper Nick & Charlie Two-tone Mug",
+  "handle": "heartstopper-nick-charlie-two-tone-mug",
+  "body_html": "<p>In collaboration with Illustrator &amp; Brand Identity Designer, Carly Berry, sip your favorite beverages in style with our <em>Heartstopper </em>Nick &amp; Charlie two-tone mug! This mug features a heartfelt illustration of the beloved duo, perfect for bringing a touch of warmth to your mornings. Crafted from durable ceramic, it's ideal for cozy drinks while binge-watching your favorite episodes or enjoying a quiet moment—because love is always better with a cup in hand!</p>\n<ul>\n<li>11 oz.</li>\n<li>Made of: Ceramic</li>\n<li>Colored rim, inside, and handle</li>\n<li>Care: Dishwasher and microwave safe</li>\n</ul>",
+  "published_at": "2024-10-03T11:49:21-04:00",
+  "created_at": "2024-10-03T09:25:49-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "81059939",
+    "artist",
+    "artists",
+    "Badge: Best Seller | #E50815 | #FFFFFF",
+    "best sellers",
+    "collections",
+    "Drinkware",
+    "Heartstopper",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "new",
+    "Promo Eligible Collection",
+    "Title: Heartstopper",
+    "unisex",
+    "White Ceramic Mug with Color Inside"
+  ],
+  "variants": [
+    {
+      "id": 43282176901167,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101009-0005-HS-BOYS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7844792238127,
+      "created_at": "2024-10-03T09:25:49-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34759708606511,
+      "created_at": "2024-10-03T09:25:49-04:00",
+      "position": 1,
+      "updated_at": "2024-10-03T09:25:49-04:00",
+      "product_id": 7844792238127,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-BOYS_101009_FT_MF.png?v=1727961949",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34759708639279,
+      "created_at": "2024-10-03T09:25:49-04:00",
+      "position": 2,
+      "updated_at": "2024-10-03T09:25:49-04:00",
+      "product_id": 7844792238127,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-BOYS_101009_BK_MF.png?v=1727961949",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34759708770351,
+      "created_at": "2024-10-03T09:25:49-04:00",
+      "position": 3,
+      "updated_at": "2024-10-03T09:25:49-04:00",
+      "product_id": 7844792238127,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-BOYS_101009_LIFE4.png?v=1727961949",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-BOYS_101009_FT_MF.png?v=1727961949",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

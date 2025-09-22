@@ -1,0 +1,129 @@
+{
+  "id": 8444662939736,
+  "title": "Bubblegum Pink Snakebite iPhone 17 Case",
+  "handle": "bubblegum-pink-snakebite-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">🐍💀 Embrace the wild west with the Snakebite Phone Case from the exclusive Pela x Cam Miller Artist Series Collection! Featuring a bold and edgy design of a cowboy hat-wearing skull entangled with a fierce rattlesnake, this case brings a punch of rebellious charm to your everyday adventures. The vibrant bubblegum pink background adds a playful contrast to the gritty artwork, making it a standout piece for those who dare to be different. Perfect for thrill-seekers and art lovers alike, the Snakebite case is your ultimate accessory for a fearless and stylish look. Ride into the sunset with a touch of danger and a whole lot of attitude! 🌵🐍🔆</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:46:13-04:00",
+  "created_at": "2025-08-08T11:49:17-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Cam Miller",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Snakebite",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184116236376,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17470-IP17-BUBPINK-AOD:SNAKEBITE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 90,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444662939736,
+      "created_at": "2025-09-03T18:28:11-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43188419690584,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17470-IP17-BUBPINK-AOD:SNAKEBITE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 80,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444662939736,
+      "created_at": "2025-09-05T14:01:49-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567209447512,
+      "created_at": "2025-08-08T11:49:17-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:19-04:00",
+      "product_id": 8444662939736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_IP17_BubblegumPink.jpg?v=1754668159",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081121005656,
+      "created_at": "2025-05-23T14:04:03-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T14:04:08-04:00",
+      "product_id": 8444662939736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_BUBBLEGUMPINK--2_7f67d379-9671-490f-9674-054130601592.jpg?v=1748023448",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081121038424,
+      "created_at": "2025-05-23T14:04:03-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T14:04:08-04:00",
+      "product_id": 8444662939736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_BUBBLEGUMPINK--1_f06927c0-da7d-420b-84cc-4f54656348c0.jpg?v=1748023448",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081118711896,
+      "created_at": "2025-05-23T14:03:35-04:00",
+      "position": 4,
+      "updated_at": "2025-05-23T14:03:40-04:00",
+      "product_id": 8444662939736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--4_6f45942b-cc52-47bb-a075-9305a24f8f90.jpg?v=1748023420",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKEBITE_IP17_BubblegumPink.jpg?v=1754668159",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

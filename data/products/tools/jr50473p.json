@@ -1,0 +1,68 @@
+{
+  "id": 5325385924775,
+  "title": "‎1 mm Dia. × 0.039″ Shank × 0.08″ Flute Length × 1-1/2″ OAL, 120 Degrees, Carbide, Hard'X, Multi-Function Tool",
+  "handle": "jr50473p",
+  "body_html": "<br><strong>Item #: </strong>FB50888092H0100<br><strong>Brand: </strong>Magafor<br><strong>Model #: </strong>888092H0100<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>1 mm </td>\n</tr>\n<tr>\n<td><strong>Flute Length</strong></td>\n<td>0.08″ </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Multi-Function Tool </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎1-1/2″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Hard'X </td>\n</tr>\n<tr>\n<td><strong>Angle</strong></td>\n<td>120 Degrees </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>K15 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.039″ </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:11:32-06:00",
+  "created_at": "2020-06-13T06:45:19-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Magafor",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34704456745127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FB50888092H0100",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "62.94",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5325385924775,
+      "created_at": "2020-06-13T06:45:19-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38139800322215,
+      "created_at": "2025-01-23T20:11:40-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:11:42-06:00",
+      "product_id": 5325385924775,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_multiv_metric_k15_carbide_b_b4b6_d19e2eba-3020-4fb4-96c8-8c992ae92022.png?v=1737684702",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 62.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_multiv_metric_k15_carbide_b_b4b6_d19e2eba-3020-4fb4-96c8-8c992ae92022.png?v=1737684702",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Magafor",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

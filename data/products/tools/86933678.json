@@ -1,0 +1,67 @@
+{
+  "id": 8452662919335,
+  "title": "Slotted Screwdrivers; Blade Width (Inch): 1/4; Blade Length (Inch): 8; Overall Length (Inch): 12-3/4; Handle Type: Polypropelyne Softgrip; Handle Length (Decimal Inch): 4-3/4; Shank Type: Round",
+  "handle": "86933678",
+  "body_html": "<br><strong>Item #: </strong>64991243<br><strong>Brand: </strong>Tekton<br><strong>Model #: </strong>DHE34250<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Blade Width (Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Blade Length (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>12-3/4</td>\n</tr>\n<tr> <td> <strong>Handle Type</strong>\n</td>\n<td>Polypropelyne Softgrip</td>\n</tr>\n<tr> <td> <strong>Handle Length (Decimal Inch)</strong>\n</td>\n<td>4-3/4</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Round</td>\n</tr>\n<tr> <td> <strong>Handle Color</strong>\n</td>\n<td>Red; Black</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Chrome</td>\n</tr>\n<tr> <td> <strong>Blade Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Handle Material</strong>\n</td>\n<td>Polypropylene</td>\n</tr>\n<tr> <td> <strong>Blade Thickness (Decimal Inch)</strong>\n</td>\n<td>0.2500</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111701</td>\n</tr>\n<tr> <td> <strong>Blade Width (Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Blade Length (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>12-3/4</td>\n</tr>\n<tr> <td> <strong>Handle Type</strong>\n</td>\n<td>Polypropelyne Softgrip</td>\n</tr>\n<tr> <td> <strong>Handle Length (Decimal Inch)</strong>\n</td>\n<td>4-3/4</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Round</td>\n</tr>\n<tr> <td> <strong>Handle Color</strong>\n</td>\n<td>Red; Black</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Chrome</td>\n</tr>\n<tr> <td> <strong>Blade Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Handle Material</strong>\n</td>\n<td>Polypropylene</td>\n</tr>\n<tr> <td> <strong>Blade Thickness (Decimal Inch)</strong>\n</td>\n<td>0.2500</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111701</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>64991243</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>DHE34250</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:54:11-06:00",
+  "created_at": "2025-01-23T13:54:10-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Tekton",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 46498438283431,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "64991243",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452662919335,
+      "created_at": "2025-01-23T13:54:10-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38248460845223,
+      "created_at": "2025-02-04T00:49:02-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:49:04-06:00",
+      "product_id": 8452662919335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6499124-21.jpg?v=1738651744",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6499124-21.jpg?v=1738651744",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tekton",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

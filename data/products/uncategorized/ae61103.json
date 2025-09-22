@@ -1,0 +1,68 @@
+{
+  "id": 5337106546855,
+  "title": "‎1/4-20 UNC-2B REK.1B-VA Tap",
+  "handle": "ae61103",
+  "body_html": "<br><strong>Item #: </strong>ER45BU2735009<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>BU203000.5009<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| NC | </td>\n</tr>\n<tr>\n<td><strong>Standard</strong></td>\n<td>| DIN | ANSI | </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>‎1/4″ - 20 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.255″ </td>\n</tr>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Thread Cutting Part Length (THL)</strong></td>\n<td>0.67″ </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>20 </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Spiral Point|Chamfer </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| 2B | </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>3.15″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>‎4P-5P </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Fractional </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSSCo </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:37:33-06:00",
+  "created_at": "2020-06-15T16:08:26-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Drilling",
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 34733480804519,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER45BU2735009",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "43.06",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337106546855,
+      "created_at": "2020-06-15T16:08:26-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143298404519,
+      "created_at": "2025-01-23T21:37:49-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:37:50-06:00",
+      "product_id": 5337106546855,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f870b4f8-37df-45af-9ce1-f678c58852b3.png?v=1737689870",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 43.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f870b4f8-37df-45af-9ce1-f678c58852b3.png?v=1737689870",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

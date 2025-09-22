@@ -1,0 +1,67 @@
+{
+  "id": 7786445897895,
+  "title": "Brand: Value Collection / Part #: ETPS-125-8",
+  "handle": "wk401570185",
+  "body_html": "<br><strong>Item #: </strong>43256312<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>ETPS-125-8<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Self Clinching Pilot Pin</td>\n</tr>\n<tr>\n<td><strong>System of Measurement</strong></td>\n<td>Inch</td>\n</tr>\n<tr>\n<td><strong>Diameter (Decimal Inch)</strong></td>\n<td>0.2050</td>\n</tr>\n<tr>\n<td><strong>Pin Length (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Pin Length (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Passivated</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Tapered</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>300</td>\n</tr>\n<tr>\n<td><strong>PEM Part Number</strong></td>\n<td>ETPS-125-8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:48:21-06:00",
+  "created_at": "2023-12-30T01:48:21-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Fasteners",
+  "tags": [
+    "Pins; Clips & Retaining Rings"
+  ],
+  "variants": [
+    {
+      "id": 43708031697063,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43256312",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.47",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786445897895,
+      "created_at": "2023-12-30T01:48:21-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238701191335,
+      "created_at": "2025-02-03T19:00:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:00:33-06:00",
+      "product_id": 7786445897895,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4325632-21_8333291e-2bb7-44f8-9ebc-918592021a3b.jpg?v=1738630833",
+      "width": 600,
+      "height": 167
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.47,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4325632-21_8333291e-2bb7-44f8-9ebc-918592021a3b.jpg?v=1738630833",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

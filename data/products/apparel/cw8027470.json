@@ -1,0 +1,67 @@
+{
+  "id": 7785795649703,
+  "title": "Brand: Omega Lift Equipment / Part #: 10065W",
+  "handle": "cw8027470",
+  "body_html": "<br><strong>Item #: </strong>06518468<br><strong>Brand: </strong>Omega Lift Equipment<br><strong>Model #: </strong>10065W<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Jack Type</strong>\n</td>\n<td>Side Pump Bottle Jack</td>\n</tr>\n<tr>\n<td><strong>Load Capacity (Tons)</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Minimum Height (Inch)</strong></td>\n<td>8-1/2</td>\n</tr>\n<tr>\n<td><strong>Maximum Height (Inch)</strong></td>\n<td>16-5/8</td>\n</tr>\n<tr>\n<td><strong>Base Width (Inch)</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Base Width (Inch)</strong></td>\n<td>4.0000</td>\n</tr>\n<tr>\n<td><strong>Base Length (Inch)</strong></td>\n<td>4-3/8</td>\n</tr>\n<tr>\n<td><strong>Piston Stroke (Inch)</strong></td>\n<td>5-1/4</td>\n</tr>\n<tr>\n<td><strong>Plunger Diameter (Decimal Inch)</strong></td>\n<td>1.3000</td>\n</tr>\n<tr>\n<td><strong>Screw Diameter (Inch)</strong></td>\n<td>13/16</td>\n</tr>\n<tr>\n<td><strong>Screw</strong></td>\n<td>2-7/8 in</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T02:34:19-06:00",
+  "created_at": "2023-12-29T02:34:19-06:00",
+  "updated_at": "2025-09-22T10:48:01-05:00",
+  "vendor": "Omega Lift Equipment",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Lifting"
+  ],
+  "variants": [
+    {
+      "id": 43705540051111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "06518468",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "76.06",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785795649703,
+      "created_at": "2023-12-29T02:34:19-06:00",
+      "updated_at": "2025-09-22T10:48:01-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237290823847,
+      "created_at": "2025-02-03T18:11:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:11:07-06:00",
+      "product_id": 7785795649703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0651846-11.jpg?v=1738627867",
+      "width": 257,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 76.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0651846-11.jpg?v=1738627867",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Omega Lift Equipment",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

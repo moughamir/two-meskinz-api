@@ -1,0 +1,108 @@
+{
+  "id": 8243493634136,
+  "title": "Seashell Carbs iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-carbs-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:09:18-05:00",
+  "created_at": "2025-01-08T12:40:58-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541138182232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243493634136,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242768273496,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:00-05:00",
+      "product_id": 8243493634136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP7_Seashell.jpg?v=1736358060",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357636038744,
+      "created_at": "2025-01-23T12:03:43-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T12:03:45-05:00",
+      "product_id": 8243493634136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_cc2932c8-77e0-408e-ab60-bae975fc65a3.jpg?v=1737651825",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357636235352,
+      "created_at": "2025-01-23T12:03:43-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T12:03:48-05:00",
+      "product_id": 8243493634136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_8c728ec1-eabb-4c17-8d03-a8c76c73fcc9.jpg?v=1737651828",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357636202584,
+      "created_at": "2025-01-23T12:03:43-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T12:03:48-05:00",
+      "product_id": 8243493634136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_1d615736-e253-4f94-841d-5038196decf9.jpg?v=1737651828",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP7_Seashell.jpg?v=1736358060",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

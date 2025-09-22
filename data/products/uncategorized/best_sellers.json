@@ -1,0 +1,153 @@
+{
+  "id": 7113537355885,
+  "title": "Best Sellers",
+  "handle": "best-sellers",
+  "body_html": "<p>These fragrances are just like it says—our premium, top-selling scents that prove over and over to help our customers have the very best scenting experience.\n<br>Included Fragrances:\n<br>Grapefruit by NEST New York\n<br>Volcano by Capri Blue\n<br>Hawaii Rain by Brooklyn Candle Studio\n<br>White Tea No. 1 by Pura\n<br>Coconut Calm by Becki Owens\n<br>Maui Mango by Tommy Bahama</p>",
+  "published_at": "2023-12-01T10:23:40-07:00",
+  "created_at": "2023-10-23T13:14:05-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Gift",
+  "tags": [
+    "3 Month",
+    "__automation:disable",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_volcano",
+    "YGroup_volcano"
+  ],
+  "variants": [
+    {
+      "id": 40778593501293,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02423",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "47.40",
+      "grams": 91,
+      "compare_at_price": "59.25",
+      "position": 1,
+      "product_id": 7113537355885,
+      "created_at": "2023-10-23T13:14:05-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805799137389,
+      "created_at": "2024-04-29T15:30:28-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BestSellersHome-CuratedSub-Prod1-0424.png?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798304084077,
+      "created_at": "2023-12-01T15:29:33-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BestSellers-Hover-11-23_6455affa-8756-4ba0-9882-a42a5b4f01b3.png?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745156354157,
+      "created_at": "2023-11-20T17:39:09-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestgrapefruitresized_06a6d316-5e62-4fff-91ff-71d678e7cd2e.jpg?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745156452461,
+      "created_at": "2023-11-20T17:39:09-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/volcano-resized_957381b9-dd0b-496c-8d40-990a521594f8.jpg?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745156386925,
+      "created_at": "2023-11-20T17:39:09-07:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BCSHawaiiRainresized_f551b54c-d00f-4ed4-82dc-fc977e81019d.jpg?v=1714426230",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30745156517997,
+      "created_at": "2023-11-20T17:39:09-07:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_29c77d56-89a7-47d2-9bf6-0b91909dabd5.jpg?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745156485229,
+      "created_at": "2023-11-20T17:39:09-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/resized-19_bcf76133-3906-4c45-aeec-7901402f532d.jpg?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30797841203309,
+      "created_at": "2023-12-01T13:09:34-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:30:30-06:00",
+      "product_id": 7113537355885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PUR23007-maui-mangoresized_a0ea6373-004c-4f94-8421-2c95ed512755.jpg?v=1714426230",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 47.4,
+  "compare_at_price": 59.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BestSellersHome-CuratedSub-Prod1-0424.png?v=1714426230",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

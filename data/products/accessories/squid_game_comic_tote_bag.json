@@ -1,0 +1,84 @@
+{
+  "id": 7888699555887,
+  "title": "Squid Game Comic Tote Bag",
+  "handle": "squid-game-comic-tote-bag",
+  "body_html": "<p>Carry the intensity of <em>Squid Game</em> wherever you go with the Comic Tote Bag. Featuring a dynamic comic-style graphic inspired by the series, this tote brings the suspense and drama of <em>Squid Game</em> to your everyday essentials. Perfect for fans who want to show off their love for the show in a stylish, functional way, it's big enough to hold all your gear—whether you're shopping or plotting your next big move. Just be careful—this bag might have you feeling like you're always one step away from the next round!</p><ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\". </li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim. </li>\n<li>Care: Handwash.</li>\n</ul>",
+  "published_at": "2025-01-02T23:04:30-05:00",
+  "created_at": "2024-12-12T10:52:55-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "81040344",
+    "Accessories",
+    "All-Over Print",
+    "Bags",
+    "SG-46-1224",
+    "Squid Game",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43469916962863,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SG-100645-0001-SG-RTOTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7888699555887,
+      "created_at": "2024-12-12T10:52:55-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35169718501423,
+      "created_at": "2024-12-12T10:52:55-05:00",
+      "position": 1,
+      "updated_at": "2024-12-12T10:52:55-05:00",
+      "product_id": 7888699555887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SG-RTOTE_46_100145_FT_MF.jpg?v=1734018775",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35169718566959,
+      "created_at": "2024-12-12T10:52:55-05:00",
+      "position": 2,
+      "updated_at": "2024-12-22T21:10:02-05:00",
+      "product_id": 7888699555887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SG-RTOTE_46_100145_FT_MF2.jpg?v=1734919802",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SG-RTOTE_46_100145_FT_MF.jpg?v=1734018775",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

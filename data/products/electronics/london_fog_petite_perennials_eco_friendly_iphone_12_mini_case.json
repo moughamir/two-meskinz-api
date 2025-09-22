@@ -1,0 +1,120 @@
+{
+  "id": 7536126230616,
+  "title": "London Fog Petite Perennials iPhone 12 Mini Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:41-05:00",
+  "created_at": "2024-01-15T11:10:03-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021507672,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126230616,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079724118104,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:03-05:00",
+      "product_id": 7536126230616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP12MINI_LondonFog.jpg?v=1705335003",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088865964120,
+      "created_at": "2024-01-17T10:24:32-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:24:36-05:00",
+      "product_id": 7536126230616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_12f08a5c-f602-4cbe-bf17-0691a0beba91.png?v=1705505076",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088865931352,
+      "created_at": "2024-01-17T10:24:32-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:24:36-05:00",
+      "product_id": 7536126230616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_6180bbb7-b374-40ae-8fa2-3fb41ef26c28.png?v=1705505076",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088865865816,
+      "created_at": "2024-01-17T10:24:32-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:24:36-05:00",
+      "product_id": 7536126230616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_f98dc711-a82d-44fd-9c13-eee5ad9fb3b5.png?v=1705505076",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088865898584,
+      "created_at": "2024-01-17T10:24:32-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:24:36-05:00",
+      "product_id": 7536126230616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_f4017987-df9b-4100-8baa-03b5dc3e2fb1.png?v=1705505076",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP12MINI_LondonFog.jpg?v=1705335003",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

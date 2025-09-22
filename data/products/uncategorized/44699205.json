@@ -1,0 +1,67 @@
+{
+  "id": 8452808540327,
+  "title": "3/8\" 316 Stainless Steel Pipe Hex Nipple",
+  "handle": "44699205",
+  "body_html": "<br><strong>Item #: </strong>98301054<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>SS-THN-MN6<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>Hex Plug</td>\n</tr>\n<tr> <td> <strong>Fitting Size</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr> <td> <strong>Material Grade</strong>\n</td>\n<td>316</td>\n</tr>\n<tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Threaded</td>\n</tr>\n<tr> <td> <strong>Pressure Rating (psi)</strong>\n</td>\n<td>7300</td>\n</tr>\n<tr> <td> <strong>End Connection</strong>\n</td>\n<td>MNPT</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>ANSI B 31.1, Refiner Piping Code ASME/ANSI; ASME/ANSI B1.20.1 (1983)</td>\n</tr>\n<tr> <td> <strong>Length (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>1.4300</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40175300</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>China</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T18:22:15-06:00",
+  "created_at": "2025-01-23T18:22:13-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Hose, Tube, Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 46499168026791,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98301054",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.59",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452808540327,
+      "created_at": "2025-01-23T18:22:13-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38254234665127,
+      "created_at": "2025-02-04T04:20:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T04:20:14-06:00",
+      "product_id": 8452808540327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8785419-23.jpg?v=1738664414",
+      "width": 600,
+      "height": 334
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.59,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8785419-23.jpg?v=1738664414",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Hose, Tube, Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

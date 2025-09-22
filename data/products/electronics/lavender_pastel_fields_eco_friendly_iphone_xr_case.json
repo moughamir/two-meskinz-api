@@ -1,0 +1,120 @@
+{
+  "id": 7358874779736,
+  "title": "Lavender Pastel fields iPhone XR Case",
+  "handle": "lavender-pastel-fields-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌷💐 Step into a garden of tranquility with our Pastel Fields Phone Case! This case is adorned with a delightful mix of pastel-hued flowers in soft pinks, purples, blues, and greens, creating a soothing and picturesque floral landscape. Perfect for those who love to carry a piece of springtime serenity with them, this case transforms your device into a blooming field of dreams. Let your phone blossom with the charming elegance of pastel petals! 🌿🌸</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:17:09-04:00",
+  "created_at": "2023-03-31T13:56:01-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pastel fields",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221308551256,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13086-IPXR-LAV-AOD:PASTEL-FIELDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358874779736,
+      "created_at": "2023-03-31T13:56:01-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233614352472,
+      "created_at": "2023-03-31T13:56:01-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:56:01-04:00",
+      "product_id": 7358874779736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PASTEL-FIELDS_IPXR_Lavender.jpg?v=1680285361",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241144045656,
+      "created_at": "2023-04-12T15:29:49-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T15:29:51-04:00",
+      "product_id": 7358874779736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden5_2d62bf13-b3e7-4cc5-8174-eb595a7dfb1c.png?v=1681327791",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241144012888,
+      "created_at": "2023-04-12T15:29:49-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T15:29:51-04:00",
+      "product_id": 7358874779736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_a93f1034-bfe8-49ce-ba1e-7573b3e59ad6.png?v=1681327791",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241144078424,
+      "created_at": "2023-04-12T15:29:49-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T15:29:51-04:00",
+      "product_id": 7358874779736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_6abda6bd-c602-4d77-a184-91c776e88850.png?v=1681327791",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236638412888,
+      "created_at": "2023-04-05T18:48:26-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T15:29:51-04:00",
+      "product_id": 7358874779736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_8936_782a0670-7614-4458-99be-2c9af4dca2e8.jpg?v=1681327791",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PASTEL-FIELDS_IPXR_Lavender.jpg?v=1680285361",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

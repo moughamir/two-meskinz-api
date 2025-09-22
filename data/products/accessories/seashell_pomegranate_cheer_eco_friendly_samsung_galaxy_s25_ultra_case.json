@@ -1,0 +1,108 @@
+{
+  "id": 8253213278296,
+  "title": "Seashell Pomegranate Cheer Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-pomegranate-cheer-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p class=\"p1\">Bring a pop of juicy cheer to your phone with the Pela Pomegranate Cheer Phone Case! Bursting with vibrant pomegranates and lush greenery, this case is a festive treat for the eyes. Perfect for those who love bold, fruity designs, it offers earth-friendly protection with a playful twist. Lightweight, durable, and made from plants, it’s the ultimate accessory for adding a splash of color to your everyday adventures. Stay fresh, stay fun, and keep your phone looking sweet!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:58:56-05:00",
+  "created_at": "2025-01-13T18:03:47-05:00",
+  "updated_at": "2025-09-22T15:15:15-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pomegranate Cheer",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42561337819224,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:POMEGRANATE-CHEER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8253213278296,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "updated_at": "2025-09-22T15:15:15-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34293959983192,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "position": 1,
+      "updated_at": "2025-01-13T18:03:49-05:00",
+      "product_id": 8253213278296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_S25ULTRA_Seashell.jpg?v=1736809429",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354889850968,
+      "created_at": "2025-01-22T16:32:23-05:00",
+      "position": 2,
+      "updated_at": "2025-01-22T16:32:24-05:00",
+      "product_id": 8253213278296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_PDP3_3587aa70-55c6-4f7b-9b94-85f7a1b243dc.jpg?v=1737581544",
+      "width": 3327,
+      "height": 3327
+    },
+    {
+      "id": 34677821833304,
+      "created_at": "2025-03-12T13:14:14-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T13:14:18-04:00",
+      "product_id": 8253213278296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP1_be730d21-4fac-4310-8507-0976a797adb2.jpg?v=1741799658",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677821866072,
+      "created_at": "2025-03-12T13:14:14-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T13:14:18-04:00",
+      "product_id": 8253213278296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP2_1d014284-d545-42f7-a102-25674ad38b63.jpg?v=1741799658",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_S25ULTRA_Seashell.jpg?v=1736809429",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

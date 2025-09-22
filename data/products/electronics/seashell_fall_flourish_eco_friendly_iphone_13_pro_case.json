@@ -1,0 +1,110 @@
+{
+  "id": 8142175633496,
+  "title": "Seashell Fall Flourish iPhone 13 Pro Case",
+  "handle": "seashell-fall-flourish-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Fall Flourish Phone Case! 🍂🍄 Bursting with autumn-inspired blooms, earthy mushrooms, and whimsical shapes in rich, warm tones, this case will have you feeling all the fall feels. Whether you’re sipping on pumpkin spice or taking a stroll through colorful leaves, this case will keep your phone stylish and protected with a flourish of nature’s charm. Perfect for autumn lovers who want to bring the beauty of the season wherever they go! 🌻🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:44:22-04:00",
+  "created_at": "2024-09-25T12:26:06-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fall Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294272688216,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16761-IP13P-SEASHELL-AOD:FALL-FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142175633496,
+      "created_at": "2024-09-25T12:26:06-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677676216408,
+      "created_at": "2024-09-25T12:26:06-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:06-04:00",
+      "product_id": 8142175633496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP13P_Seashell.jpg?v=1727281566",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749448327256,
+      "created_at": "2024-10-09T17:33:43-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:33:45-04:00",
+      "product_id": 8142175633496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP2_9760732b-691b-4681-aa37-f15bbf195358.jpg?v=1728509625",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749448294488,
+      "created_at": "2024-10-09T17:33:43-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:33:44-04:00",
+      "product_id": 8142175633496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP1_d8a1b4f9-2754-4e84-a9f0-27e72da51d37.jpg?v=1728509624",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749448261720,
+      "created_at": "2024-10-09T17:33:43-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:33:44-04:00",
+      "product_id": 8142175633496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_4a4e8c5f-3031-4042-8824-22136b4744d4.jpg?v=1728509624",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP13P_Seashell.jpg?v=1727281566",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

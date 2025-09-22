@@ -1,0 +1,68 @@
+{
+  "id": 5276102164647,
+  "title": "Tool & Cutting Grinding Wheel: 5\" Dia, 1-3/4\" Width, 1-1/2\" Hole, 150 Grit, R Hardness, Type 11V9",
+  "handle": "54906276",
+  "body_html": "<br><strong>Item #: </strong>00981159<br><strong>Brand: </strong>Radiac Abrasives<br><strong>Model #: </strong>34154518<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Abrasive Material</strong>\n</td>\n<td>Diamond</td>\n</tr>\n<tr> <td> <strong>Wheel Type</strong>\n</td>\n<td>Type 11V9</td>\n</tr>\n<tr> <td> <strong>Bond Type</strong>\n</td>\n<td>Resinoid</td>\n</tr>\n<tr> <td> <strong>Wheel Diameter (Inch)</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>Overall Thickness (Fractional Inch)</strong>\n</td>\n<td>1-3/4</td>\n</tr>\n<tr> <td> <strong>Hole Size</strong>\n</td>\n<td>1-1/2</td>\n</tr>\n<tr> <td> <strong>Grit</strong>\n</td>\n<td>150</td>\n</tr>\n<tr> <td> <strong>Grade</strong>\n</td>\n<td>Premium</td>\n</tr>\n<tr> <td> <strong>Specifications</strong>\n</td>\n<td>SD150 R100 B 1/8</td>\n</tr>\n<tr> <td> <strong>Wheel Color</strong>\n</td>\n<td>Silver</td>\n</tr>\n<tr> <td> <strong>Maximum Rpm</strong>\n</td>\n<td>7250</td>\n</tr>\n<tr> <td> <strong>Wheel Hardness Rating</strong>\n</td>\n<td>Hard</td>\n</tr>\n<tr> <td> <strong>Hardness Code</strong>\n</td>\n<td>R</td>\n</tr>\n<tr> <td> <strong>Superabrasive Type</strong>\n</td>\n<td>Synthetic Diamond (SD)</td>\n</tr>\n<tr> <td> <strong>Friable</strong>\n</td>\n<td>Semi-Friable</td>\n</tr>\n<tr> <td> <strong>Wet/Dry Operation</strong>\n</td>\n<td>Wet; Dry</td>\n</tr>\n<tr> <td> <strong>Face Angle</strong>\n</td>\n<td>70</td>\n</tr>\n<tr> <td> <strong>Superabrasive Depth (Inch)</strong>\n</td>\n<td>1/8</td>\n</tr>\n<tr> <td> <strong>Face Width (Inch)</strong>\n</td>\n<td>1-3/4</td>\n</tr>\n<tr> <td> <strong>Super Abrasive Concentration</strong>\n</td>\n<td>100</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23131503</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:16:26-06:00",
+  "created_at": "2020-06-03T06:27:44-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Radiac Abrasives",
+  "product_type": "Abrasives",
+  "tags": [
+    "Grinding & Cutoff",
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 34563729064103,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00981159",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "430.04",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5276102164647,
+      "created_at": "2020-06-03T06:27:44-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240888750247,
+      "created_at": "2025-02-03T20:39:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:39:19-06:00",
+      "product_id": 5276102164647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0100947-21_0e8adf63-596c-49e4-bfe3-162d41cd0961.jpg?v=1738636759",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 430.04,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0100947-21_0e8adf63-596c-49e4-bfe3-162d41cd0961.jpg?v=1738636759",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Radiac Abrasives",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

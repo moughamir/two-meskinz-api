@@ -1,0 +1,110 @@
+{
+  "id": 7555250749528,
+  "title": "Seashell Merry Medley iPhone 13 Pro Max Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:02:48-05:00",
+  "created_at": "2024-02-06T13:51:33-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035276386392,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555250749528,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170962944088,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:33-05:00",
+      "product_id": 7555250749528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP13PMAX_Seashell.jpg?v=1707245493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111269464,
+      "created_at": "2024-02-28T17:21:33-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:21:36-05:00",
+      "product_id": 7555250749528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_82f1f1d7-0679-4fd1-84be-e3658265b4f3.jpg?v=1709158896",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111236696,
+      "created_at": "2024-02-28T17:21:33-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:21:36-05:00",
+      "product_id": 7555250749528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_b181562c-1a9d-4f30-b609-2d589f8be11a.jpg?v=1709158896",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111302232,
+      "created_at": "2024-02-28T17:21:33-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:21:35-05:00",
+      "product_id": 7555250749528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_9b0a1e23-ad60-4b8d-83e9-1a5264c3817b.jpg?v=1709158895",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP13PMAX_Seashell.jpg?v=1707245493",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

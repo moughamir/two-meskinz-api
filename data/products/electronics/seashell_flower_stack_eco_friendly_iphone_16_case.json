@@ -1,0 +1,120 @@
+{
+  "id": 8429100728408,
+  "title": "Seashell Flower Stack iPhone 16 Case",
+  "handle": "seashell-flower-stack-eco-friendly-iphone-16-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:17:00-04:00",
+  "created_at": "2025-07-17T07:09:54-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Flower Stack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063792533592,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17246-IP16-SEASHELL-AOD:FLOWER-STACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429100728408,
+      "created_at": "2025-07-17T07:09:54-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436655247448,
+      "created_at": "2025-07-17T07:09:54-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:56-04:00",
+      "product_id": 8429100728408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP16_Seashell.jpg?v=1752750596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581708304472,
+      "created_at": "2025-08-11T14:57:39-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:57:39-04:00",
+      "product_id": 8429100728408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c81eef7f9a5e98edb69690c897019b9a_e5ff0f90-527b-486c-8e58-40394e7e4fa6.jpg?v=1754938659",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581708566616,
+      "created_at": "2025-08-11T14:57:40-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:57:40-04:00",
+      "product_id": 8429100728408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b518cf37e930a3a29a67dc0c5e124dbd_e6927558-3093-4625-b29a-bca1685ff262.jpg?v=1754938660",
+      "width": 3916,
+      "height": 3916
+    },
+    {
+      "id": 35581708927064,
+      "created_at": "2025-08-11T14:57:42-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:57:42-04:00",
+      "product_id": 8429100728408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_12e25a69-5b5f-4ea8-8ec7-7c00b7586b91.jpg?v=1754938662",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581709221976,
+      "created_at": "2025-08-11T14:57:44-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:57:44-04:00",
+      "product_id": 8429100728408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/90cba3e3beb68e24805c7d70742b5cc9_e1da5d12-ff66-432a-9a8c-5b801fbb1816.jpg?v=1754938664",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP16_Seashell.jpg?v=1752750596",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

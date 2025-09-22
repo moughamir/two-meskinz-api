@@ -1,0 +1,67 @@
+{
+  "id": 7785756328103,
+  "title": "Brand: Milwaukee Tool / Part #: 48-22-9471",
+  "handle": "cw8031525",
+  "body_html": "<br><strong>Item #: </strong>40031932<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>48-22-9471<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Lug Nut Wrench Set</td>\n</tr>\n<tr>\n<td><strong>Set Type</strong></td>\n<td>Flare Nut Wrenches</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Tray</td>\n</tr>\n<tr>\n<td><strong>Wrench Size</strong></td>\n<td>13x14mm; 16x18mm; 10x12mm; 9x11mm; 19X21mm; 15x17mm</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Chrome Vanadium Steel</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Chrome</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>11.20</td>\n</tr>\n<tr>\n<td><strong>Non-sparking</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Corrosion-resistant</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Ratcheting</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Head Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Head Offset Angle</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>6.000</td>\n</tr>\n<tr>\n<td><strong>Metric Size</strong></td>\n<td>9x11;10x12;13x14;15x17;16x18;19x21</td>\n</tr>\n<tr>\n<td><strong>Number of Points</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Head Angle</strong></td>\n<td>15</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Slim Profile Open Ends - Better Access</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Lug Nut</td>\n</tr>\n<tr>\n<td><strong>Magnetic</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Contents</strong></td>\n<td>(1) 15 X 17mm Flare Nut Wrench; (1) 13 x 14mm Flare Nut Wrench; (1) Storage Tray; (1) 9 X 11mm Flare Nut Wrench; (1) 19 X 21mm Flare Nut Wrench; (1) 16 X 18mm Flare Nut Wrench; (1) 10 X 12mm Flare Nut Wrench</td>\n</tr>\n<tr>\n<td><strong>Size (Decimal Inch)</strong></td>\n<td>1/4;5/16;3/8;7/16;1/2;9/16;5/8;11/16;3/4;13/16</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:13:19-06:00",
+  "created_at": "2023-12-29T01:13:19-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Wrenches"
+  ],
+  "variants": [
+    {
+      "id": 43705444466855,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40031932",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.22",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785756328103,
+      "created_at": "2023-12-29T01:13:19-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237201236135,
+      "created_at": "2025-02-03T18:08:08-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:10-06:00",
+      "product_id": 7785756328103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4003193-21.jpg?v=1738627690",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80.22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4003193-21.jpg?v=1738627690",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

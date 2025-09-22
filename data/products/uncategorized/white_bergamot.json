@@ -1,0 +1,118 @@
+{
+  "id": 7051713544301,
+  "title": "White Bergamot",
+  "handle": "white-bergamot",
+  "body_html": "<p>White Bergamot inspires beauty and self-care throughout your day with notes of <strong>bergamot</strong>, <strong>grapefruit</strong> blossom, and <strong>green vetiver.</strong></p>",
+  "published_at": "2023-08-14T19:52:27-06:00",
+  "created_at": "2023-08-09T16:20:39-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Studio McGee",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_whitebergamot"
+  ],
+  "variants": [
+    {
+      "id": 40702266867821,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WBRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051713544301,
+      "created_at": "2023-08-09T16:20:39-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32474568032365,
+      "created_at": "2024-07-12T10:02:26-06:00",
+      "position": 1,
+      "updated_at": "2024-07-12T10:02:27-06:00",
+      "product_id": 7051713544301,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-WhiteBergamot-Prod1-0624.jpg?v=1720800147",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30996150255725,
+      "created_at": "2024-01-09T16:05:22-07:00",
+      "position": 2,
+      "updated_at": "2024-07-12T10:02:33-06:00",
+      "product_id": 7051713544301,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/limes-resized_1e151da8-2f8f-43cb-bed2-12c4699b9d64.jpg?v=1720800153",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30996150190189,
+      "created_at": "2024-01-09T16:05:22-07:00",
+      "position": 3,
+      "updated_at": "2024-07-12T10:02:33-06:00",
+      "product_id": 7051713544301,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Studio-McGee-White-Bergamot-Device-V4.jpg?v=1720800153",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32474568065133,
+      "created_at": "2024-07-12T10:02:26-06:00",
+      "position": 4,
+      "updated_at": "2024-07-12T10:02:28-06:00",
+      "product_id": 7051713544301,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-WhiteBergamot-Prod4-0624.jpg?v=1720800148",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-WhiteBergamot-Prod1-0624.jpg?v=1720800147",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

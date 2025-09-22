@@ -1,0 +1,108 @@
+{
+  "id": 8259875504216,
+  "title": "Seashell Pasta Alchemy Samsung Galaxy S25+(Plus) Case",
+  "handle": "seashell-pasta-alchemy-eco-friendly-samsung-galaxy-s25-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a masterpiece with the Pasta Alchemy Phone Case! Featuring a vibrant medley of pasta shapes, fresh ingredients like tomatoes, garlic, olives, and cheese, this case is a feast for the eyes. It’s perfect for foodies, pasta lovers, and anyone who believes in the magic of a great meal. <meta charset=\"utf-8\">Stir up some fun and let your style simmer with this delicious design! <meta charset=\"utf-8\">🍝🍅🧄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T08:59:56-05:00",
+  "created_at": "2025-01-20T13:45:58-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pasta Alchemy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42579117932632,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13930-S25PLUS-SEASHELL-AOD:PASTA-ALCHEMY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8259875504216,
+      "created_at": "2025-01-20T13:45:59-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34336477479000,
+      "created_at": "2025-01-20T13:45:59-05:00",
+      "position": 1,
+      "updated_at": "2025-01-20T13:46:01-05:00",
+      "product_id": 8259875504216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_S25PLUS_Seashell.jpg?v=1737398761",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357455454296,
+      "created_at": "2025-01-23T10:49:04-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:49:05-05:00",
+      "product_id": 8259875504216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP1_794de09f-3c40-4bcb-a4ba-f47cd067c70d.jpg?v=1737647345",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357455487064,
+      "created_at": "2025-01-23T10:49:04-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:49:10-05:00",
+      "product_id": 8259875504216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP3_f943716e-412c-4103-bb8c-7768fddac74e.jpg?v=1737647350",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357455519832,
+      "created_at": "2025-01-23T10:49:04-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:49:08-05:00",
+      "product_id": 8259875504216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP2_8774e917-4acf-4740-8d5b-3d0bf11404de.jpg?v=1737647348",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_S25PLUS_Seashell.jpg?v=1737398761",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

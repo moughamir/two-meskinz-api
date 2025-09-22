@@ -1,0 +1,116 @@
+{
+  "id": 7434521444461,
+  "title": "Sunburst",
+  "handle": "sunburst",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Brilliant notes of <strong>shiso</strong>, exotic <strong>bamboo</strong>, and warming <strong>amber</strong> create a multifaceted scent sure to brighten your home and your day.</span><br></p>",
+  "published_at": "2024-06-26T09:48:22-06:00",
+  "created_at": "2024-06-05T13:34:24-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Moodcast",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Moodcast",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Scent Type_Citrus",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41590590472301,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BRSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7434521444461,
+      "created_at": "2024-06-05T13:34:24-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32260211998829,
+      "created_at": "2024-06-20T14:09:13-06:00",
+      "position": 1,
+      "updated_at": "2024-06-20T14:09:14-06:00",
+      "product_id": 7434521444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-Sunburst-Prod1-0624jpg.jpg?v=1718914154",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32135540834413,
+      "created_at": "2024-06-05T13:49:58-06:00",
+      "position": 2,
+      "updated_at": "2024-06-05T13:50:00-06:00",
+      "product_id": 7434521444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Bamboo-Ingredients-Resized-4_8cb8e9c9-9176-408c-be6e-588c49f44a8a_1.jpg?v=1717617000",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 32135536410733,
+      "created_at": "2024-06-05T13:49:28-06:00",
+      "position": 3,
+      "updated_at": "2024-06-05T13:49:30-06:00",
+      "product_id": 7434521444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Sunburst-Moodcast-Prod3-0624.png?v=1717616970",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32260212031597,
+      "created_at": "2024-06-20T14:09:13-06:00",
+      "position": 4,
+      "updated_at": "2024-06-20T14:09:15-06:00",
+      "product_id": 7434521444461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-Sunburst-Prod4-0624.jpg?v=1718914155",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-Sunburst-Prod1-0624jpg.jpg?v=1718914154",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Moodcast",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

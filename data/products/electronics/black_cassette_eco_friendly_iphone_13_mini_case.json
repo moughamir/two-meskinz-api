@@ -1,0 +1,121 @@
+{
+  "id": 7363995828312,
+  "title": "Black Cassette iPhone 13 Mini Case",
+  "handle": "black-cassette-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Rewind to the retro era with the Pela Cassette Phone Case! This groovy accessory brings back the nostalgic mixtape days with its classic cassette tape design, complete with vintage labeling and reel-to-reel details. Made for music lovers and retro enthusiasts, this case hits all the right notes of style and protection. Slide this case onto your phone and let it play the soundtrack of your life, one call at a time. Whether you're streaming today's hits or old-school jams, this case is sure to be a conversation starter. 📼🎶📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:02:10-04:00",
+  "created_at": "2023-05-30T14:50:33-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Retrospin",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cassette",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234195681368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16620-IP13MINI-BLACK-AOD:CASSETTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363995828312,
+      "created_at": "2023-05-30T14:50:33-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275017605208,
+      "created_at": "2023-05-30T14:50:33-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:50:33-04:00",
+      "product_id": 7363995828312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP13MINI_Black.jpg?v=1685472633",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275849650264,
+      "created_at": "2023-05-31T09:58:18-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T09:58:19-04:00",
+      "product_id": 7363995828312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN2_5d6a7c56-2363-459d-959a-d681af71d122.png?v=1685541499",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275849683032,
+      "created_at": "2023-05-31T09:58:18-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T09:58:19-04:00",
+      "product_id": 7363995828312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_a4796e08-192d-4e85-bfa8-107a156ede9d.png?v=1685541499",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800419123288,
+      "created_at": "2023-10-03T11:56:42-04:00",
+      "position": 4,
+      "updated_at": "2023-10-03T11:56:45-04:00",
+      "product_id": 7363995828312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_05022_4d8d2fd6-36ed-4273-b5c0-1d3496b54c66.jpg?v=1696348605",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800419090520,
+      "created_at": "2023-10-03T11:56:43-04:00",
+      "position": 5,
+      "updated_at": "2023-10-03T11:56:44-04:00",
+      "product_id": 7363995828312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_04612_d47e6a95-f5df-4560-b637-1656fd377705.jpg?v=1696348604",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP13MINI_Black.jpg?v=1685472633",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

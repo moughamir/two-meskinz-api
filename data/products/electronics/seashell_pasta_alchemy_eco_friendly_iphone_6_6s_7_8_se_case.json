@@ -1,0 +1,108 @@
+{
+  "id": 8243494813784,
+  "title": "Seashell Pasta Alchemy iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-pasta-alchemy-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a masterpiece with the Pasta Alchemy Phone Case! Featuring a vibrant medley of pasta shapes, fresh ingredients like tomatoes, garlic, olives, and cheese, this case is a feast for the eyes. It’s perfect for foodies, pasta lovers, and anyone who believes in the magic of a great meal. <meta charset=\"utf-8\">Stir up some fun and let your style simmer with this delicious design! <meta charset=\"utf-8\">🍝🍅🧄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:06:42-05:00",
+  "created_at": "2025-01-08T12:41:02-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pasta Alchemy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541139263576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:PASTA-ALCHEMY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243494813784,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242770010200,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:04-05:00",
+      "product_id": 8243494813784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP7_Seashell.jpg?v=1736358064",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357453684824,
+      "created_at": "2025-01-23T10:47:59-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:48:01-05:00",
+      "product_id": 8243494813784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP1_2572130e-b6dc-4c7e-8521-abdf5b2dec51.jpg?v=1737647281",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357453717592,
+      "created_at": "2025-01-23T10:48:00-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:48:03-05:00",
+      "product_id": 8243494813784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP3_8d8b46e9-9be2-481c-8273-da975677c1ba.jpg?v=1737647283",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357453750360,
+      "created_at": "2025-01-23T10:48:00-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:48:03-05:00",
+      "product_id": 8243494813784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP2_be07d21a-a396-4879-b507-b69fca529f14.jpg?v=1737647283",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP7_Seashell.jpg?v=1736358064",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

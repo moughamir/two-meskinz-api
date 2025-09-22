@@ -1,0 +1,110 @@
+{
+  "id": 8159693013080,
+  "title": "Seashell Holiday Bows iPhone 14 Pro Max Case",
+  "handle": "seashell-holiday-bows-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:17:55-04:00",
+  "created_at": "2024-10-16T10:40:36-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333271425112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159693013080,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799054524504,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:36-04:00",
+      "product_id": 8159693013080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP14PMAX_Seashell.jpg?v=1729089636",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838766882904,
+      "created_at": "2024-10-22T11:44:42-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T11:44:43-04:00",
+      "product_id": 8159693013080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_df4e28a4-73d4-4ae8-9d4f-5152c1ddf942.jpg?v=1729611883",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838766948440,
+      "created_at": "2024-10-22T11:44:42-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T11:44:44-04:00",
+      "product_id": 8159693013080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_bf890b42-8163-4cfd-b80d-e3935e9132da.jpg?v=1729611884",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838766915672,
+      "created_at": "2024-10-22T11:44:42-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:44:44-04:00",
+      "product_id": 8159693013080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_1a369293-b01a-4562-84e0-b69cba27c475.jpg?v=1729611884",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP14PMAX_Seashell.jpg?v=1729089636",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

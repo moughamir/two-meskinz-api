@@ -1,0 +1,110 @@
+{
+  "id": 6680593858648,
+  "title": "Seashell Pink Haze iPhone XR Case",
+  "handle": "seashell-pink-haze-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into a dreamy world of soft hues with the Pink Haze Phone Case! This enchanting design features a beautiful blend of pink and purple watercolors, creating a mesmerizing haze that is both soothing and stylish. Perfect for adding a touch of whimsy to your everyday look. Embrace the serene vibes and let your phone reflect your unique style with the Pink Haze Phone Case. Keep it cool, keep it colorful! 📱💖✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T10:19:34-04:00",
+  "created_at": "2021-07-11T19:37:20-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Abstract Paint",
+    "device-collection-page:Hidden",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pink Haze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39497563701336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:PINK-HAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6680593858648,
+      "created_at": "2021-07-11T19:37:20-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328143937624,
+      "created_at": "2023-07-24T10:19:33-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T10:19:33-04:00",
+      "product_id": 6680593858648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IPXR_Seashell_57fbd88f-70df-4fb6-8c81-725cf19e7c41.jpg?v=1690208373",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28433649664088,
+      "created_at": "2021-07-26T15:01:59-04:00",
+      "position": 2,
+      "updated_at": "2021-07-28T19:09:14-04:00",
+      "product_id": 6680593858648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed2_1_8699c8c7-594b-4221-ad94-bb0d812fa7a9.jpg?v=1627513754",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433649598552,
+      "created_at": "2021-07-26T15:01:59-04:00",
+      "position": 3,
+      "updated_at": "2021-07-28T19:09:14-04:00",
+      "product_id": 6680593858648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed10_2c1ef820-340c-4766-a799-8fd0d03e11a3.jpg?v=1627513754",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433649631320,
+      "created_at": "2021-07-26T15:01:59-04:00",
+      "position": 4,
+      "updated_at": "2021-07-28T19:09:14-04:00",
+      "product_id": 6680593858648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed8_1391c68b-b67f-4792-9449-3ed2a2ba0696.jpg?v=1627513754",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IPXR_Seashell_57fbd88f-70df-4fb6-8c81-725cf19e7c41.jpg?v=1690208373",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

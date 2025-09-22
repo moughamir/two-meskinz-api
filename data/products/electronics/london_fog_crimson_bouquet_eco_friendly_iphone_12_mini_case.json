@@ -1,0 +1,119 @@
+{
+  "id": 8328350728280,
+  "title": "London Fog Crimson Bouquet iPhone 12 Mini Case",
+  "handle": "london-fog-crimson-bouquet-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to drama in bloom. The <em data-start=\"75\" data-end=\"92\">Crimson Bouquet</em> Phone Case is a vintage-inspired floral fantasy, featuring detailed red botanicals that feel straight out of a romantic storybook—or your favorite antique wallpaper. It's bold, elegant, and just the right amount of extra.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-17T08:17:38-04:00",
+  "created_at": "2025-03-26T11:48:48-04:00",
+  "updated_at": "2025-09-22T15:14:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Crimson Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42774344564824,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:CRIMSON-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8328350728280,
+      "created_at": "2025-03-26T11:48:48-04:00",
+      "updated_at": "2025-09-22T15:14:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34748590751832,
+      "created_at": "2025-03-26T11:48:48-04:00",
+      "position": 1,
+      "updated_at": "2025-03-26T11:48:50-04:00",
+      "product_id": 8328350728280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-BOUQUET_IP12MINI_LondonFog.jpg?v=1743004130",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34815088033880,
+      "created_at": "2025-04-10T14:17:58-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T14:18:03-04:00",
+      "product_id": 8328350728280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_04_824c3358-a64c-481d-ac2e-632abd12dbb0.jpg?v=1744309083",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34815087968344,
+      "created_at": "2025-04-10T14:17:58-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T14:18:03-04:00",
+      "product_id": 8328350728280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_03_ba9170fd-b83c-409d-adbf-93ceb62a4c7d.jpg?v=1744309083",
+      "width": 4324,
+      "height": 4324
+    },
+    {
+      "id": 34815088066648,
+      "created_at": "2025-04-10T14:17:58-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T14:18:03-04:00",
+      "product_id": 8328350728280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_01_da1e64cd-6805-418e-8107-1357f1c87cb3.jpg?v=1744309083",
+      "width": 4225,
+      "height": 4225
+    },
+    {
+      "id": 34815088001112,
+      "created_at": "2025-04-10T14:17:58-04:00",
+      "position": 5,
+      "updated_at": "2025-04-10T14:18:03-04:00",
+      "product_id": 8328350728280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_02_0e796c5a-7a7a-48ab-9b6c-5698d90c0f3b.jpg?v=1744309083",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-BOUQUET_IP12MINI_LondonFog.jpg?v=1743004130",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

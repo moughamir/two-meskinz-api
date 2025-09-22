@@ -1,0 +1,68 @@
+{
+  "id": 5322311205031,
+  "title": "S10XCTUPR2 Right-Hand, Positive Rake, Boring Bar",
+  "handle": "mj73mbb125500ac",
+  "body_html": "<br><strong>Item #: </strong>KY96THC89249<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THC89249<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.6252″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>7″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>7″ </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Axial (GAMP)</strong></td>\n<td>5 Degrees </td>\n</tr>\n<tr>\n<td><strong>Head Length (LH)</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Radial (GAMF)</strong></td>\n<td>0 Degrees </td>\n</tr>\n<tr>\n<td><strong>Shank Height (H)</strong></td>\n<td>0.5839″ </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>GPBB </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>‎5-3/4″ </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Steel </td>\n</tr>\n<tr>\n<td><strong>Functional Width (WF)</strong></td>\n<td>0.313″ </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>S...CTUP </td>\n</tr>\n<tr>\n<td><strong>Master Insert Identification (MIID)</strong></td>\n<td>| TPMR22 | TPGR22 | TPM22 | TPG22 | </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (DMIN)</strong></td>\n<td>5/8″ </td>\n</tr>\n<tr>\n<td><strong>Weight of Item (WT)</strong></td>\n<td>0.65 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:06:36-06:00",
+  "created_at": "2020-06-12T14:16:14-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Turning",
+  "tags": [
+    "Internal Turning",
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 34695741243559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THC89249",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "166.77",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322311205031,
+      "created_at": "2020-06-12T14:16:14-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143933776039,
+      "created_at": "2025-01-23T22:06:48-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:06:49-06:00",
+      "product_id": 5322311205031,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_SCTUPR_12c3_0672d6f3-35db-4cf1-aef2-41ac4583cf62.jpg?v=1737691609",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 166.77,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_SCTUPR_12c3_0672d6f3-35db-4cf1-aef2-41ac4583cf62.jpg?v=1737691609",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

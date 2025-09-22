@@ -1,0 +1,67 @@
+{
+  "id": 7785930293415,
+  "title": "Brand: Williams / Part #: 3728-TH",
+  "handle": "yg3393134",
+  "body_html": "<br><strong>Item #: </strong>54381868<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>3728-TH<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wrench Type</strong>\n</td>\n<td>Open End Wrench</td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Tether Tool</td>\n</tr>\n<tr>\n<td><strong>Head Type</strong></td>\n<td>Open End</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Chrome</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>8-1/4</td>\n</tr>\n<tr>\n<td><strong>Head Thickness</strong></td>\n<td>9/32</td>\n</tr>\n<tr>\n<td><strong>Warranty</strong></td>\n<td>Limited Lifetime Warranty</td>\n</tr>\n<tr>\n<td><strong>Head Width (Inch)</strong></td>\n<td>1-21/32</td>\n</tr>\n<tr>\n<td><strong>Size (Decimal Inch)</strong></td>\n<td>7/8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:04:27-06:00",
+  "created_at": "2023-12-29T07:04:27-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Wrenches"
+  ],
+  "variants": [
+    {
+      "id": 43706033373351,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54381868",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "63.08",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785930293415,
+      "created_at": "2023-12-29T07:04:27-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237659791527,
+      "created_at": "2025-02-03T18:20:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:20:50-06:00",
+      "product_id": 7785930293415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5437771-21_6e85be95-5617-4ed9-9c45-9dd2080ee3c3.jpg?v=1738628450",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 63.08,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5437771-21_6e85be95-5617-4ed9-9c45-9dd2080ee3c3.jpg?v=1738628450",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

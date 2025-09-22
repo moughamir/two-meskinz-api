@@ -1,0 +1,67 @@
+{
+  "id": 8452516741287,
+  "title": "Pleated Air Filter: Wireless Pleated, MERV 11, Synthetic, 16\" High, 20\" Wide, 2\" Deep",
+  "handle": "49458391",
+  "body_html": "<br><strong>Item #: </strong>04542106<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>85655.021620M11<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Filter Type</strong>\n</td>\n<td>Wireless Pleated</td>\n</tr>\n<tr> <td> <strong>Media Material</strong>\n</td>\n<td>Synthetic</td>\n</tr>\n<tr> <td> <strong>Frame Material</strong>\n</td>\n<td>Clay Coated Recycled Plastic</td>\n</tr>\n<tr> <td> <strong>Air Flow</strong>\n</td>\n<td>667 CFM</td>\n</tr>\n<tr> <td> <strong>Maximum Velocity</strong>\n</td>\n<td>300</td>\n</tr>\n<tr> <td> <strong>Merv Rating</strong>\n</td>\n<td>11</td>\n</tr>\n<tr> <td> <strong>Particle Capture Efficiency (%)</strong>\n</td>\n<td>25-30</td>\n</tr>\n<tr> <td> <strong>Nominal Depth (Inch)</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Nominal Width (Inch)</strong>\n</td>\n<td>20</td>\n</tr>\n<tr> <td> <strong>Nominal Height (Inch)</strong>\n</td>\n<td>16</td>\n</tr>\n<tr> <td> <strong>Integrated Frame</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Actual Depth (Inch)</strong>\n</td>\n<td>1-3/4</td>\n</tr>\n<tr> <td> <strong>Actual Width (Inch)</strong>\n</td>\n<td>19-1/2</td>\n</tr>\n<tr> <td> <strong>Actual Height (Inch)</strong>\n</td>\n<td>15-1/2</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>Any Unit</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>ASHRAE 52.2: 2007</td>\n</tr>\n<tr> <td> <strong>Capacity</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40161505</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:04:11-06:00",
+  "created_at": "2025-01-23T09:04:10-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Value Collection",
+  "product_type": "HVAC",
+  "tags": [
+    "HVAC Filters"
+  ],
+  "variants": [
+    {
+      "id": 46497965244583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04542106",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "6.43",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452516741287,
+      "created_at": "2025-01-23T09:04:10-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241992016039,
+      "created_at": "2025-02-03T21:16:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:16:01-06:00",
+      "product_id": 8452516741287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0454210-24.jpg?v=1738638961",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 6.43,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0454210-24.jpg?v=1738638961",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "HVAC",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

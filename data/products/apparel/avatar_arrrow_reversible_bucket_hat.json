@@ -1,0 +1,147 @@
+{
+  "id": 7915467735087,
+  "title": "Avatar: The Last Airbender Arrow Reversible Bucket Hat",
+  "handle": "avatar-arrrow-reversible-bucket-hat",
+  "body_html": "<p>The Avatar Arrow Reversible Bucket Hat is a versatile and eye-catching accessory that captures the essence of Aang, the last Airbender, from the animated series \"Avatar: The Last Airbender.\" This bucket hat features a unique reversible design, allowing you to showcase two distinct looks in one.</p><ul>\n<li>100% polyester</li>\n<li>Moisture-wicking and breathable fabric</li>\n<li>Reversible</li>\n<br>\n</ul>",
+  "published_at": "2025-02-26T15:28:21-05:00",
+  "created_at": "2025-01-22T08:49:29-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful",
+  "product_type": "Hats",
+  "tags": [
+    "AOP-RBH",
+    "Avatar",
+    "Avatar The Last Airbender",
+    "halloween costumes",
+    "Hats",
+    "Nickelodeon",
+    "Title: Avatar: The Last Airbender",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43556910497839,
+      "title": "S/M",
+      "option1": "S/M",
+      "option2": null,
+      "option3": null,
+      "sku": "AVAT-101666-0001-AVT-ARROW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35554066006063,
+        "product_id": 7915467735087,
+        "position": 1,
+        "created_at": "2025-02-19T10:38:38-05:00",
+        "updated_at": "2025-02-19T10:38:59-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_FT_MF.jpg?v=1739979539",
+        "variant_ids": [
+          43556910497839,
+          43556910530607
+        ]
+      },
+      "available": true,
+      "price": "39.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7915467735087,
+      "created_at": "2025-01-22T08:49:29-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43556910530607,
+      "title": "L/XL",
+      "option1": "L/XL",
+      "option2": null,
+      "option3": null,
+      "sku": "AVAT-101666-0002-AVT-ARROW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35554066006063,
+        "product_id": 7915467735087,
+        "position": 1,
+        "created_at": "2025-02-19T10:38:38-05:00",
+        "updated_at": "2025-02-19T10:38:59-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_FT_MF.jpg?v=1739979539",
+        "variant_ids": [
+          43556910497839,
+          43556910530607
+        ]
+      },
+      "available": true,
+      "price": "39.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7915467735087,
+      "created_at": "2025-01-22T08:49:29-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35554066006063,
+      "created_at": "2025-02-19T10:38:38-05:00",
+      "position": 1,
+      "updated_at": "2025-02-19T10:38:59-05:00",
+      "product_id": 7915467735087,
+      "variant_ids": [
+        43556910497839,
+        43556910530607
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_FT_MF.jpg?v=1739979539",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35554065940527,
+      "created_at": "2025-02-19T10:38:38-05:00",
+      "position": 2,
+      "updated_at": "2025-02-19T10:38:59-05:00",
+      "product_id": 7915467735087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_DIA_MF.jpg?v=1739979539",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35554065973295,
+      "created_at": "2025-02-19T10:38:38-05:00",
+      "position": 3,
+      "updated_at": "2025-02-19T10:38:59-05:00",
+      "product_id": 7915467735087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_BK_MF.jpg?v=1739979539",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "S/M",
+        "L/XL"
+      ]
+    }
+  ],
+  "price": 39.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVT-ARROW_101666_OUT_FT_MF.jpg?v=1739979539",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444712779864,
+  "title": "Forest Floor Fishing Lodge iPhone 17 Pro Max Case",
+  "handle": "forest-floor-fishing-lodge-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Cast a line into laid-back vibes with the Fishing Lodge Phone Case. Featuring hand-drawn illustrations of freshwater catches and crustacean companions, this case is perfect for anglers, outdoorsy types, and anyone who appreciates a good fish tale. Whether you're lakeside, streamside, or just poolside, this earthy green design reels in rustic charm—no bait required. 🎣🐟🌲</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:01:43-04:00",
+  "created_at": "2025-08-08T11:52:16-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fishing Lodge",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184138682456,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17582-IP17PMAX-FOREST-AOD:FISHING-LODGE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444712779864,
+      "created_at": "2025-09-03T18:32:30-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184138715224,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17582-IP17PMAX-FOREST-AOD:FISHING-LODGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444712779864,
+      "created_at": "2025-09-03T18:32:30-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567317319768,
+      "created_at": "2025-08-08T11:52:16-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:18-04:00",
+      "product_id": 8444712779864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FISHING-LODGE_IP17PMAX_ForestFloor.jpg?v=1754668338",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35630443659352,
+      "created_at": "2025-08-20T13:50:13-04:00",
+      "position": 2,
+      "updated_at": "2025-08-20T13:50:15-04:00",
+      "product_id": 8444712779864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_01_563ffb82-f4cd-4cfd-bba4-d7edfbed9058.jpg?v=1755712215",
+      "width": 4136,
+      "height": 4136
+    },
+    {
+      "id": 35630443692120,
+      "created_at": "2025-08-20T13:50:13-04:00",
+      "position": 3,
+      "updated_at": "2025-08-20T13:50:15-04:00",
+      "product_id": 8444712779864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_02_71e61a3c-cc17-4c24-8280-b86f79df3d25.jpg?v=1755712215",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35630443724888,
+      "created_at": "2025-08-20T13:50:13-04:00",
+      "position": 4,
+      "updated_at": "2025-08-20T13:50:15-04:00",
+      "product_id": 8444712779864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_03_10771d45-58ff-44de-9a1f-7fa8327091e6.jpg?v=1755712215",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FISHING-LODGE_IP17PMAX_ForestFloor.jpg?v=1754668338",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

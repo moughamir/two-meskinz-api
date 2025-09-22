@@ -1,0 +1,88 @@
+{
+  "id": 8423049822436,
+  "title": "APlusLift 2-Post Car Lift Release Cable",
+  "handle": "apluslift-2-post-car-lift-release-cable",
+  "body_html": "<h3>A replacement release cable for 2-post car lift.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2024-06-20T21:20:26-07:00",
+  "created_at": "2024-06-20T21:20:27-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45927846609124,
+      "title": "HW-10ASY",
+      "option1": "HW-10ASY",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8423049822436,
+      "created_at": "2025-01-05T01:00:32-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330883903716,
+      "title": "AP-10SR",
+      "option1": "AP-10SR",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 2,
+      "product_id": 8423049822436,
+      "created_at": "2024-06-20T21:20:27-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 67957833728228,
+      "created_at": "2024-06-20T21:52:42-07:00",
+      "position": 1,
+      "updated_at": "2024-06-20T21:52:44-07:00",
+      "product_id": 8423049822436,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/25.jpg?v=1718945564",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "HW-10ASY",
+        "AP-10SR"
+      ]
+    }
+  ],
+  "price": 45,
+  "compare_at_price": 90,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/25.jpg?v=1718945564",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444694888536,
+  "title": "Black Fern Dreams iPhone Air Case",
+  "handle": "black-fern-dreams-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Drift into the lush tranquility of the forest with <em data-start=\"92\" data-end=\"105\">Fern Dreams Phone Case</em>! <meta charset=\"utf-8\">🌿 This deep, moody botanical design features layered ferns in rich, earthy tones—perfect for those who feel most at home among towering trees and misty trails. Whether you’re a nature lover, plant parent, or just love a touch of wild elegance, this case is your forest fantasy come to life.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:55:23-04:00",
+  "created_at": "2025-08-08T11:51:14-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fern Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184090939480,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17535-IP17AIR-BLACK-AOD:FERN-DREAMS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444694888536,
+      "created_at": "2025-09-03T18:23:30-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184090972248,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17535-IP17AIR-BLACK-AOD:FERN-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444694888536,
+      "created_at": "2025-09-03T18:23:30-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567279374424,
+      "created_at": "2025-08-08T11:51:14-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:16-04:00",
+      "product_id": 8444694888536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FERN-DREAMS_IP17AIR_Black.jpg?v=1754668276",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705803214936,
+      "created_at": "2025-03-17T13:20:13-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T13:20:15-04:00",
+      "product_id": 8444694888536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FernDream_PDP3_175226bc-861d-4efb-a6d2-8d78a3b02209.jpg?v=1742232015",
+      "width": 3693,
+      "height": 3693
+    },
+    {
+      "id": 34705803247704,
+      "created_at": "2025-03-17T13:20:13-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T13:20:15-04:00",
+      "product_id": 8444694888536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FernDream_PDP2_875f67c2-57cf-45e9-a43a-82d388b24ea9.jpg?v=1742232015",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FERN-DREAMS_IP17AIR_Black.jpg?v=1754668276",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8397886193752,
+  "title": "Seashell Whimsy Shapes Samsung Galaxy S21 Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-samsung-galaxy-s21-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:23:11-04:00",
+  "created_at": "2025-06-10T10:31:39-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939118977112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13498-S21-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397886193752,
+      "created_at": "2025-06-10T10:31:39-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200274890840,
+      "created_at": "2025-06-10T10:31:39-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:41-04:00",
+      "product_id": 8397886193752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_S21_Seashell.jpg?v=1749565901",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288798134360,
+      "created_at": "2025-06-24T14:44:32-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:44:32-04:00",
+      "product_id": 8397886193752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_1cc8b1d1-aa5b-4449-93eb-5bc3c3f232ba.jpg?v=1750790672",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288798298200,
+      "created_at": "2025-06-24T14:44:33-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:44:33-04:00",
+      "product_id": 8397886193752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_683f6f81-ac5d-418b-adfa-3052e0a3e22b.jpg?v=1750790673",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288798560344,
+      "created_at": "2025-06-24T14:44:35-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:44:35-04:00",
+      "product_id": 8397886193752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_e19c6b9c-a189-47e7-9255-b805e17d38bd.jpg?v=1750790675",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_S21_Seashell.jpg?v=1749565901",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

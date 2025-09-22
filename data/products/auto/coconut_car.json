@@ -1,0 +1,109 @@
+{
+  "id": 7170999648365,
+  "title": "Coconut",
+  "handle": "coconut-car",
+  "body_html": "<p>Bring the sweet scent of coconut on every commute with this cozy, cheerful scent, blending notes of coconut, palm leaves, and creamy sandalwood.</p>",
+  "published_at": "2025-06-13T15:19:11-06:00",
+  "created_at": "2023-12-13T15:46:28-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Simplicity by Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand: Simplicity by Pura",
+    "collection:Car",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances",
+    "YGroup_coconutcar"
+  ],
+  "variants": [
+    {
+      "id": 40934571769965,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CNPC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "12.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7170999648365,
+      "created_at": "2023-12-13T15:46:28-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31117718192237,
+      "created_at": "2024-01-30T11:15:40-07:00",
+      "position": 1,
+      "updated_at": "2024-01-30T11:16:13-07:00",
+      "product_id": 7170999648365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/simplicitycoocnutcar-resized-2.jpg?v=1706638573",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31117718290541,
+      "created_at": "2024-01-30T11:15:40-07:00",
+      "position": 2,
+      "updated_at": "2024-01-30T11:16:13-07:00",
+      "product_id": 7170999648365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/coconut-2-resized_ab6dc767-82fb-4d4c-b888-436c7ae82961.jpg?v=1706638573",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34307083010157,
+      "created_at": "2025-05-16T14:40:19-06:00",
+      "position": 3,
+      "updated_at": "2025-05-16T14:40:20-06:00",
+      "product_id": 7170999648365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Simplicity-Coconut-CarPro-Prod3-0525.jpg?v=1747428020",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34307083042925,
+      "created_at": "2025-05-16T14:40:19-06:00",
+      "position": 4,
+      "updated_at": "2025-05-16T14:40:21-06:00",
+      "product_id": 7170999648365,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Simplicity-Coconut-CarPro-Prod4-0525.jpg?v=1747428021",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 12.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/simplicitycoocnutcar-resized-2.jpg?v=1706638573",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simplicity by Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

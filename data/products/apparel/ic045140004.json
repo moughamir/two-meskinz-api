@@ -1,0 +1,67 @@
+{
+  "id": 7786273407143,
+  "title": "Brand: Dickies / Part #: L535BK-RG-XL",
+  "handle": "ic045140004",
+  "body_html": "<br><strong>Item #: </strong>98047707<br><strong>Brand: </strong>Dickies<br><strong>Model #: </strong>L535BK-RG-XL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Style</strong>\n</td>\n<td>Long Sleeve Regular</td>\n</tr>\n<tr>\n<td><strong>Garment Type</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>X-Large</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyester; Cotton</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Button</td>\n</tr>\n<tr>\n<td><strong>Chest Size (Inch)</strong></td>\n<td>46-48</td>\n</tr>\n<tr>\n<td><strong>Material Weight (oz.)</strong></td>\n<td>4.2500</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Hex Chest Pockets; Two Piece Convertible Collar With Sewn In Stays; Wrinkle Resistant</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>2.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:36:54-06:00",
+  "created_at": "2023-12-29T16:36:54-06:00",
+  "updated_at": "2025-09-22T10:53:47-05:00",
+  "vendor": "Dickies",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707396980903,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98047707",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "42.57",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786273407143,
+      "created_at": "2023-12-29T16:36:54-06:00",
+      "updated_at": "2025-09-22T10:53:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238214258855,
+      "created_at": "2025-02-03T18:40:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:40:29-06:00",
+      "product_id": 7786273407143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9804770-21.jpg?v=1738629629",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 42.57,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9804770-21.jpg?v=1738629629",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Dickies",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

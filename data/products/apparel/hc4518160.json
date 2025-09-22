@@ -1,0 +1,67 @@
+{
+  "id": 7785905848487,
+  "title": "Brand: Micro World Corp / Part #: AA12130",
+  "handle": "hc4518160",
+  "body_html": "<br><strong>Item #: </strong>01854314<br><strong>Brand: </strong>Micro World Corp<br><strong>Model #: </strong>AA12130<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Objective (mm)</strong>\n</td>\n<td>25</td>\n</tr>\n<tr>\n<td><strong>Field Of View</strong></td>\n<td>303 ft</td>\n</tr>\n<tr>\n<td><strong>Tripod Mountable</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Optical Lens Coating</strong></td>\n<td>Multi-Coated</td>\n</tr>\n<tr>\n<td><strong>Prism Type</strong></td>\n<td>Roof; BK-7</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Rubber</td>\n</tr>\n<tr>\n<td><strong>Width/Diameter (Decimal Inch)</strong></td>\n<td>1.2600</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>4.2500</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Lens Cloth; Carrying Case; Wrist Strap</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:48:34-06:00",
+  "created_at": "2023-12-29T06:48:34-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Micro World Corp",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43705903055015,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01854314",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "63.86",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785905848487,
+      "created_at": "2023-12-29T06:48:34-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237641572519,
+      "created_at": "2025-02-03T18:20:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:20:11-06:00",
+      "product_id": 7785905848487,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0185431-21.jpg?v=1738628411",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 63.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0185431-21.jpg?v=1738628411",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Micro World Corp",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

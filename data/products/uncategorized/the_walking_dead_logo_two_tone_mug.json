@@ -1,0 +1,96 @@
+{
+  "id": 7873592688687,
+  "title": "The Walking Dead Logo Two-Tone Mug",
+  "handle": "the-walking-dead-logo-two-tone-mug",
+  "body_html": "<p>Evading walkers is no joke. Stay hypervigilant and ready for whatever the world throws at you by enjoying your strongest coffee from this <em style=\"color: rgb(0, 0, 0);\">The Walking Dead</em> Logo Two-Tone Mug. Featuring the series logo against a unique two-tone design, this mug makes a great gift to any fan of <em style=\"color: rgb(0, 0, 0);\">The Walking Dead</em>.</p><p><strong>PRODUCT DETAILS:</strong></p><ul>\n<li>Sip your favorite beverage and represent your favorite show with this ceramic mug!</li>\n<li>Capacity: 11 oz</li>\n<li>Care: Dishwasher and microwave safe</li>\n<li>Additional Information: Large , easy-grip handle.</li>\n</ul>",
+  "published_at": "2025-01-16T15:06:37-05:00",
+  "created_at": "2024-11-20T14:02:58-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "AMC",
+    "Ceramic Mug - Inner/Handle",
+    "Drinking Glasses",
+    "drinkware",
+    "Home & Office",
+    "home and office",
+    "Mug",
+    "Mugs",
+    "Promo Eligible Collection",
+    "The Walking Dead",
+    "unisex",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43415889510447,
+      "title": "Black / 11 oz",
+      "option1": "Black",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "TWD-100088-0002-TWD-LOGO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7873592688687,
+      "created_at": "2024-11-20T14:02:58-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35351313842223,
+      "created_at": "2025-01-16T19:49:01-05:00",
+      "position": 1,
+      "updated_at": "2025-01-16T19:49:03-05:00",
+      "product_id": 7873592688687,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_14.png?v=1737074943",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351313874991,
+      "created_at": "2025-01-16T19:49:01-05:00",
+      "position": 2,
+      "updated_at": "2025-01-16T19:49:03-05:00",
+      "product_id": 7873592688687,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_15.png?v=1737074943",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz"
+      ]
+    }
+  ],
+  "price": 14.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_14.png?v=1737074943",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

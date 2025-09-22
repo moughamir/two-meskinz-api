@@ -1,0 +1,104 @@
+{
+  "id": 7361819607128,
+  "title": "Electric Blue iPhone 13 Pro Case",
+  "handle": "electric-blue-iphone-13-pro-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:16:21-04:00",
+  "created_at": "2023-05-12T10:16:21-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230008160344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16768-IP13P-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819607128,
+      "created_at": "2023-05-12T10:16:22-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30269180969048,
+      "created_at": "2023-05-23T18:24:36-04:00",
+      "position": 1,
+      "updated_at": "2023-05-23T18:24:40-04:00",
+      "product_id": 7361819607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_ELECTRIC_BLUE_BACK.jpg?v=1684880680",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180903512,
+      "created_at": "2023-05-23T18:24:36-04:00",
+      "position": 2,
+      "updated_at": "2023-05-23T18:24:40-04:00",
+      "product_id": 7361819607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_ELECTRIC_BLUE_BACK_45L.jpg?v=1684880680",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180936280,
+      "created_at": "2023-05-23T18:24:36-04:00",
+      "position": 3,
+      "updated_at": "2023-05-23T18:24:40-04:00",
+      "product_id": 7361819607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_ELECTRIC_BLUE_BACK_45R.jpg?v=1684880680",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826947080280,
+      "created_at": "2023-10-16T14:29:23-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:29:24-04:00",
+      "product_id": 7361819607128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_615bf6cd-3159-4f7e-accb-0c0c10c4c4e8.jpg?v=1697480964",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_ELECTRIC_BLUE_BACK.jpg?v=1684880680",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

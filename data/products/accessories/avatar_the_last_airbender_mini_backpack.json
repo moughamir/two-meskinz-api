@@ -1,0 +1,123 @@
+{
+  "id": 7931340062767,
+  "title": "Avatar: The Last Airbender Mini Backpack",
+  "handle": "avatar-the-last-airbender-mini-backpack",
+  "body_html": "<p>Brave the elements in style! Take along this <em>Avatar: The Last Airbender </em>mini backpack. On the front, you'll find a colorful applique of Aang, flying in his glider, his wings stretched out. Below him, an applique of Momo appears, and a picturesque view of mountains unfolds. The air-bending symbol, along the applique trim on the front, shines in gold-foil detail. Appa appears on the side panels, and when you flip the backpack around, Momo makes an encore appearance as a print. Pack just what you need for a day of soaring through adventures. </p>\n<ul>\n<li>Dimensions: 9\" W x 10.5\" H x 4.5\" D</li>\n<li>Materials: Vegan leather (polyurethane)</li>\n<li>Adjustable and padded shoulder straps</li>\n<li>Sturdy top handle</li>\n<li>Gold-colored metal hardware</li>\n<li>Applique, gold foil, embossed, and printed details</li>\n<li>Coordinating inside lining</li>\n</ul>",
+  "published_at": "2025-02-26T15:28:29-05:00",
+  "created_at": "2025-02-25T07:56:10-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "loungefly",
+  "product_type": "Backpacks",
+  "tags": [
+    "Aang",
+    "Accessories",
+    "Avatar",
+    "Avatar The Last Airbender",
+    "Backpack",
+    "Backpacks",
+    "Bag",
+    "Home & Office",
+    "home and office",
+    "Loungefly",
+    "Momo",
+    "New Accessories",
+    "Title: Avatar: The Last Airbender"
+  ],
+  "variants": [
+    {
+      "id": 43617465597999,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "AVAT-R7008623-1-AVTR-MN-BCKPK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "88.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7931340062767,
+      "created_at": "2025-02-25T07:56:10-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35589116133423,
+      "created_at": "2025-02-25T16:56:41-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T07:03:41-05:00",
+      "product_id": 7931340062767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NETFLIX-AVTR-MN-BCKPK.jpg?v=1740571421",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35589116198959,
+      "created_at": "2025-02-25T16:56:41-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T07:03:41-05:00",
+      "product_id": 7931340062767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/AVTR-MN-BCKPK_NETFLIX.jpg?v=1740571421",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35589116624943,
+      "created_at": "2025-02-25T16:56:41-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T07:03:41-05:00",
+      "product_id": 7931340062767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NETFLIX_AVTR-MN-BCKPK.jpg?v=1740571421",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35589116690479,
+      "created_at": "2025-02-25T16:56:42-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T07:03:41-05:00",
+      "product_id": 7931340062767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NETFLIX_-_AVTR-MN-BCKPK-3.jpg?v=1740571421",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35589116231727,
+      "created_at": "2025-02-25T16:56:41-05:00",
+      "position": 5,
+      "updated_at": "2025-02-26T07:03:41-05:00",
+      "product_id": 7931340062767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Netflix_AVTR-MN-BCKPK-2.jpg?v=1740571421",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 88.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NETFLIX-AVTR-MN-BCKPK.jpg?v=1740571421",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "loungefly",
+  "category": "Backpacks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

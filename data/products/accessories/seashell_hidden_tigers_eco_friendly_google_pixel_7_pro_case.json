@@ -1,0 +1,97 @@
+{
+  "id": 7369017917528,
+  "title": "Seashell Hidden Tigers Google Pixel 7 Pro Case",
+  "handle": "seashell-hidden-tigers-eco-friendly-google-pixel-7-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Let your style roar with the Pela Hidden Tigers Phone Case, where strokes of wild elegance meet modern flair.  <meta charset=\"utf-8\">It’s where protection meets the pinnacle of nature-inspired fashion, making your phone a fearless companion both in the urban jungle and in the wild. Carry a piece of the wilderness with you and let these hidden tigers turn your day into an adventure with just the right amount of pounce! 🐅✨🌸</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-27T09:09:56-04:00",
+  "created_at": "2023-07-17T11:20:13-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:International Tiger Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hidden Tigers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40246550102104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14876-PX7P-SEASHELL-AOD:HIDDEN-TIGERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7369017917528,
+      "created_at": "2023-07-17T11:20:13-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30320956047448,
+      "created_at": "2023-07-17T11:20:13-04:00",
+      "position": 1,
+      "updated_at": "2023-07-17T11:20:13-04:00",
+      "product_id": 7369017917528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_PX7P_Seashell.jpg?v=1689607213",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30329120456792,
+      "created_at": "2023-07-25T15:39:41-04:00",
+      "position": 2,
+      "updated_at": "2023-07-25T15:39:45-04:00",
+      "product_id": 7369017917528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0940_e31ecfa5-9827-4a75-a198-8475f21b8158.jpg?v=1690313985",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30321101209688,
+      "created_at": "2023-07-17T12:52:57-04:00",
+      "position": 3,
+      "updated_at": "2023-07-25T15:39:45-04:00",
+      "product_id": 7369017917528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/InternationalTigerDayv2_b0f594b7-29d3-4f25-a3b6-64a7eb97f3b5.png?v=1690313985",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_PX7P_Seashell.jpg?v=1689607213",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

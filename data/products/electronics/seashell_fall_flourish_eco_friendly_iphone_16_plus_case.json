@@ -1,0 +1,110 @@
+{
+  "id": 8142176223320,
+  "title": "Seashell Fall Flourish iPhone 16 Plus Case",
+  "handle": "seashell-fall-flourish-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Fall Flourish Phone Case! 🍂🍄 Bursting with autumn-inspired blooms, earthy mushrooms, and whimsical shapes in rich, warm tones, this case will have you feeling all the fall feels. Whether you’re sipping on pumpkin spice or taking a stroll through colorful leaves, this case will keep your phone stylish and protected with a flourish of nature’s charm. Perfect for autumn lovers who want to bring the beauty of the season wherever they go! 🌻🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:44:26-04:00",
+  "created_at": "2024-09-25T12:26:10-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fall Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294273376344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:FALL-FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142176223320,
+      "created_at": "2024-09-25T12:26:10-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677676904536,
+      "created_at": "2024-09-25T12:26:10-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:10-04:00",
+      "product_id": 8142176223320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP16PLUS_Seashell.jpg?v=1727281570",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749455339608,
+      "created_at": "2024-10-09T17:35:32-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:35:33-04:00",
+      "product_id": 8142176223320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP2_fb7aa34d-08dc-4cb8-9c72-972999896897.jpg?v=1728509733",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749455405144,
+      "created_at": "2024-10-09T17:35:32-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:35:34-04:00",
+      "product_id": 8142176223320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP1_d5fa493d-3f65-4898-97ee-8fda784605c8.jpg?v=1728509734",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749455372376,
+      "created_at": "2024-10-09T17:35:32-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:35:33-04:00",
+      "product_id": 8142176223320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_24e447d7-588f-40f5-9524-feabfde615af.jpg?v=1728509733",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP16PLUS_Seashell.jpg?v=1727281570",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

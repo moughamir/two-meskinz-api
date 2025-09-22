@@ -1,0 +1,120 @@
+{
+  "id": 7051706859629,
+  "title": "Gingerbread",
+  "handle": "gingerbread",
+  "body_html": "<p>Gingerbread warms the heart and home with spicy notes of <strong>cardamom</strong>, <strong>cinnamon</strong>, crystallized <strong>ginger</strong> and hints of golden <strong>amber</strong>; it's a delectable effect that begs to be savored and shared.</p>",
+  "published_at": "2023-08-14T19:50:27-06:00",
+  "created_at": "2023-08-09T16:19:29-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Thymes",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:Thymes",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "Scent Type_Amber",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_gingerbread"
+  ],
+  "variants": [
+    {
+      "id": 40702259265645,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GRBH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051706859629,
+      "created_at": "2023-08-09T16:19:30-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827204018285,
+      "created_at": "2023-12-07T12:30:35-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T12:30:44-07:00",
+      "product_id": 7051706859629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Gingerbread-Vertical-Resized.jpg?v=1701977444",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30827203985517,
+      "created_at": "2023-12-07T12:30:35-07:00",
+      "position": 2,
+      "updated_at": "2023-12-07T12:30:44-07:00",
+      "product_id": 7051706859629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/gingerresized.jpg?v=1701977444",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30827203821677,
+      "created_at": "2023-12-07T12:30:35-07:00",
+      "position": 3,
+      "updated_at": "2023-12-07T12:30:44-07:00",
+      "product_id": 7051706859629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Gingerbread-Device-V4.jpg?v=1701977444",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827203919981,
+      "created_at": "2023-12-07T12:30:35-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T12:30:44-07:00",
+      "product_id": 7051706859629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/thymesgingerbread-resized.jpg?v=1701977444",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Gingerbread-Vertical-Resized.jpg?v=1701977444",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Thymes",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785431597223,
+  "title": "Brand: AVERY / Part #: 11505",
+  "handle": "cw8153815",
+  "body_html": "<br><strong>Item #: </strong>54693841<br><strong>Brand: </strong>AVERY<br><strong>Model #: </strong>11505<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Divider Type</strong>\n</td>\n<td>Customizable</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Buff</td>\n</tr>\n<tr>\n<td><strong>Divider Color</strong></td>\n<td>Buff</td>\n</tr>\n<tr>\n<td><strong>Tab Titles</strong></td>\n<td>1-8</td>\n</tr>\n<tr>\n<td><strong>Tab Color</strong></td>\n<td>Buff</td>\n</tr>\n<tr>\n<td><strong>Bond</strong></td>\n<td>3-Hole Punched</td>\n</tr>\n<tr>\n<td><strong>Number Of Tabs</strong></td>\n<td>8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:52:37-06:00",
+  "created_at": "2023-12-28T20:52:37-06:00",
+  "updated_at": "2025-09-22T10:55:17-05:00",
+  "vendor": "AVERY",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Office Supplies"
+  ],
+  "variants": [
+    {
+      "id": 43703827529895,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54693841",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "94.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785431597223,
+      "created_at": "2023-12-28T20:52:37-06:00",
+      "updated_at": "2025-09-22T10:55:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236920545447,
+      "created_at": "2025-02-03T17:58:16-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:17-06:00",
+      "product_id": 7785431597223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5469384-21.jpg?v=1738627097",
+      "width": 496,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5469384-21.jpg?v=1738627097",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AVERY",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

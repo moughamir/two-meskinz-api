@@ -1,0 +1,119 @@
+{
+  "id": 8429099679832,
+  "title": "Chocolate Brown Earthy Curves iPhone XR Case",
+  "handle": "chocolate-brown-earthy-curves-eco-friendly-iphone-xr-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:13:14-04:00",
+  "created_at": "2025-07-17T07:09:49-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Earthy Curves",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063791485016,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13192-IPXR-CHOBROWN-AOD:EARTHY-CURVES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429099679832,
+      "created_at": "2025-07-17T07:09:49-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436653445208,
+      "created_at": "2025-07-17T07:09:49-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:51-04:00",
+      "product_id": 8429099679832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EARTHY-CURVES_IPXR_ChocolateBrown.jpg?v=1752750591",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581709090904,
+      "created_at": "2025-08-11T14:57:43-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:57:43-04:00",
+      "product_id": 8429099679832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9e91c7e4323f6e3ddbf1f3ed60429a22_a750e939-3ad2-4147-9139-650303b9b0f6.jpg?v=1754938663",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581709287512,
+      "created_at": "2025-08-11T14:57:45-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:57:45-04:00",
+      "product_id": 8429099679832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4feebeda2f7969d22e19c8690b5c267b_066d889e-f6be-4ba1-8245-da1fc55e1158.jpg?v=1754938665",
+      "width": 4367,
+      "height": 4367
+    },
+    {
+      "id": 35581709615192,
+      "created_at": "2025-08-11T14:57:47-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:57:47-04:00",
+      "product_id": 8429099679832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_48cfff85-bc8d-4714-86e1-f155c013ff2a.jpg?v=1754938667",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581709844568,
+      "created_at": "2025-08-11T14:57:49-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:57:49-04:00",
+      "product_id": 8429099679832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/5cf1c45fa3864460b546a0e99814f145_4c72302c-ea31-4dc6-a139-9a280c5dda2a.jpg?v=1754938669",
+      "width": 4281,
+      "height": 4281
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EARTHY-CURVES_IPXR_ChocolateBrown.jpg?v=1752750591",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

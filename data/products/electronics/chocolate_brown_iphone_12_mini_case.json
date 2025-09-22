@@ -1,0 +1,125 @@
+{
+  "id": 8121403474008,
+  "title": "Chocolate Brown iPhone 12 Mini Case",
+  "handle": "chocolate-brown-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<!---->",
+  "published_at": "2024-10-16T09:10:41-04:00",
+  "created_at": "2024-09-06T12:37:26-04:00",
+  "updated_at": "2025-09-22T15:15:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42250847879256,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16385-IP12MINI-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.00",
+      "grams": 29,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8121403474008,
+      "created_at": "2024-09-06T12:37:26-04:00",
+      "updated_at": "2025-09-22T15:15:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33628875391064,
+      "created_at": "2024-09-17T13:56:43-04:00",
+      "position": 1,
+      "updated_at": "2024-09-17T13:56:44-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_CHOCOLATE_BROWN_BACK.jpg?v=1726595804",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628875325528,
+      "created_at": "2024-09-17T13:56:43-04:00",
+      "position": 2,
+      "updated_at": "2024-09-17T13:56:44-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_CHOCOLATE_BROWN_BACK45L.jpg?v=1726595804",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628875358296,
+      "created_at": "2024-09-17T13:56:43-04:00",
+      "position": 3,
+      "updated_at": "2024-09-17T13:56:44-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_CHOCOLATE_BROWN_BACK45R.jpg?v=1726595804",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33855500877912,
+      "created_at": "2024-10-24T16:18:17-04:00",
+      "position": 4,
+      "updated_at": "2024-10-24T16:18:19-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_53e7e9ce-85de-4924-90f0-f0518c54e649.jpg?v=1729801099",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855500910680,
+      "created_at": "2024-10-24T16:18:17-04:00",
+      "position": 5,
+      "updated_at": "2024-10-24T16:18:19-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_16cb2049-e9ad-4d6e-87e4-c9ac938d8977.jpg?v=1729801099",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855500845144,
+      "created_at": "2024-10-24T16:18:17-04:00",
+      "position": 6,
+      "updated_at": "2024-10-24T16:18:19-04:00",
+      "product_id": 8121403474008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_ee4720bb-b743-45c2-a67f-f4692fd06a7d.jpg?v=1729801099",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_MINI_CHOCOLATE_BROWN_BACK.jpg?v=1726595804",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

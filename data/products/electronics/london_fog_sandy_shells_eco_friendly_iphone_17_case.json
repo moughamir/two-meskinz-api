@@ -1,0 +1,118 @@
+{
+  "id": 8444712058968,
+  "title": "London Fog Sandy Shells iPhone 17 Case",
+  "handle": "london-fog-sandy-shells-eco-friendly-iphone-17-case",
+  "body_html": "<p data-start=\"0\" data-end=\"61\">Meet your beachy bestie: the Sandy Shells Phone Case 🐚🌞</p>\n<p data-start=\"63\" data-end=\"328\">Inspired by long walks on the shore and perfectly sun-warmed treasures, this case is packed with pastel shells, sun-kissed corals, and soft neutrals that give major laid-back coastal vibes. It’s like your phone went on a seaside vacation and brought back souvenirs.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:11:55-04:00",
+  "created_at": "2025-08-08T11:52:13-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sandy Shells",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184187342936,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SANDY-SHELLS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444712058968,
+      "created_at": "2025-09-03T18:39:49-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184187375704,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SANDY-SHELLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444712058968,
+      "created_at": "2025-09-03T18:39:49-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567315517528,
+      "created_at": "2025-08-08T11:52:13-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:15-04:00",
+      "product_id": 8444712058968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SANDY-SHELLS_IP17_LondonFog.jpg?v=1754668335",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453397303384,
+      "created_at": "2025-07-21T16:24:43-04:00",
+      "position": 2,
+      "updated_at": "2025-08-08T13:08:16-04:00",
+      "product_id": 8444712058968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Sandy_Shells_2.jpg?v=1754672896",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453396910168,
+      "created_at": "2025-07-21T16:24:41-04:00",
+      "position": 3,
+      "updated_at": "2025-08-08T13:08:06-04:00",
+      "product_id": 8444712058968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Sandy_Shells_1.jpg?v=1754672886",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SANDY-SHELLS_IP17_LondonFog.jpg?v=1754668335",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

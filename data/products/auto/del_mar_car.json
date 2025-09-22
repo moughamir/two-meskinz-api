@@ -1,0 +1,111 @@
+{
+  "id": 7025582768237,
+  "title": "Del Mar",
+  "handle": "del-mar-car",
+  "body_html": "<p>The road is calling you to the breezy California coast as a citrusy blend of <strong>pomelo</strong> and <strong>lemon zest </strong>swirl with <strong>orange blossom</strong> and<strong> blonde woods</strong>.</p>",
+  "published_at": "2023-07-13T10:48:59-06:00",
+  "created_at": "2023-07-11T14:24:54-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "GUY FOX",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand:GUY FOX",
+    "collection:Car",
+    "Del Mar Car",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Medium",
+    "type_CarFragrance",
+    "YCRF_carfragrances",
+    "YGroup_delmarcar"
+  ],
+  "variants": [
+    {
+      "id": 40678325911661,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DEMC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "17.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7025582768237,
+      "created_at": "2023-07-11T14:24:55-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30428516941933,
+      "created_at": "2023-08-30T17:40:55-06:00",
+      "position": 1,
+      "updated_at": "2023-08-30T17:40:58-06:00",
+      "product_id": 7025582768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/guy-fox-del-mar-car-resized-3.jpg?v=1693438858",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30205843013741,
+      "created_at": "2023-07-11T14:27:45-06:00",
+      "position": 2,
+      "updated_at": "2023-08-30T17:40:58-06:00",
+      "product_id": 7025582768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_3cf3434b-bbcd-45af-851e-087c43baff75.png?v=1693438858",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30205842948205,
+      "created_at": "2023-07-11T14:27:45-06:00",
+      "position": 3,
+      "updated_at": "2023-08-30T17:40:58-06:00",
+      "product_id": 7025582768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_3_bac0a67c-23ed-4851-9d03-2b2c5b20067c.png?v=1693438858",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30205842915437,
+      "created_at": "2023-07-11T14:27:45-06:00",
+      "position": 4,
+      "updated_at": "2023-08-30T17:40:58-06:00",
+      "product_id": 7025582768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_c05b959f-19c3-4d13-a4ed-db8808ae3a56.png?v=1693438858",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 17.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/guy-fox-del-mar-car-resized-3.jpg?v=1693438858",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GUY FOX",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

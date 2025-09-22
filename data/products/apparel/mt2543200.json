@@ -1,0 +1,67 @@
+{
+  "id": 7785874718887,
+  "title": "Brand: Widia / Part #: 2628500",
+  "handle": "mt2543200",
+  "body_html": "<br><strong>Item #: </strong>34036780<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2628500<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Included Centerline Angle</strong></td>\n<td>90 ?</td>\n</tr>\n<tr>\n<td><strong>Included Side Angle</strong></td>\n<td>45 ?</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal; Hard Material; Stainless Steel; Cast Iron; High Temperature Alloy; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; S; H; K; M; N</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Chamfering</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>423037</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:16:24-06:00",
+  "created_at": "2023-12-29T05:16:24-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "Widia",
+  "product_type": "Holemaking",
+  "tags": [
+    "Countersinks; Chamfer Mills & Back Chamfers"
+  ],
+  "variants": [
+    {
+      "id": 43705713950887,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "34036780",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "67.73",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785874718887,
+      "created_at": "2023-12-29T05:16:24-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237486776487,
+      "created_at": "2025-02-03T18:17:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:17:05-06:00",
+      "product_id": 7785874718887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3403695-21.jpg?v=1738628225",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 67.73,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3403695-21.jpg?v=1738628225",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

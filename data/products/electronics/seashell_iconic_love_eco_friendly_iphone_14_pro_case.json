@@ -1,0 +1,120 @@
+{
+  "id": 8216564564056,
+  "title": "Seashell Iconic Love iPhone 14 Pro Case",
+  "handle": "seashell-iconic-love-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Celebrate love in all its playful forms with the Iconic Love Phone Case from our <em>Amour Collection</em>! Featuring a charming mix of hearts, strawberries, teddy bears, and sweet treats (with a dash of spice 🌶️), this case is bursting with Valentine’s Day vibes.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:24:48-05:00",
+  "created_at": "2024-12-16T10:52:23-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Iconic Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469057364056,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:ICONIC-LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216564564056,
+      "created_at": "2024-12-16T10:52:23-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130690244696,
+      "created_at": "2024-12-16T10:52:23-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:25-05:00",
+      "product_id": 8216564564056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP14P_Seashell.jpg?v=1734364345",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215569981528,
+      "created_at": "2025-01-03T13:08:13-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T13:08:14-05:00",
+      "product_id": 8216564564056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP1_450d0bde-70e2-41f4-b008-3ea9153d0e98.jpg?v=1735927694",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215570047064,
+      "created_at": "2025-01-03T13:08:13-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T13:08:15-05:00",
+      "product_id": 8216564564056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP2_3c80936f-e299-423a-b328-8eb20690622a.jpg?v=1735927695",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215570014296,
+      "created_at": "2025-01-03T13:08:13-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T13:08:14-05:00",
+      "product_id": 8216564564056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP3_d802abf5-bda4-4d8a-a3c3-fddba4e2f245.jpg?v=1735927694",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215569948760,
+      "created_at": "2025-01-03T13:08:13-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T13:08:14-05:00",
+      "product_id": 8216564564056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONICLOVE_PDP4_a0a85f2b-4d2f-4a76-b264-4bfd9da7a59b.jpg?v=1735927694",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ICONIC-LOVE_IP14P_Seashell.jpg?v=1734364345",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 8164331159640,
+  "title": "Electric Blue Festive Flair iPhone 15 Pro Max Case",
+  "handle": "electric-blue-festive-flair-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p class=\"p1\">Turn up the festive fun with the Festive Flair Phone Case! Bursting with holiday cheer, this case is covered in ornaments, stars, trees, and more to keep your phone as jolly as the season. Wrapped in vibrant colors and playful designs, it’s the perfect holiday accessory to deck your phone in merry style. Plus, it’s made from earth-friendly materials, so while you’re spreading cheer, you’re also spreading love for the planet. Ready to sleigh your holiday look? This case has your phone covered—literally! <b>🎄🎁</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:16:05-04:00",
+  "created_at": "2024-10-21T14:39:09-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Festive Flair",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345506472024,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17130-IP15PMAX-ELEBLUE-AOD:FESTIVE-FLAIR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164331159640,
+      "created_at": "2024-10-21T14:39:09-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832664989784,
+      "created_at": "2024-10-21T14:39:09-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:39:12-04:00",
+      "product_id": 8164331159640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_IP15PMAX_ElectricBlue.jpg?v=1729535952",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33881165332568,
+      "created_at": "2024-10-28T14:54:29-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:54:31-04:00",
+      "product_id": 8164331159640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP1_18ab413a-be9b-4805-8561-637a1413aa21.jpg?v=1730141671",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881165267032,
+      "created_at": "2024-10-28T14:54:29-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:54:30-04:00",
+      "product_id": 8164331159640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP2_a794fba0-514b-4613-937d-bd7972da7f7c.jpg?v=1730141670",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881165201496,
+      "created_at": "2024-10-28T14:54:29-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:54:30-04:00",
+      "product_id": 8164331159640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP3_f0969296-2784-4346-afd6-9a76f6cecf88.jpg?v=1730141670",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881165299800,
+      "created_at": "2024-10-28T14:54:29-04:00",
+      "position": 5,
+      "updated_at": "2024-10-28T14:54:30-04:00",
+      "product_id": 8164331159640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP4_7f2be642-0ece-4eb7-b82f-debf47115046.jpg?v=1730141670",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_IP15PMAX_ElectricBlue.jpg?v=1729535952",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

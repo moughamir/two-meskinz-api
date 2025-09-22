@@ -1,0 +1,129 @@
+{
+  "id": 8444702228568,
+  "title": "Electric Blue Seagulls iPhone 17 Case",
+  "handle": "electric-blue-seagulls-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Love 'em or side-eye 'em, seagulls know how to make an entrance—and now your phone can too. The Seagulls Phone Case captures the chaotic charm of our favorite beach birds in mid-squawk and swoop on a bright ocean-blue backdrop. It’s equal parts breezy and bold—just like a seagull eyeing your fries. 🐦🌊🍟</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:58:45-04:00",
+  "created_at": "2025-08-08T11:51:39-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Seagulls",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184134455384,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17469-IP17-ELEBLUE-AOD:SEAGULLS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444702228568,
+      "created_at": "2025-09-03T18:31:39-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184134488152,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17469-IP17-ELEBLUE-AOD:SEAGULLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444702228568,
+      "created_at": "2025-09-03T18:31:39-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567295234136,
+      "created_at": "2025-08-08T11:51:39-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:42-04:00",
+      "product_id": 8444702228568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEAGULLS_IP17_ElectricBlue.jpg?v=1754668302",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010521595992,
+      "created_at": "2025-05-13T06:43:02-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:43:04-04:00",
+      "product_id": 8444702228568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_Seagulls_PDP_03_74917b78-54a8-446a-98a1-08828eb460af.jpg?v=1747132984",
+      "width": 1111,
+      "height": 1111
+    },
+    {
+      "id": 35010521366616,
+      "created_at": "2025-05-13T06:42:53-04:00",
+      "position": 3,
+      "updated_at": "2025-08-12T10:47:00-04:00",
+      "product_id": 8444702228568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_Seagulls_PDP_01_7ff5e9d0-a31b-4920-ac6f-3c587c60911e.jpg?v=1755010020",
+      "width": 1109,
+      "height": 1109
+    },
+    {
+      "id": 35010521399384,
+      "created_at": "2025-05-13T06:42:53-04:00",
+      "position": 4,
+      "updated_at": "2025-08-12T10:47:00-04:00",
+      "product_id": 8444702228568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_Seagulls_PDP_02jpg_165efd07-0794-4266-9308-633a81efad16.jpg?v=1755010020",
+      "width": 989,
+      "height": 989
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEAGULLS_IP17_ElectricBlue.jpg?v=1754668302",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

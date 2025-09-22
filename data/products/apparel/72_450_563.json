@@ -1,0 +1,68 @@
+{
+  "id": 5477597020327,
+  "title": "Drum & Tank Handling Equipment; Load Capacity (Lb.",
+  "handle": "72-450-563",
+  "body_html": "<br><strong>Item #: </strong>46924403<br><strong>Brand: </strong>Valley Craft<br><strong>Model #: </strong>F83450A6<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Load Capacity (Lb. - 3 Decimals)</strong>\n</td>\n<td>1000.000</td>\n</tr>\n<tr> <td> <strong>Equipment Type</strong>\n</td>\n<td>Drum Hand Truck</td>\n</tr>\n<tr> <td> <strong>Overall Width</strong>\n</td>\n<td>25</td>\n</tr>\n<tr> <td> <strong>Overall Height</strong>\n</td>\n<td>60 in</td>\n</tr>\n<tr> <td> <strong>Overall Depth</strong>\n</td>\n<td>20 in</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24101900</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T12:24:39-06:00",
+  "created_at": "2020-07-13T21:54:03-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Valley Craft",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Containers",
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 35204194238631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "46924403",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1783.01",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5477597020327,
+      "created_at": "2020-07-13T21:54:03-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38246469632167,
+      "created_at": "2025-02-03T23:42:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:42:31-06:00",
+      "product_id": 5477597020327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4692440-21.jpg?v=1738647751",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1783.01,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4692440-21.jpg?v=1738647751",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Valley Craft",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

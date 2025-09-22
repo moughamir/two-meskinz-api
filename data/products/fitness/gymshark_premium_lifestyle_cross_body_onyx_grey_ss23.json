@@ -1,0 +1,135 @@
+{
+  "id": 6805103280330,
+  "title": "Gymshark Lifestyle Cross Body - Onyx Grey",
+  "handle": "gymshark-premium-lifestyle-cross-body-onyx-grey-ss23",
+  "body_html": "<p><strong>IT’S A LIFESTYLE</strong></p>\n<p> </p>\n<p><br>Premium materials, metal accents, elegant branding details. When your day needs a little sophistication, the Lifestyle collection is the finishing touch.</p>\n<p><br>• 2 small zipped pockets to front and one main zipped pocket<br>• Slip pocket to back to fit your phone<br>• Cross body strap</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• Length: 5.5\". Height: 8.6\". Width: 1.57\".<br>• Volume: 2.75L</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• Shell: 100% Nylon. Lining: 100% Polyester .<br>• Wipe clean only<br>• Don’t wash<br>• Don’t bleach<br>• Don’t tumble dry<br>• Don’t iron<br>• Don’t dry clean</p>\n<p><br>SKU: I2A5X-GBCY</p>",
+  "published_at": "2023-04-27T11:08:12-07:00",
+  "created_at": "2023-01-12T01:12:26-08:00",
+  "updated_at": "2025-09-22T08:46:29-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1758186871",
+    "all-products",
+    "bags",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "feature:pockets",
+    "filter-colour:Grey",
+    "loungewear",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Pause",
+    "rest-day",
+    "season:SS23",
+    "subcategory:Crossbody",
+    "tier:2"
+  ],
+  "variants": [
+    {
+      "id": 39787842273482,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A5X-GBCY-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "32.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805103280330,
+      "created_at": "2023-01-12T01:12:27-08:00",
+      "updated_at": "2025-09-22T08:46:29-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976079339722,
+      "created_at": "2023-09-13T01:03:04-07:00",
+      "position": 1,
+      "updated_at": "2023-09-13T01:03:08-07:00",
+      "product_id": 6805103280330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY_1b300691-2aba-40e2-9244-f7fa9d90d028.jpg?v=1694592188",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976079372490,
+      "created_at": "2023-09-13T01:03:04-07:00",
+      "position": 2,
+      "updated_at": "2023-09-13T01:03:09-07:00",
+      "product_id": 6805103280330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY1_124261f8-382f-44be-a8c9-7fc67e6fd5bc.jpg?v=1694592189",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976079044810,
+      "created_at": "2023-09-13T01:03:04-07:00",
+      "position": 3,
+      "updated_at": "2023-09-13T01:03:07-07:00",
+      "product_id": 6805103280330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY.75_57a5d7bb-2c1b-4349-b8a7-59f21dd6242f.jpg?v=1694592187",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976079274186,
+      "created_at": "2023-09-13T01:03:04-07:00",
+      "position": 4,
+      "updated_at": "2023-09-13T01:03:07-07:00",
+      "product_id": 6805103280330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY2_f2fc95fe-6c80-468e-89a1-c169f127eb36.jpg?v=1694592187",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976079405258,
+      "created_at": "2023-09-13T01:03:05-07:00",
+      "position": 5,
+      "updated_at": "2023-09-13T01:03:09-07:00",
+      "product_id": 6805103280330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY-0879_f19c7d02-0fd6-4ed9-a3fe-827f1c54f829.jpg?v=1694592189",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 32,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleCrossBodyBagSOnyxGreyI2A5X-GBCY_1b300691-2aba-40e2-9244-f7fa9d90d028.jpg?v=1694592188",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8412246573144,
+  "title": "Seashell Sunset iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-sunset-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p data-start=\"0\" data-end=\"126\">Say hello to golden hour, on repeat 🌞💗 — the Sunset Phone Case from the Pela x Katie Waiyu Artist Series Collection.</p>\n<p data-start=\"128\" data-end=\"352\">With soft pastel skies, a glowing sun, and a peaceful rolling hill, this dreamy design captures that perfect moment just before the stars come out. It’s calm, cozy, and totally nostalgic—like a watercolor hug for your phone.</p>\n<p data-start=\"354\" data-end=\"464\" data-is-last-node=\"\" data-is-only-node=\"\">Whether you're a sunset chaser or just vibing with the calm, this case brings the chill wherever you go.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-31T09:23:31-04:00",
+  "created_at": "2025-06-24T12:48:33-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunset",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43010269380696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:SUNSET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8412246573144,
+      "created_at": "2025-06-24T12:48:33-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35288235343960,
+      "created_at": "2025-06-24T12:48:33-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T12:48:34-04:00",
+      "product_id": 8412246573144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP7_Seashell.jpg?v=1750783714",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506898108504,
+      "created_at": "2025-07-30T12:18:38-04:00",
+      "position": 2,
+      "updated_at": "2025-07-30T12:18:38-04:00",
+      "product_id": 8412246573144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f8599c1bfbd8c6bce42794356e079c0e_1d6f3f0f-c8ca-460b-a1c5-46c175a99f94.jpg?v=1753892318",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506898272344,
+      "created_at": "2025-07-30T12:18:39-04:00",
+      "position": 3,
+      "updated_at": "2025-07-30T12:18:39-04:00",
+      "product_id": 8412246573144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d954948745f3ab9aa360c5bc81880de_19651d91-d48f-4813-96e2-a71bd2cd8fb7.jpg?v=1753892319",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506898468952,
+      "created_at": "2025-07-30T12:18:41-04:00",
+      "position": 4,
+      "updated_at": "2025-07-30T12:18:41-04:00",
+      "product_id": 8412246573144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd19231a2c886c223c75ce5004beaf58_311817fb-63b4-4212-833c-fc4535156e66.jpg?v=1753892321",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP7_Seashell.jpg?v=1750783714",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

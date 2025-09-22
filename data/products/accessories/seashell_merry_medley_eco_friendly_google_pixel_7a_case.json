@@ -1,0 +1,108 @@
+{
+  "id": 7555251601496,
+  "title": "Seashell Merry Medley Google Pixel 7a Case",
+  "handle": "seashell-merry-medley-eco-friendly-google-pixel-7a-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:04:08-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7a",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277205592,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14910-PX7a-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251601496,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963861592,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251601496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_PX7A_Seashell.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241108975704,
+      "created_at": "2024-02-28T17:19:51-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:19:54-05:00",
+      "product_id": 7555251601496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_359bce65-2089-48b5-ae03-505310afbb7e.jpg?v=1709158794",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109008472,
+      "created_at": "2024-02-28T17:19:51-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:19:54-05:00",
+      "product_id": 7555251601496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_8e6aab4d-c1dd-4fa6-9a24-ca3a46c001f8.jpg?v=1709158794",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241108942936,
+      "created_at": "2024-02-28T17:19:51-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:19:52-05:00",
+      "product_id": 7555251601496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_47f5ead1-7499-465f-b0e4-024657d5a7dc.jpg?v=1709158792",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_PX7A_Seashell.jpg?v=1707245497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

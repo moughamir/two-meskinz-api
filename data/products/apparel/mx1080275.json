@@ -1,0 +1,69 @@
+{
+  "id": 5364869103783,
+  "title": "Brand: Ansell / Part #: 11645080",
+  "handle": "mx1080275",
+  "body_html": "<br><strong>Item #: </strong>56554769<br><strong>Brand: </strong>Ansell<br><strong>Model #: </strong>11645080<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Glove Type</strong>\n</td>\n<td>Mechanics; Cut Resistant</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Puncture Resistance Level</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Ansi/Isea Cut Resistance Level</strong></td>\n<td>A4</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Abrasion Resistance Level</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Coating Coverage</strong></td>\n<td>Palm &amp; Fingertips</td>\n</tr>\n<tr>\n<td><strong>Coating Material</strong></td>\n<td>Polyurethane</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Glove Material</strong></td>\n<td>INTERCEPT Technology Yarn</td>\n</tr>\n<tr>\n<td><strong>Lining Material</strong></td>\n<td>INTERCEPT Technology Yarn</td>\n</tr>\n<tr>\n<td><strong>Back Material</strong></td>\n<td>INTERCEPT Technology Yarn</td>\n</tr>\n<tr>\n<td><strong>Palm Features</strong></td>\n<td>Polyurethane Coated Palm</td>\n</tr>\n<tr>\n<td><strong>Blood Borne Pathogen Barrier</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Coating Style</strong></td>\n<td>Dipped</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T00:30:39-06:00",
+  "created_at": "2020-06-22T11:10:47-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Ansell",
+  "product_type": "Safety",
+  "tags": [
+    "Drilling",
+    "Personal Protective Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34854641926311,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "56554769",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5364869103783,
+      "created_at": "2020-06-22T11:10:48-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239946375335,
+      "created_at": "2025-02-03T20:03:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:03:18-06:00",
+      "product_id": 5364869103783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5655560-21_9ea59b36-7544-401d-a860-5fba2b91587e.jpg?v=1738634598",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5655560-21_9ea59b36-7544-401d-a860-5fba2b91587e.jpg?v=1738634598",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ansell",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

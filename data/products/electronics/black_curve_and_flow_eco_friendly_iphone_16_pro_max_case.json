@@ -1,0 +1,109 @@
+{
+  "id": 8429098434648,
+  "title": "Black Curve and Flow iPhone 16 Pro Max Case",
+  "handle": "black-curve-and-flow-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:10:48-04:00",
+  "created_at": "2025-07-17T07:09:44-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063790239832,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17315-IP16PMAX-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429098434648,
+      "created_at": "2025-07-17T07:09:45-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436650561624,
+      "created_at": "2025-07-17T07:09:44-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:47-04:00",
+      "product_id": 8429098434648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP16PMAX_Black.jpg?v=1752750587",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581694771288,
+      "created_at": "2025-08-11T14:56:10-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:56:10-04:00",
+      "product_id": 8429098434648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_7b362362-a3dd-4d13-b709-c41f6bdec8a3.jpg?v=1754938570",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581695328344,
+      "created_at": "2025-08-11T14:56:12-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:56:12-04:00",
+      "product_id": 8429098434648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_5d799701-7973-488f-b1d7-7ff38829f0a4.jpg?v=1754938572",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581695590488,
+      "created_at": "2025-08-11T14:56:13-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:56:13-04:00",
+      "product_id": 8429098434648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_0537dfe2-83f3-489c-a4d4-ba3357db0ec9.jpg?v=1754938573",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP16PMAX_Black.jpg?v=1752750587",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

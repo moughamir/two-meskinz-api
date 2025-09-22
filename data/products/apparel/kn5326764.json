@@ -1,0 +1,69 @@
+{
+  "id": 5341215916199,
+  "title": "Brand: Made in USA / Part #: MS1021M01F21E",
+  "handle": "kn5326764",
+  "body_html": "<br><strong>Item #: </strong>77129138<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>MS1021M01F21E<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Brass</td>\n</tr>\n<tr>\n<td><strong>For Thread Size</strong></td>\n<td>M3.5</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Zinc</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>11.0 mm</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>11.00</td>\n</tr>\n<tr>\n<td><strong>Inside Diameter (mm)</strong></td>\n<td>3.50 to 4.20</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter</strong></td>\n<td>6.00</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter</strong></td>\n<td>6.0 mm</td>\n</tr>\n<tr>\n<td><strong>Inside Diameter Tolerance (mm)</strong></td>\n<td>0.000 to 0.270</td>\n</tr>\n<tr>\n<td><strong>Length Tolerance (mm)</strong></td>\n<td>-0.130 to 0.130</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Female Unthreaded</td>\n</tr>\n<tr>\n<td><strong>Screw Size</strong></td>\n<td>M3.5</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Zinc</td>\n</tr>\n<tr>\n<td><strong>Body Shape</strong></td>\n<td>Round</td>\n</tr>\n<tr>\n<td><strong>Fastener Standard</strong></td>\n<td>QQ-B-626 Comp 22; ASTM B633; Type 1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T11:02:11-06:00",
+  "created_at": "2020-06-16T11:45:30-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Fasteners",
+  "tags": [
+    "Circuit Board Fasteners",
+    "Screwdrivers; Nutdrivers & Hex Keys",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34749224911015,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "77129138",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5341215916199,
+      "created_at": "2020-06-16T11:45:30-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240586334375,
+      "created_at": "2025-02-03T20:28:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:28:32-06:00",
+      "product_id": 5341215916199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7712856-11_51027b5c-3a8b-4af8-a4ec-0d5555839a31.jpg?v=1738636112",
+      "width": 600,
+      "height": 327
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7712856-11_51027b5c-3a8b-4af8-a4ec-0d5555839a31.jpg?v=1738636112",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

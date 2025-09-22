@@ -1,0 +1,92 @@
+{
+  "id": 8293151801432,
+  "title": "Sage Green Google Pixel 9a Case",
+  "handle": "sage-green-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-03-19T08:36:49-04:00",
+  "created_at": "2025-02-19T15:09:02-05:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42677734146136,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "15738-PX9a-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8293151801432,
+      "created_at": "2025-02-19T15:09:02-05:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34667016552536,
+      "created_at": "2025-03-10T14:21:08-04:00",
+      "position": 1,
+      "updated_at": "2025-03-10T14:21:11-04:00",
+      "product_id": 8293151801432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX9A_SAGEGREEN_BACK.jpg?v=1741630871",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34667016618072,
+      "created_at": "2025-03-10T14:21:07-04:00",
+      "position": 2,
+      "updated_at": "2025-03-10T14:21:11-04:00",
+      "product_id": 8293151801432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX9A_SAGEGREEN_BACK_45L.jpg?v=1741630871",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34667016585304,
+      "created_at": "2025-03-10T14:21:08-04:00",
+      "position": 3,
+      "updated_at": "2025-03-10T14:21:11-04:00",
+      "product_id": 8293151801432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX9A_SAGEGREEN_BACK_45R.jpg?v=1741630871",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX9A_SAGEGREEN_BACK.jpg?v=1741630871",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

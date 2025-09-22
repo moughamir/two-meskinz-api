@@ -1,0 +1,109 @@
+{
+  "id": 7133259333720,
+  "title": "Black Glow iPhone 13 Mini Case",
+  "handle": "black-glow-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T14:24:10-04:00",
+  "created_at": "2022-05-30T09:50:22-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39954053169240,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16620-IP13MINI-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7133259333720,
+      "created_at": "2022-05-30T09:50:22-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285609893976,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7133259333720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP13MINI_Black_b1383a3c-ec2f-4cca-9148-86c258527f16.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719956568,
+      "created_at": "2023-06-13T14:28:53-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:28:54-04:00",
+      "product_id": 7133259333720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_98e39f51-39a2-4418-b168-06cfda528a02.jpg?v=1686680934",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287720022104,
+      "created_at": "2023-06-13T14:28:53-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:28:55-04:00",
+      "product_id": 7133259333720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_0732f4e2-c48d-4a60-b496-eb305d72632e.png?v=1686680935",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719989336,
+      "created_at": "2023-06-13T14:28:53-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:28:54-04:00",
+      "product_id": 7133259333720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_7eebe4be-7c27-444e-a3aa-c6a1b02a4e23.png?v=1686680934",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP13MINI_Black_b1383a3c-ec2f-4cca-9148-86c258527f16.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

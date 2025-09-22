@@ -1,0 +1,108 @@
+{
+  "id": 8295450280024,
+  "title": "Seashell Big Top Stripes Google Pixel 6 Case",
+  "handle": "seashell-big-top-stripes-eco-friendly-google-pixel-6-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step under the big top and into a world of classic carnival charm!<meta charset=\"utf-8\">🎪 <em data-start=\"113\" data-end=\"130\">Big Top Stripes</em> is inspired by the iconic red-and-white circus tent, bringing a touch of vintage flair with its hand-painted, wavy lines. Bold yet minimal, it’s a nod to old-school spectacle with a modern, eco-conscious twist.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:14:27-05:00",
+  "created_at": "2025-02-21T13:31:34-05:00",
+  "updated_at": "2025-09-22T15:14:58-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Big Top Stripes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688139460696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14708-PX6-SEASHELL-AOD:BIG-TOP-STRIPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295450280024,
+      "created_at": "2025-02-21T13:31:35-05:00",
+      "updated_at": "2025-09-22T15:14:58-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579767787608,
+      "created_at": "2025-02-21T13:31:34-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:37-05:00",
+      "product_id": 8295450280024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BIG-TOP-STRIPES_PX6_Seashell.jpg?v=1740162697",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34615810195544,
+      "created_at": "2025-02-28T10:06:57-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T10:06:59-05:00",
+      "product_id": 8295450280024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BigTopStripes_PDP1.jpg?v=1740755219",
+      "width": 4227,
+      "height": 4227
+    },
+    {
+      "id": 34615810162776,
+      "created_at": "2025-02-28T10:06:57-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T10:06:58-05:00",
+      "product_id": 8295450280024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BigTopStripes_PDP2.jpg?v=1740755218",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34615809998936,
+      "created_at": "2025-02-28T10:06:57-05:00",
+      "position": 4,
+      "updated_at": "2025-02-28T10:06:58-05:00",
+      "product_id": 8295450280024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BigTopStripes_PDP3.jpg?v=1740755218",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BIG-TOP-STRIPES_PX6_Seashell.jpg?v=1740162697",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 2197706047536,
+  "title": "APlusLift 72\" XLT set for MT1500X motorcycle lift table",
+  "handle": "motorcycle-lift-mt1500x-xlt-set",
+  "body_html": "<h3>Extends MT1500X motorcycle lift table to 72\" wide</h3>\n<ul>\n<li><b>One set of XLT pipes: two 72\" long pipes and two 30\" short pipes.</b></li>\n<li><b>Two 84\"L x 12\"W side extensions</b></li>\n<li><b>Two 12\" wide side extension ramps</b></li>\n</ul>",
+  "published_at": "2017-07-04T19:51:42-07:00",
+  "created_at": "2019-02-01T23:49:24-08:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 22137253134384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "640.00",
+      "grams": 49895,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 2197706047536,
+      "created_at": "2019-02-01T23:49:24-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891289948318,
+      "created_at": "2020-11-01T16:02:42-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:03:38-08:00",
+      "product_id": 2197706047536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-xlt-set.jpg?v=1604275418",
+      "width": 1600,
+      "height": 1311
+    },
+    {
+      "id": 38359204036836,
+      "created_at": "2022-07-12T12:31:33-07:00",
+      "position": 2,
+      "updated_at": "2022-07-12T12:32:10-07:00",
+      "product_id": 2197706047536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-xlt-set-top-view.jpg?v=1657654330",
+      "width": 1600,
+      "height": 1406
+    },
+    {
+      "id": 19891290013854,
+      "created_at": "2020-11-01T16:02:42-08:00",
+      "position": 3,
+      "updated_at": "2022-07-12T12:32:10-07:00",
+      "product_id": 2197706047536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-xlt-set-detailed-view.jpg?v=1657654330",
+      "width": 1600,
+      "height": 1242
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 640,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-xlt-set.jpg?v=1604275418",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

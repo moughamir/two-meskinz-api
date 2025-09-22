@@ -1,0 +1,121 @@
+{
+  "id": 7051711447149,
+  "title": "Santorini",
+  "handle": "santorini",
+  "body_html": "<p>Mediterranean <strong>fig, red currant, amber</strong>, and <strong>sandalwood</strong> create a scent that will make you dream of the Greek Isles.</p>",
+  "published_at": "2023-08-14T19:51:49-06:00",
+  "created_at": "2023-08-09T16:20:15-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Brooklyn Candle Studio",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Brooklyn Candle Studio",
+    "collection:Best Sellers",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Amber",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_santorini"
+  ],
+  "variants": [
+    {
+      "id": 40702264934509,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KCZH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051711447149,
+      "created_at": "2023-08-09T16:20:15-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827858428013,
+      "created_at": "2023-12-07T14:11:42-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T14:11:46-07:00",
+      "product_id": 7051711447149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Santorini-Vertical-Resized.jpg?v=1701983506",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30335201673325,
+      "created_at": "2023-08-10T07:05:33-06:00",
+      "position": 2,
+      "updated_at": "2023-12-07T14:11:46-07:00",
+      "product_id": 7051711447149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/figs-7_1.jpg?v=1701983506",
+      "width": 2400,
+      "height": 3198
+    },
+    {
+      "id": 30350242644077,
+      "created_at": "2023-08-14T19:46:52-06:00",
+      "position": 3,
+      "updated_at": "2023-12-07T14:11:46-07:00",
+      "product_id": 7051711447149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Brooklyn-Candle-Studio-Santorini-Device-V4.jpg?v=1701983506",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827858002029,
+      "created_at": "2023-12-07T14:11:42-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T14:11:46-07:00",
+      "product_id": 7051711447149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Santorini-Overhead-Shadow-Resized.jpg?v=1701983506",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Santorini-Vertical-Resized.jpg?v=1701983506",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brooklyn Candle Studio",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

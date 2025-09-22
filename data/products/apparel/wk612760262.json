@@ -1,0 +1,67 @@
+{
+  "id": 7786157637799,
+  "title": "Brand: Titan USA / Part #: TC82559",
+  "handle": "wk612760262",
+  "body_html": "<br><strong>Item #: </strong>87445227<br><strong>Brand: </strong>Titan USA<br><strong>Model #: </strong>TC82559<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Decimal Inch)</strong>\n</td>\n<td>0.4724</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (mm)</strong></td>\n<td>12.00</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>75.0000</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>12.0000</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>30</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>127.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>2.9528</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Upcut</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>General Purpose End Mills - Carbide - 4 Flute - Square - 30? Helix - Metric</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:54:01-06:00",
+  "created_at": "2023-12-29T11:54:01-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Titan USA",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43707095941287,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87445227",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786157637799,
+      "created_at": "2023-12-29T11:54:01-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237948706983,
+      "created_at": "2025-02-03T18:30:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:29-06:00",
+      "product_id": 7786157637799,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8744524-21_aeb91a18-8079-4def-91c2-0125f54fcf66.jpg?v=1738629029",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8744524-21_aeb91a18-8079-4def-91c2-0125f54fcf66.jpg?v=1738629029",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Titan USA",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

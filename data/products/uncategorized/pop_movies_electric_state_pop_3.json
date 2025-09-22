@@ -1,0 +1,102 @@
+{
+  "id": 7936160923695,
+  "title": "The Electric State Keats Funko Pop! Figure",
+  "handle": "pop-movies-electric-state-pop-3",
+  "body_html": "<p>Brave a world of ruins and robots with POP! Keats! Expand your <em>The Electric State</em> lineup by making POP! Keats the next addition to your POP! Movies collection. </p><ul>\n<li>Vinyl figure is approximately 3.95-inches tall.</li>\n<li>Includes (1) <em>The Electric State</em> Keats Funko Pop! Figure</li>\n</ul>",
+  "published_at": "2025-03-05T12:01:24-05:00",
+  "created_at": "2025-03-05T10:31:39-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "vp-funko",
+  "product_type": "Funko Pop!",
+  "tags": [
+    "81601562",
+    "Badge: Sale | #E50815 | #FFFFFF",
+    "Collectibles",
+    "Funko Pop!",
+    "Netflix",
+    "new",
+    "The Electric State",
+    "Type: Collectibles",
+    "Vendor: Funko Pop"
+  ],
+  "variants": [
+    {
+      "id": 43636272791599,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NTFLX-R7010099-1-ES-POP3",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35642430357551,
+        "product_id": 7936160923695,
+        "position": 2,
+        "created_at": "2025-03-05T10:31:39-05:00",
+        "updated_at": "2025-03-05T11:32:50-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-POP3-1.png?v=1741192370",
+        "variant_ids": [
+          43636272791599
+        ]
+      },
+      "available": true,
+      "price": "11.97",
+      "grams": 259,
+      "compare_at_price": "15.95",
+      "position": 1,
+      "product_id": 7936160923695,
+      "created_at": "2025-03-05T10:31:39-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35642430390319,
+      "created_at": "2025-03-05T10:31:39-05:00",
+      "position": 1,
+      "updated_at": "2025-03-05T11:32:50-05:00",
+      "product_id": 7936160923695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-POP3-2.png?v=1741192370",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35642430357551,
+      "created_at": "2025-03-05T10:31:39-05:00",
+      "position": 2,
+      "updated_at": "2025-03-05T11:32:50-05:00",
+      "product_id": 7936160923695,
+      "variant_ids": [
+        43636272791599
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-POP3-1.png?v=1741192370",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.97,
+  "compare_at_price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-POP3-2.png?v=1741192370",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "vp-funko",
+  "category": "Funko Pop!",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

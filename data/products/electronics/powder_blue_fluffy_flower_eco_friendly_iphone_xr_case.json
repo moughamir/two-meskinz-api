@@ -1,0 +1,119 @@
+{
+  "id": 7555251404888,
+  "title": "Powder Blue Fluffy Flower iPhone XR Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-xr-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:05:12-05:00",
+  "created_at": "2024-02-06T13:51:36-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277041752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13189-IPXR-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251404888,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963697752,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251404888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IPXR_PowderBlue.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125294168,
+      "created_at": "2024-02-28T17:28:09-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:28:13-05:00",
+      "product_id": 7555251404888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_de2187e0-dece-4b47-b6be-9aff408ed8dc.jpg?v=1709159293",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125392472,
+      "created_at": "2024-02-28T17:28:09-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:28:11-05:00",
+      "product_id": 7555251404888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_ba56edd6-b6ff-405b-8dac-b58d944b7be7.jpg?v=1709159291",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125359704,
+      "created_at": "2024-02-28T17:28:09-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:28:11-05:00",
+      "product_id": 7555251404888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_f0e8187e-ba2b-4618-ae86-bd9eb8b4ce3c.jpg?v=1709159291",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125326936,
+      "created_at": "2024-02-28T17:28:09-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:28:10-05:00",
+      "product_id": 7555251404888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_3fd28c8e-d766-4fd2-8e77-8badf7e0acf4.jpg?v=1709159290",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IPXR_PowderBlue.jpg?v=1707245497",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 7555253076056,
+  "title": "Bubblegum Pink Pretty Picnic iPhone 12 Mini Case",
+  "handle": "bubblegum-pink-pretty-picnic-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p>Protect your phone in style with the Bubblegum Pink Pretty Picnic Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bows, cherries, baskets, watermelons, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>\n<p> </p>",
+  "published_at": "2024-02-29T08:08:52-05:00",
+  "created_at": "2024-02-06T13:51:46-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pretty Picnic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035278745688,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16367-IP12MINI-BUBPINK-AOD:PRETTY-PICNIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555253076056,
+      "created_at": "2024-02-06T13:51:46-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170965499992,
+      "created_at": "2024-02-06T13:51:46-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:46-05:00",
+      "product_id": 7555253076056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PRETTY-PICNIC_IP12MINI_BubblegumPink.jpg?v=1707245506",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130897496,
+      "created_at": "2024-02-28T17:30:41-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:30:45-05:00",
+      "product_id": 7555253076056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTYPICNIC_BUBBLEGUM_2_a4084b7d-4bee-4559-bd3f-4a6a952a6931.jpg?v=1709159445",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130864728,
+      "created_at": "2024-02-28T17:30:41-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:30:45-05:00",
+      "product_id": 7555253076056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTYPICNIC_BUBBLEGUM_1_b5ed82ed-4df6-4802-a108-43e431901ed0.jpg?v=1709159445",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130831960,
+      "created_at": "2024-02-28T17:30:41-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:30:42-05:00",
+      "product_id": 7555253076056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_3d50525a-7b29-4fac-9008-50999c3e1262.jpg?v=1709159442",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PRETTY-PICNIC_IP12MINI_BubblegumPink.jpg?v=1707245506",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

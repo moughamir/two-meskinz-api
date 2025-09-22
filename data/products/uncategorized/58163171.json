@@ -1,0 +1,69 @@
+{
+  "id": 8452672848039,
+  "title": "50' Max Length Polypropylene Coilettes",
+  "handle": "58163171",
+  "body_html": "<br><strong>Item #: </strong>67683045<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>19133<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Polypropylene</td>\n</tr>\n<tr> <td> <strong>Rope Type</strong>\n</td>\n<td>Coilette</td>\n</tr>\n<tr> <td> <strong>Head/Holder Diameter (Fractional Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Length Ft.</strong>\n</td>\n<td>50</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4020</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31151500</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Polypropylene</td>\n</tr>\n<tr> <td> <strong>Rope Type</strong>\n</td>\n<td>Coilette</td>\n</tr>\n<tr> <td> <strong>Head/Holder Diameter (Fractional Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Length Ft.</strong>\n</td>\n<td>50</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4020</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31151500</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>67683045</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>19133</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>China</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T14:18:25-06:00",
+  "created_at": "2025-01-23T14:18:24-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Chain",
+    "Rope",
+    "Wire Rope & Hardware"
+  ],
+  "variants": [
+    {
+      "id": 46498461286567,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67683045",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "4.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452672848039,
+      "created_at": "2025-01-23T14:18:24-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38248915108007,
+      "created_at": "2025-02-04T01:07:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T01:07:29-06:00",
+      "product_id": 8452672848039,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6768312-11_b74d47ac-a3d1-48c5-92ef-979899fb5f7f.jpg?v=1738652849",
+      "width": 600,
+      "height": 563
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 4.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6768312-11_b74d47ac-a3d1-48c5-92ef-979899fb5f7f.jpg?v=1738652849",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

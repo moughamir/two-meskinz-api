@@ -1,0 +1,67 @@
+{
+  "id": 7785818914983,
+  "title": "Brand: Bryant Electric / Part #: GFC2TRIM",
+  "handle": "cw8040255",
+  "body_html": "<br><strong>Item #: </strong>10090413<br><strong>Brand: </strong>Bryant Electric<br><strong>Model #: </strong>GFC2TRIM<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mount Type</strong>\n</td>\n<td>Plug-In</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>120V</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>120 V</td>\n</tr>\n<tr>\n<td><strong>Cord Color</strong></td>\n<td>Yellow; Black</td>\n</tr>\n<tr>\n<td><strong>Housing Material</strong></td>\n<td>Polyvinylchloride</td>\n</tr>\n<tr>\n<td><strong>Protection Type</strong></td>\n<td>Ground Fault Circuit Interrupter (GFCI)</td>\n</tr>\n<tr>\n<td><strong>Cord Length</strong></td>\n<td>2.00</td>\n</tr>\n<tr>\n<td><strong>Amperage Rating</strong></td>\n<td>15</td>\n</tr>\n<tr>\n<td><strong>Front Outlets</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Trip Type Reset Level</strong></td>\n<td>Manual</td>\n</tr>\n<tr>\n<td><strong>Max Surge Current</strong></td>\n<td>4 to 6mA</td>\n</tr>\n<tr>\n<td><strong>Switch/Pilot Light</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Commercial; Heavy-Duty</td>\n</tr>\n<tr>\n<td><strong>Number Of Outlets</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Nema Configuration</strong></td>\n<td>NEMA 5-15P &amp; R</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:22:37-06:00",
+  "created_at": "2023-12-29T03:22:37-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Bryant Electric",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Power Distribution & Generation"
+  ],
+  "variants": [
+    {
+      "id": 43705589891239,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "10090413",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "73.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785818914983,
+      "created_at": "2023-12-29T03:22:37-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237344366759,
+      "created_at": "2025-02-03T18:12:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:49-06:00",
+      "product_id": 7785818914983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1009041-21.jpg?v=1738627969",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 73.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1009041-21.jpg?v=1738627969",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bryant Electric",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

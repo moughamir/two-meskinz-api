@@ -1,0 +1,124 @@
+{
+  "id": 7051710529645,
+  "title": "Pumpkin & Sweet Vanilla",
+  "handle": "pumpkin-sweet-vanilla",
+  "body_html": "<p>Like a hot drink on a cold night, the sweet scent of pumpkin soufflé, rich <strong>browned butter</strong>, <strong>toasted spices</strong>, and sweet <strong>vanilla cream</strong> brings you warmth and comfort all year long.</p>",
+  "published_at": "2023-08-14T19:51:35-06:00",
+  "created_at": "2023-08-09T16:20:09-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Anthropologie",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "CollectionFilter_Vanilla",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "PSVH",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_pumpkinsweetvanilla"
+  ],
+  "variants": [
+    {
+      "id": 40702263918701,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PSVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051710529645,
+      "created_at": "2023-08-09T16:20:09-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30345665020013,
+      "created_at": "2023-08-13T20:30:45-06:00",
+      "position": 1,
+      "updated_at": "2023-08-13T20:30:47-06:00",
+      "product_id": 7051710529645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AntrhoVanillaSweetPumpkinresized-3_cb97e137-3c81-45e9-a832-6a30e3511362.jpg?v=1691980247",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30345665052781,
+      "created_at": "2023-08-13T20:30:47-06:00",
+      "position": 2,
+      "updated_at": "2023-08-13T20:30:52-06:00",
+      "product_id": 7051710529645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/resized_a7926a88-1ca0-4530-961c-4c79b04c1deb.jpg?v=1691980252",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345664954477,
+      "created_at": "2023-08-13T20:30:45-06:00",
+      "position": 3,
+      "updated_at": "2023-08-13T20:30:52-06:00",
+      "product_id": 7051710529645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AntrhoVanillaSweetPumpkinresized_966af53f-f776-45b6-8f13-4e750ed5aee1.jpg?v=1691980252",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30345664987245,
+      "created_at": "2023-08-13T20:30:45-06:00",
+      "position": 4,
+      "updated_at": "2023-08-13T20:30:49-06:00",
+      "product_id": 7051710529645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AntrhoVanillaSweetPumpkinresized-2_3e79c6e1-1baa-4437-8a39-f790f6343c68.jpg?v=1691980249",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AntrhoVanillaSweetPumpkinresized-3_cb97e137-3c81-45e9-a832-6a30e3511362.jpg?v=1691980247",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

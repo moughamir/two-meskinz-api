@@ -1,0 +1,108 @@
+{
+  "id": 8359094550616,
+  "title": "London Fog Coastal Lounging iPhone 11 Pro Case",
+  "handle": "london-fog-coastal-lounging-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Kick back and relax—your phone’s on island time now. The Coastal Lounging Phone Case brings major beach day energy with its breezy sketches of palms, umbrellas, and sun chairs in cool nautical blue. Whether you're poolside or desk-bound, this case serves effortless vacay vibes and a reminder to take life one chill moment at a time. 🏖️🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:53:37-04:00",
+  "created_at": "2025-04-28T09:44:28-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Lounging",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846499012696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16032-IP11P-LFOG-AOD:COASTAL-LOUNGING",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359094550616,
+      "created_at": "2025-04-28T09:44:28-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914298331224,
+      "created_at": "2025-04-28T09:44:28-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:30-04:00",
+      "product_id": 8359094550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-LOUNGING_IP11P_LondonFog.jpg?v=1745847870",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010464120920,
+      "created_at": "2025-05-13T06:06:45-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:06:49-04:00",
+      "product_id": 8359094550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_01_fb6f0a14-6039-4fca-9370-c1173f4c64c8.jpg?v=1747130809",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010464055384,
+      "created_at": "2025-05-13T06:06:45-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T06:06:49-04:00",
+      "product_id": 8359094550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_03_9f7bfeb6-3876-4821-ae43-38145b7710dc.jpg?v=1747130809",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010464088152,
+      "created_at": "2025-05-13T06:06:45-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T06:06:49-04:00",
+      "product_id": 8359094550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_02_99c30a12-e675-4c5f-94fa-eb5ed5179e03.jpg?v=1747130809",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-LOUNGING_IP11P_LondonFog.jpg?v=1745847870",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

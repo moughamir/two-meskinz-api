@@ -1,0 +1,67 @@
+{
+  "id": 7786288808103,
+  "title": "Brand: U-Mark / Part #: 16000N",
+  "handle": "wk505645255",
+  "body_html": "<br><strong>Item #: </strong>76985951<br><strong>Brand: </strong>U-Mark<br><strong>Model #: </strong>16000N<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tip Shape</strong>\n</td>\n<td>Curved</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Curved Tip</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T17:14:14-06:00",
+  "created_at": "2023-12-29T17:14:14-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "U-Mark",
+  "product_type": "Marking & Labeling",
+  "tags": [
+    "Industrial Markers; Chalks & Layout Fluids"
+  ],
+  "variants": [
+    {
+      "id": 43707423719591,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "76985951",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.49",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786288808103,
+      "created_at": "2023-12-29T17:14:14-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238246273191,
+      "created_at": "2025-02-03T18:41:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:41:39-06:00",
+      "product_id": 7786288808103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7698595-21.jpg?v=1738629699",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.49,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7698595-21.jpg?v=1738629699",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "U-Mark",
+  "category": "Marking & Labeling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

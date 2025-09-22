@@ -1,0 +1,67 @@
+{
+  "id": 7786359619751,
+  "title": "Brand: Milwaukee Tool / Part #: 48-22-9320",
+  "handle": "er4514402",
+  "body_html": "<br><strong>Item #: </strong>40035719<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>48-22-9320<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Claw Style</strong>\n</td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Head Weight (Oz)</strong></td>\n<td>21</td>\n</tr>\n<tr>\n<td><strong>Head Material</strong></td>\n<td>Forged Steel</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Fiberglass</td>\n</tr>\n<tr>\n<td><strong>Face Surface</strong></td>\n<td>Milled</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>15.90</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:34:30-06:00",
+  "created_at": "2023-12-29T20:34:30-06:00",
+  "updated_at": "2025-09-22T10:53:35-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Hammers; Striking & Demolition Tools"
+  ],
+  "variants": [
+    {
+      "id": 43707621540007,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40035719",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.24",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786359619751,
+      "created_at": "2023-12-29T20:34:30-06:00",
+      "updated_at": "2025-09-22T10:53:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238424531111,
+      "created_at": "2025-02-03T18:49:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:49:12-06:00",
+      "product_id": 7786359619751,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4003571-21.jpg?v=1738630152",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.24,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4003571-21.jpg?v=1738630152",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

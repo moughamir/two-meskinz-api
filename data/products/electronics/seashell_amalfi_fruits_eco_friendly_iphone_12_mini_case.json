@@ -1,0 +1,109 @@
+{
+  "id": 7997842358360,
+  "title": "Seashell Amalfi Fruits iPhone 12 Mini Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:06:06-04:00",
+  "created_at": "2024-06-24T11:14:33-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946512293976,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997842358360,
+      "created_at": "2024-06-24T11:14:34-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144124768344,
+      "created_at": "2024-06-24T11:14:33-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:34-04:00",
+      "product_id": 7997842358360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP12MINI_Seashell.jpg?v=1719242074",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161104425048,
+      "created_at": "2024-06-26T15:37:23-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:37:27-04:00",
+      "product_id": 7997842358360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_4ea75faa-4329-4f52-850f-5dc09c3441bd.jpg?v=1719430647",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161104490584,
+      "created_at": "2024-06-26T15:37:23-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:37:27-04:00",
+      "product_id": 7997842358360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_8cef4a47-7078-44de-aee1-a14e61c5e046.jpg?v=1719430647",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161104392280,
+      "created_at": "2024-06-26T15:37:23-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:37:24-04:00",
+      "product_id": 7997842358360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_a770ec8a-09ac-4af3-8c5b-711fa658b746.jpg?v=1719430644",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_IP12MINI_Seashell.jpg?v=1719242074",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

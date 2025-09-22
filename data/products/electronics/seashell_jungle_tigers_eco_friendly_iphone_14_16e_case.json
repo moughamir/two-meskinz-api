@@ -1,0 +1,97 @@
+{
+  "id": 7369018540120,
+  "title": "Seashell Jungle Tigers iPhone 14/16e Case",
+  "handle": "seashell-jungle-tigers-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Trek through the tech jungle with the Pela Jungle Tigers Phone Case! This adventurous phone case brings the lush vibrancy of the jungle to your fingertips, with its bold tigers prowling among rich greenery.  <meta charset=\"utf-8\">The case invites you to unleash your inner explorer, offering protection and style as you navigate the concrete wilderness.  <meta charset=\"utf-8\">Perfect for those who dream of the jungle's mystique and wish to carry a piece of its untamed spirit every day. 🐅🍃🌿</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-27T09:11:42-04:00",
+  "created_at": "2023-07-17T11:20:17-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:International Tiger Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jungle Tigers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40246551052376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:JUNGLE-TIGERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7369018540120,
+      "created_at": "2023-07-17T11:20:17-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30320956768344,
+      "created_at": "2023-07-17T11:20:17-04:00",
+      "position": 1,
+      "updated_at": "2023-07-17T11:20:17-04:00",
+      "product_id": 7369018540120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUNGLE-TIGERS_IP14_Seashell.jpg?v=1689607217",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30329139757144,
+      "created_at": "2023-07-25T16:01:23-04:00",
+      "position": 2,
+      "updated_at": "2023-07-25T16:01:24-04:00",
+      "product_id": 7369018540120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0955_4297fa0e-b607-46f4-92b1-0a8ba485e501.jpg?v=1690315284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30321124868184,
+      "created_at": "2023-07-17T13:18:34-04:00",
+      "position": 3,
+      "updated_at": "2023-07-25T16:01:24-04:00",
+      "product_id": 7369018540120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/InternationalTigerDayv3_c46c1cde-5b32-4970-9f9d-ed58cefbac9f.png?v=1690315284",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUNGLE-TIGERS_IP14_Seashell.jpg?v=1689607217",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

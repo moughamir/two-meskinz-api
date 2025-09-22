@@ -1,0 +1,120 @@
+{
+  "id": 8341684322392,
+  "title": "Seashell Rococo Bouquets iPhone 13 Mini Case",
+  "handle": "seashell-rococo-bouquets-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say bonjour to baroque! The Rococo Bouquets Phone Case is your pocket-sized passport to 18th-century garden parties and over-the-top floral fantasy. With delicately sketched blooms in a soft rose hue, it’s giving Versailles elegance with Pela’s planet-friendly twist. Fancy? Absolutely. Compostable? Of course. Because your phone should be as dramatic and delightful as a powdered wig in a windstorm.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T05:37:32-04:00",
+  "created_at": "2025-04-09T12:56:28-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Rococo Revival",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Rococo Bouquets",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42806298378328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:ROCOCO-BOUQUETS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8341684322392,
+      "created_at": "2025-04-09T12:56:28-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34808996823128,
+      "created_at": "2025-04-09T12:56:28-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T12:56:30-04:00",
+      "product_id": 8341684322392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-BOUQUETS_IP13MINI_Seashell.jpg?v=1744217790",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34986390585432,
+      "created_at": "2025-05-08T04:47:28-04:00",
+      "position": 2,
+      "updated_at": "2025-05-08T04:47:35-04:00",
+      "product_id": 8341684322392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Friends_PDP_1x1_01_eff47e01-119b-48b5-8a3c-abec493883db.jpg?v=1746694055",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986390552664,
+      "created_at": "2025-05-08T04:47:28-04:00",
+      "position": 3,
+      "updated_at": "2025-05-08T04:47:35-04:00",
+      "product_id": 8341684322392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Android_PDP_1x1_03_623ead24-3dc5-437c-82e1-1bfc7a9808e1.jpg?v=1746694055",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986390618200,
+      "created_at": "2025-05-08T04:47:28-04:00",
+      "position": 4,
+      "updated_at": "2025-05-08T04:47:35-04:00",
+      "product_id": 8341684322392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_IPADGrid_PDP_1x1_05_ddc2a35b-8610-4a6f-8f38-8a0cd7ee284d.jpg?v=1746694055",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986390650968,
+      "created_at": "2025-05-08T04:47:28-04:00",
+      "position": 5,
+      "updated_at": "2025-05-08T04:47:35-04:00",
+      "product_id": 8341684322392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Grid_PDP_1x1_04_b311bdfd-3629-483b-963a-79d6656c5876.jpg?v=1746694055",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-BOUQUETS_IP13MINI_Seashell.jpg?v=1744217790",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

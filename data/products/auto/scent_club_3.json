@@ -1,0 +1,153 @@
+{
+  "id": 7113534996589,
+  "title": "Scent Club",
+  "handle": "scent-club-3",
+  "body_html": "<p>Pura is passionate about bringing the power of fragrance into your home with fragrances that are safe, beautiful, and make life better. These scents are selected monthly and flow with the seasons.\n<br>Included Fragrances:\n<br>Winter White by ILLUME\n<br>Champagne by LAFCO\n<br>Sweet Grace by Bridgewater Candle Company\n<br>Del Mar by GUY FOX\n<br>Red Rock &amp; Amber by Pura\n<br>Bamboo by NEST New York</p>",
+  "published_at": "2023-12-04T23:37:09-07:00",
+  "created_at": "2023-10-23T13:12:42-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Car Gift",
+  "tags": [
+    "6 Month",
+    "900-02430",
+    "__automation:disable",
+    "Group_Car",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "YCRF_Sweetgracecar",
+    "YGroup_Sweetgracecar"
+  ],
+  "variants": [
+    {
+      "id": 40778589044845,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02430",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "87.15",
+      "grams": 91,
+      "compare_at_price": "124.50",
+      "position": 1,
+      "product_id": 7113534996589,
+      "created_at": "2023-10-23T13:12:42-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805775708269,
+      "created_at": "2024-04-29T15:23:58-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentClubCar-CuratedSub-Prod1-0424_f41cfd48-8b15-4b5f-8591-6a37de999ce6.png?v=1714425840",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798322794605,
+      "created_at": "2023-12-01T15:35:52-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CarHover-12-23.png?v=1714425840",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "id": 30798328987757,
+      "created_at": "2023-12-01T15:38:03-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/illumewinterwhitecarresized-2_861516f1-b35d-451b-9616-6c129704f804.jpg?v=1714425840",
+      "width": 3564,
+      "height": 5049
+    },
+    {
+      "id": 30747496972397,
+      "created_at": "2023-11-21T11:26:45-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafcochampagnecarresized-2_3c29c813-92e5-4ae5-a573-47ab9b31da61.jpg?v=1714425840",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747497070701,
+      "created_at": "2023-11-21T11:26:45-07:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1sg_32680bf3-ece3-473f-a3e4-9d8853390201.png?v=1714425840",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747497037933,
+      "created_at": "2023-11-21T11:26:45-07:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/guy-fox-del-mar-car-resized-3_6e49be40-46dc-478a-868b-4466a32c401c.jpg?v=1714425840",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747497136237,
+      "created_at": "2023-11-21T11:26:45-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_32c1e978-8f59-4dd6-9464-41073a335fcb.png?v=1714425840",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747497103469,
+      "created_at": "2023-11-21T11:26:45-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:24:00-06:00",
+      "product_id": 7113534996589,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/NestGrapefruitCar-resized-2_e3625574-e176-4b78-a970-a18fd18e5f20.jpg?v=1714425840",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 87.15,
+  "compare_at_price": 124.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentClubCar-CuratedSub-Prod1-0424_f41cfd48-8b15-4b5f-8591-6a37de999ce6.png?v=1714425840",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Car Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

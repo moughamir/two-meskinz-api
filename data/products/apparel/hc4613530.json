@@ -1,0 +1,67 @@
+{
+  "id": 7785876848807,
+  "title": "Brand: SHOWA / Part #: CN741XXL-11",
+  "handle": "hc4613530",
+  "body_html": "<br><strong>Item #: </strong>50182674<br><strong>Brand: </strong>SHOWA<br><strong>Model #: </strong>CN741XXL-11<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Nitrile</td>\n</tr>\n<tr>\n<td><strong>Numeric Size</strong></td>\n<td>11</td>\n</tr>\n<tr>\n<td><strong>Coating Material</strong></td>\n<td>Nitrile</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Rough</td>\n</tr>\n<tr>\n<td><strong>Thickness Range</strong></td>\n<td>15 mil - 24.9 mil</td>\n</tr>\n<tr>\n<td><strong>Thickness</strong></td>\n<td>15</td>\n</tr>\n<tr>\n<td><strong>Supported or Unsupported</strong></td>\n<td>Unsupported</td>\n</tr>\n<tr>\n<td><strong>Grip Surface</strong></td>\n<td>Rough</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>2X-Large</td>\n</tr>\n<tr>\n<td><strong>Women's Size</strong></td>\n<td>2X-Large</td>\n</tr>\n<tr>\n<td><strong>Cuff Style</strong></td>\n<td>Gauntlet</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>15.00</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Abrasion Resistance Level</strong></td>\n<td>Not Tested</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Puncture Resistance Level</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Chemicals Resisted</strong></td>\n<td>Multiple</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>ChemRest</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Chemical Resistant; Biodegradable</td>\n</tr>\n<tr>\n<td><strong>Seamless</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Package Quantity</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Fda Approved</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:22:04-06:00",
+  "created_at": "2023-12-29T05:22:04-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "SHOWA",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705720275111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "50182674",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "67.39",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785876848807,
+      "created_at": "2023-12-29T05:22:04-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237494116519,
+      "created_at": "2025-02-03T18:17:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:17:20-06:00",
+      "product_id": 7785876848807,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5023757-21_1243c87b-4b02-4261-8a8f-3f1b3351f6e8.jpg?v=1738628240",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 67.39,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5023757-21_1243c87b-4b02-4261-8a8f-3f1b3351f6e8.jpg?v=1738628240",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SHOWA",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

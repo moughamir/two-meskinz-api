@@ -1,0 +1,198 @@
+{
+  "id": 7519333122157,
+  "title": "Pura Plus",
+  "handle": "pura-plus",
+  "body_html": "<p><span><meta charset=\"utf-8\"> <meta charset=\"utf-8\">The next level in home fragrance innovation, Pura Plus™ quickly and completely fills large and open concept spaces with premium scent. With smart features, manual controls, and more color options, designing your scentscape is now easier than ever.<br></span><i style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-stringify-type=\"italic\"><br></i></p>",
+  "published_at": "2024-10-01T20:54:14-06:00",
+  "created_at": "2024-08-13T14:11:52-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Plus",
+  "tags": [
+    "EXC: Pura Plus",
+    "Group_Home",
+    "Pura Plus",
+    "YCRF_homedevices",
+    "YGroup_PuraPlus"
+  ],
+  "variants": [
+    {
+      "id": 41779671367789,
+      "title": "White",
+      "option1": "White",
+      "option2": null,
+      "option3": null,
+      "sku": "900-01037",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 33116708569197,
+        "product_id": 7519333122157,
+        "position": 1,
+        "created_at": "2024-10-01T18:59:37-06:00",
+        "updated_at": "2024-10-01T18:59:39-06:00",
+        "alt": "White Device",
+        "width": 2400,
+        "height": 3200,
+        "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pluswhitegroup_3288f64c-78e8-4865-8e77-97d92d3a871e.jpg?v=1727830779",
+        "variant_ids": [
+          41779671367789
+        ]
+      },
+      "available": true,
+      "price": "79.99",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7519333122157,
+      "created_at": "2024-08-13T14:11:53-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    },
+    {
+      "id": 41779671400557,
+      "title": "Black",
+      "option1": "Black",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02336",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 33116708700269,
+        "product_id": 7519333122157,
+        "position": 5,
+        "created_at": "2024-10-01T18:59:47-06:00",
+        "updated_at": "2024-10-01T18:59:49-06:00",
+        "alt": "Black Device",
+        "width": 2400,
+        "height": 3200,
+        "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Plusblackgroup.jpg?v=1727830789",
+        "variant_ids": [
+          41779671400557
+        ]
+      },
+      "available": true,
+      "price": "79.99",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 7519333122157,
+      "created_at": "2024-08-13T14:11:53-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33116708569197,
+      "created_at": "2024-10-01T18:59:37-06:00",
+      "position": 1,
+      "updated_at": "2024-10-01T18:59:39-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [
+        41779671367789
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pluswhitegroup_3288f64c-78e8-4865-8e77-97d92d3a871e.jpg?v=1727830779",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115120664685,
+      "created_at": "2024-10-01T12:51:42-06:00",
+      "position": 2,
+      "updated_at": "2024-10-01T12:51:44-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/20240718_Pura_Denver_Evergreen_10751_3371d2e3-fca5-46c3-92b0-a042d01bf2aa.jpg?v=1727808704",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115120861293,
+      "created_at": "2024-10-01T12:51:53-06:00",
+      "position": 3,
+      "updated_at": "2024-10-01T12:51:55-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/20240223_Pura_WC_Shot14_1638_a59be587-45d4-4556-b700-d28e3430e2c5.jpg?v=1727808715",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115123482733,
+      "created_at": "2024-10-01T12:52:20-06:00",
+      "position": 4,
+      "updated_at": "2024-10-01T12:52:21-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/20240223_Pura_WC_Shot15_1673_90d57504-6b10-4674-b9b2-5be2cad4d394.jpg?v=1727808741",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33116708700269,
+      "created_at": "2024-10-01T18:59:47-06:00",
+      "position": 5,
+      "updated_at": "2024-10-01T18:59:49-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [
+        41779671400557
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Plusblackgroup.jpg?v=1727830789",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115124531309,
+      "created_at": "2024-10-01T12:52:46-06:00",
+      "position": 6,
+      "updated_at": "2024-10-01T12:52:48-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Portland-Evergreen_Lifestyle_0564-0827_3e69bf91-edbd-47e1-a0a5-8f07d8c7d291.jpg?v=1727808768",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115124826221,
+      "created_at": "2024-10-01T12:52:57-06:00",
+      "position": 7,
+      "updated_at": "2024-10-01T12:52:58-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/20240718_Pura_Denver_Evergreen_10751_70ca350e-5d7b-4be3-adcf-8a2af50ee24d.jpg?v=1727808778",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33115125055597,
+      "created_at": "2024-10-01T12:53:09-06:00",
+      "position": 8,
+      "updated_at": "2024-10-01T12:53:11-06:00",
+      "product_id": 7519333122157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CaliforniaLifestyle-Evergreen-0324-45_55d12504-43d2-4a68-b696-6f23e148e095.jpg?v=1727808791",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White",
+        "Black"
+      ]
+    }
+  ],
+  "price": 79.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pluswhitegroup_3288f64c-78e8-4865-8e77-97d92d3a871e.jpg?v=1727830779",
+  "images_count": 8,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

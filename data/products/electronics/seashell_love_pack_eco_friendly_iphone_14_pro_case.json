@@ -1,0 +1,120 @@
+{
+  "id": 8216566399064,
+  "title": "Seashell Love Pack iPhone 14 Pro Case",
+  "handle": "seashell-love-pack-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:21:38-05:00",
+  "created_at": "2024-12-16T10:52:28-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059067992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216566399064,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130693357656,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:30-05:00",
+      "product_id": 8216566399064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP14P_Seashell.jpg?v=1734364350",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215481049176,
+      "created_at": "2025-01-03T12:45:45-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:45:46-05:00",
+      "product_id": 8216566399064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_90511570-09c8-40ad-a21d-9ab20cb2e8f3.jpg?v=1735926346",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215480950872,
+      "created_at": "2025-01-03T12:45:45-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:45:46-05:00",
+      "product_id": 8216566399064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_aad8bd90-8a3e-4ab5-b837-f5ad80396c5b.jpg?v=1735926346",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215480983640,
+      "created_at": "2025-01-03T12:45:45-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:45:46-05:00",
+      "product_id": 8216566399064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_d10c7855-14e4-442b-95c1-5b80a57ca748.jpg?v=1735926346",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215481016408,
+      "created_at": "2025-01-03T12:45:45-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:45:46-05:00",
+      "product_id": 8216566399064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_fb262db6-88e5-4c36-b4db-23d06f4c0910.jpg?v=1735926346",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP14P_Seashell.jpg?v=1734364350",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

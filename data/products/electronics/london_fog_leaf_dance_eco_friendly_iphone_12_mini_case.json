@@ -1,0 +1,109 @@
+{
+  "id": 8142176354392,
+  "title": "London Fog Leaf Dance iPhone 12 Mini Case",
+  "handle": "london-fog-leaf-dance-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p class=\"p1\">Get ready for a swirl of fun with the Leaf Dance Phone Case! 🍂💃 This bold and artistic design features abstract leaves and playful shapes in earthy reds, blues, and greens, creating a flowy, whimsical vibe. Perfect for those who love to twirl through life with a touch of nature’s flair, this case adds a dash of artistic expression while keeping your phone safe and stylish.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:45:40-04:00",
+  "created_at": "2024-09-25T12:26:10-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Leaf Dance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294273474648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:LEAF-DANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142176354392,
+      "created_at": "2024-09-25T12:26:10-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677677035608,
+      "created_at": "2024-09-25T12:26:10-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:10-04:00",
+      "product_id": 8142176354392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-DANCE_IP12MINI_LondonFog.jpg?v=1727281570",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749407334488,
+      "created_at": "2024-10-09T17:17:28-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:17:29-04:00",
+      "product_id": 8142176354392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFDANCE_PDP2_19ddc174-05dc-4382-a660-a8c28f1f5dd8.jpg?v=1728508649",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749407367256,
+      "created_at": "2024-10-09T17:17:27-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:17:29-04:00",
+      "product_id": 8142176354392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFDANCE_PDP1_576e2c08-538f-40b9-a325-cfb2b5d8f84e.jpg?v=1728508649",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749407400024,
+      "created_at": "2024-10-09T17:17:27-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:17:29-04:00",
+      "product_id": 8142176354392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_57a32663-40b5-4285-b552-d0fe5e7ef6eb.jpg?v=1728508649",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-DANCE_IP12MINI_LondonFog.jpg?v=1727281570",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

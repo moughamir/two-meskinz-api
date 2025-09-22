@@ -1,0 +1,115 @@
+{
+  "id": 7052695830637,
+  "title": "Highland Frost",
+  "handle": "highland-frost",
+  "body_html": "<p>Bask in the calm midnight air as a cooling blend of fresh <strong>sage</strong>, <strong>eucalyptus</strong>, and a touch of <strong>bergamot</strong> combine with woody undertones of velvet <strong>moss</strong>, <strong>patchouli</strong>, and glacial <strong>musk</strong>.</p>",
+  "published_at": "2023-08-14T19:52:36-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Thymes",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Thymes",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_highlandfrost"
+  ],
+  "variants": [
+    {
+      "id": 40703042355309,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HLFH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695830637,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827295965293,
+      "created_at": "2023-12-07T12:45:10-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T12:45:17-07:00",
+      "product_id": 7052695830637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-HighlandFrost-Vertical-Resized.jpg?v=1701978317",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30827295998061,
+      "created_at": "2023-12-07T12:45:10-07:00",
+      "position": 2,
+      "updated_at": "2023-12-07T12:45:17-07:00",
+      "product_id": 7052695830637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/EUC--RESIZED_a4c901e5-9086-4e68-82fc-354bb97adc22.jpg?v=1701978317",
+      "width": 2400,
+      "height": 3199
+    },
+    {
+      "id": 30827295539309,
+      "created_at": "2023-12-07T12:45:10-07:00",
+      "position": 3,
+      "updated_at": "2023-12-07T12:45:17-07:00",
+      "product_id": 7052695830637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-Highland-Frost-Device-V4.jpg?v=1701978317",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827295801453,
+      "created_at": "2023-12-07T12:45:10-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T12:45:17-07:00",
+      "product_id": 7052695830637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-HighlandFrost-Overhead-Shadow-Resized.jpg?v=1701978317",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-HighlandFrost-Vertical-Resized.jpg?v=1701978317",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Thymes",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

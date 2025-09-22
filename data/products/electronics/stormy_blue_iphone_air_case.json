@@ -1,0 +1,115 @@
+{
+  "id": 8424098037848,
+  "title": "Stormy Blue iPhone Air Case",
+  "handle": "stormy-blue-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-09-09T17:27:18-04:00",
+  "created_at": "2025-07-09T16:24:23-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "Classic",
+    "Clearance",
+    "IP17 Series",
+    "Phone Case",
+    "product_notice_4",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 43184274079832,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17539-IP17AIR-STORMBLUE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.00",
+      "grams": 36,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8424098037848,
+      "created_at": "2025-09-03T18:55:21-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184274112600,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17539-IP17AIR-STORMBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.00",
+      "grams": 0,
+      "compare_at_price": "55.00",
+      "position": 2,
+      "product_id": 8424098037848,
+      "created_at": "2025-09-03T18:55:21-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35499777196120,
+      "created_at": "2025-07-29T13:34:10-04:00",
+      "position": 1,
+      "updated_at": "2025-07-29T13:34:16-04:00",
+      "product_id": 8424098037848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_STORMYBLUE_BACK.jpg?v=1753810456",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35499777130584,
+      "created_at": "2025-07-29T13:34:10-04:00",
+      "position": 2,
+      "updated_at": "2025-07-29T13:34:16-04:00",
+      "product_id": 8424098037848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_STORMYBLUE_BACK_45L.jpg?v=1753810456",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35499777163352,
+      "created_at": "2025-07-29T13:34:10-04:00",
+      "position": 3,
+      "updated_at": "2025-07-29T13:34:16-04:00",
+      "product_id": 8424098037848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_STORMYBLUE_BACK_45R.jpg?v=1753810456",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 27,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17A_STORMYBLUE_BACK.jpg?v=1753810456",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 6804856144074,
+  "title": "Gymshark Hot/Cold Bottle - Black",
+  "handle": "gymshark-hot-cold-bottle-black-ss22",
+  "body_html": "<p><meta charset=\"utf-8\"><strong data-mce-fragment=\"1\"></strong><span data-mce-fragment=\"1\"></span><strong>H2O ON THE GO</strong></p>\n<p><br data-mce-fragment=\"1\">From the gym floor to desk top, whether it’s refreshing cold water or pre-workout coffee, the Gymshark Hot Cold Bottle ensures you can stay hydrated wherever you move. Double insulation maintains liquid temperature and a rubberised base maintains its clean appearance.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Note:</strong> for hygiene reasons, all our bottles and shakers are non-refundable.<br data-mce-fragment=\"1\"></p>\n<p><br data-mce-fragment=\"1\">- Not dishwasher safe<br data-mce-fragment=\"1\">- Do not microwave<br data-mce-fragment=\"1\">- Volume: 600ml<br data-mce-fragment=\"1\">- Double insulation<br data-mce-fragment=\"1\">- Heavy-duty screw lid with rubber connector<br data-mce-fragment=\"1\">- Rubberised base for increased durability and stability<br data-mce-fragment=\"1\">- BPA free<br data-mce-fragment=\"1\">- Stainless steel<br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">- SKU: <meta charset=\"utf-8\">I1A2Z-BBBB</span></p>",
+  "published_at": "2023-11-15T16:20:22-08:00",
+  "created_at": "2022-02-25T06:32:21-08:00",
+  "updated_at": "2025-09-22T08:46:04-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1758186841",
+    "all-products",
+    "black-staples",
+    "bottles",
+    "build-your-wishlist",
+    "category:Bottles",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "functional-fitness",
+    "hiit",
+    "lower-bucket",
+    "no-returns",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Conditioning Goods",
+    "seamtype:Accessories",
+    "season:SS22",
+    "segmentation:Conditioning",
+    "stocking-fillers",
+    "subcategory:Insulated",
+    "tier:2"
+  ],
+  "variants": [
+    {
+      "id": 39786415882442,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A2Z-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "25.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804856144074,
+      "created_at": "2022-02-25T06:32:21-08:00",
+      "updated_at": "2025-09-22T08:46:04-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28989732520138,
+      "created_at": "2024-12-31T03:44:33-08:00",
+      "position": 1,
+      "updated_at": "2024-12-31T03:44:34-08:00",
+      "product_id": 6804856144074,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/HotColdBottleBlack-WhiteGABO5417.HotColdBottleBlack-WhiteGABO54173-Edit_BK_71c7bcb1-b2d5-4dbf-9c95-99c4f30d1ae8.jpg?v=1735645474",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28989732651210,
+      "created_at": "2024-12-31T03:44:33-08:00",
+      "position": 2,
+      "updated_at": "2024-12-31T03:44:35-08:00",
+      "product_id": 6804856144074,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/HotColdBottleBlack-WhiteGABO5417.HotColdBottleBlack-WhiteGABO54174-Edit_BK_96d17700-0962-46e5-b46e-bac21cef5386.jpg?v=1735645475",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28989732618442,
+      "created_at": "2024-12-31T03:44:33-08:00",
+      "position": 3,
+      "updated_at": "2024-12-31T03:44:35-08:00",
+      "product_id": 6804856144074,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/HotColdBottleBlack-WhiteGABO5417.HotColdBottleBlack-WhiteGABO54175-Edit_BK_423279de-6e63-4179-af70-f97e0253c6df.jpg?v=1735645475",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/HotColdBottleBlack-WhiteGABO5417.HotColdBottleBlack-WhiteGABO54173-Edit_BK_71c7bcb1-b2d5-4dbf-9c95-99c4f30d1ae8.jpg?v=1735645474",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

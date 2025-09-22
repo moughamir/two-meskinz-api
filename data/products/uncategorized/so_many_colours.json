@@ -1,0 +1,119 @@
+{
+  "id": 7594166812781,
+  "title": "So Many Colours",
+  "handle": "so-many-colours",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Radiant <strong>neroli</strong>, warm <strong>amber</strong>, and creamy <strong>Dutjahn Sandalwood</strong> join together to create a scent that celebrates life’s expansive kaleidoscope of beauty.</p>",
+  "published_at": "2025-02-18T12:13:52-07:00",
+  "created_at": "2025-01-16T15:24:12-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura x Dutjahn",
+  "product_type": "Fragrance",
+  "tags": [
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart13",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "Ygroup_somanycolours"
+  ],
+  "variants": [
+    {
+      "id": 42008306974829,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "OMYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7594166812781,
+      "created_at": "2025-01-16T15:24:13-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33574967115885,
+      "created_at": "2025-01-16T15:33:01-07:00",
+      "position": 1,
+      "updated_at": "2025-01-16T15:33:06-07:00",
+      "product_id": 7594166812781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-SoManyColours-Prod1-1224.jpg?v=1737066786",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33574967181421,
+      "created_at": "2025-01-16T15:33:01-07:00",
+      "position": 2,
+      "updated_at": "2025-01-16T15:33:06-07:00",
+      "product_id": 7594166812781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/amberingredientsresized-2.jpg?v=1737066786",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33574967312493,
+      "created_at": "2025-01-16T15:33:01-07:00",
+      "position": 3,
+      "updated_at": "2025-01-16T15:33:06-07:00",
+      "product_id": 7594166812781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoManyColours-Dutjahn-Prod3-1224.png?v=1737066786",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33574967148653,
+      "created_at": "2025-01-16T15:33:01-07:00",
+      "position": 4,
+      "updated_at": "2025-01-16T15:33:06-07:00",
+      "product_id": 7594166812781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-SoManyColours-Prod4-1224.jpg?v=1737066786",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-SoManyColours-Prod1-1224.jpg?v=1737066786",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura x Dutjahn",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

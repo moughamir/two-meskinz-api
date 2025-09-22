@@ -1,0 +1,119 @@
+{
+  "id": 8419725279320,
+  "title": "Forest Floor Matcha Check Samsung Galaxy S22 Case",
+  "handle": "forest-floor-matcha-check-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Keep it classic (with a twist) in the Matcha Check Phone Case. Featuring a bold green-and-cream checkerboard design, this case serves vintage vibes with a fresh, earthy edge. It’s your go-to for effortless style—clean, cool, and a little bit caffeinated. ☕️💚♻️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:22:54-04:00",
+  "created_at": "2025-07-03T14:11:18-04:00",
+  "updated_at": "2025-09-22T15:13:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Matcha Check",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033221038168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13602-S22-FOREST-AOD:MATCHA-CHECK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419725279320,
+      "created_at": "2025-07-03T14:11:19-04:00",
+      "updated_at": "2025-09-22T15:13:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354057801816,
+      "created_at": "2025-07-03T14:11:18-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:20-04:00",
+      "product_id": 8419725279320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MATCHA-CHECK_S22_ForestFloor.jpg?v=1751566280",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547561361496,
+      "created_at": "2025-08-05T10:12:47-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:12:47-04:00",
+      "product_id": 8419725279320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a555efa7bb79d4696de8fef9f3a24440_3f625e6c-27c1-41a7-a1d2-fff1007526be.jpg?v=1754403167",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547561492568,
+      "created_at": "2025-08-05T10:12:49-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:12:49-04:00",
+      "product_id": 8419725279320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c67f6adad4b5f4c4f6f75f90d700c5da_bb3161d3-05a3-4728-9ce6-46294439a8f7.jpg?v=1754403169",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547561623640,
+      "created_at": "2025-08-05T10:12:51-04:00",
+      "position": 4,
+      "updated_at": "2025-08-05T10:12:51-04:00",
+      "product_id": 8419725279320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fd2ac17ce801df0081a6db6eebbc39bd_926049f4-77a3-4ed5-95b1-398c773722dd.jpg?v=1754403171",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35547561754712,
+      "created_at": "2025-08-05T10:12:53-04:00",
+      "position": 5,
+      "updated_at": "2025-08-05T10:12:53-04:00",
+      "product_id": 8419725279320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/195800300f303ff081de0780a6dcc472_e0b5c1e8-6d24-4376-bf08-49a4c4a623d6.jpg?v=1754403173",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MATCHA-CHECK_S22_ForestFloor.jpg?v=1751566280",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

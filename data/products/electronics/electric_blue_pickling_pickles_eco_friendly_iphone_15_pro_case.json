@@ -1,0 +1,120 @@
+{
+  "id": 8301529989208,
+  "title": "Electric Blue Pickling Pickles iPhone 15 Pro Case",
+  "handle": "electric-blue-pickling-pickles-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">For the true pickle purists—<em data-start=\"70\" data-end=\"88\">Pickling Pickles</em> is a jar full of joy! This case is packed with classic pickle jars, from spears to slices, celebrating the art of the brine in all its glory. Whether you're a home pickler, a snack-time enthusiast, or just love a quirky design, this case is sure to get a few double takes.<meta charset=\"utf-8\">🥒</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-25T09:10:09-04:00",
+  "created_at": "2025-02-28T13:40:28-05:00",
+  "updated_at": "2025-09-22T15:14:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pickles",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Pickling Pickles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42702169342040,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17060-IP15P-ELEBLUE-AOD:PICKLING-PICKLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8301529989208,
+      "created_at": "2025-02-28T13:40:29-05:00",
+      "updated_at": "2025-09-22T15:14:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34616701550680,
+      "created_at": "2025-02-28T13:40:28-05:00",
+      "position": 1,
+      "updated_at": "2025-02-28T13:40:31-05:00",
+      "product_id": 8301529989208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLING-PICKLES_IP15P_ElectricBlue.jpg?v=1740768031",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34739187843160,
+      "created_at": "2025-03-24T10:54:44-04:00",
+      "position": 2,
+      "updated_at": "2025-03-24T10:54:50-04:00",
+      "product_id": 8301529989208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Friends_PDP_1x1_01_2e51215a-2e40-4ac6-9b01-69e150d15391.jpg?v=1742828090",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739187810392,
+      "created_at": "2025-03-24T10:54:44-04:00",
+      "position": 3,
+      "updated_at": "2025-03-24T10:54:50-04:00",
+      "product_id": 8301529989208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Androids_PDP_1x1_03_a3e5fa6e-cc35-44a0-b422-4058eefa8bc4.jpg?v=1742828090",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739187908696,
+      "created_at": "2025-03-24T10:54:44-04:00",
+      "position": 4,
+      "updated_at": "2025-03-24T10:54:50-04:00",
+      "product_id": 8301529989208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_IPGrid_PDP_1x1_05_5c79e43e-5ea7-4565-bd63-1fb71b1d0588.jpg?v=1742828090",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34739187875928,
+      "created_at": "2025-03-24T10:54:44-04:00",
+      "position": 5,
+      "updated_at": "2025-03-24T10:54:50-04:00",
+      "product_id": 8301529989208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Pile_PDP_1x1_02_8743b2d4-b94b-43c0-85f0-98ae8eef23ef.jpg?v=1742828090",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLING-PICKLES_IP15P_ElectricBlue.jpg?v=1740768031",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

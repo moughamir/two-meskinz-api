@@ -1,0 +1,125 @@
+{
+  "id": 8121403539544,
+  "title": "Chocolate Brown iPhone 12/iPhone 12 Pro Case",
+  "handle": "chocolate-brown-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<!---->",
+  "published_at": "2024-10-16T09:10:44-04:00",
+  "created_at": "2024-09-06T12:37:27-04:00",
+  "updated_at": "2025-09-22T15:15:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42250847944792,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16477-IP12-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8121403539544,
+      "created_at": "2024-09-06T12:37:27-04:00",
+      "updated_at": "2025-09-22T15:15:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33628875587672,
+      "created_at": "2024-09-17T13:56:55-04:00",
+      "position": 1,
+      "updated_at": "2024-09-17T13:56:57-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_CHOCOLATE_BROWN_BACK.jpg?v=1726595817",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628875653208,
+      "created_at": "2024-09-17T13:56:56-04:00",
+      "position": 2,
+      "updated_at": "2024-09-17T13:56:57-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_CHOCOLATE_BROWN_BACK45L.jpg?v=1726595817",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628875620440,
+      "created_at": "2024-09-17T13:56:56-04:00",
+      "position": 3,
+      "updated_at": "2024-09-17T13:56:57-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_CHOCOLATE_BROWN_BACK45R.jpg?v=1726595817",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33855501828184,
+      "created_at": "2024-10-24T16:18:37-04:00",
+      "position": 4,
+      "updated_at": "2024-10-24T16:18:39-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_5cf08909-b6b9-466f-95b0-3474a4af3011.jpg?v=1729801119",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855501795416,
+      "created_at": "2024-10-24T16:18:37-04:00",
+      "position": 5,
+      "updated_at": "2024-10-24T16:18:39-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_f1af9eb6-4b33-4b84-b9f7-5b322f322b7c.jpg?v=1729801119",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855501762648,
+      "created_at": "2024-10-24T16:18:37-04:00",
+      "position": 6,
+      "updated_at": "2024-10-24T16:18:39-04:00",
+      "product_id": 8121403539544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_057817f1-bedd-43f0-a5e0-9c31a34150ea.jpg?v=1729801119",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_CHOCOLATE_BROWN_BACK.jpg?v=1726595817",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

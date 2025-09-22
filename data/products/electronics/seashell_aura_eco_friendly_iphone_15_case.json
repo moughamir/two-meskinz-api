@@ -1,0 +1,110 @@
+{
+  "id": 7699255689304,
+  "title": "Seashell Aura iPhone 15 Case",
+  "handle": "seashell-aura-eco-friendly-iphone-15-case",
+  "body_html": "<p>The Seashell Aura Phone Case is a whimsical accessory with a playful pink and yellow abstract pattern of waves and stars. Let the inspiring words \"thrive\" and \"bloom\" encourage you to embrace your uniqueness and shine. Protect your phone in style while adding a fun touch to your everyday life.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:40:45-04:00",
+  "created_at": "2024-04-01T12:47:37-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Aura",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311487328344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:AURA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699255689304,
+      "created_at": "2024-04-01T12:47:37-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487789166680,
+      "created_at": "2024-04-01T12:47:37-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:37-04:00",
+      "product_id": 7699255689304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AURA_IP15_Seashell.jpg?v=1711990057",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520785002584,
+      "created_at": "2024-04-04T17:24:45-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T17:24:48-04:00",
+      "product_id": 7699255689304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AURA_SEASHELL_-12_d5bff3c8-5323-496d-b3d5-3f7d761fba32.jpg?v=1712265888",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520785035352,
+      "created_at": "2024-04-04T17:24:45-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T17:24:48-04:00",
+      "product_id": 7699255689304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AURA_SEASHELL_-01_548c252c-a3db-44a9-91a9-a65c117a1699.jpg?v=1712265888",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520784969816,
+      "created_at": "2024-04-04T17:24:45-04:00",
+      "position": 4,
+      "updated_at": "2024-04-04T17:24:48-04:00",
+      "product_id": 7699255689304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AURA_SEASHELL_-08_96a578dd-adde-4715-995c-7e7fe08ad09d.jpg?v=1712265888",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AURA_IP15_Seashell.jpg?v=1711990057",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786092396711,
+  "title": "Brand: Tingley / Part #: 43251.05",
+  "handle": "eh234715560",
+  "body_html": "<br><strong>Item #: </strong>60820412<br><strong>Brand: </strong>Tingley<br><strong>Model #: </strong>43251.05<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Footwear Type</strong>\n</td>\n<td>Knee Boot</td>\n</tr>\n<tr>\n<td><strong>Upper Material</strong></td>\n<td>PVC</td>\n</tr>\n<tr>\n<td><strong>Toe Type</strong></td>\n<td>Composite</td>\n</tr>\n<tr>\n<td><strong>Primary Color</strong></td>\n<td>Gray; Black</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Outsole Material</strong></td>\n<td>PVC</td>\n</tr>\n<tr>\n<td><strong>Sole Type</strong></td>\n<td>Chevron Plus</td>\n</tr>\n<tr>\n<td><strong>Gender</strong></td>\n<td>Unisex</td>\n</tr>\n<tr>\n<td><strong>Shoe Width</strong></td>\n<td>Standard</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:43:42-06:00",
+  "created_at": "2023-12-29T09:43:42-06:00",
+  "updated_at": "2025-09-22T10:54:10-05:00",
+  "vendor": "Tingley",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43706907754663,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "60820412",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "56.26",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786092396711,
+      "created_at": "2023-12-29T09:43:42-06:00",
+      "updated_at": "2025-09-22T10:54:10-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237819699367,
+      "created_at": "2025-02-03T18:26:14-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:16-06:00",
+      "product_id": 7786092396711,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6082111-21_10472607-08d8-48a8-a12f-f43d4293335a.jpg?v=1738628776",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 56.26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6082111-21_10472607-08d8-48a8-a12f-f43d4293335a.jpg?v=1738628776",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tingley",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

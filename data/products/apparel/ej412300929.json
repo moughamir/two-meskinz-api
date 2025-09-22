@@ -1,0 +1,67 @@
+{
+  "id": 7786076766375,
+  "title": "Brand: U-Mark / Part #: 10897",
+  "handle": "ej412300929",
+  "body_html": "<br><strong>Item #: </strong>76987155<br><strong>Brand: </strong>U-Mark<br><strong>Model #: </strong>10897<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tip Shape</strong>\n</td>\n<td>Chisel</td>\n</tr>\n<tr>\n<td><strong>Ink Type</strong></td>\n<td>Xylene-free; Alcohol Base; Fade Resistant; Water Resistant</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Broad; Large; Chisel</td>\n</tr>\n<tr>\n<td><strong>For Use On</strong></td>\n<td>Posters; Glass; Canvas; Paper; Plastic; Rubber; Stone</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:13:36-06:00",
+  "created_at": "2023-12-29T09:13:36-06:00",
+  "updated_at": "2025-09-22T10:47:28-05:00",
+  "vendor": "U-Mark",
+  "product_type": "Marking & Labeling",
+  "tags": [
+    "Industrial Markers; Chalks & Layout Fluids"
+  ],
+  "variants": [
+    {
+      "id": 43706830323879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "76987155",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "57.63",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786076766375,
+      "created_at": "2023-12-29T09:13:36-06:00",
+      "updated_at": "2025-09-22T10:47:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237787390119,
+      "created_at": "2025-02-03T18:25:14-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:25:16-06:00",
+      "product_id": 7786076766375,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7698715-21.jpg?v=1738628716",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 57.63,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7698715-21.jpg?v=1738628716",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "U-Mark",
+  "category": "Marking & Labeling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

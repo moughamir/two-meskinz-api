@@ -1,0 +1,67 @@
+{
+  "id": 7785812787367,
+  "title": "Brand: Ferraz Shawmut / Part #: A30QS150-4",
+  "handle": "cw8022895",
+  "body_html": "<br><strong>Item #: </strong>02711323<br><strong>Brand: </strong>Ferraz Shawmut<br><strong>Model #: </strong>A30QS150-4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fuse Type</strong>\n</td>\n<td>Semiconductor/High Speed</td>\n</tr>\n<tr>\n<td><strong>Amperage</strong></td>\n<td>150.00</td>\n</tr>\n<tr>\n<td><strong>Fuse Timing</strong></td>\n<td>Fast-Acting</td>\n</tr>\n<tr>\n<td><strong>Fuse Body Type</strong></td>\n<td>Blade</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-1/8</td>\n</tr>\n<tr>\n<td><strong>Overall Diameter (Mm - 4 Decimals)</strong></td>\n<td>31.00</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>GMG</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Bolt-On</td>\n</tr>\n<tr>\n<td><strong>Rejection Setting</strong></td>\n<td>Non-Rejecting</td>\n</tr>\n<tr>\n<td><strong>Interrupting Rating (kA)</strong></td>\n<td>200 at AC; 100 at DC</td>\n</tr>\n<tr>\n<td><strong>Indicating Information</strong></td>\n<td>Non-Indicating</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>UL File E60314; UL Guide JFHR2; CSA Certified; UL Recognized</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:08:29-06:00",
+  "created_at": "2023-12-29T03:08:29-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Ferraz Shawmut",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Electrical Circuit Protection"
+  ],
+  "variants": [
+    {
+      "id": 43705578684583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02711323",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.46",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785812787367,
+      "created_at": "2023-12-29T03:08:29-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237328343207,
+      "created_at": "2025-02-03T18:12:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:20-06:00",
+      "product_id": 7785812787367,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0271127-11_71904712-5255-4b5c-b84f-4065fcb7766d.jpg?v=1738627940",
+      "width": 502,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.46,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0271127-11_71904712-5255-4b5c-b84f-4065fcb7766d.jpg?v=1738627940",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ferraz Shawmut",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

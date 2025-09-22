@@ -1,0 +1,67 @@
+{
+  "id": 7785945858215,
+  "title": "Brand: American Standard / Part #: T064700.002",
+  "handle": "ft8532932",
+  "body_html": "<br><strong>Item #: </strong>13921382<br><strong>Brand: </strong>American Standard<br><strong>Model #: </strong>T064700.002<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Body Material</strong>\n</td>\n<td>Brass</td>\n</tr>\n<tr>\n<td><strong>Handle Type</strong></td>\n<td>Lever</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Brass</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Polished Chrome</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:15:08-06:00",
+  "created_at": "2023-12-29T07:15:08-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "American Standard",
+  "product_type": "Plumbing; Pumps & Filtration",
+  "tags": [
+    "Faucets; Sinks & Bathrooms"
+  ],
+  "variants": [
+    {
+      "id": 43706106675367,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13921382",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "62.48",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785945858215,
+      "created_at": "2023-12-29T07:15:08-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237667950759,
+      "created_at": "2025-02-03T18:21:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:21:08-06:00",
+      "product_id": 7785945858215,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1392138-21.jpg?v=1738628468",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 62.48,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1392138-21.jpg?v=1738628468",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "American Standard",
+  "category": "Plumbing; Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

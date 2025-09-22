@@ -1,0 +1,68 @@
+{
+  "id": 8452549443751,
+  "title": "Class XX Minus  Ring Gages; Material: Solid Carbide; Tolerance (Decimal Inch): 0.00000/-0.00004; Blank Number Wire Size: #7; Inner Diameter (Decimal Inch): 2.0436; Calibrated: Yes; Traceability Certification Included: NIST; Go/No Go: Go; Standards: B47.1",
+  "handle": "99-200-472",
+  "body_html": "<br><strong>Item #: </strong>05739040<br><strong>Brand: </strong>GSG<br><strong>Model #: </strong>GSG-CR-2.0436C<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Tolerance (Decimal Inch)</strong>\n</td>\n<td>0.00000/-0.00004</td>\n</tr>\n<tr> <td> <strong>Blank Number Wire Size</strong>\n</td>\n<td>#7</td>\n</tr>\n<tr> <td> <strong>Inner Diameter (Decimal Inch)</strong>\n</td>\n<td>2.0436</td>\n</tr>\n<tr> <td> <strong>Calibrated</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Traceability Certification Included</strong>\n</td>\n<td>NIST</td>\n</tr>\n<tr> <td> <strong>Go/No Go</strong>\n</td>\n<td>Go</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>B47.1 Gage Standards; ASME B89.1.6</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>41111619</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:33:15-06:00",
+  "created_at": "2025-01-23T09:33:14-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "GSG",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Detecting & Testing Instruments",
+    "Inspecting"
+  ],
+  "variants": [
+    {
+      "id": 46498046607527,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05739040",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "2550.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452549443751,
+      "created_at": "2025-01-23T09:33:14-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242599993511,
+      "created_at": "2025-02-03T21:38:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:38:21-06:00",
+      "product_id": 8452549443751,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8886883-21_b6dd5393-31f7-458c-a927-7a410f955bb2.jpg?v=1738640301",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 2550.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8886883-21_b6dd5393-31f7-458c-a927-7a410f955bb2.jpg?v=1738640301",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GSG",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

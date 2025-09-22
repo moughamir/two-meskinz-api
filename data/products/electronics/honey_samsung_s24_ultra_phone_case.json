@@ -1,0 +1,92 @@
+{
+  "id": 8278277193816,
+  "title": "Honey Samsung S24 Ultra Phone Case",
+  "handle": "honey-samsung-s24-ultra-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:23:32-05:00",
+  "created_at": "2025-02-04T10:23:14-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642248302680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13877-S24ULTRA-HONEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278277193816,
+      "created_at": "2025-02-04T10:23:14-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569037906008,
+      "created_at": "2025-02-20T10:04:50-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:04:51-05:00",
+      "product_id": 8278277193816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24ULTRA_HONEY_BACK.jpg?v=1740063891",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569037971544,
+      "created_at": "2025-02-20T10:04:50-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:04:51-05:00",
+      "product_id": 8278277193816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24ULTRA_HONEY_BACK45L.jpg?v=1740063891",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569037938776,
+      "created_at": "2025-02-20T10:04:50-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:04:51-05:00",
+      "product_id": 8278277193816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24ULTRA_HONEY_BACK45R.jpg?v=1740063891",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24ULTRA_HONEY_BACK.jpg?v=1740063891",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

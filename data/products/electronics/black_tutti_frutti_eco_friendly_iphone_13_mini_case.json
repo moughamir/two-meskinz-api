@@ -1,0 +1,86 @@
+{
+  "id": 7370307108952,
+  "title": "Black Tutti Frutti iPhone 13 Mini Case",
+  "handle": "black-tutti-frutti-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Dive into a deliciously vibrant jungle of flavor with the Pela Tutti Frutti Phone Case! This case is a feast for the eyes, garnished with an exquisite medley of tropical fruits—from the juicy burst of pomegranates to the tart zing of kiwis, all nestled in a lush bed of verdant leaves on a deep black backdrop. It's an Eden of taste that brings a slice of the exotic right to your fingertips, ready to refresh your day every time you pick up your phone. 🍍🍑🍉</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-24T09:24:34-04:00",
+  "created_at": "2023-07-27T12:43:41-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tutti Frutti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249061605464,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16620-IP13MINI-BLACK-AOD:TUTTI-FRUTTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370307108952,
+      "created_at": "2023-07-27T12:43:41-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330683850840,
+      "created_at": "2023-07-27T12:43:41-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T12:43:41-04:00",
+      "product_id": 7370307108952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/TUTTI-FRUTTI_IP13MINI_Black.jpg?v=1690476221",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341097914456,
+      "created_at": "2023-08-11T09:53:45-04:00",
+      "position": 2,
+      "updated_at": "2023-08-11T09:53:46-04:00",
+      "product_id": 7370307108952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad9_508eff9d-e877-485d-b1fa-3f88718bdfcf.jpg?v=1691762026",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/TUTTI-FRUTTI_IP13MINI_Black.jpg?v=1690476221",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

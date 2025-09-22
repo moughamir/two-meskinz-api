@@ -1,0 +1,67 @@
+{
+  "id": 7786068312231,
+  "title": "Brand: Dial / Part #: DIA01585",
+  "handle": "wk535078291",
+  "body_html": "<br><strong>Item #: </strong>91510867<br><strong>Brand: </strong>Dial<br><strong>Model #: </strong>DIA01585<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Form</strong>\n</td>\n<td>Gel</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>7.5 oz</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Pump Spray Bottle</td>\n</tr>\n<tr>\n<td><strong>Alcohol-Free</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Formula Type</strong></td>\n<td>Alcohol</td>\n</tr>\n<tr>\n<td><strong>Scent</strong></td>\n<td>Fragrance Free</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Latex and Non-Latex Compatible; Anti-Bacterial; Hypoallergenic; Dermatologist Tested; Dye-Free</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>NSF E3</td>\n</tr>\n<tr>\n<td><strong>Disclaimer</strong></td>\n<td>This product is not a substitute for proper handwashing &amp; has not been tested to determine its efficacy against viruses such as the coronavirus</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:44:43-06:00",
+  "created_at": "2023-12-29T08:44:43-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "Dial",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Skin Care & Personal Hygiene"
+  ],
+  "variants": [
+    {
+      "id": 43706785169575,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "91510867",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786068312231,
+      "created_at": "2023-12-29T08:44:43-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237760520359,
+      "created_at": "2025-02-03T18:24:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:24:23-06:00",
+      "product_id": 7786068312231,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9151086-21.jpg?v=1738628663",
+      "width": 256,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9151086-21.jpg?v=1738628663",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Dial",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

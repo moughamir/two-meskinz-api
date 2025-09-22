@@ -1,0 +1,99 @@
+{
+  "id": 8174776811608,
+  "title": "Seashell Midnight Toast iPhone 16 Pro Max Case",
+  "handle": "seashell-midnight-toast-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p class=\"p1\">Celebrate every moment with the Midnight Toast Phone Case! Bursting with colorful illustrations of bubbly bottles, glasses, cherries, and playful “cheers” and “cin cin” accents, this case brings the party straight to your phone. Perfect for those who love a splash of festivity and a sprinkle of retro charm, it’s like a midnight toast you can carry around all day. <b>🍾🥂</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-11-14T09:26:37-05:00",
+  "created_at": "2024-10-31T14:22:07-04:00",
+  "updated_at": "2025-09-22T15:15:30-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Midnight Toast",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42368970293336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17321-IP16PMAX-SEASHELL-AOD:MIDNIGHT-TOAST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8174776811608,
+      "created_at": "2024-10-31T14:22:07-04:00",
+      "updated_at": "2025-09-22T15:15:30-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33906131140696,
+      "created_at": "2024-10-31T14:22:07-04:00",
+      "position": 1,
+      "updated_at": "2024-12-09T17:31:53-05:00",
+      "product_id": 8174776811608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHT-TOAST_IP16PMAX_Seashell.jpg?v=1733783513",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33950526308440,
+      "created_at": "2024-11-08T11:18:23-05:00",
+      "position": 2,
+      "updated_at": "2024-11-08T11:18:25-05:00",
+      "product_id": 8174776811608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHTTOAST_PDP1_1a6d672f-1f98-40b8-8e90-f9aa6cc7c0b3.jpg?v=1731082705",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33950526668888,
+      "created_at": "2024-11-08T11:18:23-05:00",
+      "position": 3,
+      "updated_at": "2024-11-08T11:18:25-05:00",
+      "product_id": 8174776811608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHTTOAST_PDP2_d2f742b9-b0f5-421b-917d-2ac8765566ef.jpg?v=1731082705",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIDNIGHT-TOAST_IP16PMAX_Seashell.jpg?v=1733783513",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

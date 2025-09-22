@@ -1,0 +1,88 @@
+{
+  "id": 6807720820824,
+  "title": "Seashell Puppers iPhone 13 Mini Case",
+  "handle": "seashell-puppers-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Get ready to unleash the cuteness with the Puppers Phone Case! This playful design features an adorable lineup of sketched dogs in all their joyous, tail-wagging glory. With colorful accents highlighting their cheerful antics, this case is perfect for dog lovers who want to carry a bit of puppy love wherever they go. Whether your heart belongs to a playful pup or a loyal old friend, the Puppers Phone Case is here to add a dash of canine charm to your day! 🐕💕</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T12:25:09-04:00",
+  "created_at": "2021-10-05T10:07:35-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Cats & Dogs",
+    "dog",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Puppers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39660384813144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:PUPPERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6807720820824,
+      "created_at": "2021-10-05T10:07:35-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328183881816,
+      "created_at": "2023-07-24T12:25:11-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T12:25:11-04:00",
+      "product_id": 6807720820824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PUPPERS_IP13MINI_Seashell_44dd4f3f-4883-4e13-ae3d-f158f1d0b17d.jpg?v=1690215911",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28772889722968,
+      "created_at": "2021-10-05T10:32:40-04:00",
+      "position": 2,
+      "updated_at": "2021-10-05T10:32:41-04:00",
+      "product_id": 6807720820824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CATS_DOGSSQ-5918_34cc75c7-abc0-4f82-9dcd-bc165c246117.jpg?v=1633444361",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PUPPERS_IP13MINI_Seashell_44dd4f3f-4883-4e13-ae3d-f158f1d0b17d.jpg?v=1690215911",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

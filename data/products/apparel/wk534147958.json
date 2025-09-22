@@ -1,0 +1,67 @@
+{
+  "id": 7785423306919,
+  "title": "Brand: Helical Solutions / Part #: 04237",
+  "handle": "wk534147958",
+  "body_html": "<br><strong>Item #: </strong>83646018<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>04237<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Zplus</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>35</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical Flute</td>\n</tr>\n<tr>\n<td><strong>Reach Length (Inch)</strong></td>\n<td>3-1/8</td>\n</tr>\n<tr>\n<td><strong>Reach Length (Decimal Inch)</strong></td>\n<td>3.1250</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>End Mills for Aluminum - 3 Flute - Square - 35? Helix - Reduced Neck</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:38:09-06:00",
+  "created_at": "2023-12-28T20:38:09-06:00",
+  "updated_at": "2025-09-22T10:55:19-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703808622759,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "83646018",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "94.84",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785423306919,
+      "created_at": "2023-12-28T20:38:09-06:00",
+      "updated_at": "2025-09-22T10:55:19-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236904620199,
+      "created_at": "2025-02-03T17:57:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:57:46-06:00",
+      "product_id": 7785423306919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3552468-21_39f0248b-a255-43eb-8a6a-c7f7ead2eae9.jpg?v=1738627066",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 94.84,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3552468-21_39f0248b-a255-43eb-8a6a-c7f7ead2eae9.jpg?v=1738627066",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

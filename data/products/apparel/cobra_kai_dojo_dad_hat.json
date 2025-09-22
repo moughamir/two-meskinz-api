@@ -1,0 +1,115 @@
+{
+  "id": 7948243107887,
+  "title": "Cobra Kai Dojo Dad Hat",
+  "handle": "cobra-kai-dojo-dad-hat",
+  "body_html": "<p>Rep the dojo in style with the<em> Cobra Kai</em> Dojo Hat! Featuring the iconic <em>Cobra Kai</em> logo, this hat is the perfect way to show your allegiance to the ultimate martial arts school. Whether you're training, out and about, or just want to add some flair to your look, this hat has you covered—because in <em>Cobra Kai</em>, there's always room for one more warrior.</p><ul>\n<li>Made of: 100% chino cotton twill/Green Camo color is 35% chino cotton twill, 65% polyester</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2025-03-24T16:46:29-04:00",
+  "created_at": "2025-03-24T09:44:18-04:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "81002370",
+    "Accessories",
+    "Cobra Kai",
+    "Dad Hat",
+    "Hat",
+    "Hats",
+    "new",
+    "series_id-81002370",
+    "Title: Cobra Kai",
+    "Type: Accessories",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43689970466863,
+      "title": "Black",
+      "option1": "Black",
+      "option2": null,
+      "option3": null,
+      "sku": "CK-101082-0001-CK-BHAT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35777142456367,
+        "product_id": 7948243107887,
+        "position": 1,
+        "created_at": "2025-03-24T16:28:16-04:00",
+        "updated_at": "2025-03-24T16:28:16-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BHAT_58_101082_FT_MF.jpg?v=1742848096",
+        "variant_ids": [
+          43689970466863
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7948243107887,
+      "created_at": "2025-03-24T09:44:18-04:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35777142456367,
+      "created_at": "2025-03-24T16:28:16-04:00",
+      "position": 1,
+      "updated_at": "2025-03-24T16:28:16-04:00",
+      "product_id": 7948243107887,
+      "variant_ids": [
+        43689970466863
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BHAT_58_101082_FT_MF.jpg?v=1742848096",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35777142521903,
+      "created_at": "2025-03-24T16:28:17-04:00",
+      "position": 2,
+      "updated_at": "2025-03-24T16:28:17-04:00",
+      "product_id": 7948243107887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BHAT_58_101082_FT_LIFE.jpg?v=1742848097",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35777142816815,
+      "created_at": "2025-03-24T16:28:19-04:00",
+      "position": 3,
+      "updated_at": "2025-03-24T16:28:19-04:00",
+      "product_id": 7948243107887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BHAT_58_101082_BK_MF.jpg?v=1742848099",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BHAT_58_101082_FT_MF.jpg?v=1742848096",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

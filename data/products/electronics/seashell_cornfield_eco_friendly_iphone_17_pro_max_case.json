@@ -1,0 +1,140 @@
+{
+  "id": 8470412853336,
+  "title": "Seashell Cornfield iPhone 17 Pro Max Case",
+  "handle": "seashell-cornfield-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to the <em data-start=\"126\" data-end=\"139\">a-maize-ing</em> case your phone didn’t know it needed. With rows of colorful kernels and rustic charm, the Cornfield Case is here to bring harvest vibes year-round. Whether you’re strolling through the farmer’s market or just craving popcorn on the couch, this design is a sweet reminder that cozy season is always in style. Bonus: it’s guaranteed to be the corniest compliment magnet in your collection.<meta charset=\"utf-8\">🌽</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-18T09:12:17-04:00",
+  "created_at": "2025-09-11T11:58:04-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cornfield",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43202914943064,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CORNFIELD_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8470412853336,
+      "created_at": "2025-09-11T11:58:04-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43202915303512,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CORNFIELD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8470412853336,
+      "created_at": "2025-09-11T11:58:05-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35824748920920,
+      "created_at": "2025-09-11T11:58:04-04:00",
+      "position": 1,
+      "updated_at": "2025-09-11T11:58:06-04:00",
+      "product_id": 8470412853336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORNFIELD_IP17PMAX_Seashell.jpg?v=1757606286",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35878886211672,
+      "created_at": "2025-09-16T13:45:49-04:00",
+      "position": 2,
+      "updated_at": "2025-09-16T13:45:49-04:00",
+      "product_id": 8470412853336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/20263e644cf372b5a712f878923b3bf5_e7c2e869-db4f-4a4b-810d-87bed6a94cc3.jpg?v=1758044749",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878886342744,
+      "created_at": "2025-09-16T13:45:50-04:00",
+      "position": 3,
+      "updated_at": "2025-09-16T13:45:50-04:00",
+      "product_id": 8470412853336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f1ff90712ba09334c4a36f58d091d40c_14d04201-531f-45aa-b6da-960f3251e725.jpg?v=1758044750",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878887096408,
+      "created_at": "2025-09-16T13:45:52-04:00",
+      "position": 4,
+      "updated_at": "2025-09-16T13:45:52-04:00",
+      "product_id": 8470412853336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3c9642fd03f9e5926ad6dc536c9e5f8f_2314d2dd-9f2d-4bbd-9cc2-093327a8199b.jpg?v=1758044752",
+      "width": 2039,
+      "height": 2048
+    },
+    {
+      "id": 35878887227480,
+      "created_at": "2025-09-16T13:45:54-04:00",
+      "position": 5,
+      "updated_at": "2025-09-16T13:45:54-04:00",
+      "product_id": 8470412853336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/e7ec4da6922558c40d32755f69d9fcb8_b030ff56-da91-46b2-8e3c-e514f41944e2.jpg?v=1758044754",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORNFIELD_IP17PMAX_Seashell.jpg?v=1757606286",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

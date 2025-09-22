@@ -1,0 +1,76 @@
+{
+  "id": 8383681331288,
+  "title": "Sage Green Fairway iPhone 16 Pro Case",
+  "handle": "sage-green-fairway-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step up your phone game with the Fairway Phone Case from our Golf Collection! Inspired by the serene greens of your favorite golf course, this case features a playful design of winding fairways and tiny flags, perfect for any golf enthusiast. Whether you're practicing your swing or just love the sport, the Fairway Phone Case is your perfect match for style and sustainability. ⛳📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-23T18:09:52-04:00",
+  "created_at": "2025-05-23T11:26:01-04:00",
+  "updated_at": "2025-09-22T15:14:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Golf",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fairway",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42902424322136,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17283-IP16P-SAGE-AOD:FAIRWAY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8383681331288,
+      "created_at": "2025-05-23T11:26:01-04:00",
+      "updated_at": "2025-09-22T15:14:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35080358002776,
+      "created_at": "2025-05-23T11:26:01-04:00",
+      "position": 1,
+      "updated_at": "2025-05-23T11:26:03-04:00",
+      "product_id": 8383681331288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FAIRWAY_IP16P_SageGreen.jpg?v=1748013963",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FAIRWAY_IP16P_SageGreen.jpg?v=1748013963",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

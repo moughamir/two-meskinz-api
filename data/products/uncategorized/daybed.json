@@ -1,0 +1,115 @@
+{
+  "id": 7702732472429,
+  "title": "Daybed",
+  "handle": "daybed",
+  "body_html": "<p dir=\"ltr\"><span>Relax into reverie with sweet, enchanting floral notes of <strong>rosebud</strong>, <strong>peony blossom,</strong> and <strong>pear water</strong>—a love letter in scent.</span></p>\n<p dir=\"ltr\"> </p>",
+  "published_at": "2025-08-27T09:07:27-06:00",
+  "created_at": "2025-08-06T09:22:25-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Otherland",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Otherland",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42748723986541,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DABH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7702732472429,
+      "created_at": "2025-08-06T09:22:25-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34930171150445,
+      "created_at": "2025-08-06T09:32:34-06:00",
+      "position": 1,
+      "updated_at": "2025-08-06T09:34:52-06:00",
+      "product_id": 7702732472429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Daybed-Prod1-0525.jpg?v=1754494492",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34930187862125,
+      "created_at": "2025-08-06T09:34:27-06:00",
+      "position": 2,
+      "updated_at": "2025-08-06T09:34:52-06:00",
+      "product_id": 7702732472429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/peonies-19-resized_dc3f7fbd-709c-4817-a94b-0540cbab9d17.jpg?v=1754494492",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34930171117677,
+      "created_at": "2025-08-06T09:32:34-06:00",
+      "position": 3,
+      "updated_at": "2025-08-06T09:34:52-06:00",
+      "product_id": 7702732472429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Daybed-Otherland-Prod3-0525.png?v=1754494492",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34930171183213,
+      "created_at": "2025-08-06T09:32:34-06:00",
+      "position": 4,
+      "updated_at": "2025-08-06T09:34:52-06:00",
+      "product_id": 7702732472429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Daybed-Prod4-0525.jpg?v=1754494492",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Daybed-Prod1-0525.jpg?v=1754494492",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Otherland",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

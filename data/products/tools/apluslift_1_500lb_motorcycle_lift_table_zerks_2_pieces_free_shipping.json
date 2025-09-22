@@ -1,0 +1,67 @@
+{
+  "id": 5865699836062,
+  "title": "APlusLift 1,500LB Motorcycle Lift Table Zerk Fittings - 2 Pieces",
+  "handle": "apluslift-1-500lb-motorcycle-lift-table-zerks-2-pieces-free-shipping",
+  "body_html": "<h3>Zerk fittings (2 pieces) for MT1500, MT1500X, and MT1500XLT motorcycle lift tables.</h3>",
+  "published_at": "2020-11-01T23:36:54-08:00",
+  "created_at": "2020-11-01T23:36:53-08:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift Car & Motorcycle Lifts",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 36791401480350,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5865699836062,
+      "created_at": "2020-11-01T23:36:53-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19895566925982,
+      "created_at": "2020-11-01T23:36:59-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T23:36:59-08:00",
+      "product_id": 5865699836062,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-zerk.jpg?v=1604302619",
+      "width": 1024,
+      "height": 678
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/motorcycle-lift-table-zerk.jpg?v=1604302619",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift Car & Motorcycle Lifts",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

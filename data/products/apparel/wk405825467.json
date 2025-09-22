@@ -1,0 +1,67 @@
+{
+  "id": 7785623912615,
+  "title": "Brand: Zurn / Part #: Z6900-SD-WM",
+  "handle": "wk405825467",
+  "body_html": "<br><strong>Item #: </strong>04121638<br><strong>Brand: </strong>Zurn<br><strong>Model #: </strong>Z6900-SD-WM<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Wall Union; Battery Powered</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Zurn Products</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Stainless Steel; Plastic</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Chrome</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:33:15-06:00",
+  "created_at": "2023-12-28T23:33:15-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Zurn",
+  "product_type": "Plumbing; Pumps & Filtration",
+  "tags": [
+    "Faucets; Sinks & Bathrooms"
+  ],
+  "variants": [
+    {
+      "id": 43704796545191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04121638",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "85.64",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785623912615,
+      "created_at": "2023-12-28T23:33:15-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237097754791,
+      "created_at": "2025-02-03T18:04:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:30-06:00",
+      "product_id": 7785623912615,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0412163-21.jpg?v=1738627470",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 85.64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0412163-21.jpg?v=1738627470",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Zurn",
+  "category": "Plumbing; Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

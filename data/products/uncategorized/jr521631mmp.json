@@ -1,0 +1,68 @@
+{
+  "id": 5326962589863,
+  "title": "‎3/4-3FL-SE-42° AVAL-CR LG w/.090R (2-1/2x5)",
+  "handle": "jr521631mmp",
+  "body_html": "<br><strong>Item #: </strong>MW21283752503<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>283-752503<br><br>",
+  "published_at": "2025-01-23T22:16:21-06:00",
+  "created_at": "2020-06-13T15:27:37-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Milling",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34708380156071,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW21283752503",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "227.09",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5326962589863,
+      "created_at": "2020-06-13T15:27:37-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144130613415,
+      "created_at": "2025-01-23T22:16:31-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:16:33-06:00",
+      "product_id": 5326962589863,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e74d14d3-3210-4e2e-b77a-07221518db68.png?v=1737692193",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 227.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e74d14d3-3210-4e2e-b77a-07221518db68.png?v=1737692193",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

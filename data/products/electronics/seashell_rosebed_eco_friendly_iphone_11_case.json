@@ -1,0 +1,132 @@
+{
+  "id": 7571834863704,
+  "title": "Seashell Rosebed iPhone 11 Case",
+  "handle": "seashell-rosebed-eco-friendly-iphone-11-case",
+  "body_html": "<p><span>The Rosebed Phone Case by Pela is a veritable garden of blooming roses, sprawling across your phone in a pattern reminiscent of an English cottage garden. Perfect for those who appreciate the delicate dance of floral harmony, this case is a tribute to the timeless elegance of the rose.</span><span>📱<meta charset=\"utf-8\">🌹✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-13T12:37:49-04:00",
+  "created_at": "2024-03-01T08:46:03-05:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Garden Tea Party",
+    "coquette",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rosebed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41089863778392,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:ROSEBED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7571834863704,
+      "created_at": "2024-03-01T08:46:04-05:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32249017630808,
+      "created_at": "2024-03-01T08:46:04-05:00",
+      "position": 1,
+      "updated_at": "2024-03-01T08:46:04-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROSEBED_IP11_Seashell.jpg?v=1709300764",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283443560536,
+      "created_at": "2024-03-07T14:47:17-05:00",
+      "position": 2,
+      "updated_at": "2024-03-07T14:47:21-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-1_9771de30-f68c-4fe3-86be-0d950208da38.jpg?v=1709840841",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283443527768,
+      "created_at": "2024-03-07T14:47:17-05:00",
+      "position": 3,
+      "updated_at": "2024-03-07T14:47:21-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-2_c3b801e1-2cc9-4d06-b613-08b06729db29.jpg?v=1709840841",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283443658840,
+      "created_at": "2024-03-07T14:47:17-05:00",
+      "position": 4,
+      "updated_at": "2024-03-07T14:47:21-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-3_24616267-28d6-4aeb-86a4-66f2a4fdb929.jpg?v=1709840841",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283443593304,
+      "created_at": "2024-03-07T14:47:17-05:00",
+      "position": 5,
+      "updated_at": "2024-03-07T14:47:21-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-4_abf2ff87-a866-4808-89b3-990a4a251c6f.jpg?v=1709840841",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283443626072,
+      "created_at": "2024-03-07T14:47:17-05:00",
+      "position": 6,
+      "updated_at": "2024-03-07T14:47:21-05:00",
+      "product_id": 7571834863704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENTEAPARRTY_MULTI-02_b3b80fd0-f2f4-49a6-babe-3161bc852b71.jpg?v=1709840841",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROSEBED_IP11_Seashell.jpg?v=1709300764",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

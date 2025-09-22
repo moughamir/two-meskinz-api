@@ -1,0 +1,108 @@
+{
+  "id": 8320084639832,
+  "title": "Powder Blue Blooming Quackers Samsung Galaxy S22 Case",
+  "handle": "powder-blue-blooming-quackers-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Part cottagecore, part barnyard bash—the <em data-start=\"85\" data-end=\"104\">Blooming Quackers</em> Phone Case is serving sweet springtime sass! With a crew of cheerful geese in pastel blue bows, prancing across a gingham backdrop with tiny blooms, this case brings all the charm of a storybook picnic right to your pocket.<meta charset=\"utf-8\">🪿<meta charset=\"utf-8\">🧺</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:22:33-04:00",
+  "created_at": "2025-03-20T10:50:51-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Blooming Quackers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756163633240,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13597-S22-POWDERBLUE-AOD:BLOOMING-QUACKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320084639832,
+      "created_at": "2025-03-20T10:50:52-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722020425816,
+      "created_at": "2025-03-20T10:50:51-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:53-04:00",
+      "product_id": 8320084639832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLOOMING-QUACKERS_S22_PowderBlue.jpg?v=1742482253",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814136516696,
+      "created_at": "2025-04-10T10:18:05-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:18:09-04:00",
+      "product_id": 8320084639832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_ededeb70-dcbe-4a16-b5db-94e7294926bc.jpg?v=1744294689",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814136483928,
+      "created_at": "2025-04-10T10:18:05-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:18:09-04:00",
+      "product_id": 8320084639832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_c62a4904-93d3-4c61-b3be-7e50e47951c0.jpg?v=1744294689",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814136549464,
+      "created_at": "2025-04-10T10:18:05-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:18:09-04:00",
+      "product_id": 8320084639832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_e3e7bcc5-e4d3-47db-99bc-5efdb74aaa1b.jpg?v=1744294689",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLOOMING-QUACKERS_S22_PowderBlue.jpg?v=1742482253",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

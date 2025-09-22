@@ -1,0 +1,67 @@
+{
+  "id": 7786382655655,
+  "title": "Brand: Nakanishi / Part #: 2028",
+  "handle": "tm1121473",
+  "body_html": "<br><strong>Item #: </strong>71888150<br><strong>Brand: </strong>Nakanishi<br><strong>Model #: </strong>2028<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Hose</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>MSSH-25; ABS-400; PMA-3013K; MSS-20; ABS-800; PMS-3020K; PMA-3013S; AM-310; MS-19; AMX-50; AMX-65; MSS-19; MSH-25; SMS401; PMR-3005K; PMA-3020A; MST-23; MSST-23; SMS400; PMS-3020A; MS-22; MS-20; ABS-70P; PLANET 400; MS-25; MS-23; MSTN-23; AMX-8008; AM-300; AM-3020; ABS-1600; MSS-22; MSS-25</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:40:08-06:00",
+  "created_at": "2023-12-29T21:40:08-06:00",
+  "updated_at": "2025-09-22T10:53:30-05:00",
+  "vendor": "Nakanishi",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43707672395943,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "71888150",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.64",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786382655655,
+      "created_at": "2023-12-29T21:40:08-06:00",
+      "updated_at": "2025-09-22T10:53:30-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238483349671,
+      "created_at": "2025-02-03T18:51:30-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:51:31-06:00",
+      "product_id": 7786382655655,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7188815-21_f5848e67-3857-418b-9d43-397caafc3533.jpg?v=1738630291",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35.64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7188815-21_f5848e67-3857-418b-9d43-397caafc3533.jpg?v=1738630291",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Nakanishi",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

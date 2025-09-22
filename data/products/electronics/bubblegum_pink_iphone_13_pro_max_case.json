@@ -1,0 +1,94 @@
+{
+  "id": 7461998231640,
+  "title": "Bubblegum Pink iPhone 13 Pro Max Case",
+  "handle": "bubblegum-pink-iphone-13-pro-max-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-01-11T09:22:46-05:00",
+  "created_at": "2023-11-06T11:23:18-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "Classic",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40690395447384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16838-IP13PMAX-BUBPINK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7461998231640,
+      "created_at": "2023-11-06T11:23:18-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31885879083096,
+      "created_at": "2023-11-15T11:16:03-05:00",
+      "position": 1,
+      "updated_at": "2023-11-15T11:16:04-05:00",
+      "product_id": 7461998231640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_BUBBLEGUM_PINK_BACK.jpg?v=1700064964",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31885879017560,
+      "created_at": "2023-11-15T11:16:03-05:00",
+      "position": 2,
+      "updated_at": "2023-11-15T11:16:04-05:00",
+      "product_id": 7461998231640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_BUBBLEGUM_PINK_BACK45L.jpg?v=1700064964",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31885879050328,
+      "created_at": "2023-11-15T11:16:03-05:00",
+      "position": 3,
+      "updated_at": "2023-11-15T11:16:04-05:00",
+      "product_id": 7461998231640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_BUBBLEGUM_PINK_BACK45R.jpg?v=1700064964",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_BUBBLEGUM_PINK_BACK.jpg?v=1700064964",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

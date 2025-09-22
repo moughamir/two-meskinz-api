@@ -1,0 +1,68 @@
+{
+  "id": 5254483542183,
+  "title": "BluBird BluShield Single Wire 4000 psi 3/8\" X 100' Non-Marking Pressure Washing Hose",
+  "handle": "97397533",
+  "body_html": "<br><strong>Item #: </strong>33317553<br><strong>Brand: </strong>BluShield<br><strong>Model #: </strong>PWSW38100<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Hose Length</strong>\n</td>\n<td>100 ft</td>\n</tr>\n<tr> <td> <strong>Hose Inside Diameter</strong>\n</td>\n<td>0.375 in</td>\n</tr>\n<tr> <td> <strong>Hose Outside Diameter</strong>\n</td>\n<td>17 mm</td>\n</tr>\n<tr> <td> <strong>Minimum Working Temperature</strong>\n</td>\n<td>-20 F</td>\n</tr>\n<tr> <td> <strong>Hose Material</strong>\n</td>\n<td>Rubber</td>\n</tr>\n<tr> <td> <strong>Maximum Working Temperature</strong>\n</td>\n<td>250 F</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Gray</td>\n</tr>\n<tr> <td> <strong>Maximum Working Pressure</strong>\n</td>\n<td>4000.000 psi</td>\n</tr>\n<tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Threaded</td>\n</tr>\n<tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>Swivel x Fixed Male NPT</td>\n</tr>\n<tr> <td> <strong>Fitting Size</strong>\n</td>\n<td>0.375</td>\n</tr>\n<tr> <td> <strong>Fitting Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>BlueShield</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40142020</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:57:21-06:00",
+  "created_at": "2020-05-29T12:04:47-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "BluShield",
+  "product_type": "Hose, Tube, Fittings & Valves",
+  "tags": [
+    "Hose",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34501455610023,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "33317553",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "210.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5254483542183,
+      "created_at": "2020-05-29T12:04:47-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38245810307239,
+      "created_at": "2025-02-03T23:21:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:21:12-06:00",
+      "product_id": 5254483542183,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3331775-21_5389c660-3189-4397-b25d-f40196158e29.jpg?v=1738646472",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 210.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3331775-21_5389c660-3189-4397-b25d-f40196158e29.jpg?v=1738646472",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "BluShield",
+  "category": "Hose, Tube, Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

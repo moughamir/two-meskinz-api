@@ -1,0 +1,120 @@
+{
+  "id": 8216566628440,
+  "title": "Seashell Love Pack iPhone 16 Case",
+  "handle": "seashell-love-pack-eco-friendly-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:21:19-05:00",
+  "created_at": "2024-12-16T10:52:30-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059362904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17246-IP16-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216566628440,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130695454808,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:32-05:00",
+      "product_id": 8216566628440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP16_Seashell.jpg?v=1734364352",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215484194904,
+      "created_at": "2025-01-03T12:46:29-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:46:31-05:00",
+      "product_id": 8216566628440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_f93ae589-41c3-4c38-8a72-baa8db78a1bd.jpg?v=1735926391",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215484096600,
+      "created_at": "2025-01-03T12:46:29-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:46:31-05:00",
+      "product_id": 8216566628440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_56725c1d-0822-4912-bd73-58dcb12f06bf.jpg?v=1735926391",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215484129368,
+      "created_at": "2025-01-03T12:46:29-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:46:31-05:00",
+      "product_id": 8216566628440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_5a4e0e09-9a44-4c57-b567-a055d32a3d69.jpg?v=1735926391",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215484162136,
+      "created_at": "2025-01-03T12:46:29-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:46:31-05:00",
+      "product_id": 8216566628440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_da2afdec-bcfb-427f-b0cc-0e8a36cbe961.jpg?v=1735926391",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP16_Seashell.jpg?v=1734364352",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

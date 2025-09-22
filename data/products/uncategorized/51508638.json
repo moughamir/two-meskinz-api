@@ -1,0 +1,67 @@
+{
+  "id": 8452510023847,
+  "title": "Rubber Boots:  PVC,  Composite Toe",
+  "handle": "51508638",
+  "body_html": "<br><strong>Item #: </strong>03775822<br><strong>Brand: </strong>Tingley<br><strong>Model #: </strong>31268.07<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Footwear Style</strong>\n</td>\n<td>Knee Boot</td>\n</tr>\n<tr> <td> <strong>Gender</strong>\n</td>\n<td>Unisex</td>\n</tr>\n<tr> <td> <strong>Women's Size</strong>\n</td>\n<td>9</td>\n</tr>\n<tr> <td> <strong>Men's Size</strong>\n</td>\n<td>7</td>\n</tr>\n<tr> <td> <strong>Outsole Material</strong>\n</td>\n<td>PVC</td>\n</tr>\n<tr> <td> <strong>Upper Material</strong>\n</td>\n<td>PVC</td>\n</tr>\n<tr> <td> <strong>Toe Type</strong>\n</td>\n<td>Composite</td>\n</tr>\n<tr> <td> <strong>Sole Type</strong>\n</td>\n<td>Cleated; Self Cleaning</td>\n</tr>\n<tr> <td> <strong>Shoe Width</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr> <td> <strong>Lining Material</strong>\n</td>\n<td>PVC</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>ASTM F3445 SR; ASTM F2413 M/I/C</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>53111500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:50:54-06:00",
+  "created_at": "2025-01-23T08:50:53-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Tingley",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46497908785319,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "03775822",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.66",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452510023847,
+      "created_at": "2025-01-23T08:50:53-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241694122151,
+      "created_at": "2025-02-03T21:05:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:05:49-06:00",
+      "product_id": 8452510023847,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0377582-21_d63398e2-c3b8-42b9-8469-c9ca07147c38.jpg?v=1738638349",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.66,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0377582-21_d63398e2-c3b8-42b9-8469-c9ca07147c38.jpg?v=1738638349",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tingley",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

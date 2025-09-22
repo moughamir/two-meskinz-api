@@ -1,0 +1,97 @@
+{
+  "id": 7374104887384,
+  "title": "Sage Green Watermelon Time Warp iPhone 12 Mini Case",
+  "handle": "sage-green-watermelon-time-warp-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><span>Savor the essence of summer all year round with our Sage Green Watermelon Time Warp Phone Case. The refreshing design is a tribute to both the timeless fruit and the swirls of the '60s, providing a protective shell that's both earth-friendly and groovy.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:49:47-04:00",
+  "created_at": "2023-08-29T15:01:16-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Watermelon Time Warp",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258378006616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16356-IP12MINI-SAGE-AOD:WATERMELON-TIME-WARP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374104887384,
+      "created_at": "2023-08-29T15:01:16-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352885710936,
+      "created_at": "2023-08-29T15:01:16-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:16-04:00",
+      "product_id": 7374104887384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP12MINI_SageGreen.jpg?v=1693335676",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580958296,
+      "created_at": "2023-09-05T18:07:31-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:07:32-04:00",
+      "product_id": 7374104887384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams3_b9e1100e-efd9-4337-9270-27eb8084b634.jpg?v=1693951652",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580991064,
+      "created_at": "2023-09-05T18:07:31-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:07:32-04:00",
+      "product_id": 7374104887384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_f71fe07d-56bd-4165-89e7-626e558daee9.jpg?v=1693951652",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP12MINI_SageGreen.jpg?v=1693335676",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

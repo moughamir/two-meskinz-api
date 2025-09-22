@@ -1,0 +1,67 @@
+{
+  "id": 7786342482087,
+  "title": "Brand: Tempil / Part #: 26707",
+  "handle": "tm1005730",
+  "body_html": "<br><strong>Item #: </strong>06832695<br><strong>Brand: </strong>Tempil<br><strong>Model #: </strong>26707<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accuracy</strong>\n</td>\n<td>1%</td>\n</tr>\n<tr>\n<td><strong>Temperature Label (C)</strong></td>\n<td>38/66/93/121</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T19:52:41-06:00",
+  "created_at": "2023-12-29T19:52:41-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "Tempil",
+  "product_type": "Marking & Labeling",
+  "tags": [
+    "Labels & Tags"
+  ],
+  "variants": [
+    {
+      "id": 43707589132455,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "06832695",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.26",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786342482087,
+      "created_at": "2023-12-29T19:52:41-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238385766567,
+      "created_at": "2025-02-03T18:47:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:47:34-06:00",
+      "product_id": 7786342482087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0683230L-41.jpg?v=1738630054",
+      "width": 250,
+      "height": 163
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38.26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0683230L-41.jpg?v=1738630054",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tempil",
+  "category": "Marking & Labeling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

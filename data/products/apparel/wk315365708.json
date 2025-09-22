@@ -1,0 +1,67 @@
+{
+  "id": 7785356394663,
+  "title": "Brand: Sumitomo / Part #: 5KHY519",
+  "handle": "wk315365708",
+  "body_html": "<br><strong>Item #: </strong>86590627<br><strong>Brand: </strong>Sumitomo<br><strong>Model #: </strong>5KHY519<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>20.20</td>\n</tr>\n<tr>\n<td><strong>Point Angle</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Tip Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>ACX70</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>SMD</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; H; K; M</td>\n</tr>\n<tr>\n<td><strong>Height (mm)</strong></td>\n<td>14.1000</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>14.10</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (mm)</strong></td>\n<td>20.20</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Overall Length/Projection (mm)</strong></td>\n<td>14.10</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>DEX; TiAlCr/TiSi</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:40:10-06:00",
+  "created_at": "2023-12-28T18:40:10-06:00",
+  "updated_at": "2025-09-22T10:55:37-05:00",
+  "vendor": "Sumitomo",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43703669686439,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "86590627",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "102.25",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785356394663,
+      "created_at": "2023-12-28T18:40:10-06:00",
+      "updated_at": "2025-09-22T10:55:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236774236327,
+      "created_at": "2025-02-03T17:53:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:53:33-06:00",
+      "product_id": 7785356394663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8659062-21_b0e615c6-85f5-48d6-9342-d862bbc123fb.jpg?v=1738626813",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 102.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8659062-21_b0e615c6-85f5-48d6-9342-d862bbc123fb.jpg?v=1738626813",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sumitomo",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

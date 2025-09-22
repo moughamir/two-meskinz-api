@@ -1,0 +1,87 @@
+{
+  "id": 7586258845784,
+  "title": "London Fog Lil Fruity Google Pixel 8a Case",
+  "handle": "london-fog-lil-fruity-eco-friendly-google-pixel-8a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Squeeze the day with the Pela Lil Fruity Phone Case, a zesty cocktail of summer's sweetest delights that's ripe for the picking. This case, with its London Fog base, is sprinkled with an array of handpicked watermelon slices, tangy lemons, and succulent berries, promising to keep your phone as fresh as a just-picked fruit salad. Each cheerful fruit sketch is a burst of happiness, ready to infuse your daily texts and calls with a dose of vitamin C(uteness). Go on, let your phone bask in a splash of nature's candy—your daily tech just got a whole lot juicier! 🍉🍋🍒</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-05-14T09:28:14-04:00",
+  "created_at": "2024-03-06T12:32:56-05:00",
+  "updated_at": "2025-09-22T15:16:09-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8a",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Fruity",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41115287453784,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15026-PX8a-LFOG-AOD:LIL-FRUITY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7586258845784,
+      "created_at": "2024-03-06T12:32:56-05:00",
+      "updated_at": "2025-09-22T15:16:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32279635034200,
+      "created_at": "2024-03-06T12:32:56-05:00",
+      "position": 1,
+      "updated_at": "2025-03-12T12:05:22-04:00",
+      "product_id": 7586258845784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/LIL-FRUITY_PX8A_LondonFog.jpg?v=1741795522",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32279747919960,
+      "created_at": "2024-03-06T13:03:00-05:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:05:22-04:00",
+      "product_id": 7586258845784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad7_9258d9cb-033d-4328-942c-682e9bada9b8.jpg?v=1741795522",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/LIL-FRUITY_PX8A_LondonFog.jpg?v=1741795522",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

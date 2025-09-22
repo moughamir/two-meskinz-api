@@ -1,0 +1,120 @@
+{
+  "id": 7358873960536,
+  "title": "Black Peachy Peonies iPhone 12 Mini Case",
+  "handle": "black-peachy-peonies-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🍑 Indulge in the lush elegance of our Peachy Peonies Phone Case! This case features a stunning display of peonies in rich shades of peach and cream, set against a dramatic black background, creating a timeless and sophisticated look. Perfect for flower enthusiasts and style mavens alike, this case transforms your device into a garden of chic floral delight. Let your phone blossom with the enchanting charm of peachy peonies and turn every call into a floral affair! 🌿📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:15:58-04:00",
+  "created_at": "2023-03-31T13:55:52-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Peachy Peonies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221307732056,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16350-IP12MINI-BLACK-AOD:PEACHY-PEONIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358873960536,
+      "created_at": "2023-03-31T13:55:52-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233613533272,
+      "created_at": "2023-03-31T13:55:52-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:52-04:00",
+      "product_id": 7358873960536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PEACHY-PEONIES_IP12MINI_Black.jpg?v=1680285352",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241136279640,
+      "created_at": "2023-04-12T15:17:08-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T15:17:11-04:00",
+      "product_id": 7358873960536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden6_dd500c37-fcc4-45d1-a46c-33453ddb366a.png?v=1681327031",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241136312408,
+      "created_at": "2023-04-12T15:17:08-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T15:17:11-04:00",
+      "product_id": 7358873960536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_1527dfcf-b0b8-4ba9-a093-17a048dcc80f.png?v=1681327031",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241136345176,
+      "created_at": "2023-04-12T15:17:08-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T15:17:11-04:00",
+      "product_id": 7358873960536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_ae4fbe16-d8fc-427c-aaef-cb7198746306.png?v=1681327031",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236635791448,
+      "created_at": "2023-04-05T18:30:05-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T15:17:11-04:00",
+      "product_id": 7358873960536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9188_eca2b194-f1be-4f06-8915-8bf868292ec4.jpg?v=1681327031",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PEACHY-PEONIES_IP12MINI_Black.jpg?v=1680285352",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 7051706335341,
+  "title": "Elsa Journeys to Ahtohallan",
+  "handle": "elsa-journeys-to-ahtohallan",
+  "body_html": "<p>Travel down the frozen river of memory to Ahtohallan with this scent. A bright top of chilled sparkling <strong>lemon</strong>, <strong>blackberry</strong> nectar, and <strong>citrus</strong> zest evoke favorite movie moments such as when Elsa and Nokk charge through icy waters. Frozen <strong>vanilla</strong>, creamy <strong>blonde woods</strong>, and gentle iris bring the sweet, comforting feeling that true love conquers all.</p>",
+  "published_at": "2023-08-14T19:50:17-06:00",
+  "created_at": "2023-08-09T16:19:24-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Disney",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Disney",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_elsajourneystoahtohallan"
+  ],
+  "variants": [
+    {
+      "id": 40702258806893,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JRGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051706335341,
+      "created_at": "2023-08-09T16:19:24-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30974890705005,
+      "created_at": "2024-01-06T16:56:29-07:00",
+      "position": 1,
+      "updated_at": "2024-01-06T16:56:45-07:00",
+      "product_id": 7051706335341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyElsa-resized.jpg?v=1704585405",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30974890836077,
+      "created_at": "2024-01-06T16:56:29-07:00",
+      "position": 2,
+      "updated_at": "2024-01-06T16:56:45-07:00",
+      "product_id": 7051706335341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/candied-orange-resized.jpg?v=1704585405",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350232649837,
+      "created_at": "2023-08-14T19:18:33-06:00",
+      "position": 3,
+      "updated_at": "2024-01-06T16:56:45-07:00",
+      "product_id": 7051706335341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Disney-Elsa-Journeys-To-Ahtohallan-Device-V4.jpg?v=1704585405",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30974890737773,
+      "created_at": "2024-01-06T16:56:29-07:00",
+      "position": 4,
+      "updated_at": "2024-01-06T16:56:45-07:00",
+      "product_id": 7051706335341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyElsa-resized-3.jpg?v=1704585405",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyElsa-resized.jpg?v=1704585405",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Disney",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

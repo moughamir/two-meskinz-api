@@ -1,0 +1,67 @@
+{
+  "id": 7786456809639,
+  "title": "Brand: HORN / Part #: RU105780417TN35",
+  "handle": "mt7106236",
+  "body_html": "<br><strong>Item #: </strong>06125595<br><strong>Brand: </strong>HORN<br><strong>Model #: </strong>RU105780417TN35<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/Logos/HORN-61.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">06125595</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>RU105780417TN35</p></td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-30T02:32:42-06:00",
+  "created_at": "2023-12-30T02:32:42-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "HORN",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools"
+  ],
+  "variants": [
+    {
+      "id": 43708110012583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "06125595",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.40",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786456809639,
+      "created_at": "2023-12-30T02:32:42-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238745133223,
+      "created_at": "2025-02-03T19:02:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:02:47-06:00",
+      "product_id": 7786456809639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0612559-24.jpg?v=1738630967",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.4,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0612559-24.jpg?v=1738630967",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "HORN",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

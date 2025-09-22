@@ -1,0 +1,67 @@
+{
+  "id": 7786457727143,
+  "title": "Brand: Value Collection / Part #: 460001P",
+  "handle": "wk343955042",
+  "body_html": "<br><strong>Item #: </strong>40066979<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>460001P<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (mm)</strong>\n</td>\n<td>M6x1</td>\n</tr>\n<tr>\n<td><strong>Thread Style</strong></td>\n<td>Partially Threaded</td>\n</tr>\n<tr>\n<td><strong>Length Under Head (mm)</strong></td>\n<td>16.00</td>\n</tr>\n<tr>\n<td><strong>Length</strong></td>\n<td>16.00</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>10.9</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ISO 4017; AS 1110; ISO 4014</td>\n</tr>\n<tr>\n<td><strong>Full or Partial Threading</strong></td>\n<td>Partially Threaded</td>\n</tr>\n<tr>\n<td><strong>Length Measurement Type</strong></td>\n<td>Length Under Head</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Zinc</td>\n</tr>\n<tr>\n<td><strong>Hex Key Size (mm)</strong></td>\n<td>10.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:37:54-06:00",
+  "created_at": "2023-12-30T02:37:54-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Fasteners",
+  "tags": [
+    "Bolts; Screws & Cap Screws"
+  ],
+  "variants": [
+    {
+      "id": 43708112273575,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40066979",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.24",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786457727143,
+      "created_at": "2023-12-30T02:37:54-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238749786279,
+      "created_at": "2025-02-03T19:02:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:03:00-06:00",
+      "product_id": 7786457727143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8650070-11_69b73499-32a9-4d8c-aef2-5c726ba66564.jpg?v=1738630980",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.24,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8650070-11_69b73499-32a9-4d8c-aef2-5c726ba66564.jpg?v=1738630980",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 7894492807215,
+  "title": "Nobody Wants This Logo Can Shaped Glass",
+  "handle": "nobody-wants-this-logo-can-shaped-glass",
+  "body_html": "<p>Sip in style with the <em>Nobody Wants This</em> Logo Can Shaped Glass—because who says your drinkware can't be as bold and unexpected as your favorite show? This uniquely shaped glass gives you the perfect way to toast to the wild love story of an agnostic podcaster and a newly single rabbi, while adding a little flair to every sip. Whether you're cracking open a cold one or just enjoying a casual drink, it's designed to make your beverage experience feel as unpredictable and entertaining as the show. Cheers to love, laughs, and all the family drama—this glass has you covered.</p><ul>\n<li>Glass material</li>\n<li>Comes with a lid and straw</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>",
+  "published_at": "2024-12-23T11:43:33-05:00",
+  "created_at": "2024-12-19T09:46:35-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "81591296",
+    "Can Shaped Glass",
+    "Drinking Glasses",
+    "Drinkware",
+    "glass",
+    "Glasseware",
+    "Glassware",
+    "Home & Office",
+    "home and office",
+    "Nobody Wants This",
+    "NWT-48-1224",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43486096556079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NWT-101797-0001-NWT-CAN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7894492807215,
+      "created_at": "2024-12-19T09:46:35-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35210429857839,
+      "created_at": "2024-12-19T09:46:35-05:00",
+      "position": 1,
+      "updated_at": "2024-12-19T09:46:35-05:00",
+      "product_id": 7894492807215,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NWT-CAN_48_101797_FT_MF.jpg?v=1734619595",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35210429956143,
+      "created_at": "2024-12-19T09:46:35-05:00",
+      "position": 2,
+      "updated_at": "2024-12-22T20:45:27-05:00",
+      "product_id": 7894492807215,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NWT-CAN_48_101797_LIFE.jpg?v=1734918327",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35210429988911,
+      "created_at": "2024-12-19T09:46:35-05:00",
+      "position": 3,
+      "updated_at": "2024-12-22T20:45:27-05:00",
+      "product_id": 7894492807215,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NWT-CAN_48_101797_LIFE2.jpg?v=1734918327",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NWT-CAN_48_101797_FT_MF.jpg?v=1734619595",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8388530700376,
+  "title": "Seashell Tropic Muse iPhone 16 Plus Case",
+  "handle": "seashell-tropic-muse-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet your main character energy in case form—the Tropic Muse Phone Case is your passport to a technicolor dream island. With doodle-style fruits, palms, shells, crabs, and sunny vibes galore, this case is like a scrapbook of the ultimate beach vacay. Equal parts playful and artsy, it's made for daydreamers, wanderlusters, and sunshine chasers. 🍍🦀🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:16:49-04:00",
+  "created_at": "2025-05-30T12:37:20-04:00",
+  "updated_at": "2025-09-22T15:13:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tropic Muse",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918160859224,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:TROPIC-MUSE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388530700376,
+      "created_at": "2025-05-30T12:37:21-04:00",
+      "updated_at": "2025-09-22T15:13:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125625094232,
+      "created_at": "2025-05-30T12:37:21-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:23-04:00",
+      "product_id": 8388530700376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-MUSE_IP16PLUS_Seashell.jpg?v=1748623043",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195834400856,
+      "created_at": "2025-06-09T17:07:35-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:07:35-04:00",
+      "product_id": 8388530700376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/57cd8bee1adc4c835004636825fc93dd_8bade9df-c611-4e3a-a5b2-0a28e33ebadc.jpg?v=1749503255",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35195834826840,
+      "created_at": "2025-06-09T17:07:37-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:07:37-04:00",
+      "product_id": 8388530700376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/dac627d67f1f297223104ab8702580a2_edcfa2a2-ee77-4e7b-bc75-4bc8745adb7c.jpg?v=1749503257",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35195835285592,
+      "created_at": "2025-06-09T17:07:39-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:07:39-04:00",
+      "product_id": 8388530700376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1d02cb7021f61830d302d52043e0bf9b_5f76cb84-3129-4b24-95ee-abedec6dc359.jpg?v=1749503259",
+      "width": 4203,
+      "height": 4203
+    },
+    {
+      "id": 35195835678808,
+      "created_at": "2025-06-09T17:07:40-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:07:40-04:00",
+      "product_id": 8388530700376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_6fdae996-e929-4cb4-af3f-bfaa81b6d1ed.jpg?v=1749503260",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-MUSE_IP16PLUS_Seashell.jpg?v=1748623043",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

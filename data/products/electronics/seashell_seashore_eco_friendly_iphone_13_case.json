@@ -1,0 +1,119 @@
+{
+  "id": 7357281042520,
+  "title": "Seashell Seashore iPhone 13 Case",
+  "handle": "seashell-seashore-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the serenity of the beach with the Seashore Phone Case! Adorned with an intricate pattern of seashells in soothing tones, this case captures the essence of a peaceful seaside stroll. Perfect for ocean lovers and beachcombers, it’s like having a bit of the shore right in your hand. Feel the sand between your toes and hear the waves with every call you take. Bring the coastal charm to your phone and let your device reflect your love for the sea! <meta charset=\"utf-8\">🐚 🌊📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T08:03:28-04:00",
+  "created_at": "2023-03-16T14:46:51-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Beach Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Seashore",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40217531121752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:SEASHORE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7357281042520,
+      "created_at": "2023-03-16T14:46:51-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30222940471384,
+      "created_at": "2023-03-16T14:46:51-04:00",
+      "position": 1,
+      "updated_at": "2023-03-16T14:46:51-04:00",
+      "product_id": 7357281042520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_IP13_Seashell.jpg?v=1678992411",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30228846542936,
+      "created_at": "2023-03-24T17:37:09-04:00",
+      "position": 2,
+      "updated_at": "2023-03-24T17:37:10-04:00",
+      "product_id": 7357281042520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FullSizeRender_2_Large_ee035b53-7df7-4511-aa95-bd816b5698ca.jpg?v=1679693830",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "id": 30246356025432,
+      "created_at": "2023-04-18T16:20:03-04:00",
+      "position": 3,
+      "updated_at": "2023-04-18T16:20:04-04:00",
+      "product_id": 7357281042520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays4_3471bcd5-c871-41f4-acb7-2ae1ff6f1a21.png?v=1681849204",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246356058200,
+      "created_at": "2023-04-18T16:20:03-04:00",
+      "position": 4,
+      "updated_at": "2023-04-18T16:20:05-04:00",
+      "product_id": 7357281042520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays2wide_7b096849-d1ad-463e-b3fb-18a575407d62.png?v=1681849205",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246356090968,
+      "created_at": "2023-04-18T16:20:03-04:00",
+      "position": 5,
+      "updated_at": "2023-04-18T16:20:05-04:00",
+      "product_id": 7357281042520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays1wide_8e8bffe7-9600-4a44-a908-3c7fb6200159.png?v=1681849205",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_IP13_Seashell.jpg?v=1678992411",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

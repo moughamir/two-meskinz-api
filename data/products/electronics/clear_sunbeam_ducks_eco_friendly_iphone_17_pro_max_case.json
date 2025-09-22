@@ -1,0 +1,76 @@
+{
+  "id": 8465010393176,
+  "title": "Clear Ducks iPhone 17 Pro Max Case With Sunbeam Ridge (MagSafe included)",
+  "handle": "clear-sunbeam-ducks-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Quack up your phone game with the Clear Ducks Phone Case! Featuring a flock of the cutest little yellow duckies, this case is here to waddle into your heart and keep your device safe in style. It’s bright, cheerful, and guaranteed to make a splash every time you pull out your phone. Pond vibes included.<meta charset=\"utf-8\">🦆💛</p>\n<p><meta charset=\"utf-8\"><b data-stringify-type=\"bold\">Clear protection that doesn't quit.</b><span> Pela's most advanced clear case yet—premium drop protection and seamless wireless charging. Because you're not settling for basic, and neither should your phone case.</span></p>",
+  "published_at": "2025-09-09T14:29:55-04:00",
+  "created_at": "2025-09-03T13:33:54-04:00",
+  "updated_at": "2025-09-22T15:13:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "Clear Case With Ridge",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ducks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43183739469912,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:28963-IP17PMAX-SUNBEAM-CLEAR-MS-AOD:DUCKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8465010393176,
+      "created_at": "2025-09-03T13:33:54-04:00",
+      "updated_at": "2025-09-22T15:13:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35737747095640,
+      "created_at": "2025-09-03T13:33:54-04:00",
+      "position": 1,
+      "updated_at": "2025-09-03T13:33:56-04:00",
+      "product_id": 8465010393176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DUCKS_IP17PMAX-CLEAR_Sunbeam.jpg?v=1756920836",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 75,
+  "compare_at_price": 75,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DUCKS_IP17PMAX-CLEAR_Sunbeam.jpg?v=1756920836",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 5327931670695,
+  "title": "Brand: Norton / Part #: 66252838146",
+  "handle": "kb51tc7b",
+  "body_html": "<br><strong>Item #: </strong>97660450<br><strong>Brand: </strong>Norton<br><strong>Model #: </strong>66252838146<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Brush Diameter (Decimal Inch)</strong>\n</td>\n<td>1.2500</td>\n</tr>\n<tr>\n<td><strong>Brush Diameter</strong></td>\n<td>1-1/4</td>\n</tr>\n<tr>\n<td><strong>Brush Length (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-1/2</td>\n</tr>\n<tr>\n<td><strong>Fill Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Trim Length (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Trim Length (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Filament/Wire Diameter (Decimal Inch)</strong></td>\n<td>0.0080</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T04:45:41-06:00",
+  "created_at": "2020-06-13T21:10:03-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Norton",
+  "product_type": "Abrasives",
+  "tags": [
+    "Abrasive Brushes",
+    "Personal Protective Equipment",
+    "Reaming"
+  ],
+  "variants": [
+    {
+      "id": 34710642819239,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97660450",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "7.17",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5327931670695,
+      "created_at": "2020-06-13T21:10:03-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240217366695,
+      "created_at": "2025-02-03T20:13:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:13:35-06:00",
+      "product_id": 5327931670695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9766045-21.jpg?v=1738635215",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 7.17,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9766045-21.jpg?v=1738635215",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norton",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

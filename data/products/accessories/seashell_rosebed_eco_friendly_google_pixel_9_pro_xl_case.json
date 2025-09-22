@@ -1,0 +1,97 @@
+{
+  "id": 8381667704920,
+  "title": "Seashell Rosebed Google Pixel 9 Pro XL Case",
+  "handle": "seashell-rosebed-eco-friendly-google-pixel-9-pro-xl-case",
+  "body_html": "<p><span>The Rosebed Phone Case by Pela is a veritable garden of blooming roses, sprawling across your phone in a pattern reminiscent of an English cottage garden. Perfect for those who appreciate the delicate dance of floral harmony, this case is a tribute to the timeless elegance of the rose.</span><span>📱<meta charset=\"utf-8\">🌹✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T16:59:52-04:00",
+  "created_at": "2025-05-21T09:53:30-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rosebed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895736569944,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15696-PX9PXL-SEASHELL-AOD:ROSEBED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381667704920,
+      "created_at": "2025-05-21T09:53:30-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065447645272,
+      "created_at": "2025-05-21T09:53:30-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:53:32-04:00",
+      "product_id": 8381667704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_PX9PXL_Seashell.jpg?v=1747835612",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066296565848,
+      "created_at": "2025-05-21T14:44:47-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T14:44:49-04:00",
+      "product_id": 8381667704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-1_b8854bff-6398-4a13-b608-6124fe62eca8.jpg?v=1747853089",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066296533080,
+      "created_at": "2025-05-21T14:44:47-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T14:44:49-04:00",
+      "product_id": 8381667704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-2_d2d876c2-87f2-42bf-a1d1-691d0823d940.jpg?v=1747853089",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_PX9PXL_Seashell.jpg?v=1747835612",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

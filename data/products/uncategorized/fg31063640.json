@@ -1,0 +1,52 @@
+{
+  "id": 8453305008295,
+  "title": "TNMC 43 NT 10P STUB AC50C",
+  "handle": "fg31063640",
+  "body_html": null,
+  "published_at": "2025-01-24T00:40:21-06:00",
+  "created_at": "2025-01-24T00:40:19-06:00",
+  "updated_at": "2025-09-22T10:51:57-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500209852583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FG31063640",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.94",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453305008295,
+      "created_at": "2025-01-24T00:40:19-06:00",
+      "updated_at": "2025-09-22T10:51:57-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.94,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

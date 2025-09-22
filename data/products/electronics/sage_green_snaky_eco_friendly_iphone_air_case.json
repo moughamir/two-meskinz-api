@@ -1,0 +1,107 @@
+{
+  "id": 8442722648152,
+  "title": "Sage Green Snaky iPhone Air Case",
+  "handle": "sage-green-snaky-eco-friendly-iphone-air-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:26:12-04:00",
+  "created_at": "2025-08-05T12:07:50-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Wildlife",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Snaky",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184221847640,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:SNAKY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8442722648152,
+      "created_at": "2025-09-03T18:45:11-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184221880408,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:SNAKY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8442722648152,
+      "created_at": "2025-09-03T18:45:11-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35548034990168,
+      "created_at": "2025-08-05T12:07:50-04:00",
+      "position": 1,
+      "updated_at": "2025-08-05T12:07:53-04:00",
+      "product_id": 8442722648152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKY_IP17AIR_SageGreen.jpg?v=1754410073",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103037259864,
+      "created_at": "2025-05-27T15:50:03-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T15:50:05-04:00",
+      "product_id": 8442722648152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKY_89ea0cfb-dec1-4929-a857-1afc8ff253ff.jpg?v=1748375405",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKY_IP17AIR_SageGreen.jpg?v=1754410073",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

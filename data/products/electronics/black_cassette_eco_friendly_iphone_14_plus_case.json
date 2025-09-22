@@ -1,0 +1,121 @@
+{
+  "id": 7363996942424,
+  "title": "Black Cassette iPhone 14 Plus Case",
+  "handle": "black-cassette-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Rewind to the retro era with the Pela Cassette Phone Case! This groovy accessory brings back the nostalgic mixtape days with its classic cassette tape design, complete with vintage labeling and reel-to-reel details. Made for music lovers and retro enthusiasts, this case hits all the right notes of style and protection. Slide this case onto your phone and let it play the soundtrack of your life, one call at a time. Whether you're streaming today's hits or old-school jams, this case is sure to be a conversation starter. 📼🎶📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:02:11-04:00",
+  "created_at": "2023-05-30T14:50:43-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Retrospin",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cassette",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234196664408,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16940-IP14PLUS-BLACK-AOD:CASSETTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363996942424,
+      "created_at": "2023-05-30T14:50:43-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275018752088,
+      "created_at": "2023-05-30T14:50:43-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:50:43-04:00",
+      "product_id": 7363996942424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP14PLUS_Black.jpg?v=1685472643",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275850109016,
+      "created_at": "2023-05-31T09:58:34-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T09:58:35-04:00",
+      "product_id": 7363996942424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN2_07e8e24a-9a0f-4ef2-9172-77686b3144c4.png?v=1685541515",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275850141784,
+      "created_at": "2023-05-31T09:58:34-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T09:58:36-04:00",
+      "product_id": 7363996942424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_28a4d8f6-0d8d-48f9-aacb-d1d3259b39d2.png?v=1685541516",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800419811416,
+      "created_at": "2023-10-03T11:57:01-04:00",
+      "position": 4,
+      "updated_at": "2023-10-03T11:57:03-04:00",
+      "product_id": 7363996942424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_05022_9e792cb4-b258-4d0c-805f-18629add883c.jpg?v=1696348623",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800419778648,
+      "created_at": "2023-10-03T11:57:01-04:00",
+      "position": 5,
+      "updated_at": "2023-10-03T11:57:03-04:00",
+      "product_id": 7363996942424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_04612_91db3647-011c-4cff-ba00-ba4cb3d4df94.jpg?v=1696348623",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP14PLUS_Black.jpg?v=1685472643",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

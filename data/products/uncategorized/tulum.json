@@ -1,0 +1,116 @@
+{
+  "id": 7600916725869,
+  "title": "Tulum",
+  "handle": "tulum",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Escape to sandy white beaches and turquoise waters as luscious notes of creamy <strong>coconut</strong> and <strong>cucumber water</strong> blend with soft florals of<strong> ylang ylang </strong>and <strong>gardenia</strong>.<br></p>",
+  "published_at": "2025-06-13T15:19:26-06:00",
+  "created_at": "2025-02-03T15:08:27-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Brooklyn Candle Studio",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Brooklyn Candle Studio",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Floral",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42042155794541,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TULH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7600916725869,
+      "created_at": "2025-02-03T15:08:27-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33653609365613,
+      "created_at": "2025-02-03T15:10:04-07:00",
+      "position": 1,
+      "updated_at": "2025-02-03T15:10:06-07:00",
+      "product_id": 7600916725869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Tulum-Prod1-1224.jpg?v=1738620606",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33653609922669,
+      "created_at": "2025-02-03T15:10:21-07:00",
+      "position": 2,
+      "updated_at": "2025-02-03T15:10:50-07:00",
+      "product_id": 7600916725869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/coconut-2-resized_9bd3a01f-a169-49c0-9a5f-7c14a77a8a3c.jpg?v=1738620650",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33653609955437,
+      "created_at": "2025-02-03T15:10:22-07:00",
+      "position": 3,
+      "updated_at": "2025-02-03T15:10:50-07:00",
+      "product_id": 7600916725869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Tulum-BrooklynCandleStudio-Prod3-0125.png?v=1738620650",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33653609857133,
+      "created_at": "2025-02-03T15:10:20-07:00",
+      "position": 4,
+      "updated_at": "2025-02-03T15:10:50-07:00",
+      "product_id": 7600916725869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Tulum-Prod4-1224.jpg?v=1738620650",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Tulum-Prod1-1224.jpg?v=1738620606",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brooklyn Candle Studio",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 6805788295370,
+  "title": "Gymshark Jumbo Scrunchie - Black",
+  "handle": "gymshark-jumbo-scrunchie-black-aw24",
+  "body_html": "<p><strong>HAIR UP, HEAD IN THE GAME</strong></p>\n<p><br>When the hair goes up, we mean business.</p>\n<p> </p>\n<p><br>• Add some flair to your gym hair<br>• Super stretchy, oversized design to slick back even the fullest locks <br>• (That care label tears out, FYI)</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• One size </p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• 100% Polyester </p>\n<p><br>SKU: I3A9Z-BB2J<br></p>\n<!---->",
+  "published_at": "2025-04-04T11:02:28-07:00",
+  "created_at": "2024-01-22T02:00:21-08:00",
+  "updated_at": "2025-09-22T08:45:41-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "womens Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1758186888",
+    "all-products",
+    "black-gym-sets",
+    "black-staples",
+    "build-your-wishlist",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "hair-accessories",
+    "headwear",
+    "last-chance",
+    "last-chance-accessories",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Rest Day Goods",
+    "rest-day",
+    "seamtype:Accessories",
+    "season:AW24",
+    "segmentation:Rest Day",
+    "stocking-fillers",
+    "subcategory:Hairband",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39792060301514,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A9Z-BB2J-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "8.40",
+      "grams": 0,
+      "compare_at_price": "14.00",
+      "position": 1,
+      "product_id": 6805788295370,
+      "created_at": "2024-01-22T02:00:21-08:00",
+      "updated_at": "2025-09-22T08:45:41-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28985872842954,
+      "created_at": "2024-10-01T05:22:57-07:00",
+      "position": 1,
+      "updated_at": "2024-10-01T05:22:59-07:00",
+      "product_id": 6805788295370,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/JumboScrunchieGSBlackI3A9Z-BB2J3863_97cb1222-cfe8-40ac-85e7-fb66d094fe25.jpg?v=1727785379",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28985872646346,
+      "created_at": "2024-10-01T05:22:57-07:00",
+      "position": 2,
+      "updated_at": "2024-10-01T05:22:59-07:00",
+      "product_id": 6805788295370,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/Jumbo_Scrunchie_GS_Black_I3A9Z-BB2J_-1219.jpg?v=1727785379",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 8.4,
+  "compare_at_price": 14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/JumboScrunchieGSBlackI3A9Z-BB2J3863_97cb1222-cfe8-40ac-85e7-fb66d094fe25.jpg?v=1727785379",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "womens Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

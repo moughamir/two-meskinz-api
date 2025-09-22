@@ -1,0 +1,118 @@
+{
+  "id": 7051712757869,
+  "title": "Tinsel & Spice",
+  "handle": "tinsel-spice",
+  "body_html": "<p>This scent blends the perfect amount of <strong>citrus</strong>, <strong>spice</strong>, and a sprinkle of <strong>woods</strong> to make your mouth water and your spirits brighter.</p>",
+  "published_at": "2023-08-14T19:52:14-06:00",
+  "created_at": "2023-08-09T16:20:31-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "collection:Citrus",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Citrus",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_tinselspice"
+  ],
+  "variants": [
+    {
+      "id": 40702266081389,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WXZH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712757869,
+      "created_at": "2023-08-09T16:20:31-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525485154413,
+      "created_at": "2023-09-28T17:31:04-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T17:32:16-06:00",
+      "product_id": 7051712757869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-TinselandSpice-Vertical-Resized.jpg?v=1695943936",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525486334061,
+      "created_at": "2023-09-28T17:32:11-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T17:32:16-06:00",
+      "product_id": 7051712757869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CLOVES-RESIZED_7084c5fd-2b5d-4378-89df-b76397aa3e33.jpg?v=1695943936",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525485088877,
+      "created_at": "2023-09-28T17:31:04-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T17:32:16-06:00",
+      "product_id": 7051712757869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Tinsel-And-Spice-Device-V4.jpg?v=1695943936",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525485121645,
+      "created_at": "2023-09-28T17:31:04-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T17:32:16-06:00",
+      "product_id": 7051712757869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-TinselandSpice-Overhead-Shadow-Resized.jpg?v=1695943936",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-TinselandSpice-Vertical-Resized.jpg?v=1695943936",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

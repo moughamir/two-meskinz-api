@@ -1,0 +1,140 @@
+{
+  "id": 8444692168792,
+  "title": "Seashell Veggie Patch iPhone 17 Pro Case",
+  "handle": "seashell-veggie-patch-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Who said veggies can't be fun? <meta charset=\"utf-8\">🥬🥕 Sprout a little joy with the Veggie Patch Phone Case, bursting with playful, garden-grown goodies like crisp asparagus, vibrant garlic, and leafy greens. Every glance at your phone is a friendly reminder to keep things fresh, colorful, and sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:34:56-04:00",
+  "created_at": "2025-08-08T11:51:04-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Veggie Patch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184271917144,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:VEGGIE-PATCH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444692168792,
+      "created_at": "2025-09-03T18:54:55-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184271949912,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:VEGGIE-PATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444692168792,
+      "created_at": "2025-09-03T18:54:55-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567273246808,
+      "created_at": "2025-08-08T11:51:04-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:07-04:00",
+      "product_id": 8444692168792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP17P_Seashell.jpg?v=1754668267",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683494727768,
+      "created_at": "2025-03-13T09:51:25-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T09:51:26-04:00",
+      "product_id": 8444692168792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Friends_PDP_1x1_01_73e2634c-d5dc-45ba-8b81-f96d77980105.jpg?v=1741873886",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34683491123288,
+      "created_at": "2025-03-13T09:50:33-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T09:50:34-04:00",
+      "product_id": 8444692168792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Androids_PDP_1x1_03_48eb8afd-2a7e-4dec-a685-44e6246b7492.jpg?v=1741873834",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34683489517656,
+      "created_at": "2025-03-13T09:49:53-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T09:49:57-04:00",
+      "product_id": 8444692168792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_f108b007-f67a-4e97-a730-697f12de6553.jpg?v=1741873797",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34683489484888,
+      "created_at": "2025-03-13T09:49:53-04:00",
+      "position": 5,
+      "updated_at": "2025-03-13T09:49:57-04:00",
+      "product_id": 8444692168792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Pile_PDP_1x1_02.jpg?v=1741873797",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP17P_Seashell.jpg?v=1754668267",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

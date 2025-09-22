@@ -1,0 +1,117 @@
+{
+  "id": 7657230663789,
+  "title": "Pomegranate Lime",
+  "handle": "pomegranate-lime",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Bright <strong>citrus</strong>, juicy <strong>pomegranate</strong>, and grounding <strong>cedar</strong> come together to create a fragrance that feels like a refreshing escape.</p>",
+  "published_at": "2025-07-09T08:54:39-06:00",
+  "created_at": "2025-05-21T16:09:14-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Tommy Bahama",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Tommy Bahama",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42413627932781,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MPGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7657230663789,
+      "created_at": "2025-05-21T16:09:15-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34575930654829,
+      "created_at": "2025-06-20T10:17:00-06:00",
+      "position": 1,
+      "updated_at": "2025-06-20T10:17:14-06:00",
+      "product_id": 7657230663789,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TommyBahama-PomegranateLime-Prod1-0525.jpg?v=1750436234",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34575930523757,
+      "created_at": "2025-06-20T10:16:58-06:00",
+      "position": 2,
+      "updated_at": "2025-06-20T10:17:14-06:00",
+      "product_id": 7657230663789,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingrediets-Pomegranate-Resized-0525.jpg?v=1750436234",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34575906472045,
+      "created_at": "2025-06-20T10:06:45-06:00",
+      "position": 3,
+      "updated_at": "2025-06-20T10:17:14-06:00",
+      "product_id": 7657230663789,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PomegranateLime_Prod3.png?v=1750436234",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34575930622061,
+      "created_at": "2025-06-20T10:17:00-06:00",
+      "position": 4,
+      "updated_at": "2025-06-20T10:17:02-06:00",
+      "product_id": 7657230663789,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TommyBahama-PomegranateLime-Prod4-0525.jpg?v=1750436222",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TommyBahama-PomegranateLime-Prod1-0525.jpg?v=1750436234",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tommy Bahama",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

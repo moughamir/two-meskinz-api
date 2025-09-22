@@ -1,0 +1,115 @@
+{
+  "id": 7109882773613,
+  "title": "Snow No. 85",
+  "handle": "snow",
+  "body_html": "<p>Notes of cooling <strong>peppermint</strong> swirl with creamy <strong>vanilla</strong> and <strong>musk</strong> for a scent that’s soothing and sweet.</p>",
+  "published_at": "2023-11-08T09:04:20-07:00",
+  "created_at": "2023-10-17T14:09:09-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Simpatico",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Simpatico",
+    "Group_Home",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40767531581549,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SJNH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7109882773613,
+      "created_at": "2023-10-17T14:09:10-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30574590689389,
+      "created_at": "2023-10-17T14:17:32-06:00",
+      "position": 1,
+      "updated_at": "2023-10-17T14:17:39-06:00",
+      "product_id": 7109882773613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SimpaticoSnow-resized.jpg?v=1697573859",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30574590722157,
+      "created_at": "2023-10-17T14:17:32-06:00",
+      "position": 2,
+      "updated_at": "2023-10-17T14:17:39-06:00",
+      "product_id": 7109882773613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mint-4-resized_beb7b396-856f-4729-8b1d-15e704d9c627.jpg?v=1697573859",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30574590820461,
+      "created_at": "2023-10-17T14:17:32-06:00",
+      "position": 3,
+      "updated_at": "2023-10-17T14:17:39-06:00",
+      "product_id": 7109882773613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SnowNo85-Simpatico-Prod3-2023-09.png?v=1697573859",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30574590754925,
+      "created_at": "2023-10-17T14:17:32-06:00",
+      "position": 4,
+      "updated_at": "2023-10-17T14:17:39-06:00",
+      "product_id": 7109882773613,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SimpaticoSnow-resized_-3.jpg?v=1697573859",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SimpaticoSnow-resized.jpg?v=1697573859",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simpatico",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

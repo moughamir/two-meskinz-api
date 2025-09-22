@@ -1,0 +1,69 @@
+{
+  "id": 5321014476967,
+  "title": "Brand: Tool-Flo / Part #: 9BTR062RKPR",
+  "handle": "mg644f",
+  "body_html": "<br><strong>Item #: </strong>68374578<br><strong>Brand: </strong>Tool-Flo<br><strong>Model #: </strong>9BTR062RKPR<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>BTRR</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>GP4R</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (Decimal Inch)</strong></td>\n<td>0.0620</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (mm)</strong></td>\n<td>1.57</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>0.0750</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth Of Cut Range (Decimal Inch)</strong></td>\n<td>0.0750 to 0.1000</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0310</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Bantam</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>BTRR-062W</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Decimal Inch)</strong></td>\n<td>0.1300</td>\n</tr>\n<tr>\n<td><strong>Full Radius</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T07:11:56-06:00",
+  "created_at": "2020-06-12T07:49:24-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Tool-Flo",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts",
+    "Mounted Points",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34691853385895,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "68374578",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.86",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321014476967,
+      "created_at": "2020-06-12T07:49:24-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239007473831,
+      "created_at": "2025-02-03T19:15:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:15:07-06:00",
+      "product_id": 5321014476967,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6837457-21.jpg?v=1738631707",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6837457-21.jpg?v=1738631707",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tool-Flo",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

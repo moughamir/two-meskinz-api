@@ -1,0 +1,67 @@
+{
+  "id": 7786177101991,
+  "title": "Brand: Snap-Loc / Part #: SLAET08G2",
+  "handle": "eh574818136",
+  "body_html": "<br><strong>Item #: </strong>71242044<br><strong>Brand: </strong>Snap-Loc<br><strong>Model #: </strong>SLAET08G2<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>E-Track</td>\n</tr>\n<tr>\n<td><strong>Position</strong></td>\n<td>Vertical or Horizontal</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Overall Depth</strong></td>\n<td>5 in</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>94788460; 94788221; 94788387; 94789971; 94357159; 94357456; 94788544; 94355971; 94788403; 94789997; 94790060; 94789955; 41478124; 16482150; 94789948; 41478165; MSC's #: 94788197; 94357829; 94357928; 41478140; 94788395; 94788296; 94788353; 94357100; 94790011; 94356276; 94357563; 94788338; 94356953; 94789989; 94788437; 94357647; 94357944; 94356649; 41478157; 94355955; 94356805; 94790003; 94788270; 16482325</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Galvanized</td>\n</tr>\n<tr>\n<td><strong>Load Capacity (Lb.)</strong></td>\n<td>1000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T13:11:32-06:00",
+  "created_at": "2023-12-29T13:11:32-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Snap-Loc",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Trim & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43707141062823,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "71242044",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "48.60",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786177101991,
+      "created_at": "2023-12-29T13:11:32-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238027415719,
+      "created_at": "2025-02-03T18:33:22-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:33:23-06:00",
+      "product_id": 7786177101991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7124204-21.jpg?v=1738629203",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 48.6,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7124204-21.jpg?v=1738629203",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Snap-Loc",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

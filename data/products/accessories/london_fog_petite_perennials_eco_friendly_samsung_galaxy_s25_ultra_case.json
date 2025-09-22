@@ -1,0 +1,119 @@
+{
+  "id": 8254960074840,
+  "title": "London Fog Petite Perennials Samsung Galaxy S25 Ultra Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:10:37-05:00",
+  "created_at": "2025-01-15T11:45:03-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567876706392,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13966-S25ULTRA-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254960074840,
+      "created_at": "2025-01-15T11:45:03-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303571296344,
+      "created_at": "2025-01-15T11:45:03-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:05-05:00",
+      "product_id": 8254960074840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_S25ULTRA_LondonFog.jpg?v=1736959505",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671645720664,
+      "created_at": "2025-03-11T14:15:50-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:15:56-04:00",
+      "product_id": 8254960074840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_b022382a-f9c9-47af-8045-423330427bd8.png?v=1741716956",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671645753432,
+      "created_at": "2025-03-11T14:15:50-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:15:56-04:00",
+      "product_id": 8254960074840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_11cd690f-22c4-4ed3-8df0-3717ced69a80.png?v=1741716956",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671645786200,
+      "created_at": "2025-03-11T14:15:50-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T14:15:56-04:00",
+      "product_id": 8254960074840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_5b72c93e-90da-4ff6-a679-fc3928bdde6e.png?v=1741716956",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 34671645818968,
+      "created_at": "2025-03-11T14:15:50-04:00",
+      "position": 5,
+      "updated_at": "2025-03-11T14:15:56-04:00",
+      "product_id": 8254960074840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_9d798d50-c9b9-440a-9c91-46e46af2612c.png?v=1741716956",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_S25ULTRA_LondonFog.jpg?v=1736959505",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

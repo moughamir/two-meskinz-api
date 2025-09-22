@@ -1,0 +1,118 @@
+{
+  "id": 7051707973741,
+  "title": "Kiss in the Rain",
+  "handle": "kiss-in-the-rain",
+  "body_html": "<p>A passionate mist of <strong>black currant</strong>, <strong>raspberry</strong>, and <strong>strawberry</strong> embrace a floral blend of soft <strong>rose</strong> and <strong>violet</strong>, making this fragrance our most romantic yet.</p>",
+  "published_at": "2023-08-14T19:50:49-06:00",
+  "created_at": "2023-08-09T16:19:40-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Bridgewater Candle Company",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Bridgewater Candle Company",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_kissintherain"
+  ],
+  "variants": [
+    {
+      "id": 40702260314221,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KSRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707973741,
+      "created_at": "2023-08-09T16:19:40-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525457105005,
+      "created_at": "2023-09-28T17:05:57-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T17:06:19-06:00",
+      "product_id": 7051707973741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-KissinTheRain-Vertical-Resized.jpg?v=1695942379",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525456679021,
+      "created_at": "2023-09-28T17:05:23-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T17:06:19-06:00",
+      "product_id": 7051707973741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/raspberries-4RESIZED.jpg?v=1695942379",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525457170541,
+      "created_at": "2023-09-28T17:05:57-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T17:06:19-06:00",
+      "product_id": 7051707973741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Bridgewater-Candle-Company-Kiss-In-The-Rain-Device-V4.jpg?v=1695942379",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525457072237,
+      "created_at": "2023-09-28T17:05:57-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T17:06:19-06:00",
+      "product_id": 7051707973741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-KissinTheRain-Overhead-Shadow-Resized.jpg?v=1695942379",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-KissinTheRain-Vertical-Resized.jpg?v=1695942379",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bridgewater Candle Company",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

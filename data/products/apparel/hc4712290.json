@@ -1,0 +1,67 @@
+{
+  "id": 7785895002279,
+  "title": "Brand: Whizard / Part #: 133791-MS",
+  "handle": "hc4712290",
+  "body_html": "<br><strong>Item #: </strong>03028024<br><strong>Brand: </strong>Whizard<br><strong>Model #: </strong>133791-MS<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Primary Material</strong>\n</td>\n<td>Stainless Steel Fiber</td>\n</tr>\n<tr>\n<td><strong>Glove Type</strong></td>\n<td>Cut-Resistant</td>\n</tr>\n<tr>\n<td><strong>Ansi/Isea Cut Resistance Level</strong></td>\n<td>A8</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Abrasion Resistance Level</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Coating Coverage</strong></td>\n<td>Palm &amp; Fingers</td>\n</tr>\n<tr>\n<td><strong>Coating Material</strong></td>\n<td>Polyurethane</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>Small</td>\n</tr>\n<tr>\n<td><strong>Women's Size</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Glove Material</strong></td>\n<td>Stainless Steel Fiber</td>\n</tr>\n<tr>\n<td><strong>Men's Numeric Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td><strong>Lining Material</strong></td>\n<td>Unlined</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ASTM D3884-09; ASTM F2992-15; ASTM F1790-97; ANSI</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Features High Performance Fibers &amp; Stainless Steel; Preshrunk; Standard Pattern is Ideal for Use in Plastic's Trimming; Industry Leading Handguard II Construction with Polyurethane Grip Pattern; Prewashed</td>\n</tr>\n<tr>\n<td><strong>Coating Style</strong></td>\n<td>Solid Coat</td>\n</tr>\n<tr>\n<td><strong>Cuff Style</strong></td>\n<td>Knit Wrist</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>4240</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:13:29-06:00",
+  "created_at": "2023-12-29T06:13:30-06:00",
+  "updated_at": "2025-09-22T10:54:23-05:00",
+  "vendor": "Whizard",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705834733735,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "03028024",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.33",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785895002279,
+      "created_at": "2023-12-29T06:13:30-06:00",
+      "updated_at": "2025-09-22T10:54:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237605920935,
+      "created_at": "2025-02-03T18:19:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:19:02-06:00",
+      "product_id": 7785895002279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0302800-11.jpg?v=1738628342",
+      "width": 345,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0302800-11.jpg?v=1738628342",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Whizard",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

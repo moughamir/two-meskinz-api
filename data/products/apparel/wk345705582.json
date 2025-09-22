@@ -1,0 +1,67 @@
+{
+  "id": 7785294528679,
+  "title": "Brand: Minuteman / Part #: 904885",
+  "handle": "wk345705582",
+  "body_html": "<br><strong>Item #: </strong>17328428<br><strong>Brand: </strong>Minuteman<br><strong>Model #: </strong>904885<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Finish</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Jug</td>\n</tr>\n<tr>\n<td><strong>Container Size (Gal.)</strong></td>\n<td>2.50</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Vinyl; Concrete; Terrazzo; Vinyl Composition Tile</td>\n</tr>\n<tr>\n<td><strong>Composition</strong></td>\n<td>Water Based</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:35:31-06:00",
+  "created_at": "2023-12-28T16:35:31-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "Minuteman",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Cleaners; Detergents & Odor Control"
+  ],
+  "variants": [
+    {
+      "id": 43703562567847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17328428",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.39",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785294528679,
+      "created_at": "2023-12-28T16:35:31-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236643524775,
+      "created_at": "2025-02-03T17:49:12-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:13-06:00",
+      "product_id": 7785294528679,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1732842-21.jpg?v=1738626553",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 110.39,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1732842-21.jpg?v=1738626553",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Minuteman",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

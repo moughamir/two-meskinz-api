@@ -1,0 +1,112 @@
+{
+  "id": 7839805341743,
+  "title": "Leo Icons Pattern 20 oz. Stainless Steel Tumbler",
+  "handle": "leo-icons-pattern-20-oz-stainless-steel-tumbler",
+  "body_html": "<p>Stay refreshed and stylish with the Leo Icons Pattern 20 oz. Stainless Steel Tumbler, perfect for fans of the beloved movie Leo. Adorned with vibrant icons from the film, this insulated tumbler keeps your drinks cool while showcasing your passion for Leo's heartwarming journey. Sip in cinematic flair and let every drink remind you of the magic and adventure!</p><ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz (600 ml)</li>\n<li>Straw and lid included with the tumbler</li>\n<li>Glossy finish</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n<br>\n</ul>",
+  "published_at": "2024-10-14T13:40:55-04:00",
+  "created_at": "2024-09-24T15:29:17-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "81218917",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Kid's",
+    "Kids and Babies",
+    "Kids and Children",
+    "kids and family",
+    "Leo",
+    "new",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Tumblers"
+  ],
+  "variants": [
+    {
+      "id": 43262007771183,
+      "title": "White / 20 oz",
+      "option1": "White",
+      "option2": "20 oz",
+      "option3": null,
+      "sku": "LEO-101668-0002-LEO-PAT1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34806509305903,
+        "product_id": 7839805341743,
+        "position": 1,
+        "created_at": "2024-10-11T05:10:11-04:00",
+        "updated_at": "2024-10-11T05:10:11-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LEO-PAT1_101688_L_MF2.jpg?v=1728637811",
+        "variant_ids": [
+          43262007771183
+        ]
+      },
+      "available": true,
+      "price": "36.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7839805341743,
+      "created_at": "2024-09-24T15:29:17-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34806509305903,
+      "created_at": "2024-10-11T05:10:11-04:00",
+      "position": 1,
+      "updated_at": "2024-10-11T05:10:11-04:00",
+      "product_id": 7839805341743,
+      "variant_ids": [
+        43262007771183
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LEO-PAT1_101688_L_MF2.jpg?v=1728637811",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34806510059567,
+      "created_at": "2024-10-11T05:10:17-04:00",
+      "position": 2,
+      "updated_at": "2024-10-11T05:10:17-04:00",
+      "product_id": 7839805341743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LEO-PAT1_101688_L_MF.jpg?v=1728637817",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "20 oz"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LEO-PAT1_101688_L_MF2.jpg?v=1728637811",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

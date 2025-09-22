@@ -1,0 +1,101 @@
+{
+  "id": 7556232282200,
+  "title": "Bubblegum Pink Flora iPhone 14 Pro Case",
+  "handle": "bubblegum-pink-flora-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p>Dress your phone in a burst of color with our Bubblegum Pink Flora Phone Case! This beautifully designed case features an engraved floral pattern, perfect for nature lovers. Made with sustainable materials, it's both durable and compostable - a win for your phone and the environment.</p>",
+  "published_at": "2024-02-22T04:36:02-05:00",
+  "created_at": "2024-02-08T11:08:13-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Flora",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038003765336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16807-IP14P-BUBPINK-AOD:FLORA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556232282200,
+      "created_at": "2024-02-08T11:08:13-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177830756440,
+      "created_at": "2024-02-08T12:00:35-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T12:00:35-05:00",
+      "product_id": 7556232282200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_IP14P_BubblegumPink_c0fdbd14-572b-43fa-b7e9-29f7023db0a6.jpg?v=1707411635",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211902824536,
+      "created_at": "2024-02-21T02:48:45-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T02:48:50-05:00",
+      "product_id": 7556232282200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-2_c6e22b80-e6f0-40a1-93ba-c56d3bf2e70a.jpg?v=1708501730",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211902857304,
+      "created_at": "2024-02-21T02:48:45-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T02:48:50-05:00",
+      "product_id": 7556232282200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-1_6120d22a-20ab-46f7-9619-6058c07e40d5.jpg?v=1708501730",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_IP14P_BubblegumPink_c0fdbd14-572b-43fa-b7e9-29f7023db0a6.jpg?v=1707411635",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

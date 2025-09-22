@@ -1,0 +1,96 @@
+{
+  "id": 8444656517208,
+  "title": "Black Neon Nostalgia iPhone 17 Pro Case",
+  "handle": "black-neon-nostalgia-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><span>Dive into the electric energy of the past with our Neon Nostalgia Phone Case. A throwback to the iconic 90s, this case is a symphony of vibrant neon graphics against a timeless black canvas, inviting you on a nostalgic trip down memory lane.  </span></p>\n<p><span>Geometric shapes and vivid colors pop with life, bringing the dynamic spirit of retro arcades and dance floors to the palm of your hand.</span></p>\n<p><span>Adorn your device with this case and carry a flash of fun wherever you go. It’s not just protection; it’s a statement that your heart beats in neon. 💚✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:56:34-04:00",
+  "created_at": "2025-08-08T11:48:56-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:90s",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Neon Nostalgia",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184096673880,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17495-IP17P-BLACK-AOD:NEON-NOSTALGIA_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444656517208,
+      "created_at": "2025-09-03T18:24:36-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184096706648,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17495-IP17P-BLACK-AOD:NEON-NOSTALGIA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444656517208,
+      "created_at": "2025-09-03T18:24:36-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567197421656,
+      "created_at": "2025-08-08T11:48:56-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:59-04:00",
+      "product_id": 8444656517208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NEON-NOSTALGIA_IP17P_Black.jpg?v=1754668139",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NEON-NOSTALGIA_IP17P_Black.jpg?v=1754668139",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

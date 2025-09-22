@@ -1,0 +1,98 @@
+{
+  "id": 8383680610392,
+  "title": "London Fog Equine iPhone 16 Pro Case",
+  "handle": "london-fog-equine-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Gallop into style with the Equine Phone Case by Pela! Adorned with elegant sketches of majestic horses, this case brings the spirit of the stables right to your fingertips. Perfect for horse lovers and equestrian enthusiasts alike, this case adds a touch of equine charm and sustainability to your everyday adventures. 🐎📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-23T18:11:01-04:00",
+  "created_at": "2025-05-23T11:25:53-04:00",
+  "updated_at": "2025-09-22T15:14:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Equine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42902423535704,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17285-IP16P-LFOG-AOD:EQUINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8383680610392,
+      "created_at": "2025-05-23T11:25:53-04:00",
+      "updated_at": "2025-09-22T15:14:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35080356397144,
+      "created_at": "2025-05-23T11:25:53-04:00",
+      "position": 1,
+      "updated_at": "2025-05-23T11:25:55-04:00",
+      "product_id": 8383680610392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_IP16P_LondonFog.jpg?v=1748013955",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081383116888,
+      "created_at": "2025-05-23T14:54:22-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T14:54:24-04:00",
+      "product_id": 8383680610392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_LFOG-1-1_901b6a1d-f544-4b72-82de-9840e3774a6b.jpg?v=1748026464",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081383084120,
+      "created_at": "2025-05-23T14:54:23-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T14:54:24-04:00",
+      "product_id": 8383680610392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_LFOG-1-2_c58176e6-6399-4a7a-8149-c91dc1db34c7.jpg?v=1748026464",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_IP16P_LondonFog.jpg?v=1748013955",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

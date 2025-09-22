@@ -1,0 +1,140 @@
+{
+  "id": 8444723298392,
+  "title": "Seashell Autumn Patch iPhone Air Case",
+  "handle": "seashell-autumn-patch-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Your phone just found its coziest sweater. <meta charset=\"utf-8\">🍂 The Autumn Patch Phone Case is a harvest festival in your hand—complete with pumpkins, acorns, crunchy leaves, and a sprinkle of woodland charm. Whether you’re sipping cider, picking apples, or just pretending it’s sweater weather all year long, this case wraps your phone in peak fall vibes. Durable, protective, and oh-so-seasonal, it’s basically PSL-approved.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:54:58-04:00",
+  "created_at": "2025-08-08T12:07:09-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Autumn Patch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184225189976,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:AUTUMN-PATCH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444723298392,
+      "created_at": "2025-09-03T18:45:50-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184225222744,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:AUTUMN-PATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444723298392,
+      "created_at": "2025-09-03T18:45:50-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567386427480,
+      "created_at": "2025-08-08T12:07:09-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:11-04:00",
+      "product_id": 8444723298392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-PATCH_IP17AIR_Seashell.jpg?v=1754669231",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35620891525208,
+      "created_at": "2025-08-19T13:30:51-04:00",
+      "position": 2,
+      "updated_at": "2025-08-19T13:30:51-04:00",
+      "product_id": 8444723298392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a67d7cc50b678c3431c927e0e0c7be50_d8d8bf23-8fb0-4cf0-abf4-e86a49463b1a.jpg?v=1755624651",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620892016728,
+      "created_at": "2025-08-19T13:30:52-04:00",
+      "position": 3,
+      "updated_at": "2025-08-19T13:30:52-04:00",
+      "product_id": 8444723298392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/54d9a8e95555c8373c590e059dc1929c_77130513-9115-4555-b0ce-642d41d291cc.jpg?v=1755624652",
+      "width": 2044,
+      "height": 2048
+    },
+    {
+      "id": 35620893261912,
+      "created_at": "2025-08-19T13:30:54-04:00",
+      "position": 4,
+      "updated_at": "2025-08-19T13:30:54-04:00",
+      "product_id": 8444723298392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/716d192d62b6bf4c27daad66ff99d683_bc0b028d-7c31-4242-9528-14cee838357b.jpg?v=1755624654",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620893851736,
+      "created_at": "2025-08-19T13:30:55-04:00",
+      "position": 5,
+      "updated_at": "2025-08-19T13:30:55-04:00",
+      "product_id": 8444723298392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b3fceaba98b549fd1ed5199f45ac77e9_bee0f979-0858-4e99-a2c9-82cab227e7d9.jpg?v=1755624655",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-PATCH_IP17AIR_Seashell.jpg?v=1754669231",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

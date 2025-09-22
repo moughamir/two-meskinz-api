@@ -1,0 +1,111 @@
+{
+  "id": 6805064089802,
+  "title": "Gymshark Sharkhead Cap - Black",
+  "handle": "gymshark-sharkhead-cap-black-aw22",
+  "body_html": "<p> </p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">LEAD THE WAY</strong><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">The Sharkhead Cap is the perfect accessory to make sure you feel good in every ‘fit. With a classic curved peak structure and Gymshark logo, this is a cap that offers a reliable design, for a look that’s sure to get heads turning.<br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"> </p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- Structured cap<br data-mce-fragment=\"1\">- Six panels<br data-mce-fragment=\"1\">- Curved peak<br data-mce-fragment=\"1\"><span data-token-index=\"0\" class=\"notion-enable-hover\">- Adjustable metal slider at back</span><!-- notionvc: 634c5de5-4250-4582-8466-0f545de95ab8 --><br data-mce-fragment=\"1\">- Gymshark embroidered logo to front<br data-mce-fragment=\"1\">- 100% Cotton<br data-mce-fragment=\"1\">- We've cut down our use of swing tags, so this product comes without one<br data-mce-fragment=\"1\">- SKU: I1A6R-BBF7</p>",
+  "published_at": "2022-11-16T13:41:55-08:00",
+  "created_at": "2022-11-10T00:39:55-08:00",
+  "updated_at": "2025-09-22T08:46:34-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1757960735",
+    "all-products",
+    "always-on",
+    "athleisure",
+    "black-staples",
+    "build-your-wishlist",
+    "caps",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "headwear",
+    "high-cash-drivers",
+    "lower-bucket",
+    "must-have",
+    "must-have-acc",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Sharkhead",
+    "rest-day",
+    "seamtype:Accessories",
+    "season:AW22",
+    "seasonal-accessories",
+    "seasonal-essentials",
+    "segmentation:Rest Day",
+    "stocking-fillers",
+    "subcategory:Cap",
+    "tier:1"
+  ],
+  "variants": [
+    {
+      "id": 39787659788490,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A6R-BBF7-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805064089802,
+      "created_at": "2022-11-10T00:39:56-08:00",
+      "updated_at": "2025-09-22T08:46:34-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973804191946,
+      "created_at": "2022-11-10T00:39:56-08:00",
+      "position": 1,
+      "updated_at": "2022-11-10T00:39:58-08:00",
+      "product_id": 6805064089802,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCapBlack-I1A6R-BBF71.jpg?v=1668069598",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973804126410,
+      "created_at": "2022-11-10T00:39:56-08:00",
+      "position": 2,
+      "updated_at": "2022-11-10T00:39:58-08:00",
+      "product_id": 6805064089802,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCapBlack-I1A6R-BBF72.jpg?v=1668069598",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCapBlack-I1A6R-BBF71.jpg?v=1668069598",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

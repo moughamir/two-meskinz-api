@@ -1,0 +1,160 @@
+{
+  "id": 8039257505839,
+  "title": "Stranger Things Scoops Ahoy Dad Hat",
+  "handle": "stranger-things-scoops-ahoy-dad-hat",
+  "body_html": "<p>Step into Starcourt Mall and scoop up the perfect accessory with the <em>Stranger Things</em> Scoops Ahoy Dad Hat. Inspired by Steve Harrington's unforgettable uniform from <em>Stranger Things</em> Season 3, this relaxed-fit cap features retro nautical vibes and the iconic Scoops Ahoy logo, making it a must-have for any fan of the Upside Down. </p><ul>\n<li>Made of: 100% chino cotton twill/Green Camo color is 35% chino cotton twill, 65% polyester</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2025-08-13T12:29:57-04:00",
+  "created_at": "2025-08-11T14:09:15-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "80057281",
+    "Badge: New | #FFFFFF | #000000",
+    "Hats",
+    "Headwear",
+    "Netflix",
+    "series_id-80057281",
+    "shop all",
+    "ST-SS-0825",
+    "Stranger Things",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44420297654319,
+      "title": "Aqua Triblend",
+      "option1": "Aqua Triblend",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101082-0004-ST-SS-0825-AHOYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37046088564783,
+        "product_id": 8039257505839,
+        "position": 1,
+        "created_at": "2025-08-11T14:09:32-04:00",
+        "updated_at": "2025-08-11T14:09:34-04:00",
+        "alt": "Stranger Things Scoops Ahoy Dad Hat Aqua Triblend",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_BLUE_MF.jpg?v=1754935774",
+        "variant_ids": [
+          44420297654319
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8039257505839,
+      "created_at": "2025-08-11T14:09:16-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    },
+    {
+      "id": 44420297687087,
+      "title": "White",
+      "option1": "White",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101082-0002-ST-SS-0825-AHOYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37046088532015,
+        "product_id": 8039257505839,
+        "position": 2,
+        "created_at": "2025-08-11T14:09:32-04:00",
+        "updated_at": "2025-08-11T14:47:12-04:00",
+        "alt": "Stranger Things Scoops Ahoy Dad Hat White",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_WHITE_MF.jpg?v=1754938032",
+        "variant_ids": [
+          44420297687087
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 8039257505839,
+      "created_at": "2025-08-11T14:09:16-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 37046088564783,
+      "created_at": "2025-08-11T14:09:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-11T14:09:34-04:00",
+      "product_id": 8039257505839,
+      "variant_ids": [
+        44420297654319
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_BLUE_MF.jpg?v=1754935774",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37046088532015,
+      "created_at": "2025-08-11T14:09:32-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:47:12-04:00",
+      "product_id": 8039257505839,
+      "variant_ids": [
+        44420297687087
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_WHITE_MF.jpg?v=1754938032",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37046088630319,
+      "created_at": "2025-08-11T14:09:32-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:47:12-04:00",
+      "product_id": 8039257505839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_BLUE_LIFE.jpg?v=1754938032",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37046088597551,
+      "created_at": "2025-08-11T14:09:32-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:09:34-04:00",
+      "product_id": 8039257505839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_WHITE_LIFE.jpg?v=1754935774",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Aqua Triblend",
+        "White"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-AHOYH_101082_BLUE_MF.jpg?v=1754935774",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 6818083111000,
+  "title": "Santorini Rounds Sunglasses in Gold",
+  "handle": "santorini-rounds-sunglasses-in-gold",
+  "body_html": "<p><span style=\"font-weight: 300;\">Classic metal round sunglasses have been worn by the world's most legendary creatives and intellectuals for generations. Santorini Rounds are a contemporary take on this timeless style. Crafted from sustainable and planet-friendly materials, these shades are the sunglasses of the future. We’ve combined style and sustainability with affordability and comfort. Designed to complement any wardrobe with four available color options. With full UVA/UVB &amp; glare protection. These sunnies are light-weight, comfortable, and durable for anything you get up to outdoors. </span></p>\n<p><b>Made with:</b></p>\n<ul>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">33% less CO2e Emissions</span></li>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">34% less water usage</span></li>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">82% less waste compared to conventional sunglasses</span></li>\n</ul>",
+  "published_at": "2025-05-08T09:08:22-04:00",
+  "created_at": "2021-10-13T11:27:46-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "Santorini Rounds"
+  ],
+  "variants": [
+    {
+      "id": 39672940626008,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40270-SANTO-GOLD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "46.00",
+      "grams": 113,
+      "compare_at_price": "79.00",
+      "position": 1,
+      "product_id": 6818083111000,
+      "created_at": "2021-10-13T11:27:46-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28798439391320,
+      "created_at": "2021-10-13T13:38:41-04:00",
+      "position": 1,
+      "updated_at": "2021-10-13T13:38:41-04:00",
+      "product_id": 6818083111000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_GOLD_FRONT.jpg?v=1634146721",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439424088,
+      "created_at": "2021-10-13T13:38:41-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T13:38:41-04:00",
+      "product_id": 6818083111000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_GOLD_FRONT_ANGLE.jpg?v=1634146721",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439456856,
+      "created_at": "2021-10-13T13:38:41-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T13:38:41-04:00",
+      "product_id": 6818083111000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_GOLD_BACK_ANGLE.jpg?v=1634146721",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439489624,
+      "created_at": "2021-10-13T13:38:41-04:00",
+      "position": 4,
+      "updated_at": "2021-10-13T13:38:41-04:00",
+      "product_id": 6818083111000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A2574.jpg?v=1634146721",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28798439522392,
+      "created_at": "2021-10-13T13:38:41-04:00",
+      "position": 5,
+      "updated_at": "2021-10-13T13:38:41-04:00",
+      "product_id": 6818083111000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A2979.jpg?v=1634146721",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46,
+  "compare_at_price": 79,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_GOLD_FRONT.jpg?v=1634146721",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

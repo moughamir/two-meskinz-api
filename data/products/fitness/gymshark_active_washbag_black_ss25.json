@@ -1,0 +1,132 @@
+{
+  "id": 6806147989706,
+  "title": "Gymshark Active Washbag - Black",
+  "handle": "gymshark-active-washbag-black-ss25",
+  "body_html": "<p><strong>IN THE BAG</strong></p>\n<p> </p>\n<p>All the smaller essentials for the gym (and your travels) have to go somewhere…</p>\n<p> </p>\n<p> </p>\n<p>• 1 main zipped compartment <br>• 1 front zipped pocket<br>• 3 internal slip pockets for the grab-and-go things<br>• Loop on the side for carrying or to hang it up<br>• Silicone branded patch on the front</p>\n<p> </p>\n<p><strong>SIZE &amp; FIT</strong><br>• Height: 14cm. Length: 20cm. Depth: 6.5cm.</p>\n<p><br> <br><strong>MATERIALS &amp; CARE </strong><br>• 100% Recycled Polyester</p>\n<p><br> <br>SKU: I1B9A-BB2J</p>",
+  "published_at": "2025-05-08T13:45:41-07:00",
+  "created_at": "2024-10-14T09:08:24-07:00",
+  "updated_at": "2025-09-22T08:45:35-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "08/05/2025",
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1758206878",
+    "all-products",
+    "bags",
+    "black-staples",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "last-chance",
+    "last-chance-accessories",
+    "lower-bucket",
+    "Mens",
+    "MSS-cash-drivers",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Active",
+    "seamtype:Accessories",
+    "season:SS25",
+    "segmentation:Conditioning",
+    "spanish-translated",
+    "subcategory:Washbag",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39794299830474,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1B9A-BB2J-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.00",
+      "grams": 0,
+      "compare_at_price": "22.00",
+      "position": 1,
+      "product_id": 6806147989706,
+      "created_at": "2024-10-14T09:08:24-07:00",
+      "updated_at": "2025-09-22T08:45:35-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28993116340426,
+      "created_at": "2025-05-05T02:34:14-07:00",
+      "position": 1,
+      "updated_at": "2025-05-05T02:34:17-07:00",
+      "product_id": 6806147989706,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveWashbagGSBlackI1B9A_BB2J_0137_0029.jpg?v=1746437657",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993116111050,
+      "created_at": "2025-05-05T02:34:13-07:00",
+      "position": 2,
+      "updated_at": "2025-05-05T02:34:17-07:00",
+      "product_id": 6806147989706,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveWashbagGSBlackI1B9A_BB2J_0138_0030.jpg?v=1746437657",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993115979978,
+      "created_at": "2025-05-05T02:34:13-07:00",
+      "position": 3,
+      "updated_at": "2025-05-05T02:34:17-07:00",
+      "product_id": 6806147989706,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveWashbagGSBlackI1B9A_BB2J_0140_0031.jpg?v=1746437657",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993116274890,
+      "created_at": "2025-05-05T02:34:14-07:00",
+      "position": 4,
+      "updated_at": "2025-05-05T02:34:17-07:00",
+      "product_id": 6806147989706,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveWashbagGSBlackI1B9A_BB2J_0148_0032.jpg?v=1746437657",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11,
+  "compare_at_price": 22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveWashbagGSBlackI1B9A_BB2J_0137_0029.jpg?v=1746437657",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

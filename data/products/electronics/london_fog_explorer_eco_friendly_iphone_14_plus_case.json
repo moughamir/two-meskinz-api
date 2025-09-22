@@ -1,0 +1,97 @@
+{
+  "id": 7363997859928,
+  "title": "London Fog Explorer iPhone 14 Plus Case",
+  "handle": "london-fog-explorer-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Chart your daily adventures with the Pela Explorer Phone Case! This case features a vintage world map, rich with the mystique of continents and oceans in muted earth tones. It's perfect for globetrotters and dreamers alike, turning your phone into a passport of nostalgia and discovery. Whether you're planning your next travel destination or reminiscing about journeys past, this case brings the spirit of exploration right to your fingertips. Navigate through your day with the world in your pocket, protected and inspired by the old-world charm that invites curiosity and wanderlust. 🌍✈️🌟</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:08:30-04:00",
+  "created_at": "2023-05-30T14:51:01-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Retrospin",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Explorer",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234197549144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16945-IP14PLUS-LFOG-AOD:EXPLORER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363997859928,
+      "created_at": "2023-05-30T14:51:01-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275019767896,
+      "created_at": "2023-05-30T14:51:01-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:51:01-04:00",
+      "product_id": 7363997859928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EXPLORER_IP14PLUS_LondonFog.jpg?v=1685472661",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275875078232,
+      "created_at": "2023-05-31T10:42:26-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T10:42:27-04:00",
+      "product_id": 7363997859928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN5_a938df7b-4227-4941-a58c-ae29cb2b8f79.png?v=1685544147",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275875111000,
+      "created_at": "2023-05-31T10:42:26-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T10:42:27-04:00",
+      "product_id": 7363997859928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_05418d55-e5dc-43c9-b874-ba9af2dd8c0e.png?v=1685544147",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EXPLORER_IP14PLUS_LondonFog.jpg?v=1685472661",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

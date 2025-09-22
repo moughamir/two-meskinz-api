@@ -1,0 +1,108 @@
+{
+  "id": 7363433398360,
+  "title": "Lavender Frequency iPhone 12 Mini Case",
+  "handle": "lavender-frequency-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Dress your phone in the undulating charm of the Pela Frequency Phone Case! This case features a playful rhythm of wavy lines in a soothing palette of lavender and soft pink, giving your device a touch of artistic flair that's as calming as it is captivating. Perfect for anyone who appreciates a blend of modern design with a twist of whimsy, this case not only offers excellent protection but also ensures your phone looks great in any setting. It’s like a visual lullaby for your tech, wrapping it in waves of style! 🌊💜📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-25T08:31:10-04:00",
+  "created_at": "2023-05-24T12:43:16-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Retro Shapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Frequency",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40232964292696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16352-IP12MINI-LAV-AOD:FREQUENCY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363433398360,
+      "created_at": "2023-05-24T12:43:16-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30270395514968,
+      "created_at": "2023-05-24T12:43:16-04:00",
+      "position": 1,
+      "updated_at": "2023-05-24T12:43:16-04:00",
+      "product_id": 7363433398360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FREQUENCY_IP12MINI_Lavender.jpg?v=1684946596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270491033688,
+      "created_at": "2023-05-24T14:52:38-04:00",
+      "position": 2,
+      "updated_at": "2023-05-24T14:52:42-04:00",
+      "product_id": 7363433398360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesignv5_4a48b30e-02e9-4705-9292-c7f6eff1aa29.png?v=1684954362",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270491000920,
+      "created_at": "2023-05-24T14:52:38-04:00",
+      "position": 3,
+      "updated_at": "2023-05-24T14:52:42-04:00",
+      "product_id": 7363433398360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesign_f445fa11-b051-4775-bbb1-29593aee8a08.png?v=1684954362",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270490968152,
+      "created_at": "2023-05-24T14:52:38-04:00",
+      "position": 4,
+      "updated_at": "2023-05-24T14:52:42-04:00",
+      "product_id": 7363433398360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CASE-21_332ed95f-1f92-44b5-b94a-2d2f9ecdeabd.jpg?v=1684954362",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FREQUENCY_IP12MINI_Lavender.jpg?v=1684946596",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

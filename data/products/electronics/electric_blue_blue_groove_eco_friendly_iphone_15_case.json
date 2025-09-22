@@ -1,0 +1,99 @@
+{
+  "id": 8174777106520,
+  "title": "Electric Blue Blue Groove iPhone 15 Case",
+  "handle": "electric-blue-blue-groove-eco-friendly-iphone-15-case",
+  "body_html": "<p class=\"p1\">Get ready to dance the night away with the Blue Groove Phone Case! Featuring a dazzling display of disco balls and sparkling stars, this case is all about bringing that retro groove wherever you go. Perfect for anyone who loves a touch of vintage flair and a lot of sparkle, it’s sure to make your phone the life of the party. <b>🎶✨</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-11-14T09:30:04-05:00",
+  "created_at": "2024-10-31T14:22:10-04:00",
+  "updated_at": "2025-09-22T15:15:30-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Blue Groove",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42368970621016,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16995-IP15-ELEBLUE-AOD:BLUE-GROOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8174777106520,
+      "created_at": "2024-10-31T14:22:10-04:00",
+      "updated_at": "2025-09-22T15:15:30-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33906132713560,
+      "created_at": "2024-10-31T14:22:10-04:00",
+      "position": 1,
+      "updated_at": "2024-10-31T14:22:12-04:00",
+      "product_id": 8174777106520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-GROOVE_IP15_ElectricBlue.jpg?v=1730398932",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33950574674008,
+      "created_at": "2024-11-08T11:27:12-05:00",
+      "position": 2,
+      "updated_at": "2024-11-08T11:27:13-05:00",
+      "product_id": 8174777106520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUEGROOVE_PDP1_147fa019-8c5c-43c3-8590-038a28686775.jpg?v=1731083233",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33950574739544,
+      "created_at": "2024-11-08T11:27:12-05:00",
+      "position": 3,
+      "updated_at": "2024-11-08T11:27:13-05:00",
+      "product_id": 8174777106520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUEGROOVE_PDP2_4e7f9131-1ad7-44b8-9850-6fe96d49641f.jpg?v=1731083233",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-GROOVE_IP15_ElectricBlue.jpg?v=1730398932",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

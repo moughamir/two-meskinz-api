@@ -1,0 +1,67 @@
+{
+  "id": 7785979838631,
+  "title": "Brand: Lenox / Part #: LXAH4458",
+  "handle": "ft8530012",
+  "body_html": "<br><strong>Item #: </strong>01152842<br><strong>Brand: </strong>Lenox<br><strong>Model #: </strong>LXAH4458<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Hole Saw Compatibility</strong>\n</td>\n<td>Power Drills</td>\n</tr>\n<tr>\n<td><strong>Saw Diameter (Inch)</strong></td>\n<td>4-5/8</td>\n</tr>\n<tr>\n<td><strong>Saw Material</strong></td>\n<td>Carbide-Tipped</td>\n</tr>\n<tr>\n<td><strong>Cutting Depth (Decimal Inch)</strong></td>\n<td>2.4500</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Style</strong></td>\n<td>Toothed</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Brick; Fiber Cement; Concrete; Nail-Embedded Wood; Clean Wood</td>\n</tr>\n<tr>\n<td><strong>Pitch Pattern</strong></td>\n<td>Constant</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:38:52-06:00",
+  "created_at": "2023-12-29T07:38:52-06:00",
+  "updated_at": "2025-09-22T10:47:36-05:00",
+  "vendor": "Lenox",
+  "product_type": "Saw Blades",
+  "tags": [
+    "Hole Saws & Hole-Cutting Tool Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43706363969703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01152842",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "61.53",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785979838631,
+      "created_at": "2023-12-29T07:38:52-06:00",
+      "updated_at": "2025-09-22T10:47:36-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237692690599,
+      "created_at": "2025-02-03T18:22:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:22:01-06:00",
+      "product_id": 7785979838631,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0115284-21.jpg?v=1738628521",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 61.53,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0115284-21.jpg?v=1738628521",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lenox",
+  "category": "Saw Blades",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

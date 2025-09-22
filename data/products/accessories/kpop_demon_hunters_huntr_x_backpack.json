@@ -1,0 +1,111 @@
+{
+  "id": 8031963643951,
+  "title": "KPop Demon Hunters HUNTR/X Backpack",
+  "handle": "kpop-demon-hunters-huntr-x-backpack",
+  "body_html": "<p>Level up your everyday style with the <em>KPop Demon Hunters</em> HUNTR/X Backpack—a bold, functional must-have for fans who rep their fandom wherever they go. Designed with the sleek HUNTR/X logo and iconic color accents, this backpack blends urban streetwear aesthetics with the high-energy spirit of your favorite demon-slaying Kpop group. </p>\n<ul>\n<li>This water-resistant backpack is perfect for all your daily needs including: a big inner pocket, a separate section for a 15'' laptop, a front pocket, and a hidden pocket at the back.</li>\n<li>Dimensions: H 16\"\" (42cm), W 12¼\" (31cm), D 3\"\" (10cm).</li>\n<li>Made Of: 100% polyester.</li>\n<li>Care: Machine wash cold with like colors and tumble dry low.<br>\n</li>\n</ul>",
+  "published_at": "2025-08-01T11:12:46-04:00",
+  "created_at": "2025-08-01T07:17:25-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Backpacks",
+  "tags": [
+    "81498621",
+    "Accessories",
+    "AOP-Backpack",
+    "backpack",
+    "Backpacks",
+    "Bag",
+    "bags",
+    "bags and wallets",
+    "Huntrix",
+    "KPDH-7-0825",
+    "KPop Demon Hunters",
+    "Mira",
+    "movie_id- 81498621",
+    "Netflix",
+    "Rumi",
+    "Type: Accessories",
+    "Type: Bags",
+    "unisex",
+    "Zoey"
+  ],
+  "variants": [
+    {
+      "id": 44304282124335,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-100633-0001-KPDH-7-0725-HXBAP2",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36812270436399,
+        "product_id": 8031963643951,
+        "position": 1,
+        "created_at": "2025-08-01T10:55:32-04:00",
+        "updated_at": "2025-08-01T10:55:34-04:00",
+        "alt": "KPop Demon Hunters Huntr/x Backpack",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-7-0725-HXBAP2_100633_MF.jpg?v=1754060134",
+        "variant_ids": [
+          44304282124335
+        ]
+      },
+      "available": true,
+      "price": "59.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8031963643951,
+      "created_at": "2025-08-01T07:17:25-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36812270436399,
+      "created_at": "2025-08-01T10:55:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-01T10:55:34-04:00",
+      "product_id": 8031963643951,
+      "variant_ids": [
+        44304282124335
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-7-0725-HXBAP2_100633_MF.jpg?v=1754060134",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36812270469167,
+      "created_at": "2025-08-01T10:55:32-04:00",
+      "position": 2,
+      "updated_at": "2025-08-01T10:55:34-04:00",
+      "product_id": 8031963643951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-7-0725-HXBAP2_100633_LIFE.png?v=1754060134",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 59.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-7-0725-HXBAP2_100633_MF.jpg?v=1754060134",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Backpacks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

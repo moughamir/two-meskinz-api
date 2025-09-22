@@ -1,0 +1,108 @@
+{
+  "id": 8127736905816,
+  "title": "London Fog Chestnut Checkers iPhone XR Case",
+  "handle": "london-fog-chestnut-checkers-eco-friendly-iphone-xr-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Chestnut Checkers Phone Case! 🍂 With its rich chestnut brown and cream checkered pattern, this case perfectly captures the essence of fall. It’s like wrapping your phone in your favorite fall sweater – stylish, warm, and oh-so-inviting. Whether you’re sipping on a pumpkin spice latte or crunching through autumn leaves, this case is the perfect accessory to complement all your fall adventures! 🌰🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:12:10-04:00",
+  "created_at": "2024-09-13T10:29:06-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Chestnut Checkers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263342448728,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:CHESTNUT-CHECKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127736905816,
+      "created_at": "2024-09-13T10:29:06-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615314583640,
+      "created_at": "2024-09-13T10:29:06-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:06-04:00",
+      "product_id": 8127736905816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IPXR_LondonFog.jpg?v=1726237746",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685587853400,
+      "created_at": "2024-09-26T17:13:03-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:13:05-04:00",
+      "product_id": 8127736905816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_02_f08754b0-d924-42cc-a39d-353ddc9f896a.jpg?v=1727385185",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678321516632,
+      "created_at": "2024-09-25T14:31:41-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T14:31:43-04:00",
+      "product_id": 8127736905816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_402718f1-7498-47e4-bdb8-999d74bb08ac.jpg?v=1727289103",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685587820632,
+      "created_at": "2024-09-26T17:13:03-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:13:05-04:00",
+      "product_id": 8127736905816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_ac3e6180-1fa4-4bb1-b3f3-5c40f48eb28a.jpg?v=1727385185",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IPXR_LondonFog.jpg?v=1726237746",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

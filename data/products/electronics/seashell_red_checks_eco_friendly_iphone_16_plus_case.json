@@ -1,0 +1,98 @@
+{
+  "id": 8295454343256,
+  "title": "Seashell Red Checks iPhone 16 Plus Case",
+  "handle": "seashell-red-checks-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—this case is a wild ride for your eyes! <em data-start=\"99\" data-end=\"111\">Red Checks</em> puts a twist on classic harlequin patterns, with bold waves and a dizzying design that feels straight out of a carnival funhouse. It’s bold, retro, and totally unforgettable!<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:09:09-05:00",
+  "created_at": "2025-02-21T13:31:46-05:00",
+  "updated_at": "2025-09-22T15:14:58-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Red Checks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688144048216,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:RED-CHECKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295454343256,
+      "created_at": "2025-02-21T13:31:46-05:00",
+      "updated_at": "2025-09-22T15:14:58-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579775324248,
+      "created_at": "2025-02-21T13:31:46-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:48-05:00",
+      "product_id": 8295454343256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP16PLUS_Seashell.jpg?v=1740162708",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34615798956120,
+      "created_at": "2025-02-28T10:04:16-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T10:04:18-05:00",
+      "product_id": 8295454343256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP1_9a1d7941-5df7-4fe1-9b87-ab210ba11ee2.jpg?v=1740755058",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34615798923352,
+      "created_at": "2025-02-28T10:04:16-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T10:04:17-05:00",
+      "product_id": 8295454343256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP2_41d1b6c3-4888-41a8-b8a3-2aeec14e8f39.jpg?v=1740755057",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP16PLUS_Seashell.jpg?v=1740162708",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

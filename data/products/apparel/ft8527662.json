@@ -1,0 +1,67 @@
+{
+  "id": 7785977512103,
+  "title": "Brand: Kennametal / Part #: 1925148",
+  "handle": "ft8527662",
+  "body_html": "<br><strong>Item #: </strong>06843924<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>1925148<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.6250</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>KC633M</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.0000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter Tolerance</strong></td>\n<td>+0.000/-0.002 in</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>HPRDM</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:37:26-06:00",
+  "created_at": "2023-12-29T07:37:26-06:00",
+  "updated_at": "2025-09-22T10:47:36-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43706352042151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "06843924",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "61.67",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785977512103,
+      "created_at": "2023-12-29T07:37:26-06:00",
+      "updated_at": "2025-09-22T10:47:36-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237690691751,
+      "created_at": "2025-02-03T18:21:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:21:57-06:00",
+      "product_id": 7785977512103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0645849L-81_37194d8c-3db4-4729-95b7-ce0281feb356.jpg?v=1738628517",
+      "width": 250,
+      "height": 68
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 61.67,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0645849L-81_37194d8c-3db4-4729-95b7-ce0281feb356.jpg?v=1738628517",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

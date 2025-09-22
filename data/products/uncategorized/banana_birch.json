@@ -1,0 +1,119 @@
+{
+  "id": 7599928967277,
+  "title": "Banana Birch",
+  "handle": "banana-birch",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">A blend of orchard <strong>fruits</strong> combines with creamy <strong>banana</strong> and rich <strong>woods</strong> to create a scent that feels luxurious and sophisticated in an unexpected way.</p>",
+  "published_at": "2025-02-26T09:20:56-07:00",
+  "created_at": "2025-01-31T13:19:17-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Pura",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42034306252909,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BNAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7599928967277,
+      "created_at": "2025-01-31T13:19:17-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33642495279213,
+      "created_at": "2025-01-31T13:22:16-07:00",
+      "position": 1,
+      "updated_at": "2025-01-31T13:22:22-07:00",
+      "product_id": 7599928967277,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-BananaBirch-Prod1-1224.jpg?v=1738354942",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33642495311981,
+      "created_at": "2025-01-31T13:22:16-07:00",
+      "position": 2,
+      "updated_at": "2025-01-31T13:22:22-07:00",
+      "product_id": 7599928967277,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BirchwoodIngredientsresized-3.jpg?v=1738354942",
+      "width": 3802,
+      "height": 5069
+    },
+    {
+      "id": 33642495344749,
+      "created_at": "2025-01-31T13:22:15-07:00",
+      "position": 3,
+      "updated_at": "2025-01-31T13:22:22-07:00",
+      "product_id": 7599928967277,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BananaBirch-Pura-Prod3-1224.png?v=1738354942",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33642495246445,
+      "created_at": "2025-01-31T13:22:16-07:00",
+      "position": 4,
+      "updated_at": "2025-01-31T13:22:18-07:00",
+      "product_id": 7599928967277,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-BananaBirch-Prod4-1224.jpg?v=1738354938",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-BananaBirch-Prod1-1224.jpg?v=1738354942",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

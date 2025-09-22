@@ -1,0 +1,67 @@
+{
+  "id": 8452595843239,
+  "title": "TIG Welding Rod: 36\" Long, 3/32\" Dia, Steel Alloy",
+  "handle": "66361775",
+  "body_html": "<br><strong>Item #: </strong>13385232<br><strong>Brand: </strong>Lincoln Electric<br><strong>Model #: </strong>ED034344<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Diameter (Inch, Fraction)</strong>\n</td>\n<td>3/32</td>\n</tr>\n<tr> <td> <strong>Length (Inch)</strong>\n</td>\n<td>36</td>\n</tr>\n<tr> <td> <strong>Compatible Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Weight</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel Alloy</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23271810</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:10:57-06:00",
+  "created_at": "2025-01-23T11:10:55-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Lincoln Electric",
+  "product_type": "Welding & Soldering",
+  "tags": [
+    "Welders & Welding Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46498205565095,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13385232",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.17",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452595843239,
+      "created_at": "2025-01-23T11:10:56-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244790337703,
+      "created_at": "2025-02-03T22:47:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:47:35-06:00",
+      "product_id": 8452595843239,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1338523-21.jpg?v=1738644455",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.17,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1338523-21.jpg?v=1738644455",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lincoln Electric",
+  "category": "Welding & Soldering",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

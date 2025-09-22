@@ -1,0 +1,119 @@
+{
+  "id": 8429102268504,
+  "title": "Seashell Petal Burst Google Pixel 9a Case",
+  "handle": "seashell-petal-burst-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:21:38-04:00",
+  "created_at": "2025-07-17T07:09:58-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063794106456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429102268504,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436658851928,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:10:01-04:00",
+      "product_id": 8429102268504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_PX9A_Seashell.jpg?v=1752750601",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581690347608,
+      "created_at": "2025-08-11T14:55:46-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:55:46-04:00",
+      "product_id": 8429102268504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_cb4abf62-d5ef-4b5d-a3ce-b747b2ab3a8e.jpg?v=1754938546",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581690642520,
+      "created_at": "2025-08-11T14:55:47-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:55:47-04:00",
+      "product_id": 8429102268504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_3eaa215d-679f-4bdb-8c61-1146e2aca210.jpg?v=1754938547",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581691199576,
+      "created_at": "2025-08-11T14:55:49-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:55:49-04:00",
+      "product_id": 8429102268504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_9f7391af-d761-4adc-9fd8-72650ca64b93.jpg?v=1754938549",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581691560024,
+      "created_at": "2025-08-11T14:55:51-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:55:51-04:00",
+      "product_id": 8429102268504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_6f4f338c-4227-41dd-9b7b-ea51077c0419.jpg?v=1754938551",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_PX9A_Seashell.jpg?v=1752750601",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

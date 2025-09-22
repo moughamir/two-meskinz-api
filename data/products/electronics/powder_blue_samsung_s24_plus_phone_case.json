@@ -1,0 +1,92 @@
+{
+  "id": 7495943946328,
+  "title": "Powder Blue Samsung S24+(Plus) Phone Case",
+  "handle": "powder-blue-samsung-s24-plus-phone-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-01-17T09:33:11-05:00",
+  "created_at": "2023-12-01T13:08:45-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24+(Plus)",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40802650226776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13828-S24PLUS-POWDERBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7495943946328,
+      "created_at": "2023-12-01T13:08:45-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32010183508056,
+      "created_at": "2023-12-21T11:31:19-05:00",
+      "position": 1,
+      "updated_at": "2023-12-21T11:31:25-05:00",
+      "product_id": 7495943946328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_PLUS_POWDERBLUE_BACK.jpg?v=1703176285",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010183573592,
+      "created_at": "2023-12-21T11:31:19-05:00",
+      "position": 2,
+      "updated_at": "2023-12-21T11:31:25-05:00",
+      "product_id": 7495943946328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_PLUS_POWDERBLUE_BACK_45L.jpg?v=1703176285",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010183540824,
+      "created_at": "2023-12-21T11:31:19-05:00",
+      "position": 3,
+      "updated_at": "2023-12-21T11:31:25-05:00",
+      "product_id": 7495943946328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_PLUS_POWDERBLUE_BACK_45R.jpg?v=1703176285",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_PLUS_POWDERBLUE_BACK.jpg?v=1703176285",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786221797543,
+  "title": "Brand: Safco / Part #: SAF3170BL",
+  "handle": "wk512029199",
+  "body_html": "<br><strong>Item #: </strong>09211772<br><strong>Brand: </strong>Safco<br><strong>Model #: </strong>SAF3170BL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Folder Type</strong>\n</td>\n<td>Expandable Single Pocket</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Index Tabs</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>File Size</strong></td>\n<td>Letter</td>\n</tr>\n<tr>\n<td><strong>Hanging</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T14:44:17-06:00",
+  "created_at": "2023-12-29T14:44:17-06:00",
+  "updated_at": "2025-09-22T10:53:55-05:00",
+  "vendor": "Safco",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Office Supplies"
+  ],
+  "variants": [
+    {
+      "id": 43707262435495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09211772",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "46.33",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786221797543,
+      "created_at": "2023-12-29T14:44:17-06:00",
+      "updated_at": "2025-09-22T10:53:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238112284839,
+      "created_at": "2025-02-03T18:36:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:36:40-06:00",
+      "product_id": 7786221797543,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0921177-21.jpg?v=1738629400",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0921177-21.jpg?v=1738629400",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Safco",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

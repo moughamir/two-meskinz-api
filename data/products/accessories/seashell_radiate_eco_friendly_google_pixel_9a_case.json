@@ -1,0 +1,108 @@
+{
+  "id": 8310735077464,
+  "title": "Seashell Radiate Google Pixel 9a Case",
+  "handle": "seashell-radiate-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p>Add a touch of elegance to your phone with our Seashell Radiate case! Featuring a beautiful pink floral design, this case will radiate your feminine style while keeping your phone protected. Stand out from the crowd with this unique case.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T09:30:17-04:00",
+  "created_at": "2025-03-11T12:32:05-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Radiate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726127075416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:RADIATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310735077464,
+      "created_at": "2025-03-11T12:32:05-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671287173208,
+      "created_at": "2025-03-11T12:32:05-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:07-04:00",
+      "product_id": 8310735077464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_PX9A_Seashell.jpg?v=1741710727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676857405528,
+      "created_at": "2025-03-12T10:35:42-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T10:35:44-04:00",
+      "product_id": 8310735077464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-07_4c11b7b8-cc65-4900-bbeb-dd4fda751ca6.jpg?v=1741790144",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676857339992,
+      "created_at": "2025-03-12T10:35:42-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T10:35:44-04:00",
+      "product_id": 8310735077464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-06_da25818f-90ca-4249-91b5-25ed96d6c9ac.jpg?v=1741790144",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676857372760,
+      "created_at": "2025-03-12T10:35:42-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T10:35:44-04:00",
+      "product_id": 8310735077464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_SEASHELL-05_0a04d1a2-0f82-4ddd-9532-3ad06079f681.jpg?v=1741790144",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RADIATE_PX9A_Seashell.jpg?v=1741710727",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

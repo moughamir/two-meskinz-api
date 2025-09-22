@@ -1,0 +1,67 @@
+{
+  "id": 8451929899175,
+  "title": "Brand: PRO-SAFE / Part #: KM-SC-SS-MED-BL",
+  "handle": "98887813",
+  "body_html": "<br><strong>Item #: </strong>73705915<br><strong>Brand: </strong>PRO-SAFE<br><strong>Model #: </strong>KM-SC-SS-MED-BL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cover Type</strong>\n</td>\n<td>Shoe Cover</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Poly Laminated Polypropylene with EVA Coating</td>\n</tr>\n<tr>\n<td><strong>Resistance Features</strong></td>\n<td>Chemical-Resistant</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Large</td>\n</tr>\n<tr>\n<td><strong>Sole Type</strong></td>\n<td>Non-Skid</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Elastic</td>\n</tr>\n<tr>\n<td><strong>ISO Class</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>6532</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T10:17:27-06:00",
+  "created_at": "2025-01-22T10:17:26-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "PRO-SAFE",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46494539055271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "73705915",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451929899175,
+      "created_at": "2025-01-22T10:17:26-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38113694679207,
+      "created_at": "2025-01-22T10:17:37-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T10:17:39-06:00",
+      "product_id": 8451929899175,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7370591-24_4d6577f3-8b0a-490a-944e-9d14131142de.jpg?v=1737562659",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7370591-24_4d6577f3-8b0a-490a-944e-9d14131142de.jpg?v=1737562659",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PRO-SAFE",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

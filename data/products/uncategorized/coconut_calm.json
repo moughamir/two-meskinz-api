@@ -1,0 +1,120 @@
+{
+  "id": 7051705647213,
+  "title": "Coconut Calm",
+  "handle": "coconut-calm",
+  "body_html": "<p>Welcome endless summer sensations with cool <strong>ocean</strong> breezes, dreamy island <strong>coconut</strong>, and sensuous <strong>vanilla bourbon</strong>.</p>",
+  "published_at": "2023-08-14T19:50:03-06:00",
+  "created_at": "2023-08-09T16:19:16-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Becki Owens",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Becki Owens",
+    "collection:Best Sellers",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Fresh",
+    "Scent Type_Gourmand",
+    "Strength_Subtle",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_coconutcalm"
+  ],
+  "variants": [
+    {
+      "id": 40702258184301,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MZXH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705647213,
+      "created_at": "2023-08-09T16:19:16-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31117956612205,
+      "created_at": "2024-01-30T12:42:40-07:00",
+      "position": 1,
+      "updated_at": "2024-01-30T12:42:53-07:00",
+      "product_id": 7051705647213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-CoconutCalm-Vertical-Resized.jpg?v=1706643773",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31117956513901,
+      "created_at": "2024-01-30T12:42:40-07:00",
+      "position": 2,
+      "updated_at": "2024-01-30T12:42:53-07:00",
+      "product_id": 7051705647213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/coconut-2-resized_88f8a66a-f05b-4329-9d38-475e9cc9aa1e.jpg?v=1706643773",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345274851437,
+      "created_at": "2023-08-13T12:30:35-06:00",
+      "position": 3,
+      "updated_at": "2024-01-30T12:42:53-07:00",
+      "product_id": 7051705647213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Becki-Owens-Coconut-Calm-Device-V4.jpg?v=1706643773",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31117956710509,
+      "created_at": "2024-01-30T12:42:40-07:00",
+      "position": 4,
+      "updated_at": "2024-01-30T12:42:53-07:00",
+      "product_id": 7051705647213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-CoconutCalm-Overhead-Shadow-Resized.jpg?v=1706643773",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-CoconutCalm-Vertical-Resized.jpg?v=1706643773",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Becki Owens",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

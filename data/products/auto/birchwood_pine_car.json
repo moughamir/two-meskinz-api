@@ -1,0 +1,110 @@
+{
+  "id": 7117445169261,
+  "title": "Birchwood Pine",
+  "handle": "birchwood-pine-car",
+  "body_html": "<p><strong>Fir balsam</strong>, <strong>white pine,</strong> and cooling <strong>birchwood</strong> blend with <strong>amber</strong> and <strong>musk</strong> to give you the refreshing feeling of driving through a white, wintry forest.</p>",
+  "published_at": "2023-11-27T09:33:46-07:00",
+  "created_at": "2023-10-24T13:23:43-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "collectionfilter_Woodsy",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances",
+    "YGroup_birchwoodpinecar"
+  ],
+  "variants": [
+    {
+      "id": 40785579966573,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "AJVC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7117445169261,
+      "created_at": "2023-10-24T13:23:43-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31052941688941,
+      "created_at": "2024-01-18T14:42:11-07:00",
+      "position": 1,
+      "updated_at": "2024-01-18T14:42:16-07:00",
+      "product_id": 7117445169261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestbirchwoodpine-resized.jpg?v=1705614136",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30594904719469,
+      "created_at": "2023-10-24T13:26:33-06:00",
+      "position": 2,
+      "updated_at": "2024-01-18T14:42:16-07:00",
+      "product_id": 7117445169261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pine-srqresized.jpg?v=1705614136",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": 30594904850541,
+      "created_at": "2023-10-24T13:26:33-06:00",
+      "position": 3,
+      "updated_at": "2024-01-18T14:42:16-07:00",
+      "product_id": 7117445169261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BirchwoodPine-Car-Nest-Prod3-2023-10.png?v=1705614136",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30594904817773,
+      "created_at": "2023-10-24T13:26:33-06:00",
+      "position": 4,
+      "updated_at": "2024-01-18T14:42:16-07:00",
+      "product_id": 7117445169261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestbirchwoodpine-resized-4.jpg?v=1705614136",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestbirchwoodpine-resized.jpg?v=1705614136",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

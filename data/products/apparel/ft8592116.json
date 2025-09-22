@@ -1,0 +1,67 @@
+{
+  "id": 7785942024359,
+  "title": "Brand: Estwing / Part #: EB-19S",
+  "handle": "ft8592116",
+  "body_html": "<br><strong>Item #: </strong>44688992<br><strong>Brand: </strong>Estwing<br><strong>Model #: </strong>EB-19S<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Claw Style</strong>\n</td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Head Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Face Surface</strong></td>\n<td>Smooth</td>\n</tr>\n<tr>\n<td><strong>Handle Color</strong></td>\n<td>Blue</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Smooth or Milled Face; Comfort And Durability; Black Shock Reduction Grip</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:11:58-06:00",
+  "created_at": "2023-12-29T07:11:58-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Estwing",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Hammers; Striking & Demolition Tools"
+  ],
+  "variants": [
+    {
+      "id": 43706097238183,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "44688992",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "62.66",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785942024359,
+      "created_at": "2023-12-29T07:11:58-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237666869415,
+      "created_at": "2025-02-03T18:21:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:21:06-06:00",
+      "product_id": 7785942024359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4468902AA-21_a2456ecc-d38c-4183-ac09-a21a315ba4b9.jpg?v=1738628466",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 62.66,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4468902AA-21_a2456ecc-d38c-4183-ac09-a21a315ba4b9.jpg?v=1738628466",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Estwing",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

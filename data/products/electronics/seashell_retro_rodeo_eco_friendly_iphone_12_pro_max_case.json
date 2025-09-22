@@ -1,0 +1,108 @@
+{
+  "id": 8307894779992,
+  "title": "Seashell Retro Rodeo iPhone 12 Pro Max Case",
+  "handle": "seashell-retro-rodeo-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Yeehaw, but make it vintage! <em data-start=\"70\" data-end=\"83\">Retro Rodeo Phone Case</em> is a wild mix of western flair and throwback charm, featuring doodled cowboy boots, hats, cacti, sunbursts, cherries, and some seriously stylish cows. Whether you’re two-stepping at a honky-tonk or just adding a little country cool to your everyday, this case brings bold colors and rodeo-ready vibes straight to your phone.<meta charset=\"utf-8\">🌵<meta charset=\"utf-8\">🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-03T09:12:34-04:00",
+  "created_at": "2025-03-07T11:11:00-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Retro Rodeo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718292738136,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16539-IP12PMAX-SEASHELL-AOD:RETRO-RODEO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307894779992,
+      "created_at": "2025-03-07T11:11:00-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655144509528,
+      "created_at": "2025-03-07T11:11:00-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T11:11:02-05:00",
+      "product_id": 8307894779992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-RODEO_IP12PMAX_Seashell.jpg?v=1741363862",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34769262968920,
+      "created_at": "2025-03-31T12:20:03-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T12:20:09-04:00",
+      "product_id": 8307894779992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RetroRodeo_PDP_02_cffdf23b-ef80-4d5e-955f-6255c562586b.jpg?v=1743438009",
+      "width": 3960,
+      "height": 4950
+    },
+    {
+      "id": 34769262936152,
+      "created_at": "2025-03-31T12:20:03-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T12:20:09-04:00",
+      "product_id": 8307894779992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RetroRodeo_PDP_03_b8ed44f2-3f00-44d7-9b25-5db176988e81.jpg?v=1743438009",
+      "width": 3960,
+      "height": 4950
+    },
+    {
+      "id": 34769263001688,
+      "created_at": "2025-03-31T12:20:03-04:00",
+      "position": 4,
+      "updated_at": "2025-03-31T12:20:09-04:00",
+      "product_id": 8307894779992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RetroRodeo_PDP_01_fdbb035a-785d-4624-b388-82eb934d28e0.jpg?v=1743438009",
+      "width": 4262,
+      "height": 5327
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-RODEO_IP12PMAX_Seashell.jpg?v=1741363862",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

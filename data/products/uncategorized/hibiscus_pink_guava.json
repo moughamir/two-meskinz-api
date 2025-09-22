@@ -1,0 +1,116 @@
+{
+  "id": 7628521373805,
+  "title": "Hibiscus & Pink Guava",
+  "handle": "hibiscus-pink-guava",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">A tropical breeze of sun-ripened <strong>pineapple</strong> and <strong>passion fruit </strong>swirls with blooming <strong>hibiscus</strong>, <strong>pink guava</strong>, and juicy island nectars.<br></p>",
+  "published_at": "2025-04-23T07:21:51-06:00",
+  "created_at": "2025-03-27T15:40:57-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Anthropologie",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 42284802179181,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GSYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7628521373805,
+      "created_at": "2025-03-27T15:40:58-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33993298837613,
+      "created_at": "2025-03-27T15:45:04-06:00",
+      "position": 1,
+      "updated_at": "2025-03-27T15:45:06-06:00",
+      "product_id": 7628521373805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthro-HibiscusPinkGuava-Prod1-0325.jpg?v=1743111906",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33993298903149,
+      "created_at": "2025-03-27T15:45:04-06:00",
+      "position": 2,
+      "updated_at": "2025-03-27T15:45:36-06:00",
+      "product_id": 7628521373805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Guava-Ingredients-HighRes-0325.jpg?v=1743111936",
+      "width": 3732,
+      "height": 4976
+    },
+    {
+      "id": 33993300639853,
+      "created_at": "2025-03-27T15:45:25-06:00",
+      "position": 3,
+      "updated_at": "2025-03-27T15:45:36-06:00",
+      "product_id": 7628521373805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HibiscusandPinkGuava-Anthropologie-Prod3-0325-1.png?v=1743111936",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33993298870381,
+      "created_at": "2025-03-27T15:45:04-06:00",
+      "position": 4,
+      "updated_at": "2025-03-27T15:45:36-06:00",
+      "product_id": 7628521373805,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthro-HibiscusPinkGuava-Prod3-0325.jpg?v=1743111936",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthro-HibiscusPinkGuava-Prod1-0325.jpg?v=1743111906",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

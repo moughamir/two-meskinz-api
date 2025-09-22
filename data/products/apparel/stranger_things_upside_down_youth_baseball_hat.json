@@ -1,0 +1,114 @@
+{
+  "id": 7967676694575,
+  "title": "Stranger Things Upside Down Youth Baseball Hat",
+  "handle": "stranger-things-upside-down-youth-baseball-hat",
+  "body_html": "<p>Ready for anything... even the Upside Down? This cool youth baseball cap features a subtle nod to the eerie alternate dimension of <em>Stranger Things</em>. With a stylish design and comfortable fit, it's perfect for shielding their eyes from the sun while showcasing their fandom. A great accessory for any young adventurer, just be sure to keep an eye out for Demogorgons!                  G</p><ul>\n<li>Made of: 100% bio-washed chino cotton twill</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable self-fabric hideaway strap closure</li>\n<li>Measurements: Head circumference: 21\"\"21.57\" (53.3 cm\"54.8 cm)</li>\n</ul>",
+  "published_at": "2025-05-02T11:49:22-04:00",
+  "created_at": "2025-05-02T11:22:02-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "Accessories",
+    "Dad Hat",
+    "Hats",
+    "Hawkins High",
+    "Kid's",
+    "Kids and Babies",
+    "Kids and Children",
+    "kids and family",
+    "Men",
+    "New",
+    "series_id-80057281",
+    "Shop All",
+    "Stranger Things",
+    "VVC300Y",
+    "Women"
+  ],
+  "variants": [
+    {
+      "id": 43800384602159,
+      "title": "Black / One Size",
+      "option1": "Black",
+      "option2": "One Size",
+      "option3": null,
+      "sku": "ST-100929-0001-ST-UPDWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36006233079855,
+        "product_id": 7967676694575,
+        "position": 1,
+        "created_at": "2025-05-02T11:22:13-04:00",
+        "updated_at": "2025-05-02T11:22:15-04:00",
+        "alt": "Stranger Things Upside Down Youth Baseball Hat Black",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UPDWN_ST-BK-0525_101629_FT_MF.png?v=1746199335",
+        "variant_ids": [
+          43800384602159
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7967676694575,
+      "created_at": "2025-05-02T11:22:02-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36006233079855,
+      "created_at": "2025-05-02T11:22:13-04:00",
+      "position": 1,
+      "updated_at": "2025-05-02T11:22:15-04:00",
+      "product_id": 7967676694575,
+      "variant_ids": [
+        43800384602159
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UPDWN_ST-BK-0525_101629_FT_MF.png?v=1746199335",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36006233047087,
+      "created_at": "2025-05-02T11:22:14-04:00",
+      "position": 2,
+      "updated_at": "2025-05-02T11:22:15-04:00",
+      "product_id": 7967676694575,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UPDWN_ST-BK-0525_101629_LIFE3.png?v=1746199335",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-UPDWN_ST-BK-0525_101629_FT_MF.png?v=1746199335",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

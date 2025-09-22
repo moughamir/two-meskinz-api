@@ -1,0 +1,108 @@
+{
+  "id": 8164304814168,
+  "title": "Seashell Jolly Doggos iPhone 11 Pro Case",
+  "handle": "seashell-jolly-doggos-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Get ready to fetch some holiday joy with our Jolly Doggos Phone Case! Featuring a pack of playful pups decked out in their coziest holiday sweaters, this case is barking with festive fun. From wagging tails to reindeer ears, these adorable doggos are here to spread cheer while keeping your phone protected. Made with eco-friendly materials that are as kind to the planet as a puppy’s love, this case is a perfect gift for you <i>and</i> the Earth. Keep your phone safe in paws-itively cute style this season! 🐶🎁✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:08:35-04:00",
+  "created_at": "2024-10-21T14:06:05-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jolly Doggos",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345454174296,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:JOLLY-DOGGOS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164304814168,
+      "created_at": "2024-10-21T14:06:06-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832581005400,
+      "created_at": "2024-10-21T14:06:06-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:06:08-04:00",
+      "product_id": 8164304814168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP11P_Seashell.jpg?v=1729533968",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880338727000,
+      "created_at": "2024-10-28T14:25:50-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:25:51-04:00",
+      "product_id": 8164304814168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP2_fa5d9377-7dd2-4908-a25d-dc8641cfbfbc.jpg?v=1730139951",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880338464856,
+      "created_at": "2024-10-28T14:25:50-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:25:51-04:00",
+      "product_id": 8164304814168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP1_e72c4f89-57bd-48f9-8cea-099816a979d5.jpg?v=1730139951",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880338563160,
+      "created_at": "2024-10-28T14:25:50-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:25:51-04:00",
+      "product_id": 8164304814168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP3_45b210b4-ffe7-42be-897b-066f5fba550a.jpg?v=1730139951",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP11P_Seashell.jpg?v=1729533968",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 6805429846218,
+  "title": "Gymshark Sharkhead Beanie - Denim Teal",
+  "handle": "gymshark-sharkhead-beanie-denim-teal-aw23",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">YOU CAN LEAVE YOUR HAT ON</strong></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Strip your style back to basics in this beanie. An easy match for whatever you get up to, this insulating knit keeps you warm whether you’re running or repping in the streets.</p>\n<p data-mce-fragment=\"1\"> </p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- Embroidered Sharkhead logo<br data-mce-fragment=\"1\">- Thick cuff<br data-mce-fragment=\"1\">- 60% Polyester, 40% Acrylic<br data-mce-fragment=\"1\">- SKU: I2A1P-TBJ1</p>",
+  "published_at": "2023-08-04T08:43:32-07:00",
+  "created_at": "2023-07-31T03:07:22-07:00",
+  "updated_at": "2025-09-22T08:46:14-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "20EXTRA",
+    "31/07/23",
+    "Accessories",
+    "activity: rest day",
+    "algolia",
+    "all-products",
+    "AW23",
+    "beanies",
+    "bf-23",
+    "bfcm24",
+    "category:Headwear",
+    "created_by:product-service",
+    "filter-colour: Blue",
+    "hats",
+    "headwear",
+    "no-returns:2024-06-27T08:00:00_2024-07-08T08:00:00",
+    "not-cyber-deals",
+    "percentageInStockV2",
+    "range:Sharkhead",
+    "rest-day",
+    "spanish-dg",
+    "spanish-done",
+    "subcategory:Beanie",
+    "Teal",
+    "test",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39789869727946,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1P-TBJ1-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805429846218,
+      "created_at": "2023-07-31T03:07:22-07:00",
+      "updated_at": "2025-09-22T08:46:14-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28975656730826,
+      "created_at": "2023-08-04T08:00:00-07:00",
+      "position": 1,
+      "updated_at": "2023-08-04T08:00:01-07:00",
+      "product_id": 6805429846218,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBeanie-GSDenimTeal-I2A1P-TBJ1-0110.jpg?v=1691161201",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28975655911626,
+      "created_at": "2023-08-04T08:00:00-07:00",
+      "position": 2,
+      "updated_at": "2023-08-04T08:00:01-07:00",
+      "product_id": 6805429846218,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBeanie-GSDenimTeal-I2A1P-TBJ1-0113.jpg?v=1691161201",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28975656599754,
+      "created_at": "2023-08-04T08:00:00-07:00",
+      "position": 3,
+      "updated_at": "2023-08-04T08:00:01-07:00",
+      "product_id": 6805429846218,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBeanie-GSDenimTeal-I2A1P-TBJ1-0904.jpg?v=1691161201",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28975656108234,
+      "created_at": "2023-08-04T08:00:00-07:00",
+      "position": 4,
+      "updated_at": "2023-08-04T08:00:01-07:00",
+      "product_id": 6805429846218,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBeanie-GSDenimTeal-I2A1P-TBJ1-0914.jpg?v=1691161201",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBeanie-GSDenimTeal-I2A1P-TBJ1-0110.jpg?v=1691161201",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

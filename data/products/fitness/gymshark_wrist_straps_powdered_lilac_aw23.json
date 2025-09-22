@@ -1,0 +1,105 @@
+{
+  "id": 6805321810122,
+  "title": "Gymshark Wrist Straps - Powdered Lilac",
+  "handle": "gymshark-wrist-straps-powdered-lilac-aw23",
+  "body_html": "<p><strong>GET A GRIP</strong></p>\n<p><br data-mce-fragment=\"1\">Strong grip, stronger lifts. Get the extra support we all need from time-to-time with these Wrist Straps.</p>\n<p><br data-mce-fragment=\"1\">• Elasticated thumbholes keep the straps in place<br data-mce-fragment=\"1\">• High-stretch fabric for unrestricted movement<br data-mce-fragment=\"1\">• Customise your fit thanks to a velcro fastening<br data-mce-fragment=\"1\">• One pair per pack</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• One size fits all</p>\n<p><meta charset=\"utf-8\"><span>• 19.1 in x 3.5 in</span></p>\n<p> </p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• 54% Polyester 46% Latex</p>\n<p><br data-mce-fragment=\"1\">SKU: I1A3Y-PBRQ</p>",
+  "published_at": "2023-07-26T07:45:49-07:00",
+  "created_at": "2023-06-21T07:42:08-07:00",
+  "updated_at": "2025-09-22T08:46:17-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Lifting",
+    "akeneo_updated_at:1746116804",
+    "akeneo_updated_at:1752486503",
+    "all-products",
+    "build-your-wishlist",
+    "category:Equipment",
+    "created_by:product-service",
+    "division:Accessories",
+    "equipment",
+    "filter-colour:Purple",
+    "lifting-straps",
+    "lower-bucket",
+    "Mens",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Lifting Goods",
+    "seamtype:Accessories",
+    "season:AW23",
+    "segmentation:Lifting",
+    "stocking-fillers",
+    "subcategory:Lifting",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39789147750602,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A3Y-PBRQ-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805321810122,
+      "created_at": "2023-06-21T07:42:08-07:00",
+      "updated_at": "2025-09-22T08:46:17-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28975513075914,
+      "created_at": "2023-07-23T03:22:35-07:00",
+      "position": 1,
+      "updated_at": "2023-07-23T03:22:36-07:00",
+      "product_id": 6805321810122,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/WristStraps-GSPowderedLilac-I1A3Y-PBRQ-0337_c3334dd5-6127-4b27-8003-9ff1883e3bd7.jpg?v=1690107756",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28975512977610,
+      "created_at": "2023-07-23T03:22:35-07:00",
+      "position": 2,
+      "updated_at": "2023-07-23T03:22:36-07:00",
+      "product_id": 6805321810122,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/WristStraps-GSPowderedLilac-I1A3Y-PBRQ-0336_346efdde-efd9-45c0-b652-3c15760031f7.jpg?v=1690107756",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/WristStraps-GSPowderedLilac-I1A3Y-PBRQ-0337_c3334dd5-6127-4b27-8003-9ff1883e3bd7.jpg?v=1690107756",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 7422009049176,
+  "title": "Lavender Daisy Google Pixel 8 Case",
+  "handle": "lavender-daisy-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Add a blooming touch to your phone with our sustainable and compostable Lavender Daisy Phone Case. Not only is it stylish with its beautifully designed daisy print, but it's also durable for long-lasting protection. Go green and stay trendy with this flower-inspired case. <meta charset=\"utf-8\"><span>🌼💜🌿</span></p>",
+  "published_at": "2023-10-04T14:12:21-04:00",
+  "created_at": "2023-09-21T12:50:12-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Summer Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Daisy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40593150050392,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14947-PX8-LAV-AOD:DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7422009049176,
+      "created_at": "2023-09-21T12:50:13-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31777430306904,
+      "created_at": "2023-09-21T12:50:13-04:00",
+      "position": 1,
+      "updated_at": "2023-09-21T12:50:13-04:00",
+      "product_id": 7422009049176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_PX8_Lavender.jpg?v=1695315013",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800553832536,
+      "created_at": "2023-10-03T13:48:46-04:00",
+      "position": 2,
+      "updated_at": "2023-10-03T13:48:47-04:00",
+      "product_id": 7422009049176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife3_e3fcd012-a895-4530-ab81-ff91f334bd81.jpg?v=1696355327",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 31800553799768,
+      "created_at": "2023-10-03T13:48:46-04:00",
+      "position": 3,
+      "updated_at": "2023-10-03T13:48:47-04:00",
+      "product_id": 7422009049176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0591.jpg?v=1696355327",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_PX8_Lavender.jpg?v=1695315013",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

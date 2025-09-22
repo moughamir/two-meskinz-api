@@ -1,0 +1,98 @@
+{
+  "id": 8397879902296,
+  "title": "Seashell Pencil Doodles iPhone 13 Case",
+  "handle": "seashell-pencil-doodles-eco-friendly-iphone-13-case",
+  "body_html": "<p data-start=\"0\" data-end=\"242\">Meet the Pencil Doodles Phone Case—your phone’s ticket to recess all day long! 🍓🧡✏️ Like a notebook sketch come to life, this playful case features smiley fruits and colorful designs that feel straight out of your childhood pencil case.</p>\n<p data-start=\"244\" data-end=\"564\" data-is-last-node=\"\" data-is-only-node=\"\">With cheerful doodles of strawberries, cherries, oranges, grapes, and blueberries, plus fun shapes like hearts, stars, and flowers, this case is bursting with character.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:26:49-04:00",
+  "created_at": "2025-06-10T10:31:32-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Pencil Doodles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939088306264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:PENCIL-DOODLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397879902296,
+      "created_at": "2025-06-10T10:31:32-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200258244696,
+      "created_at": "2025-06-10T10:31:32-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:34-04:00",
+      "product_id": 8397879902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PENCIL-DOODLES_IP13_Seashell.jpg?v=1749565894",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288767135832,
+      "created_at": "2025-06-24T14:42:08-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:42:08-04:00",
+      "product_id": 8397879902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1870bdb84f0a4821444c87ca0d13d780_38f8a417-dd41-4140-916a-09ba727ff9bb.jpg?v=1750790528",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288767529048,
+      "created_at": "2025-06-24T14:42:10-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:42:10-04:00",
+      "product_id": 8397879902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/91ed9025f76b9c2743c879eeafef4987_820611f0-0f4b-4161-b908-ea4df87dfb13.jpg?v=1750790530",
+      "width": 4375,
+      "height": 4375
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PENCIL-DOODLES_IP13_Seashell.jpg?v=1749565894",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

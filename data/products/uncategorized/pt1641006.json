@@ -1,0 +1,68 @@
+{
+  "id": 5337258885287,
+  "title": "CNMX553HB TT8115",
+  "handle": "pt1641006",
+  "body_html": "<br><strong>Item #: </strong>IC065520746<br><strong>Brand: </strong>Ingersoll<br><strong>Model #: </strong>5520746<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Insert Style</strong></td>\n<td>CNMX </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Insert Size</strong></td>\n<td>553 </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Carbide </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:09:14-06:00",
+  "created_at": "2020-06-15T16:53:21-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Ingersoll",
+  "product_type": "Turning",
+  "tags": [
+    "Drilling",
+    "External Turning"
+  ],
+  "variants": [
+    {
+      "id": 34734175453351,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "IC065520746",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.94",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337258885287,
+      "created_at": "2020-06-15T16:53:21-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143984304295,
+      "created_at": "2025-01-23T22:09:25-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:09:27-06:00",
+      "product_id": 5337258885287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ing_cnmx_hb_87be.jpg?v=1737691767",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 25.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ing_cnmx_hb_87be.jpg?v=1737691767",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

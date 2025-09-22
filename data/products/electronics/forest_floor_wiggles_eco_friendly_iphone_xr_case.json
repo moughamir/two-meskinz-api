@@ -1,0 +1,97 @@
+{
+  "id": 8419719872600,
+  "title": "Forest Floor Wiggles iPhone XR Case",
+  "handle": "forest-floor-wiggles-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get your groove on with the Wiggles Phone Case. This bold, abstract design features curvy sage green lines on an earthy olive backdrop—like a modern art dance party for your phone. It's playful, it's funky, and it's got that “don’t take life too seriously” energy. Made for creatives, free spirits, and anyone who loves a little squiggle with their sustainability. 💚📱✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:33:42-04:00",
+  "created_at": "2025-07-03T14:10:58-04:00",
+  "updated_at": "2025-09-22T15:13:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Wiggles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033215631448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13186-IPXR-FOREST-AOD:WIGGLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419719872600,
+      "created_at": "2025-07-03T14:10:58-04:00",
+      "updated_at": "2025-09-22T15:13:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354046234712,
+      "created_at": "2025-07-03T14:10:58-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:00-04:00",
+      "product_id": 8419719872600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WIGGLES_IPXR_ForestFloor.jpg?v=1751566260",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547500576856,
+      "created_at": "2025-08-05T10:08:38-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:08:38-04:00",
+      "product_id": 8419719872600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/fd1f5e258d41bdaa6b871831d2ceffd9_0c77938b-a234-4d56-a80e-5e45fe8c9990.jpg?v=1754402918",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547501363288,
+      "created_at": "2025-08-05T10:08:40-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:08:40-04:00",
+      "product_id": 8419719872600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/94ac61dc1116e8afe233bc604d1624bc_6102f67b-57f3-42c0-9ae9-690b14f94781.jpg?v=1754402920",
+      "width": 4178,
+      "height": 4178
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WIGGLES_IPXR_ForestFloor.jpg?v=1751566260",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

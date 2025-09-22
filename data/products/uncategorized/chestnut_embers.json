@@ -1,0 +1,111 @@
+{
+  "id": 7057326768237,
+  "title": "Chestnut Embers",
+  "handle": "chestnut-embers",
+  "body_html": "<p>This scent embodies the classic idea of chestnuts roasting on an open fire. Bitter <strong>orange</strong> and charred <strong>chestnut</strong> mingle with roasted <strong>tonka</strong> bean and ember <strong>musk</strong>, creating a fragrance that’s equally alluring and nostalgic.</p>",
+  "published_at": "2023-08-31T08:09:01-06:00",
+  "created_at": "2023-08-16T10:06:28-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart19",
+    "type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40706261942381,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CNEH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7057326768237,
+      "created_at": "2023-08-16T10:06:29-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30360924618861,
+      "created_at": "2023-08-16T10:09:07-06:00",
+      "position": 1,
+      "updated_at": "2023-08-16T10:09:27-06:00",
+      "product_id": 7057326768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ChesnutEmbersprod1jpg.jpg?v=1692202167",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "id": 30360924684397,
+      "created_at": "2023-08-16T10:09:07-06:00",
+      "position": 2,
+      "updated_at": "2023-08-16T10:09:27-06:00",
+      "product_id": 7057326768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cedarwood-ingredients-3_23413aad-2199-4c75-bbd9-690991496fa0.jpg?v=1692202167",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30360924717165,
+      "created_at": "2023-08-16T10:09:07-06:00",
+      "position": 3,
+      "updated_at": "2023-08-16T10:09:27-06:00",
+      "product_id": 7057326768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/chesnut-embers-prod-3.jpg?v=1692202167",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30360924782701,
+      "created_at": "2023-08-16T10:09:07-06:00",
+      "position": 4,
+      "updated_at": "2023-08-16T10:09:27-06:00",
+      "product_id": 7057326768237,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ChesnutEmbersprod4.jpg?v=1692202167",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ChesnutEmbersprod1jpg.jpg?v=1692202167",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

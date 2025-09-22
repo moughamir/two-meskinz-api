@@ -1,0 +1,93 @@
+{
+  "id": 7873590296623,
+  "title": "Dark Winds Logo Enamel Mug",
+  "handle": "dark-winds-logo-enamel-mug",
+  "body_html": "     <ul>\n<li>Made of: Metal with an enamel layer and sublimation coating</li>\n<li>Dimensions: height 3.14? (8 cm), diameter 3.25? (8.5 cm)</li>\n<li>Care: Hand-wash only</li>\n</ul>",
+  "published_at": "2025-01-16T15:07:02-05:00",
+  "created_at": "2024-11-20T13:58:49-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful",
+  "product_type": "Mugs",
+  "tags": [
+    "AMC",
+    "Dark Winds",
+    "Drinking Glasses",
+    "drinkware",
+    "Mug",
+    "Mugs",
+    "Promo Eligible Collection",
+    "unisex",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43415879876655,
+      "title": "White / 12 oz",
+      "option1": "White",
+      "option2": "12 oz",
+      "option3": null,
+      "sku": "DRKW-100387-0001-DW-LOGO14",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7873590296623,
+      "created_at": "2024-11-20T13:58:49-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35351211868207,
+      "created_at": "2025-01-16T19:09:54-05:00",
+      "position": 1,
+      "updated_at": "2025-01-16T19:09:55-05:00",
+      "product_id": 7873590296623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_12.png?v=1737072595",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351211900975,
+      "created_at": "2025-01-16T19:09:54-05:00",
+      "position": 2,
+      "updated_at": "2025-01-16T19:09:55-05:00",
+      "product_id": 7873590296623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_13.png?v=1737072595",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "12 oz"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_12.png?v=1737072595",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

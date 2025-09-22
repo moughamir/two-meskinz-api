@@ -1,0 +1,110 @@
+{
+  "id": 7866480132143,
+  "title": "Outer Banks OBX Rainbow Two-tone Mug",
+  "handle": "outer-banks-obx-rainbow-two-tone-mug",
+  "body_html": "<p>Brighten your day with the Outer Banks <em>OBX</em> Rainbow Two-tone Mug! This cheerful cup captures the vibrant spirit of summer adventures and coastal sunsets, making it the perfect companion for your morning coffee or afternoon iced tea. Whether you're daydreaming about beach days or reminiscing about wild escapades with friends, each sip will transport you to the stunning shores of the Outer Banks. So grab your mug, embrace the good vibes, and let the adventure begin!</p>\n<ul>\n<li>Made of: Ceramic</li>\n<li>Colored rim, inside, and handle</li>\n<li>Care: Dishwasher and microwave safe</li>\n</ul>",
+  "published_at": "2024-11-13T14:24:33-05:00",
+  "created_at": "2024-11-12T04:06:53-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "80236318",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "new",
+    "NFX-27-1024",
+    "Outer Banks",
+    "Promo Eligible Collection",
+    "unisex",
+    "White Ceramic Mug with Color Inside"
+  ],
+  "variants": [
+    {
+      "id": 43365420433455,
+      "title": "Yellow / 11 oz",
+      "option1": "Yellow",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "OB-101009-0006-OB-RNBW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34968522260527,
+        "product_id": 7866480132143,
+        "position": 1,
+        "created_at": "2024-11-12T04:06:53-05:00",
+        "updated_at": "2024-11-12T04:06:53-05:00",
+        "alt": "Outer Banks OBX Rainbow Two-tone Mug",
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-RNBW_101009_FT_MF.jpg?v=1731402413",
+        "variant_ids": [
+          43365420433455
+        ]
+      },
+      "available": true,
+      "price": "16.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7866480132143,
+      "created_at": "2024-11-12T04:06:53-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34968522260527,
+      "created_at": "2024-11-12T04:06:53-05:00",
+      "position": 1,
+      "updated_at": "2024-11-12T04:06:53-05:00",
+      "product_id": 7866480132143,
+      "variant_ids": [
+        43365420433455
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-RNBW_101009_FT_MF.jpg?v=1731402413",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34968522293295,
+      "created_at": "2024-11-12T04:06:53-05:00",
+      "position": 2,
+      "updated_at": "2024-11-12T04:06:53-05:00",
+      "product_id": 7866480132143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-RNBW_101009_BK_MF.jpg?v=1731402413",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Yellow"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz"
+      ]
+    }
+  ],
+  "price": 16.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-RNBW_101009_FT_MF.jpg?v=1731402413",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

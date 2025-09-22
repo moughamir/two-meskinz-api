@@ -1,0 +1,141 @@
+{
+  "id": 7919063269423,
+  "title": "Squid Game Join the Mingle Trucker Hat",
+  "handle": "squid-game-join-the-mingle-trucker-hat",
+  "body_html": "<p>Level up your look with the <em>Squid Game</em> Join the Mingle Trucker Hat. Whether you're strategizing your next big move or just dodging the sun, this hat's got your back (and your head). Comfortable, bold, and a little mysterious—kind of like the games themselves.</p><ul>\n<li>This trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun! </li>\n<li>Head circumference: 21 5/8\" to 23 5/8\" (54.9 cm to 60 cm); adjustable closure. </li>\n<li>Made Of: 47% cotton, 28% nylon, 25% polyester, or 65% polyester, 35% cotton</li>\n<li>Closure: Snapback</li>\n<li>Care: Machine wash cold on gentle cycle with mild detergent and similar colors. Tumble dry low or lay flat to dry for longest life.</li>\n</ul>",
+  "published_at": "2025-02-10T17:38:21-05:00",
+  "created_at": "2025-01-30T06:53:43-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "Accessories",
+    "Hats",
+    "Men",
+    "SNOW-01-0125",
+    "Squid Game",
+    "Women",
+    "Yupoong 6006"
+  ],
+  "variants": [
+    {
+      "id": 43572390920239,
+      "title": "Black/ White/ Black / One Size Fits Most",
+      "option1": "Black/ White/ Black",
+      "option2": "One Size Fits Most",
+      "option3": null,
+      "sku": "SG-100834-0004-SQG-JTMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35505957273647,
+        "product_id": 7919063269423,
+        "position": 1,
+        "created_at": "2025-02-10T17:33:42-05:00",
+        "updated_at": "2025-02-10T17:33:42-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-JTMH_52_100834_FT_BLK_MF_1e85df32-311d-425a-b2b9-daf478c2f9c3.png?v=1739226822",
+        "variant_ids": [
+          43572390920239
+        ]
+      },
+      "available": true,
+      "price": "29.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7919063269423,
+      "created_at": "2025-01-30T06:53:43-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43592234434607,
+      "title": "Kelly/ White/ Kelly / One Size Fits Most",
+      "option1": "Kelly/ White/ Kelly",
+      "option2": "One Size Fits Most",
+      "option3": null,
+      "sku": "SG-100834-0005-SQG-JTMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35505957306415,
+        "product_id": 7919063269423,
+        "position": 2,
+        "created_at": "2025-02-10T17:33:42-05:00",
+        "updated_at": "2025-02-10T17:33:42-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-JTMH_52_100834_BK_GRN_FT_MF_b6fb827b-ec9e-49df-8a2d-61d8648345c0.png?v=1739226822",
+        "variant_ids": [
+          43592234434607
+        ]
+      },
+      "available": true,
+      "price": "29.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7919063269423,
+      "created_at": "2025-02-10T17:33:43-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35505957273647,
+      "created_at": "2025-02-10T17:33:42-05:00",
+      "position": 1,
+      "updated_at": "2025-02-10T17:33:42-05:00",
+      "product_id": 7919063269423,
+      "variant_ids": [
+        43572390920239
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-JTMH_52_100834_FT_BLK_MF_1e85df32-311d-425a-b2b9-daf478c2f9c3.png?v=1739226822",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35505957306415,
+      "created_at": "2025-02-10T17:33:42-05:00",
+      "position": 2,
+      "updated_at": "2025-02-10T17:33:42-05:00",
+      "product_id": 7919063269423,
+      "variant_ids": [
+        43592234434607
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-JTMH_52_100834_BK_GRN_FT_MF_b6fb827b-ec9e-49df-8a2d-61d8648345c0.png?v=1739226822",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black/ White/ Black",
+        "Kelly/ White/ Kelly"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "One Size Fits Most"
+      ]
+    }
+  ],
+  "price": 29.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-JTMH_52_100834_FT_BLK_MF_1e85df32-311d-425a-b2b9-daf478c2f9c3.png?v=1739226822",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

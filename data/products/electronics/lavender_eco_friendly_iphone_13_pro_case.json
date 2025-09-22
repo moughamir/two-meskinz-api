@@ -1,0 +1,93 @@
+{
+  "id": 6655451299928,
+  "title": "Lavender iPhone 13 Pro Case",
+  "handle": "lavender-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>\n<p data-mce-fragment=\"1\"> </p>",
+  "published_at": "2025-06-10T13:49:14-04:00",
+  "created_at": "2021-06-17T09:47:53-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 39460364058712,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16757-IP13P-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6655451299928,
+      "created_at": "2021-06-17T09:47:53-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28615223476312,
+      "created_at": "2021-09-09T16:42:03-04:00",
+      "position": 1,
+      "updated_at": "2021-09-09T16:42:05-04:00",
+      "product_id": 6655451299928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Pro_Classic_Lavender_BACK_1.jpg?v=1631220125",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28615223541848,
+      "created_at": "2021-09-09T16:42:03-04:00",
+      "position": 2,
+      "updated_at": "2021-09-09T16:42:05-04:00",
+      "product_id": 6655451299928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Pro_Classic_Lavender_BACK45L.jpg?v=1631220125",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28615223443544,
+      "created_at": "2021-09-09T16:42:03-04:00",
+      "position": 3,
+      "updated_at": "2021-09-09T16:42:05-04:00",
+      "product_id": 6655451299928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Pro_Classic_Lavender_BACK45R.jpg?v=1631220125",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/iPhone_13_Pro_Classic_Lavender_BACK_1.jpg?v=1631220125",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 7915884216367,
+  "title": "Stranger Things You're an Eleven Pillow",
+  "handle": "stranger-things-you-re-an-eleven-pillow",
+  "body_html": "<p>Show someone they're truly special with the <em>Stranger Things</em> \"You're an Eleven\" Pillow. Featuring a sweet and quirky tribute to Eleven and her favorite waffles, this pillow adds a touch of nostalgia and charm to any room.</p><ul>\n<li>100% soft polyester</li>\n<li>Thickness 3\"–5\" (7.6–12.7 cm)</li>\n<li>Sealed without zipper</li>\n<li>Spot wash with warm water</li>\n</ul>",
+  "published_at": "2025-01-28T10:21:45-05:00",
+  "created_at": "2025-01-23T09:16:30-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Pillows",
+  "tags": [
+    "blankets and pillows",
+    "CSP",
+    "Eleven",
+    "Home & Office",
+    "home and office",
+    "Pillows",
+    "ST-01-0125",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "unisex",
+    "us only",
+    "Valentines Day"
+  ],
+  "variants": [
+    {
+      "id": 43559480885295,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101791-0002-ST-YAEL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7915884216367,
+      "created_at": "2025-01-23T09:16:31-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35385712640047,
+      "created_at": "2025-01-23T09:16:31-05:00",
+      "position": 1,
+      "updated_at": "2025-01-23T09:16:31-05:00",
+      "product_id": 7915884216367,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-YAEL_51_101791_MF.jpg?v=1737641791",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35385712705583,
+      "created_at": "2025-01-23T09:16:31-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T11:48:32-05:00",
+      "product_id": 7915884216367,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-YAEL_51_101791_LIFE2.jpg?v=1737650912",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-YAEL_51_101791_MF.jpg?v=1737641791",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pillows",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

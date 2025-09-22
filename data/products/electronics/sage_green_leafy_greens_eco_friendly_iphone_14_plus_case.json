@@ -1,0 +1,109 @@
+{
+  "id": 8286011752536,
+  "title": "Sage Green Leafy Greens iPhone 14 Plus Case",
+  "handle": "sage-green-leafy-greens-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p data-start=\"69\" data-end=\"353\"><meta charset=\"utf-8\">Give your phone the freshest fit around! <meta charset=\"utf-8\">🌿🥬 The Leafy Greens Phone Case is here to add a playful twist of vibrant kale and leafy goodness to your everyday style. This fun, garden-inspired case is perfect for green thumbs, salad enthusiasts, or anyone craving a splash of nature in their pocket.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:55:23-05:00",
+  "created_at": "2025-02-12T10:14:48-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Leafy Greens",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658627551320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16943-IP14PLUS-SAGE-AOD:LEAFY-GREENS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286011752536,
+      "created_at": "2025-02-12T10:14:48-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505571434584,
+      "created_at": "2025-02-12T10:14:48-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:14:50-05:00",
+      "product_id": 8286011752536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_IP14PLUS_SageGreen.jpg?v=1739373290",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34600917631064,
+      "created_at": "2025-02-26T15:59:10-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T15:59:11-05:00",
+      "product_id": 8286011752536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_06_5eff36af-bbd7-495d-867a-83cd58efbc78.jpg?v=1740603551",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600917663832,
+      "created_at": "2025-02-26T15:59:10-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T15:59:11-05:00",
+      "product_id": 8286011752536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_abb24de7-8bc7-4231-9416-0d093acddb17.jpg?v=1740603551",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600917598296,
+      "created_at": "2025-02-26T15:59:10-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T15:59:11-05:00",
+      "product_id": 8286011752536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Androids_PDP_1x1_03_4ac93fc1-16c1-4157-a391-44c69525c8a1.jpg?v=1740603551",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_IP14PLUS_SageGreen.jpg?v=1739373290",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

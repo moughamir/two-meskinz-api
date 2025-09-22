@@ -1,0 +1,119 @@
+{
+  "id": 8216566464600,
+  "title": "Seashell Love Pack Google Pixel 6a Case",
+  "handle": "seashell-love-pack-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:21:32-05:00",
+  "created_at": "2024-12-16T10:52:28-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059133528,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216566464600,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130694209624,
+      "created_at": "2024-12-16T10:52:28-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:30-05:00",
+      "product_id": 8216566464600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX6A_Seashell.jpg?v=1734364350",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215309049944,
+      "created_at": "2025-01-03T12:09:56-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:09:58-05:00",
+      "product_id": 8216566464600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_2f22103b-4e68-4bb4-a9bc-4690c29a4615.jpg?v=1735924198",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215309017176,
+      "created_at": "2025-01-03T12:09:57-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:09:58-05:00",
+      "product_id": 8216566464600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_b147521c-144c-4ff4-b294-7ca45b7058b5.jpg?v=1735924198",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215309115480,
+      "created_at": "2025-01-03T12:09:57-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:09:58-05:00",
+      "product_id": 8216566464600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_6093cca0-4313-4064-9217-affee45d6283.jpg?v=1735924198",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215308984408,
+      "created_at": "2025-01-03T12:09:57-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:09:58-05:00",
+      "product_id": 8216566464600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_33efcefa-1df4-4c9b-b6f0-7cadd9abf38d.jpg?v=1735924198",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_PX6A_Seashell.jpg?v=1734364350",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

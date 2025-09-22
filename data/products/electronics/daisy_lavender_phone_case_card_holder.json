@@ -1,0 +1,126 @@
+{
+  "id": 7358010196056,
+  "title": "Daisy Lavender Phone Case Card Holder ",
+  "handle": "daisy-lavender-phone-case-card-holder",
+  "body_html": "<meta charset=\"utf-8\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Two things you always have on you are your phone and your wallet - ditch the wallet and lighten your load with the the compostable Pela card holder! The Pela card holders securely stick to the back of nearly any Pela case utilizing an adhesive attachment to create a thin, durable, low profile combo! Level up your phone case while protecting your cards and the planet!</span><br></p>\n<p><span><meta charset=\"utf-8\"> <span style=\"color: #ff2a00;\"><strong>Phone Case is not Included.</strong></span></span></p>\n<p><span><meta charset=\"utf-8\"> <strong>Not compatible with Classic cases for iPhone 13 mini, iPhone 12 mini, iPhone 5/5s, Samsung S23, Samsung S20 or Google Pixel 5. Not compatible with Clear cases for iPhone 13 mini, iPhone 12 mini, iPhone 6/6s/7/8/SE, iPhone 11 Pro, iPhone X/XS, Google Pixel 6 and Google Pixel 6 Pro.</strong></span></p>",
+  "published_at": "2024-12-30T16:08:54-05:00",
+  "created_at": "2023-03-27T11:14:53-04:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Card Holder",
+  "tags": [
+    "accessory",
+    "art-type:Print",
+    "CARDH",
+    "collection:Florals"
+  ],
+  "variants": [
+    {
+      "id": 40219421114456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25593-CARDH-LAV-AOD-DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.00",
+      "grams": 7,
+      "compare_at_price": "25.00",
+      "position": 1,
+      "product_id": 7358010196056,
+      "created_at": "2023-03-27T11:14:53-04:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30246262603864,
+      "created_at": "2023-04-18T09:44:07-04:00",
+      "position": 1,
+      "updated_at": "2023-06-15T14:30:50-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DaisyClose.jpg?v=1686853850",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246262571096,
+      "created_at": "2023-04-18T09:44:07-04:00",
+      "position": 2,
+      "updated_at": "2023-06-15T14:30:50-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DaisyPhone.jpg?v=1686853850",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32560833527896,
+      "created_at": "2024-04-09T12:18:33-04:00",
+      "position": 3,
+      "updated_at": "2024-04-09T12:18:39-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CardHolder-Daisy.png?v=1712679519",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32560557686872,
+      "created_at": "2024-04-09T11:45:23-04:00",
+      "position": 4,
+      "updated_at": "2024-04-09T11:46:44-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Airpod1stGen-AirTag-DaisyCardHolder-Lavender-lifestyle.png?v=1712677604",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32560816914520,
+      "created_at": "2024-04-09T12:16:50-04:00",
+      "position": 5,
+      "updated_at": "2024-04-09T12:16:52-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CardHolder-Multi-Lifestyle.png?v=1712679412",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32560820355160,
+      "created_at": "2024-04-09T12:17:11-04:00",
+      "position": 6,
+      "updated_at": "2024-04-09T12:17:13-04:00",
+      "product_id": 7358010196056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CardHolder-Multi.png?v=1712679433",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 25,
+  "compare_at_price": 25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DaisyClose.jpg?v=1686853850",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Card Holder",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

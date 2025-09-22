@@ -1,0 +1,98 @@
+{
+  "id": 8278273327192,
+  "title": "Black Snake Scale iPhone 14/16e Case",
+  "handle": "black-snake-scale-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Shed your old style and slither into something fierce with the Snake Scale Phone Case! This design captures the hypnotic texture of serpent scales in stunning monochrome, making your phone look as sleek and untouchable as a midnight predator.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:16:20-05:00",
+  "created_at": "2025-02-04T10:20:53-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Snake Scale",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642243518552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16730-IP14-BLACK-AOD:SNAKE-SCALE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278273327192,
+      "created_at": "2025-02-04T10:20:53-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454012821592,
+      "created_at": "2025-02-04T10:20:53-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:20:55-05:00",
+      "product_id": 8278273327192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKE-SCALE_IP14_Black.jpg?v=1738682455",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572105547864,
+      "created_at": "2025-02-20T16:59:25-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T16:59:26-05:00",
+      "product_id": 8278273327192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_7d95516a-308f-4b83-975b-935e8894ec47.jpg?v=1740088766",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572105580632,
+      "created_at": "2025-02-20T16:59:25-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T16:59:26-05:00",
+      "product_id": 8278273327192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_a806e335-cf6a-4ae4-8511-21d4d5d3ecb2.jpg?v=1740088766",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SNAKE-SCALE_IP14_Black.jpg?v=1738682455",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

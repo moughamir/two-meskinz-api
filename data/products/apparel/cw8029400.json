@@ -1,0 +1,67 @@
+{
+  "id": 7785816096935,
+  "title": "Brand: Sandvik Coromant / Part #: 8319591",
+  "handle": "cw8029400",
+  "body_html": "<br><strong>Item #: </strong>67620294<br><strong>Brand: </strong>Sandvik Coromant<br><strong>Model #: </strong>8319591<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>CCGW</td>\n</tr>\n<tr>\n<td><strong>Insert Shape Code</strong></td>\n<td>C</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>602</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Diamond 80?</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>7115</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.40</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0157</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Cubic Boron Nitride</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw; Clamp</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness</strong></td>\n<td>2.38</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Decimal Inch)</strong></td>\n<td>0.0938</td>\n</tr>\n<tr>\n<td><strong>Clearance Code</strong></td>\n<td>C</td>\n</tr>\n<tr>\n<td><strong>Tolerance Code</strong></td>\n<td>G</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>81.00</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>7.000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>CoroTurn? 107</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Wiper Edge</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Number Of Cutting Edges</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Hard Material</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>H</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>CCGW060204S01520FWG 7115</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>CCGW060204S01520FWG 7115</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>WG</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Style</strong></td>\n<td>Negative Land/ER Treated</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Width (Mm - 2 Decimals)</strong></td>\n<td>6.35</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:16:04-06:00",
+  "created_at": "2023-12-29T03:16:04-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Sandvik Coromant",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43705583239335,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67620294",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.05",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785816096935,
+      "created_at": "2023-12-29T03:16:04-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237338173607,
+      "created_at": "2025-02-03T18:12:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:37-06:00",
+      "product_id": 7785816096935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6762029-21_a13fc495-1ab7-462f-ba22-d7f2b6d5b8f4.jpg?v=1738627957",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.05,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6762029-21_a13fc495-1ab7-462f-ba22-d7f2b6d5b8f4.jpg?v=1738627957",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sandvik Coromant",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

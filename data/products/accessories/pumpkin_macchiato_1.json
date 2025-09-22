@@ -1,0 +1,118 @@
+{
+  "id": 7536173121645,
+  "title": "Pumpkin Macchiato",
+  "handle": "pumpkin-macchiato-1",
+  "body_html": "<p>This take on a delicious fall drink blends equal parts crushed <strong>pumpkin seed</strong>, creamy <strong>coconut milk</strong>, and aromatic <strong>cardamom</strong> to create a sophisticated yet comforting scent.</p>",
+  "published_at": "2025-05-06T15:45:22-06:00",
+  "created_at": "2024-09-09T14:16:58-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Archipelago",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Archipelago",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "CollectionFilter_Vanilla",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Scent Type_Amber",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_pumpkinmacchiato"
+  ],
+  "variants": [
+    {
+      "id": 41820970090605,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PMNH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7536173121645,
+      "created_at": "2024-09-09T14:16:58-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32975525576813,
+      "created_at": "2024-09-09T14:18:42-06:00",
+      "position": 1,
+      "updated_at": "2024-09-09T14:18:45-06:00",
+      "product_id": 7536173121645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-PumpkinMacchiato-NewPackaging-Prod1-0624_6d8d7787-2744-48d7-9e21-443173ee4ab7.jpg?v=1725913125",
+      "width": 3229,
+      "height": 4305
+    },
+    {
+      "id": 32975525642349,
+      "created_at": "2024-09-09T14:18:43-06:00",
+      "position": 2,
+      "updated_at": "2024-09-09T14:18:45-06:00",
+      "product_id": 7536173121645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pumpkinresized_f1e7b832-3d47-4e4d-920f-8f793f675731.jpg?v=1725913125",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 32975525609581,
+      "created_at": "2024-09-09T14:18:43-06:00",
+      "position": 3,
+      "updated_at": "2024-09-09T14:18:45-06:00",
+      "product_id": 7536173121645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PumpkinMacchiato-Archipelago-Prod3-0624-new_2718d5a4-e993-403b-ae48-5d63a02f9e34.jpg?v=1725913125",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 32975525511277,
+      "created_at": "2024-09-09T14:18:42-06:00",
+      "position": 4,
+      "updated_at": "2024-09-09T14:18:45-06:00",
+      "product_id": 7536173121645,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-PumpkinMacchiato-NewPackaging-Prod4-0624_b385f0b9-76c1-4aad-9d19-1920f4f695f5.jpg?v=1725913125",
+      "width": 2350,
+      "height": 3134
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-PumpkinMacchiato-NewPackaging-Prod1-0624_6d8d7787-2744-48d7-9e21-443173ee4ab7.jpg?v=1725913125",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Archipelago",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

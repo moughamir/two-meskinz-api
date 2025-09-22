@@ -1,0 +1,101 @@
+{
+  "id": 7471343927524,
+  "title": "APlusLift 1/4\" NPT Pneumatic Foot Pedal with Auto Neutral Positioning (Patent Pending)",
+  "handle": "apluslift-1-500lb-motorcycle-lift-table-butterfly-foot-pedal-with-auto-neutral-position-free-shipping",
+  "body_html": "<h3>1/4\" NPT pneumatic foot pedal with auto neutral positioning. One fitting to MT1500 lift table cylinder air hose is included.</h3>\n<h3>Recommended air pressure: 90-130 PSI.</h3>\n<h3>Return Neutral Position Automatically</h3>\n<h3>Enlarged butterfly design to make the pedal stable and easy to control (Patent Pending).</h3>",
+  "published_at": "2021-12-01T18:35:59-08:00",
+  "created_at": "2021-11-30T23:13:07-08:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 42141391159524,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "1312-68079",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.00",
+      "grams": 907,
+      "compare_at_price": "140.00",
+      "position": 1,
+      "product_id": 7471343927524,
+      "created_at": "2021-11-30T23:13:07-08:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 39697795416292,
+      "created_at": "2022-10-02T12:04:51-07:00",
+      "position": 1,
+      "updated_at": "2022-10-02T12:04:57-07:00",
+      "product_id": 7471343927524,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/AIRCYLINDER_256bdbb8-0077-46ce-9f96-5beaf1852afa.jpg?v=1664737497",
+      "width": 2000,
+      "height": 1500
+    },
+    {
+      "id": 39609881297124,
+      "created_at": "2022-09-26T15:24:40-07:00",
+      "position": 2,
+      "updated_at": "2022-10-02T12:04:57-07:00",
+      "product_id": 7471343927524,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/AIROUTLETS.jpg?v=1664737497",
+      "width": 2000,
+      "height": 1500
+    },
+    {
+      "id": 39609878446308,
+      "created_at": "2022-09-26T15:24:25-07:00",
+      "position": 3,
+      "updated_at": "2022-10-02T12:04:57-07:00",
+      "product_id": 7471343927524,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/2.jpg?v=1664737497",
+      "width": 2000,
+      "height": 1500
+    },
+    {
+      "id": 39609878413540,
+      "created_at": "2022-09-26T15:24:25-07:00",
+      "position": 4,
+      "updated_at": "2022-10-02T12:04:57-07:00",
+      "product_id": 7471343927524,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/4.jpg?v=1664737497",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100,
+  "compare_at_price": 140,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/AIRCYLINDER_256bdbb8-0077-46ce-9f96-5beaf1852afa.jpg?v=1664737497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

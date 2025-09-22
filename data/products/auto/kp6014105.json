@@ -1,0 +1,52 @@
+{
+  "id": 8453422612647,
+  "title": "CARBIDE HOLE CUTTER SET",
+  "handle": "kp6014105",
+  "body_html": null,
+  "published_at": "2025-01-24T05:29:23-06:00",
+  "created_at": "2025-01-24T05:29:23-06:00",
+  "updated_at": "2025-09-22T10:51:46-05:00",
+  "vendor": "ET02 New 2021",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500690428071,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6014105",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "137.66",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453422612647,
+      "created_at": "2025-01-24T05:29:23-06:00",
+      "updated_at": "2025-09-22T10:51:46-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 137.66,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2021",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

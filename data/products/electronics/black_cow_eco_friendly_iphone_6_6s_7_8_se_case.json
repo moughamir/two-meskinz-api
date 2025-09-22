@@ -1,0 +1,88 @@
+{
+  "id": 6608966778968,
+  "title": "Black Cow iPhone 6/6s/7/8/SE Case",
+  "handle": "black-cow-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Moo-ve over boring phone cases, the Cow Phone Case is here to add a splash of fun to your tech accessory game! Featuring an eye-catching black and white cow print, this playful case is perfect for animal lovers and those who love to stand out. Bring a bit of the countryside charm wherever you go with the Cow Phone Case—it's udderly fantastic! 🐄📱✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-21T14:08:05-04:00",
+  "created_at": "2021-05-07T16:34:37-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "Cowgirl Doorcrasher",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39397496651864,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:PL-IP7-BLACK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6608966778968,
+      "created_at": "2021-05-07T16:34:38-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30326403399768,
+      "created_at": "2023-07-21T14:08:04-04:00",
+      "position": 1,
+      "updated_at": "2023-07-21T14:08:04-04:00",
+      "product_id": 6608966778968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP7_Black_6c18bd37-29b5-4745-ba00-1fa951057c5e.jpg?v=1689962884",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28345836306520,
+      "created_at": "2021-06-28T12:45:27-04:00",
+      "position": 2,
+      "updated_at": "2021-09-23T16:45:21-04:00",
+      "product_id": 6608966778968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Cow1-Print_ee85bf4b-db5a-4be3-9cd9-46d05accb02b.jpg?v=1632429921",
+      "width": 952,
+      "height": 954
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP7_Black_6c18bd37-29b5-4745-ba00-1fa951057c5e.jpg?v=1689962884",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

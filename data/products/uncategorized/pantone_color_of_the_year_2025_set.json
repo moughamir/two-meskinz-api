@@ -1,0 +1,104 @@
+{
+  "id": 7577845039213,
+  "title": "Pantone Color of the Year 2025 Set",
+  "handle": "pantone-color-of-the-year-2025-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">This limited edition set features a Pura 4™ smart fragrance diffuser in the Pantone Color of the Year 2025 as well as two exclusive fragrances—Mocha Moments and Mocha Suede—inspired by the sophisticated hue.</p>",
+  "published_at": "2025-03-20T09:43:50-06:00",
+  "created_at": "2024-12-05T11:45:50-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura x Pantone",
+  "product_type": "Box",
+  "tags": [
+    "900-02855",
+    "__label:10% off",
+    "Brand:Pura x Pantone",
+    "discount_10",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Pura 4",
+    "Returns: Pantone",
+    "Scent Type_Amber",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_Pantone",
+    "YGroup_Pantone"
+  ],
+  "variants": [
+    {
+      "id": 41944661753965,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02855",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.99",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7577845039213,
+      "created_at": "2024-12-05T11:45:51-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33440461783149,
+      "created_at": "2024-12-10T15:14:03-07:00",
+      "position": 1,
+      "updated_at": "2024-12-10T15:14:05-07:00",
+      "product_id": 7577845039213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Set-PDP-Ecomm-1224-Prod1.png?v=1733868845",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33440461815917,
+      "created_at": "2024-12-10T15:14:03-07:00",
+      "position": 2,
+      "updated_at": "2024-12-10T15:14:05-07:00",
+      "product_id": 7577845039213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Set-PDP-Ecomm-1224-Prod4.png?v=1733868845",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33579306877037,
+      "created_at": "2025-01-17T10:45:56-07:00",
+      "position": 3,
+      "updated_at": "2025-01-17T10:45:57-07:00",
+      "product_id": 7577845039213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Ecomm-PluggedIn-2400x3200.png?v=1737135957",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Set-PDP-Ecomm-1224-Prod1.png?v=1733868845",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura x Pantone",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

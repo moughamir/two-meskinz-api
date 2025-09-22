@@ -1,0 +1,69 @@
+{
+  "id": 5335590830247,
+  "title": "Brand: WALTER Surface Technologies / Part #: 12C111",
+  "handle": "ac40115b",
+  "body_html": "<br><strong>Item #: </strong>74514076<br><strong>Brand: </strong>WALTER Surface Technologies<br><strong>Model #: </strong>12C111<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Shape</strong>\n</td>\n<td>Round Tip Cone</td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Zirconia Alumina</td>\n</tr>\n<tr>\n<td><strong>Bond Type</strong></td>\n<td>Resinoid</td>\n</tr>\n<tr>\n<td><strong>Maximum Diameter (Inch - Fraction - 4 Decimals)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>16</td>\n</tr>\n<tr>\n<td><strong>Arbor Hole Thread Size</strong></td>\n<td>5/8-11</td>\n</tr>\n<tr>\n<td><strong>Head Thickness</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Minimum Diameter (Fractional Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Maximum Rpm</strong></td>\n<td>24200.000</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>38.1000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Wheel Type Number Code</strong></td>\n<td>16</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T13:00:20-06:00",
+  "created_at": "2020-06-15T09:11:35-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "WALTER Surface Technologies",
+  "product_type": "Abrasives",
+  "tags": [
+    "Drilling",
+    "Points & Burrs",
+    "Tool Holders"
+  ],
+  "variants": [
+    {
+      "id": 34728859599015,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "74514076",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.39",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5335590830247,
+      "created_at": "2020-06-15T09:11:35-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239310708903,
+      "created_at": "2025-02-03T19:29:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:29:28-06:00",
+      "product_id": 5335590830247,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7451407-21.jpg?v=1738632568",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.39,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7451407-21.jpg?v=1738632568",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WALTER Surface Technologies",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 7157428158573,
+  "title": "Water Lily",
+  "handle": "water-lily",
+  "body_html": "<p>Most effective at removing pet odors, this <a style=\"text-decoration: underline; color: #000;\" href=\"https://pura.com/pages/open-air-technology\" target=\"_blank\">Open Air</a> scent is a refreshing blend of sparkling <strong>bergamot</strong>, <strong>water lily</strong>, and <strong>dewy greens</strong> blended with soft <strong>musk</strong>.</p>",
+  "published_at": "2023-12-04T09:51:11-07:00",
+  "created_at": "2023-11-27T13:42:27-07:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Pura",
+    "collection:New Arrivals",
+    "Collection:Open Air Tech™",
+    "CollectionFilter_Open Air Tech",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Openairtech_pet",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_waterlily"
+  ],
+  "variants": [
+    {
+      "id": 40873720512621,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PTMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7157428158573,
+      "created_at": "2023-11-27T13:42:27-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30774663348333,
+      "created_at": "2023-11-27T13:47:01-07:00",
+      "position": 1,
+      "updated_at": "2023-11-27T13:47:17-07:00",
+      "product_id": 7157428158573,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purawaterlily-resized.jpg?v=1701118037",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30774663315565,
+      "created_at": "2023-11-27T13:47:01-07:00",
+      "position": 2,
+      "updated_at": "2023-11-27T13:47:17-07:00",
+      "product_id": 7157428158573,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LEAVES.jpg?v=1701118037",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30774663413869,
+      "created_at": "2023-11-27T13:47:01-07:00",
+      "position": 3,
+      "updated_at": "2023-11-27T13:47:17-07:00",
+      "product_id": 7157428158573,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WaterLily-Pura-Prod3-2023-10.png?v=1701118037",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30774663381101,
+      "created_at": "2023-11-27T13:47:01-07:00",
+      "position": 4,
+      "updated_at": "2023-11-27T13:47:17-07:00",
+      "product_id": 7157428158573,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purawaterlily-resized_-3.jpg?v=1701118037",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purawaterlily-resized.jpg?v=1701118037",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

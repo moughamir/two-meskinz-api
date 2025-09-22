@@ -1,0 +1,120 @@
+{
+  "id": 7866714849327,
+  "title": "Queue Issue Nineteen - Danielle Deadwyler Cover",
+  "handle": "queue-issue-nineteen-danielle-deadwyler-cover",
+  "body_html": "<p><em>Queue's </em>Issue 19 cover features Danielle Deadwyler, star of <em>The Piano Lesson</em> photographed by Adrienne Raquel. </p><p>  The story behind the story. <em>Queue's </em>print journal celebrates the people, the ideas, and the process of creating great entertainment on <em>Netflix </em>and beyond. </p><p> Read and enjoy revelatory and intimate conversations with the directors, actors, and industry influencers whose boundless creativity and ceaseless innovation yield the unforgettable content you love to watch. </p><p> The journal features original photography, exclusive interviews, profiles, behind-the-scenes looks on sets of series and films; it's a place for creators to further share not only their projects but also their passions and interests. It is where talent is most themselves. </p><p> <em>The Queue</em> journal is made to live on your coffee table or your bookshelf forever.</p><ul>\n<li>150+ pages per issue, designed by award-winning firm, Pentagram. </li>\n<li>Printed on eco-friendly paper using soy-based inks.</li>\n<li>Size: 9.125\" X 11.75\"</li>\n</ul>",
+  "published_at": "2025-01-28T10:40:04-05:00",
+  "created_at": "2024-11-12T12:24:41-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "netflix",
+  "product_type": "Books",
+  "tags": [
+    "Books",
+    "Netflix",
+    "Netflix Branded",
+    "Netflix Queue",
+    "Promo Eligible Collection",
+    "title netflix branded"
+  ],
+  "variants": [
+    {
+      "id": 43367768883247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "QUEUE-19-DD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34970181107759,
+        "product_id": 7866714849327,
+        "position": 1,
+        "created_at": "2024-11-12T12:24:41-05:00",
+        "updated_at": "2024-11-12T12:24:41-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/QUEUE-19-DD-1.png?v=1731432281",
+        "variant_ids": [
+          43367768883247
+        ]
+      },
+      "available": true,
+      "price": "15.00",
+      "grams": 642,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7866714849327,
+      "created_at": "2024-11-12T12:24:41-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34970181107759,
+      "created_at": "2024-11-12T12:24:41-05:00",
+      "position": 1,
+      "updated_at": "2024-11-12T12:24:41-05:00",
+      "product_id": 7866714849327,
+      "variant_ids": [
+        43367768883247
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/QUEUE-19-DD-1.png?v=1731432281",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35415598039087,
+      "created_at": "2025-01-28T10:27:55-05:00",
+      "position": 2,
+      "updated_at": "2025-01-28T10:28:14-05:00",
+      "product_id": 7866714849327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_2_3c75cf5a-b29f-4110-8c9b-9c8699e110cf.png?v=1738078094",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "id": 35415598006319,
+      "created_at": "2025-01-28T10:27:55-05:00",
+      "position": 3,
+      "updated_at": "2025-01-28T10:28:14-05:00",
+      "product_id": 7866714849327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_0c8bb582-5ca1-423e-afec-f51408dd4a17.png?v=1738078094",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "id": 35415598071855,
+      "created_at": "2025-01-28T10:27:55-05:00",
+      "position": 4,
+      "updated_at": "2025-01-28T10:28:14-05:00",
+      "product_id": 7866714849327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_1_9941e48e-9135-44cd-b104-5af4cdfa4530.png?v=1738078094",
+      "width": 400,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/QUEUE-19-DD-1.png?v=1731432281",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "netflix",
+  "category": "Books",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

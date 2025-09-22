@@ -1,0 +1,67 @@
+{
+  "id": 7786276487335,
+  "title": "Brand: Philips / Part #: 283390",
+  "handle": "ff5750370",
+  "body_html": "<br><strong>Item #: </strong>70122437<br><strong>Brand: </strong>Philips<br><strong>Model #: </strong>283390<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Lamp Style</strong>\n</td>\n<td>Tubular</td>\n</tr>\n<tr>\n<td><strong>Lamp Type</strong></td>\n<td>T8</td>\n</tr>\n<tr>\n<td><strong>Lamp Technology</strong></td>\n<td>Fluorescent</td>\n</tr>\n<tr>\n<td><strong>Base Style</strong></td>\n<td>Medium Bi-Pin</td>\n</tr>\n<tr>\n<td><strong>Lumens</strong></td>\n<td>3100 lm</td>\n</tr>\n<tr>\n<td><strong>Dimmable</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>48 in</td>\n</tr>\n<tr>\n<td><strong>Color Temperature Range</strong></td>\n<td>Cool (3700-4499)</td>\n</tr>\n<tr>\n<td><strong>Overall Diameter</strong></td>\n<td>1 in</td>\n</tr>\n<tr>\n<td><strong>Wattage</strong></td>\n<td>32.0 W</td>\n</tr>\n<tr>\n<td><strong>Color Rendering Index</strong></td>\n<td>85</td>\n</tr>\n<tr>\n<td><strong>Color Temperature</strong></td>\n<td>4100</td>\n</tr>\n<tr>\n<td><strong>Base Code</strong></td>\n<td>Medium Bi-Pin</td>\n</tr>\n<tr>\n<td><strong>Philips Part Number</strong></td>\n<td>F32T8/ADV841 ALTO TG 30PK</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:44:07-06:00",
+  "created_at": "2023-12-29T16:44:07-06:00",
+  "updated_at": "2025-09-22T10:53:47-05:00",
+  "vendor": "Philips",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Lighting"
+  ],
+  "variants": [
+    {
+      "id": 43707402223783,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "70122437",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "42.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786276487335,
+      "created_at": "2023-12-29T16:44:07-06:00",
+      "updated_at": "2025-09-22T10:53:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238220189863,
+      "created_at": "2025-02-03T18:40:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:40:42-06:00",
+      "product_id": 7786276487335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7012243-24.jpg?v=1738629642",
+      "width": 600,
+      "height": 117
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 42.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7012243-24.jpg?v=1738629642",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Philips",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

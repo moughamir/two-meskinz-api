@@ -1,0 +1,120 @@
+{
+  "id": 7358873043032,
+  "title": "Black Fairy Forest iPhone 13 Mini Case",
+  "handle": "black-fairy-forest-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🧚‍♂️ Step into a magical realm with our Fairy Forest Phone Case by Pela! This enchanting design showcases a vibrant tapestry of delicate flowers and lush greenery against a midnight black background, reminiscent of a fairy-tale woodland in full bloom. Perfect for those who adore a touch of whimsy and elegance, this case transforms your device into a delightful garden that's always in bloom. Let your phone be the gateway to your own enchanted forest adventure! 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:13:10-04:00",
+  "created_at": "2023-03-31T13:55:36-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fairy Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221306781784,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16620-IP13MINI-BLACK-AOD:FAIRY-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358873043032,
+      "created_at": "2023-03-31T13:55:36-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233612615768,
+      "created_at": "2023-03-31T13:55:36-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:36-04:00",
+      "product_id": 7358873043032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_IP13MINI_Black.jpg?v=1680285336",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241101545560,
+      "created_at": "2023-04-12T14:39:17-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T14:39:19-04:00",
+      "product_id": 7358873043032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden3_f49bdc4d-78b1-4616-b399-48fce14f6e0b.png?v=1681324759",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241101578328,
+      "created_at": "2023-04-12T14:39:17-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T14:39:20-04:00",
+      "product_id": 7358873043032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_89c99cdd-322b-456a-b55d-131776db46ed.png?v=1681324760",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241101512792,
+      "created_at": "2023-04-12T14:39:17-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T14:39:20-04:00",
+      "product_id": 7358873043032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_9073d2cc-ee38-4979-b876-01b917d53f94.png?v=1681324760",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236634284120,
+      "created_at": "2023-04-05T18:19:39-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T14:39:20-04:00",
+      "product_id": 7358873043032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9064_f9786598-a284-4995-b8d2-677d6c278aa8.png?v=1681324760",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_IP13MINI_Black.jpg?v=1680285336",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

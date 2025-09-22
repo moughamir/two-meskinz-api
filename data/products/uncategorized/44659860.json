@@ -1,0 +1,67 @@
+{
+  "id": 8452808507559,
+  "title": "Compression Tube Connector: 1/8\" Tube OD, Compression x MNPT",
+  "handle": "44659860",
+  "body_html": "<br><strong>Item #: </strong>98301047<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>SS-MC-FT2-MN2<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>Connector</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Stainless Steel</td>\n</tr>\n<tr> <td> <strong>End Connections</strong>\n</td>\n<td>Compression x MNPT</td>\n</tr>\n<tr> <td> <strong>Thread Standard</strong>\n</td>\n<td>NPT; UNF</td>\n</tr>\n<tr> <td> <strong>Tube Outside Diameter</strong>\n</td>\n<td>1/8</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>1.2000</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>30.48</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>ASTM A276; ASTM A479; ASTM A269; ASTM A213; ASTM A182; DIN EN10122-5; DIN EN10272</td>\n</tr>\n<tr> <td> <strong>Material Grade</strong>\n</td>\n<td>316</td>\n</tr>\n<tr> <td> <strong>Swagelok Part Number</strong>\n</td>\n<td>SS-200-1-2</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4720</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27121700</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>China</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T18:22:15-06:00",
+  "created_at": "2025-01-23T18:22:13-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Hose, Tube, Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 46499167994023,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98301047",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.84",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452808507559,
+      "created_at": "2025-01-23T18:22:13-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38254234534055,
+      "created_at": "2025-02-04T04:20:12-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T04:20:14-06:00",
+      "product_id": 8452808507559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8676051-23.jpg?v=1738664414",
+      "width": 600,
+      "height": 302
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.84,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8676051-23.jpg?v=1738664414",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Hose, Tube, Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 7431606763629,
+  "title": "Cypress & Juniper",
+  "handle": "cypress-juniper",
+  "body_html": "<p><span><strong>Bergamot</strong>, <strong>evergreens</strong>, and crushed <strong>pine cones </strong>create a refreshing, crisp scentscape. </span></p>\n<p dir=\"ltr\"><meta charset=\"utf-8\">Available exclusively at Target and on Target.com. <span style=\"text-decoration: underline;\"><strong></strong></span></p>\n<p dir=\"ltr\"><meta charset=\"utf-8\">Shop other fragrances by Studio McGee <a href=\"https://pura.com/collections/fragrances/brand-studio-mcgee\"><span style=\"text-decoration: underline;\">here</span></a>.</p>\n<p> </p>\n<!---->",
+  "published_at": "2024-06-26T11:58:25-06:00",
+  "created_at": "2024-06-04T14:09:28-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Threshold™ designed with Studio McGee",
+  "product_type": "Test",
+  "tags": [
+    "__automation:disable",
+    "CJSH",
+    "display_Search",
+    "Group_Home",
+    "hide_Reviews",
+    "remove-subs",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 41583570583661,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CJSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7431606763629,
+      "created_at": "2024-06-04T14:09:28-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32240569417837,
+      "created_at": "2024-06-18T12:02:42-06:00",
+      "position": 1,
+      "updated_at": "2024-06-18T12:02:44-06:00",
+      "product_id": 7431606763629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TargetTest2-0624.png?v=1718733764",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32240532324461,
+      "created_at": "2024-06-18T11:48:22-06:00",
+      "position": 2,
+      "updated_at": "2024-06-18T12:02:50-06:00",
+      "product_id": 7431606763629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineresized-2_18536b8b-594a-469e-9846-a8d9744ef306.jpg?v=1718733770",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 32240532488301,
+      "created_at": "2024-06-18T11:48:22-06:00",
+      "position": 3,
+      "updated_at": "2024-06-18T12:02:50-06:00",
+      "product_id": 7431606763629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Cypress_Junoper-Threshold-StudioMcGee-Prod3-0624.png?v=1718733770",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 32240532357229,
+      "created_at": "2024-06-18T11:48:22-06:00",
+      "position": 4,
+      "updated_at": "2024-06-18T12:02:50-06:00",
+      "product_id": 7431606763629,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Threshold_StudioMcgee-Cypress_Juniper-Prod4-0624.jpg?v=1718733770",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TargetTest2-0624.png?v=1718733764",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Threshold™ designed with Studio McGee",
+  "category": "Test",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

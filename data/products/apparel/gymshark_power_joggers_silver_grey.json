@@ -1,0 +1,53 @@
+{
+  "id": 6806452142282,
+  "title": "Gymshark Power Joggers - Silver Grey",
+  "handle": "gymshark-power-joggers-silver-grey",
+  "body_html": null,
+  "published_at": "2025-08-12T02:56:31-07:00",
+  "created_at": "2025-08-12T02:56:30-07:00",
+  "updated_at": "2025-09-22T08:45:10-07:00",
+  "vendor": "Gymshark US",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 39796227801290,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "B3A4S-GCB1-XXS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "33.60",
+      "grams": 0,
+      "compare_at_price": "56.00",
+      "position": 1,
+      "product_id": 6806452142282,
+      "created_at": "2025-08-12T02:56:30-07:00",
+      "updated_at": "2025-09-22T08:45:10-07:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 33.6,
+  "compare_at_price": 56,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark US",
+  "category": "",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

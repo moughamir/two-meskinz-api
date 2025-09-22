@@ -1,0 +1,67 @@
+{
+  "id": 7785814851751,
+  "title": "Brand: Professional Plastics / Part #: SMARBK.750MSC14784516",
+  "handle": "cw8039980",
+  "body_html": "<br><strong>Item #: </strong>98887623<br><strong>Brand: </strong>Professional Plastics<br><strong>Model #: </strong>SMARBK.750MSC14784516<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>HDPE</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Opaque</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>61</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Manufacturing,Marine Industry,Outdoor Furniture</td>\n</tr>\n<tr>\n<td><strong>For Outdoor Use</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>12.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:13:26-06:00",
+  "created_at": "2023-12-29T03:13:26-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Professional Plastics",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43705581371559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98887623",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.25",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785814851751,
+      "created_at": "2023-12-29T03:13:26-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237334503591,
+      "created_at": "2025-02-03T18:12:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:31-06:00",
+      "product_id": 7785814851751,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0020564-21_78c57d3d-9f13-46bd-8978-ab5b7e619dcf.jpg?v=1738627951",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0020564-21_78c57d3d-9f13-46bd-8978-ab5b7e619dcf.jpg?v=1738627951",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Professional Plastics",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

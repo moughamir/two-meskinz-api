@@ -1,0 +1,52 @@
+{
+  "id": 8453386895527,
+  "title": "Lineman's Double-Face Hammer, 36 oz Head, 14″ OAL",
+  "handle": "kp6050610",
+  "body_html": null,
+  "published_at": "2025-01-24T03:50:58-06:00",
+  "created_at": "2025-01-24T03:50:56-06:00",
+  "updated_at": "2025-09-22T10:51:48-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500544512167,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6050610",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.66",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453386895527,
+      "created_at": "2025-01-24T03:50:56-06:00",
+      "updated_at": "2025-09-22T10:51:48-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80.66,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

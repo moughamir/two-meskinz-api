@@ -1,0 +1,109 @@
+{
+  "id": 7997842325592,
+  "title": "Seashell Amalfi Fruits Google Pixel 6a Case",
+  "handle": "seashell-amalfi-fruits-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transport yourself to the sun-kissed shores of the Amalfi Coast with the Amalfi Fruits Phone Case! This vibrant design features a delightful mosaic of zesty lemons, juicy oranges, and lush greenery, reminiscent of a picturesque Italian citrus grove. Perfect for adding a splash of Mediterranean charm to your device. Let your phone bask in the beauty of the Amalfi Coast and feel the sunshine every time you reach for your device with the Amalfi Fruits Phone Case! <meta charset=\"utf-8\">🍋<meta charset=\"utf-8\">🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:06:02-04:00",
+  "created_at": "2024-06-24T11:14:33-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Amalfi Fruits",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946512261208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:AMALFI-FRUITS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997842325592,
+      "created_at": "2024-06-24T11:14:33-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144124735576,
+      "created_at": "2024-06-24T11:14:33-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:33-04:00",
+      "product_id": 7997842325592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_PX6A_Seashell.jpg?v=1719242073",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161089744984,
+      "created_at": "2024-06-26T15:35:02-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:35:10-04:00",
+      "product_id": 7997842325592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_09_266a94a0-4184-43bc-bdbf-9c08bb445b5d.jpg?v=1719430510",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161089777752,
+      "created_at": "2024-06-26T15:35:02-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:35:10-04:00",
+      "product_id": 7997842325592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_08_75dba57f-cd17-4bd1-8bc7-1ffa9323f80b.jpg?v=1719430510",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161089712216,
+      "created_at": "2024-06-26T15:35:02-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:35:03-04:00",
+      "product_id": 7997842325592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_670fcebe-6757-4c39-90b8-6325e1421a0a.jpg?v=1719430503",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AMALFI-FRUITS_PX6A_Seashell.jpg?v=1719242073",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

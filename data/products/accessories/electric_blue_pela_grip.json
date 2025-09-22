@@ -1,0 +1,92 @@
+{
+  "id": 7552092930136,
+  "title": "Electric Blue Pela Grip",
+  "handle": "electric-blue-pela-grip",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Never lose grip on your iPhone again with our compostable and plant-based, Pela Grip. With a comfortable and adjustable loop, this little lifesaver secures firmly to your Pela Case and protects your phone from accidental drops. It also does double-duty as a stand for horizontal viewing on the go. Now you can grip and stabilize your device with ease - no more shaky selfies!</span></p>\n<meta charset=\"utf-8\"><span data-mce-fragment=\"1\"></span>\n<p data-mce-fragment=\"1\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><strong data-mce-fragment=\"1\">Not compatible with Wallet Cases or Card Holder. Not compatible with Classic cases for Google Pixel 5 or Google Pixel 4a .</strong></p>",
+  "published_at": "2024-04-22T14:23:40-04:00",
+  "created_at": "2024-02-02T14:36:14-05:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Pela Grip",
+  "tags": [
+    "accessory",
+    "fathers day",
+    "Griply"
+  ],
+  "variants": [
+    {
+      "id": 41020865642584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25300-GRIPLY-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.00",
+      "grams": 23,
+      "compare_at_price": "15.00",
+      "position": 1,
+      "product_id": 7552092930136,
+      "created_at": "2024-02-02T14:36:14-05:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32659008192600,
+      "created_at": "2024-04-18T09:44:25-04:00",
+      "position": 1,
+      "updated_at": "2024-04-18T09:44:27-04:00",
+      "product_id": 7552092930136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Grip_Flat_Off_Phone_ElectricBlue_1.jpg?v=1713447867",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659008159832,
+      "created_at": "2024-04-18T09:44:25-04:00",
+      "position": 2,
+      "updated_at": "2024-04-18T09:44:26-04:00",
+      "product_id": 7552092930136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Grip_Flat_Off_Phone_ElectricBlue_3.jpg?v=1713447866",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32659010519128,
+      "created_at": "2024-04-18T09:45:19-04:00",
+      "position": 3,
+      "updated_at": "2024-04-18T09:45:21-04:00",
+      "product_id": 7552092930136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Grip_Flat_On_Phone_Electric_Blue_1.jpg?v=1713447921",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15,
+  "compare_at_price": 15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Grip_Flat_Off_Phone_ElectricBlue_1.jpg?v=1713447867",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Pela Grip",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 7133258776664,
+  "title": "Black Glow iPhone 11 Case",
+  "handle": "black-glow-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T14:24:09-04:00",
+  "created_at": "2022-05-30T09:50:20-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39954052677720,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16200-IP11-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7133258776664,
+      "created_at": "2022-05-30T09:50:20-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285609631832,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7133258776664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP11_Black_9cc05c17-e426-4060-9486-9a4fa45dc5a6.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719399512,
+      "created_at": "2023-06-13T14:28:16-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:28:18-04:00",
+      "product_id": 7133258776664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_bdac29ce-c6ad-4068-ab82-abf63d7c6924.jpg?v=1686680898",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719366744,
+      "created_at": "2023-06-13T14:28:16-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:28:17-04:00",
+      "product_id": 7133258776664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_bb9f6c9d-efc1-4749-bb0e-cc0cfae4014d.png?v=1686680897",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287719432280,
+      "created_at": "2023-06-13T14:28:16-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:28:18-04:00",
+      "product_id": 7133258776664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_eb47a831-f1b9-46b7-9d6d-1050d0b81026.png?v=1686680898",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_IP11_Black_9cc05c17-e426-4060-9486-9a4fa45dc5a6.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

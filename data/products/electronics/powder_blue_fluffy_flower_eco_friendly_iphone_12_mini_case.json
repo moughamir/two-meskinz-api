@@ -1,0 +1,119 @@
+{
+  "id": 7555251798104,
+  "title": "Powder Blue Fluffy Flower iPhone 12 Mini Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:05:34-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277402200,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16365-IP12MINI-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251798104,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170964090968,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251798104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP12MINI_PowderBlue.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120411736,
+      "created_at": "2024-02-28T17:25:50-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:25:54-05:00",
+      "product_id": 7555251798104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_d415f88e-b02e-4b35-a13d-cf8194a266c8.jpg?v=1709159154",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120313432,
+      "created_at": "2024-02-28T17:25:50-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:25:54-05:00",
+      "product_id": 7555251798104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_d83f9689-9cb4-48b5-b773-0492537ce7a2.jpg?v=1709159154",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120346200,
+      "created_at": "2024-02-28T17:25:50-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:25:52-05:00",
+      "product_id": 7555251798104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_7466ad3b-acbd-4ff4-a788-89b02e2361d1.jpg?v=1709159152",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120378968,
+      "created_at": "2024-02-28T17:25:50-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:25:52-05:00",
+      "product_id": 7555251798104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_5ca753b1-4e1e-4ab4-a696-147a70949a64.jpg?v=1709159152",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP12MINI_PowderBlue.jpg?v=1707245497",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

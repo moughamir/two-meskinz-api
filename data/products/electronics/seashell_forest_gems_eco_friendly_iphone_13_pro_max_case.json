@@ -1,0 +1,110 @@
+{
+  "id": 8142177763416,
+  "title": "Seashell Forest Gems iPhone 13 Pro Max Case",
+  "handle": "seashell-forest-gems-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:46:57-04:00",
+  "created_at": "2024-09-25T12:26:18-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294275145816,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142177763416,
+      "created_at": "2024-09-25T12:26:18-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677678772312,
+      "created_at": "2024-09-25T12:26:18-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:18-04:00",
+      "product_id": 8142177763416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP13PMAX_Seashell.jpg?v=1727281578",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749430206552,
+      "created_at": "2024-10-09T17:27:12-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:27:14-04:00",
+      "product_id": 8142177763416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_29ff9581-21aa-4f40-bca6-86f17d2342fe.jpg?v=1728509234",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749430272088,
+      "created_at": "2024-10-09T17:27:12-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:27:14-04:00",
+      "product_id": 8142177763416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_9794bafb-ae88-4883-ab20-e87bf7e0e5b2.jpg?v=1728509234",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749430239320,
+      "created_at": "2024-10-09T17:27:12-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:27:14-04:00",
+      "product_id": 8142177763416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_617665f2-a86b-4aa8-8993-4e318b093889.jpg?v=1728509234",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP13PMAX_Seashell.jpg?v=1727281578",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

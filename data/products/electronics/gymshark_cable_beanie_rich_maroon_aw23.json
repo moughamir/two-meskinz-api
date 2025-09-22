@@ -1,0 +1,98 @@
+{
+  "id": 6805514027210,
+  "title": "Gymshark Cable Beanie - Rich Maroon",
+  "handle": "gymshark-cable-beanie-rich-maroon-aw23",
+  "body_html": "<p><strong>YOU CAN LEAVE YOUR HAT ON</strong></p>\n<p><br data-mce-fragment=\"1\">An easy match for whatever you get up to, this beanie will keep you warm whether you’re out on a run or just out repping the Gymshark fam’.</p>\n<p> </p>\n<p>• Stylish cable knit design<br data-mce-fragment=\"1\">• Woven cotton label for an elevated finish</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• One size<br data-mce-fragment=\"1\">• Wear it on your head</p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• 53% Polyester , 45% Cotton, 2% Elastane</p>\n<p><br data-mce-fragment=\"1\">SKU: I3A3L-RBSN<br data-mce-fragment=\"1\"></p>",
+  "published_at": "2023-10-17T10:28:59-07:00",
+  "created_at": "2023-10-06T08:33:59-07:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1752486553",
+    "all-products",
+    "beanies",
+    "build-your-wishlist",
+    "created_by:product-service",
+    "filter-colour:Red",
+    "headwear",
+    "loungewear",
+    "lower-bucket",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "rest-day",
+    "season:AW23",
+    "stocking-fillers",
+    "valentines-day"
+  ],
+  "variants": [
+    {
+      "id": 39790381629642,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A3L-RBSN-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805514027210,
+      "created_at": "2023-10-06T08:33:59-07:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976395714762,
+      "created_at": "2023-10-06T08:33:59-07:00",
+      "position": 1,
+      "updated_at": "2023-10-06T08:34:01-07:00",
+      "product_id": 6805514027210,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/CableBeanieBROSRichMaroon-Marl-GSBurgundyBrown-GSSoftBerryI3A3L-RBSN-0003.jpg?v=1696606441",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976395583690,
+      "created_at": "2023-10-06T08:33:59-07:00",
+      "position": 2,
+      "updated_at": "2023-10-06T08:34:01-07:00",
+      "product_id": 6805514027210,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/CableBeanieBROSRichMaroon-Marl-GSBurgundyBrown-GSSoftBerryI3A3L-RBSN-0005.jpg?v=1696606441",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/CableBeanieBROSRichMaroon-Marl-GSBurgundyBrown-GSSoftBerryI3A3L-RBSN-0003.jpg?v=1696606441",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

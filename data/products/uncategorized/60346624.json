@@ -1,0 +1,67 @@
+{
+  "id": 8452579721383,
+  "title": "Square End Mill:",
+  "handle": "60346624",
+  "body_html": "<br><strong>Item #: </strong>09771585<br><strong>Brand: </strong>WNT<br><strong>Model #: </strong>50936010<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Cutter Diameter (mm)</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (mm)</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>72</td>\n</tr>\n<tr> <td> <strong>Length of Cut (mm)</strong>\n</td>\n<td>22.00</td>\n</tr>\n<tr> <td> <strong>End Type</strong>\n</td>\n<td>End Mill</td>\n</tr>\n<tr> <td> <strong>Material Application</strong>\n</td>\n<td>Plastic</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>50936</td>\n</tr>\n<tr> <td> <strong>Tooth Style</strong>\n</td>\n<td>Cross-Pitched</td>\n</tr>\n<tr> <td> <strong>Head Shape</strong>\n</td>\n<td>Flat</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>Ti28</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112821</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:47:59-06:00",
+  "created_at": "2025-01-23T10:47:57-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "WNT",
+  "product_type": "Milling",
+  "tags": [
+    "Router Bits"
+  ],
+  "variants": [
+    {
+      "id": 46498159820967,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09771585",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "179.15",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452579721383,
+      "created_at": "2025-01-23T10:47:57-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244310286503,
+      "created_at": "2025-02-03T22:32:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:32:10-06:00",
+      "product_id": 8452579721383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0977158-21.jpg?v=1738643530",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 179.15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0977158-21.jpg?v=1738643530",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WNT",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

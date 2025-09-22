@@ -1,0 +1,110 @@
+{
+  "id": 8164329062488,
+  "title": "Seashell Holiday Lights iPhone 14/16e Case",
+  "handle": "seashell-holiday-lights-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p class=\"p1\">It’s time to brighten up the season with the Holiday Lights Phone Case! Twinkling with colorful strands of classic holiday lights, this case brings all the cozy, festive vibes right to your phone. Whether you’re decking the halls or untangling lights, this design will keep your phone glowing with holiday cheer. Made from sustainable materials, it’s not just merry—it’s earth-friendly too. Keep your phone protected and let your holiday spirit shine bright with this delightful holiday case! <b>🎄💡</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:12:41-04:00",
+  "created_at": "2024-10-21T14:39:02-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Holiday Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345504342104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:HOLIDAY-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164329062488,
+      "created_at": "2024-10-21T14:39:03-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832661123160,
+      "created_at": "2024-10-21T14:39:02-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:39:05-04:00",
+      "product_id": 8164329062488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP14_Seashell.jpg?v=1729535945",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880948899928,
+      "created_at": "2024-10-28T14:47:49-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:47:51-04:00",
+      "product_id": 8164329062488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP1_46037670-e8cc-4ca6-887d-2cd55cd2492b.jpg?v=1730141271",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880948998232,
+      "created_at": "2024-10-28T14:47:49-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:47:51-04:00",
+      "product_id": 8164329062488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP2_03576555-617c-4d4d-9c0e-04336a7b0b3f.jpg?v=1730141271",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880948965464,
+      "created_at": "2024-10-28T14:47:49-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:47:51-04:00",
+      "product_id": 8164329062488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HolidayLights_PDP3_e6186946-d0ed-498c-8158-2d4a484de099.jpg?v=1730141271",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-LIGHTS_IP14_Seashell.jpg?v=1729535945",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

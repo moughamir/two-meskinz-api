@@ -1,0 +1,92 @@
+{
+  "id": 8190701863000,
+  "title": "Electric Blue Samsung S22 Phone Case",
+  "handle": "electric-blue-samsung-s22-phone-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2025-01-27T11:27:28-05:00",
+  "created_at": "2024-11-19T12:08:19-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42406565118040,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13598-S22-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190701863000,
+      "created_at": "2024-11-19T12:08:19-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130611863640,
+      "created_at": "2024-12-16T10:29:35-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:29:37-05:00",
+      "product_id": 8190701863000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S22_SAGEGREEN_BACK_4267db8b-05e4-4c03-9ac8-aae7c2b278c2.jpg?v=1734362977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34130611896408,
+      "created_at": "2024-12-16T10:29:35-05:00",
+      "position": 2,
+      "updated_at": "2024-12-16T10:29:37-05:00",
+      "product_id": 8190701863000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S22_SAGEGREEN_BACK45L_1af192df-4df8-4332-ba75-f56cc5598bcb.jpg?v=1734362977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34130611929176,
+      "created_at": "2024-12-16T10:29:36-05:00",
+      "position": 3,
+      "updated_at": "2024-12-16T10:29:37-05:00",
+      "product_id": 8190701863000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S22_SAGEGREEN_BACK45R_0070634c-d3f2-443f-819c-9dfa9e1bd8d4.jpg?v=1734362977",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S22_SAGEGREEN_BACK_4267db8b-05e4-4c03-9ac8-aae7c2b278c2.jpg?v=1734362977",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

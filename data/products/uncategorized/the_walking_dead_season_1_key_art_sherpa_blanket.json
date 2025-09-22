@@ -1,0 +1,119 @@
+{
+  "id": 7873592066095,
+  "title": "The Walking Dead Season 1 Key Art Sherpa Blanket",
+  "handle": "the-walking-dead-season-1-key-art-sherpa-blanket",
+  "body_html": "<ul>\n<li>You'll never need another blanket! This blanket is the perfect addition to your home, it looks good and is a nice companion on cool nights.</li>\n<li>Made Of: 100% polyester. </li>\n<li>Care: Machine wash cold on gentle cycle with mild detergent and similar colors. Tumble dry low or lay flat to dry for longest life.</li>\n</ul>",
+  "published_at": "2025-01-16T14:41:34-05:00",
+  "created_at": "2024-11-20T14:01:50-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Blankets",
+  "tags": [
+    "AMC",
+    "Blanket",
+    "Blankets",
+    "blankets and pillows",
+    "Home",
+    "Home & Office",
+    "home and office",
+    "home goods",
+    "Image Way Sherpa Blanket",
+    "Netflix at Home",
+    "Promo Eligible Collection",
+    "Sherpa Blanket",
+    "The Walking Dead",
+    "throw blanket",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43415886364719,
+      "title": "White / 37\" x 57\"",
+      "option1": "White",
+      "option2": "37\" x 57\"",
+      "option3": null,
+      "sku": "TWD-100206-0009-TWD-S1KEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.95",
+      "grams": 2495,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7873592066095,
+      "created_at": "2024-11-20T14:01:50-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43415886397487,
+      "title": "White / 50\" x 60\"",
+      "option1": "White",
+      "option2": "50\" x 60\"",
+      "option3": null,
+      "sku": "TWD-100206-0020-TWD-S1KEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.95",
+      "grams": 2495,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7873592066095,
+      "created_at": "2024-11-20T14:01:50-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35351372824623,
+      "created_at": "2025-01-16T20:10:27-05:00",
+      "position": 1,
+      "updated_at": "2025-01-16T20:10:28-05:00",
+      "product_id": 7873592066095,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_23.png?v=1737076228",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351372857391,
+      "created_at": "2025-01-16T20:10:27-05:00",
+      "position": 2,
+      "updated_at": "2025-01-16T20:10:29-05:00",
+      "product_id": 7873592066095,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_24.png?v=1737076229",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "37\" x 57\"",
+        "50\" x 60\""
+      ]
+    }
+  ],
+  "price": 49.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_23.png?v=1737076228",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Blankets",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

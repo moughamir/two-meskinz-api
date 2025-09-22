@@ -1,0 +1,110 @@
+{
+  "id": 7555251273816,
+  "title": "Seashell Merry Medley iPhone 14 Pro Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:03:45-05:00",
+  "created_at": "2024-02-06T13:51:33-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035276910680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251273816,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963468376,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:33-05:00",
+      "product_id": 7555251273816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP14P_Seashell.jpg?v=1707245493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111728216,
+      "created_at": "2024-02-28T17:21:57-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:22:00-05:00",
+      "product_id": 7555251273816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_d1b47d42-8cd6-43ed-a75a-358ba4ccb2a5.jpg?v=1709158920",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111760984,
+      "created_at": "2024-02-28T17:21:57-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:22:00-05:00",
+      "product_id": 7555251273816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_57cf6b5f-5cab-4ad9-a20a-0147194d9eb1.jpg?v=1709158920",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241111695448,
+      "created_at": "2024-02-28T17:21:57-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:21:59-05:00",
+      "product_id": 7555251273816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_68ced5c9-9c86-4dad-8750-f3f1f4ae2e7a.jpg?v=1709158919",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP14P_Seashell.jpg?v=1707245493",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8453541724248,
+  "title": "Seashell Strawboories iPhone 16 Pro Max Case",
+  "handle": "seashell-strawboories-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Berry cute, berry creepy 🍓👻—the Strawboories Phone Case is serving up fruit with a frightful twist! These strawberries aren’t just sweet; they’re spooked, with little ghostly faces that make your phone look hauntingly adorable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-04T09:04:15-04:00",
+  "created_at": "2025-08-21T13:50:00-04:00",
+  "updated_at": "2025-09-22T15:13:07-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Strawboories",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43146601889880,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17321-IP16PMAX-SEASHELL-AOD:STRAWBOORIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8453541724248,
+      "created_at": "2025-08-21T13:50:00-04:00",
+      "updated_at": "2025-09-22T15:13:07-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638757916760,
+      "created_at": "2025-08-21T13:50:00-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T14:15:46-04:00",
+      "product_id": 8453541724248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_IP16PMAX_Seashell.jpg?v=1755800146",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736267653208,
+      "created_at": "2025-09-03T10:41:03-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:41:03-04:00",
+      "product_id": 8453541724248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70bae47684d0823f356b9e55c918731a_72f59071-c4b0-4596-b063-752b8a90619b.jpg?v=1756910463",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736267784280,
+      "created_at": "2025-09-03T10:41:04-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:41:04-04:00",
+      "product_id": 8453541724248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d5187f2a3596b91601ec83ed7502ac4_ccfc4595-4b53-4824-9e3a-d4e581cafb60.jpg?v=1756910464",
+      "width": 2048,
+      "height": 2039
+    },
+    {
+      "id": 35736268111960,
+      "created_at": "2025-09-03T10:41:05-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:41:05-04:00",
+      "product_id": 8453541724248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/771a45ddc4671ca5861316cd18f45778_56a47bd2-29dd-4be8-8940-5f160f56e146.jpg?v=1756910465",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736268210264,
+      "created_at": "2025-09-03T10:41:07-04:00",
+      "position": 5,
+      "updated_at": "2025-09-03T10:41:07-04:00",
+      "product_id": 8453541724248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/952a4fe7db645654d39f94f4aa82ec86_e7d8a9a5-ecf3-40c3-bad7-6f22c7b8ca75.jpg?v=1756910467",
+      "width": 3373,
+      "height": 3373
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_IP16PMAX_Seashell.jpg?v=1755800146",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

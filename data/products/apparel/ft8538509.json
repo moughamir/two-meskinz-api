@@ -1,0 +1,67 @@
+{
+  "id": 7785587867815,
+  "title": "Brand: Norgren / Part #: QM/146032/37",
+  "handle": "ft8538509",
+  "body_html": "<br><strong>Item #: </strong>23125008<br><strong>Brand: </strong>Norgren<br><strong>Model #: </strong>QM/146032/37<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Repair Kit</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Swinging Bridge</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Aluminum</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:12:12-06:00",
+  "created_at": "2023-12-28T23:12:12-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Norgren",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Pneumatics"
+  ],
+  "variants": [
+    {
+      "id": 43704640962727,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "23125008",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "86.72",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785587867815,
+      "created_at": "2023-12-28T23:12:12-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237076521127,
+      "created_at": "2025-02-03T18:03:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:03:45-06:00",
+      "product_id": 7785587867815,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2312500-21.jpg?v=1738627425",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 86.72,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2312500-21.jpg?v=1738627425",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norgren",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

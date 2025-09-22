@@ -1,0 +1,113 @@
+{
+  "id": 7287183900719,
+  "title": "Heartstopper Eco Tote Bag",
+  "handle": "heartstopper-eco-tote-bag-2",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Artwork by Christina Moreland, an independent designer, illustrator, animator, and creator of \"Afro Gurl\", currently based in Los Angeles, CA. When Christina's not creating or developing brand design work, they're drawing cartoons, sketching comics, and creating animations. Their work promotes use of bright colors, whimsical shapes, and a handcrafted approach, producing work that exists comfortably between contemporary and nostalgic.</span></p>\n<p>Say goodbye to plastic, and bag your goodies in this organic cotton tote bag. There’s more than enough room for groceries, books, and anything in between.</p>\n<p>Product Details:<br>• 100% certified organic cotton 3/1 twill<br>• Fabric weight: 8 oz/yd² (272 g/m²)<br>• Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm)<br>• Weight limit: 30 lbs (13.6 kg)<br>• 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length<br>• Open main compartment<br>• Blank product components sourced from Vietnam<br><br>This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!</p>\n<p><strong class=\"size-guide-title\">Size guide</strong></p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">\n<table cellpadding=\"5\">\n<tbody>\n<tr>\n<td> </td>\n<td><strong>BAG WIDTH (inches)</strong></td>\n<td><strong>BAG HEIGHT (inches)</strong></td>\n<td><strong>BAG DEPTH (inches)</strong></td>\n<td><strong>STRAP LENGTH (inches)</strong></td>\n<td><strong>STRAP WIDTH (inches)</strong></td>\n</tr>\n<tr>\n<td><strong>One Size</strong></td>\n<td>16</td>\n<td>14 ½</td>\n<td>5</td>\n<td>24 1/2</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+  "published_at": "2023-08-07T15:20:26-04:00",
+  "created_at": "2023-08-03T10:19:16-04:00",
+  "updated_at": "2025-09-22T11:41:13-04:00",
+  "vendor": "Heartstopper",
+  "product_type": "Bags",
+  "tags": [
+    "2023",
+    "2023 BFCM SITEWIDE SALE",
+    "2023 Q4 Sales Bypass",
+    "81059939",
+    "accessories",
+    "bags",
+    "bags and wallets",
+    "category accessories",
+    "collections",
+    "Netflix 26th Anniversary Sale - Part one",
+    "no-returns",
+    "pod",
+    "pod collection",
+    "printful",
+    "Promo Eligible Collection",
+    "Q3",
+    "series",
+    "title",
+    "Title: Heartstopper",
+    "titles",
+    "Tote bag",
+    "Type: Accessories",
+    "Type: Bags",
+    "Vendor: Printful",
+    "View All"
+  ],
+  "variants": [
+    {
+      "id": 41692931555375,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "9183314_10457",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 130,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7287183900719,
+      "created_at": "2023-08-03T10:19:16-04:00",
+      "updated_at": "2025-09-22T11:41:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32932814356527,
+      "created_at": "2023-08-07T15:07:14-04:00",
+      "position": 1,
+      "updated_at": "2023-08-07T15:07:15-04:00",
+      "product_id": 7287183900719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HeartstopperxChristinaMoreland-ToteBags-07.jpg?v=1691435235",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 32932814389295,
+      "created_at": "2023-08-07T15:07:14-04:00",
+      "position": 2,
+      "updated_at": "2023-08-07T15:07:15-04:00",
+      "product_id": 7287183900719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HeartstopperxChristinaMoreland-ToteBags-08.jpg?v=1691435235",
+      "width": 1200,
+      "height": 1560
+    },
+    {
+      "id": 32932814422063,
+      "created_at": "2023-08-07T15:07:17-04:00",
+      "position": 3,
+      "updated_at": "2023-08-07T15:07:18-04:00",
+      "product_id": 7287183900719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HeartstopperxChristinaMoreland-ToteBags-01_2.jpg?v=1691435238",
+      "width": 1200,
+      "height": 1560
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HeartstopperxChristinaMoreland-ToteBags-07.jpg?v=1691435235",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Heartstopper",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

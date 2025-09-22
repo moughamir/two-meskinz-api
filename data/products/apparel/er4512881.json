@@ -1,0 +1,67 @@
+{
+  "id": 7785346826407,
+  "title": "Brand: Widia / Part #: 6568477",
+  "handle": "er4512881",
+  "body_html": "<br><strong>Item #: </strong>02470573<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6568477<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>18.80</td>\n</tr>\n<tr>\n<td><strong>Point Angle</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Diameter (mm)</strong></td>\n<td>18.8000</td>\n</tr>\n<tr>\n<td><strong>Tip Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>WP40PD</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>11% Cobalt</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>TDMX Drill</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Insert Geometry</strong></td>\n<td>PK</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>C</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; K</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material Code</strong></td>\n<td>M</td>\n</tr>\n<tr>\n<td><strong>Height (mm)</strong></td>\n<td>25.7000</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>25.70</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (mm)</strong></td>\n<td>18.80</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>25.7000</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>TDMX18800PKM</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length/Projection (mm)</strong></td>\n<td>25.70</td>\n</tr>\n<tr>\n<td><strong>Minimum Cutting Diameter (mm)</strong></td>\n<td>18.80</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Applications</strong></td>\n<td>Drilling</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN; TiAlN</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:17:08-06:00",
+  "created_at": "2023-12-28T18:17:08-06:00",
+  "updated_at": "2025-09-22T10:55:39-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43703654580391,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02470573",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "103.73",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785346826407,
+      "created_at": "2023-12-28T18:17:08-06:00",
+      "updated_at": "2025-09-22T10:55:39-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236750971047,
+      "created_at": "2025-02-03T17:52:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:46-06:00",
+      "product_id": 7785346826407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0223411-21_0c4b8ca6-6ef3-4d54-8eb9-2a60bdd90f0b.jpg?v=1738626766",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 103.73,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0223411-21_0c4b8ca6-6ef3-4d54-8eb9-2a60bdd90f0b.jpg?v=1738626766",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

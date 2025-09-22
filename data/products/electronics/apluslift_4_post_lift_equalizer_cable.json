@@ -1,0 +1,87 @@
+{
+  "id": 8422946177252,
+  "title": "APlusLift 4-Post Lift Equalizer Cable - One Set of 4",
+  "handle": "apluslift-4-post-lift-equalizer-cable",
+  "body_html": "<h3>One set of replacement safety cables for 4-post car lifts - 4 cables.</h3>\n<h3><span style=\"color: red;\">For HW-8S and HW-8SXLT cables, please email us a picture of the nameplate and a picture of the label on the old cable at help@apluslift.com after the purchase. We want to make sure this is the correct cable.</span></h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2024-06-20T19:11:22-07:00",
+  "created_at": "2024-06-20T19:11:22-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "4-Post Lifts and Jacks Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330572509412,
+      "title": "HW-8S Cables (A Set of 4)",
+      "option1": "HW-8S Cables (A Set of 4)",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "400.00",
+      "grams": 4536,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8422946177252,
+      "created_at": "2024-06-20T19:11:23-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330572640484,
+      "title": "HW-8SXLT Cables (A Set of 4)",
+      "option1": "HW-8SXLT Cables (A Set of 4)",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "440.00",
+      "grams": 4536,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 8422946177252,
+      "created_at": "2024-06-20T19:11:23-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 21669053300894,
+      "created_at": "2021-02-22T18:11:54-08:00",
+      "position": 1,
+      "updated_at": "2021-02-22T18:11:54-08:00",
+      "product_id": 8422946177252,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/10k-car-lift-safety-cable.jpg?v=1614046314",
+      "width": 1080,
+      "height": 1440
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "HW-8S Cables (A Set of 4)",
+        "HW-8SXLT Cables (A Set of 4)"
+      ]
+    }
+  ],
+  "price": 400,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/10k-car-lift-safety-cable.jpg?v=1614046314",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

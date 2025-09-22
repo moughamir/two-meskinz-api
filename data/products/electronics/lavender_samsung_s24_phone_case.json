@@ -1,0 +1,92 @@
+{
+  "id": 7495942209624,
+  "title": "Lavender Samsung S24 Phone Case",
+  "handle": "lavender-samsung-s24-phone-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-01-17T09:33:00-05:00",
+  "created_at": "2023-12-01T13:08:19-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40802637840472,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13782-S24-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7495942209624,
+      "created_at": "2023-12-01T13:08:19-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32010145759320,
+      "created_at": "2023-12-21T11:25:11-05:00",
+      "position": 1,
+      "updated_at": "2023-12-21T11:25:18-05:00",
+      "product_id": 7495942209624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_LAVENDER_BACK.jpg?v=1703175918",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010145792088,
+      "created_at": "2023-12-21T11:25:11-05:00",
+      "position": 2,
+      "updated_at": "2023-12-21T11:25:18-05:00",
+      "product_id": 7495942209624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_LAVENDER_BACK_45L.jpg?v=1703175918",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010146250840,
+      "created_at": "2023-12-21T11:25:11-05:00",
+      "position": 3,
+      "updated_at": "2023-12-21T11:25:18-05:00",
+      "product_id": 7495942209624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_LAVENDER_BACK_45R.jpg?v=1703175918",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_LAVENDER_BACK.jpg?v=1703175918",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

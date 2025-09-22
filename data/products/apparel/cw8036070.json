@@ -1,0 +1,67 @@
+{
+  "id": 7785777660071,
+  "title": "Brand: Williams / Part #: S-40AA-TH",
+  "handle": "cw8036070",
+  "body_html": "<br><strong>Item #: </strong>54365374<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>S-40AA-TH<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Tethered Flexible Handle</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>1/2 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>10-13/16</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Chrome Plating Provides Increased Protection from Rust &amp; Corrosion; Drive Handles Provide Extra Leverage with Greater Strength than Ratchets; Speeder Handle is Ideal for Fast Turn Down of Fasteners</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Chrome</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:53:11-06:00",
+  "created_at": "2023-12-29T01:53:11-06:00",
+  "updated_at": "2025-09-22T10:54:45-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Ratchets; Drivers & Extensions"
+  ],
+  "variants": [
+    {
+      "id": 43705483296935,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54365374",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "78.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785777660071,
+      "created_at": "2023-12-29T01:53:11-06:00",
+      "updated_at": "2025-09-22T10:54:45-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237247307943,
+      "created_at": "2025-02-03T18:09:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:09:43-06:00",
+      "product_id": 7785777660071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5436537-21_e8cc8abe-5280-4b12-929e-e77daabb4b42.jpg?v=1738627783",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 78.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5436537-21_e8cc8abe-5280-4b12-929e-e77daabb4b42.jpg?v=1738627783",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 7363433463896,
+  "title": "Seashell Patchwork iPhone 14 Pro Max Case",
+  "handle": "seashell-patchwork-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Wrap your phone in a kaleidoscope of color with the Pela Patchwork Phone Case! This vibrant accessory features an enchanting array of colorful tiles, arranged in a dynamic, sweeping pattern that brings to mind the spirited designs of a patchwork quilt. Perfect for those who love to add a splash of fun and a pop of color to their everyday essentials, this case not only protects your phone but also turns it into a statement piece. It's an artful celebration of creativity and joy, ensuring your device stands out in the most delightful way. 🌈📱✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-25T08:21:31-04:00",
+  "created_at": "2023-05-24T12:43:16-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Retro Shapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Patchwork",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40232964358232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:PATCHWORK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363433463896,
+      "created_at": "2023-05-24T12:43:17-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30270395580504,
+      "created_at": "2023-05-24T12:43:17-04:00",
+      "position": 1,
+      "updated_at": "2023-05-24T12:43:17-04:00",
+      "product_id": 7363433463896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP14PMAX_Seashell.jpg?v=1684946597",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413897816,
+      "created_at": "2023-05-24T13:10:18-04:00",
+      "position": 2,
+      "updated_at": "2023-05-24T13:10:20-04:00",
+      "product_id": 7363433463896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesignv3_9354b746-7832-46e2-86ff-22ec94cd0cfe.png?v=1684948220",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413865048,
+      "created_at": "2023-05-24T13:10:18-04:00",
+      "position": 3,
+      "updated_at": "2023-05-24T13:10:20-04:00",
+      "product_id": 7363433463896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CASE-25_444efe64-3855-49ad-9fba-758a0516b727.jpg?v=1684948220",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413832280,
+      "created_at": "2023-05-24T13:10:18-04:00",
+      "position": 4,
+      "updated_at": "2023-05-24T13:10:19-04:00",
+      "product_id": 7363433463896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesign_6325167a-cfee-4ce6-9b74-8f5c4babcd4c.png?v=1684948219",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP14PMAX_Seashell.jpg?v=1684946597",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

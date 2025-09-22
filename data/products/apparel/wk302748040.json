@@ -1,0 +1,67 @@
+{
+  "id": 7785294069927,
+  "title": "Brand: SpotSee / Part #: 4003C ADP100",
+  "handle": "wk302748040",
+  "body_html": "<br><strong>Item #: </strong>83077149<br><strong>Brand: </strong>SpotSee<br><strong>Model #: </strong>4003C ADP100<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Indicator Use</strong>\n</td>\n<td>Continuous</td>\n</tr>\n<tr>\n<td><strong>Temperature Rating</strong></td>\n<td>55; 45; 35; 60; 50; 40; 30</td>\n</tr>\n<tr>\n<td><strong>Accuracy</strong></td>\n<td>+/-1C</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>0.5</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Continuous temperature monitoring</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:34:28-06:00",
+  "created_at": "2023-12-28T16:34:28-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "SpotSee",
+  "product_type": "Marking & Labeling",
+  "tags": [
+    "Labels & Tags"
+  ],
+  "variants": [
+    {
+      "id": 43703562010791,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "83077149",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.46",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785294069927,
+      "created_at": "2023-12-28T16:34:29-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236641460391,
+      "created_at": "2025-02-03T17:49:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:10-06:00",
+      "product_id": 7785294069927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8307714-21.jpg?v=1738626550",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 110.46,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8307714-21.jpg?v=1738626550",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SpotSee",
+  "category": "Marking & Labeling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

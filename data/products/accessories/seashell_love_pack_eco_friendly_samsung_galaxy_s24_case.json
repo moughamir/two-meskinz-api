@@ -1,0 +1,119 @@
+{
+  "id": 8216567152728,
+  "title": "Seashell Love Pack Samsung Galaxy S24 Case",
+  "handle": "seashell-love-pack-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:20:26-05:00",
+  "created_at": "2024-12-16T10:52:30-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059854424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216567152728,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130695389272,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:32-05:00",
+      "product_id": 8216567152728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_S24_Seashell.jpg?v=1734364352",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215489994840,
+      "created_at": "2025-01-03T12:47:23-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:47:25-05:00",
+      "product_id": 8216567152728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_47483c9a-f4d5-4bad-9842-e676820dbfa3.jpg?v=1735926445",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215489929304,
+      "created_at": "2025-01-03T12:47:23-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:47:24-05:00",
+      "product_id": 8216567152728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_d5b7466c-6e35-4b56-977a-cd8a6e3315d5.jpg?v=1735926444",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215489896536,
+      "created_at": "2025-01-03T12:47:23-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:47:24-05:00",
+      "product_id": 8216567152728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_2e61c36b-2851-479b-9305-4d62de66ef20.jpg?v=1735926444",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215489863768,
+      "created_at": "2025-01-03T12:47:23-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:47:24-05:00",
+      "product_id": 8216567152728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_cef1073f-f9d6-446c-a8ea-a31fe7c775f1.jpg?v=1735926444",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_S24_Seashell.jpg?v=1734364352",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

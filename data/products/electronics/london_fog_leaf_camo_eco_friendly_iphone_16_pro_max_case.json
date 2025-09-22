@@ -1,0 +1,109 @@
+{
+  "id": 8299236917336,
+  "title": "London Fog Leaf Camo iPhone 16 Pro Max Case",
+  "handle": "london-fog-leaf-camo-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Disappear into the beauty of the wild with <em data-start=\"82\" data-end=\"93\">Leaf Camo Phone Case</em>! Featuring a lush, layered pattern of greenery, this case is perfect for those who feel most alive when they’re hiking through the trees, exploring forest trails, or simply bringing a touch of nature everywhere they go. Whether you're blending in or standing out, this design keeps your love for the outdoors right at your fingertips.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-20T09:14:09-04:00",
+  "created_at": "2025-02-26T09:57:28-05:00",
+  "updated_at": "2025-09-22T15:14:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Leaf Camo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697313288280,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17320-IP16PMAX-LFOG-AOD:LEAF-CAMO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299236917336,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "updated_at": "2025-09-22T15:14:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599088783448,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T09:57:30-05:00",
+      "product_id": 8299236917336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP16PMAX_LondonFog.jpg?v=1740581850",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705962434648,
+      "created_at": "2025-03-17T14:32:47-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T14:32:49-04:00",
+      "product_id": 8299236917336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP1_852ff816-6fa5-457a-89f8-031d0c220445.jpg?v=1742236369",
+      "width": 3673,
+      "height": 3673
+    },
+    {
+      "id": 34705962500184,
+      "created_at": "2025-03-17T14:32:47-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T14:32:49-04:00",
+      "product_id": 8299236917336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP2_a3a69f84-ca6a-47ab-b89d-12941879eec1.jpg?v=1742236369",
+      "width": 3780,
+      "height": 3780
+    },
+    {
+      "id": 34705962467416,
+      "created_at": "2025-03-17T14:32:47-04:00",
+      "position": 4,
+      "updated_at": "2025-03-17T14:32:49-04:00",
+      "product_id": 8299236917336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP3_aeea4343-a345-41fb-bb9e-76374f2d85b1.jpg?v=1742236369",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP16PMAX_LondonFog.jpg?v=1740581850",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

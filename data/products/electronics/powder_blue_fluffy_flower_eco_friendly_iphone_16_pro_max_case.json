@@ -1,0 +1,120 @@
+{
+  "id": 8381664231512,
+  "title": "Powder Blue Fluffy Flower iPhone 16 Pro Max Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-05-21T17:06:55-04:00",
+  "created_at": "2025-05-21T09:52:43-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895732146264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17324-IP16PMAX-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8381664231512,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065439322200,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:45-04:00",
+      "product_id": 8381664231512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16PMAX_PowderBlue.jpg?v=1747835565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763430488,
+      "created_at": "2025-05-21T11:28:16-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:28:17-04:00",
+      "product_id": 8381664231512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_44536a28-d6cb-4efe-94e6-ac2b93ad4b60.jpg?v=1747841297",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763397720,
+      "created_at": "2025-05-21T11:28:16-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:28:17-04:00",
+      "product_id": 8381664231512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_d9e77d30-34d3-4dd6-ba1e-3dec1d966a4a.jpg?v=1747841297",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763364952,
+      "created_at": "2025-05-21T11:28:16-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:28:17-04:00",
+      "product_id": 8381664231512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_3fb08313-7e91-447f-8eda-3baa64f43505.jpg?v=1747841297",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065764184152,
+      "created_at": "2025-05-21T11:29:07-04:00",
+      "position": 5,
+      "updated_at": "2025-05-21T11:29:09-04:00",
+      "product_id": 8381664231512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_2ba9b60a-ec62-4793-8edb-f508ce7a2185.jpg?v=1747841349",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16PMAX_PowderBlue.jpg?v=1747835565",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 8159013503064,
+  "title": "Powder Blue Bauble Blues Google Pixel 8a Case",
+  "handle": "powder-blue-bauble-blues-eco-friendly-google-pixel-8a-case",
+  "body_html": "<p><span>Wrap your phone in the winter charm of the Bauble Blues Phone Case, a standout piece from the Winter Wishlist Collection.  The Bauble Blues design features a myriad of festive ornaments that seem to dance amidst snowflakes. It's a tribute to the timeless tradition of decorating and celebrating, evoking memories of peaceful, snowy nights. ❄️🌟🌍</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:29:51-04:00",
+  "created_at": "2024-10-15T13:31:51-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8a",
+  "tags": [
+    "art-type:Print",
+    "collection:Winter Wishlist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bauble Blues",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42331978465368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15025-PX8a-POWDERBLUE-AOD:BAUBLE-BLUES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159013503064,
+      "created_at": "2024-10-15T13:31:51-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33794341503064,
+      "created_at": "2024-10-15T13:31:51-04:00",
+      "position": 1,
+      "updated_at": "2024-10-15T13:31:51-04:00",
+      "product_id": 8159013503064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BAUBLE-BLUES_PX8A_PowderBlue.jpg?v=1729013511",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BAUBLE-BLUES_PX8A_PowderBlue.jpg?v=1729013511",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

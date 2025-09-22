@@ -1,0 +1,118 @@
+{
+  "id": 7594669834349,
+  "title": "Ochre Heart",
+  "handle": "ochre-heart",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Lush <strong>plum</strong>, earthy <strong>patchouli</strong>, and creamy <strong>Dutjahn</strong> <strong>Sandalwood</strong> create a vibrant yet introspective aura reminiscent of a sunset over an ancient landscape.<br></p>",
+  "published_at": "2025-02-18T12:12:21-07:00",
+  "created_at": "2025-01-17T10:48:44-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura x Dutjahn",
+  "product_type": "Fragrance",
+  "tags": [
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart13",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42010431881325,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "OCRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7594669834349,
+      "created_at": "2025-01-17T10:48:44-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33579329585261,
+      "created_at": "2025-01-17T10:54:41-07:00",
+      "position": 1,
+      "updated_at": "2025-01-17T10:54:43-07:00",
+      "product_id": 7594669834349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-OchreHeart-Prod1-1224.jpg?v=1737136483",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33579329618029,
+      "created_at": "2025-01-17T10:54:41-07:00",
+      "position": 2,
+      "updated_at": "2025-01-17T10:54:47-07:00",
+      "product_id": 7594669834349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/plumresized_0c9d0fca-7017-47bf-8ddd-7c7222d2124f.jpg?v=1737136487",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33579329650797,
+      "created_at": "2025-01-17T10:54:41-07:00",
+      "position": 3,
+      "updated_at": "2025-01-17T10:54:47-07:00",
+      "product_id": 7594669834349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/OchreHeart-Dutjahn-Prod3-1224.png?v=1737136487",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33579329552493,
+      "created_at": "2025-01-17T10:54:41-07:00",
+      "position": 4,
+      "updated_at": "2025-01-17T10:54:47-07:00",
+      "product_id": 7594669834349,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-OchreHeart-Prod4-1224.jpg?v=1737136487",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Dutjahn-OchreHeart-Prod1-1224.jpg?v=1737136483",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura x Dutjahn",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

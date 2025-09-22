@@ -1,0 +1,111 @@
+{
+  "id": 7628008947821,
+  "title": "Citrus & Cream",
+  "handle": "citrus-cream-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Bright <strong>clementine</strong> and juicy <strong>mandarin</strong> blend seamlessly with warm <strong>amber</strong>, creating a creamy, sun-kissed scent—perfect for refreshing every drive.</p>",
+  "published_at": "2025-04-23T07:43:52-06:00",
+  "created_at": "2025-03-26T17:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Becki Owens",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Becki Owens",
+    "collection:Car",
+    "collection:New Arrivals",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42274624012397,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CAYC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7628008947821,
+      "created_at": "2025-03-26T17:02:51-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34152570355821,
+      "created_at": "2025-04-23T07:41:09-06:00",
+      "position": 1,
+      "updated_at": "2025-04-23T07:41:10-06:00",
+      "product_id": 7628008947821,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-OrangeAndCream-Car-Prod1-0325.jpg?v=1745415670",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34152570323053,
+      "created_at": "2025-04-23T07:41:08-06:00",
+      "position": 2,
+      "updated_at": "2025-04-23T07:43:14-06:00",
+      "product_id": 7628008947821,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mandarin-resized_da7140a4-03ab-45a2-9004-c7731be370e0.jpg?v=1745415794",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34152572387437,
+      "created_at": "2025-04-23T07:43:09-06:00",
+      "position": 3,
+      "updated_at": "2025-04-23T07:43:14-06:00",
+      "product_id": 7628008947821,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CitrusandCream-BeckiOwens-Car-Prod3-0325_1.png?v=1745415794",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34152570421357,
+      "created_at": "2025-04-23T07:41:09-06:00",
+      "position": 4,
+      "updated_at": "2025-04-23T07:43:14-06:00",
+      "product_id": 7628008947821,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-OrangeAndCream-Car-Prod4-0325.jpg?v=1745415794",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-OrangeAndCream-Car-Prod1-0325.jpg?v=1745415670",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Becki Owens",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 6805765325002,
+  "title": "Gymshark Sharkhead Beanie - Light Grey Core Marl",
+  "handle": "gymshark-sharkhead-beanie-headwear-grey-aw24",
+  "body_html": "<p>YOU CAN LEAVE YOUR HAT ON\n</p><p><br></p><p>\nStrip your style back to basics in this beanie. An easy match for whatever you get up to, this insulating knit keeps you warm whether you’re running or repping in the streets.\n</p><p><br></p><p>\n• Embroidered Sharkhead logo at front <br>&nbsp;• Thick turned-up cuff to keep it in place <br>&nbsp;• Soft, cotton material\n</p><p><br></p><p>\nSIZE &amp; FIT <br>&nbsp;• One size</p><p><br></p><p> \n\nMATERIALS &amp; CARE <br>&nbsp;• 100% Cotton</p><p><br></p><p>\nSKU:&nbsp;I3A5T-GBCN</p>",
+  "published_at": "2025-09-14T02:00:00-07:00",
+  "created_at": "2024-01-15T03:05:29-08:00",
+  "updated_at": "2025-09-22T08:44:37-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Headwear",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "aged-stock-eu",
+    "aged-stock-uk",
+    "akeneo_updated_at:1758287338",
+    "all-products",
+    "beanies",
+    "build-your-wishlist",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Grey",
+    "headwear",
+    "last-chance",
+    "last-chance-accessories",
+    "lower-bucket",
+    "nam-unpublish-wholesale",
+    "no-returns:2025-06-26T08:00:00_2025-07-07T14:00:00",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Sharkhead",
+    "rest-day",
+    "seamtype:Accessories",
+    "season:AW24",
+    "segmentation:Rest Day",
+    "stocking-fillers",
+    "subcategory:Beanie",
+    "tier:1"
+  ],
+  "variants": [
+    {
+      "id": 39791977169098,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A5T-GBCN-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.40",
+      "grams": 0,
+      "compare_at_price": "22.00",
+      "position": 1,
+      "product_id": 6805765325002,
+      "created_at": "2024-01-15T03:05:29-08:00",
+      "updated_at": "2025-09-22T08:44:37-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28993670217930,
+      "created_at": "2025-06-30T03:42:19-07:00",
+      "position": 1,
+      "updated_at": "2025-06-30T03:42:22-07:00",
+      "product_id": 6805765325002,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-SharkheadBeanieLightGreyCoreMarlI3A5T_GBCN_0013.jpg?v=1751280142",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993670250698,
+      "created_at": "2025-06-30T03:42:19-07:00",
+      "position": 2,
+      "updated_at": "2025-06-30T03:42:22-07:00",
+      "product_id": 6805765325002,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-SharkheadBeanieLightGreyCoreMarlI3A5T_GBCN_0015.jpg?v=1751280142",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.4,
+  "compare_at_price": 22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-SharkheadBeanieLightGreyCoreMarlI3A5T_GBCN_0013.jpg?v=1751280142",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Headwear",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

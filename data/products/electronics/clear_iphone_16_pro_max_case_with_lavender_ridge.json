@@ -1,0 +1,94 @@
+{
+  "id": 8026991755352,
+  "title": "Clear iPhone 16 Pro Max Case with Lavender Ridge",
+  "handle": "clear-iphone-16-pro-max-case-with-lavender-ridge",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span></p>\n<!---->",
+  "published_at": "2024-09-09T14:21:27-04:00",
+  "created_at": "2024-07-08T17:09:58-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 42004012335192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28661-IP16PMAX-LAV-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8026991755352,
+      "created_at": "2024-07-08T17:09:58-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33487214116952,
+      "created_at": "2024-08-16T14:44:39-04:00",
+      "position": 1,
+      "updated_at": "2024-08-16T14:44:41-04:00",
+      "product_id": 8026991755352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16PMAX_LAVENDER_BACK_3ddcc968-e069-43d6-be12-4e1fa5aae7c8.jpg?v=1723833881",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487214084184,
+      "created_at": "2024-08-16T14:44:39-04:00",
+      "position": 2,
+      "updated_at": "2024-08-16T14:44:41-04:00",
+      "product_id": 8026991755352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16PMAX_LAVENDER_BACK45L.jpg?v=1723833881",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487214149720,
+      "created_at": "2024-08-16T14:44:39-04:00",
+      "position": 3,
+      "updated_at": "2024-08-16T14:44:41-04:00",
+      "product_id": 8026991755352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16PMAX_LAVENDER_BACK45R.jpg?v=1723833881",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16PMAX_LAVENDER_BACK_3ddcc968-e069-43d6-be12-4e1fa5aae7c8.jpg?v=1723833881",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

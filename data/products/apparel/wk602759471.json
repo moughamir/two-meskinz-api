@@ -1,0 +1,67 @@
+{
+  "id": 7786150690983,
+  "title": "Brand: Race Sport / Part #: 1006695",
+  "handle": "wk602759471",
+  "body_html": "<br><strong>Item #: </strong>67829341<br><strong>Brand: </strong>Race Sport<br><strong>Model #: </strong>1006695<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Switch Type</strong>\n</td>\n<td>Flush Mount Anti-Vandal Switch</td>\n</tr>\n<tr>\n<td><strong>Number Of Connections</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Contact Form</strong></td>\n<td>SPDT</td>\n</tr>\n<tr>\n<td><strong>Sequence</strong></td>\n<td>On-Off</td>\n</tr>\n<tr>\n<td><strong>Amperage</strong></td>\n<td>15 A</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>12 VDC</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Red</td>\n</tr>\n<tr>\n<td><strong>Actuator Type</strong></td>\n<td>Push Button</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>19.00</td>\n</tr>\n<tr>\n<td><strong>Number Of Positions</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:41:57-06:00",
+  "created_at": "2023-12-29T11:41:57-06:00",
+  "updated_at": "2025-09-22T10:47:18-05:00",
+  "vendor": "Race Sport",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Electrical & Lighting"
+  ],
+  "variants": [
+    {
+      "id": 43707084079271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67829341",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.76",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786150690983,
+      "created_at": "2023-12-29T11:41:57-06:00",
+      "updated_at": "2025-09-22T10:47:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237935796391,
+      "created_at": "2025-02-03T18:30:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:05-06:00",
+      "product_id": 7786150690983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6782934-21.jpg?v=1738629005",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.76,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6782934-21.jpg?v=1738629005",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Race Sport",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

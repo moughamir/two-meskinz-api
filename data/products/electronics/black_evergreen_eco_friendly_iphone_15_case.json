@@ -1,0 +1,97 @@
+{
+  "id": 7372993691736,
+  "title": "Black Evergreen iPhone 15 Case",
+  "handle": "black-evergreen-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌿✨ Immerse yourself in nature’s tranquility with the Evergreen Phone Case! This case features a lush, botanical pattern of green leaves against a deep black background, evoking the serene beauty of a forest in full bloom. Perfect for nature enthusiasts and those who appreciate a touch of elegance, this case turns your device into a mini oasis. Carry the essence of evergreen forests with you and let your phone flourish in style! 🍃📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-12T13:51:29-04:00",
+  "created_at": "2023-08-18T10:33:37-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Evergreen",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40256223182936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16985-IP15-BLACK-AOD:EVERGREEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7372993691736,
+      "created_at": "2023-08-18T10:33:37-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30346900209752,
+      "created_at": "2023-08-18T10:33:37-04:00",
+      "position": 1,
+      "updated_at": "2023-08-18T10:33:37-04:00",
+      "product_id": 7372993691736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_IP15_Black.jpg?v=1692369217",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30346908467288,
+      "created_at": "2023-08-18T10:55:50-04:00",
+      "position": 2,
+      "updated_at": "2023-08-18T10:55:51-04:00",
+      "product_id": 7372993691736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SecretGarden4_a4495ba0-0c55-44fb-996f-6d1a7c0b6305.png?v=1692370551",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30346908500056,
+      "created_at": "2023-08-18T10:55:49-04:00",
+      "position": 3,
+      "updated_at": "2023-08-18T10:55:51-04:00",
+      "product_id": 7372993691736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9094_1_e837f4ce-41bb-48f9-9d4a-140f9bf8ea6b.jpg?v=1692370551",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_IP15_Black.jpg?v=1692369217",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

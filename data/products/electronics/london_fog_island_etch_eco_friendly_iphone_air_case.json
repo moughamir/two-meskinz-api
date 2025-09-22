@@ -1,0 +1,118 @@
+{
+  "id": 8442723565656,
+  "title": "London Fog Island Etch iPhone Air Case",
+  "handle": "london-fog-island-etch-eco-friendly-iphone-air-case",
+  "body_html": "<p data-start=\"0\" data-end=\"102\">Say aloha to Island Etch — the phone case that whispers \"tropical escape\" with every glance. 🌿🏝️</p>\n<p data-start=\"104\" data-end=\"304\">Subtly etched with dreamy island botanicals, this sandy-toned stunner proves that laid-back can still look luxe. It’s the kind of case that says, “I brunch in hammocks.”</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:25:42-04:00",
+  "created_at": "2025-08-05T12:08:05-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Tropical Plants",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Island Etch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184176037976,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:ISLAND-ETCH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8442723565656,
+      "created_at": "2025-09-03T18:37:44-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184176070744,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:ISLAND-ETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8442723565656,
+      "created_at": "2025-09-03T18:37:44-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35548037415000,
+      "created_at": "2025-08-05T12:08:06-04:00",
+      "position": 1,
+      "updated_at": "2025-08-05T12:08:08-04:00",
+      "product_id": 8442723565656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ISLAND-ETCH_IP17AIR_LondonFog.jpg?v=1754410088",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359251202136,
+      "created_at": "2025-07-04T14:12:15-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T13:30:55-04:00",
+      "product_id": 8442723565656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Island_Etch_1.jpg?v=1754415055",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359251595352,
+      "created_at": "2025-07-04T14:12:16-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T13:31:05-04:00",
+      "product_id": 8442723565656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Island_Etch_2.jpg?v=1754415065",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ISLAND-ETCH_IP17AIR_LondonFog.jpg?v=1754410088",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

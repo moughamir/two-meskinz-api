@@ -1,0 +1,109 @@
+{
+  "id": 8397883965528,
+  "title": "Seashell Whimsy Shapes iPhone 15 Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:24:17-04:00",
+  "created_at": "2025-06-10T10:31:36-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939108032600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397883965528,
+      "created_at": "2025-06-10T10:31:36-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200268632152,
+      "created_at": "2025-06-10T10:31:36-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:38-04:00",
+      "product_id": 8397883965528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_IP15_Seashell.jpg?v=1749565898",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288785485912,
+      "created_at": "2025-06-24T14:43:36-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:43:36-04:00",
+      "product_id": 8397883965528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_83c966d8-5359-477a-96bf-6756c2afc4f9.jpg?v=1750790616",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288786042968,
+      "created_at": "2025-06-24T14:43:37-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:43:37-04:00",
+      "product_id": 8397883965528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_0de8b76a-faff-48d2-88be-2a9da03af7d3.jpg?v=1750790617",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288786370648,
+      "created_at": "2025-06-24T14:43:39-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:43:39-04:00",
+      "product_id": 8397883965528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_132d7f2d-9cc8-471d-aeec-551c1df9318f.jpg?v=1750790619",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_IP15_Seashell.jpg?v=1749565898",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

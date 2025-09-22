@@ -1,0 +1,110 @@
+{
+  "id": 7866480066607,
+  "title": "One Piece Going Merry Two-Tone Mug",
+  "handle": "one-piece-going-merry-two-tone-mug",
+  "body_html": "<p>Embark on a journey with the <em>One Piece</em> Going Merry Two-tone Mug! Celebrating the beloved ship that carries the Straw Hat crew, this charming mug is perfect for sipping your favorite brew while dreaming of high seas adventures. Each sip invites you to set sail on your own quest, reminding you that with friends by your side, every day can be an epic story waiting to unfold. So grab your mug and let the adventure begin!</p>\n<ul>\n<li>Made of: Ceramic</li>\n<li>Colored rim, inside, and handle</li>\n<li>Care: Dishwasher and microwave safe</li>\n</ul>",
+  "published_at": "2024-11-13T14:24:31-05:00",
+  "created_at": "2024-11-12T04:06:44-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "80217863",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "new",
+    "NFX-27-1024",
+    "One Piece",
+    "Promo Eligible Collection",
+    "unisex",
+    "White Ceramic Mug with Color Inside"
+  ],
+  "variants": [
+    {
+      "id": 43365420269615,
+      "title": "Yellow / 11 oz",
+      "option1": "Yellow",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "OP-101009-0006-OP-GOME",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34968522129455,
+        "product_id": 7866480066607,
+        "position": 1,
+        "created_at": "2024-11-12T04:06:44-05:00",
+        "updated_at": "2024-11-12T04:06:44-05:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-GOME_101009_FT_MF.jpg?v=1731402404",
+        "variant_ids": [
+          43365420269615
+        ]
+      },
+      "available": true,
+      "price": "16.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7866480066607,
+      "created_at": "2024-11-12T04:06:44-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34968522129455,
+      "created_at": "2024-11-12T04:06:44-05:00",
+      "position": 1,
+      "updated_at": "2024-11-12T04:06:44-05:00",
+      "product_id": 7866480066607,
+      "variant_ids": [
+        43365420269615
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-GOME_101009_FT_MF.jpg?v=1731402404",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34968522162223,
+      "created_at": "2024-11-12T04:06:44-05:00",
+      "position": 2,
+      "updated_at": "2024-11-12T04:06:44-05:00",
+      "product_id": 7866480066607,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-GOME_101009_BK_MF.jpg?v=1731402404",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Yellow"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz"
+      ]
+    }
+  ],
+  "price": 16.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-GOME_101009_FT_MF.jpg?v=1731402404",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

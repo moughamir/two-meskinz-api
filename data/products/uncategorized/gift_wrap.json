@@ -1,0 +1,99 @@
+{
+  "id": 7714690269272,
+  "title": "Gift Wrapping Kit",
+  "handle": "gift-wrap",
+  "body_html": "<p><strong>Add a personal touch to any Pela Case order with our beautiful gift wrapping option!</strong></p>\n<p>Surprise your loved one with a gift that stands out. Your order will be elegantly wrapped in our Indigo Bouquet Custom tissue and placed inside our cheerful smile box. To ensure it arrives in pristine condition, the smile box is securely packaged in a larger mailer box, ready to bring joy and smiles upon arrival. 🎁✨</p>",
+  "published_at": "2024-04-22T14:47:35-04:00",
+  "created_at": "2024-04-04T13:51:59-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Accessories",
+  "tags": [],
+  "variants": [
+    {
+      "id": 41355276877912,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25129-GIFT-MOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.00",
+      "grams": 66,
+      "compare_at_price": "10.00",
+      "position": 1,
+      "product_id": 7714690269272,
+      "created_at": "2024-04-04T13:52:00-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32630624485464,
+      "created_at": "2024-04-15T14:13:02-04:00",
+      "position": 1,
+      "updated_at": "2024-04-15T14:13:10-04:00",
+      "product_id": 7714690269272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIFTWRAP-2.jpg?v=1713204790",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32630624518232,
+      "created_at": "2024-04-15T14:13:02-04:00",
+      "position": 2,
+      "updated_at": "2024-04-15T14:13:10-04:00",
+      "product_id": 7714690269272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIFTWRAP-1.jpg?v=1713204790",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32630624452696,
+      "created_at": "2024-04-15T14:13:02-04:00",
+      "position": 3,
+      "updated_at": "2024-04-15T14:13:10-04:00",
+      "product_id": 7714690269272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIFTWRAP-4.jpg?v=1713204790",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32630624419928,
+      "created_at": "2024-04-15T14:13:02-04:00",
+      "position": 4,
+      "updated_at": "2024-04-15T14:13:10-04:00",
+      "product_id": 7714690269272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIFTWRAP-3.jpg?v=1713204790",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10,
+  "compare_at_price": 10,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIFTWRAP-2.jpg?v=1713204790",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

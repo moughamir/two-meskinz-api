@@ -1,0 +1,120 @@
+{
+  "id": 8388536729688,
+  "title": "Seashell Hello Sunshine iPhone 16 Plus Case",
+  "handle": "seashell-hello-sunshine-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say “ciao” to gloomy days—the Hello Sunshine Phone Case is here to turn up the brightness! Packed with cheerful palms, juicy fruits, and a whole lotta sunshine, this design brings Mediterranean vibes to your fingertips. It’s bold, it’s artsy, and it’s basically a summer vacation wrapped around your phone. ☀️🍊🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:09:45-04:00",
+  "created_at": "2025-05-30T12:37:40-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Hello Sunshine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918167511128,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:HELLO-SUNSHINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388536729688,
+      "created_at": "2025-05-30T12:37:41-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125639544920,
+      "created_at": "2025-05-30T12:37:40-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:42-04:00",
+      "product_id": 8388536729688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_IP16PLUS_Seashell.jpg?v=1748623062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195862089816,
+      "created_at": "2025-06-09T17:10:08-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:10:08-04:00",
+      "product_id": 8388536729688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9f5e2a335630ed39413bd8190a2e378_8fdb4290-6fc4-4fba-81d6-a957c324ff1d.jpg?v=1749503408",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195862351960,
+      "created_at": "2025-06-09T17:10:10-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:10:10-04:00",
+      "product_id": 8388536729688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3bf30d5079dea0f88344305643166d7b_7151fe08-6d2d-48b1-b87e-ff5e4a467f8b.jpg?v=1749503410",
+      "width": 4422,
+      "height": 4422
+    },
+    {
+      "id": 35195862712408,
+      "created_at": "2025-06-09T17:10:12-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:10:12-04:00",
+      "product_id": 8388536729688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/25a66dfb68f98606ad73f85050450769_bb484c19-e394-45c8-b44f-97ef1a163aa7.jpg?v=1749503412",
+      "width": 4047,
+      "height": 4047
+    },
+    {
+      "id": 35195862843480,
+      "created_at": "2025-06-09T17:10:14-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:10:14-04:00",
+      "product_id": 8388536729688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_303d96c7-0549-48ef-9b2b-e90a680526d3.jpg?v=1749503414",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_IP16PLUS_Seashell.jpg?v=1748623062",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

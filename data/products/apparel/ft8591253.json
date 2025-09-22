@@ -1,0 +1,65 @@
+{
+  "id": 7785710846119,
+  "title": "Brand: NIBCO / Part #: NL99508",
+  "handle": "ft8591253",
+  "body_html": "<br><strong>Item #: </strong>64976871<br><strong>Brand: </strong>NIBCO<br><strong>Model #: </strong>NL99508<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Standard Ball Valve</td>\n</tr>\n<tr>\n<td><strong>Valve Type</strong></td>\n<td>Standard Ball Valve</td>\n</tr>\n<tr>\n<td><strong>Pipe Size</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Valve Structure</strong></td>\n<td>3-Piece</td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>End Connection</strong></td>\n<td>FNPT x FNPT</td>\n</tr>\n<tr>\n<td><strong>Port Type</strong></td>\n<td>Full</td>\n</tr>\n<tr>\n<td><strong>Handle Type</strong></td>\n<td>Lever</td>\n</tr>\n<tr>\n<td><strong>Trim Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>Seal Material</strong></td>\n<td>Reinforced Polytetrafluroethylene</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Pressure (bar)</strong></td>\n<td>41.40</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Pressure (Psi - 3 Decimals)</strong></td>\n<td>600.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Pressure</strong></td>\n<td>600 psi; 41.4 bar</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temperature (F)</strong></td>\n<td>400</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temperature</strong></td>\n<td>400 ?F</td>\n</tr>\n<tr>\n<td><strong>Wsp Rating</strong></td>\n<td>150 psi</td>\n</tr>\n<tr>\n<td><strong>Seat Material</strong></td>\n<td>Polytetrafluroethylene</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:21:57-06:00",
+  "created_at": "2023-12-29T00:21:57-06:00",
+  "updated_at": "2025-09-22T10:54:57-05:00",
+  "vendor": "NIBCO",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 43705249104039,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "64976871",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "82.95",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785710846119,
+      "created_at": "2023-12-29T00:21:57-06:00",
+      "updated_at": "2025-09-22T10:54:57-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237147955367,
+      "created_at": "2025-02-03T18:06:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:06:12-06:00",
+      "product_id": 7785710846119,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6494640-11_87724fcc-06f9-40dd-9d79-9f0f738e9e4f.jpg?v=1738627572",
+      "width": 600,
+      "height": 480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 82.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6494640-11_87724fcc-06f9-40dd-9d79-9f0f738e9e4f.jpg?v=1738627572",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NIBCO",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

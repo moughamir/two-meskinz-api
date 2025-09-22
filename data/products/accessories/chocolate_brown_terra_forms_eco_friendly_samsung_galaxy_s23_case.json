@@ -1,0 +1,108 @@
+{
+  "id": 8299250384984,
+  "title": "Chocolate Brown Terra Forms Samsung Galaxy S23 Case",
+  "handle": "chocolate-brown-terra-forms-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\">Inspired by earth’s natural textures, <em data-start=\"1797\" data-end=\"1810\">Terra Forms</em> blends organic shapes and earthy tones into a case that feels both wild and artistic. Whether you love abstract art or just want to channel the beauty of nature, this compostable case makes a bold statement without waste.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:17:01-04:00",
+  "created_at": "2025-02-26T10:04:04-05:00",
+  "updated_at": "2025-09-22T15:14:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Terra Forms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697340289112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13711-S23-CHOBROWN-AOD:TERRA-FORMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299250384984,
+      "created_at": "2025-02-26T10:04:04-05:00",
+      "updated_at": "2025-09-22T15:14:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599137509464,
+      "created_at": "2025-02-26T10:04:04-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:06-05:00",
+      "product_id": 8299250384984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_S23_ChocolateBrown.jpg?v=1740582246",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672197075032,
+      "created_at": "2025-03-11T16:14:27-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:14:29-04:00",
+      "product_id": 8299250384984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP2_9200b238-4299-4755-8283-3df5181dfe16.jpg?v=1741724069",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672197042264,
+      "created_at": "2025-03-11T16:14:27-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:14:29-04:00",
+      "product_id": 8299250384984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP1_382212fc-f284-4b55-bbfc-01c73b6ce1af.jpg?v=1741724069",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672197009496,
+      "created_at": "2025-03-11T16:14:27-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T16:14:29-04:00",
+      "product_id": 8299250384984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP3_532f4aab-17c0-4b42-9022-ebb87433288f.jpg?v=1741724069",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_S23_ChocolateBrown.jpg?v=1740582246",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

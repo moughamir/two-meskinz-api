@@ -1,0 +1,119 @@
+{
+  "id": 7051709644909,
+  "title": "Paradiso Fig",
+  "handle": "paradiso-fig",
+  "body_html": "<p>A succulent and vibrant fragrance blends notes of juicy, earthy fruits, including hints of Sicilian bergamot, ripe peach, and Paradiso fig.</p>",
+  "published_at": "2023-08-14T19:51:21-06:00",
+  "created_at": "2023-08-09T16:20:01-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:LAFCO",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_paradisofig"
+  ],
+  "variants": [
+    {
+      "id": 40702261854317,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PFLH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051709644909,
+      "created_at": "2023-08-09T16:20:01-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329803473005,
+      "created_at": "2023-08-09T16:20:20-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T16:20:22-06:00",
+      "product_id": 7051709644909,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_47f3a948-37d5-4d23-95f9-bbc61fee5b1a.png?v=1691619622",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329803669613,
+      "created_at": "2023-08-09T16:20:20-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T16:20:22-06:00",
+      "product_id": 7051709644909,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_50f3506a-4090-41d8-a3aa-c77d7d1f9bb2.png?v=1691619622",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350745862253,
+      "created_at": "2023-08-14T21:06:30-06:00",
+      "position": 3,
+      "updated_at": "2023-08-14T21:06:32-06:00",
+      "product_id": 7051709644909,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Paradiso-Fig-Device-V4.jpg?v=1692068792",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329803735149,
+      "created_at": "2023-08-09T16:20:20-06:00",
+      "position": 4,
+      "updated_at": "2023-08-14T21:06:32-06:00",
+      "product_id": 7051709644909,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_f042b091-3cb0-436c-832e-486cbbcfad94.png?v=1692068792",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_47f3a948-37d5-4d23-95f9-bbc61fee5b1a.png?v=1691619622",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

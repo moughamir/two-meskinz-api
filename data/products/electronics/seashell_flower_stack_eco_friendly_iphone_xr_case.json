@@ -1,0 +1,119 @@
+{
+  "id": 8429101351000,
+  "title": "Seashell Flower Stack iPhone XR Case",
+  "handle": "seashell-flower-stack-eco-friendly-iphone-xr-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:18:02-04:00",
+  "created_at": "2025-07-17T07:09:56-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flower Stack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063793156184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:FLOWER-STACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429101351000,
+      "created_at": "2025-07-17T07:09:56-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436657180760,
+      "created_at": "2025-07-17T07:09:56-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:58-04:00",
+      "product_id": 8429101351000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IPXR_Seashell.jpg?v=1752750598",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581712957528,
+      "created_at": "2025-08-11T14:58:16-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:58:16-04:00",
+      "product_id": 8429101351000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c81eef7f9a5e98edb69690c897019b9a_5f335d2c-b1b0-4332-acac-b96a36c13f7b.jpg?v=1754938696",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581713186904,
+      "created_at": "2025-08-11T14:58:18-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:58:18-04:00",
+      "product_id": 8429101351000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b518cf37e930a3a29a67dc0c5e124dbd_d1811855-3f42-43f8-9333-1e3ce3736a1e.jpg?v=1754938698",
+      "width": 3916,
+      "height": 3916
+    },
+    {
+      "id": 35581713350744,
+      "created_at": "2025-08-11T14:58:20-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:58:20-04:00",
+      "product_id": 8429101351000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_03c8cf73-ec13-49f6-be49-6da5dfae8c45.jpg?v=1754938700",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581713547352,
+      "created_at": "2025-08-11T14:58:21-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:58:22-04:00",
+      "product_id": 8429101351000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/90cba3e3beb68e24805c7d70742b5cc9_94bcf67a-cf90-4009-984e-7c892d0d68da.jpg?v=1754938702",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IPXR_Seashell.jpg?v=1752750598",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 7796901544045,
+  "title": "Wild Mint & Eucalyptus",
+  "handle": "wild-mint-eucalyptus-1",
+  "body_html": "<p>An aromatic blend of <strong>wild mint</strong>, <strong>eucalyptus</strong>, <strong>basil</strong>, and <strong>Thai ginger</strong> create a sanctuary conducive to calming self-discovery.</p>",
+  "published_at": "2025-09-10T16:21:44-06:00",
+  "created_at": "2025-08-27T12:44:55-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:NEST New York",
+    "collection:NEST New York",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "WMEH",
+    "YCRF_homefragrances",
+    "YGroup_wildminteucalyptus"
+  ],
+  "variants": [
+    {
+      "id": 43234463514733,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WKTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7796901544045,
+      "created_at": "2025-08-27T12:44:55-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35197340942445,
+      "created_at": "2025-08-27T12:45:53-06:00",
+      "position": 1,
+      "updated_at": "2025-08-27T12:46:36-06:00",
+      "product_id": 7796901544045,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-WildMintAndEucalyptuc-Prod1-0725.jpg?v=1756320396",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525541679213,
+      "created_at": "2023-09-28T18:31:29-06:00",
+      "position": 2,
+      "updated_at": "2025-08-27T12:46:36-06:00",
+      "product_id": 7796901544045,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mint-4-resized_410ad66b-cf6f-45df-8c8b-0fbc91b0ad64.jpg?v=1756320396",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35197341565037,
+      "created_at": "2025-08-27T12:45:53-06:00",
+      "position": 3,
+      "updated_at": "2025-08-27T12:46:36-06:00",
+      "product_id": 7796901544045,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WildMint_Eucalyptus-Prod3.png?v=1756320396",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35197341532269,
+      "created_at": "2025-08-27T12:45:53-06:00",
+      "position": 4,
+      "updated_at": "2025-08-27T12:46:36-06:00",
+      "product_id": 7796901544045,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-WildMintAndEucalyptuc-Prod4-0725.jpg?v=1756320396",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-WildMintAndEucalyptuc-Prod1-0725.jpg?v=1756320396",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

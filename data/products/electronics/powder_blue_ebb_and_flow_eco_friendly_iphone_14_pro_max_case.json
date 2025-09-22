@@ -1,0 +1,75 @@
+{
+  "id": 7247397093464,
+  "title": "Powder Blue Ebb and Flow iPhone 14 Pro Max Case",
+  "handle": "powder-blue-ebb-and-flow-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T08:02:31-04:00",
+  "created_at": "2022-09-06T16:19:48-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Water Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ebb and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40069123244120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16879-IP14PMAX-POWDERBLUE-AOD:EBB-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7247397093464,
+      "created_at": "2022-09-06T16:19:48-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 29925931221080,
+      "created_at": "2022-09-21T14:21:39-04:00",
+      "position": 1,
+      "updated_at": "2022-09-21T14:21:39-04:00",
+      "product_id": 7247397093464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EBB-AND-FLOW_IP14PMAX_PowderBlue_86caa762-69db-468c-a11e-d5d49d4f2633.jpg?v=1663784499",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EBB-AND-FLOW_IP14PMAX_PowderBlue_86caa762-69db-468c-a11e-d5d49d4f2633.jpg?v=1663784499",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

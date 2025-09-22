@@ -1,0 +1,67 @@
+{
+  "id": 7785849356455,
+  "title": "Brand: WALTER Surface Technologies / Part #: 07X683",
+  "handle": "cw8000895",
+  "body_html": "<br><strong>Item #: </strong>96761952<br><strong>Brand: </strong>WALTER Surface Technologies<br><strong>Model #: </strong>07X683<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Disc Diameter (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr>\n<td><strong>Abrasive Type</strong></td>\n<td>Non-Woven</td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Aluminum Oxide</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Super Fine</td>\n</tr>\n<tr>\n<td><strong>Center Hole Size (Inch)</strong></td>\n<td>7/8</td>\n</tr>\n<tr>\n<td><strong>Center Hole Size (Decimal Inch)</strong></td>\n<td>22.2300</td>\n</tr>\n<tr>\n<td><strong>Backing Material</strong></td>\n<td>Fiber</td>\n</tr>\n<tr>\n<td><strong>Maximum Rpm</strong></td>\n<td>2700.000</td>\n</tr>\n<tr>\n<td><strong>Disc Color</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td><strong>Trimmable</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Reinforced</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Wheel Thickness (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Flexible</strong></td>\n<td>Flexible</td>\n</tr>\n<tr>\n<td><strong>Package Quantity</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Specifications</strong></td>\n<td>For Stainless Steel; Steel</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:36:13-06:00",
+  "created_at": "2023-12-29T04:36:13-06:00",
+  "updated_at": "2025-09-22T10:47:48-05:00",
+  "vendor": "WALTER Surface Technologies",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 43705638420647,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96761952",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "69.59",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785849356455,
+      "created_at": "2023-12-29T04:36:13-06:00",
+      "updated_at": "2025-09-22T10:47:48-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237423763623,
+      "created_at": "2025-02-03T18:15:34-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:15:36-06:00",
+      "product_id": 7785849356455,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9676195-21.jpg?v=1738628136",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 69.59,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9676195-21.jpg?v=1738628136",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WALTER Surface Technologies",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

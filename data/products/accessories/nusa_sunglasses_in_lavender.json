@@ -1,0 +1,95 @@
+{
+  "id": 6818082586712,
+  "title": "Nusa Sunglasses in Lavender",
+  "handle": "nusa-sunglasses-in-lavender",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Back and better than ever. Meet the Solana, Cocos, and Nusa sunglasses. Our newest frames are stylish and sophisticated — the perfect addition to your favorite outfit (or loungewear!).  Offering full UVA/UVB protection, these sunnies are comfortable and durable<meta charset=\"utf-8\">. Eyewear for People Who Care: 33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span>",
+  "published_at": "2025-05-08T09:08:27-04:00",
+  "created_at": "2021-10-13T11:27:38-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "Nusa",
+    "product_notice_4"
+  ],
+  "variants": [
+    {
+      "id": 39672940036184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "42103-NUSA-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "44.00",
+      "grams": 113,
+      "compare_at_price": "74.00",
+      "position": 1,
+      "product_id": 6818082586712,
+      "created_at": "2021-10-13T11:27:38-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28798502600792,
+      "created_at": "2021-10-13T14:14:57-04:00",
+      "position": 1,
+      "updated_at": "2021-10-13T14:14:57-04:00",
+      "product_id": 6818082586712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/NUSA-LAV-FRONT_f094a5ec-1785-486d-8af5-4bebd08a1b24.jpg?v=1634148897",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798502633560,
+      "created_at": "2021-10-13T14:14:57-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T14:14:57-04:00",
+      "product_id": 6818082586712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/NUSA-LAV-FRONTANGLE.jpg?v=1634148897",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798502666328,
+      "created_at": "2021-10-13T14:14:57-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T14:14:57-04:00",
+      "product_id": 6818082586712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/NUSA-LAV-BACKANGLE.jpg?v=1634148897",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 74,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/NUSA-LAV-FRONT_f094a5ec-1785-486d-8af5-4bebd08a1b24.jpg?v=1634148897",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7368634728536,
+  "title": "London Fog Grape Views iPhone 13 Case",
+  "handle": "london-fog-grape-views-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Escape to the rustic charm of wine country with the Pela Grape Views Phone Case. This case is your daily vintage, with a watercolor panorama of lush vineyards and old-world cottages that evokes the romance of the rolling hills.  It's a masterpiece of pastoral peace, offering a sip of relaxation every time you glance at your phone.  For the lover of fine wines, tranquil views, and eco-conscious tech, this case is a toast to the good life! 🍇🏡</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T07:35:27-04:00",
+  "created_at": "2023-07-10T16:26:32-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Wine Country",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Grape Views",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40245527609432,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16690-IP13-LFOG-AOD:GRAPE-VIEWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7368634728536,
+      "created_at": "2023-07-10T16:26:33-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30314217635928,
+      "created_at": "2023-07-10T16:26:33-04:00",
+      "position": 1,
+      "updated_at": "2023-07-10T16:26:33-04:00",
+      "product_id": 7368634728536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRAPE-VIEWS_IP13_LondonFog.jpg?v=1689020793",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316017811544,
+      "created_at": "2023-07-12T13:39:23-04:00",
+      "position": 2,
+      "updated_at": "2023-07-12T13:39:25-04:00",
+      "product_id": 7368634728536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv5_e4cea1f6-e68e-4131-a5de-64c4b5ee7116.png?v=1689183565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316017778776,
+      "created_at": "2023-07-12T13:39:23-04:00",
+      "position": 3,
+      "updated_at": "2023-07-12T13:39:25-04:00",
+      "product_id": 7368634728536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv4_10f7457d-3259-49f6-964a-cff1e4c04020.png?v=1689183565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316017746008,
+      "created_at": "2023-07-12T13:39:23-04:00",
+      "position": 4,
+      "updated_at": "2023-07-12T13:39:25-04:00",
+      "product_id": 7368634728536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv1_efaa4fb8-88d6-4df0-ba61-37fd889185b7.png?v=1689183565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30320860299352,
+      "created_at": "2023-07-17T08:49:54-04:00",
+      "position": 5,
+      "updated_at": "2023-07-17T08:49:55-04:00",
+      "product_id": 7368634728536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0748_5dca7426-b1c2-49a0-8e35-26b7fffdd347.jpg?v=1689598195",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRAPE-VIEWS_IP13_LondonFog.jpg?v=1689020793",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

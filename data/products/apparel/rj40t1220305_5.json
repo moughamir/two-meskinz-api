@@ -1,0 +1,67 @@
+{
+  "id": 7786375381159,
+  "title": "Brand: Micro 100 / Part #: QBB3-140500X",
+  "handle": "rj40t1220305-5",
+  "body_html": "<br><strong>Item #: </strong>85778561<br><strong>Brand: </strong>Micro 100<br><strong>Model #: </strong>QBB3-140500X<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Boring Bar Type</strong>\n</td>\n<td>Boring</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (Decimal Inch)</strong></td>\n<td>0.1520</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Maximum Bore Depth (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Quick Change - Boring Tools - Right Hand</td>\n</tr>\n<tr>\n<td><strong>Corner Radius</strong></td>\n<td>0.0030</td>\n</tr>\n<tr>\n<td><strong>Maximum Bore Depth (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Offset (Decimal Inch)</strong></td>\n<td>0.0463</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Projection (Decimal Inch)</strong></td>\n<td>0.0350</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:14:06-06:00",
+  "created_at": "2023-12-29T21:14:06-06:00",
+  "updated_at": "2025-09-22T10:53:30-05:00",
+  "vendor": "Micro 100",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools"
+  ],
+  "variants": [
+    {
+      "id": 43707648770215,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "85778561",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786375381159,
+      "created_at": "2023-12-29T21:14:06-06:00",
+      "updated_at": "2025-09-22T10:53:30-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238459494567,
+      "created_at": "2025-02-03T18:50:34-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:50:36-06:00",
+      "product_id": 7786375381159,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1524238-21_70630bd4-11b0-485d-bcda-9b69c2abe39c.jpg?v=1738630236",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1524238-21_70630bd4-11b0-485d-bcda-9b69c2abe39c.jpg?v=1738630236",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Micro 100",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

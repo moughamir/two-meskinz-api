@@ -1,0 +1,98 @@
+{
+  "id": 7865871040559,
+  "title": "Hellfire Club Ho Ho Hellfire Holiday Stocking",
+  "handle": "stranger-things-ho-ho-hellfire-holiday-stocking",
+  "body_html": "<p>Unleash some holiday strangeness with the <em>Stranger Things</em> Ho Ho Hellfire Holiday Stocking! Decked out in Hellfire Club flair, this stocking is perfect for fans who know that the holidays aren't just about gifts—it's about epic quests, unexpected twists, and maybe even a little bit of the Upside Down creeping into your celebrations. Whether you're hanging it by the fireplace or over your favorite D&amp;D board, it's guaranteed to bring some festive telekinetic energy to your holiday season.</p><ul>\n<li>Add these festive stockings to your Holiday decorations!</li>\n<li>Measures: 10\" W x  19\" L </li>\n<li>Made Of: 100% polyester. </li>\n<li>Care: Machine wash cold on gentle cycle with mild detergent and similar colors. Tumble dry low or lay flat to dry for longest life.</li>\n</ul>",
+  "published_at": "2024-11-15T10:36:36-05:00",
+  "created_at": "2024-11-11T03:30:09-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "progift",
+  "product_type": "Stockings",
+  "tags": [
+    "81040344",
+    "Gifting",
+    "Holiday",
+    "Netflix at Home",
+    "Promo Eligible Collection",
+    "Stocking",
+    "Stockings",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43360490717231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-100234-0001-ST-HFP1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7865871040559,
+      "created_at": "2024-11-11T03:30:09-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34993093050415,
+      "created_at": "2024-11-15T10:46:35-05:00",
+      "position": 1,
+      "updated_at": "2024-11-15T10:46:37-05:00",
+      "product_id": 7865871040559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HFP1_36_100234_MF.png?v=1731685597",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34963270860847,
+      "created_at": "2024-11-11T03:30:09-05:00",
+      "position": 2,
+      "updated_at": "2024-11-11T03:30:09-05:00",
+      "product_id": 7865871040559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HFP1_36_100234_MF.jpg?v=1731313809",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34963270926383,
+      "created_at": "2024-11-11T03:30:09-05:00",
+      "position": 3,
+      "updated_at": "2024-11-11T03:30:09-05:00",
+      "product_id": 7865871040559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HFP1_36_100234_LIFE.jpg?v=1731313809",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HFP1_36_100234_MF.png?v=1731685597",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "progift",
+  "category": "Stockings",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8253213671512,
+  "title": "Seashell Be Merry Samsung Galaxy S25 Case",
+  "handle": "seashell-be-merry-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p class=\"p1\">Spread the holiday cheer with the Be Merry Phone Case! 🌲✨ Adorned with festive gingerbread cookies, holly, bows, and sprigs of mistletoe, this case brings all the cozy vibes of the season right to your phone. It’s the perfect holiday accessory for keeping your phone safe while adding a touch of merry magic to your everyday. Lightweight, durable, and full of seasonal spirit—this case is a must-have for spreading joy all winter long! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:34:48-05:00",
+  "created_at": "2025-01-13T18:03:47-05:00",
+  "updated_at": "2025-09-22T15:15:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Be Merry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42561338343512,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13900-S25-SEASHELL-AOD:BE-MERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8253213671512,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "updated_at": "2025-09-22T15:15:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34293961130072,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "position": 1,
+      "updated_at": "2025-01-13T18:03:49-05:00",
+      "product_id": 8253213671512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_S25_Seashell.jpg?v=1736809429",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678156263512,
+      "created_at": "2025-03-12T14:36:26-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T14:36:27-04:00",
+      "product_id": 8253213671512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP2_8881abaf-1aca-4dca-aeb8-ede5342493fd.jpg?v=1741804587",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34678156296280,
+      "created_at": "2025-03-12T14:36:26-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T14:36:28-04:00",
+      "product_id": 8253213671512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP1_53efe1ef-79a1-4563-a1a8-04eeef408b11.jpg?v=1741804588",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_S25_Seashell.jpg?v=1736809429",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

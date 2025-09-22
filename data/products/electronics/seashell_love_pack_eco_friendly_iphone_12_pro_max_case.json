@@ -1,0 +1,119 @@
+{
+  "id": 8216565612632,
+  "title": "Seashell Love Pack iPhone 12 Pro Max Case",
+  "handle": "seashell-love-pack-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:22:56-05:00",
+  "created_at": "2024-12-16T10:52:26-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469058248792,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16539-IP12PMAX-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216565612632,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130692735064,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:28-05:00",
+      "product_id": 8216565612632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP12PMAX_Seashell.jpg?v=1734364348",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215475150936,
+      "created_at": "2025-01-03T12:44:45-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:44:46-05:00",
+      "product_id": 8216565612632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_9a848651-0fe5-4e61-9ee9-fe93b509c553.jpg?v=1735926286",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215475183704,
+      "created_at": "2025-01-03T12:44:45-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:44:46-05:00",
+      "product_id": 8216565612632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_601ed5aa-1911-4f99-8904-1a9e4e23abf9.jpg?v=1735926286",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215475085400,
+      "created_at": "2025-01-03T12:44:45-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:44:46-05:00",
+      "product_id": 8216565612632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_42a75fdd-b7f6-42e7-a34f-c12075fc6ef4.jpg?v=1735926286",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215475118168,
+      "created_at": "2025-01-03T12:44:45-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:44:46-05:00",
+      "product_id": 8216565612632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_2d22ae6f-f283-43d1-8cf6-bb0d6323a3bf.jpg?v=1735926286",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP12PMAX_Seashell.jpg?v=1734364348",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

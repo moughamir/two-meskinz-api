@@ -1,0 +1,97 @@
+{
+  "id": 7363997597784,
+  "title": "London Fog Explorer iPhone 12 Mini Case",
+  "handle": "london-fog-explorer-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Chart your daily adventures with the Pela Explorer Phone Case! This case features a vintage world map, rich with the mystique of continents and oceans in muted earth tones. It's perfect for globetrotters and dreamers alike, turning your phone into a passport of nostalgia and discovery. Whether you're planning your next travel destination or reminiscing about journeys past, this case brings the spirit of exploration right to your fingertips. Navigate through your day with the world in your pocket, protected and inspired by the old-world charm that invites curiosity and wanderlust. 🌍✈️🌟</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:08:29-04:00",
+  "created_at": "2023-05-30T14:50:52-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Retrospin",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Explorer",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234197319768,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:EXPLORER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363997597784,
+      "created_at": "2023-05-30T14:50:53-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275019538520,
+      "created_at": "2023-05-30T14:50:53-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:50:53-04:00",
+      "product_id": 7363997597784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EXPLORER_IP12MINI_LondonFog.jpg?v=1685472653",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275874586712,
+      "created_at": "2023-05-31T10:41:53-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T10:41:55-04:00",
+      "product_id": 7363997597784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN5_77019b28-a08c-4ef1-b60d-fdd7cc8caa3d.png?v=1685544115",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275874553944,
+      "created_at": "2023-05-31T10:41:53-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T10:41:55-04:00",
+      "product_id": 7363997597784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_fe262b92-74d8-40c6-838e-87da1d4d714b.png?v=1685544115",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EXPLORER_IP12MINI_LondonFog.jpg?v=1685472653",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

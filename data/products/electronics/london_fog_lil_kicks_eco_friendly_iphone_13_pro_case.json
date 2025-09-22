@@ -1,0 +1,78 @@
+{
+  "id": 8102651101272,
+  "title": "London Fog Lil Kicks iPhone 13 Pro Case",
+  "handle": "london-fog-lil-kicks-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p class=\"p1\">Get ready to score big with the Lil Kicks Phone Case! ⚽🏆 Whether you call it soccer or football, this playful case is perfect for young stars and fans alike. Featuring fun illustrations of soccer balls, goals, cleats, and trophies, it captures all the best parts of the beautiful game. Whether you’re daydreaming about your next big match or just showing off your love for the sport, this case has got your back (and your phone’s)! Keep it safe while celebrating your passion for the world’s favorite game! 🎉⚽</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-27T09:45:34-04:00",
+  "created_at": "2024-08-21T09:55:12-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Soccer",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Lil Kicks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2",
+    "sport"
+  ],
+  "variants": [
+    {
+      "id": 42213304664152,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16760-IP13P-LFOG-AOD:LIL-KICKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8102651101272,
+      "created_at": "2024-08-21T09:55:13-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33511083999320,
+      "created_at": "2024-08-21T09:55:13-04:00",
+      "position": 1,
+      "updated_at": "2024-08-21T09:55:13-04:00",
+      "product_id": 8102651101272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-KICKS_IP13P_LondonFog.jpg?v=1724248513",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-KICKS_IP13P_LondonFog.jpg?v=1724248513",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

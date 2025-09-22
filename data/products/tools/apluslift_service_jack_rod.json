@@ -1,0 +1,67 @@
+{
+  "id": 8423095632100,
+  "title": "APlusLift Service Jack Rod",
+  "handle": "apluslift-service-jack-rod",
+  "body_html": "<h3>One replacement service jack rod.</h3>",
+  "published_at": "2024-06-20T21:51:46-07:00",
+  "created_at": "2024-06-20T21:51:46-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 45330980471012,
+      "title": "MT1500 Series",
+      "option1": "MT1500 Series",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8423095632100,
+      "created_at": "2024-06-20T21:51:46-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 67957829402852,
+      "created_at": "2024-06-20T21:51:55-07:00",
+      "position": 1,
+      "updated_at": "2024-06-20T21:51:57-07:00",
+      "product_id": 8423095632100,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/24.jpg?v=1718945517",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "MT1500 Series"
+      ]
+    }
+  ],
+  "price": 35,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/24.jpg?v=1718945517",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

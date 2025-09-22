@@ -1,0 +1,110 @@
+{
+  "id": 7536125182040,
+  "title": "London Fog Indigo Bouquet iPhone 12 Pro Max Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:15:47-05:00",
+  "created_at": "2024-01-15T11:10:00-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949020328024,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16541-IP12PMAX-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536125182040,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723102296,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:00-05:00",
+      "product_id": 7536125182040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP12PMAX_LondonFog.jpg?v=1705335000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088838242392,
+      "created_at": "2024-01-17T10:14:33-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:14:36-05:00",
+      "product_id": 7536125182040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_625f907a-4da8-4c8a-8125-713449eabb97.png?v=1705504476",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088838209624,
+      "created_at": "2024-01-17T10:14:33-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:14:35-05:00",
+      "product_id": 7536125182040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_6a3d6961-d31b-4821-b0a0-3c7a19bf8618.png?v=1705504475",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088838144088,
+      "created_at": "2024-01-17T10:14:34-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:14:35-05:00",
+      "product_id": 7536125182040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_9e0446b5-4c84-409e-b7db-2ae79f9337a3.png?v=1705504475",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP12PMAX_LondonFog.jpg?v=1705335000",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8299256119384,
+  "title": "Chocolate Brown Teddy Love Google Pixel 6 Case",
+  "handle": "chocolate-brown-teddy-love-eco-friendly-google-pixel-6-case",
+  "body_html": "<p><meta charset=\"utf-8\">Soft, nostalgic, and oh-so-sweet—<em data-start=\"3998\" data-end=\"4010\">Teddy Love</em> brings childhood warmth to your phone with its cuddly teddy bear pattern. <meta charset=\"utf-8\">🧸💛Whether you’re a fan of cottagecore, kawaii aesthetics, or just love a cozy vibe, this compostable case is a hug in phone form.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:07:40-04:00",
+  "created_at": "2025-02-26T10:04:22-05:00",
+  "updated_at": "2025-09-22T15:14:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Teddy Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697346285656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14714-PX6-CHOBROWN-AOD:TEDDY-LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299256119384,
+      "created_at": "2025-02-26T10:04:22-05:00",
+      "updated_at": "2025-09-22T15:14:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599151206488,
+      "created_at": "2025-02-26T10:04:22-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:24-05:00",
+      "product_id": 8299256119384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TEDDY-LOVE_PX6_ChocolateBrown.jpg?v=1740582264",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672506863704,
+      "created_at": "2025-03-11T17:03:51-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T17:03:52-04:00",
+      "product_id": 8299256119384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP1.jpg?v=1741727032",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672506830936,
+      "created_at": "2025-03-11T17:03:51-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T17:03:52-04:00",
+      "product_id": 8299256119384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP2.jpg?v=1741727032",
+      "width": 4010,
+      "height": 4010
+    },
+    {
+      "id": 34672506896472,
+      "created_at": "2025-03-11T17:03:51-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T17:03:52-04:00",
+      "product_id": 8299256119384,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP3.jpg?v=1741727032",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TEDDY-LOVE_PX6_ChocolateBrown.jpg?v=1740582264",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

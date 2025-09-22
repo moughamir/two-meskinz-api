@@ -1,0 +1,101 @@
+{
+  "id": 7556236083288,
+  "title": "Bubblegum Pink Cow iPhone 13 Pro Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:48:55-05:00",
+  "created_at": "2024-02-08T11:08:38-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007566424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16769-IP13P-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556236083288,
+      "created_at": "2024-02-08T11:08:38-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177738547288,
+      "created_at": "2024-02-08T11:08:38-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:38-05:00",
+      "product_id": 7556236083288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP13P_BubblegumPink.jpg?v=1707408518",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211974783064,
+      "created_at": "2024-02-21T03:09:17-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:09:18-05:00",
+      "product_id": 7556236083288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_b5d73bdf-c810-48f8-98d7-5e1301e5203f.jpg?v=1708502958",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211974815832,
+      "created_at": "2024-02-21T03:09:17-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:09:18-05:00",
+      "product_id": 7556236083288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_9b325c0c-6ef5-49a8-be95-1ca6ceda0b50.jpg?v=1708502958",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP13P_BubblegumPink.jpg?v=1707408518",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

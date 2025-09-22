@@ -1,0 +1,68 @@
+{
+  "id": 5336446795943,
+  "title": "‎1/64-2FL-SE-REG BN TiN",
+  "handle": "aw67r1208",
+  "body_html": "<br><strong>Item #: </strong>MW21221000995<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>221-000995<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>1/64″ </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Profiling | Plunging | Profile Cutting | Radiusing | Radius Slotting | </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>1/8″ </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>C-2 Sub-Micron </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>3/64″ </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>Regular </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎1-1/2″ </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Ballnose </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.0156″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TiN </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>221 </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>30 Degrees </td>\n</tr>\n<tr>\n<td><strong>Center Cutting</strong></td>\n<td>Yes </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Cast Iron | Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:21:29-06:00",
+  "created_at": "2020-06-15T12:56:14-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Milling",
+  "tags": [
+    "Drilling",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34731165745319,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW21221000995",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.34",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5336446795943,
+      "created_at": "2020-06-15T12:56:14-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144238321831,
+      "created_at": "2025-01-23T22:21:39-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:21:41-06:00",
+      "product_id": 5336446795943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0506558.png?v=1737692501",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 25.34,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0506558.png?v=1737692501",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

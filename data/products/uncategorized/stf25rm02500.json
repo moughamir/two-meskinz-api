@@ -1,0 +1,67 @@
+{
+  "id": 8182066741415,
+  "title": "TF25 Swiss Collet - Round Smooth 1/4\" ID - Part # TF25-RM-02500",
+  "handle": "stf25rm02500",
+  "body_html": "<br><strong>Part #: </strong>TF25-RM-02500<br><strong>Brand: </strong>Sure Swiss<br><strong>MFG #: </strong>STF25RM02500<br><br><p><strong><a href=\"https://benchmarktooling.com/pages/swiss-collets\">Click here</a></strong> to see our full line of Swiss Collets &amp; Guide Bushings with product charts with critical dimensions.</p>",
+  "published_at": "2024-05-23T21:21:06-05:00",
+  "created_at": "2024-05-23T21:21:06-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Sure Swiss",
+  "product_type": "Collets",
+  "tags": [
+    "Swiss Collets"
+  ],
+  "variants": [
+    {
+      "id": 45485853343911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "STF25RM02500",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "95.70",
+      "grams": 800,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8182066741415,
+      "created_at": "2024-05-23T21:21:06-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36337187717287,
+      "created_at": "2024-05-23T21:21:09-05:00",
+      "position": 1,
+      "updated_at": "2024-05-23T21:21:10-05:00",
+      "product_id": 8182066741415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/Druckspannzangen-1536E-Rund-glatt_7a09cace-1fe7-4260-971a-03242eedfe47.png?v=1716517270",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 95.7,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/Druckspannzangen-1536E-Rund-glatt_7a09cace-1fe7-4260-971a-03242eedfe47.png?v=1716517270",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sure Swiss",
+  "category": "Collets",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

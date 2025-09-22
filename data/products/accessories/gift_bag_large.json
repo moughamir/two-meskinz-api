@@ -1,0 +1,71 @@
+{
+  "id": 7646529486957,
+  "title": "Gift Bag",
+  "handle": "gift-bag-large",
+  "body_html": "<p><meta charset=\"utf-8\">Our gift bags are thoughtfully designed to elevate any <a href=\"https://pura.com/pages/gifting\" target=\"_blank\" title=\"gifting\" rel=\"noopener\">gifting</a> moment, making it easy to present your items with style. Perfect for any occasion, each bag offers a blend of quality and charm, ensuring your gift stands out. Whether you're celebrating a birthday, holiday, or simply showing appreciation, our gift bags make the experience feel just as special as the contents inside.</p>",
+  "published_at": "2025-07-28T13:45:07-06:00",
+  "created_at": "2025-04-30T15:38:49-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Gift",
+  "tags": [
+    "__label:Final sale",
+    "Final Sale",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs"
+  ],
+  "variants": [
+    {
+      "id": 42371472719981,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-03135",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "4.99",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7646529486957,
+      "created_at": "2025-04-30T15:38:49-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30576424484973,
+      "created_at": "2023-10-18T17:36:58-06:00",
+      "position": 1,
+      "updated_at": "2023-10-18T17:36:59-06:00",
+      "product_id": 7646529486957,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/GiftBag-4.jpg?v=1697672219",
+      "width": 2637,
+      "height": 3548
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 4.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/GiftBag-4.jpg?v=1697672219",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

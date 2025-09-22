@@ -1,0 +1,109 @@
+{
+  "id": 8381660102744,
+  "title": "Powder Blue Bows and Blossoms iPhone 16 Case",
+  "handle": "powder-blue-bows-and-blossoms-eco-friendly-iphone-16-case",
+  "body_html": "<p><span>Wrap your phone in the quaint charm of the Bows and Blossoms Phone Case. This case's enchanting powder blue backdrop is adorned with a symmetrical dance of florals and bows, creating a soothing and graceful pattern that's a nod to traditional fabric designs. 🎀🌸📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:17:42-04:00",
+  "created_at": "2025-05-21T09:51:26-04:00",
+  "updated_at": "2025-09-22T15:14:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Bows and Blossoms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895726903384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17249-IP16-POWDERBLUE-AOD:BOWS-AND-BLOSSOMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381660102744,
+      "created_at": "2025-05-21T09:51:27-04:00",
+      "updated_at": "2025-09-22T15:14:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065425821784,
+      "created_at": "2025-05-21T09:51:26-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:51:28-04:00",
+      "product_id": 8381660102744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOWS-AND-BLOSSOMS_IP16_PowderBlue.jpg?v=1747835488",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065542901848,
+      "created_at": "2025-05-21T10:24:17-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:24:22-04:00",
+      "product_id": 8381660102744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP2_4b9bc245-b990-42cd-94f2-b5947f00305f.png?v=1747837462",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 35065542934616,
+      "created_at": "2025-05-21T10:24:17-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T10:24:22-04:00",
+      "product_id": 8381660102744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP1_2a988120-510c-45bd-b65f-25098a45678e.png?v=1747837462",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 35065542836312,
+      "created_at": "2025-05-21T10:24:17-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T10:24:22-04:00",
+      "product_id": 8381660102744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_86863e16-f5bd-4c58-93a3-11cc71fc16e4.png?v=1747837462",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOWS-AND-BLOSSOMS_IP16_PowderBlue.jpg?v=1747835488",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

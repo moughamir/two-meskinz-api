@@ -1,0 +1,108 @@
+{
+  "id": 8359093502040,
+  "title": "Seashell Coastal Club Samsung Galaxy S24 Ultra Case",
+  "handle": "seashell-coastal-club-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to vibe like it’s vacay every day with the Coastal Club Phone Case! ☀️🍹 This beachy beauty is decked out in doodles of palm trees, parasols, cocktails, bikinis, and more—basically everything you’d pack for your dream seaside escape. Whether you're soaking up sun or just wish you were, this case brings the beach party straight to your pocket. SPF not included. 😎🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:55:19-04:00",
+  "created_at": "2025-04-28T09:44:25-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846497767512,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13875-S24ULTRA-SEASHELL-AOD:COASTAL-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359093502040,
+      "created_at": "2025-04-28T09:44:25-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914296397912,
+      "created_at": "2025-04-28T09:44:25-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:27-04:00",
+      "product_id": 8359093502040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_S24ULTRA_Seashell.jpg?v=1745847867",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010500198488,
+      "created_at": "2025-05-13T06:29:48-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:29:58-04:00",
+      "product_id": 8359093502040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_01_d01f9876-00e9-434a-9769-265903a5e7c0.jpg?v=1747132198",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010500132952,
+      "created_at": "2025-05-13T06:29:48-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T06:29:58-04:00",
+      "product_id": 8359093502040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_02_e7c128d4-2ba3-4a3e-826d-cb8d4b30145e.jpg?v=1747132198",
+      "width": 1088,
+      "height": 1088
+    },
+    {
+      "id": 35010500165720,
+      "created_at": "2025-05-13T06:29:48-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T06:29:58-04:00",
+      "product_id": 8359093502040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_03_c47bba2a-4afb-4924-ac79-e9c9daf040b7.jpg?v=1747132198",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_S24ULTRA_Seashell.jpg?v=1745847867",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

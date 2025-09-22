@@ -1,0 +1,67 @@
+{
+  "id": 7785294332071,
+  "title": "Brand: Milwaukee Tool / Part #: 48-32-4034",
+  "handle": "wk345562993",
+  "body_html": "<br><strong>Item #: </strong>67457457<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>48-32-4034<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bit Type</strong>\n</td>\n<td>Impact Driver Bit Set</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>1/4\" Drive Bits; Standard; Hex; Straight</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>1 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>18.3500</td>\n</tr>\n<tr>\n<td><strong>Blade Width</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Multi</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Compact Magnetic Bit Holder, 6\" Magnetic Bit Holder, (84) 1\" Insert Bits: (2) P1, (4) P2, (2) PR2, SQ1, SQ2, SQ3, T10, T15, (2) T20, (2) T25, T27, (2) T30, (2) T40, (2) T50, Torx Security 7, Torx Security 8, Torx Security 9, Torx Security 10, Torx Security 15, Torx Security 20, Torx Security 25, Torx Security 27, Torx Security 30, Torx Security 40, (2) SL #4, (2) SL #6, (2) SL #8, (2) SL #10, (2) SL #12, (2) PZ1, (2) PZ2, PZ3, Hex 2.5 mm, Hex 3 mm, (2) Hex 4 mm, (2) Hex 5 mm, (2) Hex 6 mm, (2) Hex 8 mm, (2) Hex 10 mm, (2) Hex 10 mm, (2) Hex 12 mm, Hex 5/32\", Hex 3/16\", Hex 1/4\", Hex Security 2 mm, Hex Security 2.5 mm, Hex Security 3 mm, Hex Security 4 mm, Hex Security 5 mm, Hex Security 6 mm, Clutch 1/8\", Clutch 5/32\", Clutch 3/16\", Spline #4, Spline #5, Spline #6, Spline #8, Spanner #4, Spanner #6, Spanner #8, Spanner #10, Spanner #12, (22) 2\" Power Bits: (2) P1, (2) P2, (2) P3, (2) T20, (2) T25, (2) T30, (2) T40, SL #4, SL #6, SL #8, SL #10, SL #12, PZ1. PZ2, PZ3, (6) 3-1/2\" Power Bits: (2) P2, P3, (2) T20, T25, (3) 6\" Power Bits: P2, T20, T25, (4) Double Ended Bits: P2/P2, P2/SL #10, P2/SQ2, P2/T25, (3) Socket Adapters: 1/4\" to 1/4\" Hex to Square, 1/4\" to 3/8\" Hex to Square, 1/4\" to 1/2\" Hex to Square</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Insert Bit Set</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>124</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:35:03-06:00",
+  "created_at": "2023-12-28T16:35:04-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Power Tools",
+  "tags": [
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 43703562338471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67457457",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.43",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785294332071,
+      "created_at": "2023-12-28T16:35:04-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236641820839,
+      "created_at": "2025-02-03T17:49:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:11-06:00",
+      "product_id": 7785294332071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6745745-21.jpg?v=1738626551",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 110.43,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6745745-21.jpg?v=1738626551",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

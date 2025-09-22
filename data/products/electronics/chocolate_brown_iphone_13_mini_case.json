@@ -1,0 +1,127 @@
+{
+  "id": 8121403605080,
+  "title": "Chocolate Brown iPhone 13 Mini Case",
+  "handle": "chocolate-brown-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<!---->",
+  "published_at": "2024-10-16T09:10:47-04:00",
+  "created_at": "2024-09-06T12:37:28-04:00",
+  "updated_at": "2025-09-22T15:15:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "Classic",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42250848010328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16636-IP13MINI-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 29,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8121403605080,
+      "created_at": "2024-09-06T12:37:29-04:00",
+      "updated_at": "2025-09-22T15:15:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33628877488216,
+      "created_at": "2024-09-17T13:57:22-04:00",
+      "position": 1,
+      "updated_at": "2024-09-17T13:57:24-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP13_MINI_CHOCOLATE_BROWN_BACK.jpg?v=1726595844",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628877553752,
+      "created_at": "2024-09-17T13:57:23-04:00",
+      "position": 2,
+      "updated_at": "2024-09-17T13:57:24-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP13_MINI_CHOCOLATE_BROWN_BACK45L.jpg?v=1726595844",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33628877520984,
+      "created_at": "2024-09-17T13:57:23-04:00",
+      "position": 3,
+      "updated_at": "2024-09-17T13:57:24-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP13_MINI_CHOCOLATE_BROWN_BACK45R.jpg?v=1726595844",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33855502450776,
+      "created_at": "2024-10-24T16:18:56-04:00",
+      "position": 4,
+      "updated_at": "2024-10-24T16:18:58-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_f92de970-1337-4dd1-85ae-e7b68b7c62bc.jpg?v=1729801138",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855502483544,
+      "created_at": "2024-10-24T16:18:57-04:00",
+      "position": 5,
+      "updated_at": "2024-10-24T16:18:59-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_ed7cee06-d890-48a0-9998-ae4ed888674a.jpg?v=1729801139",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33855502418008,
+      "created_at": "2024-10-24T16:18:57-04:00",
+      "position": 6,
+      "updated_at": "2024-10-24T16:18:58-04:00",
+      "product_id": 8121403605080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_f580da6d-c58a-4e28-99d6-0b0fa4eec820.jpg?v=1729801138",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP13_MINI_CHOCOLATE_BROWN_BACK.jpg?v=1726595844",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

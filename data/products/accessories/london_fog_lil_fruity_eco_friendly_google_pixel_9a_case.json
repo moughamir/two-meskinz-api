@@ -1,0 +1,97 @@
+{
+  "id": 8310731997272,
+  "title": "London Fog Lil Fruity Google Pixel 9a Case",
+  "handle": "london-fog-lil-fruity-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Squeeze the day with the Pela Lil Fruity Phone Case, a zesty cocktail of summer's sweetest delights that's ripe for the picking. This case, with its London Fog base, is sprinkled with an array of handpicked watermelon slices, tangy lemons, and succulent berries, promising to keep your phone as fresh as a just-picked fruit salad. Each cheerful fruit sketch is a burst of happiness, ready to infuse your daily texts and calls with a dose of vitamin C(uteness). Go on, let your phone bask in a splash of nature's candy—your daily tech just got a whole lot juicier! 🍉🍋🍒</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T09:29:24-04:00",
+  "created_at": "2025-03-11T12:31:54-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Fruity",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726121406552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15740-PX9a-LFOG-AOD:LIL-FRUITY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310731997272,
+      "created_at": "2025-03-11T12:31:54-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671280324696,
+      "created_at": "2025-03-11T12:31:54-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:31:56-04:00",
+      "product_id": 8310731997272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_PX9A_LondonFog.jpg?v=1741710716",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677467709528,
+      "created_at": "2025-03-12T12:05:42-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:05:43-04:00",
+      "product_id": 8310731997272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad7_7050d151-58a8-4ad7-962c-0d92dece2c93.jpg?v=1741795543",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677471739992,
+      "created_at": "2025-03-12T12:07:17-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T12:07:19-04:00",
+      "product_id": 8310731997272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP4_fd397be3-2aba-4482-b837-afdd2ce199e8.jpg?v=1741795639",
+      "width": 3497,
+      "height": 3497
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_PX9A_LondonFog.jpg?v=1741710716",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

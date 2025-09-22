@@ -1,0 +1,86 @@
+{
+  "id": 8088980127832,
+  "title": "Powder Blue Marine Life iPhone 11 Pro Case",
+  "handle": "powder-blue-marine-life-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Explore the wonders of the deep blue with the Marine Life Phone Case! This aquatic masterpiece showcases an intricately illustrated collage of sea creatures—from majestic whales and graceful manta rays to quirky octopuses and starfish—all in timeless blue. 🦑🐠 Perfect for ocean lovers and adventurers alike, this case brings the enchanting marine world right into your hands while offering premium protection for your phone. Dive into style and let the sea vibes flow with you everywhere you go! 🌊🐢</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-22T09:32:20-04:00",
+  "created_at": "2024-08-14T10:26:41-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Marine Life",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42168992137304,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16037-IP11P-POWDERBLUE-AOD:MARINE-LIFE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088980127832,
+      "created_at": "2024-08-14T10:26:41-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33475978854488,
+      "created_at": "2024-08-14T10:28:34-04:00",
+      "position": 1,
+      "updated_at": "2024-08-14T10:28:34-04:00",
+      "product_id": 8088980127832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARINE-LIFE_IP11P_PowderBlue_bf5d7a95-e504-4a1d-92f4-9b716dcf74cd.jpg?v=1723645714",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516430622808,
+      "created_at": "2024-08-22T12:27:32-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:27:34-04:00",
+      "product_id": 8088980127832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_MarineLife_aff51a80-588e-4405-85ab-69f5e4299675.jpg?v=1724344054",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARINE-LIFE_IP11P_PowderBlue_bf5d7a95-e504-4a1d-92f4-9b716dcf74cd.jpg?v=1723645714",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

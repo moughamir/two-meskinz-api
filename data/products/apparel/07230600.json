@@ -1,0 +1,67 @@
+{
+  "id": 8452795859111,
+  "title": "Hand Sanding Pad: 6\" Wide, 9\" OAL, Medium Grade",
+  "handle": "07230600",
+  "body_html": "<br><strong>Item #: </strong>91960914<br><strong>Brand: </strong>Tru-Maxx<br><strong>Model #: </strong>91960914<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Pad Shape</strong>\n</td>\n<td>Rectangle</td>\n</tr>\n<tr> <td> <strong>Abrasive Type</strong>\n</td>\n<td>Non-Woven</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>9</td>\n</tr>\n<tr> <td> <strong>Width/Diameter (Inch)</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>Grade</strong>\n</td>\n<td>Medium</td>\n</tr>\n<tr> <td> <strong>Pad Color</strong>\n</td>\n<td>Green</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31191505</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T17:54:38-06:00",
+  "created_at": "2025-01-23T17:54:37-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Tru-Maxx",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 46499094724775,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "91960914",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.33",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452795859111,
+      "created_at": "2025-01-23T17:54:37-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38253649592487,
+      "created_at": "2025-02-04T03:59:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:59:02-06:00",
+      "product_id": 8452795859111,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0335654B-11.jpg?v=1738663142",
+      "width": 224,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0335654B-11.jpg?v=1738663142",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tru-Maxx",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

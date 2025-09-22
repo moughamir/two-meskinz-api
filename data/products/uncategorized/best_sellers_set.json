@@ -1,0 +1,86 @@
+{
+  "id": 7052382797933,
+  "title": "Best Sellers Set",
+  "handle": "best-sellers-set",
+  "body_html": "<p>This set includes two signature scents, Becki Owens’s Coconut Calm and Anthropologie’s Honeycrisp Oakwood, and a Pura 4 smart fragrance diffuser.</p>\n<p><meta charset=\"utf-8\"><br></p>",
+  "published_at": "2023-08-14T20:02:07-06:00",
+  "created_at": "2023-08-10T11:02:11-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Box",
+  "tags": [
+    "Brand:Anthropologie",
+    "Brand:Becki Owens",
+    "Group_Home",
+    "Pura 4",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_coconutcalm"
+  ],
+  "variants": [
+    {
+      "id": 40702835425389,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.99",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052382797933,
+      "created_at": "2023-08-10T11:02:12-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30335913721965,
+      "created_at": "2023-08-10T11:06:31-06:00",
+      "position": 1,
+      "updated_at": "2023-08-10T11:06:44-06:00",
+      "product_id": 7052382797933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized-3.jpg?v=1691687204",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30335913689197,
+      "created_at": "2023-08-10T11:06:31-06:00",
+      "position": 2,
+      "updated_at": "2023-08-10T11:06:33-06:00",
+      "product_id": 7052382797933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4sets-7.jpg?v=1691687193",
+      "width": 2939,
+      "height": 3918
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized-3.jpg?v=1691687204",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

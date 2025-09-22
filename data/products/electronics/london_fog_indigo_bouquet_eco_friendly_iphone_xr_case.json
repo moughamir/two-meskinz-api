@@ -1,0 +1,110 @@
+{
+  "id": 7536125313112,
+  "title": "London Fog Indigo Bouquet iPhone XR Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-xr-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:15:59-05:00",
+  "created_at": "2024-01-15T11:10:00-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949020426328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536125313112,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723200600,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:00-05:00",
+      "product_id": 7536125313112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IPXR_LondonFog.jpg?v=1705335000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088843354200,
+      "created_at": "2024-01-17T10:16:22-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:16:24-05:00",
+      "product_id": 7536125313112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_aae556e8-c87f-4163-988c-a93ab91ffbb0.png?v=1705504584",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088843386968,
+      "created_at": "2024-01-17T10:16:22-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:16:24-05:00",
+      "product_id": 7536125313112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_77410cc7-fd28-457d-a57d-9e19af808a4f.png?v=1705504584",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088843419736,
+      "created_at": "2024-01-17T10:16:22-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:16:23-05:00",
+      "product_id": 7536125313112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_6866cf60-ca51-4f24-9bbc-ae971e3a5d93.png?v=1705504583",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IPXR_LondonFog.jpg?v=1705335000",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

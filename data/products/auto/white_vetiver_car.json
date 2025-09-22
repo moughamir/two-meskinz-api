@@ -1,0 +1,109 @@
+{
+  "id": 7064489984109,
+  "title": "White Vetiver",
+  "handle": "white-vetiver-car",
+  "body_html": "<p>Embrace a new driving experience as <strong>eucalyptus</strong>, silky <strong>cashmere</strong>, and <strong>lily</strong> entwine with earthy <strong>vetiver</strong> and <strong>sandalwood</strong> for a luxurious scent.</p>",
+  "published_at": "2024-03-13T09:16:08-06:00",
+  "created_at": "2023-08-24T08:32:26-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Apotheke",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand:Apotheke",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Fresh",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_CarFragrance21",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 40711250641005,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VXEC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7064489984109,
+      "created_at": "2023-08-24T08:32:27-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30400700416109,
+      "created_at": "2023-08-24T08:35:21-06:00",
+      "position": 1,
+      "updated_at": "2023-08-24T08:35:23-06:00",
+      "product_id": 7064489984109,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apothekewhitevetivercarresized-2.jpg?v=1692887723",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30400700448877,
+      "created_at": "2023-08-24T08:35:21-06:00",
+      "position": 2,
+      "updated_at": "2023-08-24T08:36:04-06:00",
+      "product_id": 7064489984109,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/vetiver.jpg?v=1692887764",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30415572435053,
+      "created_at": "2023-08-28T11:08:17-06:00",
+      "position": 3,
+      "updated_at": "2023-08-28T11:08:31-06:00",
+      "product_id": 7064489984109,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-WhiteVetiver-PDP.png?v=1693242511",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30400700383341,
+      "created_at": "2023-08-24T08:35:21-06:00",
+      "position": 4,
+      "updated_at": "2023-08-28T11:08:31-06:00",
+      "product_id": 7064489984109,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apothekewhitevetivercarresized-3.jpg?v=1693242511",
+      "width": 3486,
+      "height": 5162
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apothekewhitevetivercarresized-2.jpg?v=1692887723",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Apotheke",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

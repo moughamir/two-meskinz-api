@@ -1,0 +1,108 @@
+{
+  "id": 8418749841496,
+  "title": "Powder Blue Ocean Charms iPhone 12/ iPhone 12 Pro Case",
+  "handle": "powder-blue-ocean-charms-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p data-start=\"0\" data-end=\"84\">Say hello to your pocket-sized treasure trove — the Ocean Charms Phone Case! 🐚✨</p>\n<p data-start=\"86\" data-end=\"409\">Adorned in sea-blue with hand-sketched shells, pearls, starfish, and mermaid tails, this case is basically a beach day in your hand. It’s giving “found this at low tide on a magical island” vibes. Whether you’re a full-time beach bum or just wish you were, this dreamy design keeps your phone looking shore-stoppingly cute.</p>\n<p><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-24T08:45:54-04:00",
+  "created_at": "2025-07-02T13:46:40-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ocean Charms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43031085973592,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16462-IP12-POWDERBLUE-AOD:OCEAN-CHARMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8418749841496,
+      "created_at": "2025-07-02T13:46:40-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35348387725400,
+      "created_at": "2025-07-02T13:46:40-04:00",
+      "position": 1,
+      "updated_at": "2025-07-02T13:46:42-04:00",
+      "product_id": 8418749841496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-CHARMS_IP12_PowderBlue.jpg?v=1751478402",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453407625304,
+      "created_at": "2025-07-21T16:25:31-04:00",
+      "position": 2,
+      "updated_at": "2025-07-21T16:25:31-04:00",
+      "product_id": 8418749841496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/6837e9716632f288f38e090d60bb4baa_1ac52507-0db9-4fde-ac0b-9b0a40a92544.jpg?v=1753129531",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453408018520,
+      "created_at": "2025-07-21T16:25:33-04:00",
+      "position": 3,
+      "updated_at": "2025-07-21T16:25:33-04:00",
+      "product_id": 8418749841496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b7c940d51dae60d7ddb93d59f55dd636_857b8992-4873-4882-a7dc-1ea191cb406b.jpg?v=1753129533",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453408346200,
+      "created_at": "2025-07-21T16:25:34-04:00",
+      "position": 4,
+      "updated_at": "2025-07-21T16:25:34-04:00",
+      "product_id": 8418749841496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2b12b1eacd315cad35d149d4bdd544a_8bd7e3b5-9d8f-4c23-aaf7-f4097f355439.jpg?v=1753129534",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-CHARMS_IP12_PowderBlue.jpg?v=1751478402",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

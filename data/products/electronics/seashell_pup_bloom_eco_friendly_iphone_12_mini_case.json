@@ -1,0 +1,108 @@
+{
+  "id": 8335116959832,
+  "title": "Seashell Pup Bloom iPhone 12 Mini Case",
+  "handle": "seashell-pup-bloom-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to your daily dose of pawsitivity! The Pup Bloom Phone Case is bursting with colorful canines, playful flowers, and heart-melting charm. Whether you’re a proud pup parent or just really into dogs in sweaters (same), this case is the cutest way to protect your phone from drops, scratches, and bad vibes. 🐶🌼📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:14:34-04:00",
+  "created_at": "2025-04-01T11:42:11-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pup Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788476518488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:PUP-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335116959832,
+      "created_at": "2025-04-01T11:42:11-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775478075480,
+      "created_at": "2025-04-01T11:42:11-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:13-04:00",
+      "product_id": 8335116959832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IP12MINI_Seashell.jpg?v=1743522133",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892745834584,
+      "created_at": "2025-04-23T10:49:33-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:49:38-04:00",
+      "product_id": 8335116959832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_942d5c55-454d-4626-8403-5d086469ad53.jpg?v=1745419778",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892745801816,
+      "created_at": "2025-04-23T10:49:33-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:49:38-04:00",
+      "product_id": 8335116959832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_cac2a0d9-cb24-49c8-b40d-5848efe7ac63.jpg?v=1745419778",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892745769048,
+      "created_at": "2025-04-23T10:49:32-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:49:38-04:00",
+      "product_id": 8335116959832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_664c05be-955d-4d21-9233-ff3b90f34c3d.jpg?v=1745419778",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IP12MINI_Seashell.jpg?v=1743522133",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

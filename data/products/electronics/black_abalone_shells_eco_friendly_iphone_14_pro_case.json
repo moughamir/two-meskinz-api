@@ -1,0 +1,109 @@
+{
+  "id": 8335759769688,
+  "title": "Black Abalone Shells iPhone 14 Pro Case",
+  "handle": "black-abalone-shells-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Shell yeah! The Abalone Shells Phone Case brings major ocean treasure vibes with its stunning, iridescent swirls and deep-sea shimmer. It's giving salty air, tide pool daydreams, and mermaid energy—all wrapped up in planet-friendly protection. Dive into the look that’s bold, beachy, and totally shell-fie ready. 🐚🌊✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-24T09:14:59-04:00",
+  "created_at": "2025-04-02T09:49:04-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Witch",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Abalone Shells",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42790538444888,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16795-IP14P-BLACK-AOD:ABALONE-SHELLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335759769688,
+      "created_at": "2025-04-02T09:49:04-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34778268696664,
+      "created_at": "2025-04-02T09:49:04-04:00",
+      "position": 1,
+      "updated_at": "2025-04-02T09:49:06-04:00",
+      "product_id": 8335759769688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ABALONE-SHELLS_IP14P_Black.jpg?v=1743601746",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34893713342552,
+      "created_at": "2025-04-23T15:47:58-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T15:48:03-04:00",
+      "product_id": 8335759769688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_Friends_PDP_1x1_01_b963eef9-acd9-45c9-b033-b6744d205797.jpg?v=1745437683",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34893713408088,
+      "created_at": "2025-04-23T15:47:58-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T15:48:03-04:00",
+      "product_id": 8335759769688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_Androids_PDP_1x1_03_e7a92b9d-03f8-452f-bbb3-c413f38f8f73.jpg?v=1745437683",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34893713375320,
+      "created_at": "2025-04-23T15:47:58-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T15:48:03-04:00",
+      "product_id": 8335759769688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_IPGrid_PDP_1x1_05_1993bfa0-efdb-4e42-a1f5-41550206573a.jpg?v=1745437683",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ABALONE-SHELLS_IP14P_Black.jpg?v=1743601746",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 8190703501400,
+  "title": "Clear Samsung S25 Ultra Case with Lavender Ridge",
+  "handle": "clear-samsung-s25-ultra-case-with-lavender-ridge",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span></p>",
+  "published_at": "2025-05-08T05:57:04-04:00",
+  "created_at": "2024-11-19T12:08:59-05:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "Clear Case With Ridge",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 42406571704408,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28841-S25ULTRA-LAV-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "55.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190703501400,
+      "created_at": "2024-11-19T12:08:59-05:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34147673899096,
+      "created_at": "2024-12-18T12:56:54-05:00",
+      "position": 1,
+      "updated_at": "2024-12-18T12:56:56-05:00",
+      "product_id": 8190703501400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_LAVENDER_BACK_2358f9e4-4e9d-4f39-81f4-6b3edecd77b0.jpg?v=1734544616",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34147673964632,
+      "created_at": "2024-12-18T12:56:54-05:00",
+      "position": 2,
+      "updated_at": "2024-12-18T12:56:56-05:00",
+      "product_id": 8190703501400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_LAVENDER_BACK45L.jpg?v=1734544616",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34147673833560,
+      "created_at": "2024-12-18T12:56:54-05:00",
+      "position": 3,
+      "updated_at": "2024-12-18T12:56:56-05:00",
+      "product_id": 8190703501400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_LAVENDER_BACK45R.jpg?v=1734544616",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_LAVENDER_BACK_2358f9e4-4e9d-4f39-81f4-6b3edecd77b0.jpg?v=1734544616",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

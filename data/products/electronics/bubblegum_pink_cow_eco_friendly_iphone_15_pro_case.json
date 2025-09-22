@@ -1,0 +1,101 @@
+{
+  "id": 7556235624536,
+  "title": "Bubblegum Pink Cow iPhone 15 Pro Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:47:57-05:00",
+  "created_at": "2024-02-08T11:08:37-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007074904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17061-IP15P-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556235624536,
+      "created_at": "2024-02-08T11:08:37-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177738088536,
+      "created_at": "2024-02-08T11:08:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:37-05:00",
+      "product_id": 7556235624536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP15P_BubblegumPink.jpg?v=1707408517",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211979436120,
+      "created_at": "2024-02-21T03:10:38-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:10:39-05:00",
+      "product_id": 7556235624536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_32398297-b489-4eb2-a974-5ebb0bfc7835.jpg?v=1708503039",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211979370584,
+      "created_at": "2024-02-21T03:10:38-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:10:39-05:00",
+      "product_id": 7556235624536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_7c974ac3-61f6-4c17-97eb-b5e3a12d0264.jpg?v=1708503039",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP15P_BubblegumPink.jpg?v=1707408517",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

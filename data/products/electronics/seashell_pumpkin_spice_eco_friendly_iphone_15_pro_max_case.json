@@ -1,0 +1,110 @@
+{
+  "id": 8127740739672,
+  "title": "Seashell Pumpkin Spice iPhone 15 Pro Max Case",
+  "handle": "seashell-pumpkin-spice-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p class=\"p1\">Get ready to fall in love with your phone all over again with the Pumpkin Spice Phone Case! 🎃🍂 This charming design is a tribute to all things cozy—steaming mugs of coffee, cinnamon sticks, pumpkin pie, and a sprinkle of autumn magic. It’s like wrapping your phone in a warm blanket of fall vibes, perfect for pumpkin spice lovers and autumn enthusiasts alike. Sip your latte, cozy up, and let your phone bask in the sweet, spicy goodness of the season! ☕🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:08:20-04:00",
+  "created_at": "2024-09-13T10:29:32-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Pumpkin Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346315352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17126-IP15PMAX-SEASHELL-AOD:PUMPKIN-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740739672,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318712408,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:32-04:00",
+      "product_id": 8127740739672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP15PMAX_Seashell.jpg?v=1726237772",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685768568920,
+      "created_at": "2024-09-26T17:45:34-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:45:36-04:00",
+      "product_id": 8127740739672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_02_3688ec65-9dee-4a5c-a964-1bbbbe457d99.jpg?v=1727387136",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678567931992,
+      "created_at": "2024-09-25T15:26:16-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:26:17-04:00",
+      "product_id": 8127740739672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_eadd6cda-3f22-43d6-8630-8365f613f720.jpg?v=1727292377",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685768601688,
+      "created_at": "2024-09-26T17:45:34-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:45:36-04:00",
+      "product_id": 8127740739672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_b5de85b3-7d9e-4265-8f49-a06a6ffb2663.jpg?v=1727387136",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP15PMAX_Seashell.jpg?v=1726237772",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

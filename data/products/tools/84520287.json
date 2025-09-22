@@ -1,0 +1,67 @@
+{
+  "id": 8452513431719,
+  "title": "Indexable Drill Insert: SOMT130408PS IN2505, Carbide",
+  "handle": "84520287",
+  "body_html": "<br><strong>Item #: </strong>04260071<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>6304151<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Insert Style</strong>\n</td>\n<td>SOMT</td>\n</tr>\n<tr> <td> <strong>Insert Material</strong>\n</td>\n<td>Carbide</td>\n</tr>\n<tr> <td> <strong>Manufacturer Grade</strong>\n</td>\n<td>IN2505</td>\n</tr>\n<tr> <td> <strong>Thickness (mm)</strong>\n</td>\n<td>4.65</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (Decimal Inch)</strong>\n</td>\n<td>0.5040</td>\n</tr>\n<tr> <td> <strong>Corner Radius (Inch)</strong>\n</td>\n<td>1/32</td>\n</tr>\n<tr> <td> <strong>Chipbreaker</strong>\n</td>\n<td>PS</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>SOMT</td>\n</tr>\n<tr> <td> <strong>Coating Process</strong>\n</td>\n<td>PVD</td>\n</tr>\n<tr> <td> <strong>Shape</strong>\n</td>\n<td>Square</td>\n</tr>\n<tr> <td> <strong>Number Of Cutting Edges</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Rake</strong>\n</td>\n<td>Positive</td>\n</tr>\n<tr> <td> <strong>Manufacturers Catalog Number</strong>\n</td>\n<td>SOMT130408PS IN2505</td>\n</tr>\n<tr> <td> <strong>Compatible Drill Style</strong>\n</td>\n<td>QR</td>\n</tr>\n<tr> <td> <strong>Insert Size</strong>\n</td>\n<td>13</td>\n</tr>\n<tr> <td> <strong>Width (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.504</td>\n</tr>\n<tr> <td> <strong>Length (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.504</td>\n</tr>\n<tr> <td> <strong>Included Angle Degree</strong>\n</td>\n<td>90</td>\n</tr>\n<tr> <td> <strong>Thickness (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.183</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>TiN; TiAlN</td>\n</tr>\n<tr> <td> <strong>Insert Size Code</strong>\n</td>\n<td>130408</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23242105</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:58:31-06:00",
+  "created_at": "2025-01-23T08:58:29-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 46497943322791,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04260071",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.09",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452513431719,
+      "created_at": "2025-01-23T08:58:29-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241866678439,
+      "created_at": "2025-02-03T21:11:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:11:51-06:00",
+      "product_id": 8452513431719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0426007-21.jpg?v=1738638711",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0426007-21.jpg?v=1738638711",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

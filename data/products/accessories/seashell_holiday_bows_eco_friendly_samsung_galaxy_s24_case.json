@@ -1,0 +1,108 @@
+{
+  "id": 8159693996120,
+  "title": "Seashell Holiday Bows Samsung Galaxy S24 Case",
+  "handle": "seashell-holiday-bows-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:18:00-04:00",
+  "created_at": "2024-10-16T10:40:40-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333272309848,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159693996120,
+      "created_at": "2024-10-16T10:40:40-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799055507544,
+      "created_at": "2024-10-16T10:40:40-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:40-04:00",
+      "product_id": 8159693996120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_S24_Seashell.jpg?v=1729089640",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838770749528,
+      "created_at": "2024-10-22T11:46:13-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T11:46:15-04:00",
+      "product_id": 8159693996120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_e59e1cd4-e6e4-4b91-a144-6dd03c161ffa.jpg?v=1729611975",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838770716760,
+      "created_at": "2024-10-22T11:46:13-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T11:46:15-04:00",
+      "product_id": 8159693996120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_60c38e1d-b763-493b-b7ab-baeffc947f66.jpg?v=1729611975",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838770782296,
+      "created_at": "2024-10-22T11:46:13-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:46:15-04:00",
+      "product_id": 8159693996120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_301fffd7-5462-4d51-8acd-ffc8a46151dd.jpg?v=1729611975",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_S24_Seashell.jpg?v=1729089640",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

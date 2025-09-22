@@ -1,0 +1,97 @@
+{
+  "id": 8299244781656,
+  "title": "Chocolate Brown Cocoa Stripes iPhone 12 Mini Case",
+  "handle": "chocolate-brown-cocoa-stripes-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Classic, bold, and irresistibly rich—just like your favorite dark chocolate bar. The <em data-start=\"385\" data-end=\"400\">Cocoa Stripes Phone Case</em> brings timeless style to your phone with sleek vertical stripes in deep brown tones. Perfect for minimalists who love a touch of vintage charm.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:25:35-04:00",
+  "created_at": "2025-02-26T10:03:47-05:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cocoa Stripes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697334587480,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16385-IP12MINI-CHOBROWN-AOD:COCOA-STRIPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299244781656,
+      "created_at": "2025-02-26T10:03:47-05:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599125712984,
+      "created_at": "2025-02-26T10:03:47-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:03:49-05:00",
+      "product_id": 8299244781656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_IP12MINI_ChocolateBrown.jpg?v=1740582229",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672827105368,
+      "created_at": "2025-03-11T18:21:30-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T18:21:31-04:00",
+      "product_id": 8299244781656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP1_67caee4f-5fee-423f-b28d-6abb9de1cc8f.jpg?v=1741731691",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672827138136,
+      "created_at": "2025-03-11T18:21:30-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T18:21:31-04:00",
+      "product_id": 8299244781656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP2_1d951a86-5979-488f-a241-ec57f3799ce5.jpg?v=1741731691",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_IP12MINI_ChocolateBrown.jpg?v=1740582229",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

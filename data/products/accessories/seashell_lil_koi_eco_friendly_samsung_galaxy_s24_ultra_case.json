@@ -1,0 +1,75 @@
+{
+  "id": 7947622645848,
+  "title": "Seashell Lil Koi Samsung Galaxy S24 Ultra Case",
+  "handle": "seashell-lil-koi-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p><span>Bring the serene beauty of a koi pond to your pocket with the Pela Lil' Koi Phone Case! This charming case features a delightful dance of koi fish in vibrant oranges, reds, and blacks, set against a subtle seashell-colored backdrop.  Each fish design swims playfully around your device, providing a splash of color and a zen vibe to your daily routine. Ideal for those who want to combine robust protection with a touch of tranquility, this case lets you carry a piece of the pond wherever you go! 🎏✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-06T09:24:51-04:00",
+  "created_at": "2024-06-03T12:55:46-04:00",
+  "updated_at": "2025-09-22T15:16:04-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Fish",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Koi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41795955949656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13875-S24ULTRA-SEASHELL-AOD:LIL-KOI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7947622645848,
+      "created_at": "2024-06-03T12:55:47-04:00",
+      "updated_at": "2025-09-22T15:16:04-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33029929697368,
+      "created_at": "2024-06-03T12:55:46-04:00",
+      "position": 1,
+      "updated_at": "2024-06-03T12:55:46-04:00",
+      "product_id": 7947622645848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-KOI_S24ULTRA_Seashell.jpg?v=1717433746",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-KOI_S24ULTRA_Seashell.jpg?v=1717433746",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

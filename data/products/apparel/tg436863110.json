@@ -1,0 +1,67 @@
+{
+  "id": 7786117988519,
+  "title": "Brand: Value Collection / Part #: FE-75D-M",
+  "handle": "tg436863110",
+  "body_html": "<br><strong>Item #: </strong>61796850<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>FE-75D-M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Motor Type</strong>\n</td>\n<td>Permanent Split Cap</td>\n</tr>\n<tr>\n<td><strong>Enclosure Style</strong></td>\n<td>Open</td>\n</tr>\n<tr>\n<td><strong>Horsepower</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Name Plate RPMs</strong></td>\n<td>1100</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>120V AC</td>\n</tr>\n<tr>\n<td><strong>Frequency (Hz - 0 Decimals)</strong></td>\n<td>60</td>\n</tr>\n<tr>\n<td><strong>Mount Style</strong></td>\n<td>Ear Screws</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Ear Screw</td>\n</tr>\n<tr>\n<td><strong>Bearing Type</strong></td>\n<td>Ball</td>\n</tr>\n<tr>\n<td><strong>Full Load Amperage</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Insulation Class</strong></td>\n<td>E</td>\n</tr>\n<tr>\n<td><strong>Frame Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Applications</strong></td>\n<td>HVAC</td>\n</tr>\n<tr>\n<td><strong>Motor Run Capacitor Micro Farid</strong></td>\n<td>15.00</td>\n</tr>\n<tr>\n<td><strong>Thermal Protection</strong></td>\n<td>Auto</td>\n</tr>\n<tr>\n<td><strong>Number Of Speeds</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Open</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>6105</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:17:25-06:00",
+  "created_at": "2023-12-29T10:17:25-06:00",
+  "updated_at": "2025-09-22T10:47:23-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Motors"
+  ],
+  "variants": [
+    {
+      "id": 43707004911783,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "61796850",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "54.75",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786117988519,
+      "created_at": "2023-12-29T10:17:25-06:00",
+      "updated_at": "2025-09-22T10:47:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237853876391,
+      "created_at": "2025-02-03T18:27:20-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:27:21-06:00",
+      "product_id": 7786117988519,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6179685-21.jpg?v=1738628841",
+      "width": 600,
+      "height": 592
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 54.75,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6179685-21.jpg?v=1738628841",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

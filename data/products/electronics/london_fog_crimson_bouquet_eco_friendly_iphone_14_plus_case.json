@@ -1,0 +1,120 @@
+{
+  "id": 8328350597208,
+  "title": "London Fog Crimson Bouquet iPhone 14 Plus Case",
+  "handle": "london-fog-crimson-bouquet-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to drama in bloom. The <em data-start=\"75\" data-end=\"92\">Crimson Bouquet</em> Phone Case is a vintage-inspired floral fantasy, featuring detailed red botanicals that feel straight out of a romantic storybook—or your favorite antique wallpaper. It's bold, elegant, and just the right amount of extra.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-17T08:17:41-04:00",
+  "created_at": "2025-03-26T11:48:48-04:00",
+  "updated_at": "2025-09-22T15:14:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Crimson Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42774344466520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16945-IP14PLUS-LFOG-AOD:CRIMSON-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8328350597208,
+      "created_at": "2025-03-26T11:48:48-04:00",
+      "updated_at": "2025-09-22T15:14:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34748590784600,
+      "created_at": "2025-03-26T11:48:48-04:00",
+      "position": 1,
+      "updated_at": "2025-03-26T11:48:50-04:00",
+      "product_id": 8328350597208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-BOUQUET_IP14PLUS_LondonFog.jpg?v=1743004130",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34815090688088,
+      "created_at": "2025-04-10T14:19:30-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T14:19:41-04:00",
+      "product_id": 8328350597208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_04_3bd16a94-3401-4ab7-bf99-2b8cdb8a8529.jpg?v=1744309181",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34815090786392,
+      "created_at": "2025-04-10T14:19:30-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T14:19:41-04:00",
+      "product_id": 8328350597208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_03_0c35e94c-0845-4983-8b40-fc9d6c16495f.jpg?v=1744309181",
+      "width": 4324,
+      "height": 4324
+    },
+    {
+      "id": 34815090720856,
+      "created_at": "2025-04-10T14:19:30-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T14:19:41-04:00",
+      "product_id": 8328350597208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_01_b284b81d-73f4-40e6-bf18-c0d97493986b.jpg?v=1744309181",
+      "width": 4225,
+      "height": 4225
+    },
+    {
+      "id": 34815090753624,
+      "created_at": "2025-04-10T14:19:30-04:00",
+      "position": 5,
+      "updated_at": "2025-04-10T14:19:41-04:00",
+      "product_id": 8328350597208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Flowers_CrimsonBouquet_PDP_02_ad418424-25bd-448a-a5a0-7158dfe81a3c.jpg?v=1744309181",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-BOUQUET_IP14PLUS_LondonFog.jpg?v=1743004130",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

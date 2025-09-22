@@ -1,0 +1,125 @@
+{
+  "id": 8278278111320,
+  "title": "Chocolate Brown Pixel 6a Phone Case",
+  "handle": "chocolate-brown-pixel-6a-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:17:16-05:00",
+  "created_at": "2025-02-04T10:23:48-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642249285720,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14812-PX6a-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 61,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278278111320,
+      "created_at": "2025-02-04T10:23:48-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569301557336,
+      "created_at": "2025-02-20T10:50:11-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:50:13-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX6A_CHOCOLATE_BROWN_BACK.jpg?v=1740066613",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569301491800,
+      "created_at": "2025-02-20T10:50:11-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:50:12-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX6A_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066612",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569301524568,
+      "created_at": "2025-02-20T10:50:11-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:50:12-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX6A_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066612",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569409167448,
+      "created_at": "2025-02-20T11:06:04-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:06:06-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_0803a5ad-015f-47f8-91f4-bbe28a8f2959.jpg?v=1740067566",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569409069144,
+      "created_at": "2025-02-20T11:06:04-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:06:06-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_8e1f4640-817a-4b28-944c-c29dbc3ffe73.jpg?v=1740067566",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569409101912,
+      "created_at": "2025-02-20T11:06:04-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:06:06-05:00",
+      "product_id": 8278278111320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_403a8874-ea31-49a5-9951-8b2cd362a802.jpg?v=1740067566",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX6A_CHOCOLATE_BROWN_BACK.jpg?v=1740066613",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

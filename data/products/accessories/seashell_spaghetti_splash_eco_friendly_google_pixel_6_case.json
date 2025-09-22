@@ -1,0 +1,109 @@
+{
+  "id": 8243496157272,
+  "title": "Seashell Spaghetti Splash Google Pixel 6 Case",
+  "handle": "seashell-spaghetti-splash-eco-friendly-google-pixel-6-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get tangled up in delicious design with the Spaghetti Splash Phone Case! Featuring a playful pattern of golden noodles and juicy red tomatoes, this case is a carb lover’s dream. Whether you’re a spaghetti aficionado or just love bold, foodie-inspired style, it’s the perfect accessory to sauce up your phone.<meta charset=\"utf-8\">🍝🍅</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:04:32-05:00",
+  "created_at": "2025-01-08T12:41:06-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Spaghetti Splash",
+    "pasta",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541140607064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14708-PX6-SEASHELL-AOD:SPAGHETTI-SPLASH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243496157272,
+      "created_at": "2025-01-08T12:41:06-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242773123160,
+      "created_at": "2025-01-08T12:41:06-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:07-05:00",
+      "product_id": 8243496157272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTI-SPLASH_PX6_Seashell.jpg?v=1736358067",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357401223256,
+      "created_at": "2025-01-23T10:09:18-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:09:20-05:00",
+      "product_id": 8243496157272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP1.jpg?v=1737644960",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357401256024,
+      "created_at": "2025-01-23T10:09:18-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:09:24-05:00",
+      "product_id": 8243496157272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP3.jpg?v=1737644964",
+      "width": 3416,
+      "height": 3416
+    },
+    {
+      "id": 34357401190488,
+      "created_at": "2025-01-23T10:09:18-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:09:24-05:00",
+      "product_id": 8243496157272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP2.jpg?v=1737644964",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTI-SPLASH_PX6_Seashell.jpg?v=1736358067",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

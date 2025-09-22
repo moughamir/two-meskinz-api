@@ -1,0 +1,68 @@
+{
+  "id": 5301148909735,
+  "title": "Brand: Seco / Part #: 10139721",
+  "handle": "09474958",
+  "body_html": "<br><strong>Item #: </strong>99767659<br><strong>Brand: </strong>Seco<br><strong>Model #: </strong>10139721<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tap Type</strong>\n</td>\n<td>Machine</td>\n</tr>\n<tr>\n<td><strong>Thread Size (mm)</strong></td>\n<td>MF10x1</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6H</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Semi-Bottoming</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>HSS-E</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TN</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>25</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric Fine</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>90.0000</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>1.00</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>20.00</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>20.00</td>\n</tr>\n<tr>\n<td><strong>Oversize</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Blind Hole Threading</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>7.0000</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (mm)</strong></td>\n<td>67.00</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>T32</td>\n</tr>\n<tr>\n<td><strong>Neck Length</strong></td>\n<td>47.00</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>23.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T10:28:51-06:00",
+  "created_at": "2020-06-08T15:28:08-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Seco",
+  "product_type": "Threading",
+  "tags": [
+    "Personal Protective Equipment",
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 34631360348327,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99767659",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5301148909735,
+      "created_at": "2020-06-08T15:28:09-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38113968914599,
+      "created_at": "2025-01-22T10:28:58-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T10:28:59-06:00",
+      "product_id": 5301148909735,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9976765-21_6e1f60ec-7f84-4dca-a18e-f0af8a273461.jpg?v=1737563339",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9976765-21_6e1f60ec-7f84-4dca-a18e-f0af8a273461.jpg?v=1737563339",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Seco",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

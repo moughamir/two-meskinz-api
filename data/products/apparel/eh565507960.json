@@ -1,0 +1,67 @@
+{
+  "id": 7786129162407,
+  "title": "Brand: Craftsman / Part #: CMMT99276",
+  "handle": "eh565507960",
+  "body_html": "<br><strong>Item #: </strong>23173370<br><strong>Brand: </strong>Craftsman<br><strong>Model #: </strong>CMMT99276<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Sliding Bar Handle</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>3/4 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>18</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Polished Chrome</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:36:45-06:00",
+  "created_at": "2023-12-29T10:36:45-06:00",
+  "updated_at": "2025-09-22T10:54:05-05:00",
+  "vendor": "Craftsman",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Ratchets; Drivers & Extensions"
+  ],
+  "variants": [
+    {
+      "id": 43707030798503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "23173370",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "54.09",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786129162407,
+      "created_at": "2023-12-29T10:36:45-06:00",
+      "updated_at": "2025-09-22T10:54:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237876093095,
+      "created_at": "2025-02-03T18:28:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:28:02-06:00",
+      "product_id": 7786129162407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2317337-21.jpg?v=1738628882",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 54.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2317337-21.jpg?v=1738628882",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Craftsman",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

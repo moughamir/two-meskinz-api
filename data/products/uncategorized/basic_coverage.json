@@ -1,0 +1,68 @@
+{
+  "id": 4896016564312,
+  "title": "Basic Coverage",
+  "handle": "basic-coverage",
+  "body_html": "",
+  "published_at": "2025-05-08T09:46:12-04:00",
+  "created_at": "2021-01-19T14:43:36-05:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Screen Coverage",
+  "tags": [
+    "Basic Screen Coverage",
+    "product_notice_1"
+  ],
+  "variants": [
+    {
+      "id": 33680048455768,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "Basic Coverage",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "12.00",
+      "grams": 29,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 4896016564312,
+      "created_at": "2021-01-19T14:43:36-05:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 16248540135512,
+      "created_at": "2021-01-20T13:46:23-05:00",
+      "position": 1,
+      "updated_at": "2021-07-15T14:57:49-04:00",
+      "product_id": 4896016564312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/shield_1.jpg?v=1626375469",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 12,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/shield_1.jpg?v=1626375469",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Screen Coverage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

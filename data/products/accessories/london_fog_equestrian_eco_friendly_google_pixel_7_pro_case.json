@@ -1,0 +1,98 @@
+{
+  "id": 7938730983512,
+  "title": "London Fog Equestrian Google Pixel 7 Pro Case",
+  "handle": "london-fog-equestrian-eco-friendly-google-pixel-7-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up your style with the Equestrian Phone Case by Pela! Featuring charming horse-themed illustrations, this case captures the essence of a day at the stables. Perfect for horse lovers and equestrian enthusiasts, this case is your trusty companion, bringing a touch of playful charm and sustainability to your daily adventures. 🐴<meta charset=\"utf-8\">🍎📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-13T09:19:43-04:00",
+  "created_at": "2024-05-31T12:29:26-04:00",
+  "updated_at": "2025-09-22T15:16:04-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Equestrian",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2",
+    "sport"
+  ],
+  "variants": [
+    {
+      "id": 41779585777752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14877-PX7P-LFOG-AOD:EQUESTRIAN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7938730983512,
+      "created_at": "2024-05-31T12:29:26-04:00",
+      "updated_at": "2025-09-22T15:16:04-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33010133696600,
+      "created_at": "2024-05-31T12:29:26-04:00",
+      "position": 1,
+      "updated_at": "2024-05-31T12:29:26-04:00",
+      "product_id": 7938730983512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_PX7P_LondonFog.jpg?v=1717172966",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079140810840,
+      "created_at": "2024-06-11T13:48:58-04:00",
+      "position": 2,
+      "updated_at": "2024-06-11T13:48:59-04:00",
+      "product_id": 7938730983512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-1_f205b015-8a86-4271-89fd-08a4b70f6b52.jpg?v=1718128139",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079140843608,
+      "created_at": "2024-06-11T13:48:58-04:00",
+      "position": 3,
+      "updated_at": "2024-06-11T13:48:59-04:00",
+      "product_id": 7938730983512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-2_00761811-58c1-450d-8d75-38b50e6fdeb1.jpg?v=1718128139",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_PX7P_LondonFog.jpg?v=1717172966",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

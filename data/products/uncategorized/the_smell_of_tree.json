@@ -1,0 +1,118 @@
+{
+  "id": 7110933807213,
+  "title": "The Smell of Tree",
+  "handle": "the-smell-of-tree",
+  "body_html": "<p>Like walking through a forest of evergreens, this fragrance is filled with cooling notes of fresh green pine, Siberian pine needle, fir balsam, and clove.</p>",
+  "published_at": "2023-10-18T15:04:19-06:00",
+  "created_at": "2023-10-18T13:54:13-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Aromatique",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Aromatique",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40769174012013,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SFTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7110933807213,
+      "created_at": "2023-10-18T13:54:13-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30576170565741,
+      "created_at": "2023-10-18T13:54:26-06:00",
+      "position": 1,
+      "updated_at": "2023-10-18T13:54:26-06:00",
+      "product_id": 7110933807213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-Smell-of-Tree-resized_-3_6f4ad7a3-3f3f-4373-b440-b47c52f910e1.jpg?v=1697658866",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30576170598509,
+      "created_at": "2023-10-18T13:54:26-06:00",
+      "position": 2,
+      "updated_at": "2023-10-18T13:54:26-06:00",
+      "product_id": 7110933807213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineingredients_54b20db2-98ea-4672-b3ee-9c9f41082044.jpg?v=1697658866",
+      "width": 3000,
+      "height": 4500
+    },
+    {
+      "id": 30576301113453,
+      "created_at": "2023-10-18T16:00:33-06:00",
+      "position": 3,
+      "updated_at": "2023-10-18T16:00:35-06:00",
+      "product_id": 7110933807213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheSmellOfTree-Aromatique-Prod3-2023-09_cf1033f7-a8ff-42da-8e7b-889c6c57ee2e.png?v=1697666435",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30576170631277,
+      "created_at": "2023-10-18T13:54:26-06:00",
+      "position": 4,
+      "updated_at": "2023-10-18T16:00:35-06:00",
+      "product_id": 7110933807213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-Smell-of-Tree-resized_-2_653fbe04-b5c5-4cbd-9530-d0fa16ab4fb5.jpg?v=1697666435",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-Smell-of-Tree-resized_-3_6f4ad7a3-3f3f-4373-b440-b47c52f910e1.jpg?v=1697658866",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Aromatique",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

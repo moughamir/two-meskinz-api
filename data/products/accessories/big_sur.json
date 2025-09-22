@@ -1,0 +1,119 @@
+{
+  "id": 7051465785453,
+  "title": "Big Sur",
+  "handle": "big-sur",
+  "body_html": "<p>Get transported to the California coastline with smooth, woody notes of California <strong>cedar</strong>, <strong>amber</strong>, and <strong>musk</strong>.</p>",
+  "published_at": "2023-08-14T19:49:26-06:00",
+  "created_at": "2023-08-09T12:04:52-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Archipelago",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Archipelago",
+    "Group_Home",
+    "JCRH",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_bigsur"
+  ],
+  "variants": [
+    {
+      "id": 40702035525741,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JCRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051465785453,
+      "created_at": "2023-08-09T12:04:52-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329454461037,
+      "created_at": "2023-08-09T15:34:09-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T15:34:34-06:00",
+      "product_id": 7051465785453,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/archipelagobigsurresized_-3.jpg?v=1691616874",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30329474613357,
+      "created_at": "2023-08-09T15:36:30-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T15:36:33-06:00",
+      "product_id": 7051465785453,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/amber-resized.jpg?v=1691616993",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329454493805,
+      "created_at": "2023-08-09T15:34:09-06:00",
+      "position": 3,
+      "updated_at": "2023-08-09T15:36:33-06:00",
+      "product_id": 7051465785453,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/archipelagobigsurresized.jpg?v=1691616993",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30329454592109,
+      "created_at": "2023-08-09T15:34:09-06:00",
+      "position": 4,
+      "updated_at": "2023-08-09T15:36:33-06:00",
+      "product_id": 7051465785453,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/archipelagobigsurresized_-2.jpg?v=1691616993",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/archipelagobigsurresized_-3.jpg?v=1691616874",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Archipelago",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

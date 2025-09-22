@@ -1,0 +1,67 @@
+{
+  "id": 7785831399591,
+  "title": "Brand: 3M / Part #: 7100081544",
+  "handle": "fk106719395",
+  "body_html": "<br><strong>Item #: </strong>11566726<br><strong>Brand: </strong>3M<br><strong>Model #: </strong>7100081544<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Duster Material</strong>\n</td>\n<td>Cloth</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Duster Length</strong></td>\n<td>6 in</td>\n</tr>\n<tr>\n<td><strong>Maxiumum Length</strong></td>\n<td>1500 in</td>\n</tr>\n<tr>\n<td><strong>Minimum Length</strong></td>\n<td>6 in</td>\n</tr>\n<tr>\n<td><strong>Duster Width</strong></td>\n<td>5 in</td>\n</tr>\n<tr>\n<td><strong>Replacements Available</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Telescoping</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:54:06-06:00",
+  "created_at": "2023-12-29T03:54:06-06:00",
+  "updated_at": "2025-09-22T10:54:33-05:00",
+  "vendor": "3M",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Brooms; Mops; Squeegees & Buckets"
+  ],
+  "variants": [
+    {
+      "id": 43705610829991,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "11566726",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "72.20",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785831399591,
+      "created_at": "2023-12-29T03:54:06-06:00",
+      "updated_at": "2025-09-22T10:54:33-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237378740391,
+      "created_at": "2025-02-03T18:13:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:13:59-06:00",
+      "product_id": 7785831399591,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1156672-21.jpg?v=1738628039",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 72.2,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1156672-21.jpg?v=1738628039",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "3M",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

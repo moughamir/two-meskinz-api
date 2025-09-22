@@ -1,0 +1,67 @@
+{
+  "id": 7786103079079,
+  "title": "Brand: Tingley / Part #: J22107-L",
+  "handle": "eh565504571",
+  "body_html": "<br><strong>Item #: </strong>66545567<br><strong>Brand: </strong>Tingley<br><strong>Model #: </strong>J22107-L<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Style</strong>\n</td>\n<td>Jacket</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Large</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Gold; Yellow</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Nylon</td>\n</tr>\n<tr>\n<td><strong>Sleeve Length</strong></td>\n<td>34.50 in</td>\n</tr>\n<tr>\n<td><strong>Garment Type</strong></td>\n<td>Chemical</td>\n</tr>\n<tr>\n<td><strong>Hood Type</strong></td>\n<td>Packable</td>\n</tr>\n<tr>\n<td><strong>Material Weight</strong></td>\n<td>5.5 oz</td>\n</tr>\n<tr>\n<td><strong>Chest Size (Inch)</strong></td>\n<td>44 to 46</td>\n</tr>\n<tr>\n<td><strong>Seam Style</strong></td>\n<td>Heat Sealed</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Attached Hood; Heavy-Duty; Mildew-Resistant; Waterproof Protection; Abrasion-Resistant; Snag-Resistant</td>\n</tr>\n<tr>\n<td><strong>Material Weight (oz.)</strong></td>\n<td>5.50</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Zipper &amp; Snaps</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>4240</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:59:04-06:00",
+  "created_at": "2023-12-29T09:59:04-06:00",
+  "updated_at": "2025-09-22T10:47:23-05:00",
+  "vendor": "Tingley",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43706944815271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "66545567",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.60",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786103079079,
+      "created_at": "2023-12-29T09:59:04-06:00",
+      "updated_at": "2025-09-22T10:47:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237835264167,
+      "created_at": "2025-02-03T18:26:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:46-06:00",
+      "product_id": 7786103079079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6654554-11_4ad7d73d-91c4-4723-8e49-8bfb23f55064.jpg?v=1738628806",
+      "width": 88,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.6,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6654554-11_4ad7d73d-91c4-4723-8e49-8bfb23f55064.jpg?v=1738628806",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tingley",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

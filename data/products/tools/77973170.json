@@ -1,0 +1,68 @@
+{
+  "id": 5270182723751,
+  "title": "Indexable Insert Drill: DFPR520R2WB50M, 53.00 mm Max Dia, 104.00 mm Max Depth, 2xD, 50.00 mm Shank Dia",
+  "handle": "77973170",
+  "body_html": "<br><strong>Item #: </strong>02604098<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>7030585<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Compatible Drill Style</strong>\n</td>\n<td>DFPR</td>\n</tr>\n<tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>53.00</td>\n</tr>\n<tr> <td> <strong>Maximum Drill Depth (mm)</strong>\n</td>\n<td>104.00</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Flange; Weldon Flat</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (mm)</strong>\n</td>\n<td>50.00</td>\n</tr>\n<tr> <td> <strong>Number of Drill Inserts</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Maximum Drill Depth Range (mm)</strong>\n</td>\n<td>100.00 to 150.00</td>\n</tr>\n<tr> <td> <strong>Tool Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Style</strong>\n</td>\n<td>DFPR</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Size Code</strong>\n</td>\n<td>170508; 150508</td>\n</tr>\n<tr> <td> <strong>Drill Depth by Diameter Ratio</strong>\n</td>\n<td>2xD</td>\n</tr>\n<tr> <td> <strong>Coolant Entry Style Code</strong>\n</td>\n<td>1-Axial Concentric Entry</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>DFPR</td>\n</tr>\n<tr> <td> <strong>Flute Length (mm)</strong>\n</td>\n<td>104.00</td>\n</tr>\n<tr> <td> <strong>Body Length</strong>\n</td>\n<td>133.00</td>\n</tr>\n<tr> <td> <strong>Shank Length (mm)</strong>\n</td>\n<td>80.00</td>\n</tr>\n<tr> <td> <strong>Coolant Hole Thread Size</strong>\n</td>\n<td>\"1/4-18 NPT\"</td>\n</tr>\n<tr> <td> <strong>Tool Application</strong>\n</td>\n<td>Drilling</td>\n</tr>\n<tr> <td> <strong>Tool Performance</strong>\n</td>\n<td>General Purpose</td>\n</tr>\n<tr> <td> <strong>Insert Size (mm)</strong>\n</td>\n<td>17.30x5.20; 15.85x5.20</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23291503</td>\n</tr>\n<tr> <td> <strong>Insert Compatibility</strong>\n</td>\n<td>DFPR170508__I; DFPR150508__O</td>\n</tr>\n<tr> <td> <strong>Shank End Coolant Hole Thread Size (Inch)</strong>\n</td>\n<td>1/4-18</td>\n</tr>\n<tr> <td> <strong>Insert Lock Screw</strong>\n</td>\n<td>M5-0.8x13T20</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:35:04-06:00",
+  "created_at": "2020-06-01T23:14:35-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Holemaking",
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 34546151719079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02604098",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "652.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5270182723751,
+      "created_at": "2020-06-01T23:14:36-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241335541927,
+      "created_at": "2025-02-03T20:54:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:54:25-06:00",
+      "product_id": 5270182723751,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0259908-21_abf7b210-9463-4c22-a5b6-0b66a117b007.jpg?v=1738637665",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 652.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0259908-21_abf7b210-9463-4c22-a5b6-0b66a117b007.jpg?v=1738637665",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

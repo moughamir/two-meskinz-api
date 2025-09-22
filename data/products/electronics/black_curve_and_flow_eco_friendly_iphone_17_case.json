@@ -1,0 +1,129 @@
+{
+  "id": 8444722479192,
+  "title": "Black Curve and Flow iPhone 17 Case",
+  "handle": "black-curve-and-flow-eco-friendly-iphone-17-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:45:42-04:00",
+  "created_at": "2025-08-08T12:06:59-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184089825368,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17460-IP17-BLACK-AOD:CURVE-AND-FLOW_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444722479192,
+      "created_at": "2025-09-03T18:23:14-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184089858136,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17460-IP17-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444722479192,
+      "created_at": "2025-09-03T18:23:14-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567384526936,
+      "created_at": "2025-08-08T12:06:59-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:01-04:00",
+      "product_id": 8444722479192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP17_Black.jpg?v=1754669221",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581707714648,
+      "created_at": "2025-08-11T14:57:35-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:57:35-04:00",
+      "product_id": 8444722479192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_b89701d1-f5d0-4502-8a2d-41c53dd467d9.jpg?v=1754938655",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581708009560,
+      "created_at": "2025-08-11T14:57:37-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:57:37-04:00",
+      "product_id": 8444722479192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_1bb5964e-ddf8-40b2-b313-76ae96365ce8.jpg?v=1754938657",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581708271704,
+      "created_at": "2025-08-11T14:57:38-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:57:38-04:00",
+      "product_id": 8444722479192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_dfc2f001-a9df-4118-946e-a1bd86b3c43a.jpg?v=1754938658",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_IP17_Black.jpg?v=1754669221",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

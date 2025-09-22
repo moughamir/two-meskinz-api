@@ -1,0 +1,118 @@
+{
+  "id": 7051708465261,
+  "title": "Maui Mango",
+  "handle": "maui-mango",
+  "body_html": "<p>Notes of sweet island <strong>mango</strong> and juicy <strong>tangerine</strong> swirl with <strong>blood orange</strong> and Hawaiian <strong>pineapple</strong> to take you on a fruity, exotic escape.</p>",
+  "published_at": "2023-08-14T19:50:57-06:00",
+  "created_at": "2023-08-09T16:19:47-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Tommy Bahama",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Tommy Bahama",
+    "collection:Best Sellers",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_mauimango"
+  ],
+  "variants": [
+    {
+      "id": 40702260740205,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MGAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051708465261,
+      "created_at": "2023-08-09T16:19:47-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31117960380525,
+      "created_at": "2024-01-30T12:44:00-07:00",
+      "position": 1,
+      "updated_at": "2024-01-30T12:44:05-07:00",
+      "product_id": 7051708465261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/tommybahamamauimango-resized-2711.jpg?v=1706643845",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30335220351085,
+      "created_at": "2023-08-10T07:09:56-06:00",
+      "position": 2,
+      "updated_at": "2024-01-30T12:44:05-07:00",
+      "product_id": 7051708465261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mango-4-resized.jpg?v=1706643845",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30349590069357,
+      "created_at": "2023-08-14T11:47:41-06:00",
+      "position": 3,
+      "updated_at": "2024-01-30T12:44:05-07:00",
+      "product_id": 7051708465261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Tommy-Bahama-Maui-Mango-Device-V4.jpg?v=1706643845",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31117960249453,
+      "created_at": "2024-01-30T12:44:00-07:00",
+      "position": 4,
+      "updated_at": "2024-01-30T12:44:05-07:00",
+      "product_id": 7051708465261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/tommybahamamauimango-resized-2688.jpg?v=1706643845",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/tommybahamamauimango-resized-2711.jpg?v=1706643845",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tommy Bahama",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

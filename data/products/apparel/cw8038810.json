@@ -1,0 +1,67 @@
+{
+  "id": 7785841066151,
+  "title": "Brand: NIBCO / Part #: 9172950PC",
+  "handle": "cw8038810",
+  "body_html": "<br><strong>Item #: </strong>75923003<br><strong>Brand: </strong>NIBCO<br><strong>Model #: </strong>9172950PC<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>End Cap</td>\n</tr>\n<tr>\n<td><strong>Fitting Size</strong></td>\n<td>2-1/2 in</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Press Fitting</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Wrot Copper</td>\n</tr>\n<tr>\n<td><strong>End Connection</strong></td>\n<td>P</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:16:27-06:00",
+  "created_at": "2023-12-29T04:16:27-06:00",
+  "updated_at": "2025-09-22T10:47:48-05:00",
+  "vendor": "NIBCO",
+  "product_type": "Hose; Tube; Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 43705626951847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "75923003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "70.91",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785841066151,
+      "created_at": "2023-12-29T04:16:27-06:00",
+      "updated_at": "2025-09-22T10:47:48-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237402497191,
+      "created_at": "2025-02-03T18:14:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:14:49-06:00",
+      "product_id": 7785841066151,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7592294-11_d7dc4541-7590-4d3f-ae76-7b952b4339ef.jpg?v=1738628089",
+      "width": 600,
+      "height": 595
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 70.91,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7592294-11_d7dc4541-7590-4d3f-ae76-7b952b4339ef.jpg?v=1738628089",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NIBCO",
+  "category": "Hose; Tube; Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

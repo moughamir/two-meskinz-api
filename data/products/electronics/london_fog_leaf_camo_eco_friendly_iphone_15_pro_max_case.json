@@ -1,0 +1,109 @@
+{
+  "id": 8299237343320,
+  "title": "London Fog Leaf Camo iPhone 15 Pro Max Case",
+  "handle": "london-fog-leaf-camo-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Disappear into the beauty of the wild with <em data-start=\"82\" data-end=\"93\">Leaf Camo Phone Case</em>! Featuring a lush, layered pattern of greenery, this case is perfect for those who feel most alive when they’re hiking through the trees, exploring forest trails, or simply bringing a touch of nature everywhere they go. Whether you're blending in or standing out, this design keeps your love for the outdoors right at your fingertips.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-20T09:13:26-04:00",
+  "created_at": "2025-02-26T09:57:28-05:00",
+  "updated_at": "2025-09-22T15:14:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Leaf Camo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697313321048,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17125-IP15PMAX-LFOG-AOD:LEAF-CAMO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299237343320,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "updated_at": "2025-09-22T15:14:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599088586840,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T09:57:30-05:00",
+      "product_id": 8299237343320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP15PMAX_LondonFog.jpg?v=1740581850",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705960960088,
+      "created_at": "2025-03-17T14:32:16-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T14:32:17-04:00",
+      "product_id": 8299237343320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP1_448f14d5-be11-447f-b0ba-a8531603afc9.jpg?v=1742236337",
+      "width": 3673,
+      "height": 3673
+    },
+    {
+      "id": 34705961123928,
+      "created_at": "2025-03-17T14:32:16-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T14:32:19-04:00",
+      "product_id": 8299237343320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP2_0fe8fa1c-8c40-4e59-9341-a84268a550da.jpg?v=1742236339",
+      "width": 3780,
+      "height": 3780
+    },
+    {
+      "id": 34705961025624,
+      "created_at": "2025-03-17T14:32:16-04:00",
+      "position": 4,
+      "updated_at": "2025-03-17T14:32:18-04:00",
+      "product_id": 8299237343320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP3_4cb24dfb-ae00-4e78-be9a-d0950f243688.jpg?v=1742236338",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP15PMAX_LondonFog.jpg?v=1740581850",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

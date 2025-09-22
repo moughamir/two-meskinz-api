@@ -1,0 +1,98 @@
+{
+  "id": 8299254415448,
+  "title": "Chocolate Brown Cafe Check iPhone 15 Pro Max Case",
+  "handle": "chocolate-brown-cafe-check-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">A little bit retro, a little bit mind-bending—<em data-start=\"3168\" data-end=\"3180\">Cafe Check</em> gives the classic checkered pattern a wavy, distorted twist, like the foam art on your cappuccino. Perfect for coffee lovers, vintage fans, and anyone who loves a bold yet timeless design. <meta charset=\"utf-8\">☕♟️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:10:32-04:00",
+  "created_at": "2025-02-26T10:04:16-05:00",
+  "updated_at": "2025-09-22T15:14:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Cafe Check",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697344548952,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17134-IP15PMAX-CHOBROWN-AOD:CAFE-CHECK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299254415448,
+      "created_at": "2025-02-26T10:04:16-05:00",
+      "updated_at": "2025-09-22T15:14:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599147208792,
+      "created_at": "2025-02-26T10:04:16-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:18-05:00",
+      "product_id": 8299254415448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAFE-CHECK_IP15PMAX_ChocolateBrown.jpg?v=1740582258",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672331587672,
+      "created_at": "2025-03-11T16:42:18-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:42:19-04:00",
+      "product_id": 8299254415448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CafeCheck_PDP2_57ff7427-c73f-4cdf-84f9-5fdbb3ad1bdf.jpg?v=1741725739",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672331522136,
+      "created_at": "2025-03-11T16:42:18-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:42:19-04:00",
+      "product_id": 8299254415448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CafeCheck_PDP1_6cd8bfad-b1b4-4109-84fd-d7607dae1223.jpg?v=1741725739",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAFE-CHECK_IP15PMAX_ChocolateBrown.jpg?v=1740582258",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

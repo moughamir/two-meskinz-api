@@ -1,0 +1,167 @@
+{
+  "id": 7967872581679,
+  "title": "Tires Valley Forge Automotive White Mug",
+  "handle": "tires-valley-forge-automotive-white-mug",
+  "body_html": "<p>Start your day with a laugh (and your favorite beverage) with this <em>Tires</em> Valley Forge Automotive mug! Featuring the recognizable logo from the Netflix comedy <em>Tires</em>, this mug is a perfect way for fans to bring a bit of Will and Shane's workplace chaos into their daily routine. Whether you're sipping coffee, tea, or something a little stronger after a long day, this mug is a fun reminder of the show's offbeat charm. </p><ul>\n<li>This sturdy mug is perfect for your morning coffee, afternoon tea, or whatever hot beverage you enjoy.</li>\n<li>Dimensions: height - 3.85\" (9.8 cm), diameter - 3.35\" (8.5 cm). </li>\n<li>Ceramic. </li>\n<li>Care: Dishwasher and microwave safe.</li>\n</ul>",
+  "published_at": "2025-05-09T13:57:25-04:00",
+  "created_at": "2025-05-02T14:58:26-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "81758875",
+    "Drinkware",
+    "Mug",
+    "Mugs",
+    "New",
+    "series_id-81758875",
+    "Shop All",
+    "Tires",
+    "TRS-L-0525",
+    "unisex",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43800706613295,
+      "title": "White / 11 oz",
+      "option1": "White",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "TRS-100654-0001-TIR-VFA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36006965903407,
+        "product_id": 7967872581679,
+        "position": 1,
+        "created_at": "2025-05-02T14:58:38-04:00",
+        "updated_at": "2025-05-02T14:58:40-04:00",
+        "alt": "Tires Valley Forge Automotive White Mug",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_L_11_MF.jpg?v=1746212320",
+        "variant_ids": [
+          43800706613295
+        ]
+      },
+      "available": true,
+      "price": "15.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7967872581679,
+      "created_at": "2025-05-02T14:58:26-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    },
+    {
+      "id": 43800706646063,
+      "title": "White / 15 oz",
+      "option1": "White",
+      "option2": "15 oz",
+      "option3": null,
+      "sku": "TRS-100654-0002-TIR-VFA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36006965968943,
+        "product_id": 7967872581679,
+        "position": 3,
+        "created_at": "2025-05-02T14:58:38-04:00",
+        "updated_at": "2025-05-02T14:58:40-04:00",
+        "alt": "Tires Valley Forge Automotive White Mug",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_L_15_MF.jpg?v=1746212320",
+        "variant_ids": [
+          43800706646063
+        ]
+      },
+      "available": true,
+      "price": "18.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7967872581679,
+      "created_at": "2025-05-02T14:58:26-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36006965903407,
+      "created_at": "2025-05-02T14:58:38-04:00",
+      "position": 1,
+      "updated_at": "2025-05-02T14:58:40-04:00",
+      "product_id": 7967872581679,
+      "variant_ids": [
+        43800706613295
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_L_11_MF.jpg?v=1746212320",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36006966001711,
+      "created_at": "2025-05-02T14:58:38-04:00",
+      "position": 2,
+      "updated_at": "2025-05-02T14:58:40-04:00",
+      "product_id": 7967872581679,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_R_11_MF.jpg?v=1746212320",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36006965968943,
+      "created_at": "2025-05-02T14:58:38-04:00",
+      "position": 3,
+      "updated_at": "2025-05-02T14:58:40-04:00",
+      "product_id": 7967872581679,
+      "variant_ids": [
+        43800706646063
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_L_15_MF.jpg?v=1746212320",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36006966034479,
+      "created_at": "2025-05-02T14:58:38-04:00",
+      "position": 4,
+      "updated_at": "2025-05-02T14:58:40-04:00",
+      "product_id": 7967872581679,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_R_15_MF.jpg?v=1746212320",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz",
+        "15 oz"
+      ]
+    }
+  ],
+  "price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/TIR-VFA_TRS-L-0525_100654_L_11_MF.jpg?v=1746212320",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 7420561260632,
+  "title": "Seashell iPhone 12/iPhone 12 Pro Case",
+  "handle": "seashell-iphone-12-iphone-12-pro-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T10:49:47-04:00",
+  "created_at": "2023-09-14T11:11:30-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40265569239128,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16461-IP12-SEASHELL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7420561260632,
+      "created_at": "2023-09-14T11:11:30-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31781463228504,
+      "created_at": "2023-09-28T11:45:57-04:00",
+      "position": 1,
+      "updated_at": "2023-09-28T11:45:59-04:00",
+      "product_id": 7420561260632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_SEASHELL_BACK.jpg?v=1695915959",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781463261272,
+      "created_at": "2023-09-28T11:45:57-04:00",
+      "position": 2,
+      "updated_at": "2023-09-28T11:45:59-04:00",
+      "product_id": 7420561260632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_SEASHELL_BACK45L.jpg?v=1695915959",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781463294040,
+      "created_at": "2023-09-28T11:45:57-04:00",
+      "position": 3,
+      "updated_at": "2023-09-28T11:45:59-04:00",
+      "product_id": 7420561260632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_SEASHELL_BACK45R.jpg?v=1695915959",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_12_SEASHELL_BACK.jpg?v=1695915959",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

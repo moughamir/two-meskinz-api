@@ -1,0 +1,138 @@
+{
+  "id": 7873588658223,
+  "title": "The Walking Dead: The Ones Who Live Heart Mug",
+  "handle": "the-walking-dead-the-ones-who-live-heart-mug",
+  "body_html": "<p>Sip your morning brew with a dose of post-apocalyptic resilience with this vintage-inspired <em>The Walking Dead: The Ones Who Live</em> Heart Mug. Adorned with a vingtage-inspired heart design, this mug pays homage to the enduring spirit of survivors! Start your day with a tribute to the characters who defy the undead, celebrating the indomitable will that defines <em>The Ones Who Live</em>.</p><ul>\n<li>This sturdy mug is perfect for your morning coffee, afternoon tea, or whatever hot beverage you enjoy.</li>\n<li>Dimensions: height - 3.85\" (9.8 cm), diameter - 3.35\" (8.5 cm). </li>\n<li>Ceramic. </li>\n<li>Care: Dishwasher and microwave safe.</li>\n</ul>",
+  "published_at": "2025-01-16T15:28:15-05:00",
+  "created_at": "2024-11-20T13:56:04-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "AMC",
+    "Drinking Glasses",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "Mug",
+    "Mugs",
+    "Promo Eligible Collection",
+    "The Walking Dead",
+    "The Walking Dead: The Ones Who Live",
+    "unisex",
+    "White Mug"
+  ],
+  "variants": [
+    {
+      "id": 43415873486895,
+      "title": "White / 11 oz",
+      "option1": "White",
+      "option2": "11 oz",
+      "option3": null,
+      "sku": "TOWL-100654-0001-TWD-TOWL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7873588658223,
+      "created_at": "2024-11-20T13:56:04-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    },
+    {
+      "id": 43415873519663,
+      "title": "White / 15 oz",
+      "option1": "White",
+      "option2": "15 oz",
+      "option3": null,
+      "sku": "TOWL-100654-0002-TWD-TOWL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7873588658223,
+      "created_at": "2024-11-20T13:56:04-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35351387602991,
+      "created_at": "2025-01-16T20:16:05-05:00",
+      "position": 1,
+      "updated_at": "2025-01-16T20:16:07-05:00",
+      "product_id": 7873588658223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_25.png?v=1737076567",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351387537455,
+      "created_at": "2025-01-16T20:16:05-05:00",
+      "position": 2,
+      "updated_at": "2025-01-16T20:16:06-05:00",
+      "product_id": 7873588658223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_26.png?v=1737076566",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351387504687,
+      "created_at": "2025-01-16T20:16:04-05:00",
+      "position": 3,
+      "updated_at": "2025-01-16T20:16:06-05:00",
+      "product_id": 7873588658223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_27.png?v=1737076566",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35351387570223,
+      "created_at": "2025-01-16T20:16:05-05:00",
+      "position": 4,
+      "updated_at": "2025-01-16T20:16:06-05:00",
+      "product_id": 7873588658223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_28.png?v=1737076566",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "11 oz",
+        "15 oz"
+      ]
+    }
+  ],
+  "price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/iwtv-Photoroom_25.png?v=1737076567",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

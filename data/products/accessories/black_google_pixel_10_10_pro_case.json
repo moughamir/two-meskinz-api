@@ -1,0 +1,92 @@
+{
+  "id": 8396682657880,
+  "title": "Black Google Pixel 10/10 Pro Case",
+  "handle": "black-google-pixel-10-10-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-08-20T09:58:34-04:00",
+  "created_at": "2025-06-09T15:21:49-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42936901402712,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "15775-PX10-BLACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8396682657880,
+      "created_at": "2025-06-09T15:21:49-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35462755614808,
+      "created_at": "2025-07-23T13:45:19-04:00",
+      "position": 1,
+      "updated_at": "2025-07-23T13:45:25-04:00",
+      "product_id": 8396682657880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10_BLACK_BACK.jpg?v=1753292725",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462755549272,
+      "created_at": "2025-07-23T13:45:19-04:00",
+      "position": 2,
+      "updated_at": "2025-07-23T13:45:25-04:00",
+      "product_id": 8396682657880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10_BLACK_BACK_45L.jpg?v=1753292725",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462755582040,
+      "created_at": "2025-07-23T13:45:19-04:00",
+      "position": 3,
+      "updated_at": "2025-07-23T13:45:25-04:00",
+      "product_id": 8396682657880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10_BLACK_BACK_45R.jpg?v=1753292725",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10_BLACK_BACK.jpg?v=1753292725",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

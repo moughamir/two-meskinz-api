@@ -1,0 +1,108 @@
+{
+  "id": 8311944839256,
+  "title": "Seashell Tomato Tango Google Pixel 9a Case",
+  "handle": "seashell-tomato-tango-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Vine &amp; Dandy! 🍅💃 <meta charset=\"utf-8\">Brighten up your phone with juicy tomatoes dancing across this playful case! The Tomato Tango Phone Case is ripe for the picking, featuring a fun, fresh-from-the-vine design that’ll make you smile every time you reach for your phone. Made from Pela’s earth-friendly, compostable materials, it's style that's deliciously sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T08:44:53-04:00",
+  "created_at": "2025-03-12T19:09:50-04:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tomato Tango",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42732322062424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:TOMATO-TANGO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8311944839256,
+      "created_at": "2025-03-12T19:09:50-04:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34679137239128,
+      "created_at": "2025-03-12T19:09:50-04:00",
+      "position": 1,
+      "updated_at": "2025-03-12T19:09:52-04:00",
+      "product_id": 8311944839256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_PX9A_Seashell.jpg?v=1741820992",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683491614808,
+      "created_at": "2025-03-13T09:50:49-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T09:50:50-04:00",
+      "product_id": 8311944839256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_07_1fe088cc-6d2d-4fdb-b9bb-75972ecfb001.jpg?v=1741873850",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34683491713112,
+      "created_at": "2025-03-13T09:50:55-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T09:50:57-04:00",
+      "product_id": 8311944839256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_09_9e22b11d-818b-49bd-8d2f-1d44774d78b9.jpg?v=1741873857",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34683492073560,
+      "created_at": "2025-03-13T09:51:04-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T09:51:05-04:00",
+      "product_id": 8311944839256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_IPGrid_PDP_1x1_05_ccce6152-9b30-40ac-a6cd-d35b67e6d686.jpg?v=1741873865",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_PX9A_Seashell.jpg?v=1741820992",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

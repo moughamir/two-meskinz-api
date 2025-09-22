@@ -1,0 +1,67 @@
+{
+  "id": 7785872720039,
+  "title": "Brand: Widia / Part #: 3849070",
+  "handle": "cw8024130",
+  "body_html": "<br><strong>Item #: </strong>02520336<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>3849070<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>11.90</td>\n</tr>\n<tr>\n<td><strong>Point Angle</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Diameter (mm)</strong></td>\n<td>11.9000</td>\n</tr>\n<tr>\n<td><strong>Tip Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>WU25PD</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Submicron</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Top Drill M1</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Insert Geometry</strong></td>\n<td>UPM</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>W17</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; K</td>\n</tr>\n<tr>\n<td><strong>Height (mm)</strong></td>\n<td>12.5900</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (mm)</strong></td>\n<td>11.90</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Spring Clamp</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>TDM1190UPM</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Minimum Cutting Diameter (mm)</strong></td>\n<td>11.90</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Applications</strong></td>\n<td>Drilling</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiAlN</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:12:09-06:00",
+  "created_at": "2023-12-29T05:12:09-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43705704710311,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02520336",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "67.91",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785872720039,
+      "created_at": "2023-12-29T05:12:09-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237483073703,
+      "created_at": "2025-02-03T18:16:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:58-06:00",
+      "product_id": 7785872720039,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0264149-21_44eb4c8c-1ac7-4a94-86b2-01a3a4c2274e.jpg?v=1738628218",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 67.91,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0264149-21_44eb4c8c-1ac7-4a94-86b2-01a3a4c2274e.jpg?v=1738628218",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

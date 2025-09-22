@@ -1,0 +1,68 @@
+{
+  "id": 5325339656359,
+  "title": "5 mm × 5 mm × 40 mm, 60 Degrees, HSSCo Center Drill",
+  "handle": "jr50202m",
+  "body_html": "<br><strong>Item #: </strong>FB5081100520000<br><strong>Brand: </strong>Magafor<br><strong>Model #: </strong>81100520000<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Drill Bit Size / Cutting Diameter (DC)</strong></td>\n<td>2 mm </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>5 mm </td>\n</tr>\n<tr>\n<td><strong>Point Angle (SIG)</strong></td>\n<td>60 Degrees </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSSCo </td>\n</tr>\n<tr>\n<td><strong>Protruding Length (LPR)</strong></td>\n<td>3.1 mm </td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>5 mm </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>40 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Center Drill </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:09:52-06:00",
+  "created_at": "2020-06-13T06:24:44-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Magafor",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34704302571687,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FB5081100520000",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.83",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5325339656359,
+      "created_at": "2020-06-13T06:24:44-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38139756249255,
+      "created_at": "2025-01-23T20:09:59-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:10:01-06:00",
+      "product_id": 5325339656359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_metric_center_drills_angle_60_hsse_cobalt_m35_1c94_aebc5925-67a6-4916-ad2c-1cead355624d.png?v=1737684601",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.83,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_metric_center_drills_angle_60_hsse_cobalt_m35_1c94_aebc5925-67a6-4916-ad2c-1cead355624d.png?v=1737684601",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Magafor",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

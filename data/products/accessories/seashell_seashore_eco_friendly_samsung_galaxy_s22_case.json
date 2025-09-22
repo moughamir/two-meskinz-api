@@ -1,0 +1,119 @@
+{
+  "id": 7360232423512,
+  "title": "Seashell Seashore Samsung Galaxy S22 Case",
+  "handle": "seashell-seashore-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the serenity of the beach with the Seashore Phone Case! Adorned with an intricate pattern of seashells in soothing tones, this case captures the essence of a peaceful seaside stroll. Perfect for ocean lovers and beachcombers, it’s like having a bit of the shore right in your hand. Feel the sand between your toes and hear the waves with every call you take. Bring the coastal charm to your phone and let your device reflect your love for the sea! <meta charset=\"utf-8\">🐚 🌊📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T08:04:00-04:00",
+  "created_at": "2023-04-18T15:53:18-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Beach Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Seashore",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40225266270296,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13594-S22-SEASHELL-AOD:SEASHORE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7360232423512,
+      "created_at": "2023-04-18T15:53:18-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30246350815320,
+      "created_at": "2023-04-18T15:53:18-04:00",
+      "position": 1,
+      "updated_at": "2023-04-18T15:53:18-04:00",
+      "product_id": 7360232423512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_S22_Seashell.jpg?v=1681847598",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246357565528,
+      "created_at": "2023-04-18T16:22:02-04:00",
+      "position": 2,
+      "updated_at": "2023-04-18T16:22:03-04:00",
+      "product_id": 7360232423512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Seashore_ff7aca88-0b50-459c-9f20-c3ac08952d76.jpg?v=1681849323",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "id": 30246357598296,
+      "created_at": "2023-04-18T16:22:07-04:00",
+      "position": 3,
+      "updated_at": "2023-04-18T16:22:09-04:00",
+      "product_id": 7360232423512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays4_cb712ce8-9b1c-4161-9c5c-7db56b29e4c6.png?v=1681849329",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246357663832,
+      "created_at": "2023-04-18T16:22:07-04:00",
+      "position": 4,
+      "updated_at": "2023-04-18T16:22:09-04:00",
+      "product_id": 7360232423512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays2wide_133109c3-a285-42de-951a-e1f901ce7fcf.png?v=1681849329",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246357631064,
+      "created_at": "2023-04-18T16:22:07-04:00",
+      "position": 5,
+      "updated_at": "2023-04-18T16:22:09-04:00",
+      "product_id": 7360232423512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays1wide_55967a95-a830-4a12-9e7c-20cd6db02b9a.png?v=1681849329",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_S22_Seashell.jpg?v=1681847598",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

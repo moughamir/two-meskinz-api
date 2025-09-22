@@ -1,0 +1,125 @@
+{
+  "id": 8278277029976,
+  "title": "Chocolate Brown Samsung S24 Phone Case",
+  "handle": "chocolate-brown-samsung-s24-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:16:41-05:00",
+  "created_at": "2025-02-04T10:23:10-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642247221336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13791-S24-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278277029976,
+      "created_at": "2025-02-04T10:23:10-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569308176472,
+      "created_at": "2025-02-20T10:51:26-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:51:28-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_CHOCOLATE_BROWN_BACK.jpg?v=1740066688",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569308143704,
+      "created_at": "2025-02-20T10:51:26-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:51:28-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066688",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569308340312,
+      "created_at": "2025-02-20T10:51:26-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:51:28-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066688",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569420308568,
+      "created_at": "2025-02-20T11:06:51-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:06:52-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_3d89305b-7bbc-409d-9489-214fd028e90b.jpg?v=1740067612",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569420341336,
+      "created_at": "2025-02-20T11:06:51-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:06:53-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_0b9215a6-2411-4e44-8c38-e83ec5dd99e1.jpg?v=1740067613",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569420243032,
+      "created_at": "2025-02-20T11:06:51-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:06:52-05:00",
+      "product_id": 8278277029976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_f56d960e-f2d9-4b06-bb07-9786ea7b00e5.jpg?v=1740067612",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_CHOCOLATE_BROWN_BACK.jpg?v=1740066688",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

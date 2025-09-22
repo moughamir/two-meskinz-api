@@ -1,0 +1,119 @@
+{
+  "id": 8311943364696,
+  "title": "Bubblegum Pink XOXO Google Pixel 9a Case",
+  "handle": "bubblegum-pink-xoxo-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Pucker up for style with the XOXO Phone Case from our <em>Amour Collection</em>! Covered in bold red and pink lips, this case is the ultimate love note for your phone. Playful, flirty, and irresistibly cute, it’s perfect for spreading kisses and good vibes everywhere you go. <meta charset=\"utf-8\">💋❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T08:42:29-04:00",
+  "created_at": "2025-03-12T19:09:44-04:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:XOXO",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42732320718936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15746-PX9a-BUBPINK-AOD:XOXO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8311943364696,
+      "created_at": "2025-03-12T19:09:44-04:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34679134584920,
+      "created_at": "2025-03-12T19:09:44-04:00",
+      "position": 1,
+      "updated_at": "2025-03-12T19:09:47-04:00",
+      "product_id": 8311943364696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PX9A_BubblegumPink.jpg?v=1741820987",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683524350040,
+      "created_at": "2025-03-13T10:02:59-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:03:01-04:00",
+      "product_id": 8311943364696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP2_7cda7702-5ac8-40f8-8410-0d9fb6b765f3.jpg?v=1741874581",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683524251736,
+      "created_at": "2025-03-13T10:02:59-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:03:01-04:00",
+      "product_id": 8311943364696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP4_3c6c8c06-bf9e-4663-8e9b-099f86f40011.jpg?v=1741874581",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683524284504,
+      "created_at": "2025-03-13T10:02:59-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:03:01-04:00",
+      "product_id": 8311943364696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP1_a20b96f0-d7d4-4c64-a284-da30e9224fed.jpg?v=1741874581",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683524317272,
+      "created_at": "2025-03-13T10:02:59-04:00",
+      "position": 5,
+      "updated_at": "2025-03-13T10:03:01-04:00",
+      "product_id": 8311943364696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP3_4291409a-c984-4819-b57a-03d60de2ff52.jpg?v=1741874581",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PX9A_BubblegumPink.jpg?v=1741820987",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 7774222090287,
+  "title": "Cobra Kai Logo Backpack",
+  "handle": "cobra-kai-logo-backpack",
+  "body_html": "<p>Gear up in <em>Cobra Kai </em>style with our Logo Backpack! Featuring the iconic <em>Cobra Kai </em>logo, this backpack combines practicality with martial arts flair. Ideal for carrying your essentials with dojo-inspired confidence—show your allegiance wherever you go!</p>\n<ul>\n<li>This water-resistant backpack is perfect for all your daily needs including: a big inner pocket, a separate section for a 15'' laptop, a front pocket, and a hidden pocket at the back.</li>\n<li>Dimensions: 16 x 12¼ x 3 in</li>\n<li>Made Of: 100% polyester.</li>\n<li>Care: Machine wash cold with like colors and tumble dry low.</li>\n</ul>",
+  "published_at": "2024-07-19T13:57:24-04:00",
+  "created_at": "2024-07-18T04:22:04-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Backpacks",
+  "tags": [
+    "81002370",
+    "accessories",
+    "AOP-Backpack",
+    "backpacks",
+    "bags",
+    "Cobra Kai",
+    "Geeked",
+    "Home & Office",
+    "home and office",
+    "Promo Eligible Collection",
+    "Title: Cobra Kai",
+    "Type: Bags"
+  ],
+  "variants": [
+    {
+      "id": 43105392263215,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CK-100633-0001-KC-BCKP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7774222090287,
+      "created_at": "2024-07-18T04:22:04-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34306536112175,
+      "created_at": "2024-07-19T05:22:07-04:00",
+      "position": 1,
+      "updated_at": "2024-07-19T05:22:07-04:00",
+      "product_id": 7774222090287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BCKP_101717_MF1.jpg?v=1721380927",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34306536439855,
+      "created_at": "2024-07-19T05:22:10-04:00",
+      "position": 2,
+      "updated_at": "2024-07-19T05:22:10-04:00",
+      "product_id": 7774222090287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BCKP_101717_MF3.jpg?v=1721380930",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34306536669231,
+      "created_at": "2024-07-19T05:22:12-04:00",
+      "position": 3,
+      "updated_at": "2024-07-19T05:22:12-04:00",
+      "product_id": 7774222090287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BCKP_101717_MF4.jpg?v=1721380932",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34306536243247,
+      "created_at": "2024-07-19T05:22:08-04:00",
+      "position": 4,
+      "updated_at": "2024-07-19T05:22:08-04:00",
+      "product_id": 7774222090287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BCKP_101717_MF2.jpg?v=1721380928",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-BCKP_101717_MF1.jpg?v=1721380927",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Backpacks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

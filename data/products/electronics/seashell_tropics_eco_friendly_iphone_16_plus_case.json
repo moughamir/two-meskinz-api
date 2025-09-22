@@ -1,0 +1,98 @@
+{
+  "id": 8383685591128,
+  "title": "Seashell Tropics iPhone 16 Plus Case",
+  "handle": "seashell-tropics-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to feel the island breeze with the Tropics Phone Case! <meta charset=\"utf-8\">🌺<meta charset=\"utf-8\">🍍This vibrant design is a burst of tropical bliss, featuring lush palm leaves, cheerful hibiscus flowers, and juicy fruits like bananas and coconuts. The bright, sun-kissed colors and playful patterns will transport you straight to a sunny paradise, making every glance at your phone a mini-vacation. Perfect for adding a splash of exotic charm to your day, this phone case is your go-to accessory for bringing the joy of the tropics wherever you go. 🌞🍌🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-23T17:57:38-04:00",
+  "created_at": "2025-05-23T11:26:52-04:00",
+  "updated_at": "2025-09-22T15:14:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tropics",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42902430711896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:TROPICS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8383685591128,
+      "created_at": "2025-05-23T11:26:52-04:00",
+      "updated_at": "2025-09-22T15:14:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35080370159704,
+      "created_at": "2025-05-23T11:26:52-04:00",
+      "position": 1,
+      "updated_at": "2025-05-23T11:26:54-04:00",
+      "product_id": 8383685591128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPICS_IP16PLUS_Seashell.jpg?v=1748014014",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35082182557784,
+      "created_at": "2025-05-23T16:31:35-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T16:31:36-04:00",
+      "product_id": 8383685591128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_04_cf26d081-239e-4476-9990-ca29c78c9e90.jpg?v=1748032296",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35082182623320,
+      "created_at": "2025-05-23T16:31:35-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T16:31:36-04:00",
+      "product_id": 8383685591128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_03_e45e1232-efb7-47fb-b5a2-588360415f83.jpg?v=1748032296",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPICS_IP16PLUS_Seashell.jpg?v=1748014014",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

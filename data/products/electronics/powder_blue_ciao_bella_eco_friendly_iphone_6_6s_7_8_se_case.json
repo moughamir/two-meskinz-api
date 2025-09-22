@@ -1,0 +1,119 @@
+{
+  "id": 8388534108248,
+  "title": "Powder Blue Ciao Bella iPhone 6/6s/7/8/SE Case",
+  "handle": "powder-blue-ciao-bella-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say “ciao bella” to your new fave accessory! The Ciao Bella Phone Case is a love letter to la dolce vita — packed with zesty lemons, seaside snacks, and a sprinkle of Italian charm. Whether you’re dreaming of Amalfi or just vibing with your Aperol, this case brings Mediterranean magic to every moment. 🍋🫒🍝💙</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:10:49-04:00",
+  "created_at": "2025-05-30T12:37:32-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ciao Bella",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918164725848,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32758-IP7-POWDERBLUE-AOD:CIAO-BELLA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388534108248,
+      "created_at": "2025-05-30T12:37:32-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125633122392,
+      "created_at": "2025-05-30T12:37:32-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:34-04:00",
+      "product_id": 8388534108248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CIAO-BELLA_IP7_PowderBlue.jpg?v=1748623054",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195854192728,
+      "created_at": "2025-06-09T17:09:00-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:09:00-04:00",
+      "product_id": 8388534108248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a9c7a0edbcf482af47a531baf2c71632_a56b5e90-0a18-4bd8-920d-c8113ad30a92.jpg?v=1749503340",
+      "width": 4059,
+      "height": 4059
+    },
+    {
+      "id": 35195854717016,
+      "created_at": "2025-06-09T17:09:02-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:09:02-04:00",
+      "product_id": 8388534108248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f62039d38fb91f634efa5f35c4fcba81_9b6d67d1-f1ab-4db8-adfa-beaf9cdd2537.jpg?v=1749503342",
+      "width": 3953,
+      "height": 3953
+    },
+    {
+      "id": 35195855110232,
+      "created_at": "2025-06-09T17:09:04-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:09:04-04:00",
+      "product_id": 8388534108248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/dbada986628451a6d4d6c6e53a031697_95a3701a-021c-4d1b-b3ff-3af658bf279c.jpg?v=1749503344",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195855503448,
+      "created_at": "2025-06-09T17:09:06-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:09:06-04:00",
+      "product_id": 8388534108248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_cb43fd87-53cf-4303-8b28-8d3ed84895be.jpg?v=1749503346",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CIAO-BELLA_IP7_PowderBlue.jpg?v=1748623054",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

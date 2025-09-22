@@ -1,0 +1,97 @@
+{
+  "id": 8310734323800,
+  "title": "Seashell Rosebed Google Pixel 9a Case",
+  "handle": "seashell-rosebed-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><span>The Rosebed Phone Case by Pela is a veritable garden of blooming roses, sprawling across your phone in a pattern reminiscent of an English cottage garden. Perfect for those who appreciate the delicate dance of floral harmony, this case is a tribute to the timeless elegance of the rose.</span><span>📱<meta charset=\"utf-8\">🌹✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-13T12:39:18-04:00",
+  "created_at": "2025-03-11T12:32:02-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rosebed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726126059608,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:ROSEBED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310734323800,
+      "created_at": "2025-03-11T12:32:02-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671285600344,
+      "created_at": "2025-03-11T12:32:02-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:04-04:00",
+      "product_id": 8310734323800,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_PX9A_Seashell.jpg?v=1741710724",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677510963288,
+      "created_at": "2025-03-12T12:19:29-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:19:43-04:00",
+      "product_id": 8310734323800,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-1_bb1e7b0a-4717-44c2-9de3-4b2f5c6281e0.jpg?v=1741796383",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677510930520,
+      "created_at": "2025-03-12T12:19:29-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T12:19:43-04:00",
+      "product_id": 8310734323800,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_SEASHELL-2_ce949f53-65b0-40ec-873b-4c21718216a7.jpg?v=1741796383",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSEBED_PX9A_Seashell.jpg?v=1741710724",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

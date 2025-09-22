@@ -1,0 +1,117 @@
+{
+  "id": 7052695699565,
+  "title": "Siberian Fir",
+  "handle": "siberian-fir",
+  "body_html": "<p>Rich and aromatic, this energizing scent combines notes of<strong> </strong>fresh <strong>pine</strong>, spiced <strong>berries</strong>, and clean <strong>musk</strong>.</p>",
+  "published_at": "2023-08-14T19:52:33-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "K. Hall Designs",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:K. Hall Designs",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_siberianfir"
+  ],
+  "variants": [
+    {
+      "id": 40703042224237,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SBFH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695699565,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525520019565,
+      "created_at": "2023-09-28T18:08:55-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:09:02-06:00",
+      "product_id": 7052695699565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-SiberianFir-Vertical-Resized.jpg?v=1695946142",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525519986797,
+      "created_at": "2023-09-28T18:08:55-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T18:09:02-06:00",
+      "product_id": 7052695699565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineresized-2_8a0f6796-ee77-4af6-99f1-55e4e6df3c39.jpg?v=1695946142",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525519921261,
+      "created_at": "2023-09-28T18:08:55-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:09:02-06:00",
+      "product_id": 7052695699565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/K-Hall-Designs-Siberian-Fir-Device-V4.jpg?v=1695946142",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525520052333,
+      "created_at": "2023-09-28T18:08:55-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:09:02-06:00",
+      "product_id": 7052695699565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-SiberianFir-Overhead-Shadow-Resized.jpg?v=1695946142",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-SiberianFir-Vertical-Resized.jpg?v=1695946142",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "K. Hall Designs",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

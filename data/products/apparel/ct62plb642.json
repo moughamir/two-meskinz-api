@@ -1,0 +1,67 @@
+{
+  "id": 7785719136423,
+  "title": "Brand: USA Sealing / Part #: BULK-PS-ACR-25",
+  "handle": "ct62plb642",
+  "body_html": "<br><strong>Item #: </strong>98203086<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>BULK-PS-ACR-25<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Extruded Acrylic</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Performance Properties</strong></td>\n<td>Abrasion-Resistant</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Rockwell M-90</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Square</td>\n</tr>\n<tr>\n<td><strong>Coefficient Of Friction</strong></td>\n<td>Not Rated</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>12000</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-40.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>175.000</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Tolerance (Decimal Inch)</strong></td>\n<td>(-0.012\" - +0.012\")</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:26:11-06:00",
+  "created_at": "2023-12-29T00:26:11-06:00",
+  "updated_at": "2025-09-22T10:54:55-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43705290719399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98203086",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "82.68",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785719136423,
+      "created_at": "2023-12-29T00:26:11-06:00",
+      "updated_at": "2025-09-22T10:54:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237152870567,
+      "created_at": "2025-02-03T18:06:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:06:22-06:00",
+      "product_id": 7785719136423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9822725-21_909d5e25-81ff-4888-921b-0fee1fbe0ce6.jpg?v=1738627582",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 82.68,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9822725-21_909d5e25-81ff-4888-921b-0fee1fbe0ce6.jpg?v=1738627582",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

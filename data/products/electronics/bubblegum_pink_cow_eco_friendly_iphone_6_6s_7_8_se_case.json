@@ -1,0 +1,99 @@
+{
+  "id": 7556236476504,
+  "title": "Bubblegum Pink Cow iPhone 6/6s/7/8/SE Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:49:06-05:00",
+  "created_at": "2024-02-08T11:08:41-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007959640,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32516-IP7-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556236476504,
+      "created_at": "2024-02-08T11:08:41-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177739071576,
+      "created_at": "2024-02-08T11:08:41-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:41-05:00",
+      "product_id": 7556236476504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP7_BubblegumPink.jpg?v=1707408521",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211980320856,
+      "created_at": "2024-02-21T03:11:01-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:11:02-05:00",
+      "product_id": 7556236476504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_720fdfcd-fa56-46a2-b96b-ec391df5a776.jpg?v=1708503062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211980288088,
+      "created_at": "2024-02-21T03:11:01-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:11:02-05:00",
+      "product_id": 7556236476504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_48986265-d06d-4ff3-9376-a50ee121f0dc.jpg?v=1708503062",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP7_BubblegumPink.jpg?v=1707408521",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

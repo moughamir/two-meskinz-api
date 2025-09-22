@@ -1,0 +1,67 @@
+{
+  "id": 8452517691559,
+  "title": "Turning Insert: TNMG332MS RT9010, Carbide",
+  "handle": "33601022",
+  "body_html": "<br><strong>Item #: </strong>04617643<br><strong>Brand: </strong>Mitsubishi<br><strong>Model #: </strong>279478<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>ANSI Insert Code</strong>\n</td>\n<td>TNMG332</td>\n</tr>\n<tr> <td> <strong>ISO Insert Code</strong>\n</td>\n<td>TNMG160408</td>\n</tr>\n<tr> <td> <strong>Relief Angle</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>Insert Style</strong>\n</td>\n<td>TNMG</td>\n</tr>\n<tr> <td> <strong>Corner Radius (mm)</strong>\n</td>\n<td>0.80</td>\n</tr>\n<tr> <td> <strong>Corner Radius (Inch)</strong>\n</td>\n<td>1/32</td>\n</tr>\n<tr> <td> <strong>Corner Radius (Decimal Inch)</strong>\n</td>\n<td>0.0312</td>\n</tr>\n<tr> <td> <strong>Included Angle</strong>\n</td>\n<td>60</td>\n</tr>\n<tr> <td> <strong>Manufacturer Grade</strong>\n</td>\n<td>RT9010</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr> <td> <strong>Insert Hand</strong>\n</td>\n<td>Neutral</td>\n</tr>\n<tr> <td> <strong>Insert Thickness (Inch)</strong>\n</td>\n<td>3/16</td>\n</tr>\n<tr> <td> <strong>Insert Thickness</strong>\n</td>\n<td>4.76</td>\n</tr>\n<tr> <td> <strong>Insert Thickness (Decimal Inch)</strong>\n</td>\n<td>0.1875</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (Decimal Inch)</strong>\n</td>\n<td>0.3750</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (Inch)</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (mm)</strong>\n</td>\n<td>9.53</td>\n</tr>\n<tr> <td> <strong>Insert Material</strong>\n</td>\n<td>Carbide</td>\n</tr>\n<tr> <td> <strong>Insert Shape</strong>\n</td>\n<td>T - Triangle</td>\n</tr>\n<tr> <td> <strong>Chip Breaker Operation</strong>\n</td>\n<td>Medium Machining</td>\n</tr>\n<tr> <td> <strong>Grade Characteristics</strong>\n</td>\n<td>Special, Super Alloys (S) - High Wear-Resistance to Moderate Wear-Resistance and Toughness</td>\n</tr>\n<tr> <td> <strong>Side Clearance</strong>\n</td>\n<td>Negative</td>\n</tr>\n<tr> <td> <strong>Number Of Cutting Edges</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>Insert Shape Code</strong>\n</td>\n<td>T</td>\n</tr>\n<tr> <td> <strong>Clearance Code</strong>\n</td>\n<td>N</td>\n</tr>\n<tr> <td> <strong>Tolerance Code</strong>\n</td>\n<td>M</td>\n</tr>\n<tr> <td> <strong>Primary Workpiece Material Code</strong>\n</td>\n<td>S</td>\n</tr>\n<tr> <td> <strong>Chip Breaker</strong>\n</td>\n<td>MS</td>\n</tr>\n<tr> <td> <strong>ANSI Size Code</strong>\n</td>\n<td>332</td>\n</tr>\n<tr> <td> <strong>ISO Size Code</strong>\n</td>\n<td>160408</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23242105</td>\n</tr>\n<tr> <td> <strong>Insert Size Code</strong>\n</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:05:49-06:00",
+  "created_at": "2025-01-23T09:05:48-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Mitsubishi",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 46497973043367,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04617643",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452517691559,
+      "created_at": "2025-01-23T09:05:48-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242026619047,
+      "created_at": "2025-02-03T21:17:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:17:13-06:00",
+      "product_id": 8452517691559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0461764-21.jpg?v=1738639033",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0461764-21.jpg?v=1738639033",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mitsubishi",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

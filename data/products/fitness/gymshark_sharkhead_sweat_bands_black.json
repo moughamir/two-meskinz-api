@@ -1,0 +1,110 @@
+{
+  "id": 6804987412682,
+  "title": "Gymshark Sharkhead Sweat Bands - Black",
+  "handle": "gymshark-sharkhead-sweat-bands-black",
+  "body_html": "<p><strong>SWEAT IT OUT</strong></p>\n<p><br data-mce-fragment=\"1\">However you’re training, if you’re working up a sweat you’re gonna want these sweat bands on your side. Made from an absorbent towelling fabric, the Sharkhead Sweat Bands keep the moisture at bay so you can keep full focus.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Wrist sweat bands <br data-mce-fragment=\"1\">- 7cm x 8cm<br data-mce-fragment=\"1\">- Embroidered Gymshark logo <br data-mce-fragment=\"1\">- 85% Cotton, 14% Nylon, 1% Elastane<br data-mce-fragment=\"1\">- We’ve cut down on our use of swing tags, so this product comes without one<br data-mce-fragment=\"1\">- SKU: I2A1X-BBBB</p>",
+  "published_at": "2023-11-15T14:40:25-08:00",
+  "created_at": "2022-08-31T09:02:32-07:00",
+  "updated_at": "2025-09-22T08:46:07-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Conditioning",
+    "aged-stock-uk",
+    "akeneo_updated_at:1758186884",
+    "all-products",
+    "black-staples",
+    "build-your-wishlist",
+    "conditioning",
+    "created_by:product-service",
+    "filter-colour:Black",
+    "last-chance",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "season:AW22"
+  ],
+  "variants": [
+    {
+      "id": 39787182489802,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1X-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "4.80",
+      "grams": 0,
+      "compare_at_price": "8.00",
+      "position": 1,
+      "product_id": 6804987412682,
+      "created_at": "2022-08-31T09:02:32-07:00",
+      "updated_at": "2025-09-22T08:46:07-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973700677834,
+      "created_at": "2022-10-27T12:23:19-07:00",
+      "position": 1,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987412682,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsBlackI2A1X-BBBB.118.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973700841674,
+      "created_at": "2022-10-27T12:23:19-07:00",
+      "position": 2,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987412682,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsBlackI2A1X-BBBB-0206.27.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973701267658,
+      "created_at": "2022-10-27T12:23:19-07:00",
+      "position": 3,
+      "updated_at": "2022-10-27T12:23:21-07:00",
+      "product_id": 6804987412682,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsBlackI2A1X-BBBB.1034.79.jpg?v=1666898601",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 4.8,
+  "compare_at_price": 8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadSweatBandsBlackI2A1X-BBBB.118.jpg?v=1666898601",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

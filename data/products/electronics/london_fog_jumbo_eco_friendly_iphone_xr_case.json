@@ -1,0 +1,119 @@
+{
+  "id": 7370325819480,
+  "title": "London Fog Jumbo iPhone XR Case",
+  "handle": "london-fog-jumbo-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Embrace nature's gentle giants with the Pela Jumbo Phone Case. Adorned with etchings of serene elephants amidst a forest of delicate foliage, this case is a peaceful pocket-sized tribute to the wild. It transforms your phone into an ode to the gentle and the strong. The Pela Jumbo is more than a protective shell; it's a call to mindfulness, a reminder to carry the quiet majesty of nature with you through the concrete jungle. Let your phone be a beacon of calm in the chaos of daily life! 🐘🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-10T10:44:20-04:00",
+  "created_at": "2023-07-27T14:52:12-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Elephant Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jumbo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249087950936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:JUMBO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370325819480,
+      "created_at": "2023-07-27T14:52:12-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330732216408,
+      "created_at": "2023-07-27T14:52:12-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T14:52:12-04:00",
+      "product_id": 7370325819480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUMBO_IPXR_LondonFog.jpg?v=1690483932",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332665561176,
+      "created_at": "2023-07-31T14:39:58-04:00",
+      "position": 2,
+      "updated_at": "2023-07-31T14:39:59-04:00",
+      "product_id": 7370325819480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday_a2a56c99-2cfa-413a-9d0e-8418539cc45c.jpg?v=1690828799",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332665528408,
+      "created_at": "2023-07-31T14:39:58-04:00",
+      "position": 3,
+      "updated_at": "2023-07-31T14:39:59-04:00",
+      "product_id": 7370325819480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday5_fe959b38-0d4a-47ed-a1c9-4d3e4880e1ea.jpg?v=1690828799",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335814238296,
+      "created_at": "2023-08-03T10:22:07-04:00",
+      "position": 4,
+      "updated_at": "2023-08-03T10:22:09-04:00",
+      "product_id": 7370325819480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1262_3463eeed-7386-47ce-a64a-1b8f4cb6e346.jpg?v=1691072529",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335814205528,
+      "created_at": "2023-08-03T10:22:07-04:00",
+      "position": 5,
+      "updated_at": "2023-08-03T10:22:09-04:00",
+      "product_id": 7370325819480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1240_b6f13115-3cf4-41a1-88cf-5273cb7e2488.jpg?v=1691072529",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/JUMBO_IPXR_LondonFog.jpg?v=1690483932",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

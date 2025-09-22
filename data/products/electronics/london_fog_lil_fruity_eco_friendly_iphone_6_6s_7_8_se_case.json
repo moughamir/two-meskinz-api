@@ -1,0 +1,98 @@
+{
+  "id": 7370306322520,
+  "title": "London Fog Lil Fruity iPhone 6/6s/7/8/SE Case",
+  "handle": "london-fog-lil-fruity-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Squeeze the day with the Pela Lil Fruity Phone Case, a zesty cocktail of summer's sweetest delights that's ripe for the picking. This case, with its London Fog base, is sprinkled with an array of handpicked watermelon slices, tangy lemons, and succulent berries, promising to keep your phone as fresh as a just-picked fruit salad. Each cheerful fruit sketch is a burst of happiness, ready to infuse your daily texts and calls with a dose of vitamin C(uteness). Go on, let your phone bask in a splash of nature's candy—your daily tech just got a whole lot juicier! 🍉🍋🍒</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-24T09:22:39-04:00",
+  "created_at": "2023-07-27T12:43:37-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Fruity",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249060786264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32753-IP7-LFOG-AOD:LIL-FRUITY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370306322520,
+      "created_at": "2023-07-27T12:43:37-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330682966104,
+      "created_at": "2023-07-27T12:43:37-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T12:43:37-04:00",
+      "product_id": 7370306322520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/LIL-FRUITY_IP7_LondonFog.jpg?v=1690476217",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341096308824,
+      "created_at": "2023-08-11T09:49:30-04:00",
+      "position": 2,
+      "updated_at": "2023-08-11T09:49:31-04:00",
+      "product_id": 7370306322520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad4_3cca224a-6a85-44f2-b8ac-f95622176de4.jpg?v=1691761771",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341096276056,
+      "created_at": "2023-08-11T09:49:30-04:00",
+      "position": 3,
+      "updated_at": "2023-08-11T09:49:31-04:00",
+      "product_id": 7370306322520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad7_eeef0726-33aa-4483-84a8-566a575b5966.jpg?v=1691761771",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/LIL-FRUITY_IP7_LondonFog.jpg?v=1690476217",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

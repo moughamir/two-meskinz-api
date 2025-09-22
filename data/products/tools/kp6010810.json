@@ -1,0 +1,52 @@
+{
+  "id": 8453471043751,
+  "title": "TOOL KIT 12PC",
+  "handle": "kp6010810",
+  "body_html": null,
+  "published_at": "2025-01-24T07:35:13-06:00",
+  "created_at": "2025-01-24T07:35:10-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 New 2021",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500903354535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6010810",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "367.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453471043751,
+      "created_at": "2025-01-24T07:35:10-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 367,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2021",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8142179729496,
+  "title": "Lavender Alphabet Soup iPhone 12 Mini Case",
+  "handle": "lavender-alphabet-soup-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p class=\"p1\">Get ready to spell out your style with the Alphabet Soup Phone Case! With its colorful mix of abstract letter-inspired shapes in bold greens, oranges, purples, and more, this case is like a fun bowl of creativity simmering right in your pocket! 🍲📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:41:14-04:00",
+  "created_at": "2024-09-25T12:26:27-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Alphabet Soup",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294277439576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16352-IP12MINI-LAV-AOD:ALPHABET-SOUP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142179729496,
+      "created_at": "2024-09-25T12:26:27-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677681066072,
+      "created_at": "2024-09-25T12:26:27-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:27-04:00",
+      "product_id": 8142179729496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABET-SOUP_IP12MINI_Lavender.jpg?v=1727281587",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749461729368,
+      "created_at": "2024-10-09T17:37:54-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:37:55-04:00",
+      "product_id": 8142179729496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABETSOUP_PDP2_2234fcdc-9d1a-4c98-a4f3-785883dc97f1.jpg?v=1728509875",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749461663832,
+      "created_at": "2024-10-09T17:37:54-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:37:55-04:00",
+      "product_id": 8142179729496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABETSOUP_PDP1_72760984-93c7-4fdc-b020-3a01f6af3c4b.jpg?v=1728509875",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749461696600,
+      "created_at": "2024-10-09T17:37:54-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:37:55-04:00",
+      "product_id": 8142179729496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_3a53cd11-7b3b-477f-9399-0bcc35ea9dae.jpg?v=1728509875",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABET-SOUP_IP12MINI_Lavender.jpg?v=1727281587",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

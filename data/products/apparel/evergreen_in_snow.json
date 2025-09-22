@@ -1,0 +1,119 @@
+{
+  "id": 7644505047149,
+  "title": "Evergreen in Snow",
+  "handle": "evergreen-in-snow",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Take comfort in the serene beauty of a forest blanketed in fresh snow with notes of <strong>crisp greens</strong>, <strong>snow accord</strong>, and <strong>cedarwood</strong>. This fragrance comes to you as part of our exclusive collaboration with luxury fragrance brand Scents of Wood.<b id=\"docs-internal-guid-2d6ccdfb-7fff-1a67-1f5d-47908bd57549\"><span> </span></b><br></p>",
+  "published_at": "2025-06-17T08:55:23-06:00",
+  "created_at": "2025-04-25T14:19:16-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Scents of Wood",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "brand:Scents of Wood",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42362676117613,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JFYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7644505047149,
+      "created_at": "2025-04-25T14:19:17-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34166127067245,
+      "created_at": "2025-04-25T14:23:38-06:00",
+      "position": 1,
+      "updated_at": "2025-04-25T14:23:43-06:00",
+      "product_id": 7644505047149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentsOfWood-EvergreenInSnow-Prod1-0525.jpg?v=1745612623",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34166127165549,
+      "created_at": "2025-04-25T14:23:38-06:00",
+      "position": 2,
+      "updated_at": "2025-04-25T14:23:43-06:00",
+      "product_id": 7644505047149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/EvergreenInSnow-ScentsOfWood-Prod2.png?v=1745612623",
+      "width": 3072,
+      "height": 4096
+    },
+    {
+      "id": 34202168950893,
+      "created_at": "2025-05-01T10:47:27-06:00",
+      "position": 3,
+      "updated_at": "2025-05-01T10:47:35-06:00",
+      "product_id": 7644505047149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/EvergreenInSnow-ScentsOfWood-Prod3-0424.jpg?v=1746118055",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34166127001709,
+      "created_at": "2025-04-25T14:23:38-06:00",
+      "position": 4,
+      "updated_at": "2025-05-21T14:28:17-06:00",
+      "product_id": 7644505047149,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentsOfWood-EvergreenInSnow-Prod4-0525.jpg?v=1747859297",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentsOfWood-EvergreenInSnow-Prod1-0525.jpg?v=1745612623",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Scents of Wood",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

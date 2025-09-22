@@ -1,0 +1,94 @@
+{
+  "id": 8026991722584,
+  "title": "Clear iPhone 16 Pro Case with Lavender Ridge",
+  "handle": "clear-iphone-16-pro-case-with-lavender-ridge",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span></p>\n<!---->",
+  "published_at": "2024-09-09T14:21:23-04:00",
+  "created_at": "2024-07-08T17:09:51-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 42004012302424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28646-IP16P-LAV-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8026991722584,
+      "created_at": "2024-07-08T17:09:52-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33487207170136,
+      "created_at": "2024-08-16T14:42:46-04:00",
+      "position": 1,
+      "updated_at": "2024-08-16T14:42:48-04:00",
+      "product_id": 8026991722584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_LAVENDER_BACK_75f52d34-1563-475c-8216-b78fec9718bb.jpg?v=1723833768",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487207235672,
+      "created_at": "2024-08-16T14:42:46-04:00",
+      "position": 2,
+      "updated_at": "2024-08-16T14:42:48-04:00",
+      "product_id": 8026991722584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_LAVENDER_BACK45L.jpg?v=1723833768",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33487207202904,
+      "created_at": "2024-08-16T14:42:46-04:00",
+      "position": 3,
+      "updated_at": "2024-08-16T14:42:48-04:00",
+      "product_id": 8026991722584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_LAVENDER_BACK45R.jpg?v=1723833768",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP16P_LAVENDER_BACK_75f52d34-1563-475c-8216-b78fec9718bb.jpg?v=1723833768",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

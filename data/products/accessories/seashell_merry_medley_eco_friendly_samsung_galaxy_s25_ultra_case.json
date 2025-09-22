@@ -1,0 +1,108 @@
+{
+  "id": 8254950309976,
+  "title": "Seashell Merry Medley Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-merry-medley-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-01-22T10:42:04-05:00",
+  "created_at": "2025-01-15T11:24:00-05:00",
+  "updated_at": "2025-09-22T15:15:15-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567850491992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8254950309976,
+      "created_at": "2025-01-15T11:24:00-05:00",
+      "updated_at": "2025-09-22T15:15:15-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303445598296,
+      "created_at": "2025-01-15T11:24:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:24:02-05:00",
+      "product_id": 8254950309976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_S25ULTRA_Seashell.jpg?v=1736958242",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678383673432,
+      "created_at": "2025-03-12T15:23:45-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T15:23:50-04:00",
+      "product_id": 8254950309976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_7dc125f2-e18b-4819-ac6e-5bbacb8f44a2.jpg?v=1741807430",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678383706200,
+      "created_at": "2025-03-12T15:23:45-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T15:23:50-04:00",
+      "product_id": 8254950309976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_90b14b89-579f-491f-bd9a-0e029b170b01.jpg?v=1741807430",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678383640664,
+      "created_at": "2025-03-12T15:23:45-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T15:23:50-04:00",
+      "product_id": 8254950309976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_e84b5d16-ffd3-46e5-91ef-dc298c3876c9.jpg?v=1741807430",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_S25ULTRA_Seashell.jpg?v=1736958242",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

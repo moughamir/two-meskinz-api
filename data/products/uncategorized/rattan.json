@@ -1,0 +1,114 @@
+{
+  "id": 7398662275181,
+  "title": "Rattan",
+  "handle": "rattan",
+  "body_html": "<p dir=\"ltr\"><span>Slip into a sun-kissed daydream with luxurious notes of <strong>sandalwood</strong>, golden <strong>amber</strong>, and warm <strong>musk</strong> for a scent that feels like a serene escape.</span></p>",
+  "published_at": "2024-06-05T09:10:33-06:00",
+  "created_at": "2024-05-20T13:44:09-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Otherland",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Otherland",
+    "collection:New Arrivals",
+    "Group_Home",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41512640118893,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "OTVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7398662275181,
+      "created_at": "2024-05-20T13:44:09-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31983492071533,
+      "created_at": "2024-05-20T13:51:23-06:00",
+      "position": 1,
+      "updated_at": "2024-05-20T13:51:35-06:00",
+      "product_id": 7398662275181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Rattan-Prod1-0524.jpg?v=1716234695",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31003363049581,
+      "created_at": "2024-01-10T15:32:22-07:00",
+      "position": 2,
+      "updated_at": "2024-01-10T15:32:46-07:00",
+      "product_id": 7398662275181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sandalwoodresized_7f704ba7-402c-4375-bcc3-738bf3ef3ac8.jpg?v=1704925966",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31983491678317,
+      "created_at": "2024-05-20T13:51:23-06:00",
+      "position": 3,
+      "updated_at": "2024-05-30T15:06:56-06:00",
+      "product_id": 7398662275181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Rattan-Otherland-Prod3-0524.jpg?v=1717103216",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 31983492005997,
+      "created_at": "2024-05-20T13:51:23-06:00",
+      "position": 4,
+      "updated_at": "2024-05-30T15:06:56-06:00",
+      "product_id": 7398662275181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Rattan-Prod3-0524.jpg?v=1717103216",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Rattan-Prod1-0524.jpg?v=1716234695",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Otherland",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

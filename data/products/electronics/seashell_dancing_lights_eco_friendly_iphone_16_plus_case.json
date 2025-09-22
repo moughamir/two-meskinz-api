@@ -1,0 +1,98 @@
+{
+  "id": 8381660856408,
+  "title": "Seashell Dancing Lights iPhone 16 Plus Case",
+  "handle": "seashell-dancing-lights-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><span>Step into the spotlight with the Dancing Lights Phone Case, a part of our delightful Cheers to You Collection.  Featuring a playful pattern of pink disco balls, party ribbon and champagne glasses, this case is perfect for those who carry the rhythm of the night in their hearts. 🎉✨🌱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:15:14-04:00",
+  "created_at": "2025-05-21T09:51:41-04:00",
+  "updated_at": "2025-09-22T15:14:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers to You",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dancing Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895727755352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:DANCING-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381660856408,
+      "created_at": "2025-05-21T09:51:42-04:00",
+      "updated_at": "2025-09-22T15:14:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065427394648,
+      "created_at": "2025-05-21T09:51:42-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:51:43-04:00",
+      "product_id": 8381660856408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_IP16PLUS_Seashell.jpg?v=1747835503",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065574752344,
+      "created_at": "2025-05-21T10:29:14-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:29:17-04:00",
+      "product_id": 8381660856408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8501Large_094467a4-75ee-477a-aafa-198b00c2933e.jpg?v=1747837757",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065574785112,
+      "created_at": "2025-05-21T10:29:14-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T10:29:17-04:00",
+      "product_id": 8381660856408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8491Large_f849c378-5754-408e-98d5-d1b48c8570c8.jpg?v=1747837757",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_IP16PLUS_Seashell.jpg?v=1747835503",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

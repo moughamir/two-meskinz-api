@@ -1,0 +1,68 @@
+{
+  "id": 5337184403623,
+  "title": "Welding Curtain & Screen Kits; Type: Welding Screen; Kit Type: Retractable Screen; Curtain/Screen Material: Vinyl; Frame Material: Aluminum; Material: PVC; Color: Clear; Includes: Weld Screen, Roller, Mounting Brackets, J-hooks",
+  "handle": "gs04104",
+  "body_html": "<br><strong>Item #: </strong>00830216<br><strong>Brand: </strong>Shaver<br><strong>Model #: </strong>RWS9000-CP<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Welding Screen</td>\n</tr>\n<tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Retractable Screen</td>\n</tr>\n<tr> <td> <strong>Curtain/Screen Material</strong>\n</td>\n<td>Vinyl</td>\n</tr>\n<tr> <td> <strong>Frame Material</strong>\n</td>\n<td>Aluminum</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>PVC</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Clear</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Weld Screen, Roller, Mounting Brackets, J-hooks</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>NFPA 701, CPAI-84, ISO9001</td>\n</tr>\n<tr> <td> <strong>Width (Feet)</strong>\n</td>\n<td>20.00</td>\n</tr>\n<tr> <td> <strong>Height (Feet)</strong>\n</td>\n<td>6.840</td>\n</tr>\n<tr> <td> <strong>Material Weight (oz/sq. yd.)</strong>\n</td>\n<td>13.00</td>\n</tr>\n<tr> <td> <strong>Thickness (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.0160</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23271714</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:15:21-06:00",
+  "created_at": "2020-06-15T16:31:55-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Shaver",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety",
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 34733831159975,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00830216",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "2018.05",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337184403623,
+      "created_at": "2020-06-15T16:31:56-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240863158439,
+      "created_at": "2025-02-03T20:38:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:38:26-06:00",
+      "product_id": 5337184403623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0083031-21.jpg?v=1738636706",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 2018.05,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0083031-21.jpg?v=1738636706",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Shaver",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

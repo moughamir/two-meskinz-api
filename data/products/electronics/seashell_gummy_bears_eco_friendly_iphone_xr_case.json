@@ -1,0 +1,108 @@
+{
+  "id": 8237174980696,
+  "title": "Seashell Gummy Bears iPhone XR Case",
+  "handle": "seashell-gummy-bears-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">A Sweet Treat for Your Tech! 🍬🐻 <meta charset=\"utf-8\">Get ready to indulge in a sugar-free, totally adorable phone case! The Gummy Bear Phone Case is bursting with nostalgic charm, featuring a playful mix of colorful, candy-coated bears that’ll make your phone look good enough to snack on.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:14:16-05:00",
+  "created_at": "2025-01-03T09:29:13-05:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Gummy Bears",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42530548056152,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:GUMMY-BEARS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8237174980696,
+      "created_at": "2025-01-03T09:29:13-05:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34214616203352,
+      "created_at": "2025-01-03T09:29:13-05:00",
+      "position": 1,
+      "updated_at": "2025-01-06T09:08:45-05:00",
+      "product_id": 8237174980696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMY-BEARS_IPXR_Seashell.jpg?v=1736172525",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34227073712216,
+      "created_at": "2025-01-06T09:46:29-05:00",
+      "position": 2,
+      "updated_at": "2025-01-06T09:46:30-05:00",
+      "product_id": 8237174980696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP1_7e2311ce-7253-4567-bf5a-13cc54640bca.jpg?v=1736174790",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34227073744984,
+      "created_at": "2025-01-06T09:46:29-05:00",
+      "position": 3,
+      "updated_at": "2025-01-06T09:46:30-05:00",
+      "product_id": 8237174980696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP2_af92ba7a-fd5a-4b66-9731-6043a38c80eb.jpg?v=1736174790",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34227073777752,
+      "created_at": "2025-01-06T09:46:29-05:00",
+      "position": 4,
+      "updated_at": "2025-01-06T09:46:30-05:00",
+      "product_id": 8237174980696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP3_01974ea3-4cc6-42da-b5d0-b19c5860762b.jpg?v=1736174790",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMY-BEARS_IPXR_Seashell.jpg?v=1736172525",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

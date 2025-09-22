@@ -1,0 +1,106 @@
+{
+  "id": 7851281907759,
+  "title": "Hellfire Club 16 oz. Can Shaped Glass",
+  "handle": "stranger-things-hellfire-club-16-oz-can-shaped-glass1",
+  "body_html": "<p>Unleash your inner member of the Hellfire Club with the <em>Stranger Things</em> 16 oz. Can Shaped Glass! Perfect for enjoying your favorite beverages while diving into the latest Hawkins adventures, this eye-catching glass captures the spirit of friendship and adventure. Raise a glass to the thrill of nostalgia and epic quests—because every sip is a chance to escape into the Upside Down!</p>\n<ul>\n<li>Glass material</li>\n<li>Comes with a lid and straw</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>",
+  "published_at": "2024-10-24T16:52:02-04:00",
+  "created_at": "2024-10-16T10:54:35-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "80057281",
+    "Can Shaped Glass",
+    "Drinking Glasses",
+    "Drinkware",
+    "Gifting",
+    "glass",
+    "Glasseware",
+    "glassware",
+    "Home  Office",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43305140256815,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101797-0001-ST-HLFIRE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34829392642095,
+        "product_id": 7851281907759,
+        "position": 1,
+        "created_at": "2024-10-16T10:54:35-04:00",
+        "updated_at": "2024-10-16T10:54:35-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLFIRE_101726_R_MF_12d6fe49-ee03-4b53-bfb6-97fd6560fc0e.jpg?v=1729090475",
+        "variant_ids": [
+          43305140256815
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7851281907759,
+      "created_at": "2024-10-16T10:54:35-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829392642095,
+      "created_at": "2024-10-16T10:54:35-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:54:35-04:00",
+      "product_id": 7851281907759,
+      "variant_ids": [
+        43305140256815
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLFIRE_101726_R_MF_12d6fe49-ee03-4b53-bfb6-97fd6560fc0e.jpg?v=1729090475",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34829392707631,
+      "created_at": "2024-10-16T10:54:35-04:00",
+      "position": 2,
+      "updated_at": "2024-10-16T10:54:35-04:00",
+      "product_id": 7851281907759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLFIRE_101726_L_MF_4a5be42d-e6a7-4b5a-89c6-30b3d7d3852e.jpg?v=1729090475",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLFIRE_101726_R_MF_12d6fe49-ee03-4b53-bfb6-97fd6560fc0e.jpg?v=1729090475",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

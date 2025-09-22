@@ -1,0 +1,131 @@
+{
+  "id": 6806305210570,
+  "title": "Gymshark Active Backpack - Deep Petrol Blue",
+  "handle": "gymshark-active-backpack-bags-blue-aw25",
+  "body_html": "<p><b>HOLD UP</b></p>\n<p>You’ve got some great fits for your gym routine (and by that we mean Gymshark fits, obviously). Now get somewhere equally great to stash them.</p>\n<ul>\n<li>2 shoulder straps</li>\n<li>Large main zip compartment</li>\n<li>External zip pocket for smaller essentials</li>\n<li>Woven Gymshark tab</li>\n</ul>\n<p><br></p>\n<p><b>SIZE &amp; FIT</b></p>\n<ul>\n<li>Length: 25in, Height: 11.8in, Depth: 11.8in, Volume: 56L</li>\n</ul>\n<p><br></p>\n<p><b>MATERIALS &amp; CARE</b></p>\n<ul>\n<li>100% Polyester<br><br>\n</li>\n</ul>\n<p>SKU:&nbsp; I1C5R-UDRL</p>",
+  "published_at": "2025-09-04T06:46:38-07:00",
+  "created_at": "2025-01-20T08:03:23-08:00",
+  "updated_at": "2025-09-22T08:44:37-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Bags",
+  "tags": [
+    "14/08/25",
+    "accessories",
+    "akeneo_updated_at:1757931518",
+    "all-products",
+    "back-to-school-bags",
+    "backpacks",
+    "bags",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "division:Accessories",
+    "feature: zip pocket",
+    "filter-colour:Blue",
+    "INTL-14/08/25",
+    "lower-bucket",
+    "Mens",
+    "new-accessories",
+    "new-releases",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Active",
+    "seamtype:Accessories",
+    "seasonal-accessories",
+    "seasonal-essentials",
+    "segmentation:Conditioning",
+    "spanish-translated",
+    "subcategory:Backpack",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39795347783882,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1C5R-UDRL-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6806305210570,
+      "created_at": "2025-01-20T08:03:23-08:00",
+      "updated_at": "2025-09-22T08:44:37-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28993815052490,
+      "created_at": "2025-07-17T05:30:46-07:00",
+      "position": 1,
+      "updated_at": "2025-07-17T05:30:49-07:00",
+      "product_id": 6806305210570,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveBackpackGSDeepPetrolBlueI1C5R_UDRL_0230.jpg?v=1752755449",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993815118026,
+      "created_at": "2025-07-17T05:30:46-07:00",
+      "position": 2,
+      "updated_at": "2025-07-17T05:30:49-07:00",
+      "product_id": 6806305210570,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveBackpackGSDeepPetrolBlueI1C5R_UDRL_0236.jpg?v=1752755449",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993815281866,
+      "created_at": "2025-07-17T05:30:46-07:00",
+      "position": 3,
+      "updated_at": "2025-07-17T05:30:49-07:00",
+      "product_id": 6806305210570,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveBackpackGSDeepPetrolBlueI1C5R_UDRL_0232.jpg?v=1752755449",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28993814954186,
+      "created_at": "2025-07-17T05:30:45-07:00",
+      "position": 4,
+      "updated_at": "2025-07-17T05:30:49-07:00",
+      "product_id": 6806305210570,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveBackpackGSDeepPetrolBlueI1C5R_UDRL_0234.jpg?v=1752755449",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ActiveBackpackGSDeepPetrolBlueI1C5R_UDRL_0230.jpg?v=1752755449",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

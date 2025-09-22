@@ -1,0 +1,96 @@
+{
+  "id": 8444667625560,
+  "title": "Powder Blue Sails and Seagulls iPhone 17 Pro Max Case",
+  "handle": "powder-blue-sails-and-seagulls-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring a splash of seaside fun to your phone with the Sails and Seagulls Phone Case! ⛵🕊️ This vibrant design features a fleet of colorful sailboats bobbing on a serene Powder Blue sea, accompanied by playful seagulls soaring above. Perfect for ocean lovers and daydreamers alike, this case captures the carefree spirit of a day spent sailing under the sun. With its lively colors and charming nautical theme, the Sails and Seagulls Phone Case is sure to brighten your day and keep your phone protected in style. Set sail into a world of whimsy and let the waves carry you away! 🌞📱🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:38:49-04:00",
+  "created_at": "2025-08-08T11:49:34-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Sailing",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sails and Seagulls",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184207200344,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:SAILS-AND-SEAGULLS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444667625560,
+      "created_at": "2025-09-03T18:43:15-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184207233112,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:SAILS-AND-SEAGULLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444667625560,
+      "created_at": "2025-09-03T18:43:15-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567219671128,
+      "created_at": "2025-08-08T11:49:34-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:36-04:00",
+      "product_id": 8444667625560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SAILS-AND-SEAGULLS_IP17PMAX_PowderBlue.jpg?v=1754668176",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SAILS-AND-SEAGULLS_IP17PMAX_PowderBlue.jpg?v=1754668176",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 8254854561880,
+  "title": "Seashell Aqua Dreams Samsung Galaxy S25 Case",
+  "handle": "seashell-aqua-dreams-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into a world of enchantment with the Aqua Dreams Phone Case, where the wonders of the ocean come to life on your phone! Adorned with vibrant coral, shimmering seashells, and playful sea creatures, this case is a dreamy escape to an underwater paradise. Perfect for ocean lovers and daydreamers alike, it not only adds a splash of color to your device but also ensures robust protection. Let the Aqua Dreams Phone Case transform your phone into a beautiful seascape, keeping the magic of the ocean close at hand! <meta charset=\"utf-8\">🌊🌟🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:34:42-05:00",
+  "created_at": "2025-01-15T10:25:25-05:00",
+  "updated_at": "2025-09-22T15:15:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Aqua Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567625965656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13900-S25-SEASHELL-AOD:AQUA-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254854561880,
+      "created_at": "2025-01-15T10:25:25-05:00",
+      "updated_at": "2025-09-22T15:15:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303089311832,
+      "created_at": "2025-01-15T10:25:25-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:25:27-05:00",
+      "product_id": 8254854561880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUA-DREAMS_S25_Seashell.jpg?v=1736954727",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUA-DREAMS_S25_Seashell.jpg?v=1736954727",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

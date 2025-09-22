@@ -1,0 +1,109 @@
+{
+  "id": 7844793679919,
+  "title": "Heartstopper You Can Just Feel 25 oz. Travel Mug",
+  "handle": "heartstopper-you-can-just-feel-25-oz-travel-mug",
+  "body_html": "<p>In collaboration with Illustrator &amp; Brand Identity Designer, Carly Berry, elevate your <em>Heartstopper </em>fandom with our You Can Just Feel 25 oz. Travel Mug! Perfect for enjoying your favorite drinks on the go, this travel mug features a fun design that captures the warmth and joy of the series. Whether you're sipping coffee or staying hydrated, this glass is the perfect way to celebrate the love and friendship that <em>Heartstopper </em>embodies!</p>\n<ul>\n<li>Made with stainless steel and BPA-free plastic</li>\n<li>Capacity: 25 oz (739 ml)</li>\n<li>Upper diameter: 3.3\" × 6.9\" (8.4 × 20 cm)</li>\n<li>Bottom diameter: 2.7\" × 6.9\" (7 × 20 cm)</li>\n<li>Hand-wash only</li>\n</ul>",
+  "published_at": "2024-10-03T11:49:22-04:00",
+  "created_at": "2024-10-03T09:28:12-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Mugs",
+  "tags": [
+    "81059939",
+    "Drinkware",
+    "Heartstopper",
+    "Home & Office",
+    "home and office",
+    "Mugs",
+    "new",
+    "Promo Eligible Collection",
+    "Travel Mug",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43282181128239,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101693-0001-HS-TXTHI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.95",
+      "grams": 1588,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7844793679919,
+      "created_at": "2024-10-03T09:28:12-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34759730429999,
+      "created_at": "2024-10-03T09:28:12-04:00",
+      "position": 1,
+      "updated_at": "2024-10-03T09:28:12-04:00",
+      "product_id": 7844793679919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXTHI_101693_FT_MF.png?v=1727962092",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34759730462767,
+      "created_at": "2024-10-03T09:28:12-04:00",
+      "position": 2,
+      "updated_at": "2024-10-03T09:28:12-04:00",
+      "product_id": 7844793679919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXTHI_101693_BK_MF.png?v=1727962092",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34759730626607,
+      "created_at": "2024-10-03T09:28:12-04:00",
+      "position": 3,
+      "updated_at": "2024-10-03T09:28:12-04:00",
+      "product_id": 7844793679919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXTHI_101693_LIFE5.png?v=1727962092",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34759730561071,
+      "created_at": "2024-10-03T09:28:12-04:00",
+      "position": 4,
+      "updated_at": "2024-10-03T09:28:12-04:00",
+      "product_id": 7844793679919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXTHI_101693_LIFE3.png?v=1727962092",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXTHI_101693_FT_MF.png?v=1727962092",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mugs",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

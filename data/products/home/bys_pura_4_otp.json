@@ -1,0 +1,86 @@
+{
+  "id": 7119001387117,
+  "title": "Build a Pura 4 Set (OTP)",
+  "handle": "bys-pura-4-otp",
+  "body_html": "",
+  "published_at": "2023-12-04T23:44:32-07:00",
+  "created_at": "2023-10-25T11:49:35-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Box",
+  "tags": [
+    "900-00761",
+    "__label:Customize",
+    "__label:Notify me",
+    "__label:Sold out",
+    "Group_Home",
+    "Pura 4",
+    "remove-klevu",
+    "type_Smartvial",
+    "YCRF_homedevices"
+  ],
+  "variants": [
+    {
+      "id": 40788260880493,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7119001387117,
+      "created_at": "2023-10-25T11:49:35-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30600422916205,
+      "created_at": "2023-10-25T11:49:39-06:00",
+      "position": 1,
+      "updated_at": "2023-10-25T11:49:39-06:00",
+      "product_id": 7119001387117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized_b76b2326-7203-4a4f-a54f-3a900810036f.jpg?v=1698256179",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30600422948973,
+      "created_at": "2023-10-25T11:49:39-06:00",
+      "position": 2,
+      "updated_at": "2023-10-25T11:49:39-06:00",
+      "product_id": 7119001387117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized-5_b830dbc5-d4a0-4e32-8fb1-639e54ad485d.jpg?v=1698256179",
+      "width": 3674,
+      "height": 4898
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized_b76b2326-7203-4a4f-a54f-3a900810036f.jpg?v=1698256179",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

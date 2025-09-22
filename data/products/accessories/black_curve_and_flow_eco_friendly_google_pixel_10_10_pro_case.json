@@ -1,0 +1,108 @@
+{
+  "id": 8444722315352,
+  "title": "Black Curve and Flow Google Pixel 10/10 Pro Case",
+  "handle": "black-curve-and-flow-eco-friendly-google-pixel-10-10-pro-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T10:07:23-04:00",
+  "created_at": "2025-08-08T12:06:59-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43108094738520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15775-PX10-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444722315352,
+      "created_at": "2025-08-08T12:06:59-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567384363096,
+      "created_at": "2025-08-08T12:06:59-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:01-04:00",
+      "product_id": 8444722315352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_PX10_Black.jpg?v=1754669221",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581705814104,
+      "created_at": "2025-08-11T14:57:24-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:57:24-04:00",
+      "product_id": 8444722315352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_eb144bcd-b547-4dd7-882a-e904234022eb.jpg?v=1754938644",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581706076248,
+      "created_at": "2025-08-11T14:57:26-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:57:26-04:00",
+      "product_id": 8444722315352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_7290365e-573d-4ad0-aa70-95ea7c9ecf9c.jpg?v=1754938646",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581706371160,
+      "created_at": "2025-08-11T14:57:27-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:57:27-04:00",
+      "product_id": 8444722315352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_45a55257-44b1-4d61-97d1-978775921eaa.jpg?v=1754938647",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_PX10_Black.jpg?v=1754669221",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

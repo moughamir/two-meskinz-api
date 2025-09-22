@@ -1,0 +1,84 @@
+{
+  "id": 7221763735661,
+  "title": "Seasonal",
+  "handle": "seasonal-5",
+  "body_html": "<p>Love celebrating the seasons? We do too. These car fragrances are part of our spring, summer, fall, winter, and holiday collections—different scents for every season, every moment.</p>",
+  "published_at": "2024-04-09T16:07:19-06:00",
+  "created_at": "2024-03-05T16:00:29-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "900-02433",
+    "__automation:disable",
+    "Brand:Picked by Pura",
+    "collection:Curated subscription",
+    "CollectionFilter_Curated Subscriptions",
+    "Group_Car",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 41115673002093,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02433",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.75",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7221763735661,
+      "created_at": "2024-03-05T16:00:29-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33698441101421,
+      "created_at": "2025-02-12T16:32:01-07:00",
+      "position": 1,
+      "updated_at": "2025-02-12T16:32:42-07:00",
+      "product_id": 7221763735661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SpringCar-CuratedSub-Prod1-0824-2.png?v=1739403162",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33702405898349,
+      "created_at": "2025-02-13T13:22:14-07:00",
+      "position": 2,
+      "updated_at": "2025-02-13T13:22:25-07:00",
+      "product_id": 7221763735661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SeasonalCar-CuratedSub-Prod2-0225.png?v=1739478145",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.75,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SpringCar-CuratedSub-Prod1-0824-2.png?v=1739403162",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 7420033302616,
+  "title": "Black Cassette iPhone 15 Pro Max Case",
+  "handle": "black-cassette-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Rewind to the retro era with the Pela Cassette Phone Case! This groovy accessory brings back the nostalgic mixtape days with its classic cassette tape design, complete with vintage labeling and reel-to-reel details. Made for music lovers and retro enthusiasts, this case hits all the right notes of style and protection. Slide this case onto your phone and let it play the soundtrack of your life, one call at a time. Whether you're streaming today's hits or old-school jams, this case is sure to be a conversation starter. 📼🎶📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-12T14:00:07-04:00",
+  "created_at": "2023-09-12T12:33:08-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Retrospin",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Cassette",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40264941568088,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17120-IP15PMAX-BLACK-AOD:CASSETTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7420033302616,
+      "created_at": "2023-09-12T12:33:09-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30361381109848,
+      "created_at": "2023-09-12T12:33:09-04:00",
+      "position": 1,
+      "updated_at": "2023-09-12T12:33:09-04:00",
+      "product_id": 7420033302616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP15PMAX_Black.jpg?v=1694536389",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800420958296,
+      "created_at": "2023-10-03T11:57:41-04:00",
+      "position": 2,
+      "updated_at": "2023-10-03T11:57:44-04:00",
+      "product_id": 7420033302616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN2_ed51a9f8-f5ce-4eb6-8487-c34406b571b6.png?v=1696348664",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800421089368,
+      "created_at": "2023-10-03T11:57:41-04:00",
+      "position": 3,
+      "updated_at": "2023-10-03T11:57:44-04:00",
+      "product_id": 7420033302616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_05022_cd7729b1-bfdf-4777-9ee2-208e72b22d5a.jpg?v=1696348664",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800421122136,
+      "created_at": "2023-10-03T11:57:41-04:00",
+      "position": 4,
+      "updated_at": "2023-10-03T11:57:45-04:00",
+      "product_id": 7420033302616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_04612_7694604d-32c4-42d0-8909-b8034f5e27a0.jpg?v=1696348665",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP15PMAX_Black.jpg?v=1694536389",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

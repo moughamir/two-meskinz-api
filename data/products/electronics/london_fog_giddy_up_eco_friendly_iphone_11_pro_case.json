@@ -1,0 +1,108 @@
+{
+  "id": 8307890683992,
+  "title": "London Fog Giddy Up iPhone 11 Pro Case",
+  "handle": "london-fog-giddy-up-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up, cowboy—<em data-start=\"53\" data-end=\"63\">Giddy Up Phone Case</em> is bringing big western energy straight to your phone! Featuring a playful mix of cowboy boots, horses, cacti, hats, and lucky horseshoes, this case is perfect for those who live for open trails, country tunes, and a little rodeo spirit. Whether you're a barn-born rider or just a western-style fan, this design is sure to turn heads faster than a lasso in action.<meta charset=\"utf-8\">🤠<meta charset=\"utf-8\">🌵</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-03T09:17:21-04:00",
+  "created_at": "2025-03-07T11:10:40-05:00",
+  "updated_at": "2025-09-22T15:14:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Giddy Up",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718288576600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16032-IP11P-LFOG-AOD:GIDDY-UP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307890683992,
+      "created_at": "2025-03-07T11:10:40-05:00",
+      "updated_at": "2025-09-22T15:14:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655134679128,
+      "created_at": "2025-03-07T11:10:40-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T11:10:42-05:00",
+      "product_id": 8307890683992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIDDY-UP_IP11P_LondonFog.jpg?v=1741363842",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34768927490136,
+      "created_at": "2025-03-31T11:15:05-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T11:15:09-04:00",
+      "product_id": 8307890683992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GiddyUp_PDP_01_7f98dbe4-c6ad-42e4-bd57-3ef4ba477768.jpg?v=1743434109",
+      "width": 4222,
+      "height": 5278
+    },
+    {
+      "id": 34768927424600,
+      "created_at": "2025-03-31T11:15:05-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T11:15:09-04:00",
+      "product_id": 8307890683992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GiddyUp_PDP_02_62246617-081b-4e03-b105-4ed5c299bc95.jpg?v=1743434109",
+      "width": 3342,
+      "height": 4178
+    },
+    {
+      "id": 34768927457368,
+      "created_at": "2025-03-31T11:15:05-04:00",
+      "position": 4,
+      "updated_at": "2025-03-31T11:15:09-04:00",
+      "product_id": 8307890683992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GiddyUp_PDP_03_785b03a8-456a-48af-a56f-177b56cdcddd.jpg?v=1743434109",
+      "width": 3960,
+      "height": 4950
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIDDY-UP_IP11P_LondonFog.jpg?v=1741363842",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

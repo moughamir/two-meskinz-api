@@ -1,0 +1,140 @@
+{
+  "id": 8444680994904,
+  "title": "Seashell Pomegranate Cheer iPhone 17 Case",
+  "handle": "seashell-pomegranate-cheer-eco-friendly-iphone-17-case",
+  "body_html": "<p class=\"p1\">Bring a pop of juicy cheer to your phone with the Pela Pomegranate Cheer Phone Case! Bursting with vibrant pomegranates and lush greenery, this case is a festive treat for the eyes. Perfect for those who love bold, fruity designs, it offers earth-friendly protection with a playful twist. Lightweight, durable, and made from plants, it’s the ultimate accessory for adding a splash of color to your everyday adventures. Stay fresh, stay fun, and keep your phone looking sweet!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:31:45-04:00",
+  "created_at": "2025-08-08T11:50:22-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pomegranate Cheer",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184258646104,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:POMEGRANATE-CHEER_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444680994904,
+      "created_at": "2025-09-03T18:52:31-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184258678872,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:POMEGRANATE-CHEER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444680994904,
+      "created_at": "2025-09-03T18:52:31-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567248310360,
+      "created_at": "2025-08-08T11:50:22-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:24-04:00",
+      "product_id": 8444680994904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_IP17_Seashell.jpg?v=1754668224",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677822619736,
+      "created_at": "2025-03-12T13:14:24-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T13:14:29-04:00",
+      "product_id": 8444680994904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP1_6bb786db-e971-4da1-959d-4828569b18a1.jpg?v=1741799669",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677822652504,
+      "created_at": "2025-03-12T13:14:24-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T13:14:29-04:00",
+      "product_id": 8444680994904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP2_30d77cb7-1aa5-49ca-a594-cb80f433a73c.jpg?v=1741799669",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33833261793368,
+      "created_at": "2024-10-21T17:26:47-04:00",
+      "position": 4,
+      "updated_at": "2024-10-21T17:26:49-04:00",
+      "product_id": 8444680994904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP3_b461ebdc-810e-4d25-aa47-5e9b2e4fb446.jpg?v=1729546009",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33833261826136,
+      "created_at": "2024-10-21T17:26:47-04:00",
+      "position": 5,
+      "updated_at": "2024-10-21T17:26:49-04:00",
+      "product_id": 8444680994904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP4_81acb418-4fdd-42a7-b82e-e6c6f23ad096.jpg?v=1729546009",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_IP17_Seashell.jpg?v=1754668224",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

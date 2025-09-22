@@ -1,0 +1,52 @@
+{
+  "id": 8453271716007,
+  "title": "1/2″ Nut Driver with 6″ Hollow Shaft",
+  "handle": "kp6049005",
+  "body_html": null,
+  "published_at": "2025-01-23T23:38:06-06:00",
+  "created_at": "2025-01-23T23:38:04-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500041425063,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6049005",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.28",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453271716007,
+      "created_at": "2025-01-23T23:38:04-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.28,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

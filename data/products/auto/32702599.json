@@ -1,0 +1,68 @@
+{
+  "id": 8452762501287,
+  "title": "Chamfer Mill: 1/8\" Dia, 1/8\" Shank Dia, 4 Flute, Solid Carbide, Single End",
+  "handle": "32702599",
+  "body_html": "<br><strong>Item #: </strong>86807385<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>744445<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Cutter Head Diameter (Fractional Inch)</strong>\n</td>\n<td>1/8</td>\n</tr>\n<tr> <td> <strong>Cutter Head Diameter (Decimal Inch)</strong>\n</td>\n<td>0.1250</td>\n</tr>\n<tr> <td> <strong>End Type</strong>\n</td>\n<td>Single</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Decimal Inch)</strong>\n</td>\n<td>0.1250</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>1/8</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>1-1/2</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>Chamfer Cutters - Pointed &amp; Flat End</td>\n</tr>\n<tr> <td> <strong>Chamfer Mill Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.0580</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23241600</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T16:54:50-06:00",
+  "created_at": "2025-01-23T16:54:49-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Holemaking",
+  "tags": [
+    "Chamfer Mills & Back Chamfers",
+    "Countersinks"
+  ],
+  "variants": [
+    {
+      "id": 46498887041191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "86807385",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452762501287,
+      "created_at": "2025-01-23T16:54:49-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38252410568871,
+      "created_at": "2025-02-04T03:16:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:16:51-06:00",
+      "product_id": 8452762501287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1387944-21_a82eddb6-20e3-4729-adcb-e0ab98d9c46d.jpg?v=1738660611",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1387944-21_a82eddb6-20e3-4729-adcb-e0ab98d9c46d.jpg?v=1738660611",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

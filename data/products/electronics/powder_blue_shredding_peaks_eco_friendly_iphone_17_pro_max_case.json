@@ -1,0 +1,96 @@
+{
+  "id": 8444682797144,
+  "title": "Powder Blue Shredding Peaks iPhone 17 Pro Max Case",
+  "handle": "powder-blue-shredding-peaks-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p class=\"p1\">For those who live for fresh powder and the thrill of carving down mountain slopes, the Shredding Peaks Phone Case is your perfect winter companion! Featuring a minimalist yet vibrant design of a snowboard set against towering peaks and endless pine forests, this case captures the rush of a perfect day on the slopes. Keep your phone protected while showing off your love for the backcountry—this case is as bold as your next adventure! ❄️🌲💨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:16:49-04:00",
+  "created_at": "2025-08-08T11:50:29-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Ski and Snowboard",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Shredding Peaks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184208838744,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:SHREDDING-PEAKS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444682797144,
+      "created_at": "2025-09-03T18:43:25-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184208871512,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:SHREDDING-PEAKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444682797144,
+      "created_at": "2025-09-03T18:43:25-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567252766808,
+      "created_at": "2025-08-08T11:50:30-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:32-04:00",
+      "product_id": 8444682797144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHREDDING-PEAKS_IP17PMAX_PowderBlue.jpg?v=1754668232",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHREDDING-PEAKS_IP17PMAX_PowderBlue.jpg?v=1754668232",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

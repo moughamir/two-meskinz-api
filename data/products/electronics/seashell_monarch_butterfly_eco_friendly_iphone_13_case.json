@@ -1,0 +1,86 @@
+{
+  "id": 6752301383768,
+  "title": "Seashell Monarch Butterfly iPhone 13 Case",
+  "handle": "seashell-monarch-butterfly-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Embrace the beauty of nature with the Monarch Butterfly Phone Case! Adorned with vibrant, detailed monarch butterflies fluttering amidst a garden of wildflowers, this case brings a touch of whimsy and elegance to your device. Perfect for nature lovers and anyone who appreciates the delicate charm of these majestic creatures, the Monarch Butterfly Phone Case not only protects your phone but also adds a delightful splash of color and grace. Transform your phone into a beautiful meadow where butterflies dance and flowers bloom, all while keeping it safe and stylish. 🌼📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T13:46:16-05:00",
+  "created_at": "2021-09-10T17:58:06-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Butterflies",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Monarch Butterfly",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39598587936856,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:MONARCH-BUTTERFLY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6752301383768,
+      "created_at": "2021-09-10T17:58:06-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116373225560,
+      "created_at": "2024-01-23T13:42:42-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:42:42-05:00",
+      "product_id": 6752301383768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MONARCH-BUTTERFLY_IP13_Seashell_7fb35587-cf6c-4d81-8734-a8571ddcf206.jpg?v=1706035362",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30259275268184,
+      "created_at": "2023-05-08T10:01:43-04:00",
+      "position": 2,
+      "updated_at": "2023-05-08T10:01:45-04:00",
+      "product_id": 6752301383768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A3776_f6abd504-c6b3-4ca8-89d6-d8325c1443ab.jpg?v=1683554505",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MONARCH-BUTTERFLY_IP13_Seashell_7fb35587-cf6c-4d81-8734-a8571ddcf206.jpg?v=1706035362",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

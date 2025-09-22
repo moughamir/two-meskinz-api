@@ -1,0 +1,119 @@
+{
+  "id": 8444610117720,
+  "title": "Seashell Garden Party Google Pixel 10/10 Pro Case",
+  "handle": "seashell-garden-party-eco-friendly-google-pixel-10-10-pro-case",
+  "body_html": "<p><span>The Garden Party Phone Case from Pela is an enchanting celebration of springtime festivity, featuring frolicking bunnies and blooming roses wrapped up in pretty bows. It’s perfect for anyone who delights in the playful side of nature and cherishes gatherings in the garden. <meta charset=\"utf-8\">📱🎉✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T11:16:45-04:00",
+  "created_at": "2025-08-08T11:02:50-04:00",
+  "updated_at": "2025-09-22T15:13:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Garden Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107912876120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15781-PX10-SEASHELL-AOD:GARDEN-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444610117720,
+      "created_at": "2025-08-08T11:02:50-04:00",
+      "updated_at": "2025-09-22T15:13:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567028731992,
+      "created_at": "2025-08-08T11:02:50-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:02:53-04:00",
+      "product_id": 8444610117720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDEN-PARTY_PX10_Seashell.jpg?v=1754665373",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35592107458648,
+      "created_at": "2024-04-04T13:00:02-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T13:00:03-04:00",
+      "product_id": 8444610117720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-7_0ac5cd99-ab0b-4c3e-b20f-e5ad89421b5b.jpg?v=1712250003",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32283254227032,
+      "created_at": "2024-03-07T14:11:54-05:00",
+      "position": 3,
+      "updated_at": "2024-03-07T14:11:56-05:00",
+      "product_id": 8444610117720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-6_74f40e51-c0f5-4e78-bc31-f6ef03cbaaed.jpg?v=1709838716",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677493268568,
+      "created_at": "2025-03-12T12:16:12-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T12:16:15-04:00",
+      "product_id": 8444610117720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-2_36a02721-b06d-42ea-a97f-28c190c309ea.jpg?v=1741796175",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677493203032,
+      "created_at": "2025-03-12T12:16:12-04:00",
+      "position": 5,
+      "updated_at": "2025-03-12T12:16:15-04:00",
+      "product_id": 8444610117720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-1_7d345494-06e3-48fd-baa0-2ecf5d8b852f.jpg?v=1741796175",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDEN-PARTY_PX10_Seashell.jpg?v=1754665373",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

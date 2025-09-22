@@ -1,0 +1,119 @@
+{
+  "id": 7555252387928,
+  "title": "Powder Blue Fluffy Flower iPhone 6/6s/7/8/SE Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:06:24-05:00",
+  "created_at": "2024-02-06T13:51:40-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035278057560,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32758-IP7-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555252387928,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170964811864,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:40-05:00",
+      "product_id": 7555252387928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP7_PowderBlue.jpg?v=1707245500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124999256,
+      "created_at": "2024-02-28T17:28:01-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:28:04-05:00",
+      "product_id": 7555252387928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_c98c816a-6c7e-467d-8e42-a89c24013353.jpg?v=1709159284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125032024,
+      "created_at": "2024-02-28T17:28:01-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:28:04-05:00",
+      "product_id": 7555252387928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_ba6f22f7-9c4c-439b-bc8d-4decca1fdb25.jpg?v=1709159284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124966488,
+      "created_at": "2024-02-28T17:28:01-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:28:02-05:00",
+      "product_id": 7555252387928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_27f24c28-0bd9-4ea6-a4ed-e0193423ec58.jpg?v=1709159282",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241125064792,
+      "created_at": "2024-02-28T17:28:01-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:28:03-05:00",
+      "product_id": 7555252387928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_deac70b0-7a2d-4fa8-8219-946a94389636.jpg?v=1709159283",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP7_PowderBlue.jpg?v=1707245500",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

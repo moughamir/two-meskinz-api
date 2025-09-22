@@ -1,0 +1,121 @@
+{
+  "id": 7555252650072,
+  "title": "Powder Blue Fluffy Flower iPhone 15 Plus Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:06:56-05:00",
+  "created_at": "2024-02-06T13:51:40-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035278352472,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17193-IP15PLUS-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555252650072,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170965074008,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:40-05:00",
+      "product_id": 7555252650072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP15PLUS_PowderBlue.jpg?v=1707245500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124507736,
+      "created_at": "2024-02-28T17:27:36-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:27:39-05:00",
+      "product_id": 7555252650072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_e4460a54-bc1d-4353-99a3-39c3fa8d273b.jpg?v=1709159259",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124442200,
+      "created_at": "2024-02-28T17:27:36-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:27:39-05:00",
+      "product_id": 7555252650072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_8cdd2850-3159-439c-9896-b05eb6c6f56e.jpg?v=1709159259",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124474968,
+      "created_at": "2024-02-28T17:27:36-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:27:38-05:00",
+      "product_id": 7555252650072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_05abf8ec-b789-4b67-b141-9f6c690e108b.jpg?v=1709159258",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241124540504,
+      "created_at": "2024-02-28T17:27:36-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:27:38-05:00",
+      "product_id": 7555252650072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_1b79759b-437b-4f60-b40c-9d040ddb2b5a.jpg?v=1709159258",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP15PLUS_PowderBlue.jpg?v=1707245500",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786028892327,
+  "title": "Brand: PIC Gauges / Part #: PRO301D204G-01",
+  "handle": "ft8532975",
+  "body_html": "<br><strong>Item #: </strong>74792649<br><strong>Brand: </strong>PIC Gauges<br><strong>Model #: </strong>PRO301D204G-01<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Gauge Type</strong>\n</td>\n<td>Industrial Pressure Gauges</td>\n</tr>\n<tr>\n<td><strong>Scale Type</strong></td>\n<td>Dual</td>\n</tr>\n<tr>\n<td><strong>Accuracy (%)</strong></td>\n<td>3-2-3%</td>\n</tr>\n<tr>\n<td><strong>Dial Type</strong></td>\n<td>Analog</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>1/4\" MNPT</td>\n</tr>\n<tr>\n<td><strong>Bourdon Tube Material</strong></td>\n<td>316 Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Type of Liquid Filler</strong></td>\n<td>No-Fill</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Lower</td>\n</tr>\n<tr>\n<td><strong>Wetted Parts Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Dial Diameter (Decimal Inch)</strong></td>\n<td>2.0000</td>\n</tr>\n<tr>\n<td><strong>Minimum Pressure (psi)</strong></td>\n<td>0.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Pressure (Psi - 2 Decimals)</strong></td>\n<td>200.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Hg</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Maximum Hg</strong></td>\n<td>200</td>\n</tr>\n<tr>\n<td><strong>Liquid Filled</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Case Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Lens Material</strong></td>\n<td>Polycarbonate</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>1/4 in NPT</td>\n</tr>\n<tr>\n<td><strong>Minimum Working Temperature (Deg F)</strong></td>\n<td>-30</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temperature (F)</strong></td>\n<td>180.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Working Temperature (Deg C)</strong></td>\n<td>-34</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temprature (Deg C)</strong></td>\n<td>82</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:03:43-06:00",
+  "created_at": "2023-12-29T08:03:43-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "PIC Gauges",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Pressure & Temperature Measuring Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43706586235047,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "74792649",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "60.29",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786028892327,
+      "created_at": "2023-12-29T08:03:43-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237719593127,
+      "created_at": "2025-02-03T18:22:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:22:55-06:00",
+      "product_id": 7786028892327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7479264-21.jpg?v=1738628575",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 60.29,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7479264-21.jpg?v=1738628575",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PIC Gauges",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

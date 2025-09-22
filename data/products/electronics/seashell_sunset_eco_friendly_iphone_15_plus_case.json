@@ -1,0 +1,109 @@
+{
+  "id": 8412246835288,
+  "title": "Seashell Sunset iPhone 15 Plus Case",
+  "handle": "seashell-sunset-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p data-start=\"0\" data-end=\"126\">Say hello to golden hour, on repeat 🌞💗 — the Sunset Phone Case from the Pela x Katie Waiyu Artist Series Collection.</p>\n<p data-start=\"128\" data-end=\"352\">With soft pastel skies, a glowing sun, and a peaceful rolling hill, this dreamy design captures that perfect moment just before the stars come out. It’s calm, cozy, and totally nostalgic—like a watercolor hug for your phone.</p>\n<p data-start=\"354\" data-end=\"464\" data-is-last-node=\"\" data-is-only-node=\"\">Whether you're a sunset chaser or just vibing with the calm, this case brings the chill wherever you go.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-31T09:22:59-04:00",
+  "created_at": "2025-06-24T12:48:33-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Sunset",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43010269642840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17191-IP15PLUS-SEASHELL-AOD:SUNSET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8412246835288,
+      "created_at": "2025-06-24T12:48:33-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35288235540568,
+      "created_at": "2025-06-24T12:48:33-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T12:48:35-04:00",
+      "product_id": 8412246835288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP15PLUS_Seashell.jpg?v=1750783715",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506892865624,
+      "created_at": "2025-07-30T12:18:04-04:00",
+      "position": 2,
+      "updated_at": "2025-07-30T12:18:04-04:00",
+      "product_id": 8412246835288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f8599c1bfbd8c6bce42794356e079c0e_1276a838-049a-4f85-a604-77205d24a137.jpg?v=1753892284",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506893127768,
+      "created_at": "2025-07-30T12:18:05-04:00",
+      "position": 3,
+      "updated_at": "2025-07-30T12:18:05-04:00",
+      "product_id": 8412246835288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d954948745f3ab9aa360c5bc81880de_6bcb69e6-9b30-4272-9dc4-d83f8ebded9c.jpg?v=1753892285",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506893357144,
+      "created_at": "2025-07-30T12:18:07-04:00",
+      "position": 4,
+      "updated_at": "2025-07-30T12:18:07-04:00",
+      "product_id": 8412246835288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd19231a2c886c223c75ce5004beaf58_e32392b9-4755-43c6-9a0a-14f473c6ed81.jpg?v=1753892287",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP15PLUS_Seashell.jpg?v=1750783715",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

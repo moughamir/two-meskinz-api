@@ -1,0 +1,116 @@
+{
+  "id": 7589361549421,
+  "title": "Bali",
+  "handle": "bali",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Sweet orange and golden <strong>saffron</strong> swirl with the exotic allure of <strong>champaca</strong> blossoms as a smoky blend of <strong>patchouli</strong> and incense evoke the mystical energy of Bali’s sun-kissed shores.</p>",
+  "published_at": "2025-02-05T09:18:43-07:00",
+  "created_at": "2025-01-07T15:32:28-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Brooklyn Candle Studio",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Brooklyn Candle Studio",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41988015226989,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ALIH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7589361549421,
+      "created_at": "2025-01-07T15:32:29-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33538393014381,
+      "created_at": "2025-01-07T15:41:58-07:00",
+      "position": 1,
+      "updated_at": "2025-01-07T15:57:01-07:00",
+      "product_id": 7589361549421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Bali-Prod1-1124.jpg?v=1736290621",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33538393079917,
+      "created_at": "2025-01-07T15:41:58-07:00",
+      "position": 2,
+      "updated_at": "2025-01-07T15:57:01-07:00",
+      "product_id": 7589361549421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-Saffron-resized1124.jpg?v=1736290621",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 33538393178221,
+      "created_at": "2025-01-07T15:41:58-07:00",
+      "position": 3,
+      "updated_at": "2025-01-07T15:57:01-07:00",
+      "product_id": 7589361549421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Bali-BrooklynCandleStudio-Prod3-1124.png?v=1736290621",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33538393047149,
+      "created_at": "2025-01-07T15:41:58-07:00",
+      "position": 4,
+      "updated_at": "2025-01-07T15:57:01-07:00",
+      "product_id": 7589361549421,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Bali-Prod4-1124-2.jpg?v=1736290621",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-Bali-Prod1-1124.jpg?v=1736290621",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brooklyn Candle Studio",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

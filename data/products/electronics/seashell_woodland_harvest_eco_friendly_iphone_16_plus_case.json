@@ -1,0 +1,110 @@
+{
+  "id": 8127740444760,
+  "title": "Seashell Woodland Harvest iPhone 16 Plus Case",
+  "handle": "seashell-woodland-harvest-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Woodland Harvest Phone Case! 🍁 This charming design brings the beauty of the forest right to your fingertips, featuring playful acorns, colorful autumn leaves, and delightful mushrooms scattered across a soft, neutral background. Whether you’re an adventurer at heart or simply love the fall aesthetic, this case is the perfect accessory to complement your seasonal style. 🍂🌿 Get ready to carry a little bit of nature with you, wherever you go! 🌰</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:17:10-04:00",
+  "created_at": "2024-09-13T10:29:28-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Woodland Harvest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346053208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:WOODLAND-HARVEST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740444760,
+      "created_at": "2024-09-13T10:29:28-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318384728,
+      "created_at": "2024-09-13T10:29:28-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:28-04:00",
+      "product_id": 8127740444760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP16PLUS_Seashell.jpg?v=1726237768",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685698183256,
+      "created_at": "2024-09-26T17:31:45-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:31:47-04:00",
+      "product_id": 8127740444760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_02_214736f5-e3d3-4f7c-96b7-75e67d386dc4.jpg?v=1727386307",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678508359768,
+      "created_at": "2024-09-25T15:13:37-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:13:39-04:00",
+      "product_id": 8127740444760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_68f5a7c1-da23-4961-aa57-ee4098d6e5b2.jpg?v=1727291619",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685698216024,
+      "created_at": "2024-09-26T17:31:44-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:31:47-04:00",
+      "product_id": 8127740444760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_2cc6f9b0-3b61-436a-8527-74f4ff253ca0.jpg?v=1727386307",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP16PLUS_Seashell.jpg?v=1726237768",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

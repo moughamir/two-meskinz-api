@@ -1,0 +1,110 @@
+{
+  "id": 7590380339309,
+  "title": "Sun Kissed",
+  "handle": "sun-kissed-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Revive your drive as bright citrus notes of <strong>bergamot</strong> and <strong>mandarin</strong> swirl with fresh florals of <strong>peony</strong>, <strong>ylang ylang,</strong> and <strong>jasmine</strong>.<br></p>",
+  "published_at": "2025-02-05T09:20:07-07:00",
+  "created_at": "2025-01-09T14:10:15-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Soap & Paper Factory",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Soap & Paper Factory",
+    "collection:Car",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 41994121576557,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KSDC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7590380339309,
+      "created_at": "2025-01-09T14:10:16-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33546303438957,
+      "created_at": "2025-01-09T15:05:59-07:00",
+      "position": 1,
+      "updated_at": "2025-01-09T15:06:08-07:00",
+      "product_id": 7590380339309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoapAndPaperFactory-Sunkissed-Prod1-1224.jpg?v=1736460368",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33546108403821,
+      "created_at": "2025-01-09T14:17:47-07:00",
+      "position": 2,
+      "updated_at": "2025-01-09T15:06:08-07:00",
+      "product_id": 7590380339309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/peonies-19-resized_6c352c96-11ec-4d49-85d7-85e34850b9c6.jpg?v=1736460368",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33546106765421,
+      "created_at": "2025-01-09T14:17:14-07:00",
+      "position": 3,
+      "updated_at": "2025-01-09T15:06:08-07:00",
+      "product_id": 7590380339309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SunKissed-SoapandPaperFactory-Car-Prod3-09-24.png?v=1736460368",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 33546106798189,
+      "created_at": "2025-01-09T14:17:14-07:00",
+      "position": 4,
+      "updated_at": "2025-01-09T15:06:08-07:00",
+      "product_id": 7590380339309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoapandPaperFactorySunkissed-Car-Retail-Image4.png?v=1736460368",
+      "width": 3000,
+      "height": 3000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SoapAndPaperFactory-Sunkissed-Prod1-1224.jpg?v=1736460368",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Soap & Paper Factory",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

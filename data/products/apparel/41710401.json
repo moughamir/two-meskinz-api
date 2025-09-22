@@ -1,0 +1,67 @@
+{
+  "id": 8452625596583,
+  "title": "Flap Disc:  5\" Dia, 7/8\" Hole, 50 Grit, Ceramic Alumina, Type 27",
+  "handle": "41710401",
+  "body_html": "<br><strong>Item #: </strong>43168236<br><strong>Brand: </strong>ARC Abrasives<br><strong>Model #: </strong>71-108440FF<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Disc Diameter</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>Center Hole Size</strong>\n</td>\n<td>7/8</td>\n</tr>\n<tr> <td> <strong>Flap Disc Type</strong>\n</td>\n<td>Type 27</td>\n</tr>\n<tr> <td> <strong>Grit</strong>\n</td>\n<td>50</td>\n</tr>\n<tr> <td> <strong>Abrasive Material</strong>\n</td>\n<td>Ceramic Alumina</td>\n</tr>\n<tr> <td> <strong>Attachment Type</strong>\n</td>\n<td>Arbor Hole</td>\n</tr>\n<tr> <td> <strong>Grade</strong>\n</td>\n<td>Coarse</td>\n</tr>\n<tr> <td> <strong>Abrasive Type</strong>\n</td>\n<td>Coated</td>\n</tr>\n<tr> <td> <strong>Backing Material</strong>\n</td>\n<td>Cloth</td>\n</tr>\n<tr> <td> <strong>Disc Color</strong>\n</td>\n<td>Yellow</td>\n</tr>\n<tr> <td> <strong>Maximum Rpm</strong>\n</td>\n<td>12150.000</td>\n</tr>\n<tr> <td> <strong>Abrasive Material Thickness (Inch)</strong>\n</td>\n<td>1/2</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>PREDATOR</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31191506</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T12:17:41-06:00",
+  "created_at": "2025-01-23T12:17:40-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "ARC Abrasives",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 46498306490535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43168236",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.26",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452625596583,
+      "created_at": "2025-01-23T12:17:40-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38246310576295,
+      "created_at": "2025-02-03T23:37:20-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:37:21-06:00",
+      "product_id": 8452625596583,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4350432-21_19163bc3-83c9-4773-b344-0586a597f340.jpg?v=1738647441",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4350432-21_19163bc3-83c9-4773-b344-0586a597f340.jpg?v=1738647441",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ARC Abrasives",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

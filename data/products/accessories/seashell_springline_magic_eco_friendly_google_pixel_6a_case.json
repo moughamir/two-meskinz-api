@@ -1,0 +1,108 @@
+{
+  "id": 8320085590104,
+  "title": "Seashell Springline Magic Google Pixel 6a Case",
+  "handle": "seashell-springline-magic-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into a woodland daydream with the <em data-start=\"81\" data-end=\"99\">Springline Magic</em> Phone Case! Bursting with colorful sketch-style critters—from ducks and raccoons to frogs, butterflies, and a very curious lamb—this case captures the pure joy of springtime in full bloom. Every inch is sprinkled with storybook charm and meadow magic, perfect for nature lovers and whimsical souls alike.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:21:26-04:00",
+  "created_at": "2025-03-20T10:50:54-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Springline Magic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756164681816,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:SPRINGLINE-MAGIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320085590104,
+      "created_at": "2025-03-20T10:50:54-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722022391896,
+      "created_at": "2025-03-20T10:50:54-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:56-04:00",
+      "product_id": 8320085590104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPRINGLINE-MAGIC_PX6A_Seashell.jpg?v=1742482256",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814173511768,
+      "created_at": "2025-04-10T10:28:03-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:28:07-04:00",
+      "product_id": 8320085590104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_215042be-e3ee-4810-97cb-f50a2c9f093b.jpg?v=1744295287",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814173446232,
+      "created_at": "2025-04-10T10:28:03-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:28:07-04:00",
+      "product_id": 8320085590104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_df2cfc0c-c1b6-4688-b75c-41718f087fa2.jpg?v=1744295287",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814173479000,
+      "created_at": "2025-04-10T10:28:03-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:28:07-04:00",
+      "product_id": 8320085590104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_064814de-8b5d-43ea-a9be-8bf99d5b2510.jpg?v=1744295287",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPRINGLINE-MAGIC_PX6A_Seashell.jpg?v=1742482256",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

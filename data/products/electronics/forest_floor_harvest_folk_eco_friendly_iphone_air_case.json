@@ -1,0 +1,140 @@
+{
+  "id": 8470414524504,
+  "title": "Forest Floor Harvest Folk iPhone Air Case",
+  "handle": "forest-floor-harvest-folk-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into the countryside without leaving your phone behind. The Harvest Folk Case is a cozy patchwork of fall favorites—plump pumpkins, shiny apples, rustic figs, acorns, and barnyard pals all set against a warm gingham backdrop. It’s like a trip to the farmer’s market wrapped around your phone—fresh, festive, and oh-so-charming. Perfect for anyone who loves sweater weather, pumpkin spice, and a little farmhouse flair.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-18T09:15:40-04:00",
+  "created_at": "2025-09-11T11:58:09-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Harvest Folk",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43202917793880,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17542-IP17AIR-FOREST-AOD:HARVEST-FOLK_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8470414524504,
+      "created_at": "2025-09-11T11:58:09-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43202918121560,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17542-IP17AIR-FOREST-AOD:HARVEST-FOLK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8470414524504,
+      "created_at": "2025-09-11T11:58:10-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35824751706200,
+      "created_at": "2025-09-11T11:58:09-04:00",
+      "position": 1,
+      "updated_at": "2025-09-11T11:58:12-04:00",
+      "product_id": 8470414524504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HARVEST-FOLK_IP17AIR_ForestFloor.jpg?v=1757606292",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35878890340440,
+      "created_at": "2025-09-16T13:46:21-04:00",
+      "position": 2,
+      "updated_at": "2025-09-16T13:46:21-04:00",
+      "product_id": 8470414524504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/270eb1e84099ede91de47ed3d8e2b395_b16f2ef8-d74b-491b-b318-b09301c3a2fe.jpg?v=1758044781",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878890602584,
+      "created_at": "2025-09-16T13:46:23-04:00",
+      "position": 3,
+      "updated_at": "2025-09-16T13:46:23-04:00",
+      "product_id": 8470414524504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/e5cc5b69e2fd4498b8e4414cef3b5c76_460a5a8d-4c3a-435a-a686-140a4604c699.jpg?v=1758044783",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878890766424,
+      "created_at": "2025-09-16T13:46:25-04:00",
+      "position": 4,
+      "updated_at": "2025-09-16T13:46:25-04:00",
+      "product_id": 8470414524504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7c760d5754f953255d5abd8f349cef04_d680970c-8bdc-4338-9279-463f4f284124.jpg?v=1758044785",
+      "width": 1365,
+      "height": 1365
+    },
+    {
+      "id": 35878890831960,
+      "created_at": "2025-09-16T13:46:26-04:00",
+      "position": 5,
+      "updated_at": "2025-09-16T13:46:26-04:00",
+      "product_id": 8470414524504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/91f1d46fcc2a08862f1a9626796d3d36_cd25c9f1-b014-4c2d-b05b-53c931d006cd.jpg?v=1758044786",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HARVEST-FOLK_IP17AIR_ForestFloor.jpg?v=1757606292",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

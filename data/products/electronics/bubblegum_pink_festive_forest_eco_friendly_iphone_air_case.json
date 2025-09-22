@@ -1,0 +1,140 @@
+{
+  "id": 8444681879640,
+  "title": "Bubblegum Pink Festive Forest iPhone Air Case",
+  "handle": "bubblegum-pink-festive-forest-eco-friendly-iphone-air-case",
+  "body_html": "<p class=\"p1\">Get into the holiday spirit with the Pela Festive Forest Phone Case! 🎄✨ Featuring a cheerful red woodland design on a rosy background, this case is a perfect blend of nature and festive fun. With delicate illustrations of pinecones, holly, and wintery foliage, it brings cozy holiday vibes to your phone while offering earth-friendly protection. Lightweight, durable, and made from plants, it’s the ideal seasonal accessory for nature lovers and holiday enthusiasts alike!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:04:47-04:00",
+  "created_at": "2025-08-08T11:50:25-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Festive Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184105685080,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:FESTIVE-FOREST_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444681879640,
+      "created_at": "2025-09-03T18:26:36-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184105717848,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:FESTIVE-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444681879640,
+      "created_at": "2025-09-03T18:26:36-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567250473048,
+      "created_at": "2025-08-08T11:50:25-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:27-04:00",
+      "product_id": 8444681879640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FOREST_IP17AIR_BubblegumPink.jpg?v=1754668227",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677790179416,
+      "created_at": "2025-03-12T13:08:24-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T13:08:25-04:00",
+      "product_id": 8444681879640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP1_8ac95871-4282-46be-ba4d-0fd8124c09db.jpg?v=1741799305",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677790244952,
+      "created_at": "2025-03-12T13:08:24-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T13:08:26-04:00",
+      "product_id": 8444681879640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP3_1893f2f3-c3ad-4772-9ccd-560b63dde7c8.jpg?v=1741799306",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838822031448,
+      "created_at": "2024-10-22T12:03:52-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T12:03:54-04:00",
+      "product_id": 8444681879640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP4_043787d8-c040-42c6-9b6f-82dd55ceab1a.jpg?v=1729613034",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838822064216,
+      "created_at": "2024-10-22T12:03:52-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T12:03:54-04:00",
+      "product_id": 8444681879640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP2_4b337528-f3de-43e5-a994-eeeb57a5886e.jpg?v=1729613034",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FOREST_IP17AIR_BubblegumPink.jpg?v=1754668227",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

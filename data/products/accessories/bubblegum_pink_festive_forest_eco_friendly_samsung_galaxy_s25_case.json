@@ -1,0 +1,97 @@
+{
+  "id": 8253213376600,
+  "title": "Bubblegum Pink Festive Forest Samsung Galaxy S25 Case",
+  "handle": "bubblegum-pink-festive-forest-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p class=\"p1\">Get into the holiday spirit with the Pela Festive Forest Phone Case! 🎄✨ Featuring a cheerful red woodland design on a rosy background, this case is a perfect blend of nature and festive fun. With delicate illustrations of pinecones, holly, and wintery foliage, it brings cozy holiday vibes to your phone while offering earth-friendly protection. Lightweight, durable, and made from plants, it’s the ideal seasonal accessory for nature lovers and holiday enthusiasts alike!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:54:00-05:00",
+  "created_at": "2025-01-13T18:03:47-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Festive Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42561337950296,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13903-S25-BUBPINK-AOD:FESTIVE-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8253213376600,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34293960376408,
+      "created_at": "2025-01-13T18:03:47-05:00",
+      "position": 1,
+      "updated_at": "2025-01-13T18:03:49-05:00",
+      "product_id": 8253213376600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FOREST_S25_BubblegumPink.jpg?v=1736809429",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677787492440,
+      "created_at": "2025-03-12T13:08:01-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T13:08:03-04:00",
+      "product_id": 8253213376600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP1_32f5472c-34ca-4327-b0e4-81677e627601.jpg?v=1741799283",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677787525208,
+      "created_at": "2025-03-12T13:08:01-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T13:08:03-04:00",
+      "product_id": 8253213376600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVEFOREST_PDP3_fb5e39fd-0e57-4282-87c7-7f6cc67926e8.jpg?v=1741799283",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FOREST_S25_BubblegumPink.jpg?v=1736809429",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

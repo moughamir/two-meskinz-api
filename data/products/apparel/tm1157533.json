@@ -1,0 +1,67 @@
+{
+  "id": 7786407297191,
+  "title": "Brand: Unger / Part #: AL14T",
+  "handle": "tm1157533",
+  "body_html": "<br><strong>Item #: </strong>64129786<br><strong>Brand: </strong>Unger<br><strong>Model #: </strong>AL14T<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Tapered</td>\n</tr>\n<tr>\n<td><strong>Handle Length (Decimal Inch)</strong></td>\n<td>61</td>\n</tr>\n<tr>\n<td><strong>Handle Diameter (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Handle Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Telescoping</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Silver</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Acme Sockets; Aquadozer Squeegee</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T23:05:13-06:00",
+  "created_at": "2023-12-29T23:05:13-06:00",
+  "updated_at": "2025-09-22T10:53:25-05:00",
+  "vendor": "Unger",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Brooms; Mops; Squeegees & Buckets"
+  ],
+  "variants": [
+    {
+      "id": 43707739275431,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "64129786",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "33.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786407297191,
+      "created_at": "2023-12-29T23:05:14-06:00",
+      "updated_at": "2025-09-22T10:53:25-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238562091175,
+      "created_at": "2025-02-03T18:54:37-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:54:38-06:00",
+      "product_id": 7786407297191,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6412978-21.jpg?v=1738630478",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 33.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6412978-21.jpg?v=1738630478",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Unger",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

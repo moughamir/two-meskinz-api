@@ -1,0 +1,68 @@
+{
+  "id": 5322475077799,
+  "title": "Indexable Drill Inserts; Insert Style: DFPR; Insert Material: Carbide; Manufacturer Grade: KCU25; Thickness (mm): 2.4",
+  "handle": "lk70d110004",
+  "body_html": "<br><strong>Item #: </strong>02341170<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>7034337<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Insert Style</strong>\n</td>\n<td>DFPR</td>\n</tr>\n<tr> <td> <strong>Insert Material</strong>\n</td>\n<td>Carbide</td>\n</tr>\n<tr> <td> <strong>Manufacturer Grade</strong>\n</td>\n<td>KCU25</td>\n</tr>\n<tr> <td> <strong>Thickness (mm)</strong>\n</td>\n<td>2.4</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (Decimal Inch)</strong>\n</td>\n<td>0.2070</td>\n</tr>\n<tr> <td> <strong>Inscribed Circle (mm)</strong>\n</td>\n<td>5.25</td>\n</tr>\n<tr> <td> <strong>Corner Radius (Decimal Inch)</strong>\n</td>\n<td>0.0160</td>\n</tr>\n<tr> <td> <strong>Corner Radius (mm)</strong>\n</td>\n<td>0.4</td>\n</tr>\n<tr> <td> <strong>Chipbreaker</strong>\n</td>\n<td>PK</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>Drill Fix</td>\n</tr>\n<tr> <td> <strong>Shape</strong>\n</td>\n<td>Proprietary</td>\n</tr>\n<tr> <td> <strong>Relief Angle</strong>\n</td>\n<td>11</td>\n</tr>\n<tr> <td> <strong>Ansi Code</strong>\n</td>\n<td>DFPR050204PKO</td>\n</tr>\n<tr> <td> <strong>Iso Code</strong>\n</td>\n<td>DFPR050204PKO</td>\n</tr>\n<tr> <td> <strong>Compatible Drill Style</strong>\n</td>\n<td>DFPR</td>\n</tr>\n<tr> <td> <strong>Insert Size</strong>\n</td>\n<td>05</td>\n</tr>\n<tr> <td> <strong>Width (mm - 2 Decimals)</strong>\n</td>\n<td>5.25</td>\n</tr>\n<tr> <td> <strong>Length (Mm)</strong>\n</td>\n<td>5.25</td>\n</tr>\n<tr> <td> <strong>Width (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.207</td>\n</tr>\n<tr> <td> <strong>Length (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.207</td>\n</tr>\n<tr> <td> <strong>Included Angle Degree</strong>\n</td>\n<td>11</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>MT-TiCN</td>\n</tr>\n<tr> <td> <strong>Insert Size Code</strong>\n</td>\n<td>05</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23242105</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:30:57-06:00",
+  "created_at": "2020-06-12T15:13:14-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts",
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 34696352530599,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02341170",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.83",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322475077799,
+      "created_at": "2020-06-12T15:13:14-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241235632295,
+      "created_at": "2025-02-03T20:51:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:51:11-06:00",
+      "product_id": 5322475077799,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0282130-21_00c403ec-42a3-4740-a5ec-dc9050e402f4.jpg?v=1738637471",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.83,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0282130-21_00c403ec-42a3-4740-a5ec-dc9050e402f4.jpg?v=1738637471",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

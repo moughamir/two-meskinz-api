@@ -1,0 +1,67 @@
+{
+  "id": 7786456219815,
+  "title": "Brand: Made in USA / Part #: RUM200-E-YB",
+  "handle": "mt7106230",
+  "body_html": "<br><strong>Item #: </strong>36945822<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>RUM200-E-YB<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Label Message Type</strong>\n</td>\n<td>Number &amp; Letter</td>\n</tr>\n<tr>\n<td><strong>Message Type</strong></td>\n<td>Letter</td>\n</tr>\n<tr>\n<td><strong>Legend</strong></td>\n<td>E</td>\n</tr>\n<tr>\n<td><strong>Language</strong></td>\n<td>English</td>\n</tr>\n<tr>\n<td><strong>Graphic</strong></td>\n<td>Message Only</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Plastic</td>\n</tr>\n<tr>\n<td><strong>Material Type</strong></td>\n<td>Plastic</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:31:04-06:00",
+  "created_at": "2023-12-30T02:31:04-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Safety",
+  "tags": [
+    "Signs; Identification & Lockout/Tagout"
+  ],
+  "variants": [
+    {
+      "id": 43708108439719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "36945822",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.47",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786456219815,
+      "created_at": "2023-12-30T02:31:04-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238743658663,
+      "created_at": "2025-02-03T19:02:41-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:02:43-06:00",
+      "product_id": 7786456219815,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3694578-11_f93139c1-c3da-4504-b2fe-2a0b4030d9b8.jpg?v=1738630963",
+      "width": 600,
+      "height": 446
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.47,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3694578-11_f93139c1-c3da-4504-b2fe-2a0b4030d9b8.jpg?v=1738630963",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786413457575,
+  "title": "Brand: USA Sealing / Part #: ZUSA-XPE-83",
+  "handle": "tm1052297",
+  "body_html": "<br><strong>Item #: </strong>95878112<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>ZUSA-XPE-83<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cell Type</strong>\n</td>\n<td>Closed</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyethylene</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Firmness</strong></td>\n<td>Firm (14+ psi)</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Rectangle</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Non-Adhesive</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Firm</td>\n</tr>\n<tr>\n<td><strong>Texture</strong></td>\n<td>Smooth</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>-40.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>225.000</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>85.00</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>FMVSS302</td>\n</tr>\n<tr>\n<td><strong>Density (Lb./Cu. Ft.)</strong></td>\n<td>4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T23:32:31-06:00",
+  "created_at": "2023-12-29T23:32:31-06:00",
+  "updated_at": "2025-09-22T10:53:23-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Rubber & Foam"
+  ],
+  "variants": [
+    {
+      "id": 43707753627815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95878112",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "33.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786413457575,
+      "created_at": "2023-12-29T23:32:31-06:00",
+      "updated_at": "2025-09-22T10:53:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238584963239,
+      "created_at": "2025-02-03T18:55:34-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:55:35-06:00",
+      "product_id": 7786413457575,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9526263-21_a4e56032-0466-4283-bcc0-e1fd5b06b059.jpg?v=1738630535",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 33.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9526263-21_a4e56032-0466-4283-bcc0-e1fd5b06b059.jpg?v=1738630535",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

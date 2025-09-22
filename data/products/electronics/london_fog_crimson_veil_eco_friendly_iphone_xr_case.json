@@ -1,0 +1,86 @@
+{
+  "id": 8267596595288,
+  "title": "London Fog Crimson Veil iPhone XR Case",
+  "handle": "london-fog-crimson-veil-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Elegance meets a touch of mystery with the <strong>Crimson Veil Phone Case</strong>. Featuring an intricate floral lace pattern in deep crimson, this design is all about romance, drama, and vintage charm. Whether you're feeling bold or just love a little extra flair, this case makes every text and call feel like a love letter. 🌹📱<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-20T09:21:10-05:00",
+  "created_at": "2025-01-27T13:58:37-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Noir Romance",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Crimson Veil",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42597364727896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:CRIMSON-VEIL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8267596595288,
+      "created_at": "2025-01-27T13:58:37-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34373306253400,
+      "created_at": "2025-01-27T13:58:37-05:00",
+      "position": 1,
+      "updated_at": "2025-01-27T13:58:39-05:00",
+      "product_id": 8267596595288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-VEIL_IPXR_LondonFog.jpg?v=1738004319",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34537507651672,
+      "created_at": "2025-02-18T15:17:32-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T15:17:33-05:00",
+      "product_id": 8267596595288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSONVEIL_PDP1_95a8a25d-7501-41b7-a9ce-59bb92bcc9fd.jpg?v=1739909853",
+      "width": 4466,
+      "height": 4466
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-VEIL_IPXR_LondonFog.jpg?v=1738004319",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

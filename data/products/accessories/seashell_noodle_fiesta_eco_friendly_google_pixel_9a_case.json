@@ -1,0 +1,97 @@
+{
+  "id": 8311943790680,
+  "title": "Seashell Noodle Fiesta Google Pixel 9a Case",
+  "handle": "seashell-noodle-fiesta-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to celebrate your love for carbs with the Noodle Fiesta Phone Case! Featuring a vibrant array of pasta shapes—bowties, macaroni, rigatoni, and more—this design is a feast of fun and flavor. Perfect for foodies and pasta enthusiasts alike, it’s a case that brings the joy of your favorite noodles to your everyday style. <meta charset=\"utf-8\">🍝🎉</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T08:44:40-04:00",
+  "created_at": "2025-03-12T19:09:47-04:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Noodle Fiesta",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42732321275992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:NOODLE-FIESTA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8311943790680,
+      "created_at": "2025-03-12T19:09:48-04:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34679135862872,
+      "created_at": "2025-03-12T19:09:48-04:00",
+      "position": 1,
+      "updated_at": "2025-03-12T19:09:50-04:00",
+      "product_id": 8311943790680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_PX9A_Seashell.jpg?v=1741820990",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683396554840,
+      "created_at": "2025-03-13T09:19:59-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T09:20:01-04:00",
+      "product_id": 8311943790680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP1_1e9df5b5-9528-4235-bfa8-8be0eb24ff07.jpg?v=1741872001",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34683396653144,
+      "created_at": "2025-03-13T09:20:00-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T09:20:01-04:00",
+      "product_id": 8311943790680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP2_130bc7bc-f01e-49e5-be32-bf9df19c6ef8.jpg?v=1741872001",
+      "width": 3218,
+      "height": 3218
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_PX9A_Seashell.jpg?v=1741820990",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

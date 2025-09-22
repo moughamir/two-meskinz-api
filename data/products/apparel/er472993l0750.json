@@ -1,0 +1,67 @@
+{
+  "id": 7785827434663,
+  "title": "Brand: Made in USA / Part #: 14030M",
+  "handle": "er472993l0750",
+  "body_html": "<br><strong>Item #: </strong>06903819<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>14030M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Eye Bolt Type</strong>\n</td>\n<td>Fixed</td>\n</tr>\n<tr>\n<td><strong>Shoulder Type</strong></td>\n<td>With Shoulder</td>\n</tr>\n<tr>\n<td><strong>Lifting Capacity (Lb.)</strong></td>\n<td>14.08</td>\n</tr>\n<tr>\n<td><strong>Eye Inside Diameter (mm)</strong></td>\n<td>55.00</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>M30 x 3.50</td>\n</tr>\n<tr>\n<td><strong>Full or Partial Threading</strong></td>\n<td>Fully Threaded</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>60.00</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>191.40</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>60.00</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>1030</td>\n</tr>\n<tr>\n<td><strong>System Of Measurement</strong></td>\n<td>Metric</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:44:03-06:00",
+  "created_at": "2023-12-29T03:44:03-06:00",
+  "updated_at": "2025-09-22T10:54:35-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Fasteners",
+  "tags": [
+    "Bolts; Screws & Cap Screws"
+  ],
+  "variants": [
+    {
+      "id": 43705605226663,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "06903819",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "72.86",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785827434663,
+      "created_at": "2023-12-29T03:44:03-06:00",
+      "updated_at": "2025-09-22T10:54:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237368156327,
+      "created_at": "2025-02-03T18:13:35-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:13:36-06:00",
+      "product_id": 7785827434663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0809901-11_36d360df-f83c-4895-b3a6-c508c57a2370.jpg?v=1738628016",
+      "width": 311,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 72.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0809901-11_36d360df-f83c-4895-b3a6-c508c57a2370.jpg?v=1738628016",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

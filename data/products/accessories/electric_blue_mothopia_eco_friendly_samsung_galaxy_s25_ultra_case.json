@@ -1,0 +1,75 @@
+{
+  "id": 8254838702168,
+  "title": "Electric Blue Mothopia Samsung Galaxy S25 Ultra Case",
+  "handle": "electric-blue-mothopia-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p class=\"p1\">Step into a world of color with the Pela Mothopia Phone Case! 🦋✨ Featuring a whimsical array of vibrant moths fluttering across a bold blue background, this case is a showstopper. Crafted from plants and designed for those who love to stand out, it offers durable protection while adding a splash of fun to your everyday style. Lightweight, earth-conscious, and bursting with personality, this case is perfect for anyone ready to brighten their day—moth lovers included! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:00:47-05:00",
+  "created_at": "2025-01-15T10:06:40-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Tiny Wanderers",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mothopia",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567578058840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13969-S25ULTRA-ELEBLUE-AOD:MOTHOPIA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254838702168,
+      "created_at": "2025-01-15T10:06:40-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303022366808,
+      "created_at": "2025-01-15T10:06:40-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:06:42-05:00",
+      "product_id": 8254838702168,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTHOPIA_S25ULTRA_ElectricBlue.jpg?v=1736953602",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTHOPIA_S25ULTRA_ElectricBlue.jpg?v=1736953602",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8452494065831,
+  "title": "Steel Tool Roller Cabinet: 50\" Wide, 41\" High, 25-1/4\" Deep, 9 Drawer",
+  "handle": "10-005-935",
+  "body_html": "<br><strong>Item #: </strong>00313528<br><strong>Brand: </strong>Proto<br><strong>Model #: </strong>J555041B-9RD<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Drawers Range</strong>\n</td>\n<td>5 to 10 Drawers</td>\n</tr>\n<tr> <td> <strong>Overall Weight Capacity</strong>\n</td>\n<td>900 lb</td>\n</tr>\n<tr> <td> <strong>Top Material</strong>\n</td>\n<td>Vinyl</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Gloss Red</td>\n</tr>\n<tr> <td> <strong>Locking Mechanism</strong>\n</td>\n<td>Keyed</td>\n</tr>\n<tr> <td> <strong>Drawer Capacity</strong>\n</td>\n<td>125</td>\n</tr>\n<tr> <td> <strong>Height Range</strong>\n</td>\n<td>36\" - 47.9\"</td>\n</tr>\n<tr> <td> <strong>Number Of Locks</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Width Range</strong>\n</td>\n<td>48\" and Wider</td>\n</tr>\n<tr> <td> <strong>Depth Range</strong>\n</td>\n<td>24 in to 35.9 in</td>\n</tr>\n<tr> <td> <strong>Cabinet Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Drawer Slide Type</strong>\n</td>\n<td>Ball Bearing</td>\n</tr>\n<tr> <td> <strong>Wheel Configuration</strong>\n</td>\n<td>Roller Bearing</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Gloss</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24112401</td>\n</tr>\n<tr> <td> <strong>Load Capacity (Lb. - 3 Decimals)</strong>\n</td>\n<td>900.000</td>\n</tr>\n<tr> <td> <strong>Number Of Drawers</strong>\n</td>\n<td>9</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:10:56-06:00",
+  "created_at": "2025-01-23T08:10:55-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Proto",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 46497762672807,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00313528",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "5709.83",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452494065831,
+      "created_at": "2025-01-23T08:10:55-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240754598055,
+      "created_at": "2025-02-03T20:34:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:34:59-06:00",
+      "product_id": 8452494065831,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0031352-21.jpg?v=1738636499",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 5709.83,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0031352-21.jpg?v=1738636499",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Proto",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 8452503765159,
+  "title": "Gain flings Laundry Detergent Pacs, 76 Count, 4/Case",
+  "handle": "74666942",
+  "body_html": "<br><strong>Item #: </strong>02641181<br><strong>Brand: </strong>Gain<br><strong>Model #: </strong>PGC09207CT<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Form</strong>\n</td>\n<td>Liquid Pod</td>\n</tr>\n<tr> <td> <strong>Container Type</strong>\n</td>\n<td>Tub</td>\n</tr>\n<tr> <td> <strong>Container Size (oz.)</strong>\n</td>\n<td>56.00</td>\n</tr>\n<tr> <td> <strong>Scent</strong>\n</td>\n<td>Gain Original</td>\n</tr>\n<tr> <td> <strong>Harshness</strong>\n</td>\n<td>Moderate</td>\n</tr>\n<tr> <td> <strong>Formula Type</strong>\n</td>\n<td>MEA C10-16 Alkylbenzenesulfonate</td>\n</tr>\n<tr> <td> <strong>Package Quantity Per Case</strong>\n</td>\n<td>304</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>47131811</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:35:39-06:00",
+  "created_at": "2025-01-23T08:35:37-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Gain",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Cleaners",
+    "Detergents & Odor Control"
+  ],
+  "variants": [
+    {
+      "id": 46497844428967,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02641181",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "168.81",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452503765159,
+      "created_at": "2025-01-23T08:35:38-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241348616359,
+      "created_at": "2025-02-03T20:54:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:54:51-06:00",
+      "product_id": 8452503765159,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0264098AD-21.jpg?v=1738637691",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 168.81,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0264098AD-21.jpg?v=1738637691",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gain",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

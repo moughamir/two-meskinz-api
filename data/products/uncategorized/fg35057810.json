@@ -1,0 +1,52 @@
+{
+  "id": 8453480841383,
+  "title": "‎TFM-7-16M-85C",
+  "handle": "fg35057810",
+  "body_html": null,
+  "published_at": "2025-01-24T08:04:51-06:00",
+  "created_at": "2025-01-24T08:04:48-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500934615207,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FG35057810",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "539.36",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453480841383,
+      "created_at": "2025-01-24T08:04:48-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 539.36,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

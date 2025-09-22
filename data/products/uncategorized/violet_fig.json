@@ -1,0 +1,117 @@
+{
+  "id": 7526908723309,
+  "title": "Violet Fig",
+  "handle": "violet-fig",
+  "body_html": "<p dir=\"ltr\">Inspired by the European coast, <strong>green fig</strong> and <strong>mandarin</strong> blend with luminous notes of <strong>violet leaf</strong>, <strong>rose</strong>, and <strong>musk</strong> for an aromatic scent that’s both floral and inviting.</p>",
+  "published_at": "2024-08-29T10:26:59-06:00",
+  "created_at": "2024-08-29T10:15:21-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Studio McGee",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Citrus",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41800742305901,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "RVAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7526908723309,
+      "created_at": "2024-08-29T10:15:22-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32885405483117,
+      "created_at": "2024-08-29T10:20:50-06:00",
+      "position": 1,
+      "updated_at": "2024-08-29T10:20:52-06:00",
+      "product_id": 7526908723309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-VioletFig-Prod1-0724.jpg?v=1724948452",
+      "width": 3827,
+      "height": 5103
+    },
+    {
+      "id": 32885405515885,
+      "created_at": "2024-08-29T10:20:50-06:00",
+      "position": 2,
+      "updated_at": "2024-08-29T10:20:52-06:00",
+      "product_id": 7526908723309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/figs-resized_f009c5d7-37b1-4a55-ba83-7a3872bee6a4.jpg?v=1724948452",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32885414559853,
+      "created_at": "2024-08-29T10:21:33-06:00",
+      "position": 3,
+      "updated_at": "2024-08-29T10:21:35-06:00",
+      "product_id": 7526908723309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/VioletFig-Retail-Image5.png?v=1724948495",
+      "width": 4167,
+      "height": 4167
+    },
+    {
+      "id": 32885405450349,
+      "created_at": "2024-08-29T10:20:50-06:00",
+      "position": 4,
+      "updated_at": "2024-08-29T10:20:52-06:00",
+      "product_id": 7526908723309,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-VioletFig-Prod4-0724.jpg?v=1724948452",
+      "width": 1294,
+      "height": 1725
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-VioletFig-Prod1-0724.jpg?v=1724948452",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

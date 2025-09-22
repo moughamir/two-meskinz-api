@@ -1,0 +1,76 @@
+{
+  "id": 8457434824792,
+  "title": "Seashell Dusty Petals iPhone 16 Plus Case",
+  "handle": "seashell-dusty-petals-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p data-start=\"82\" data-end=\"316\">Soft, romantic, and a little bit wild—just like a meadow in full bloom. 🌸 The Dusty Petals Phone Case sprinkles your phone with muted florals in dreamy pastels, giving vintage charm with a fresh twist.</p>\n<p data-start=\"318\" data-end=\"440\">Perfect for flower lovers, nature wanderers, and anyone who believes life’s better with a touch of botanical beauty. 🌼✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:12:41-04:00",
+  "created_at": "2025-08-27T21:54:05-04:00",
+  "updated_at": "2025-09-22T15:12:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Fresh Finds",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dusty Petals",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43165072228440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:DUSTY-PETALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8457434824792,
+      "created_at": "2025-08-27T21:54:05-04:00",
+      "updated_at": "2025-09-22T15:12:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35660264570968,
+      "created_at": "2025-08-27T21:54:05-04:00",
+      "position": 1,
+      "updated_at": "2025-09-02T15:08:43-04:00",
+      "product_id": 8457434824792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DUSTY-PETALS_IP16PLUS_Seashell.jpg?v=1756840123",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DUSTY-PETALS_IP16PLUS_Seashell.jpg?v=1756840123",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

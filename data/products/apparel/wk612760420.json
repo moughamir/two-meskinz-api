@@ -1,0 +1,67 @@
+{
+  "id": 7786158522535,
+  "title": "Brand: Made in USA / Part #: DIA50020A",
+  "handle": "wk612760420",
+  "body_html": "<br><strong>Item #: </strong>81547788<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>DIA50020A<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Point Type</strong>\n</td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Diamond Carat Size</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Inch)</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>3/8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:55:29-06:00",
+  "created_at": "2023-12-29T11:55:29-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Abrasives",
+  "tags": [
+    "Grinding & Cutoff"
+  ],
+  "variants": [
+    {
+      "id": 43707097186471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81547788",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.32",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786158522535,
+      "created_at": "2023-12-29T11:55:29-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237950967975,
+      "created_at": "2025-02-03T18:30:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:34-06:00",
+      "product_id": 7786158522535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8154775-11.jpg?v=1738629034",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.32,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8154775-11.jpg?v=1738629034",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

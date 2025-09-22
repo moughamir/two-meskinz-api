@@ -1,0 +1,110 @@
+{
+  "id": 8164305829976,
+  "title": "Seashell Jolly Doggos iPhone 16 Pro Max Case",
+  "handle": "seashell-jolly-doggos-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p class=\"p1\">Get ready to fetch some holiday joy with our Jolly Doggos Phone Case! Featuring a pack of playful pups decked out in their coziest holiday sweaters, this case is barking with festive fun. From wagging tails to reindeer ears, these adorable doggos are here to spread cheer while keeping your phone protected. Made with eco-friendly materials that are as kind to the planet as a puppy’s love, this case is a perfect gift for you <i>and</i> the Earth. Keep your phone safe in paws-itively cute style this season! 🐶🎁✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:08:45-04:00",
+  "created_at": "2024-10-21T14:06:11-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Jolly Doggos",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345455222872,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17321-IP16PMAX-SEASHELL-AOD:JOLLY-DOGGOS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164305829976,
+      "created_at": "2024-10-21T14:06:11-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832583102552,
+      "created_at": "2024-10-21T14:06:11-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:06:13-04:00",
+      "product_id": 8164305829976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP16PMAX_Seashell.jpg?v=1729533973",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880432869464,
+      "created_at": "2024-10-28T14:29:23-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:29:24-04:00",
+      "product_id": 8164305829976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP2_2bcbde0c-c70f-4369-8d4c-68de1344083e.jpg?v=1730140164",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880432935000,
+      "created_at": "2024-10-28T14:29:23-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:29:25-04:00",
+      "product_id": 8164305829976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP1_e7070718-fec5-4f5c-ad52-8a541c4d7848.jpg?v=1730140165",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880433033304,
+      "created_at": "2024-10-28T14:29:23-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:29:25-04:00",
+      "product_id": 8164305829976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP3_fe63e96c-6196-4908-8ae4-f6aa648a2e72.jpg?v=1730140165",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP16PMAX_Seashell.jpg?v=1729533973",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

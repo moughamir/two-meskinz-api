@@ -1,0 +1,109 @@
+{
+  "id": 8243493896280,
+  "title": "Seashell Carbs iPhone 15 Pro Case",
+  "handle": "seashell-carbs-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:08:56-05:00",
+  "created_at": "2025-01-08T12:41:00-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541138477144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17056-IP15P-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243493896280,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242768797784,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:02-05:00",
+      "product_id": 8243493896280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP15P_Seashell.jpg?v=1736358062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357629517912,
+      "created_at": "2025-01-23T12:02:41-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T12:02:43-05:00",
+      "product_id": 8243493896280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_13cd24f5-c9cd-4c9b-bcfa-6829de7fedd3.jpg?v=1737651763",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357629616216,
+      "created_at": "2025-01-23T12:02:42-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T12:02:45-05:00",
+      "product_id": 8243493896280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_3407ed44-a0a1-43ed-892e-4677bb6f4e15.jpg?v=1737651765",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357629485144,
+      "created_at": "2025-01-23T12:02:42-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T12:02:45-05:00",
+      "product_id": 8243493896280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_306af85b-f63c-4d3e-8719-05488c425dab.jpg?v=1737651765",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP15P_Seashell.jpg?v=1736358062",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8295448019032,
+  "title": "Seashell Carnival Jewels iPhone 11 Case",
+  "handle": "seashell-carnival-jewels-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step right up and dazzle your senses with <em data-start=\"87\" data-end=\"104\">Carnival Jewels</em>!<meta charset=\"utf-8\">🎪 Inspired by the glimmering costumes and electric energy of a vintage circus, this case is a mosaic of bold, brilliant color—like a handful of confetti tossed in the air. The classic harlequin pattern gets a modern, eco-friendly twist, making your phone the ultimate ringmaster of style.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:17:31-05:00",
+  "created_at": "2025-02-21T13:31:26-05:00",
+  "updated_at": "2025-09-22T15:14:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carnival Jewels",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688137134168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:CARNIVAL-JEWELS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295448019032,
+      "created_at": "2025-02-21T13:31:26-05:00",
+      "updated_at": "2025-09-22T15:14:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579762872408,
+      "created_at": "2025-02-21T13:31:26-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:28-05:00",
+      "product_id": 8295448019032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARNIVAL-JEWELS_IP11_Seashell.jpg?v=1740162688",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34616098324568,
+      "created_at": "2025-02-28T10:40:21-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T10:40:23-05:00",
+      "product_id": 8295448019032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CarnivalJewels_PDP2_9ed510af-0975-4977-bbb7-a787629160e1.jpg?v=1740757223",
+      "width": 4464,
+      "height": 4464
+    },
+    {
+      "id": 34616098291800,
+      "created_at": "2025-02-28T10:40:22-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T10:40:23-05:00",
+      "product_id": 8295448019032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CarnivalJewels_PDP1_8841b6d7-809e-4a63-856d-a7b382c75723.jpg?v=1740757223",
+      "width": 4008,
+      "height": 4008
+    },
+    {
+      "id": 34616098357336,
+      "created_at": "2025-02-28T10:40:22-05:00",
+      "position": 4,
+      "updated_at": "2025-02-28T10:40:23-05:00",
+      "product_id": 8295448019032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CarnivalJewels_PDP3_2d2787b6-8dcd-48c1-882b-4ef0c460808a.jpg?v=1740757223",
+      "width": 4263,
+      "height": 4263
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARNIVAL-JEWELS_IP11_Seashell.jpg?v=1740162688",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

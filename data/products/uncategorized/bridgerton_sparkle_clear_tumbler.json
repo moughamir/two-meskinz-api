@@ -1,0 +1,107 @@
+{
+  "id": 7878055755823,
+  "title": "Bridgerton Sparkle Clear Tumbler",
+  "handle": "bridgerton-sparkle-clear-tumbler",
+  "body_html": "<p>Add a touch of Regency glamour to your day with the <em>Bridgerton </em>Sparkle Clear Tumbler. Featuring a delicate design that shimmers with every sip, this tumbler is perfect for fans who love a bit of sparkle alongside their tea or cocktail. Whether you're attending your own \"ton\" event or just enjoying a quiet moment, its elegant, clear design with a hint of glimmer brings the charm of <em>Bridgerton </em>to your everyday life—keeping your drinks as refreshing as the latest scandal.</p><ul>\n<li>Material: Clear acrylic plastic</li>\n<li>Capacity: 16 oz. (590 ml)</li>\n<li>Height: 6.3\" (16 cm)</li>\n<li>Lid diameter: 3.9\" (10 cm)</li>\n<li>Bottom diameter: 2.6\" (6.7 cm)</li>\n<li>Double wall-insulated</li>\n<li>Comes with a plastic straw and screw-on lid</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n</ul>",
+  "published_at": "2024-12-04T13:23:08-05:00",
+  "created_at": "2024-11-27T09:57:36-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80232398",
+    "Bridgerton",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "NTF-38-1124",
+    "Tumblers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43435993432111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BRDGTN-101804-0001-BR-SKPT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7878055755823,
+      "created_at": "2024-11-27T09:57:36-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35081810804783,
+      "created_at": "2024-11-27T09:57:36-05:00",
+      "position": 1,
+      "updated_at": "2024-11-27T09:57:36-05:00",
+      "product_id": 7878055755823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-SKPT_38_101804_FT_MF.jpg?v=1732719456",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081810870319,
+      "created_at": "2024-11-27T09:57:36-05:00",
+      "position": 2,
+      "updated_at": "2024-11-27T09:57:36-05:00",
+      "product_id": 7878055755823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-SKPT_38_101804_BK_MF.jpg?v=1732719456",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081810837551,
+      "created_at": "2024-11-27T09:57:36-05:00",
+      "position": 3,
+      "updated_at": "2024-11-27T09:57:36-05:00",
+      "product_id": 7878055755823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-SKPT_38_101804_L_MF.jpg?v=1732719456",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35081810903087,
+      "created_at": "2024-11-27T09:57:36-05:00",
+      "position": 4,
+      "updated_at": "2024-11-27T09:57:36-05:00",
+      "product_id": 7878055755823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-SKPT_38_101804_R_MF.jpg?v=1732719456",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-SKPT_38_101804_FT_MF.jpg?v=1732719456",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

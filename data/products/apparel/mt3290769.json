@@ -1,0 +1,67 @@
+{
+  "id": 7785470656679,
+  "title": "Brand: E-Z UP / Part #: SW3MW10PNSL",
+  "handle": "mt3290769",
+  "body_html": "<br><strong>Item #: </strong>67513879<br><strong>Brand: </strong>E-Z UP<br><strong>Model #: </strong>SW3MW10PNSL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Sidewall</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Eclipse, Enterprise, Vantage, Pyramid, ES100, Ambassador, Envoy, Patriot</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(1) 10' Sidewall w/ Mesh Window (Red)</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Red</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:52:19-06:00",
+  "created_at": "2023-12-28T21:52:19-06:00",
+  "updated_at": "2025-09-22T10:55:12-05:00",
+  "vendor": "E-Z UP",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Temporary Structures & Storage Buildings"
+  ],
+  "variants": [
+    {
+      "id": 43703949426855,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67513879",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "91.08",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785470656679,
+      "created_at": "2023-12-28T21:52:20-06:00",
+      "updated_at": "2025-09-22T10:55:12-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236985196711,
+      "created_at": "2025-02-03T18:00:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:00:25-06:00",
+      "product_id": 7785470656679,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6751387-21.jpg?v=1738627225",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 91.08,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6751387-21.jpg?v=1738627225",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "E-Z UP",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

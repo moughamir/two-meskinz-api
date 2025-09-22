@@ -1,0 +1,101 @@
+{
+  "id": 7556232708184,
+  "title": "Bubblegum Pink Flora iPhone 15 Case",
+  "handle": "bubblegum-pink-flora-eco-friendly-iphone-15-case",
+  "body_html": "<p>Dress your phone in a burst of color with our Bubblegum Pink Flora Phone Case! This beautifully designed case features an engraved floral pattern, perfect for nature lovers. Made with sustainable materials, it's both durable and compostable - a win for your phone and the environment.</p>",
+  "published_at": "2024-02-22T04:36:40-05:00",
+  "created_at": "2024-02-08T11:08:13-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Flora",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038004191320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16996-IP15-BUBPINK-AOD:FLORA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556232708184,
+      "created_at": "2024-02-08T11:08:13-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177830592600,
+      "created_at": "2024-02-08T12:00:35-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T12:00:35-05:00",
+      "product_id": 7556232708184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_IP15_BubblegumPink_3c9bcb84-1c34-4a44-996c-ea7dcd2d0a24.jpg?v=1707411635",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211905183832,
+      "created_at": "2024-02-21T02:49:10-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T02:49:14-05:00",
+      "product_id": 7556232708184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-2_8ece1ad3-5e5a-43bf-9391-269b29f3bfed.jpg?v=1708501754",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211905151064,
+      "created_at": "2024-02-21T02:49:10-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T02:49:14-05:00",
+      "product_id": 7556232708184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-1_cb8c552b-efc8-4b7d-911a-7f40b8227712.jpg?v=1708501754",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_IP15_BubblegumPink_3c9bcb84-1c34-4a44-996c-ea7dcd2d0a24.jpg?v=1707411635",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

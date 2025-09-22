@@ -1,0 +1,97 @@
+{
+  "id": 8254960828504,
+  "title": "Seashell Dancing Lights Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-dancing-lights-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><span>Step into the spotlight with the Dancing Lights Phone Case, a part of our delightful Cheers to You Collection.  Featuring a playful pattern of pink disco balls, party ribbon and champagne glasses, this case is perfect for those who carry the rhythm of the night in their hearts. 🎉✨🌱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:48:38-05:00",
+  "created_at": "2025-01-15T11:45:05-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers to You",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Dancing Lights",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567877263448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:DANCING-LIGHTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254960828504,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303573655640,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:08-05:00",
+      "product_id": 8254960828504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_S25ULTRA_Seashell.jpg?v=1736959508",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672169844824,
+      "created_at": "2025-03-11T16:06:23-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:06:24-04:00",
+      "product_id": 8254960828504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8491Large_f97d492b-36aa-4ef1-99f8-a4603b34192f.jpg?v=1741723584",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672169812056,
+      "created_at": "2025-03-11T16:06:23-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:06:24-04:00",
+      "product_id": 8254960828504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Copyof972A8501Large_d8bea27f-e2b2-435e-a439-dc5494b27a42.jpg?v=1741723584",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DANCING-LIGHTS_S25ULTRA_Seashell.jpg?v=1736959508",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

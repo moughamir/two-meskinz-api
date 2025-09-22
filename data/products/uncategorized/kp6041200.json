@@ -1,0 +1,52 @@
+{
+  "id": 8453323456679,
+  "title": "‎Heavy Duty Utility Shear, 8-5/8″",
+  "handle": "kp6041200",
+  "body_html": null,
+  "published_at": "2025-01-24T01:12:57-06:00",
+  "created_at": "2025-01-24T01:12:56-06:00",
+  "updated_at": "2025-09-22T10:51:57-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500303077543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6041200",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.69",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453323456679,
+      "created_at": "2025-01-24T01:12:56-06:00",
+      "updated_at": "2025-09-22T10:51:57-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.69,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

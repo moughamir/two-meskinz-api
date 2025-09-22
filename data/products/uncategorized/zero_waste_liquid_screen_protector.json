@@ -1,0 +1,91 @@
+{
+  "id": 1388808437848,
+  "title": "If your screen cracks wearing our screen protector, we'll pay to fix it.",
+  "handle": "zero-waste-liquid-screen-protector",
+  "body_html": "<div class=\"p-rich_text_section\">Plastic-free, Easy-Apply Screen Protector for smartphones, smartwatches, and tablets<span data-stringify-type=\"paragraph-break\" class=\"c-mrkdwn__br\" aria-label=\"\"></span>\n</div>\n<ul data-border=\"0\" data-indent=\"0\" class=\"p-rich_text_list p-rich_text_list__bullet\" data-stringify-type=\"unordered-list\">\n<li data-stringify-border=\"0\" data-stringify-indent=\"0\">2ml vial</li>\n<li data-stringify-border=\"0\" data-stringify-indent=\"0\">1 vial is enough product for 2-3 phone screens</li>\n</ul>",
+  "published_at": "2025-06-10T13:49:32-04:00",
+  "created_at": "2018-09-28T16:51:51-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Screen Protection",
+  "tags": [
+    "accessory",
+    "canopy"
+  ],
+  "variants": [
+    {
+      "id": 12866637201496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25100-CANOPY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 23,
+      "compare_at_price": "30.00",
+      "position": 1,
+      "product_id": 1388808437848,
+      "created_at": "2018-09-28T16:51:52-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28630534389848,
+      "created_at": "2021-09-15T08:12:43-04:00",
+      "position": 1,
+      "updated_at": "2021-09-15T08:12:45-04:00",
+      "product_id": 1388808437848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CANOPY-1.jpg?v=1631707965",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28630534357080,
+      "created_at": "2021-09-15T08:12:43-04:00",
+      "position": 2,
+      "updated_at": "2021-09-15T08:12:45-04:00",
+      "product_id": 1388808437848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CANOPY-2.jpg?v=1631707965",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28630534455384,
+      "created_at": "2021-09-15T08:12:43-04:00",
+      "position": 3,
+      "updated_at": "2021-09-15T08:12:46-04:00",
+      "product_id": 1388808437848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CANOPY-3.jpg?v=1631707966",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CANOPY-1.jpg?v=1631707965",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Screen Protection",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

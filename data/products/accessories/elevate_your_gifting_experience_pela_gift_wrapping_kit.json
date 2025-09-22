@@ -1,0 +1,121 @@
+{
+  "id": 7500451020888,
+  "title": "Free Pela gift wrapping kit with your purchase",
+  "handle": "elevate-your-gifting-experience-pela-gift-wrapping-kit",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">The perfect holiday wrapping paper is here - made from SC-certified, recycled paper and printed with soy-based inks this compostable tissue paper adds the perfect Pela holiday flare!</span>",
+  "published_at": "2025-05-08T06:27:43-04:00",
+  "created_at": "2023-12-05T17:09:26-05:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Accessories",
+  "tags": [],
+  "variants": [
+    {
+      "id": 40812925452376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25131-GIFT-KIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "0.00",
+      "grams": 23,
+      "compare_at_price": "0.00",
+      "position": 1,
+      "product_id": 7500451020888,
+      "created_at": "2023-12-05T17:09:26-05:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31952913367128,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 1,
+      "updated_at": "2023-12-06T13:40:23-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_8.jpg?v=1701888023",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31952913268824,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 2,
+      "updated_at": "2023-12-06T13:40:23-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_7.jpg?v=1701888023",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31952913203288,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 3,
+      "updated_at": "2023-12-06T13:40:23-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_6.jpg?v=1701888023",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31952913399896,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 4,
+      "updated_at": "2023-12-06T13:40:24-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_5.jpg?v=1701888024",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31952913334360,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 5,
+      "updated_at": "2023-12-06T13:40:23-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_3_69043fd6-15f6-4bd6-bd3f-4b294cbf63c3.jpg?v=1701888023",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31952913301592,
+      "created_at": "2023-12-06T13:40:21-05:00",
+      "position": 6,
+      "updated_at": "2023-12-06T13:40:23-05:00",
+      "product_id": 7500451020888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_4_27234a97-8ea6-4a72-96d4-4c85f8846935.jpg?v=1701888023",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "compare_at_price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_8.jpg?v=1701888023",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

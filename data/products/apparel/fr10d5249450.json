@@ -1,0 +1,67 @@
+{
+  "id": 7786369286311,
+  "title": "Brand: Albion / Part #: 16TM05223R",
+  "handle": "fr10d5249450",
+  "body_html": "<br><strong>Item #: </strong>18868901<br><strong>Brand: </strong>Albion<br><strong>Model #: </strong>16TM05223R<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mount</strong>\n</td>\n<td>Top Plate</td>\n</tr>\n<tr>\n<td><strong>Bearing Type</strong></td>\n<td>Sintered</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Swivel</td>\n</tr>\n<tr>\n<td><strong>Wheel Diameter (Inch)</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Wheel Width (Inch)</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Load Capacity (Lb. - 3 Decimals)</strong></td>\n<td>1000</td>\n</tr>\n<tr>\n<td><strong>Wheel Material</strong></td>\n<td>Phenolic</td>\n</tr>\n<tr>\n<td><strong>Wheel Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Inch)</strong></td>\n<td>6-1/2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:52:38-06:00",
+  "created_at": "2023-12-29T20:52:38-06:00",
+  "updated_at": "2025-09-22T10:53:33-05:00",
+  "vendor": "Albion",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 43707632550055,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "18868901",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786369286311,
+      "created_at": "2023-12-29T20:52:38-06:00",
+      "updated_at": "2025-09-22T10:53:33-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238440652967,
+      "created_at": "2025-02-03T18:49:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:49:49-06:00",
+      "product_id": 7786369286311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_ded6b242-539b-4139-9a6d-2d1f35d45203.jpg?v=1738630189",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_ded6b242-539b-4139-9a6d-2d1f35d45203.jpg?v=1738630189",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Albion",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

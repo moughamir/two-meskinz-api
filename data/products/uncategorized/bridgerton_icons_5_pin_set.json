@@ -1,0 +1,105 @@
+{
+  "id": 7956784513071,
+  "title": "Bridgerton Icons 5 Pin Set",
+  "handle": "bridgerton-icons-5-pin-set",
+  "body_html": "<p>Show your love for the <em>Bridgerton</em> family with the <em>Bridgerton</em> Icons Pin Set. This set includes five iconic pins: including the Bridgerton bee and Lady Whistledown's profile. These pins are perfect for adding a touch of <em>Bridgerton</em> flair to your favorite bag, jacket, or hat. </p><ul>\n<li>Made of tinplate</li>\n<li>Scratch and UV-resistant mylar coating</li>\n<li>Glossy finish</li>\n<li>They come in a set of 5</li>\n</ul>",
+  "published_at": "2025-04-11T12:42:42-04:00",
+  "created_at": "2025-04-09T11:43:03-04:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Pins",
+  "tags": [
+    "Accessories",
+    "Bridgerton",
+    "Pin Set",
+    "Pins",
+    "Shop All",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43734497263663,
+      "title": "White / 2.25 in",
+      "option1": "White",
+      "option2": "2.25 in",
+      "option3": null,
+      "sku": "BRDGTN-101698-0002-BR-PIN5",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35881911844911,
+        "product_id": 7956784513071,
+        "position": 1,
+        "created_at": "2025-04-09T11:43:14-04:00",
+        "updated_at": "2025-04-09T11:43:16-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-PIN5_101698_MF.jpg?v=1744213396",
+        "variant_ids": [
+          43734497263663
+        ]
+      },
+      "available": true,
+      "price": "17.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7956784513071,
+      "created_at": "2025-04-09T11:43:03-04:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35881911844911,
+      "created_at": "2025-04-09T11:43:14-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T11:43:16-04:00",
+      "product_id": 7956784513071,
+      "variant_ids": [
+        43734497263663
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-PIN5_101698_MF.jpg?v=1744213396",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35881911812143,
+      "created_at": "2025-04-09T11:43:14-04:00",
+      "position": 2,
+      "updated_at": "2025-04-09T11:43:16-04:00",
+      "product_id": 7956784513071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-PIN5_101698_MF2.jpg?v=1744213396",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "2.25 in"
+      ]
+    }
+  ],
+  "price": 17.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-PIN5_101698_MF.jpg?v=1744213396",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pins",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

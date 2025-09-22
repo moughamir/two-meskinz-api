@@ -1,0 +1,108 @@
+{
+  "id": 7358873567320,
+  "title": "Black Evergreen iPhone XR Case",
+  "handle": "black-evergreen-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌿✨ Immerse yourself in nature’s tranquility with the Evergreen Phone Case! This case features a lush, botanical pattern of green leaves against a deep black background, evoking the serene beauty of a forest in full bloom. Perfect for nature enthusiasts and those who appreciate a touch of elegance, this case turns your device into a mini oasis. Carry the essence of evergreen forests with you and let your phone flourish in style! 🍃📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:14:23-04:00",
+  "created_at": "2023-03-31T13:55:45-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Evergreen",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221307338840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13084-IPXR-BLACK-AOD:EVERGREEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358873567320,
+      "created_at": "2023-03-31T13:55:45-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233613140056,
+      "created_at": "2023-03-31T13:55:45-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:45-04:00",
+      "product_id": 7358873567320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_IPXR_Black.jpg?v=1680285345",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241122877528,
+      "created_at": "2023-04-12T14:59:35-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T14:59:38-04:00",
+      "product_id": 7358873567320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden4_8e14da63-f468-4c9c-9198-a6a0dc0a3279.png?v=1681325978",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241122844760,
+      "created_at": "2023-04-12T14:59:35-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T14:59:38-04:00",
+      "product_id": 7358873567320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_bd1b5722-11d7-46f4-a7ce-41b25123d853.png?v=1681325978",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236621439064,
+      "created_at": "2023-04-05T17:50:37-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T14:59:38-04:00",
+      "product_id": 7358873567320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9094_1_fc087084-f0a6-48ed-8bf5-d29f47ce9dcf.jpg?v=1681325978",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_IPXR_Black.jpg?v=1680285345",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

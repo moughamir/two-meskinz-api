@@ -1,0 +1,129 @@
+{
+  "id": 5634274099358,
+  "title": "APlusLift 2-Post Car Lift Limit Switch with Optional Bracket",
+  "handle": "apluslift-2-post-car-lift-limit-switch",
+  "body_html": "<h3>One car lift limit switch with an optional bracket. The limit switch is commonly used for AP-10SR and HW-10KOH model. With the optional bracket, it can be used for model like HW-10KBP as well.</h3>",
+  "published_at": "2020-08-30T17:54:11-07:00",
+  "created_at": "2020-08-30T17:54:10-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 44817128358116,
+      "title": "Limit Switch Only",
+      "option1": "Limit Switch Only",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 19891468501150,
+        "product_id": 5634274099358,
+        "position": 1,
+        "created_at": "2020-11-01T16:22:24-08:00",
+        "updated_at": "2020-11-01T16:22:35-08:00",
+        "alt": "Limit switch for HW-9KOH and HW-10KOH models",
+        "width": 1440,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-limit-switch.jpg?v=1604276555",
+        "variant_ids": [
+          44817128358116
+        ]
+      },
+      "available": true,
+      "price": "55.00",
+      "grams": 454,
+      "compare_at_price": "60.00",
+      "position": 2,
+      "product_id": 5634274099358,
+      "created_at": "2024-04-01T10:32:44-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 44817128390884,
+      "title": "Limit Switch with Bracket",
+      "option1": "Limit Switch with Bracket",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 66728432468196,
+        "product_id": 5634274099358,
+        "position": 2,
+        "created_at": "2024-04-01T10:31:38-07:00",
+        "updated_at": "2024-04-01T10:31:40-07:00",
+        "alt": "APlusLift Car Lift Limit Switch with Bracket",
+        "width": 1440,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-limit-switch-with-bracket.jpg?v=1711992700",
+        "variant_ids": [
+          44817128390884
+        ]
+      },
+      "available": true,
+      "price": "65.00",
+      "grams": 454,
+      "compare_at_price": "60.00",
+      "position": 3,
+      "product_id": 5634274099358,
+      "created_at": "2024-04-01T10:32:44-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891468501150,
+      "created_at": "2020-11-01T16:22:24-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:22:35-08:00",
+      "product_id": 5634274099358,
+      "variant_ids": [
+        44817128358116
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-limit-switch.jpg?v=1604276555",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "id": 66728432468196,
+      "created_at": "2024-04-01T10:31:38-07:00",
+      "position": 2,
+      "updated_at": "2024-04-01T10:31:40-07:00",
+      "product_id": 5634274099358,
+      "variant_ids": [
+        44817128390884
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-limit-switch-with-bracket.jpg?v=1711992700",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Style",
+      "position": 1,
+      "values": [
+        "Limit Switch Only",
+        "Limit Switch with Bracket"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 60,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-limit-switch.jpg?v=1604276555",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

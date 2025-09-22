@@ -1,0 +1,116 @@
+{
+  "id": 7800922243181,
+  "title": "Reverie Roast",
+  "handle": "reverie-roast",
+  "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Like a cup of coffee so good you don’t want it to end, savor every drop of this evocative blend of <strong>coffee</strong>, <strong>toasted almond</strong>, and <strong>oak wood</strong>—a delicious way to wake up or wind down.<br></p>",
+  "published_at": "2025-09-03T16:25:36-06:00",
+  "created_at": "2025-09-02T11:35:38-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Otherland",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Otherland",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Scent Type_Gourmand",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 43257822904429,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VRSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7800922243181,
+      "created_at": "2025-09-02T11:35:39-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35301213470829,
+      "created_at": "2025-09-02T11:48:13-06:00",
+      "position": 1,
+      "updated_at": "2025-09-02T11:48:48-06:00",
+      "product_id": 7800922243181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-ReverieRoast-Prod1-0625.jpg?v=1756835328",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 35301213438061,
+      "created_at": "2025-09-02T11:48:13-06:00",
+      "position": 2,
+      "updated_at": "2025-09-02T11:48:48-06:00",
+      "product_id": 7800922243181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Coffee_II-21.jpg?v=1756835328",
+      "width": 3299,
+      "height": 4399
+    },
+    {
+      "id": 35301216616557,
+      "created_at": "2025-09-02T11:48:32-06:00",
+      "position": 3,
+      "updated_at": "2025-09-02T11:48:48-06:00",
+      "product_id": 7800922243181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ReverieRoast-Otherland-Retail-Image5.png?v=1756835328",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 35301213503597,
+      "created_at": "2025-09-02T11:48:13-06:00",
+      "position": 4,
+      "updated_at": "2025-09-02T11:48:48-06:00",
+      "product_id": 7800922243181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-ReverieRoast-Prod4-0625.jpg?v=1756835328",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-ReverieRoast-Prod1-0625.jpg?v=1756835328",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Otherland",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

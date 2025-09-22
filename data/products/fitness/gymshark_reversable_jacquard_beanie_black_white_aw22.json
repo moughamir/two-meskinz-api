@@ -1,0 +1,126 @@
+{
+  "id": 6804992688330,
+  "title": "Gymshark Reversable Jacquard Beanie - Black/White",
+  "handle": "gymshark-reversable-jacquard-beanie-black-white-aw22",
+  "body_html": "<p><strong>GET AHEAD OF THE GAME</strong></p>\n<p><br data-mce-fragment=\"1\">2 hats in 1? Genius. The Reversible Jacquard Beanie features one side with an all-over “Gymshark” jacquard, and another side with a plain colour and embroidered Gymshark logo. Switch it up depending on your mood, and stay warm whether you’re training or just out and about.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Reversible design<br data-mce-fragment=\"1\">- One side: all-over “Gymshark” jacquard<br data-mce-fragment=\"1\">- Other side: plain colour with embroidered Gymshark logo<br data-mce-fragment=\"1\">- 60% Polyester, 40% Acrylic<br data-mce-fragment=\"1\">- SKU: I2A3Y-BBGR</p>",
+  "published_at": "2023-11-15T14:42:51-08:00",
+  "created_at": "2022-08-31T09:02:45-07:00",
+  "updated_at": "2025-09-22T08:46:07-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "20EXTRA",
+    "3-15-remove",
+    "Accessories",
+    "activity: rest day",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "beanies",
+    "bf-23",
+    "bfcm24",
+    "BFCM24-Republish",
+    "category:Headwear",
+    "filter-colour: Black",
+    "filter-colour: White",
+    "headwear",
+    "no-return: 2024-03-11T08:00:00_2024-03-21T08:00:01",
+    "no-returns:2024-03-19T12:10:00_2024-03-19T08:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Key Items",
+    "rest-day",
+    "subcategory:Beanie",
+    "test",
+    "tier:2",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787188715722,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A3Y-BBGR-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804992688330,
+      "created_at": "2022-08-31T09:02:45-07:00",
+      "updated_at": "2025-09-22T08:46:07-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973707788490,
+      "created_at": "2022-10-27T12:23:24-07:00",
+      "position": 1,
+      "updated_at": "2022-11-10T09:00:33-08:00",
+      "product_id": 6804992688330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/ReverseJacquardBeanieBlack-WhiteI2A3Y-BBGR.186_d5087e19-e925-49d6-9141-245627e93fa6.jpg?v=1668099633",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973708443850,
+      "created_at": "2022-10-27T12:23:24-07:00",
+      "position": 2,
+      "updated_at": "2022-11-10T09:00:33-08:00",
+      "product_id": 6804992688330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/ReverseJacquardBeanieBlack-WhiteI2A3Y-BBGR.185_9cdfd703-2658-43f8-aa87-c1ea018f31b0.jpg?v=1668099633",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973708902602,
+      "created_at": "2022-10-27T12:23:24-07:00",
+      "position": 3,
+      "updated_at": "2022-10-27T12:23:26-07:00",
+      "product_id": 6804992688330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/ReverseJacquardBeanieBlack-WhiteI2A3Y-BBGR-1091.88.jpg?v=1666898606",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973708017866,
+      "created_at": "2022-10-27T12:23:24-07:00",
+      "position": 4,
+      "updated_at": "2022-10-27T12:23:25-07:00",
+      "product_id": 6804992688330,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/ReverseJacquardBeanieBlack-WhiteI2A3Y-BBGR-1121.139.jpg?v=1666898605",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/ReverseJacquardBeanieBlack-WhiteI2A3Y-BBGR.186_d5087e19-e925-49d6-9141-245627e93fa6.jpg?v=1668099633",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785735028903,
+  "title": "Brand: Pentair Everpure / Part #: EV969176",
+  "handle": "ft8532428",
+  "body_html": "<br><strong>Item #: </strong>93080687<br><strong>Brand: </strong>Pentair Everpure<br><strong>Model #: </strong>EV969176<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Filter Type</strong>\n</td>\n<td>Filter Cartridge; Scale Inhibitor Cartridge</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>10-1/4</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter (Inch)</strong></td>\n<td>3-1/4</td>\n</tr>\n<tr>\n<td><strong>Micron Rating</strong></td>\n<td>0.5</td>\n</tr>\n<tr>\n<td><strong>Construction</strong></td>\n<td>Solid</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Phosphate; Carbon</td>\n</tr>\n<tr>\n<td><strong>Reduces</strong></td>\n<td>Bacteria Growth; Sediment; Cysts; Chlorine; Limescale; Taste &amp; Odor</td>\n</tr>\n<tr>\n<td><strong>Core Material</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Housing Type</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Maximum Work Temperature (Deg F - 3 Decimals)</strong></td>\n<td>100.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:43:06-06:00",
+  "created_at": "2023-12-29T00:43:06-06:00",
+  "updated_at": "2025-09-22T10:54:55-05:00",
+  "vendor": "Pentair Everpure",
+  "product_type": "Plumbing; Pumps & Filtration",
+  "tags": [
+    "Filters & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43705367822503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "93080687",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "81.97",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785735028903,
+      "created_at": "2023-12-29T00:43:07-06:00",
+      "updated_at": "2025-09-22T10:54:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237170696359,
+      "created_at": "2025-02-03T18:07:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:01-06:00",
+      "product_id": 7785735028903,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9308068-21.jpg?v=1738627621",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 81.97,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9308068-21.jpg?v=1738627621",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pentair Everpure",
+  "category": "Plumbing; Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 8088980488280,
+  "title": "Seashell Octopi iPhone 11 Pro Case",
+  "handle": "seashell-octopi-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Dive into a vibrant underwater celebration with the Octopi Phone Case! Bursting with color, these playful octopuses are here to bring some whimsy to your day. Each adorable sea creature is splashed in bright hues, from electric pinks to ocean blues, with quirky spots and friendly faces. This case is as fun as it is functional, offering protection while giving your phone a playful, aquatic flair. Perfect for ocean lovers, daydreamers, and anyone who loves a good splash of color! 🐙 🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-22T09:34:21-04:00",
+  "created_at": "2024-08-14T10:26:45-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Octopi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42168992530520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:OCTOPI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088980488280,
+      "created_at": "2024-08-14T10:26:45-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33475979444312,
+      "created_at": "2024-08-14T10:28:37-04:00",
+      "position": 1,
+      "updated_at": "2024-08-14T10:28:37-04:00",
+      "product_id": 8088980488280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IP11P_Seashell_e341665c-bcd7-43b8-80a8-310879dc1e21.jpg?v=1723645717",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516458475608,
+      "created_at": "2024-08-22T12:36:30-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:36:32-04:00",
+      "product_id": 8088980488280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_Octopi_5e33091a-358d-4dbb-bc82-d94177d1c670.jpg?v=1724344592",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IP11P_Seashell_e341665c-bcd7-43b8-80a8-310879dc1e21.jpg?v=1723645717",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

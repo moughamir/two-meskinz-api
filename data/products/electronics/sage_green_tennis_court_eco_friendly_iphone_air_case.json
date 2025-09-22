@@ -1,0 +1,96 @@
+{
+  "id": 8444660842584,
+  "title": "Sage Green Tennis Court iPhone Air Case",
+  "handle": "sage-green-tennis-court-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Hit the court in style with the Pela Tennis Court Phone Case, with a subtle yellow ball poised just in bounds, this case is a quiet nod to your love for the game. A whisper of palm shadows invites you to a tropical match, and the earth-friendly material promises to keep your phone safe whether you’re scoring points or just chilling courtside. It’s a case that serves up sustainability, style, and a dash of vacation vibes all in one! 🌴🎾📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:18:48-04:00",
+  "created_at": "2025-08-08T11:49:11-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Tennis",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tennis Court",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184222404696,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:TENNIS-COURT_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444660842584,
+      "created_at": "2025-09-03T18:45:17-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184222437464,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:TENNIS-COURT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444660842584,
+      "created_at": "2025-09-03T18:45:17-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567205023832,
+      "created_at": "2025-08-08T11:49:11-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:13-04:00",
+      "product_id": 8444660842584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TENNIS-COURT_IP17AIR_SageGreen.jpg?v=1754668153",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TENNIS-COURT_IP17AIR_SageGreen.jpg?v=1754668153",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

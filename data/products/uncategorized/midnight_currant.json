@@ -1,0 +1,118 @@
+{
+  "id": 7058137677933,
+  "title": "Midnight Currant",
+  "handle": "midnight-currant",
+  "body_html": "<p>Bright notes of <strong>currant</strong>, <strong>rhubarb</strong>, and <strong>blackberry</strong> melt into a blend of red cedar and earthy moss for an aromatic scent that awakens your senses.</p>",
+  "published_at": "2023-09-01T10:24:50-06:00",
+  "created_at": "2023-08-17T09:19:11-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:LAFCO",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40706878570605,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MCLH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7058137677933,
+      "created_at": "2023-08-17T09:19:11-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30366167072877,
+      "created_at": "2023-08-17T09:29:58-06:00",
+      "position": 1,
+      "updated_at": "2023-08-17T09:30:18-06:00",
+      "product_id": 7058137677933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoMidnightCurrantresized-3.jpg?v=1692286218",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "id": 30366167367789,
+      "created_at": "2023-08-17T09:29:58-06:00",
+      "position": 2,
+      "updated_at": "2023-08-17T09:30:18-06:00",
+      "product_id": 7058137677933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/blackberryresized.jpg?v=1692286218",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30366167302253,
+      "created_at": "2023-08-17T09:29:58-06:00",
+      "position": 3,
+      "updated_at": "2023-08-17T09:30:18-06:00",
+      "product_id": 7058137677933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/midnight-currant_prod-3.jpg?v=1692286218",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30366167269485,
+      "created_at": "2023-08-17T09:29:58-06:00",
+      "position": 4,
+      "updated_at": "2023-08-17T09:30:18-06:00",
+      "product_id": 7058137677933,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoMidnightCurrantresized-2.jpg?v=1692286218",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LafcoMidnightCurrantresized-3.jpg?v=1692286218",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 7051712233581,
+  "title": "Sugared Lemon",
+  "handle": "sugared-lemon",
+  "body_html": "<p><strong>Lemon</strong> and <strong>brown sugar</strong> combine for a buttery scent that evokes memories of delicious lemon treats with notes of <strong>vanilla</strong>, <strong>praline</strong>, and <strong>almond</strong>.</p>",
+  "published_at": "2023-08-14T19:52:03-06:00",
+  "created_at": "2023-08-09T16:20:26-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Pura",
+    "collection:Citrus",
+    "Group_Home",
+    "LEPH",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Citrus",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_sugaredlemon"
+  ],
+  "variants": [
+    {
+      "id": 40702265589869,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LEPH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712233581,
+      "created_at": "2023-08-09T16:20:26-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329812779117,
+      "created_at": "2023-08-09T16:20:42-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T16:20:44-06:00",
+      "product_id": 7051712233581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_83aa621b-0f26-4ce1-bb1a-0a0393d21ba9.png?v=1691619644",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329812877421,
+      "created_at": "2023-08-09T16:20:42-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T16:20:44-06:00",
+      "product_id": 7051712233581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_e2638f2b-8ba9-44a9-a925-040c1a2df756.png?v=1691619644",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329812648045,
+      "created_at": "2023-08-09T16:20:42-06:00",
+      "position": 3,
+      "updated_at": "2023-08-09T16:20:44-06:00",
+      "product_id": 7051712233581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_3_70a8a342-26b7-4fcc-9714-40f1c774bc48.png?v=1691619644",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329813041261,
+      "created_at": "2023-08-09T16:20:42-06:00",
+      "position": 4,
+      "updated_at": "2023-08-09T16:20:44-06:00",
+      "product_id": 7051712233581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_fbbe4b81-5106-44fb-8aff-dd4596576a0f.png?v=1691619644",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_83aa621b-0f26-4ce1-bb1a-0a0393d21ba9.png?v=1691619644",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

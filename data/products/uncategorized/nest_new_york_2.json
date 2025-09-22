@@ -1,0 +1,155 @@
+{
+  "id": 7113542500461,
+  "title": "Capri Blue",
+  "handle": "nest-new-york-2",
+  "body_html": "<p>With a pop of color and a punch of fragrance, Capri Blue is on a mission to empower women through scent and style with bold energy and cult-favorite products.\n<br>Included Fragrances:\n<br>Chestnut Embers\n<br>Volcano\n<br>Havana Vanilla\n<br>Wild Citron\n<br>Pineapple Flower\n<br>Coconut Santal</p>",
+  "published_at": "2023-12-01T10:22:27-07:00",
+  "created_at": "2023-10-23T13:18:53-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Gift",
+  "tags": [
+    "3 Month",
+    "900-02425",
+    "__automation:disable",
+    "collection:Capri Blue",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_havanavanilla",
+    "YGroup_havanavanilla"
+  ],
+  "variants": [
+    {
+      "id": 40778599891053,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02425",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.60",
+      "grams": 91,
+      "compare_at_price": "57.00",
+      "position": 1,
+      "product_id": 7113542500461,
+      "created_at": "2023-10-23T13:18:53-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30611555516525,
+      "created_at": "2023-10-27T09:33:07-06:00",
+      "position": 1,
+      "updated_at": "2023-10-27T09:33:08-06:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/capriblue_9d242a92-6f83-43be-89b6-6c45b08791ee.jpg?v=1698420788",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798301429869,
+      "created_at": "2023-12-01T15:28:37-07:00",
+      "position": 2,
+      "updated_at": "2023-12-01T15:28:39-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-Hover-11-23_97400569-3a91-4db3-9b1e-47af120d3ad0.png?v=1701469719",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744931696749,
+      "created_at": "2023-11-20T15:40:16-07:00",
+      "position": 3,
+      "updated_at": "2023-12-01T15:28:39-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ChesnutEmbersprod1jpg_bcfa2da2-caaa-4e06-8362-d7864b982c4e.jpg?v=1701469719",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "id": 30744931860589,
+      "created_at": "2023-11-20T15:40:16-07:00",
+      "position": 4,
+      "updated_at": "2023-12-01T15:28:39-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/volcano-resized_247a4913-464f-4b4c-bb53-153d09a0ac13.jpg?v=1701469719",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31186212028525,
+      "created_at": "2024-02-09T16:07:21-07:00",
+      "position": 5,
+      "updated_at": "2024-02-09T16:07:34-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HavanaVanilla-Vertical-Resized_85ec3147-47e4-488a-b907-8fba0c733c9f.jpg?v=1707520054",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744931827821,
+      "created_at": "2023-11-20T15:40:16-07:00",
+      "position": 6,
+      "updated_at": "2024-02-09T16:07:34-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlueWildCitron-resized_6bdda3ba-4575-45ad-8937-f193c982c709.jpg?v=1707520054",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30797862436973,
+      "created_at": "2023-12-01T13:16:47-07:00",
+      "position": 7,
+      "updated_at": "2024-02-09T16:07:34-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineappleflowerresized-3_554fecab-5a9a-41cd-b14b-1dd6c2f4de65.jpg?v=1707520054",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31186211995757,
+      "created_at": "2024-02-09T16:07:18-07:00",
+      "position": 8,
+      "updated_at": "2024-02-09T16:07:34-07:00",
+      "product_id": 7113542500461,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-CoconutSantal-Vertical-Resized_15fdc9c2-38e4-4a77-839a-6ea5e96a87a4.jpg?v=1707520054",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 45.6,
+  "compare_at_price": 57,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/capriblue_9d242a92-6f83-43be-89b6-6c45b08791ee.jpg?v=1698420788",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

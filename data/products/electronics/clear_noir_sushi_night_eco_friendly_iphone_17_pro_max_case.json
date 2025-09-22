@@ -1,0 +1,76 @@
+{
+  "id": 8465020223576,
+  "title": "Clear Sushi Night iPhone 17 Pro Max Case With Noir Ridge (MagSafe included)",
+  "handle": "clear-noir-sushi-night-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<article class=\"text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-67c5bd97-38a8-8003-a416-6957588cd49b-18\" data-testid=\"conversation-turn-678\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"d0d93d08-b3a5-4c58-80c1-d0da255ee02b\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5\" data-message-model-slug=\"gpt-5\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"357\" data-is-last-node=\"\" data-is-only-node=\"\">Roll into style with the <strong data-start=\"25\" data-end=\"57\">Clear Sushi Night Phone Case</strong> 🍣✨. Bursting with colorful nigiri, maki, and even a cozy bowl of miso, this case is basically a sushi feast for your phone. Perfect for foodies, chopstick masters, or anyone who’s ever declared sushi night as the <em data-start=\"272\" data-end=\"284\">best night</em>. Fresh, fun, and totally crave-worthy—no soy sauce spills required! 🥢💖</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p class=\"p1\"><meta charset=\"utf-8\"><b data-stringify-type=\"bold\">Clear protection that doesn't quit.</b><span> Pela's most advanced clear case yet—premium drop protection and seamless wireless charging. Because you're not settling for basic, and neither should your phone case.</span></p>",
+  "published_at": "2025-09-09T14:24:26-04:00",
+  "created_at": "2025-09-03T13:42:34-04:00",
+  "updated_at": "2025-09-22T15:13:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "Clear Case With Ridge",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sushi Night",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43183752806488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:28960-IP17PMAX-NOIR-CLEAR-MS-AOD:SUSHI-NIGHT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8465020223576,
+      "created_at": "2025-09-03T13:42:34-04:00",
+      "updated_at": "2025-09-22T15:13:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35737827770456,
+      "created_at": "2025-09-03T13:42:34-04:00",
+      "position": 1,
+      "updated_at": "2025-09-03T13:42:36-04:00",
+      "product_id": 8465020223576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUSHI-NIGHT_IP17PMAX-CLEAR_Noir.jpg?v=1756921356",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 75,
+  "compare_at_price": 75,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUSHI-NIGHT_IP17PMAX-CLEAR_Noir.jpg?v=1756921356",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

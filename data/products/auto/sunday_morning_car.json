@@ -1,0 +1,111 @@
+{
+  "id": 7660205375597,
+  "title": "Sunday Morning",
+  "handle": "sunday-morning-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Turn your car into a serene escape with Sunday Morning’s bright <strong>pear</strong> and <strong>bergamot</strong>, soft <strong>florals</strong>, and calming <strong>amber woods.</strong><br></p>",
+  "published_at": "2025-06-18T09:30:07-06:00",
+  "created_at": "2025-05-28T11:15:10-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Brooklyn Candle Studio",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Brooklyn Candle Studio",
+    "CollectionFilter_Fall Fruit",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42462338482285,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LMSC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7660205375597,
+      "created_at": "2025-05-28T11:15:10-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34405954093165,
+      "created_at": "2025-05-28T11:31:52-06:00",
+      "position": 1,
+      "updated_at": "2025-05-28T11:31:54-06:00",
+      "product_id": 7660205375597,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BCS-SundayMorning-Car-PDP-0325.jpg?v=1748453514",
+      "width": 3163,
+      "height": 4217
+    },
+    {
+      "id": 34405954158701,
+      "created_at": "2025-05-28T11:31:52-06:00",
+      "position": 2,
+      "updated_at": "2025-05-28T11:32:02-06:00",
+      "product_id": 7660205375597,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pearresized-3_40935df8-a524-4700-ac8c-7742dc591b71.jpg?v=1748453522",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34405954060397,
+      "created_at": "2025-05-28T11:31:52-06:00",
+      "position": 3,
+      "updated_at": "2025-05-28T11:32:02-06:00",
+      "product_id": 7660205375597,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SundayMorning-Car-BrooklynCandleStudio-Prod3-0525.png?v=1748453522",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34405954224237,
+      "created_at": "2025-05-28T11:31:52-06:00",
+      "position": 4,
+      "updated_at": "2025-05-28T11:32:02-06:00",
+      "product_id": 7660205375597,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BCS-SundayMorning-Car-Prod4-0325.jpg?v=1748453522",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BCS-SundayMorning-Car-PDP-0325.jpg?v=1748453514",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brooklyn Candle Studio",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

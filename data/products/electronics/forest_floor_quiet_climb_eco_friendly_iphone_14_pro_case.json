@@ -1,0 +1,98 @@
+{
+  "id": 8419730620504,
+  "title": "Forest Floor Quiet Climb iPhone 14 Pro Case",
+  "handle": "forest-floor-quiet-climb-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Take the scenic route—every time you pick up your phone. The Quiet Climb Phone Case captures the stillness of the mountains with a bold, hand-drawn silhouette of alpine peaks and forest treetops. It’s a love letter to rugged hikes, misty mornings, and moments of calm off the grid. Made for nature lovers, designed for everyday adventure. 🌲🏔️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:12:29-04:00",
+  "created_at": "2025-07-03T14:11:35-04:00",
+  "updated_at": "2025-09-22T15:13:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Quiet Climb",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033226641496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16802-IP14P-FOREST-AOD:QUIET-CLIMB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419730620504,
+      "created_at": "2025-07-03T14:11:36-04:00",
+      "updated_at": "2025-09-22T15:13:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354068811864,
+      "created_at": "2025-07-03T14:11:36-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:37-04:00",
+      "product_id": 8419730620504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/QUIET-CLIMB_IP14P_ForestFloor.jpg?v=1751566297",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547537834072,
+      "created_at": "2025-08-05T10:10:39-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:10:39-04:00",
+      "product_id": 8419730620504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/6bfc1ee7b56cbe104cb0f598a4f1d078_68508b24-80e8-4893-9026-8c255e1ee764.jpg?v=1754403039",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547538227288,
+      "created_at": "2025-08-05T10:10:40-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:10:40-04:00",
+      "product_id": 8419730620504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/cb731cc24621e1aca919d1d33becf309_bb3f8020-b6dc-4d0c-be63-8a4b4859f7ee.jpg?v=1754403040",
+      "width": 4341,
+      "height": 4341
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/QUIET-CLIMB_IP14P_ForestFloor.jpg?v=1751566297",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

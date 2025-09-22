@@ -1,0 +1,91 @@
+{
+  "id": 7552082215000,
+  "title": "Bubblegum Pink Phone Case Card Holder",
+  "handle": "bubblegum-pink-phone-case-card-holder",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Two things you always have on you are your phone and your wallet - ditch the wallet and lighten your load with the the compostable Pela card holder! The Pela card holders securely stick to the back of nearly any Pela case utilizing an adhesive attachment to create a thin, durable, low profile combo! Level up your phone case while protecting your cards and the planet!</span><br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"color: #ff2a00;\"><strong data-mce-fragment=\"1\">Phone Case is not Included.</strong></span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Not compatible with Classic cases for iPhone 13 mini, iPhone 12 mini, iPhone 5/5s, Samsung S23, Samsung S20 or Google Pixel 5. Not compatible with Clear cases for iPhone 13 mini, iPhone 12 mini, iPhone 6/6s/7/8/SE, iPhone 11 Pro, iPhone X/XS, Google Pixel 6 and Google Pixel 6 Pro.</strong></span></p>",
+  "published_at": "2024-04-22T14:29:09-04:00",
+  "created_at": "2024-02-02T14:07:35-05:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Card Holder",
+  "tags": [
+    "accessory",
+    "CARDH"
+  ],
+  "variants": [
+    {
+      "id": 41020824256600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25572-CARDH-BUBPINK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 7,
+      "compare_at_price": "20.00",
+      "position": 1,
+      "product_id": 7552082215000,
+      "created_at": "2024-02-02T14:07:35-05:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640184549464,
+      "created_at": "2024-04-16T14:19:12-04:00",
+      "position": 1,
+      "updated_at": "2024-04-16T14:19:17-04:00",
+      "product_id": 7552082215000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_BUBBLEGUM_PINK_45L_NO_CARDS.jpg?v=1713291557",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640184516696,
+      "created_at": "2024-04-16T14:19:12-04:00",
+      "position": 2,
+      "updated_at": "2024-04-16T14:19:17-04:00",
+      "product_id": 7552082215000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_BUBBLEGUM_PINK_45L_CARDS_NEW.jpg?v=1713291557",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640184582232,
+      "created_at": "2024-04-16T14:19:12-04:00",
+      "position": 3,
+      "updated_at": "2024-04-16T14:19:14-04:00",
+      "product_id": 7552082215000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_BUBBLEGUM_PINK_ON_PHONE.jpg?v=1713291554",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "compare_at_price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_BUBBLEGUM_PINK_45L_NO_CARDS.jpg?v=1713291557",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Card Holder",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

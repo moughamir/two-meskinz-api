@@ -1,0 +1,86 @@
+{
+  "id": 7361506738264,
+  "title": "Seashell Mountain Sketch iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-mountain-sketch-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Embrace the great outdoors from the comfort of your phone with the Pela Mountain Sketch Phone Case! This case features a serene mountain landscape rendered in cool, earthy tones with stylized, flowing contours that mimic the tranquil beauty of nature. A tiny crescent moon adds a whimsical touch to the scene, making this more than just a protective case—it’s a mini escape to the wild, right in your pocket. Perfect for adventurers and nature lovers alike, this case keeps your tech safe while reminding you of the majestic beauty of the mountains wherever you go. 🌄🌙📱</span><br></p>\n<p><span><meta charset=\"utf-8\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2023-05-11T09:36:48-04:00",
+  "created_at": "2023-05-09T10:10:45-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Mountains",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mountain Sketch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40229239717976,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:MOUNTAIN-SKETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7361506738264,
+      "created_at": "2023-05-09T10:10:45-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30259892387928,
+      "created_at": "2023-05-09T10:10:45-04:00",
+      "position": 1,
+      "updated_at": "2023-05-09T10:10:45-04:00",
+      "product_id": 7361506738264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MOUNTAIN-SKETCH_IP7_Seashell.jpg?v=1683641445",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30259919388760,
+      "created_at": "2023-05-09T11:26:48-04:00",
+      "position": 2,
+      "updated_at": "2023-05-09T11:26:49-04:00",
+      "product_id": 7361506738264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1220_43f1c297-a99a-4a72-b4cc-6d5cd06a47f9.jpg?v=1683646009",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MOUNTAIN-SKETCH_IP7_Seashell.jpg?v=1683641445",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

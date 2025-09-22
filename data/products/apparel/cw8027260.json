@@ -1,0 +1,67 @@
+{
+  "id": 7785864396967,
+  "title": "Brand: Contec Professional / Part #: ATHD0101",
+  "handle": "cw8027260",
+  "body_html": "<br><strong>Item #: </strong>11570785<br><strong>Brand: </strong>Contec Professional<br><strong>Model #: </strong>ATHD0101<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wipe Type</strong>\n</td>\n<td>Disinfecting</td>\n</tr>\n<tr>\n<td><strong>Wipe Form</strong></td>\n<td>Pre-Moistened</td>\n</tr>\n<tr>\n<td><strong>Scent</strong></td>\n<td>Citrus</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Jumbo Roll</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Synthetic</td>\n</tr>\n<tr>\n<td><strong>Wipe Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Sheet Length</strong></td>\n<td>6.0000 in</td>\n</tr>\n<tr>\n<td><strong>Sheet Width</strong></td>\n<td>8.0000 in</td>\n</tr>\n<tr>\n<td><strong>Sheets per Pack</strong></td>\n<td>900</td>\n</tr>\n<tr>\n<td><strong>Disposable</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:56:10-06:00",
+  "created_at": "2023-12-29T04:56:10-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Contec Professional",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Towels; Tissues & Wipes"
+  ],
+  "variants": [
+    {
+      "id": 43705679937703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "11570785",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.49",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785864396967,
+      "created_at": "2023-12-29T04:56:10-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237444866215,
+      "created_at": "2025-02-03T18:16:20-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:21-06:00",
+      "product_id": 7785864396967,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1157078-21.jpg?v=1738628181",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.49,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1157078-21.jpg?v=1738628181",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Contec Professional",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

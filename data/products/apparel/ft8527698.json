@@ -1,0 +1,67 @@
+{
+  "id": 7785945071783,
+  "title": "Brand: DoALL / Part #: 303-934120.000",
+  "handle": "ft8527698",
+  "body_html": "<br><strong>Item #: </strong>09846981<br><strong>Brand: </strong>DoALL<br><strong>Model #: </strong>303-934120.000<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Blade Length (Feet)</strong>\n</td>\n<td>10'</td>\n</tr>\n<tr>\n<td><strong>Blade Material</strong></td>\n<td>Bi-Metal</td>\n</tr>\n<tr>\n<td><strong>Teeth Per Inch</strong></td>\n<td>6-10</td>\n</tr>\n<tr>\n<td><strong>Blade Width (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Blade Thickness (Decimal Inch)</strong></td>\n<td>0.0350</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Style</strong></td>\n<td>Toothed</td>\n</tr>\n<tr>\n<td><strong>Tooth Set</strong></td>\n<td>Raker</td>\n</tr>\n<tr>\n<td><strong>Tooth Material</strong></td>\n<td>M 42 HSS</td>\n</tr>\n<tr>\n<td><strong>Tooth Form</strong></td>\n<td>Vari/Raker</td>\n</tr>\n<tr>\n<td><strong>Pitch Pattern</strong></td>\n<td>Variable</td>\n</tr>\n<tr>\n<td><strong>Contour Cutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal; Ferrous Metal</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:14:35-06:00",
+  "created_at": "2023-12-29T07:14:35-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "DoALL",
+  "product_type": "Saw Blades",
+  "tags": [
+    "Band Saw Blades"
+  ],
+  "variants": [
+    {
+      "id": 43706104479911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09846981",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "62.55",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785945071783,
+      "created_at": "2023-12-29T07:14:35-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237668081831,
+      "created_at": "2025-02-03T18:21:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:21:08-06:00",
+      "product_id": 7785945071783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1666554-21_e3dc022b-f2e1-4e2e-98f3-b53714205210.jpg?v=1738628468",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 62.55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1666554-21_e3dc022b-f2e1-4e2e-98f3-b53714205210.jpg?v=1738628468",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DoALL",
+  "category": "Saw Blades",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

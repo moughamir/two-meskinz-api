@@ -1,0 +1,98 @@
+{
+  "id": 8385980170328,
+  "title": "Bubblegum Pink Rosettes iPhone 16 Case",
+  "handle": "bubblegum-pink-rosettes-eco-friendly-iphone-16-case",
+  "body_html": "<p><span>Infuse your daily routine with the delicate charm of the Rosettes Phone Case from Pela, blossoming with a garden of sketched roses over a bubblegum pink canvas. This case is for those who appreciate the timeless elegance of nature's most renowned flower, offering a sustainable embrace for your phone.</span><span> 📱🌹✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-27T16:06:17-04:00",
+  "created_at": "2025-05-27T15:36:00-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Rosettes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908610953304,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17251-IP16-BUBPINK-AOD:ROSETTES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385980170328,
+      "created_at": "2025-05-27T15:36:00-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35102965170264,
+      "created_at": "2025-05-27T15:36:00-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T15:36:02-04:00",
+      "product_id": 8385980170328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSETTES_IP16_BubblegumPink.jpg?v=1748374562",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103021662296,
+      "created_at": "2025-05-27T15:47:22-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T15:47:23-04:00",
+      "product_id": 8385980170328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSETTES_BUBBLEGUM-1_e3ee4f46-083f-4132-a92c-00e9f3392932.jpg?v=1748375243",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103021695064,
+      "created_at": "2025-05-27T15:47:22-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T15:47:24-04:00",
+      "product_id": 8385980170328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSETTES_BUBBLEGUM-3_ee018e98-ab95-4bf0-9496-692d9bb00fd2.jpg?v=1748375244",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROSETTES_IP16_BubblegumPink.jpg?v=1748374562",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

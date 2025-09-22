@@ -1,0 +1,97 @@
+{
+  "id": 8303984902232,
+  "title": "Seashell Rainbow Trout iPhone 11 Case",
+  "handle": "seashell-rainbow-trout-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Trout lovers, this one's for you! <em data-start=\"2356\" data-end=\"2371\">Rainbow Trout Phone Case</em> is packed with realistic fish illustrations, swimming across a natural-toned background for an effortlessly cool, outdoorsy look. Whether you’re knee-deep in a river or just love a good fish print, this case keeps your passion alive and your phone protected. <meta charset=\"utf-8\">🌈🐟</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-27T09:08:29-04:00",
+  "created_at": "2025-03-03T11:13:19-05:00",
+  "updated_at": "2025-09-22T15:14:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rainbow Trout",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42707148406872,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:RAINBOW-TROUT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8303984902232,
+      "created_at": "2025-03-03T11:13:20-05:00",
+      "updated_at": "2025-09-22T15:14:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34626214068312,
+      "created_at": "2025-03-03T11:13:20-05:00",
+      "position": 1,
+      "updated_at": "2025-03-03T11:13:21-05:00",
+      "product_id": 8303984902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RAINBOW-TROUT_IP11_Seashell.jpg?v=1741018401",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34743090610264,
+      "created_at": "2025-03-25T12:19:05-04:00",
+      "position": 2,
+      "updated_at": "2025-03-25T12:19:06-04:00",
+      "product_id": 8303984902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Androids_PDP_1x1_03_a93c30d5-6206-486b-b104-25aebcd01135.jpg?v=1742919546",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34743090643032,
+      "created_at": "2025-03-25T12:19:05-04:00",
+      "position": 3,
+      "updated_at": "2025-03-25T12:19:06-04:00",
+      "product_id": 8303984902232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Friends_PDP_1x1_06_0bec05e0-db48-4b22-833c-bf8ad2a351a8.jpg?v=1742919546",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RAINBOW-TROUT_IP11_Seashell.jpg?v=1741018401",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

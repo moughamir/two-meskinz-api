@@ -1,0 +1,67 @@
+{
+  "id": 7785359114407,
+  "title": "Brand: Liteband / Part #: LBP1500-L34CF",
+  "handle": "er4513910",
+  "body_html": "<br><strong>Item #: </strong>09928011<br><strong>Brand: </strong>Liteband<br><strong>Model #: </strong>LBP1500-L34CF<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Light Output</strong>\n</td>\n<td>1500</td>\n</tr>\n<tr>\n<td><strong>Run Time</strong></td>\n<td>26</td>\n</tr>\n<tr>\n<td><strong>Beam Distance</strong></td>\n<td>250 m</td>\n</tr>\n<tr>\n<td><strong>Lumens</strong></td>\n<td>1500</td>\n</tr>\n<tr>\n<td><strong>Light Output Modes</strong></td>\n<td>High/Low/Red/Flash</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>3.70</td>\n</tr>\n<tr>\n<td><strong>Housing Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Number Of Light Modes</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Batteries Included</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Battery Size</strong></td>\n<td>3400 mAh</td>\n</tr>\n<tr>\n<td><strong>Battery Chemistry</strong></td>\n<td>Lithium</td>\n</tr>\n<tr>\n<td><strong>Rechargeable</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Bulb Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Battery, Headllamp, hard hat clips, charging cable</td>\n</tr>\n<tr>\n<td><strong>Number Of Batteries</strong></td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:46:25-06:00",
+  "created_at": "2023-12-28T18:46:25-06:00",
+  "updated_at": "2025-09-22T10:55:37-05:00",
+  "vendor": "Liteband",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43703673290919,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09928011",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "101.89",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785359114407,
+      "created_at": "2023-12-28T18:46:25-06:00",
+      "updated_at": "2025-09-22T10:55:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236779217063,
+      "created_at": "2025-02-03T17:53:43-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:53:44-06:00",
+      "product_id": 7785359114407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0992801-21.jpg?v=1738626824",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 101.89,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0992801-21.jpg?v=1738626824",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Liteband",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

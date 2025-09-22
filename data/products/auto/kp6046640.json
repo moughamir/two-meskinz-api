@@ -1,0 +1,67 @@
+{
+  "id": 8453178392743,
+  "title": "2.35 mm Dia. × 3 mm Shank Dia. × 50 mm OAL × 16.5 mm LCF, 140 Degrees, 7xD, 2 Flute, Uncoated - Solid Carbide Drills",
+  "handle": "kp6046640",
+  "body_html": "<br><strong>Item #: </strong>FB506200235R<br><strong>Brand: </strong>GMauvias<br><strong>Model #: </strong>6200235R<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Drill Bit Size / Cutting Diameter (DC)</strong></td>\n<td>2.35 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Micro Drills </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>7xD </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>16.5 mm </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Uncoated </td>\n</tr>\n<tr>\n<td><strong>Length Chip Flute (LCF)</strong></td>\n<td>16.5 mm </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>3 mm </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>50 mm </td>\n</tr>\n<tr>\n<td><strong>Point Angle (SIG)</strong></td>\n<td>140 Degrees </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>21 mm </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:21:03-06:00",
+  "created_at": "2025-01-23T21:21:02-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "GMauvias",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling"
+  ],
+  "variants": [
+    {
+      "id": 46499806150823,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FB506200235R",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.16",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453178392743,
+      "created_at": "2025-01-23T21:21:02-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38142550180007,
+      "created_at": "2025-01-23T21:21:10-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:21:11-06:00",
+      "product_id": 8453178392743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_gmauvaisusa6200_c433_259f4041-4c56-455e-b128-6a2c9038e9f0.png?v=1737688871",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_gmauvaisusa6200_c433_259f4041-4c56-455e-b128-6a2c9038e9f0.png?v=1737688871",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GMauvias",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

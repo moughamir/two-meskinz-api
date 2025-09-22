@@ -1,0 +1,67 @@
+{
+  "id": 7785830547623,
+  "title": "Brand: Harvey Tool / Part #: 772906",
+  "handle": "fk107089364",
+  "body_html": "<br><strong>Item #: </strong>82498759<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>772906<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Threads Per Inch</strong>\n</td>\n<td>64</td>\n</tr>\n<tr>\n<td><strong>Minimum Pitch (Decimal Inch)</strong></td>\n<td>0.0179</td>\n</tr>\n<tr>\n<td><strong>Minimum Threads Per Inch</strong></td>\n<td>56</td>\n</tr>\n<tr>\n<td><strong>Maximum Pitch (Decimal Inch)</strong></td>\n<td>0.0156</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal/External</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>#2-56 - #2-64</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (Decimal Inch)</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (Decimal Inch)</strong></td>\n<td>0.0640</td>\n</tr>\n<tr>\n<td><strong>Minimum Nominal Diameter (Inch)</strong></td>\n<td>#2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (Decimal Inch)</strong></td>\n<td>0.0380</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>1.3750</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Thread Milling Cutters - Single Form - UN Threads</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>UN 60 Degree</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:51:28-06:00",
+  "created_at": "2023-12-29T03:51:28-06:00",
+  "updated_at": "2025-09-22T10:54:33-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills"
+  ],
+  "variants": [
+    {
+      "id": 43705609486503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82498759",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "72.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785830547623,
+      "created_at": "2023-12-29T03:51:28-06:00",
+      "updated_at": "2025-09-22T10:54:33-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237375037607,
+      "created_at": "2025-02-03T18:13:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:13:50-06:00",
+      "product_id": 7785830547623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4054252-21_8da02c67-d991-421e-9f1b-001e4ddb95d8.jpg?v=1738628030",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 72.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4054252-21_8da02c67-d991-421e-9f1b-001e4ddb95d8.jpg?v=1738628030",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

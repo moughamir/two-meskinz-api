@@ -1,0 +1,99 @@
+{
+  "id": 7556232446040,
+  "title": "Bubblegum Pink Flora Google Pixel 7 Case",
+  "handle": "bubblegum-pink-flora-eco-friendly-google-pixel-7-case",
+  "body_html": "<p>Dress your phone in a burst of color with our Bubblegum Pink Flora Phone Case! This beautifully designed case features an engraved floral pattern, perfect for nature lovers. Made with sustainable materials, it's both durable and compostable - a win for your phone and the environment.</p>",
+  "published_at": "2024-02-22T04:36:19-05:00",
+  "created_at": "2024-02-08T11:08:13-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bubbles",
+    "name:Flora",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038003929176,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14841-PX7-BUBPINK-AOD:FLORA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556232446040,
+      "created_at": "2024-02-08T11:08:13-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177830461528,
+      "created_at": "2024-02-08T12:00:35-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T12:00:35-05:00",
+      "product_id": 7556232446040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_PX7_BubblegumPink_86a307c0-8aa1-435c-8914-a22d861ee7e8.jpg?v=1707411635",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211888734296,
+      "created_at": "2024-02-21T02:45:57-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T02:46:02-05:00",
+      "product_id": 7556232446040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-2_50258cd4-437f-4e92-80ad-7b984449a040.jpg?v=1708501562",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211888537688,
+      "created_at": "2024-02-21T02:45:57-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T02:46:02-05:00",
+      "product_id": 7556232446040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-1_cad95c19-9ad5-4fb1-a580-1f75204c2a84.jpg?v=1708501562",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORA_PX7_BubblegumPink_86a307c0-8aa1-435c-8914-a22d861ee7e8.jpg?v=1707411635",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

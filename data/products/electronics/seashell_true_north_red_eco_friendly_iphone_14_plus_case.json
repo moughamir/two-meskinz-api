@@ -1,0 +1,120 @@
+{
+  "id": 8345582043224,
+  "title": "Seashell True North Red iPhone 14 Plus Case",
+  "handle": "seashell-true-north-red-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p data-start=\"70\" data-end=\"324\" class=\"\">Maple syrup, toques, canadian geese, hockey sticks, and ketchup chips—this bold red beauty is a love letter to the Great White North. Whether you're paddling a canoe or just braving the morning commute, this case brings peak Canadian charm to your pocket.</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Made in Canada (eh!), it's compostable, durable, and packed with more national pride than a Mountie at a maple syrup festival.🍁🏒🇨🇦</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:35:24-04:00",
+  "created_at": "2025-04-14T10:39:39-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:True North Red",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815083446360,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:TRUE-NORTH-RED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345582043224,
+      "created_at": "2025-04-14T10:39:39-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829662584920,
+      "created_at": "2025-04-14T10:39:39-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:40-04:00",
+      "product_id": 8345582043224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_IP14PLUS_Seashell.jpg?v=1744641580",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982739247192,
+      "created_at": "2025-05-07T16:32:25-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:32:32-04:00",
+      "product_id": 8345582043224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_e44d69ba-c16e-4fb6-ab94-37339a840dac.jpg?v=1746649952",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982739214424,
+      "created_at": "2025-05-07T16:32:25-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:32:32-04:00",
+      "product_id": 8345582043224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_9a71e9c7-c894-4700-8958-975e2ef75c0c.jpg?v=1746649952",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982739312728,
+      "created_at": "2025-05-07T16:32:25-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:32:32-04:00",
+      "product_id": 8345582043224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_5e41893d-bd82-4d19-812f-507fe06fb354.jpg?v=1746649952",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982739279960,
+      "created_at": "2025-05-07T16:32:25-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:32:32-04:00",
+      "product_id": 8345582043224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_b0e615b3-cdc4-432d-a90b-66f994e0e328.jpg?v=1746649952",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_IP14PLUS_Seashell.jpg?v=1744641580",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

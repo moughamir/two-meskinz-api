@@ -1,0 +1,98 @@
+{
+  "id": 8406071902296,
+  "title": "Electric Blue Candy Bloom iPhone 13 Pro Case",
+  "handle": "electric-blue-candy-bloom-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p data-start=\"0\" data-end=\"82\">Meet the Candy Bloom Phone Case—where jungle vibes meet bubblegum dreams! 💗🌿</p>\n<p data-start=\"84\" data-end=\"327\">This bold botanical print features oversized pink anthurium-inspired leaves and speckled petals that look like watermelon seeds got a fashion upgrade. Set against a juicy blue background, it’s basically a tropical smoothie for your phone.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-10T08:58:22-04:00",
+  "created_at": "2025-06-17T14:37:19-04:00",
+  "updated_at": "2025-09-22T15:13:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Tropical Plants",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Candy Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42990983053400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16768-IP13P-ELEBLUE-AOD:CANDY-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8406071902296,
+      "created_at": "2025-06-17T14:37:19-04:00",
+      "updated_at": "2025-09-22T15:13:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35241718906968,
+      "created_at": "2025-06-17T14:37:19-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T14:37:21-04:00",
+      "product_id": 8406071902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CANDY-BLOOM_IP13P_ElectricBlue.jpg?v=1750185441",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359243108440,
+      "created_at": "2025-07-04T14:11:40-04:00",
+      "position": 2,
+      "updated_at": "2025-07-04T14:11:40-04:00",
+      "product_id": 8406071902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4e43f62c4bc4c143bc16af0d433c83ac_f139bc7c-3424-46b1-8c8a-782781044c3b.jpg?v=1751652700",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359243501656,
+      "created_at": "2025-07-04T14:11:42-04:00",
+      "position": 3,
+      "updated_at": "2025-07-04T14:11:42-04:00",
+      "product_id": 8406071902296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9f0ef1604b4aa5162328f38a94fd6cbd_f2daf9bd-6cfd-4e8c-816d-0a49da4153b8.jpg?v=1751652702",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CANDY-BLOOM_IP13P_ElectricBlue.jpg?v=1750185441",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

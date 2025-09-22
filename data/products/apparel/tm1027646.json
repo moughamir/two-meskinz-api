@@ -1,0 +1,68 @@
+{
+  "id": 5321331867815,
+  "title": "Torus End Mill; 1 mm Dia. × 0.6 mm LOC × 4 mm Shank Dia. × 60 mm OAL ; 2 FL ; Carbide ; AlCr ; 0.2 mm R ; Series Micro",
+  "handle": "tm1027646",
+  "body_html": "<br><strong>Item #: </strong>ER452783L001<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>2783L.001<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>1 mm </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>4 mm </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>0.6 mm </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Torus </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>60 mm </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Cast Iron | Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>Micro </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>AlCr </td>\n</tr>\n<tr>\n<td><strong>Corner Radius (RE) / Chamfer Width (CHW)</strong></td>\n<td>0.2 mm </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:26:41-06:00",
+  "created_at": "2020-06-12T08:53:25-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Milling",
+  "tags": [
+    "Coated Abrasives",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34692508024999,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER452783L001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "94.97",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321331867815,
+      "created_at": "2020-06-12T08:53:25-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38142972297383,
+      "created_at": "2025-01-23T21:26:49-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:26:50-06:00",
+      "product_id": 5321331867815,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_12841_2783L_002f_6136c872-f879-470c-a8ec-953966cc71b6.jpg?v=1737689210",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 94.97,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_12841_2783L_002f_6136c872-f879-470c-a8ec-953966cc71b6.jpg?v=1737689210",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

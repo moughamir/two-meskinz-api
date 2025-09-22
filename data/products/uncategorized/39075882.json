@@ -1,0 +1,68 @@
+{
+  "id": 5255456030887,
+  "title": "Hydraulic Control Valves; Valve Type: Manual; Maximum Flow Rate (Gpm - 2 Decimals): 4.50; Thread Standard: SAE; Flow Regulation Type: Four-Way; Maximum Working Pressure (Psi",
+  "handle": "39075882",
+  "body_html": "<br><strong>Item #: </strong>09806332<br><strong>Brand: </strong>Enerpac<br><strong>Model #: </strong>VMTD001<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Valve Type</strong>\n</td>\n<td>Manual</td>\n</tr>\n<tr> <td> <strong>Maximum Flow Rate (Gpm - 2 Decimals)</strong>\n</td>\n<td>4.50</td>\n</tr>\n<tr> <td> <strong>Thread Standard</strong>\n</td>\n<td>SAE</td>\n</tr>\n<tr> <td> <strong>Flow Regulation Type</strong>\n</td>\n<td>Four-Way</td>\n</tr>\n<tr> <td> <strong>Maximum Working Pressure (Psi - 3 Decimals)</strong>\n</td>\n<td>5000.000</td>\n</tr>\n<tr> <td> <strong>Number of Positions</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>4.1100</td>\n</tr>\n<tr> <td> <strong>Overall Width (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>2.0300</td>\n</tr>\n<tr> <td> <strong>Overall Height (Decimal Inch)</strong>\n</td>\n<td>4.4400</td>\n</tr>\n<tr> <td> <strong>Mounting Pattern</strong>\n</td>\n<td>D03</td>\n</tr>\n<tr> <td> <strong>Number Of Ports</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Seal Material</strong>\n</td>\n<td>Buna-N; Polyurethane</td>\n</tr>\n<tr> <td> <strong>Style</strong>\n</td>\n<td>Remote Mount Float Center Zero Leak</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40141609</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:48:43-06:00",
+  "created_at": "2020-05-29T19:00:40-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Enerpac",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Hydraulics",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34504540127399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09806332",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1043.54",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5255456030887,
+      "created_at": "2020-05-29T19:00:40-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244325556391,
+      "created_at": "2025-02-03T22:32:41-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:32:42-06:00",
+      "product_id": 5255456030887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0980633-21.jpg?v=1738643562",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1043.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0980633-21.jpg?v=1738643562",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Enerpac",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

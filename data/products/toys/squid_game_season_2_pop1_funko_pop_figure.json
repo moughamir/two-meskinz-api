@@ -1,0 +1,97 @@
+{
+  "id": 7903533662255,
+  "title": "Squid Game Front Man Funko Pop! Figure",
+  "handle": "squid-game-season-2-pop1-funko-pop-figure",
+  "body_html": "<p>What happens when a mysterious invitation is sent to people at risk who are in dire need of money? The games begin. Enforce the game rules and keep your <em>Squid Game</em> collection under control with POP! Front Man. </p><ul>\n<li>Vinyl figure is approximately 4.05-inches tall.</li>\n<li>Includes (1) Funko Pop! Figure</li>\n</ul>",
+  "published_at": "2025-06-27T09:37:56-04:00",
+  "created_at": "2025-01-07T08:09:02-05:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "funko",
+  "product_type": "Funko Pop!",
+  "tags": [
+    "81040344",
+    "Collectibles",
+    "Funko Pop!",
+    "Home & Office",
+    "Squid Game"
+  ],
+  "variants": [
+    {
+      "id": 43522916712495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SG-R7008581-1-SQGM2-FPF1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35292278652975,
+        "product_id": 7903533662255,
+        "position": 1,
+        "created_at": "2025-01-07T08:09:02-05:00",
+        "updated_at": "2025-01-07T08:09:02-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQGM2-FPF1_MF.jpg?v=1736255342",
+        "variant_ids": [
+          43522916712495
+        ]
+      },
+      "available": false,
+      "price": "15.95",
+      "grams": 381,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7903533662255,
+      "created_at": "2025-01-07T08:09:02-05:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35292278652975,
+      "created_at": "2025-01-07T08:09:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-07T08:09:02-05:00",
+      "product_id": 7903533662255,
+      "variant_ids": [
+        43522916712495
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQGM2-FPF1_MF.jpg?v=1736255342",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35292278685743,
+      "created_at": "2025-01-07T08:09:02-05:00",
+      "position": 2,
+      "updated_at": "2025-01-07T08:09:02-05:00",
+      "product_id": 7903533662255,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQGM2-FPF1_MF2.jpg?v=1736255342",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQGM2-FPF1_MF.jpg?v=1736255342",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "funko",
+  "category": "Funko Pop!",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

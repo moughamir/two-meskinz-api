@@ -1,0 +1,108 @@
+{
+  "id": 7547137196141,
+  "title": "Beach Cottage",
+  "handle": "beach-cottage-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Like driving along a sunny coast, experience salty ocean air and hot sand under your feet as notes of <strong>bergamot</strong>, <strong>marine</strong>, and <strong>plumeria</strong> bring warmth and freshness to your commute.</p>",
+  "published_at": "2024-10-23T09:50:35-06:00",
+  "created_at": "2024-10-04T14:16:13-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Homesick",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Homesick",
+    "collection:Car",
+    "collection:New Arrivals",
+    "Group_Car",
+    "Mood_Bold",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 41852780871789,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HBCC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7547137196141,
+      "created_at": "2024-10-04T14:16:14-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33143444996205,
+      "created_at": "2024-10-04T14:23:21-06:00",
+      "position": 1,
+      "updated_at": "2024-10-04T14:23:23-06:00",
+      "product_id": 7547137196141,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-BeachCottage-Car-Prod1-0824.jpg?v=1728073403",
+      "width": 3695,
+      "height": 4870
+    },
+    {
+      "id": 33143444963437,
+      "created_at": "2024-10-04T14:23:21-06:00",
+      "position": 2,
+      "updated_at": "2024-10-04T14:23:23-06:00",
+      "product_id": 7547137196141,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/blond-woods-ingredients-2-RESIZED_5a5a2313-4465-42c6-b4af-0169b35c3f14.jpg?v=1728073403",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33143444897901,
+      "created_at": "2024-10-04T14:23:21-06:00",
+      "position": 3,
+      "updated_at": "2024-10-04T14:23:23-06:00",
+      "product_id": 7547137196141,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeachCottage-Homesick-Car-Prod3-09-24.jpg?v=1728073403",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 33143445028973,
+      "created_at": "2024-10-04T14:23:21-06:00",
+      "position": 4,
+      "updated_at": "2024-10-04T14:23:23-06:00",
+      "product_id": 7547137196141,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-BeachCottage-Car-Prod4-0824.jpg?v=1728073403",
+      "width": 3695,
+      "height": 4870
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-BeachCottage-Car-Prod1-0824.jpg?v=1728073403",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Homesick",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

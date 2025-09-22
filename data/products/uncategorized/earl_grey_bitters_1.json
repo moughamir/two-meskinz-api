@@ -1,0 +1,119 @@
+{
+  "id": 7687793180781,
+  "title": "Earl Grey Bitters",
+  "handle": "earl-grey-bitters-1",
+  "body_html": "<p>Classic earl grey <strong>tea leaves</strong> are blended with <strong>lemon zest</strong>, <strong>bergamot</strong>, and <strong>peony</strong> for a relaxing moment.</p>",
+  "published_at": "2025-07-23T12:35:10-06:00",
+  "created_at": "2025-07-16T14:28:48-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Apotheke",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Apotheke",
+    "collection:Citrus",
+    "EGBH",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_earlgreybitters"
+  ],
+  "variants": [
+    {
+      "id": 42680651907181,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WEYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7687793180781,
+      "created_at": "2025-07-16T14:28:49-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34743337255021,
+      "created_at": "2025-07-16T14:30:16-06:00",
+      "position": 1,
+      "updated_at": "2025-07-16T14:30:19-06:00",
+      "product_id": 7687793180781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-EarlGreyBitters-Prod1-0525.jpg?v=1752697819",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34743337156717,
+      "created_at": "2025-07-16T14:30:16-06:00",
+      "position": 2,
+      "updated_at": "2025-07-16T15:15:58-06:00",
+      "product_id": 7687793180781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lemonresizedcopy_9863d15c-1215-441b-a108-3fd5156f30e2.jpg?v=1752700558",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34743337222253,
+      "created_at": "2025-07-16T14:30:16-06:00",
+      "position": 3,
+      "updated_at": "2025-07-16T15:15:58-06:00",
+      "product_id": 7687793180781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-EarlGreyBitters-Prod3-0525.jpg?v=1752700558",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34743337189485,
+      "created_at": "2025-07-16T14:30:16-06:00",
+      "position": 4,
+      "updated_at": "2025-07-16T15:15:58-06:00",
+      "product_id": 7687793180781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-EarlGreyBitters-Prod4-0525.jpg?v=1752700558",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-EarlGreyBitters-Prod1-0525.jpg?v=1752697819",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Apotheke",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

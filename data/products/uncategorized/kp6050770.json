@@ -1,0 +1,52 @@
+{
+  "id": 8453449908391,
+  "title": "Lightweight Fall-Arrest Harness, X-Large",
+  "handle": "kp6050770",
+  "body_html": null,
+  "published_at": "2025-01-24T06:44:04-06:00",
+  "created_at": "2025-01-24T06:44:01-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500820320423,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6050770",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "247.02",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453449908391,
+      "created_at": "2025-01-24T06:44:01-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 247.02,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

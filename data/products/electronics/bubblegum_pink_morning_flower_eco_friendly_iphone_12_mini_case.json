@@ -1,0 +1,88 @@
+{
+  "id": 7556233265240,
+  "title": "Bubblegum Pink Morning Flower iPhone 12 Mini Case",
+  "handle": "bubblegum-pink-morning-flower-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Bring a touch of playful charm to your daily tech with the Pela Bubblegum Pink Morning Flower Phone Case! Dressed in a vibrant pink hue, this case features a delightful floral design that mimics the first blush of dawn. Its swirling, soft-focus flower patterns, offer a dreamy aesthetic that's as eye-catching as it is protective. Perfect for those who love a splash of color and a dash of whimsy, this case ensures your phone is both secure and stylish. It’s a sweet, floral embrace for your phone, ready to brighten your day with every ring and buzz! 🌸💕📱</span></p>\n<p><span><meta charset=\"utf-8\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2024-02-22T04:39:11-05:00",
+  "created_at": "2024-02-08T11:08:17-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Bubblegum Pink",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bubbles",
+    "name:Morning Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038004748376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16367-IP12MINI-BUBPINK-AOD:MORNING-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556233265240,
+      "created_at": "2024-02-08T11:08:17-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177735565400,
+      "created_at": "2024-02-08T11:08:17-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:17-05:00",
+      "product_id": 7556233265240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MORNING-FLOWER_IP12MINI_BubblegumPink.jpg?v=1707408497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211916161112,
+      "created_at": "2024-02-21T02:52:40-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T02:52:41-05:00",
+      "product_id": 7556233265240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MORNING-FLOWER_BUBBLEGGUM_1_5cd5d96e-578c-4b9a-880f-2e6891511485.jpg?v=1708501961",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MORNING-FLOWER_IP12MINI_BubblegumPink.jpg?v=1707408497",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

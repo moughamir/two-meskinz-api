@@ -1,0 +1,52 @@
+{
+  "id": 8453413470375,
+  "title": "10mm 4 Flute Standard Carbide End Mill 0.5mm Radius-TiAlN",
+  "handle": "er4520219",
+  "body_html": null,
+  "published_at": "2025-01-24T05:02:22-06:00",
+  "created_at": "2025-01-24T05:02:20-06:00",
+  "updated_at": "2025-09-22T10:51:46-05:00",
+  "vendor": "ET02 Cutting to Endmills",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500656677031,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "er4520219",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "127.63",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453413470375,
+      "created_at": "2025-01-24T05:02:21-06:00",
+      "updated_at": "2025-09-22T10:51:46-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 127.63,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 Cutting to Endmills",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

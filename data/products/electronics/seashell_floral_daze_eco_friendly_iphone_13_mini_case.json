@@ -1,0 +1,100 @@
+{
+  "id": 7374104461400,
+  "title": "Seashell Floral Daze iPhone 13 Mini Case",
+  "handle": "seashell-floral-daze-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><span>Embrace the blossoming beauty of nature with our Floral Daze Phone Case, a design that marries the digital and natural world in a celebration of form and function.  This case features a tapestry of abstract floral patterns in shades of cream and spring leaf green, evoking the feel of a serene meadow.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:48:35-04:00",
+  "created_at": "2023-08-29T15:01:12-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Floral Daze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258377613400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:FLORAL-DAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374104461400,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352885317720,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:12-04:00",
+      "product_id": 7374104461400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_IP13MINI_Seashell.jpg?v=1693335672",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356576927832,
+      "created_at": "2023-09-05T18:03:51-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:03:53-04:00",
+      "product_id": 7374104461400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams2_bfb20c67-950e-4603-a687-6697b0a03da9.jpg?v=1693951433",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356576895064,
+      "created_at": "2023-09-05T18:03:51-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:03:53-04:00",
+      "product_id": 7374104461400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_8414ead5-a660-46ac-9f07-35ae351c9f86.jpg?v=1693951433",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_IP13MINI_Seashell.jpg?v=1693335672",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

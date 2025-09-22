@@ -1,0 +1,67 @@
+{
+  "id": 7786290315431,
+  "title": "Brand: GOJO / Part #: 5165-03",
+  "handle": "ff87vbmt40671",
+  "body_html": "<br><strong>Item #: </strong>74219171<br><strong>Brand: </strong>GOJO<br><strong>Model #: </strong>5165-03<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Hand Cleaner</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Dispenser Refill</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>1250 mL</td>\n</tr>\n<tr>\n<td><strong>Form</strong></td>\n<td>Foam</td>\n</tr>\n<tr>\n<td><strong>Fits Dispenser</strong></td>\n<td>5150-06; 5155-06</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Disclaimer</strong></td>\n<td>This product is not a substitute for proper handwashing &amp; has not been tested to determine its efficacy against viruses such as the coronavirus</td>\n</tr>\n<tr>\n<td><strong>EPP Indicators</strong></td>\n<td>EcoLogo; USDA Certified BioBased</td>\n</tr>\n<tr>\n<td><strong>EPP GSA Codes</strong></td>\n<td>EP - Ecolabels; BQ - BioPreferred Item</td>\n</tr>\n<tr>\n<td><strong>Applications</strong></td>\n<td>Hand Soap</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T17:17:50-06:00",
+  "created_at": "2023-12-29T17:17:50-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "GOJO",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Skin Care & Personal Hygiene"
+  ],
+  "variants": [
+    {
+      "id": 43707429191847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "74219171",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786290315431,
+      "created_at": "2023-12-29T17:17:50-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238249975975,
+      "created_at": "2025-02-03T18:41:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:41:47-06:00",
+      "product_id": 7786290315431,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7421917-21.jpg?v=1738629707",
+      "width": 340,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7421917-21.jpg?v=1738629707",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GOJO",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

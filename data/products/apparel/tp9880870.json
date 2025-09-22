@@ -1,0 +1,67 @@
+{
+  "id": 7785727066279,
+  "title": "Brand: SC Johnson Professional / Part #: 699589",
+  "handle": "tp9880870",
+  "body_html": "<br><strong>Item #: </strong>94349412<br><strong>Brand: </strong>SC Johnson Professional<br><strong>Model #: </strong>699589<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Multi-Surface Floor Finish; Sealer</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Bag-in-Box</td>\n</tr>\n<tr>\n<td><strong>Container Size (fl. oz.)</strong></td>\n<td>256.00</td>\n</tr>\n<tr>\n<td><strong>Container Size (Gal.)</strong></td>\n<td>2.00</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Sealed Fiberglass; Sealed Wood; Rubber Composition Tile; Sealed Terra Cotta; Sealed Terrazzo; Terrazzo; Stone; Sealed Stone; Finishes; Linoleum Floor; Sealed Hard Floors; Vinyl Floors; Rubber; Graphite Composite Laminate; Linoleum; Vinyl Tile; Finished Wood; Solid Vinyl Tile; Engineered Stone; Rubber Floors; Sealed Limestone; Brick; Marble Terrazzo; Slate; Quarry Tile; Vinyl Composition Tile; Sealed Slate</td>\n</tr>\n<tr>\n<td><strong>Composition</strong></td>\n<td>Water Based</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:30:07-06:00",
+  "created_at": "2023-12-29T00:30:07-06:00",
+  "updated_at": "2025-09-22T10:54:55-05:00",
+  "vendor": "SC Johnson Professional",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Cleaners; Detergents & Odor Control"
+  ],
+  "variants": [
+    {
+      "id": 43705326502055,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94349412",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "82.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785727066279,
+      "created_at": "2023-12-29T00:30:07-06:00",
+      "updated_at": "2025-09-22T10:54:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237157294247,
+      "created_at": "2025-02-03T18:06:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:06:31-06:00",
+      "product_id": 7785727066279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9434941-21.jpg?v=1738627591",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 82.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9434941-21.jpg?v=1738627591",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SC Johnson Professional",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

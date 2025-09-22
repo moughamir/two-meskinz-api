@@ -1,0 +1,109 @@
+{
+  "id": 8359095140440,
+  "title": "London Fog Coastal Lounging iPhone 15 Pro Case",
+  "handle": "london-fog-coastal-lounging-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Kick back and relax—your phone’s on island time now. The Coastal Lounging Phone Case brings major beach day energy with its breezy sketches of palms, umbrellas, and sun chairs in cool nautical blue. Whether you're poolside or desk-bound, this case serves effortless vacay vibes and a reminder to take life one chill moment at a time. 🏖️🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:52:10-04:00",
+  "created_at": "2025-04-28T09:44:31-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coastal Lounging",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846499504216,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17055-IP15P-LFOG-AOD:COASTAL-LOUNGING",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359095140440,
+      "created_at": "2025-04-28T09:44:31-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914299314264,
+      "created_at": "2025-04-28T09:44:31-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:33-04:00",
+      "product_id": 8359095140440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-LOUNGING_IP15P_LondonFog.jpg?v=1745847873",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010468905048,
+      "created_at": "2025-05-13T06:09:28-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:09:33-04:00",
+      "product_id": 8359095140440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_01_8a6867f1-c880-4b4d-91ec-b03f50535ce2.jpg?v=1747130973",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010468839512,
+      "created_at": "2025-05-13T06:09:28-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T06:09:33-04:00",
+      "product_id": 8359095140440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_03_fc840153-a72e-4383-98df-3b6e80733ce4.jpg?v=1747130973",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010468872280,
+      "created_at": "2025-05-13T06:09:28-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T06:09:33-04:00",
+      "product_id": 8359095140440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalLounging_PDP_02_57906786-bfaa-493a-b217-a0b79f7677c4.jpg?v=1747130973",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-LOUNGING_IP15P_LondonFog.jpg?v=1745847873",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

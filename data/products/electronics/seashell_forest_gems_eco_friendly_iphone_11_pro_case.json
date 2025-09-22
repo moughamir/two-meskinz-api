@@ -1,0 +1,108 @@
+{
+  "id": 8142177828952,
+  "title": "Seashell Forest Gems iPhone 11 Pro Case",
+  "handle": "seashell-forest-gems-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:46:51-04:00",
+  "created_at": "2024-09-25T12:26:18-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294275211352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142177828952,
+      "created_at": "2024-09-25T12:26:18-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677678837848,
+      "created_at": "2024-09-25T12:26:18-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:18-04:00",
+      "product_id": 8142177828952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP11P_Seashell.jpg?v=1727281578",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749425913944,
+      "created_at": "2024-10-09T17:25:47-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:25:49-04:00",
+      "product_id": 8142177828952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_1a88a124-787e-48cd-94fd-e2ccc0dc8b8a.jpg?v=1728509149",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749425946712,
+      "created_at": "2024-10-09T17:25:47-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:25:49-04:00",
+      "product_id": 8142177828952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_275726bb-1bc4-45d5-928f-15b5720e47aa.jpg?v=1728509149",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749425881176,
+      "created_at": "2024-10-09T17:25:47-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:25:49-04:00",
+      "product_id": 8142177828952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_5ed0b5ea-d937-4c52-bd5f-446b5fe921f0.jpg?v=1728509149",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP11P_Seashell.jpg?v=1727281578",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

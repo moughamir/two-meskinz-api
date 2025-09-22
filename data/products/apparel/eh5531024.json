@@ -1,0 +1,67 @@
+{
+  "id": 7785430450343,
+  "title": "Brand: Wiha / Part #: 20149",
+  "handle": "eh5531024",
+  "body_html": "<br><strong>Item #: </strong>32813339<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>20149<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wrench Type</strong>\n</td>\n<td>Open End</td>\n</tr>\n<tr>\n<td><strong>Head Type</strong></td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Wrench Size</strong></td>\n<td>1-1/8 in</td>\n</tr>\n<tr>\n<td><strong>Number Of Points</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Insulating Elastomer</td>\n</tr>\n<tr>\n<td><strong>Opening Angle</strong></td>\n<td>15 ?</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>9.2000</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Non-sparking</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Corrosion-resistant</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>233.0000</td>\n</tr>\n<tr>\n<td><strong>Head Thickness</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Size (Decimal Inch)</strong></td>\n<td>1-1/8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:50:09-06:00",
+  "created_at": "2023-12-28T20:50:09-06:00",
+  "updated_at": "2025-09-22T10:55:17-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Wrenches"
+  ],
+  "variants": [
+    {
+      "id": 43703825072295,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "32813339",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "94.17",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785430450343,
+      "created_at": "2023-12-28T20:50:09-06:00",
+      "updated_at": "2025-09-22T10:55:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236918579367,
+      "created_at": "2025-02-03T17:58:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:12-06:00",
+      "product_id": 7785430450343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3281333-21.jpg?v=1738627092",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 94.17,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3281333-21.jpg?v=1738627092",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8127740870744,
+  "title": "Seashell Pumpkin Spice iPhone 12 Mini Case",
+  "handle": "seashell-pumpkin-spice-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p class=\"p1\">Get ready to fall in love with your phone all over again with the Pumpkin Spice Phone Case! 🎃🍂 This charming design is a tribute to all things cozy—steaming mugs of coffee, cinnamon sticks, pumpkin pie, and a sprinkle of autumn magic. It’s like wrapping your phone in a warm blanket of fall vibes, perfect for pumpkin spice lovers and autumn enthusiasts alike. Sip your latte, cozy up, and let your phone bask in the sweet, spicy goodness of the season! ☕🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:08:14-04:00",
+  "created_at": "2024-09-13T10:29:32-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pumpkin Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346446424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:PUMPKIN-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740870744,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318810712,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:32-04:00",
+      "product_id": 8127740870744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP12MINI_Seashell.jpg?v=1726237772",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685750677592,
+      "created_at": "2024-09-26T17:42:04-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:42:06-04:00",
+      "product_id": 8127740870744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_02_1d343bf1-d29e-484c-bbbc-840d9820783d.jpg?v=1727386926",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678557282392,
+      "created_at": "2024-09-25T15:24:50-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:24:51-04:00",
+      "product_id": 8127740870744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_95f925f6-ffd4-49e4-80ed-d069983969f4.jpg?v=1727292291",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685750710360,
+      "created_at": "2024-09-26T17:42:04-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:42:07-04:00",
+      "product_id": 8127740870744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_86bf4922-804a-43c0-a666-08176aebf993.jpg?v=1727386927",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP12MINI_Seashell.jpg?v=1726237772",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

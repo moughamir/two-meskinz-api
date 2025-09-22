@@ -1,0 +1,95 @@
+{
+  "id": 7773429366831,
+  "title": "Emily in Paris CamelBak Eddy®+ Water Bottle",
+  "handle": "emily-in-paris-camelbak-water-bottle",
+  "body_html": "<p>Introducing the <em>Emily in Paris</em> <meta charset=\"utf-8\"><span>CamelBak Eddy®+ Water Bottle</span> – the chic hydration companion for those who believe that staying refreshed can be just as stylish as a stroll along the Seine. Inspired by the effervescent energy of the hit TV series<em> \"Emily in Paris,\"</em> this water bottle combines functionality with French flair to keep you hydrated in the most fashionable way.</p>\n<ul>\n<li>25 oz (739 ml)</li>\n<li>Dimensions: 10 × 3 in (25.4 × 7.62 cm)</li>\n<li>BPA-free Eastman Tritan™</li>\n<li>Renew 50% recycled material Stain, shatter, and odor-resistant</li>\n<li>Spill-proof screw-on lid with bite valve</li>\n<li>Single-finger carry-handle</li>\n</ul>",
+  "published_at": "2024-07-25T16:50:25-04:00",
+  "created_at": "2024-07-17T05:48:26-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Water Bottles",
+  "tags": [
+    "81037371",
+    "Emily in Paris",
+    "Home & Office",
+    "home and office",
+    "Promo Eligible Collection",
+    "Sports Water Bottle",
+    "Water Bottles"
+  ],
+  "variants": [
+    {
+      "id": 43103199592495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "EIP-101694-0004-EIP-EINP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "39.95",
+      "grams": 1361,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7773429366831,
+      "created_at": "2024-07-17T05:48:27-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34341662392367,
+      "created_at": "2024-07-25T10:17:12-04:00",
+      "position": 1,
+      "updated_at": "2024-07-25T10:17:14-04:00",
+      "product_id": 7773429366831,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EINP_152_101694_CLEAR_CEN_NETFLIX_MF.png?v=1721917034",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34341662359599,
+      "created_at": "2024-07-25T10:17:12-04:00",
+      "position": 2,
+      "updated_at": "2024-07-25T10:17:14-04:00",
+      "product_id": 7773429366831,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EINP_152_101694_CLEAR_BK_NETFLIX_MF.png?v=1721917034",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34341662457903,
+      "created_at": "2024-07-25T10:17:12-04:00",
+      "position": 3,
+      "updated_at": "2024-07-25T10:17:14-04:00",
+      "product_id": 7773429366831,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EINP_152_101694_DETAIL_NETFLIX_LIFE.png?v=1721917034",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EINP_152_101694_CLEAR_CEN_NETFLIX_MF.png?v=1721917034",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Water Bottles",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

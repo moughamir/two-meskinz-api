@@ -1,0 +1,67 @@
+{
+  "id": 7785796305063,
+  "title": "Brand: Kennametal / Part #: 7002527",
+  "handle": "cw8031300",
+  "body_html": "<br><strong>Item #: </strong>97298186<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>7002527<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>11.70</td>\n</tr>\n<tr>\n<td><strong>Point Angle</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Diameter (mm)</strong></td>\n<td>11.7000</td>\n</tr>\n<tr>\n<td><strong>Tip Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>KC7412</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Kentip FS</td>\n</tr>\n<tr>\n<td><strong>Insert Geometry</strong></td>\n<td>GTP</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>M</td>\n</tr>\n<tr>\n<td><strong>Height (mm)</strong></td>\n<td>11.7000</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Self Clamp</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>KTFST11700GTPM</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Cutting Diameter (mm)</strong></td>\n<td>11.70</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN/TiAlN</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>140</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T02:35:27-06:00",
+  "created_at": "2023-12-29T02:35:27-06:00",
+  "updated_at": "2025-09-22T10:48:01-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43705543131303,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97298186",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.97",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785796305063,
+      "created_at": "2023-12-29T02:35:27-06:00",
+      "updated_at": "2025-09-22T10:48:01-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237292298407,
+      "created_at": "2025-02-03T18:11:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:11:10-06:00",
+      "product_id": 7785796305063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9735678-21_3dd12446-a31e-4b57-92b5-0f7e0191924c.jpg?v=1738627870",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 75.97,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9735678-21_3dd12446-a31e-4b57-92b5-0f7e0191924c.jpg?v=1738627870",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

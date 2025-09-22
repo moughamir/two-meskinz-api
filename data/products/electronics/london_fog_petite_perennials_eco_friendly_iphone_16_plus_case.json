@@ -1,0 +1,121 @@
+{
+  "id": 8133938151512,
+  "title": "London Fog Petite Perennials iPhone 16 Plus Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-19T13:40:10-04:00",
+  "created_at": "2024-09-19T12:00:02-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42275452616792,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17360-IP16PLUS-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8133938151512,
+      "created_at": "2024-09-19T12:00:02-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33639929839704,
+      "created_at": "2024-09-19T12:00:02-04:00",
+      "position": 1,
+      "updated_at": "2024-09-19T12:00:02-04:00",
+      "product_id": 8133938151512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP16PLUS_LondonFog.jpg?v=1726761602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671641133144,
+      "created_at": "2025-03-11T14:14:55-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:15:00-04:00",
+      "product_id": 8133938151512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_dde5d107-42fb-4f6e-bf88-c65e1ec83fe1.png?v=1741716900",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671641165912,
+      "created_at": "2025-03-11T14:14:55-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:15:00-04:00",
+      "product_id": 8133938151512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_f096843b-82f3-4152-9f6a-1a848620883d.png?v=1741716900",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671641067608,
+      "created_at": "2025-03-11T14:14:55-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T14:15:00-04:00",
+      "product_id": 8133938151512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_5efe68bc-ee91-498c-9c52-5c83aa5c40c7.png?v=1741716900",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 34671641100376,
+      "created_at": "2025-03-11T14:14:55-04:00",
+      "position": 5,
+      "updated_at": "2025-03-11T14:15:00-04:00",
+      "product_id": 8133938151512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_f7e09afb-7bfc-4eb6-976a-08485355c5b4.png?v=1741716900",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP16PLUS_LondonFog.jpg?v=1726761602",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

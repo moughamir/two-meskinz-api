@@ -1,0 +1,108 @@
+{
+  "id": 8127738937432,
+  "title": "Seashell Woodland Harvest iPhone 11 Pro Case",
+  "handle": "seashell-woodland-harvest-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Woodland Harvest Phone Case! 🍁 This charming design brings the beauty of the forest right to your fingertips, featuring playful acorns, colorful autumn leaves, and delightful mushrooms scattered across a soft, neutral background. Whether you’re an adventurer at heart or simply love the fall aesthetic, this case is the perfect accessory to complement your seasonal style. 🍂🌿 Get ready to carry a little bit of nature with you, wherever you go! 🌰</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:17:02-04:00",
+  "created_at": "2024-09-13T10:29:19-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Woodland Harvest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263344545880,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:WOODLAND-HARVEST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127738937432,
+      "created_at": "2024-09-13T10:29:19-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615316648024,
+      "created_at": "2024-09-13T10:29:19-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:19-04:00",
+      "product_id": 8127738937432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP11P_Seashell.jpg?v=1726237759",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685664039000,
+      "created_at": "2024-09-26T17:26:01-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:26:02-04:00",
+      "product_id": 8127738937432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_02_a9ecaa4f-6fc7-44f3-ac8e-e55aa21b6a56.jpg?v=1727385962",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678495481944,
+      "created_at": "2024-09-25T15:10:47-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:10:49-04:00",
+      "product_id": 8127738937432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_c3b24cb1-a1f8-47ef-8f80-8d46638c6068.jpg?v=1727291449",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685664071768,
+      "created_at": "2024-09-26T17:26:00-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:26:02-04:00",
+      "product_id": 8127738937432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_d67f5216-7fee-41a3-81dd-b1800c8c7c9a.jpg?v=1727385962",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP11P_Seashell.jpg?v=1726237759",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

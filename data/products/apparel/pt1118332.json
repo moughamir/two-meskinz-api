@@ -1,0 +1,68 @@
+{
+  "id": 5335348871335,
+  "title": "3″ Diameter × 1/2″ Width, 80 Grit, Silicon Carbide, 0.040″ Crimped Bristle, Wheel Brush",
+  "handle": "pt1118332",
+  "body_html": "<br><strong>Item #: </strong>MJ74CY380SC<br><strong>Brand: </strong>Brush Research<br><strong>Model #: </strong>CY380SC<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Diameter</strong></td>\n<td>3″ </td>\n</tr>\n<tr>\n<td><strong>Trim Length</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Width</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>80 </td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Silicon Carbide </td>\n</tr>\n<tr>\n<td><strong>Maximum RPM</strong></td>\n<td>20,000 </td>\n</tr>\n<tr>\n<td><strong>Arbor Hole</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Thickness</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Bristle Diameter</strong></td>\n<td>0.040″ </td>\n</tr>\n<tr>\n<td><strong>Standard Pack</strong></td>\n<td>6 </td>\n</tr>\n<tr>\n<td><strong>Bristle Type</strong></td>\n<td>Crimped </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:04:58-06:00",
+  "created_at": "2020-06-15T07:48:38-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Brush Research",
+  "product_type": "Abrasives & Finishing",
+  "tags": [
+    "Drilling",
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 34728253816999,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MJ74CY380SC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.11",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5335348871335,
+      "created_at": "2020-06-15T07:48:38-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143900647591,
+      "created_at": "2025-01-23T22:05:06-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:05:08-06:00",
+      "product_id": 5335348871335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_cy31280sc_packaged_cp_e8bc_ff92f45a-4780-442a-a0c2-1a38b45066c8.jpg?v=1737691508",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.11,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_cy31280sc_packaged_cp_e8bc_ff92f45a-4780-442a-a0c2-1a38b45066c8.jpg?v=1737691508",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brush Research",
+  "category": "Abrasives & Finishing",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8429100433496,
+  "title": "Seashell Flower Stack iPhone 14 Pro Case",
+  "handle": "seashell-flower-stack-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:16:27-04:00",
+  "created_at": "2025-07-17T07:09:54-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Flower Stack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063792238680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:FLOWER-STACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429100433496,
+      "created_at": "2025-07-17T07:09:54-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436655083608,
+      "created_at": "2025-07-17T07:09:54-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:56-04:00",
+      "product_id": 8429100433496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP14P_Seashell.jpg?v=1752750596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581700538456,
+      "created_at": "2025-08-11T14:56:47-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:56:47-04:00",
+      "product_id": 8429100433496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/c81eef7f9a5e98edb69690c897019b9a_a8505e30-632c-41da-a993-7a1e357c074f.jpg?v=1754938607",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581700800600,
+      "created_at": "2025-08-11T14:56:48-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:56:48-04:00",
+      "product_id": 8429100433496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b518cf37e930a3a29a67dc0c5e124dbd_6bba7a2e-273e-4147-96de-7a8d42495c93.jpg?v=1754938608",
+      "width": 3916,
+      "height": 3916
+    },
+    {
+      "id": 35581701029976,
+      "created_at": "2025-08-11T14:56:50-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:56:50-04:00",
+      "product_id": 8429100433496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_31555b92-e088-4cdb-8a6a-7b89c8c3d0f5.jpg?v=1754938610",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581701292120,
+      "created_at": "2025-08-11T14:56:52-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:56:52-04:00",
+      "product_id": 8429100433496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/90cba3e3beb68e24805c7d70742b5cc9_8466ac09-a406-4d76-a18b-ca9c37ace4b3.jpg?v=1754938612",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOWER-STACK_IP14P_Seashell.jpg?v=1752750596",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

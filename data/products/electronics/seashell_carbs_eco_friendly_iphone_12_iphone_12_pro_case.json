@@ -1,0 +1,108 @@
+{
+  "id": 8243493601368,
+  "title": "Seashell Carbs iPhone 12/ iPhone 12 Pro Case",
+  "handle": "seashell-carbs-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:09:22-05:00",
+  "created_at": "2025-01-08T12:40:58-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541138215000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16461-IP12-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243493601368,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242768175192,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:00-05:00",
+      "product_id": 8243493601368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP12_Seashell.jpg?v=1736358060",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357611429976,
+      "created_at": "2025-01-23T11:59:46-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T11:59:48-05:00",
+      "product_id": 8243493601368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_fa9945bc-12d6-4264-95eb-59d72415b98e.jpg?v=1737651588",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357611561048,
+      "created_at": "2025-01-23T11:59:46-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T11:59:50-05:00",
+      "product_id": 8243493601368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_ae255ed8-71a4-4829-a0a3-d361563db817.jpg?v=1737651590",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357611397208,
+      "created_at": "2025-01-23T11:59:46-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T11:59:50-05:00",
+      "product_id": 8243493601368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_707994fa-ea28-4d9b-aece-184cd5d1994e.jpg?v=1737651590",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_IP12_Seashell.jpg?v=1736358060",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

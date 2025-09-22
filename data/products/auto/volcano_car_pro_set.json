@@ -1,0 +1,83 @@
+{
+  "id": 7543274242157,
+  "title": "Volcano Car Set",
+  "handle": "volcano-car-pro-set",
+  "body_html": "<p dir=\"ltr\"><span>This set includes one Capri Blue Volcano fragrance cartridge and a Pura Car Pro™ smart fragrance diffuser.</span></p>",
+  "published_at": "2024-10-04T16:17:34-06:00",
+  "created_at": "2024-09-23T16:29:49-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Car Pro Set",
+  "tags": [
+    "Car Device",
+    "collection:Capri Blue",
+    "Group_Car",
+    "Pura Car Pro",
+    "YCRF_cardevices",
+    "YGroup_volcanocar"
+  ],
+  "variants": [
+    {
+      "id": 41838621851757,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02640",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.99",
+      "grams": 88,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7543274242157,
+      "created_at": "2024-09-23T16:29:50-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33068365873261,
+      "created_at": "2024-09-23T16:35:37-06:00",
+      "position": 1,
+      "updated_at": "2024-09-23T16:35:40-06:00",
+      "product_id": 7543274242157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraCarPro-CapriBlue-Volcano-Set-Prod1-0724.jpg?v=1727130940",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33068365938797,
+      "created_at": "2024-09-23T16:35:37-06:00",
+      "position": 2,
+      "updated_at": "2024-09-23T16:35:40-06:00",
+      "product_id": 7543274242157,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraCarPro-Set-Contents-Cropped-HighRes-PDP-0724.jpg?v=1727130940",
+      "width": 3584,
+      "height": 4779
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraCarPro-CapriBlue-Volcano-Set-Prod1-0724.jpg?v=1727130940",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Car Pro Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

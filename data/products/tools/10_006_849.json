@@ -1,0 +1,67 @@
+{
+  "id": 8452580573351,
+  "title": "Collet Chuck: 1.10 to 21.00 mm Capacity, ER Collet",
+  "handle": "10-006-849",
+  "body_html": "<br><strong>Item #: </strong>09845645<br><strong>Brand: </strong>Techniks<br><strong>Model #: </strong>16181F-C<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Collet System</strong>\n</td>\n<td>ER</td>\n</tr>\n<tr> <td> <strong>Collet Series</strong>\n</td>\n<td>ER32</td>\n</tr>\n<tr> <td> <strong>Taper Size</strong>\n</td>\n<td>BT40</td>\n</tr>\n<tr> <td> <strong>Projection (mm)</strong>\n</td>\n<td>150.00</td>\n</tr>\n<tr> <td> <strong>Through Coolant</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Minimum Collet Capacity (mm)</strong>\n</td>\n<td>1.10</td>\n</tr>\n<tr> <td> <strong>Maximum Collet Capacity (mm)</strong>\n</td>\n<td>21.00</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>215.4</td>\n</tr>\n<tr> <td> <strong>Nose Diameter (Mm) ( - 2 Decimals)</strong>\n</td>\n<td>50</td>\n</tr>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>BT40</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112808</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:49:23-06:00",
+  "created_at": "2025-01-23T10:49:22-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Techniks",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46498162868391,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09845645",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "227.70",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452580573351,
+      "created_at": "2025-01-23T10:49:22-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244341809319,
+      "created_at": "2025-02-03T22:33:15-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:33:16-06:00",
+      "product_id": 8452580573351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0984564-21.jpg?v=1738643596",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 227.7,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0984564-21.jpg?v=1738643596",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Techniks",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

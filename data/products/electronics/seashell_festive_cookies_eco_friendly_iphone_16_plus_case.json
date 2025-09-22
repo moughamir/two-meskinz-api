@@ -1,0 +1,121 @@
+{
+  "id": 8164328767576,
+  "title": "Seashell Festive Cookies iPhone 16 Plus Case",
+  "handle": "seashell-festive-cookies-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p class=\"p1\">Craving some holiday sweetness? The Festive Cookies Phone Case is here to satisfy! Adorned with a scrumptious mix of holiday cookie designs—think Santa hats, candy canes, stockings, and more—this case is a holiday treat that will have your phone looking deliciously festive. Made with sustainable materials, it’s as good for the planet as your favorite holiday cookies are for your soul. Ready to sprinkle some holiday magic into your everyday routine? This case is the perfect recipe! 🎄<b>🍪</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:11:03-04:00",
+  "created_at": "2024-10-21T14:39:00-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Festive Cookies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345504079960,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:FESTIVE-COOKIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164328767576,
+      "created_at": "2024-10-21T14:39:00-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832659550296,
+      "created_at": "2024-10-21T14:39:00-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:39:02-04:00",
+      "product_id": 8164328767576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-COOKIES_IP16PLUS_Seashell.jpg?v=1729535942",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33881370951768,
+      "created_at": "2024-10-28T15:00:58-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T15:01:00-04:00",
+      "product_id": 8164328767576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP1_e65d5f98-1fd2-4cf2-84f1-1a7aa7f8973f.jpg?v=1730142060",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881370787928,
+      "created_at": "2024-10-28T15:00:58-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T15:01:00-04:00",
+      "product_id": 8164328767576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP2_52cb993a-3a0d-49c6-a70a-9ae2b70332f2.jpg?v=1730142060",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881370755160,
+      "created_at": "2024-10-28T15:00:58-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T15:01:00-04:00",
+      "product_id": 8164328767576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP3_ca092642-3c76-44a2-ad94-091faf541653.jpg?v=1730142060",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881370656856,
+      "created_at": "2024-10-28T15:00:58-04:00",
+      "position": 5,
+      "updated_at": "2024-10-28T15:01:00-04:00",
+      "product_id": 8164328767576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveCookies_PDP4_175b9ac2-b70b-41ca-abab-59a1ebe3a8b3.jpg?v=1730142060",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-COOKIES_IP16PLUS_Seashell.jpg?v=1729535942",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

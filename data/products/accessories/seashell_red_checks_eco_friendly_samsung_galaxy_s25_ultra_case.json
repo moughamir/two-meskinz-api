@@ -1,0 +1,97 @@
+{
+  "id": 8295454670936,
+  "title": "Seashell Red Checks Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-red-checks-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—this case is a wild ride for your eyes! <em data-start=\"99\" data-end=\"111\">Red Checks</em> puts a twist on classic harlequin patterns, with bold waves and a dizzying design that feels straight out of a carnival funhouse. It’s bold, retro, and totally unforgettable!<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:08:53-05:00",
+  "created_at": "2025-02-21T13:31:48-05:00",
+  "updated_at": "2025-09-22T15:14:58-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Red Checks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688144408664,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:RED-CHECKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295454670936,
+      "created_at": "2025-02-21T13:31:48-05:00",
+      "updated_at": "2025-09-22T15:14:58-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579775750232,
+      "created_at": "2025-02-21T13:31:48-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:50-05:00",
+      "product_id": 8295454670936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_S25ULTRA_Seashell.jpg?v=1740162710",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34615806427224,
+      "created_at": "2025-02-28T10:06:06-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T10:06:08-05:00",
+      "product_id": 8295454670936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP1_2a1ebb03-8498-4c7b-bf35-db317ae3800b.jpg?v=1740755168",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34615806394456,
+      "created_at": "2025-02-28T10:06:06-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T10:06:08-05:00",
+      "product_id": 8295454670936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP2_1701b649-2c93-4986-a816-41de2604ab3b.jpg?v=1740755168",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_S25ULTRA_Seashell.jpg?v=1740162710",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

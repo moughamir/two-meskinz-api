@@ -1,0 +1,109 @@
+{
+  "id": 8320050888792,
+  "title": "London Fog A Soiree iPhone 13 Pro Max Case",
+  "handle": "london-fog-a-soiree-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">A tablescape straight out of a dream—<em data-start=\"71\" data-end=\"81\">A Soirée Phone Case</em> brings the elegance of a dinner party with a surrealist twist. Inspired by the <em data-start=\"165\" data-end=\"181\">Surreal Soirée</em> trend, this design features floating candlesticks, sculptural bread, and artfully arranged fruits and florals, <meta charset=\"utf-8\">turning an ordinary meal into a work of art.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-08T09:12:11-04:00",
+  "created_at": "2025-03-20T10:16:45-04:00",
+  "updated_at": "2025-09-22T15:14:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Surreal Soiree",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:A Soiree",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756128997464,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16830-IP13PMAX-LFOG-AOD:A-SOIREE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320050888792,
+      "created_at": "2025-03-20T10:16:45-04:00",
+      "updated_at": "2025-09-22T15:14:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34721971011672,
+      "created_at": "2025-03-20T10:16:45-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:16:47-04:00",
+      "product_id": 8320050888792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/A-SOIREE_IP13PMAX_LondonFog.jpg?v=1742480207",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34800652910680,
+      "created_at": "2025-04-07T18:38:23-04:00",
+      "position": 2,
+      "updated_at": "2025-04-07T18:38:26-04:00",
+      "product_id": 8320050888792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Friends_PDP_1x1_01_94ff6c4b-cfc5-4f11-95d9-c77d0a3935f5.jpg?v=1744065506",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800652943448,
+      "created_at": "2025-04-07T18:38:23-04:00",
+      "position": 3,
+      "updated_at": "2025-04-07T18:38:26-04:00",
+      "product_id": 8320050888792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Androids_PDP_1x1_03_b0c0a156-c048-4d89-a97b-fecd7b5e2187.jpg?v=1744065506",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800652976216,
+      "created_at": "2025-04-07T18:38:23-04:00",
+      "position": 4,
+      "updated_at": "2025-04-07T18:38:26-04:00",
+      "product_id": 8320050888792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Grid_PDP_1x1_04_dfca274f-cfae-41cb-80ae-5d2b5ddff004.jpg?v=1744065506",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/A-SOIREE_IP13PMAX_LondonFog.jpg?v=1742480207",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

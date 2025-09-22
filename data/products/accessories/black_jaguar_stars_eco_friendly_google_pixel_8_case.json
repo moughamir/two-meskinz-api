@@ -1,0 +1,97 @@
+{
+  "id": 8278272049240,
+  "title": "Black Jaguar Stars Google Pixel 8 Case",
+  "handle": "black-jaguar-stars-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Unleash your fierce side and reach for the stars with the Jaguar Stars Phone Case! This bold design blends untamed leopard print with celestial energy, creating a look that’s equal parts wild and star-studded. Whether you're prowling through the urban jungle or chasing cosmic dreams, this case has your back (and your phone’s).</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:17:35-05:00",
+  "created_at": "2025-02-04T10:20:48-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jaguar Stars",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642242338904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14945-PX8-BLACK-AOD:JAGUAR-STARS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278272049240,
+      "created_at": "2025-02-04T10:20:48-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454009610328,
+      "created_at": "2025-02-04T10:20:48-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:20:50-05:00",
+      "product_id": 8278272049240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JAGUAR-STARS_PX8_Black.jpg?v=1738682450",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572021956696,
+      "created_at": "2025-02-20T16:48:39-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T16:48:41-05:00",
+      "product_id": 8278272049240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_ce55b2cb-05ff-44b4-9690-fffdbe369746.jpg?v=1740088121",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572021923928,
+      "created_at": "2025-02-20T16:48:39-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T16:48:40-05:00",
+      "product_id": 8278272049240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_40112f9f-5389-4c38-bc3b-1a36e4a03eb9.jpg?v=1740088120",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JAGUAR-STARS_PX8_Black.jpg?v=1738682450",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

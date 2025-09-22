@@ -1,0 +1,97 @@
+{
+  "id": 8262512574552,
+  "title": "London Fog Trail Lines iPhone 12/ iPhone 12 Pro Case",
+  "handle": "london-fog-trail-lines-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Discover the beauty of the journey with the Trail Lines Phone Case, part of the <em>Pela x Ollie Smither Artist Series Collection</em>! Featuring Ollie Smither's captivating topographic-inspired design, this case lets you carry the essence of winding trails and rugged landscapes wherever you go.</p>\n<p><img><img>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-06T09:12:41-05:00",
+  "created_at": "2025-01-23T13:39:25-05:00",
+  "updated_at": "2025-09-22T15:15:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Pela x Ollie Smither",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Trail Lines",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42584701370456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16448-IP12-LFOG-AOD:TRAIL-LINES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8262512574552,
+      "created_at": "2025-01-23T13:39:25-05:00",
+      "updated_at": "2025-09-22T15:15:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34357795815512,
+      "created_at": "2025-01-23T13:39:25-05:00",
+      "position": 1,
+      "updated_at": "2025-01-23T13:54:48-05:00",
+      "product_id": 8262512574552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAIL-LINES_IP12_LondonFog.jpg?v=1737658488",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34529415364696,
+      "created_at": "2025-02-16T12:10:29-05:00",
+      "position": 2,
+      "updated_at": "2025-02-16T12:10:32-05:00",
+      "product_id": 8262512574552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9559_jpg_92fe9fdc-6f20-4b58-9d83-9161b4739de5.jpg?v=1739725832",
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "id": 34529415331928,
+      "created_at": "2025-02-16T12:10:30-05:00",
+      "position": 3,
+      "updated_at": "2025-02-16T12:10:32-05:00",
+      "product_id": 8262512574552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9748_jpg_480b8bdb-2428-4ef6-9989-d3db4cfdbba1.jpg?v=1739725832",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAIL-LINES_IP12_LondonFog.jpg?v=1737658488",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

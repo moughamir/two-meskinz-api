@@ -1,0 +1,68 @@
+{
+  "id": 5337160548519,
+  "title": "‎3/8″ Diameter × 3″ OAL, Stainless Steel, 8-32 Thread",
+  "handle": "mt1414967",
+  "body_html": "<br><strong>Item #: </strong>MJ7492S375<br><strong>Brand: </strong>Brush Research<br><strong>Model #: </strong>92S375<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>‎8-32 Thread </td>\n</tr>\n<tr>\n<td><strong>Bristle Diameter</strong></td>\n<td>0.004″ </td>\n</tr>\n<tr>\n<td><strong>Diameter</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Bore Diameter</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Stem Diameter</strong></td>\n<td>0.140″ </td>\n</tr>\n<tr>\n<td><strong>Maximum RPM</strong></td>\n<td>2,000 </td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Stainless Steel </td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>‎8-32 Thread </td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>3″ </td>\n</tr>\n<tr>\n<td><strong>Brush Diameter</strong></td>\n<td>0.375″ </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:48:17-06:00",
+  "created_at": "2020-06-15T16:24:23-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Brush Research",
+  "product_type": "Abrasives & Finishing",
+  "tags": [
+    "Drilling",
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 34733729022119,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MJ7492S375",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "7.72",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337160548519,
+      "created_at": "2020-06-15T16:24:24-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143535415463,
+      "created_at": "2025-01-23T21:48:27-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:48:28-06:00",
+      "product_id": 5337160548519,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_92_series_flue_2_cp_84bb_a97c42d8-f53d-460f-839b-f32fa30a11cd.jpg?v=1737690508",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 7.72,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_92_series_flue_2_cp_84bb_a97c42d8-f53d-460f-839b-f32fa30a11cd.jpg?v=1737690508",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brush Research",
+  "category": "Abrasives & Finishing",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

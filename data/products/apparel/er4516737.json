@@ -1,0 +1,67 @@
+{
+  "id": 7786350510247,
+  "title": "Brand: PRO-SOURCE / Part #: MD0548-09",
+  "handle": "er4516737",
+  "body_html": "<br><strong>Item #: </strong>23100621<br><strong>Brand: </strong>PRO-SOURCE<br><strong>Model #: </strong>MD0548-09<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>WHL W/BEARING REPLACEMENT</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>MSC #20242897</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:18:40-06:00",
+  "created_at": "2023-12-29T20:18:40-06:00",
+  "updated_at": "2025-09-22T10:53:35-05:00",
+  "vendor": "PRO-SOURCE",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Lifting"
+  ],
+  "variants": [
+    {
+      "id": 43707608891559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "23100621",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.62",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786350510247,
+      "created_at": "2023-12-29T20:18:41-06:00",
+      "updated_at": "2025-09-22T10:53:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238410178727,
+      "created_at": "2025-02-03T18:48:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:48:37-06:00",
+      "product_id": 7786350510247,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_391d8d48-9367-4623-acd3-ddb191691000.jpg?v=1738630117",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.62,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_391d8d48-9367-4623-acd3-ddb191691000.jpg?v=1738630117",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PRO-SOURCE",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

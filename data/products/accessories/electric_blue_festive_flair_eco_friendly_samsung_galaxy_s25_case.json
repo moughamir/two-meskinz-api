@@ -1,0 +1,97 @@
+{
+  "id": 8253214130264,
+  "title": "Electric Blue Festive Flair Samsung Galaxy S25 Case",
+  "handle": "electric-blue-festive-flair-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p class=\"p1\">Turn up the festive fun with the Festive Flair Phone Case! Bursting with holiday cheer, this case is covered in ornaments, stars, trees, and more to keep your phone as jolly as the season. Wrapped in vibrant colors and playful designs, it’s the perfect holiday accessory to deck your phone in merry style. Plus, it’s made from earth-friendly materials, so while you’re spreading cheer, you’re also spreading love for the planet. Ready to sleigh your holiday look? This case has your phone covered—literally! <b>🎄🎁</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:00:39-05:00",
+  "created_at": "2025-01-13T18:03:49-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Festive Flair",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42561338736728,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13904-S25-ELEBLUE-AOD:FESTIVE-FLAIR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8253214130264,
+      "created_at": "2025-01-13T18:03:49-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34293961556056,
+      "created_at": "2025-01-13T18:03:49-05:00",
+      "position": 1,
+      "updated_at": "2025-01-13T18:03:51-05:00",
+      "product_id": 8253214130264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_S25_ElectricBlue.jpg?v=1736809431",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677408727128,
+      "created_at": "2025-03-12T11:36:26-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T11:36:28-04:00",
+      "product_id": 8253214130264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP2_84da31d6-11a7-4509-8dda-fe784a65c346.jpg?v=1741793788",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34677408694360,
+      "created_at": "2025-03-12T11:36:26-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T11:36:28-04:00",
+      "product_id": 8253214130264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP1_a689d0f0-9532-41fe-9fed-6c42f1321d09.jpg?v=1741793788",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_S25_ElectricBlue.jpg?v=1736809431",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

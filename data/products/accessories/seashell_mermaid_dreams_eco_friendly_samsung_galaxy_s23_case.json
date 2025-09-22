@@ -1,0 +1,108 @@
+{
+  "id": 8418749317208,
+  "title": "Seashell Mermaid Dreams Samsung Galaxy S23 Case",
+  "handle": "seashell-mermaid-dreams-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p data-start=\"0\" data-end=\"169\">Dive into the dreamy depths with the Mermaid Dreams Phone Case — a pastel ocean party packed with seashells, dolphins, jellyfish, and sparkly sea treasures! 🐬🧜♀️✨</p>\n<p data-start=\"171\" data-end=\"439\">With bubbly pinks and purples, this case is pure mermaidcore magic. It's giving shell-yeah energy and under-the-sea cuteness all day long. Whether you're channeling Ariel or just living your best beachside fantasy, this case is ready to make waves.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-24T08:47:03-04:00",
+  "created_at": "2025-07-02T13:46:38-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mermaid Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43031085678680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:MERMAID-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8418749317208,
+      "created_at": "2025-07-02T13:46:38-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35348386545752,
+      "created_at": "2025-07-02T13:46:38-04:00",
+      "position": 1,
+      "updated_at": "2025-07-02T13:46:40-04:00",
+      "product_id": 8418749317208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-DREAMS_S23_Seashell.jpg?v=1751478400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453421551704,
+      "created_at": "2025-07-21T16:26:38-04:00",
+      "position": 2,
+      "updated_at": "2025-07-21T16:26:38-04:00",
+      "product_id": 8418749317208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b8adac1affa03afbc17602957f5bcb4a_78b73312-0c00-4c50-a6f7-25d4e6b221f7.jpg?v=1753129598",
+      "width": 3625,
+      "height": 3625
+    },
+    {
+      "id": 35453421879384,
+      "created_at": "2025-07-21T16:26:40-04:00",
+      "position": 3,
+      "updated_at": "2025-07-21T16:26:40-04:00",
+      "product_id": 8418749317208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b7c940d51dae60d7ddb93d59f55dd636_cbdb9d93-e238-4b1b-8a77-8984ab0bbb95.jpg?v=1753129600",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453422207064,
+      "created_at": "2025-07-21T16:26:41-04:00",
+      "position": 4,
+      "updated_at": "2025-07-21T16:26:41-04:00",
+      "product_id": 8418749317208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/792c6a713f892c558ad12efbec2bdefe_2be60a9d-0446-4b34-a023-2741bc7d9c83.jpg?v=1753129601",
+      "width": 4169,
+      "height": 4169
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-DREAMS_S23_Seashell.jpg?v=1751478400",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

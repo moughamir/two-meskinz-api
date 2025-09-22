@@ -1,0 +1,104 @@
+{
+  "id": 7714668675160,
+  "title": "Black Frequency Mini Wallet",
+  "handle": "black-frequency-mini-wallet",
+  "body_html": "<p><span data-mce-fragment=\"1\">Step into a world where rhythm meets functionality with the Frequency Mini Wallet by Pela. A design that dances to its own beat, this wallet features a striking wave pattern in soft pink set against a bold black backdrop, capturing a visual frequency that's as unique as your personal style.</span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Perfectly Sized</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">: <span data-mce-fragment=\"1\">With dimensions of 97.7mm x 66mm, it's designed to hold up to two cards on each side. Initially snug, it promises to stretch just enough to fit your cards comfortably over time.</span></span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Sustainable Chic</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">: Crafted from Pela's signature compostable material, it combines environmental responsibility with elegant design.</span></p>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span><strong>Seamlessly Welded:</strong> Crafted without adhesives for enhanced durability and a sleek profile</span></span></p>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>Let the \"Frequency Mini Wallet\" be the most stylish, responsible choice you make. It’s the accessory that speaks volumes about who you are and the rhythm you live by. 📱🌼✨</span></span></p>\n<ul></ul>",
+  "published_at": "2024-04-23T10:04:43-04:00",
+  "created_at": "2024-04-04T13:38:44-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Mini Wallet",
+  "tags": [
+    "accessory",
+    "art-type:Print",
+    "Mini Wallet",
+    "new accessory"
+  ],
+  "variants": [
+    {
+      "id": 41355209769048,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25643-CARDK-BLACK-AOD-FREQUENCY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.50",
+      "grams": 41,
+      "compare_at_price": "50.00",
+      "position": 1,
+      "product_id": 7714668675160,
+      "created_at": "2024-04-04T13:38:44-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32562451447896,
+      "created_at": "2024-04-09T16:23:08-04:00",
+      "position": 1,
+      "updated_at": "2024-04-23T11:21:35-04:00",
+      "product_id": 7714668675160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_Frequency_FRONT45R.jpg?v=1713885695",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32562451546200,
+      "created_at": "2024-04-09T16:23:08-04:00",
+      "position": 2,
+      "updated_at": "2024-04-23T11:21:35-04:00",
+      "product_id": 7714668675160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_Frequency_FRONT.jpg?v=1713885695",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32562451513432,
+      "created_at": "2024-04-09T16:23:08-04:00",
+      "position": 3,
+      "updated_at": "2024-04-09T16:23:28-04:00",
+      "product_id": 7714668675160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_Frequency_BACK.jpg?v=1712694208",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32562451611736,
+      "created_at": "2024-04-09T16:23:08-04:00",
+      "position": 4,
+      "updated_at": "2024-04-09T16:23:28-04:00",
+      "product_id": 7714668675160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_Frequency_BACK45L.jpg?v=1712694208",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.5,
+  "compare_at_price": 50,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_Frequency_FRONT45R.jpg?v=1713885695",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Mini Wallet",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

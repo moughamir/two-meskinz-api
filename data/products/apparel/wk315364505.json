@@ -1,0 +1,67 @@
+{
+  "id": 7785312878759,
+  "title": "Brand: Nakanishi / Part #: 91550",
+  "handle": "wk315364505",
+  "body_html": "<br><strong>Item #: </strong>84730159<br><strong>Brand: </strong>Nakanishi<br><strong>Model #: </strong>91550<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Collet</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>ABS-400; PMA-3013K; EMSF-3060K; EMS-3056; RAS-2511; AMX-50; PSA25S-90; HES510; XPEED 1200; MSH-25; FG-01S; EMS-6040K; EM30-S6000; NR-3060S; PMR-3005K; EMS-3057-J4; MST-23; NR-2351; PSA25-90/140; EMS-3045; NR-303P; ABS-70P; PSA35-120/180; NR4040-AQC; PLANET 400; MS-25; PLANET 600; MS-23; NR-H2551; RAX-271E; NR-2551; EMS-3060K; NRR4040-QC; NR-311; NRR3060-QC; EMS-3052; NR-453E; EMS-6040; MSS-25; MSSH-25; NRAF-5080; PMS-3020K; HPS250; RAS-151E; EMS-3046-J4; NRL-300E; EMA-3020K; AMX-65; NR-H2532; NR3060-AQC; EMS-3041; MSST-23; NR-303; PSA30-100/160; PSA30S-100; PS23-80/130; AMX-80; NR-2532; PSA35S-120; RAX-71E; NR-403E; RAS-H2511; EMR-3008K; NRL-300; RAS-101; PS23S-80</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:11:29-06:00",
+  "created_at": "2023-12-28T17:11:29-06:00",
+  "updated_at": "2025-09-22T10:55:46-05:00",
+  "vendor": "Nakanishi",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43703598350503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "84730159",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "107.91",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785312878759,
+      "created_at": "2023-12-28T17:11:29-06:00",
+      "updated_at": "2025-09-22T10:55:46-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236682125479,
+      "created_at": "2025-02-03T17:50:25-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:50:26-06:00",
+      "product_id": 7785312878759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7182619-21_3cb8480d-1704-4ff9-81f1-cae5d00f4463.jpg?v=1738626626",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 107.91,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7182619-21_3cb8480d-1704-4ff9-81f1-cae5d00f4463.jpg?v=1738626626",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Nakanishi",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

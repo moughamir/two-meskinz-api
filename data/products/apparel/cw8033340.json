@@ -1,0 +1,67 @@
+{
+  "id": 7785852993703,
+  "title": "Brand: Lenox / Part #: 51952D2B113480",
+  "handle": "cw8033340",
+  "body_html": "<br><strong>Item #: </strong>65288912<br><strong>Brand: </strong>Lenox<br><strong>Model #: </strong>51952D2B113480<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Blade Length (Feet)</strong>\n</td>\n<td>11 ft 5 in</td>\n</tr>\n<tr>\n<td><strong>Blade Material</strong></td>\n<td>Bi-Metal</td>\n</tr>\n<tr>\n<td><strong>Teeth Per Inch</strong></td>\n<td>14 to 18</td>\n</tr>\n<tr>\n<td><strong>Blade Width (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Blade Thickness (Decimal Inch)</strong></td>\n<td>0.0250</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Style</strong></td>\n<td>Toothed</td>\n</tr>\n<tr>\n<td><strong>Tooth Material</strong></td>\n<td>M42 High Speed Steel</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:42:08-06:00",
+  "created_at": "2023-12-29T04:42:08-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Lenox",
+  "product_type": "Saw Blades",
+  "tags": [
+    "Band Saw Blades"
+  ],
+  "variants": [
+    {
+      "id": 43705647300775,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "65288912",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "69.17",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785852993703,
+      "created_at": "2023-12-29T04:42:08-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237428940967,
+      "created_at": "2025-02-03T18:15:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:15:50-06:00",
+      "product_id": 7785852993703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0056665-11_3c18339a-5762-481e-87ff-84946c46b4eb.jpg?v=1738628150",
+      "width": 600,
+      "height": 161
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 69.17,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0056665-11_3c18339a-5762-481e-87ff-84946c46b4eb.jpg?v=1738628150",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lenox",
+  "category": "Saw Blades",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

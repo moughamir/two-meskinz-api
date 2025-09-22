@@ -1,0 +1,52 @@
+{
+  "id": 8453468782759,
+  "title": "3/8″ Torque Wrench Square Drive",
+  "handle": "kp6047605",
+  "body_html": null,
+  "published_at": "2025-01-24T07:28:37-06:00",
+  "created_at": "2025-01-24T07:28:36-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500895948967,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6047605",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "351.75",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453468782759,
+      "created_at": "2025-01-24T07:28:36-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 351.75,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

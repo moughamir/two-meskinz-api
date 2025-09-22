@@ -1,0 +1,67 @@
+{
+  "id": 7785320120487,
+  "title": "Brand: Value Collection / Part #: 34-1720-412-80",
+  "handle": "wk315436565",
+  "body_html": "<br><strong>Item #: </strong>50907096<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>34-1720-412-80<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/Logos/VC-61.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">50907096</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>34-1720-412-80</p></td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-28T17:28:35-06:00",
+  "created_at": "2023-12-28T17:28:35-06:00",
+  "updated_at": "2025-09-22T10:55:44-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Drill Chucks; Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43703612735655,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "50907096",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "106.29",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785320120487,
+      "created_at": "2023-12-28T17:28:35-06:00",
+      "updated_at": "2025-09-22T10:55:44-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236700803239,
+      "created_at": "2025-02-03T17:51:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:51:02-06:00",
+      "product_id": 7785320120487,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_0dd7249c-ea80-44b1-beb6-92ac50d318cc.png?v=1738626662",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 106.29,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_0dd7249c-ea80-44b1-beb6-92ac50d318cc.png?v=1738626662",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

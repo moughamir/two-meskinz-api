@@ -1,0 +1,67 @@
+{
+  "id": 7785761276071,
+  "title": "Brand: Trynex / Part #: TL20",
+  "handle": "cw8034450",
+  "body_html": "<br><strong>Item #: </strong>50005115<br><strong>Brand: </strong>Trynex<br><strong>Model #: </strong>TL20<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Sprayer Type</strong>\n</td>\n<td>Handheld Sprayer</td>\n</tr>\n<tr>\n<td><strong>Tank Material</strong></td>\n<td>Polyethylene</td>\n</tr>\n<tr>\n<td><strong>Chemical Safe</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Deck &amp; Yard</td>\n</tr>\n<tr>\n<td><strong>Wand Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Seal/Gasket Material</strong></td>\n<td>Viton</td>\n</tr>\n<tr>\n<td><strong>Hose Type</strong></td>\n<td>Reinforced</td>\n</tr>\n<tr>\n<td><strong>Hose Length (Feet)</strong></td>\n<td>4.50</td>\n</tr>\n<tr>\n<td><strong>Mouth Opening Style</strong></td>\n<td>Wide</td>\n</tr>\n<tr>\n<td><strong>Height (Inch)</strong></td>\n<td>22</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:21:58-06:00",
+  "created_at": "2023-12-29T01:21:58-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "Trynex",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Lawn; Garden & Outdoor Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705452396711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "50005115",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785761276071,
+      "created_at": "2023-12-29T01:21:58-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237211295911,
+      "created_at": "2025-02-03T18:08:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:31-06:00",
+      "product_id": 7785761276071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5000511-21.jpg?v=1738627711",
+      "width": 251,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5000511-21.jpg?v=1738627711",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Trynex",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

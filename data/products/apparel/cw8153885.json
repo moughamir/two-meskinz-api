@@ -1,0 +1,67 @@
+{
+  "id": 7785442279591,
+  "title": "Brand: Helical Solutions / Part #: 83295",
+  "handle": "cw8153885",
+  "body_html": "<br><strong>Item #: </strong>99022972<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>83295<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Tplus</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Ball</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Undercutting</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.5000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>End Mills for Stainless &amp; High Temp - 4 Flute - Ball - Variable Pitch</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.6250</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:09:55-06:00",
+  "created_at": "2023-12-28T21:09:55-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703868326055,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99022972",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "93.26",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785442279591,
+      "created_at": "2023-12-28T21:09:55-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236939321511,
+      "created_at": "2025-02-03T17:58:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:55-06:00",
+      "product_id": 7785442279591,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9877871-21_4071cc3b-8bd1-4148-820f-4cc84e5c31d7.jpg?v=1738627135",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 93.26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9877871-21_4071cc3b-8bd1-4148-820f-4cc84e5c31d7.jpg?v=1738627135",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

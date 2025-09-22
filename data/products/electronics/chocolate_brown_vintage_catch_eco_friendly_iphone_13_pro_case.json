@@ -1,0 +1,98 @@
+{
+  "id": 8303979167832,
+  "title": "Chocolate Brown Vintage Catch iPhone 13 Pro Case",
+  "handle": "chocolate-brown-vintage-catch-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">A throwback to old-school fishing guides, <em data-start=\"513\" data-end=\"528\">Vintage Catch</em> features hand-drawn illustrations of fish species. Whether you're a seasoned angler or a weekend warrior, this case is a timeless tribute to the art of the catch.<meta charset=\"utf-8\">🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-27T09:17:00-04:00",
+  "created_at": "2025-03-03T11:13:01-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Vintage Catch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42707142738008,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16771-IP13P-CHOBROWN-AOD:VINTAGE-CATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8303979167832,
+      "created_at": "2025-03-03T11:13:01-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34626450325592,
+      "created_at": "2025-03-03T12:28:55-05:00",
+      "position": 1,
+      "updated_at": "2025-03-03T12:28:57-05:00",
+      "product_id": 8303979167832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-CATCH_IP13P_ChocolateBrown.png?v=1741022937",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34743013703768,
+      "created_at": "2025-03-25T11:30:16-04:00",
+      "position": 2,
+      "updated_at": "2025-03-25T11:30:21-04:00",
+      "product_id": 8303979167832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Pile_PDP_1x1_02_6739fbe4-4d5c-41a0-852a-ec4c75f0b5b4.jpg?v=1742916621",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34743013671000,
+      "created_at": "2025-03-25T11:30:16-04:00",
+      "position": 3,
+      "updated_at": "2025-03-25T11:30:21-04:00",
+      "product_id": 8303979167832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishermanCore_Render_Group_Friends_PDP_1x1_06_a40596c9-6995-4669-8c69-1be31aa751ff.jpg?v=1742916621",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-CATCH_IP13P_ChocolateBrown.png?v=1741022937",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

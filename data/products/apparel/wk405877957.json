@@ -1,0 +1,67 @@
+{
+  "id": 7785647276199,
+  "title": "Brand: Brady / Part #: 153571",
+  "handle": "wk405877957",
+  "body_html": "<br><strong>Item #: </strong>74247495<br><strong>Brand: </strong>Brady<br><strong>Model #: </strong>153571<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/ProductImages/noimageavailable.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">74247495</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>153571</p></td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-28T23:46:26-06:00",
+  "created_at": "2023-12-28T23:46:26-06:00",
+  "updated_at": "2025-09-22T10:55:00-05:00",
+  "vendor": "Brady",
+  "product_type": "Safety",
+  "tags": [
+    "Signs; Identification & Lockout/Tagout"
+  ],
+  "variants": [
+    {
+      "id": 43704903172263,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "74247495",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "84.70",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785647276199,
+      "created_at": "2023-12-28T23:46:26-06:00",
+      "updated_at": "2025-09-22T10:55:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237111746727,
+      "created_at": "2025-02-03T18:04:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:57-06:00",
+      "product_id": 7785647276199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7424737-21_9d7688fc-167b-4ab2-a054-2b03b5127ec1.jpg?v=1738627497",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 84.7,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7424737-21_9d7688fc-167b-4ab2-a054-2b03b5127ec1.jpg?v=1738627497",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brady",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

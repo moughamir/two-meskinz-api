@@ -1,0 +1,52 @@
+{
+  "id": 8453431165095,
+  "title": "Canvas Bucket, Leather Bottom, Connection Points, 12″",
+  "handle": "kp6045805",
+  "body_html": null,
+  "published_at": "2025-01-24T05:53:18-06:00",
+  "created_at": "2025-01-24T05:53:16-06:00",
+  "updated_at": "2025-09-22T10:51:46-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500733649063,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6045805",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "169.69",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453431165095,
+      "created_at": "2025-01-24T05:53:17-06:00",
+      "updated_at": "2025-09-22T10:51:46-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 169.69,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

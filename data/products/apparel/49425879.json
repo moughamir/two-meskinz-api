@@ -1,0 +1,67 @@
+{
+  "id": 8452519952551,
+  "title": "Flexible Cylinder Hone:",
+  "handle": "49425879",
+  "body_html": "<br><strong>Item #: </strong>04695318<br><strong>Brand: </strong>Tanis<br><strong>Model #: </strong>61042<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Abrasive Material</strong>\n</td>\n<td>Silicon Carbide</td>\n</tr>\n<tr> <td> <strong>Grade</strong>\n</td>\n<td>Medium</td>\n</tr>\n<tr> <td> <strong>Grit</strong>\n</td>\n<td>180</td>\n</tr>\n<tr> <td> <strong>Maximum Rpm</strong>\n</td>\n<td>900.000</td>\n</tr>\n<tr> <td> <strong>Abrasive Length (Decimal Inch)</strong>\n</td>\n<td>3.0000</td>\n</tr>\n<tr> <td> <strong>Minimum Bore Diameter (mm)</strong>\n</td>\n<td>25.40</td>\n</tr>\n<tr> <td> <strong>Maximum Bore Diameter (Decimal Inch)</strong>\n</td>\n<td>1.0000</td>\n</tr>\n<tr> <td> <strong>Maximum Bore Diameter (mm)</strong>\n</td>\n<td>25.40</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Decimal Inch)</strong>\n</td>\n<td>0.2130</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31191509</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:08:48-06:00",
+  "created_at": "2025-01-23T09:08:47-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Tanis",
+  "product_type": "Abrasives",
+  "tags": [
+    "Laps & Hones"
+  ],
+  "variants": [
+    {
+      "id": 46497979170983,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04695318",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "33.94",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452519952551,
+      "created_at": "2025-01-23T09:08:47-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242098839719,
+      "created_at": "2025-02-03T21:19:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:19:33-06:00",
+      "product_id": 8452519952551,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0469351-21_2f5c6d2d-2538-4edd-b6f3-80cc64036253.jpg?v=1738639173",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 33.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0469351-21_2f5c6d2d-2538-4edd-b6f3-80cc64036253.jpg?v=1738639173",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tanis",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

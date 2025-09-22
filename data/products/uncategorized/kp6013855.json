@@ -1,0 +1,52 @@
+{
+  "id": 8453335056551,
+  "title": "‎CAN WREN 3/8-7/16 HEX NUT",
+  "handle": "kp6013855",
+  "body_html": null,
+  "published_at": "2025-01-24T01:37:35-06:00",
+  "created_at": "2025-01-24T01:37:33-06:00",
+  "updated_at": "2025-09-22T10:44:36-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500359274663,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6013855",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.57",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453335056551,
+      "created_at": "2025-01-24T01:37:33-06:00",
+      "updated_at": "2025-09-22T10:44:36-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.57,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

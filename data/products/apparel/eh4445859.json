@@ -1,0 +1,67 @@
+{
+  "id": 7785317040295,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 4108493",
+  "handle": "eh4445859",
+  "body_html": "<br><strong>Item #: </strong>94100377<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>4108493<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (mm)</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>25.0000</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Square</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>10.0000</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>80.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>IN05S</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Variable Index</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Variable</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Regular</td>\n</tr>\n<tr>\n<td><strong>Through Coolant</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>46JRW</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:21:42-06:00",
+  "created_at": "2023-12-28T17:21:42-06:00",
+  "updated_at": "2025-09-22T10:55:44-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703607623847,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94100377",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "106.92",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785317040295,
+      "created_at": "2023-12-28T17:21:42-06:00",
+      "updated_at": "2025-09-22T10:55:44-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236693233831,
+      "created_at": "2025-02-03T17:50:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:50:47-06:00",
+      "product_id": 7785317040295,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9410037-21.jpg?v=1738626647",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 106.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9410037-21.jpg?v=1738626647",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

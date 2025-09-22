@@ -1,0 +1,118 @@
+{
+  "id": 8444647964760,
+  "title": "London Fog Petite Perennials iPhone Air Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-air-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:25:23-04:00",
+  "created_at": "2025-08-08T11:48:21-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184184688728,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:PETITE-PERENNIALS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444647964760,
+      "created_at": "2025-09-03T18:39:24-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184184721496,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444647964760,
+      "created_at": "2025-09-03T18:39:24-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567177236568,
+      "created_at": "2025-08-08T11:48:21-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:23-04:00",
+      "product_id": 8444647964760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP17AIR_LondonFog.jpg?v=1754668103",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671647293528,
+      "created_at": "2025-03-11T14:16:03-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:16:09-04:00",
+      "product_id": 8444647964760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_88d1b79d-7690-4d78-8b66-db5cc4378005.png?v=1741716969",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671647326296,
+      "created_at": "2025-03-11T14:16:03-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:16:09-04:00",
+      "product_id": 8444647964760,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_cb029817-cc9f-44e6-b452-26c50dc53465.png?v=1741716969",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP17AIR_LondonFog.jpg?v=1754668103",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

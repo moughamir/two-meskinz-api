@@ -1,0 +1,108 @@
+{
+  "id": 8335118008408,
+  "title": "Seashell Pup Bloom iPhone XR Case",
+  "handle": "seashell-pup-bloom-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to your daily dose of pawsitivity! The Pup Bloom Phone Case is bursting with colorful canines, playful flowers, and heart-melting charm. Whether you’re a proud pup parent or just really into dogs in sweaters (same), this case is the cutest way to protect your phone from drops, scratches, and bad vibes. 🐶🌼📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:13:10-04:00",
+  "created_at": "2025-04-01T11:42:15-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pup Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788477567064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:PUP-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335118008408,
+      "created_at": "2025-04-01T11:42:15-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775480238168,
+      "created_at": "2025-04-01T11:42:15-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:17-04:00",
+      "product_id": 8335118008408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IPXR_Seashell.jpg?v=1743522137",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892770312280,
+      "created_at": "2025-04-23T10:53:11-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:53:17-04:00",
+      "product_id": 8335118008408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_d91bfe17-56e4-450c-bb67-ed1679cf72b4.jpg?v=1745419997",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892770345048,
+      "created_at": "2025-04-23T10:53:12-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:53:17-04:00",
+      "product_id": 8335118008408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_2c96c00b-1561-4753-910d-cf6453bd98ce.jpg?v=1745419997",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892770279512,
+      "created_at": "2025-04-23T10:53:11-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:53:17-04:00",
+      "product_id": 8335118008408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_6e2583f0-5235-4d0a-bb24-5665c01483c7.jpg?v=1745419997",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IPXR_Seashell.jpg?v=1743522137",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

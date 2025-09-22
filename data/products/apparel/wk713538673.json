@@ -1,0 +1,67 @@
+{
+  "id": 7786085449895,
+  "title": "Brand: Hertel / Part #: CBDD-191",
+  "handle": "wk713538673",
+  "body_html": "<br><strong>Item #: </strong>16692055<br><strong>Brand: </strong>Hertel<br><strong>Model #: </strong>CBDD-191<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drill Bit Type</strong>\n</td>\n<td>Straight-Flute</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Bright</td>\n</tr>\n<tr>\n<td><strong>Flute Length (Inch)</strong></td>\n<td>1-1/4</td>\n</tr>\n<tr>\n<td><strong>Flute Length (Decimal Inch)</strong></td>\n<td>1.2500</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-3/8</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Size (Decimal Inch)</strong></td>\n<td>0.2165</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>C2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.3750</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>470</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Notched</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Web Thinning</strong></td>\n<td>Web-Thinned</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Diameter Tolerance</strong></td>\n<td>+0.0000 to -0.0005 in</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Stainless Steel; Chrome Alloy; Heat-Treated Alloy; Steel; Nickel Alloy; Titanium Alloy</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material</strong></td>\n<td>Stainless Steel; Chrome Alloy; Heat-Treated Alloy; Steel; Nickel Alloy; Titanium Alloy</td>\n</tr>\n<tr>\n<td><strong>Maximum Drilling Depth (Decimal Inch)</strong></td>\n<td>2.3750</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:31:28-06:00",
+  "created_at": "2023-12-29T09:31:28-06:00",
+  "updated_at": "2025-09-22T10:54:10-05:00",
+  "vendor": "Hertel",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 43706863714471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16692055",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "56.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786085449895,
+      "created_at": "2023-12-29T09:31:28-06:00",
+      "updated_at": "2025-09-22T10:54:10-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237806297255,
+      "created_at": "2025-02-03T18:25:51-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:25:52-06:00",
+      "product_id": 7786085449895,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_9b7bb023-0001-4ecf-b9a9-82f5c23fcd86.jpg?v=1738628752",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 56.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_9b7bb023-0001-4ecf-b9a9-82f5c23fcd86.jpg?v=1738628752",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Hertel",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

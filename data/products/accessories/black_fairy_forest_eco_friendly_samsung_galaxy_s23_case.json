@@ -1,0 +1,120 @@
+{
+  "id": 7358873534552,
+  "title": "Black Fairy Forest Samsung Galaxy S23 Case",
+  "handle": "black-fairy-forest-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🧚‍♂️ Step into a magical realm with our Fairy Forest Phone Case by Pela! This enchanting design showcases a vibrant tapestry of delicate flowers and lush greenery against a midnight black background, reminiscent of a fairy-tale woodland in full bloom. Perfect for those who adore a touch of whimsy and elegance, this case transforms your device into a delightful garden that's always in bloom. Let your phone be the gateway to your own enchanted forest adventure! 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:13:16-04:00",
+  "created_at": "2023-03-31T13:55:45-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fairy Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221307306072,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13700-S23-BLACK-AOD:FAIRY-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358873534552,
+      "created_at": "2023-03-31T13:55:45-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233613107288,
+      "created_at": "2023-03-31T13:55:45-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:45-04:00",
+      "product_id": 7358873534552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_S23_Black.jpg?v=1680285345",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241104461912,
+      "created_at": "2023-04-12T14:41:23-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T14:41:25-04:00",
+      "product_id": 7358873534552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden3_d19f2d72-c9c5-4992-9c9d-545cf3bcd865.png?v=1681324885",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241104527448,
+      "created_at": "2023-04-12T14:41:23-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T14:41:25-04:00",
+      "product_id": 7358873534552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_6f09303b-f829-4f0a-b2c4-24c0b00413e6.png?v=1681324885",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241104494680,
+      "created_at": "2023-04-12T14:41:23-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T14:41:25-04:00",
+      "product_id": 7358873534552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_4347a3d6-77f3-454b-abc3-377fca233352.png?v=1681324885",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236634710104,
+      "created_at": "2023-04-05T18:20:59-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T14:41:25-04:00",
+      "product_id": 7358873534552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9064_e1a96852-84fc-4afc-a69f-b7392daf789c.png?v=1681324885",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_S23_Black.jpg?v=1680285345",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

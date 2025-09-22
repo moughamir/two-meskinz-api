@@ -1,0 +1,110 @@
+{
+  "id": 7608885903469,
+  "title": "Sea Salt Driftwood",
+  "handle": "sea-salt-driftwood-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Sea Salt Driftwood elevates every drive with notes of <strong>bergamot</strong>, <strong>ocean air</strong>, and <strong>sea salt</strong>.<br></p>",
+  "published_at": "2025-03-11T15:23:31-06:00",
+  "created_at": "2025-02-19T16:50:03-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Studio McGee",
+    "collection:Car",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Fresh",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42070546055277,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DRIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7608885903469,
+      "created_at": "2025-02-19T16:50:04-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33737098985581,
+      "created_at": "2025-02-19T16:54:45-07:00",
+      "position": 1,
+      "updated_at": "2025-02-19T16:54:49-07:00",
+      "product_id": 7608885903469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SeaSaltDriftwood-Prod1-1224.jpg?v=1740009289",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33737098920045,
+      "created_at": "2025-02-19T16:54:45-07:00",
+      "position": 2,
+      "updated_at": "2025-02-19T16:54:49-07:00",
+      "product_id": 7608885903469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/salt-2_d012e794-1422-468f-9eed-a6308f77cbff.jpg?v=1740009289",
+      "width": 2319,
+      "height": 3092
+    },
+    {
+      "id": 33737099051117,
+      "created_at": "2025-02-19T16:54:45-07:00",
+      "position": 3,
+      "updated_at": "2025-02-19T16:54:49-07:00",
+      "product_id": 7608885903469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SeaSaltDriftwood-StudioMcgee-Car-Retail-Image3.png?v=1740009289",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 33737099018349,
+      "created_at": "2025-02-19T16:54:45-07:00",
+      "position": 4,
+      "updated_at": "2025-02-19T16:54:47-07:00",
+      "product_id": 7608885903469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SeaSaltDriftwood-Prod4-1224.jpg?v=1740009287",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SeaSaltDriftwood-Prod1-1224.jpg?v=1740009289",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

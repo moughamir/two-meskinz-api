@@ -1,0 +1,67 @@
+{
+  "id": 7785641214119,
+  "title": "Brand: Sumitomo / Part #: 16CD431",
+  "handle": "wk405873679",
+  "body_html": "<br><strong>Item #: </strong>02253862<br><strong>Brand: </strong>Sumitomo<br><strong>Model #: </strong>16CD431<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>TPGA</td>\n</tr>\n<tr>\n<td><strong>Insert Shape Code</strong></td>\n<td>T</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>221</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Triangle</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Coated</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>DA2200</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Inch)</strong></td>\n<td>1/64</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0156</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Polycrystalline Diamond</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Decimal Inch)</strong></td>\n<td>0.1300</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness (Decimal Inch)</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Clearance Code</strong></td>\n<td>P</td>\n</tr>\n<tr>\n<td><strong>Tolerance Code</strong></td>\n<td>G</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>60.0</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>11</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>TP</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Insert Length (Decimal Inch)</strong></td>\n<td>0.4331</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>N</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>TPGA221</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>TPGW110304</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ISO 13399; ANSI</td>\n</tr>\n<tr>\n<td><strong>Single or Multi Tipped</strong></td>\n<td>Single Tipped</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>A</td>\n</tr>\n<tr>\n<td><strong>Rake Angle</strong></td>\n<td>0</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:42:42-06:00",
+  "created_at": "2023-12-28T23:42:42-06:00",
+  "updated_at": "2025-09-22T10:55:00-05:00",
+  "vendor": "Sumitomo",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43704866799783,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02253862",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "85.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785641214119,
+      "created_at": "2023-12-28T23:42:42-06:00",
+      "updated_at": "2025-09-22T10:55:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237107290279,
+      "created_at": "2025-02-03T18:04:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:49-06:00",
+      "product_id": 7785641214119,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0159458-11_58cbfe08-f5ad-459a-9f3d-824dda936bcc.jpg?v=1738627489",
+      "width": 600,
+      "height": 493
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 85.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0159458-11_58cbfe08-f5ad-459a-9f3d-824dda936bcc.jpg?v=1738627489",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sumitomo",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

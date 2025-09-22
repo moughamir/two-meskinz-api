@@ -1,0 +1,108 @@
+{
+  "id": 8359098581080,
+  "title": "Seashell Coastline Sketch iPhone 12 Mini Case",
+  "handle": "seashell-coastline-sketch-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Introducing your new summer sidekick: the Coastline Sketch Phone Case! Covered in doodle-style beachy icons—from salty snacks and lemony drinks to palm trees, swimsuits, and seashells—it’s basically your vacation Pinterest board in case form. Whether you’re seaside dreaming or poolside lounging, this case brings the vibe (and the sunscreen energy) with every glance. 🍹⛱️🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:47:41-04:00",
+  "created_at": "2025-04-28T09:44:48-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastline Sketch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846504779864,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:COASTLINE-SKETCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359098581080,
+      "created_at": "2025-04-28T09:44:49-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914307932248,
+      "created_at": "2025-04-28T09:44:48-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:50-04:00",
+      "product_id": 8359098581080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTLINE-SKETCH_IP12MINI_Seashell.jpg?v=1745847890",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010559836248,
+      "created_at": "2025-05-13T07:03:11-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T07:03:13-04:00",
+      "product_id": 8359098581080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_03_da15861f-6b94-4a28-92f9-dc027d81a83c.jpg?v=1747134193",
+      "width": 1056,
+      "height": 1056
+    },
+    {
+      "id": 35010559770712,
+      "created_at": "2025-05-13T07:03:11-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T07:03:12-04:00",
+      "product_id": 8359098581080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_01_510a80b9-8c36-4ac7-b252-afebdbc47f1b.jpg?v=1747134192",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010559803480,
+      "created_at": "2025-05-13T07:03:11-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T07:03:12-04:00",
+      "product_id": 8359098581080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastlineSketch_PDP_02_4d97d1fd-53f4-49c4-b2a3-f2c943eed519.jpg?v=1747134192",
+      "width": 1152,
+      "height": 1152
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTLINE-SKETCH_IP12MINI_Seashell.jpg?v=1745847890",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

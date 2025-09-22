@@ -1,0 +1,119 @@
+{
+  "id": 8429101711448,
+  "title": "Seashell Petal Burst Google Pixel 8 Case",
+  "handle": "seashell-petal-burst-eco-friendly-google-pixel-8-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:20:24-04:00",
+  "created_at": "2025-07-17T07:09:56-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063793451096,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14954-PX8-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429101711448,
+      "created_at": "2025-07-17T07:09:56-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436657082456,
+      "created_at": "2025-07-17T07:09:56-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:58-04:00",
+      "product_id": 8429101711448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_PX8_Seashell.jpg?v=1752750598",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581684940888,
+      "created_at": "2025-08-11T14:55:10-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:55:10-04:00",
+      "product_id": 8429101711448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_9d16529a-a7b7-4a34-8ea0-8f5baecf81d1.jpg?v=1754938510",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581685203032,
+      "created_at": "2025-08-11T14:55:12-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:55:12-04:00",
+      "product_id": 8429101711448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_d6912190-28d0-48a1-8c1d-acaf93422f5c.jpg?v=1754938512",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581685694552,
+      "created_at": "2025-08-11T14:55:13-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:55:13-04:00",
+      "product_id": 8429101711448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_5b23f110-a603-477c-ae57-89ecc3f892e8.jpg?v=1754938513",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581685956696,
+      "created_at": "2025-08-11T14:55:15-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:55:15-04:00",
+      "product_id": 8429101711448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_0cdce109-aa09-40e1-9256-09062841e9c9.jpg?v=1754938515",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_PX8_Seashell.jpg?v=1752750598",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

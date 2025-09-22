@@ -1,0 +1,108 @@
+{
+  "id": 7368636596312,
+  "title": "Seashell Wine Lovers iPhone 13 Pro Case",
+  "handle": "seashell-wine-lovers-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Uncork the essence of vineyard elegance with the Pela Wine Lovers Phone Case. A tasteful selection of wine bottles, from crisp whites to bold reds, are scattered across a seashell beige canvas, turning your phone into a sommelier's dream. This case is the perfect pairing for those who appreciate a good vintage and wish to carry the spirit of the wine country with them. Sustainably crafted, it provides robust protection for your device, ensuring that like fine wine, your phone only gets better with time. Cheers to conversations that flow as smoothly as your favorite bottle of Pinot! 🍷🌟📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T07:39:30-04:00",
+  "created_at": "2023-07-10T16:26:45-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Wine Country",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Wine Lovers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40245529477208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16761-IP13P-SEASHELL-AOD:WINE-LOVERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7368636596312,
+      "created_at": "2023-07-10T16:26:45-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30314219765848,
+      "created_at": "2023-07-10T16:26:45-04:00",
+      "position": 1,
+      "updated_at": "2023-07-10T16:26:45-04:00",
+      "product_id": 7368636596312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WINE-LOVERS_IP13P_Seashell.jpg?v=1689020805",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316035932248,
+      "created_at": "2023-07-12T14:04:57-04:00",
+      "position": 2,
+      "updated_at": "2023-07-12T14:04:58-04:00",
+      "product_id": 7368636596312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv5_22f6d609-0879-4c66-aca8-3bcc939931dd.png?v=1689185098",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30316035965016,
+      "created_at": "2023-07-12T14:04:57-04:00",
+      "position": 3,
+      "updated_at": "2023-07-12T14:04:58-04:00",
+      "product_id": 7368636596312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINECOUNTRYv3_a5e3e7d7-763e-4d55-80b1-4c9c2151410d.png?v=1689185098",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30320891887704,
+      "created_at": "2023-07-17T09:17:47-04:00",
+      "position": 4,
+      "updated_at": "2023-07-17T09:17:48-04:00",
+      "product_id": 7368636596312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0741_d7d8cdd2-21bb-4940-ab8a-2cfb459cd7da.jpg?v=1689599868",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WINE-LOVERS_IP13P_Seashell.jpg?v=1689020805",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

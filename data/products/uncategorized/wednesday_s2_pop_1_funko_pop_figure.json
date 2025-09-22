@@ -1,0 +1,100 @@
+{
+  "id": 8025567068207,
+  "title": "Wednesday Addams in Black Coat Funko Pop! Figure",
+  "handle": "wednesday-s2-pop-1-funko-pop-figure",
+  "body_html": "<p>Class is back in session. POP! <em>Wednesday</em> Addams is ready to uncover dark secrets and solve heinous crimes in your POP! Television collection. Snap to it and welcome this creepy and kooky sleuth to the Nevermore Academy attendance sheet in your Netflix <em>Wednesday</em> lineup. </p><ul><li>Vinyl figure is approximately 3.7 in (9.4 cm) tall.</li></ul>",
+  "published_at": "2025-07-25T15:07:34-04:00",
+  "created_at": "2025-07-25T12:47:20-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "vp-funko",
+  "product_type": "Collectibles",
+  "tags": [
+    "Badge: Preorder | #E50815 | #FFFFFF",
+    "Collectibles",
+    "Funko",
+    "Funko Pop!",
+    "Title: Wednesday",
+    "Type: Collectibles",
+    "Vendor: Funko Pop",
+    "Wednesday"
+  ],
+  "variants": [
+    {
+      "id": 44126573887535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "86679",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36611314778159,
+        "product_id": 8025567068207,
+        "position": 1,
+        "created_at": "2025-07-25T12:47:34-04:00",
+        "updated_at": "2025-07-25T12:47:36-04:00",
+        "alt": "Wednesday Addams in Black Coat Funko Pop! Figure",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/86679_1.jpg?v=1753462056",
+        "variant_ids": [
+          44126573887535
+        ]
+      },
+      "available": false,
+      "price": "19.95",
+      "grams": 381,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8025567068207,
+      "created_at": "2025-07-25T12:47:20-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36611314778159,
+      "created_at": "2025-07-25T12:47:34-04:00",
+      "position": 1,
+      "updated_at": "2025-07-25T12:47:36-04:00",
+      "product_id": 8025567068207,
+      "variant_ids": [
+        44126573887535
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/86679_1.jpg?v=1753462056",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36611314843695,
+      "created_at": "2025-07-25T12:47:34-04:00",
+      "position": 2,
+      "updated_at": "2025-07-25T12:47:36-04:00",
+      "product_id": 8025567068207,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/86679.jpg?v=1753462056",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/86679_1.jpg?v=1753462056",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "vp-funko",
+  "category": "Collectibles",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

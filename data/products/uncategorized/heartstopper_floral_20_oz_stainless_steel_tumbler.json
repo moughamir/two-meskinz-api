@@ -1,0 +1,101 @@
+{
+  "id": 7838931255343,
+  "title": "Heartstopper Floral 20 oz. Stainless Steel Tumbler",
+  "handle": "heartstopper-floral-20-oz-stainless-steel-tumbler",
+  "body_html": "<p>Show your love for Heartstopper with this stunning Floral 20 oz. Stainless Steel Tumbler! Adorned with vibrant floral designs that reflect the show's themes of love and friendship, this tumbler keeps your drinks at the perfect temperature while adding a touch of whimsy to your day. Whether you're sipping your favorite beverage at home or on the go, this tumbler is a delightful way to celebrate the heartwarming journey of Nick and Charlie!</p><ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz (600 ml)</li>\n<li>Straw and lid included with the tumbler</li>\n<li>Glossy finish</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n<br>\n</ul>",
+  "published_at": "2024-10-14T13:40:10-04:00",
+  "created_at": "2024-09-23T04:14:49-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "81059939",
+    "Drinkware",
+    "Heartstopper",
+    "Home & Office",
+    "home and office",
+    "new",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Tumblers"
+  ],
+  "variants": [
+    {
+      "id": 43259013890095,
+      "title": "20 oz",
+      "option1": "20 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101668-0002-HS-FWPT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34696897134639,
+        "product_id": 7838931255343,
+        "position": 1,
+        "created_at": "2024-09-23T04:35:36-04:00",
+        "updated_at": "2024-09-23T04:35:36-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-FWPT_101688_FT_MF_55109576-82d4-4726-a86b-db8210180b5c.jpg?v=1727080536",
+        "variant_ids": [
+          43259013890095
+        ]
+      },
+      "available": true,
+      "price": "36.95",
+      "grams": 1361,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838931255343,
+      "created_at": "2024-09-23T04:14:49-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34696897134639,
+      "created_at": "2024-09-23T04:35:36-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T04:35:36-04:00",
+      "product_id": 7838931255343,
+      "variant_ids": [
+        43259013890095
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-FWPT_101688_FT_MF_55109576-82d4-4726-a86b-db8210180b5c.jpg?v=1727080536",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696897200175,
+      "created_at": "2024-09-23T04:35:36-04:00",
+      "position": 2,
+      "updated_at": "2024-09-23T04:35:36-04:00",
+      "product_id": 7838931255343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-FWPT_101688_BK_MF_fb26ee02-b834-4a72-b08a-4c2945984790.jpg?v=1727080536",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "20 oz"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-FWPT_101688_FT_MF_55109576-82d4-4726-a86b-db8210180b5c.jpg?v=1727080536",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

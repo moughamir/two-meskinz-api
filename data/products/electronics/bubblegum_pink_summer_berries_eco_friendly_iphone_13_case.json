@@ -1,0 +1,77 @@
+{
+  "id": 8018546950232,
+  "title": "Bubblegum Pink Summer Berries iPhone 13 Case",
+  "handle": "bubblegum-pink-summer-berries-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sweeten up your style with the Summer Berries Phone Case! This delightful design features a scatter of juicy strawberries and raspberries on a playful bubblegum pink background, making your phone as irresistible as a fresh berry smoothie. Perfect for those who love a touch of fruity charm, this case not only protects your phone but also adds a splash of summer fun to every day. Embrace the season and let your phone bask in the berry goodness! 🍓🌸📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-07-16T09:13:57-04:00",
+  "created_at": "2024-07-04T11:25:59-04:00",
+  "updated_at": "2025-09-22T15:15:54-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Mini Summer Fruit",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Summer Berries",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41991038959704,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16699-IP13-BUBPINK-AOD:SUMMER-BERRIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8018546950232,
+      "created_at": "2024-07-04T11:25:59-04:00",
+      "updated_at": "2025-09-22T15:15:54-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33221989630040,
+      "created_at": "2024-07-04T11:25:59-04:00",
+      "position": 1,
+      "updated_at": "2024-07-04T11:25:59-04:00",
+      "product_id": 8018546950232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-BERRIES_IP13_BubblegumPink.jpg?v=1720106759",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-BERRIES_IP13_BubblegumPink.jpg?v=1720106759",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

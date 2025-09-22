@@ -1,0 +1,108 @@
+{
+  "id": 8388534763608,
+  "title": "Seashell Coastal Bites iPhone 12/ iPhone 12 Pro Case",
+  "handle": "seashell-coastal-bites-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sunshine, seafood, and sips — the Coastal Bites Phone Case is serving Mediterranean vacation energy 24/7. With sardines, shrimp, olives, and wine all making an appearance, it’s basically a charcuterie board you can call your own. Perfect for snack lovers, beach dreamers, and anyone who believes life is better al fresco. ☀️🍷🍤📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:09:35-04:00",
+  "created_at": "2025-05-30T12:37:34-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Bites",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918165282904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16461-IP12-SEASHELL-AOD:COASTAL-BITES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388534763608,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125634891864,
+      "created_at": "2025-05-30T12:37:34-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:36-04:00",
+      "product_id": 8388534763608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP12_Seashell.jpg?v=1748623056",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195819491416,
+      "created_at": "2025-06-09T17:06:38-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:06:38-04:00",
+      "product_id": 8388534763608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/50176f46403a607ec189a5955511319f_873c7fe8-d4dd-484e-a835-a5c44aafdb53.jpg?v=1749503198",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195819950168,
+      "created_at": "2025-06-09T17:06:40-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:06:40-04:00",
+      "product_id": 8388534763608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2c8fd9ff78236ffb82d740b0d52bc957_8266804c-ef5e-40ef-a772-0279c80633b8.jpg?v=1749503200",
+      "width": 3835,
+      "height": 3835
+    },
+    {
+      "id": 35195820474456,
+      "created_at": "2025-06-09T17:06:42-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:06:42-04:00",
+      "product_id": 8388534763608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7d736efaa0741b7b66cc849cc916f501_18bef1f1-3e52-4d82-b96d-3cbd52260149.jpg?v=1749503202",
+      "width": 4336,
+      "height": 4336
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_IP12_Seashell.jpg?v=1748623056",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7370324934744,
+  "title": "Black Little Elephants iPhone 14 Pro Case",
+  "handle": "black-little-elephants-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Stomp into style with the Pela Little Elephants Phone Case, where a parade of charming ivory elephants marches across a deep black savannah. Each elephant, from the grand to the petite, is a tribute to the gentle giants of the wild, turning your phone case into a playful journey through the jungle. This case isn’t just about adorable design—it's a sturdy companion for your daily adventures, ensuring your phone is protected with the strength of an elephant herd. Bring a touch of wildlife whimsy into your day, and let these little elephants trumpet your call to the world! 🐘🖤✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-10T10:21:46-04:00",
+  "created_at": "2023-07-27T14:52:08-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Elephant Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Little Elephants",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249087098968,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16795-IP14P-BLACK-AOD:LITTLE-ELEPHANTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370324934744,
+      "created_at": "2023-07-27T14:52:08-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330731167832,
+      "created_at": "2023-07-27T14:52:08-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T14:52:08-04:00",
+      "product_id": 7370324934744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/LITTLE-ELEPHANTS_IP14P_Black.jpg?v=1690483928",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332633350232,
+      "created_at": "2023-07-31T12:56:35-04:00",
+      "position": 2,
+      "updated_at": "2023-07-31T12:56:36-04:00",
+      "product_id": 7370324934744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday_c88766bc-da98-41e5-b2f8-6fa9223461d9.jpg?v=1690822596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30332633317464,
+      "created_at": "2023-07-31T12:56:35-04:00",
+      "position": 3,
+      "updated_at": "2023-07-31T12:56:36-04:00",
+      "product_id": 7370324934744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Elephantday4_d2666deb-6883-4f83-b42b-dc1cce7c09b6.jpg?v=1690822596",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335810699352,
+      "created_at": "2023-08-03T10:17:09-04:00",
+      "position": 4,
+      "updated_at": "2023-08-03T10:17:10-04:00",
+      "product_id": 7370324934744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1262_3ece3800-4f9e-4d43-a5ed-38cd999851ca.jpg?v=1691072230",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30335810732120,
+      "created_at": "2023-08-03T10:17:09-04:00",
+      "position": 5,
+      "updated_at": "2023-08-03T10:17:10-04:00",
+      "product_id": 7370324934744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1224_1_d0263d23-08d5-47ec-95b4-23cdbd39f360.jpg?v=1691072230",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/LITTLE-ELEPHANTS_IP14P_Black.jpg?v=1690483928",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

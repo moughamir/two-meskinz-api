@@ -1,0 +1,96 @@
+{
+  "id": 8444679159896,
+  "title": "London Fog Slam Dunk iPhone 17 Case",
+  "handle": "london-fog-slam-dunk-eco-friendly-iphone-17-case",
+  "body_html": "<p class=\"p1\">Get ready to score in style with the Slam Dunk Phone Case! 🏀 This case is all about bringing the heat to your phone game, featuring a fun, bold basketball pattern that’ll make every day feel like game day. Whether you’re hitting the court or just showing off your love for the sport, this design gives you a winning shot of personality. Plus, it’s built to protect, so you can dribble, pass, and shoot through life without missing a beat. Game on! 🏆📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:21:29-04:00",
+  "created_at": "2025-08-08T11:50:15-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Basketball",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Slam Dunk",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184189276248,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SLAM-DUNK_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444679159896,
+      "created_at": "2025-09-03T18:40:15-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184189309016,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SLAM-DUNK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444679159896,
+      "created_at": "2025-09-03T18:40:15-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567243984984,
+      "created_at": "2025-08-08T11:50:15-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:17-04:00",
+      "product_id": 8444679159896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SLAM-DUNK_IP17_LondonFog.jpg?v=1754668217",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SLAM-DUNK_IP17_LondonFog.jpg?v=1754668217",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

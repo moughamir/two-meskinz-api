@@ -1,0 +1,82 @@
+{
+  "id": 5636190437534,
+  "title": "APlusLift 2-Post Car Lift Anchor Bolts",
+  "handle": "apluslift-2-post-car-lift-anchor-bolts",
+  "body_html": "<h3>Options:</h3>\n<ul>\n<li><b>Ten 3/4\" x 6\" zinc plated anchor bolts. The anchor bolts fit AP-10SR, HW-10KBP and HW-10KOH car lift models.</b></li>\n</ul>\n<h3><span style=\"color: red;\">For parts purchased by mistake, a minimum 25% restocking fee and return shipping charges apply.</span></h3>",
+  "published_at": "2020-08-31T07:37:43-07:00",
+  "created_at": "2020-08-31T07:37:42-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330511560932,
+      "title": "3/4\" Size Zinc Plated (10 Pieces for HW-10KBP HW-10KOH AP-10SR)",
+      "option1": "3/4\" Size Zinc Plated (10 Pieces for HW-10KBP HW-10KOH AP-10SR)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 19891527024798,
+        "product_id": 5636190437534,
+        "position": 1,
+        "created_at": "2020-11-01T16:30:00-08:00",
+        "updated_at": "2020-11-01T16:30:12-08:00",
+        "alt": "3/4\" x 6\" anchor bolts for HW-9KBP, HW-9KOH, HW-10KBP, and HW-10KOH models",
+        "width": 1440,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-anchor-bolts.jpg?v=1604277012",
+        "variant_ids": [
+          45330511560932
+        ]
+      },
+      "available": true,
+      "price": "65.00",
+      "grams": 4536,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5636190437534,
+      "created_at": "2024-06-20T18:56:44-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891527024798,
+      "created_at": "2020-11-01T16:30:00-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:30:12-08:00",
+      "product_id": 5636190437534,
+      "variant_ids": [
+        45330511560932
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-anchor-bolts.jpg?v=1604277012",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "3/4\" Size Zinc Plated (10 Pieces for HW-10KBP HW-10KOH AP-10SR)"
+      ]
+    }
+  ],
+  "price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-anchor-bolts.jpg?v=1604277012",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

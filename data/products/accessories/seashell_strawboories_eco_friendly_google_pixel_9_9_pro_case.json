@@ -1,0 +1,119 @@
+{
+  "id": 8453540544600,
+  "title": "Seashell Strawboories Google Pixel 9/9 Pro Case",
+  "handle": "seashell-strawboories-eco-friendly-google-pixel-9-9-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Berry cute, berry creepy 🍓👻—the Strawboories Phone Case is serving up fruit with a frightful twist! These strawberries aren’t just sweet; they’re spooked, with little ghostly faces that make your phone look hauntingly adorable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-04T09:02:46-04:00",
+  "created_at": "2025-08-21T13:49:40-04:00",
+  "updated_at": "2025-09-22T15:13:07-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9/9 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Strawboories",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43146600743000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15666-PX9-SEASHELL-AOD:STRAWBOORIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8453540544600,
+      "created_at": "2025-08-21T13:49:40-04:00",
+      "updated_at": "2025-09-22T15:13:07-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638756573272,
+      "created_at": "2025-08-21T13:49:40-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T14:15:33-04:00",
+      "product_id": 8453540544600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_PX9_Seashell.jpg?v=1755800133",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736243863640,
+      "created_at": "2025-09-03T10:38:49-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:38:49-04:00",
+      "product_id": 8453540544600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70bae47684d0823f356b9e55c918731a_b26e1aba-8ca8-4e01-8922-01c136306b4f.jpg?v=1756910329",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736244224088,
+      "created_at": "2025-09-03T10:38:50-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:38:50-04:00",
+      "product_id": 8453540544600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d5187f2a3596b91601ec83ed7502ac4_f8aa71e5-af3e-4c57-b447-86aaf677090c.jpg?v=1756910330",
+      "width": 2048,
+      "height": 2039
+    },
+    {
+      "id": 35736244650072,
+      "created_at": "2025-09-03T10:38:52-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:38:52-04:00",
+      "product_id": 8453540544600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/771a45ddc4671ca5861316cd18f45778_73257dec-bdb3-4da6-8918-d7fa5f86712e.jpg?v=1756910332",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736244879448,
+      "created_at": "2025-09-03T10:38:53-04:00",
+      "position": 5,
+      "updated_at": "2025-09-03T10:38:53-04:00",
+      "product_id": 8453540544600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/952a4fe7db645654d39f94f4aa82ec86_2f1e7446-3d24-46f6-9e9a-080eb9c83f13.jpg?v=1756910333",
+      "width": 3373,
+      "height": 3373
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_PX9_Seashell.jpg?v=1755800133",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9/9 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5321844064423,
+  "title": "2.5MM EM DENTAL BN-SHT",
+  "handle": "sp11fw1701204a",
+  "body_html": "<br><strong>Item #: </strong>ER452621250420<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>2621.250420<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>2.5 mm </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>4 mm </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>4 mm </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Finishing | </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>47 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Ball Nose </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Bright </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.0984″ </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>HA </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>2621 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:36:42-06:00",
+  "created_at": "2020-06-12T11:44:42-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Milling",
+  "tags": [
+    "Flap Wheels",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34694126239911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER452621250420",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "61.44",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321844064423,
+      "created_at": "2020-06-12T11:44:42-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143275663527,
+      "created_at": "2025-01-23T21:36:51-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:36:52-06:00",
+      "product_id": 5321844064423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_2f3fcb23-34da-4425-b2cf-63550c0e4ae6.png?v=1737689812",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 61.44,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_2f3fcb23-34da-4425-b2cf-63550c0e4ae6.png?v=1737689812",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

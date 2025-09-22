@@ -1,0 +1,111 @@
+{
+  "id": 7608860508269,
+  "title": "Santal Vanilla",
+  "handle": "santal-vanilla-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Transform every drive into a relaxing escape with an alluring blend of <strong>almond</strong>, <strong>white</strong> <strong>cardamom</strong>, and <strong>sandalwood</strong>.<br></p>",
+  "published_at": "2025-03-11T15:22:07-06:00",
+  "created_at": "2025-02-19T16:18:15-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Studio McGee",
+    "collection:Car",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Car",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42070495330413,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SVNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7608860508269,
+      "created_at": "2025-02-19T16:18:15-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33736932851821,
+      "created_at": "2025-02-19T16:28:12-07:00",
+      "position": 1,
+      "updated_at": "2025-02-19T16:29:46-07:00",
+      "product_id": 7608860508269,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SantalVanilla-Car-Prod1-1224.jpg?v=1740007786",
+      "width": 3464,
+      "height": 5194
+    },
+    {
+      "id": 33736933113965,
+      "created_at": "2025-02-19T16:28:28-07:00",
+      "position": 2,
+      "updated_at": "2025-02-19T16:29:46-07:00",
+      "product_id": 7608860508269,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/palo-santo-resized_89bc9648-321a-4403-b6d7-4ca1e250106c.jpg?v=1740007786",
+      "width": 2400,
+      "height": 3199
+    },
+    {
+      "id": 33736938061933,
+      "created_at": "2025-02-19T16:29:36-07:00",
+      "position": 3,
+      "updated_at": "2025-02-19T16:29:46-07:00",
+      "product_id": 7608860508269,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SantalVanilla-StudioMcgee-Car-Retail-Image3.png?v=1740007786",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 33736932819053,
+      "created_at": "2025-02-19T16:28:12-07:00",
+      "position": 4,
+      "updated_at": "2025-02-19T16:29:46-07:00",
+      "product_id": 7608860508269,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SantalVanilla-Car-Prod4-1224.jpg?v=1740007786",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-SantalVanilla-Car-Prod1-1224.jpg?v=1740007786",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

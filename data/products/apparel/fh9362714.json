@@ -1,0 +1,67 @@
+{
+  "id": 7786065330343,
+  "title": "Brand: DeWALT / Part #: DCE700012B4",
+  "handle": "fh9362714",
+  "body_html": "<br><strong>Item #: </strong>86755279<br><strong>Brand: </strong>DeWALT<br><strong>Model #: </strong>DCE700012B4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (Inch)</strong>\n</td>\n<td>1/2-14</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Threads Per Inch</strong></td>\n<td>14</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:28:50-06:00",
+  "created_at": "2023-12-29T08:28:50-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "DeWALT",
+  "product_type": "Threading",
+  "tags": [
+    "Manual Pipe Threaders"
+  ],
+  "variants": [
+    {
+      "id": 43706765443239,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "86755279",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786065330343,
+      "created_at": "2023-12-29T08:28:50-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237745381543,
+      "created_at": "2025-02-03T18:23:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:23:48-06:00",
+      "product_id": 7786065330343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8675527-21.jpg?v=1738628628",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8675527-21.jpg?v=1738628628",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DeWALT",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

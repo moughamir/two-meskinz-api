@@ -1,0 +1,119 @@
+{
+  "id": 8259872948312,
+  "title": "Bubblegum Pink XOXO Samsung Galaxy S25 Case",
+  "handle": "bubblegum-pink-xoxo-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Pucker up for style with the XOXO Phone Case from our <em>Amour Collection</em>! Covered in bold red and pink lips, this case is the ultimate love note for your phone. Playful, flirty, and irresistibly cute, it’s perfect for spreading kisses and good vibes everywhere you go. <meta charset=\"utf-8\">💋❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:48:06-05:00",
+  "created_at": "2025-01-20T13:45:51-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:XOXO",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42579113574488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13903-S25-BUBPINK-AOD:XOXO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8259872948312,
+      "created_at": "2025-01-20T13:45:52-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34336473317464,
+      "created_at": "2025-01-20T13:45:52-05:00",
+      "position": 1,
+      "updated_at": "2025-01-20T13:45:54-05:00",
+      "product_id": 8259872948312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_S25_BubblegumPink.jpg?v=1737398754",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683525038168,
+      "created_at": "2025-03-13T10:03:12-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:03:14-04:00",
+      "product_id": 8259872948312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP2_8ed050a3-b87a-4d06-9039-d3ecc68c4ca6.jpg?v=1741874594",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683525005400,
+      "created_at": "2025-03-13T10:03:12-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:03:14-04:00",
+      "product_id": 8259872948312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP4_b8d9fce5-3869-4803-8761-30dadb080878.jpg?v=1741874594",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683524972632,
+      "created_at": "2025-03-13T10:03:12-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:03:14-04:00",
+      "product_id": 8259872948312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP1_c270d047-6344-45af-9c0f-ffacc762f584.jpg?v=1741874594",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683525070936,
+      "created_at": "2025-03-13T10:03:12-04:00",
+      "position": 5,
+      "updated_at": "2025-03-13T10:03:15-04:00",
+      "product_id": 8259872948312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP3_559339f4-d997-4d47-a325-3f3bcebd41e2.jpg?v=1741874595",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_S25_BubblegumPink.jpg?v=1737398754",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

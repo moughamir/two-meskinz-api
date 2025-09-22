@@ -1,0 +1,118 @@
+{
+  "id": 6805099315402,
+  "title": "Gymshark Everyday Zip Pouch - Dusty Maroon",
+  "handle": "gymshark-everyday-wash-bag-dusty-maroon-ss23",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><strong>EVERYDAY FOR ANY DAY</strong></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Throw everything you need for a freshen up or liven up in the Everyday Zip Pouch. Its main entry pocket is perfectly sized for toiletries and makeup. And with an interior lining for those post-wash items, you can be confident the bag will stay fresh.</p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- One main entry<br data-mce-fragment=\"1\">- Internal zip pocket<br data-mce-fragment=\"1\">- Interior lining<br data-mce-fragment=\"1\">- Embossed front logo<br data-mce-fragment=\"1\">- 100% PVC Outer<br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">- Length: </span><span data-mce-fragment=\"1\">9.4\"</span><span data-mce-fragment=\"1\">. Height: </span><span data-mce-fragment=\"1\">6.3\"</span><span data-mce-fragment=\"1\">. Width: </span><span data-mce-fragment=\"1\">.4\"</span><span data-mce-fragment=\"1\">. Volume: 1.5L (approx).</span><br data-mce-fragment=\"1\">- SKU: I3A2C-NBR0</p>",
+  "published_at": "2023-01-25T08:23:02-08:00",
+  "created_at": "2023-01-12T01:12:14-08:00",
+  "updated_at": "2025-09-22T08:46:34-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-24-accessories",
+    "1-30-spanish",
+    "20EXTRA",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "Bags",
+    "bf-23",
+    "category:Bag",
+    "conditioning",
+    "division:Accessories",
+    "filter-colour: Brown",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Everyday",
+    "seamtype:Accessories",
+    "segmentation:Conditioning",
+    "small-bags",
+    "spanish-dg",
+    "spanish-done",
+    "SS23",
+    "ss23-accessories",
+    "ss23-bag",
+    "subcategory:Washbag",
+    "test",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787836145866,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A2C-NBR0-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "9.60",
+      "grams": 0,
+      "compare_at_price": "16.00",
+      "position": 1,
+      "product_id": 6805099315402,
+      "created_at": "2023-01-12T01:12:14-08:00",
+      "updated_at": "2025-09-22T08:46:34-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28974130102474,
+      "created_at": "2023-01-12T01:12:15-08:00",
+      "position": 1,
+      "updated_at": "2023-01-12T01:12:17-08:00",
+      "product_id": 6805099315402,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWashBagDustyMaroon-I3A2C-NBR047.jpg?v=1673514737",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974130397386,
+      "created_at": "2023-01-12T01:12:15-08:00",
+      "position": 2,
+      "updated_at": "2023-01-12T01:12:17-08:00",
+      "product_id": 6805099315402,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWashBagDustyMaroon-I3A2C-NBR0-0233.26.jpg?v=1673514737",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974130004170,
+      "created_at": "2023-01-12T01:12:15-08:00",
+      "position": 3,
+      "updated_at": "2023-01-12T01:12:16-08:00",
+      "product_id": 6805099315402,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWashBagDustyMaroon-I3A2C-NBR06.jpg?v=1673514736",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 9.6,
+  "compare_at_price": 16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWashBagDustyMaroon-I3A2C-NBR047.jpg?v=1673514737",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

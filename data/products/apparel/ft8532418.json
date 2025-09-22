@@ -1,0 +1,67 @@
+{
+  "id": 7785742598311,
+  "title": "Brand: Stanley / Part #: 85-595",
+  "handle": "ft8532418",
+  "body_html": "<br><strong>Item #: </strong>89514384<br><strong>Brand: </strong>Stanley<br><strong>Model #: </strong>85-595<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Set Type</strong>\n</td>\n<td>Mechanics  Tools Set</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Case</td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch &amp; Metric</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(5) Combination Wrenches SAE 3/8 - 5/8 in; Socket Driver; (5) 12 Pt. 3/8 in Dr. Metric Deep Sockets 10 - 15mm; Molded Case; (10) 6 Pt. 1/4 in Dr. Std. Sockets 5/32 - 1/2 in; (5) 1/4 in Hex Torx Bits (T10-T30); (3) 1/4 in Hex Slotted Bits (5/32, 3/16, 7/32 in); (12) 6 Pt. 1/4 in Dr. Metric Std. Sockets 4 - 13mm; (8) 12 Pt. 3/8 in Dr. Std. Sockets 3/8 - 13/16 in; (11) 12 Pt. 3/8 in Dr. Metric Std. Sockets 9 - 19mm; (1) 1/4 in Dr. Reversible Ratchet, 3 in Extension; (3) 1/4 in Hex Phillips Bits (#1, 2, 3); (1) 3/8 in Dr. Reversible Ratchet, 3 &amp; 6 in Ext.; (5) 12 Pt. 3/8 in Dr. Deep Sockets 3/8 - 11/16 in; (1) 3/8 in Dr. Spark Plug Socket (5/8 in); Insert Bit Adapter</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>1/4, 3/8</td>\n</tr>\n<tr>\n<td><strong>Accessories</strong></td>\n<td>Combination Wrench, Nut Driver, Nut Driver Bits, Ratchet, Socket Extender, Sockets</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>1/4\" &amp; 3/8\" Drive Size</td>\n</tr>\n<tr>\n<td><strong>Torx Size Range</strong></td>\n<td>T10 - T30</td>\n</tr>\n<tr>\n<td><strong>Hex Size (Inch - 0 Decimals)</strong></td>\n<td>1/4, 5/16, 3/8, 3/16</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>75</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:57:51-06:00",
+  "created_at": "2023-12-29T00:57:51-06:00",
+  "updated_at": "2025-09-22T10:54:52-05:00",
+  "vendor": "Stanley",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Combination Hand Tool Sets"
+  ],
+  "variants": [
+    {
+      "id": 43705404031143,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "89514384",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "81.27",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785742598311,
+      "created_at": "2023-12-29T00:57:51-06:00",
+      "updated_at": "2025-09-22T10:54:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237185179815,
+      "created_at": "2025-02-03T18:07:30-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:32-06:00",
+      "product_id": 7785742598311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8951438-21.jpg?v=1738627652",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 81.27,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8951438-21.jpg?v=1738627652",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Stanley",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

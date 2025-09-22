@@ -1,0 +1,112 @@
+{
+  "id": 7536126459992,
+  "title": "London Fog Indigo Bouquet iPhone 15 Pro Max Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:03-05:00",
+  "created_at": "2024-01-15T11:10:03-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021704280,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17125-IP15PMAX-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126459992,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079724314712,
+      "created_at": "2024-01-15T11:10:03-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:03-05:00",
+      "product_id": 7536126459992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP15PMAX_LondonFog.jpg?v=1705335003",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088842993752,
+      "created_at": "2024-01-17T10:16:07-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:16:10-05:00",
+      "product_id": 7536126459992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_df980470-2478-431c-b95c-1daac6af6b11.png?v=1705504570",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088842960984,
+      "created_at": "2024-01-17T10:16:07-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:16:10-05:00",
+      "product_id": 7536126459992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_2c2d7e5c-d093-4aee-8b1a-a1e46096905d.png?v=1705504570",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088842928216,
+      "created_at": "2024-01-17T10:16:07-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:16:09-05:00",
+      "product_id": 7536126459992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_7dbd2396-ffa2-4607-ad4d-7f0538d9f976.png?v=1705504569",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP15PMAX_LondonFog.jpg?v=1705335003",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

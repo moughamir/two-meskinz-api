@@ -1,0 +1,67 @@
+{
+  "id": 7786348806311,
+  "title": "Brand: OEM Tools / Part #: 24971",
+  "handle": "cd70c19965",
+  "body_html": "<br><strong>Item #: </strong>83187096<br><strong>Brand: </strong>OEM Tools<br><strong>Model #: </strong>24971<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mat Type</strong>\n</td>\n<td>Kneeling Pad</td>\n</tr>\n<tr>\n<td><strong>Edge Type</strong></td>\n<td>Rounded; Square</td>\n</tr>\n<tr>\n<td><strong>Traffic Type</strong></td>\n<td>Light Duty</td>\n</tr>\n<tr>\n<td><strong>Base Material</strong></td>\n<td>Ethylene-Vinyl Acetate Foam</td>\n</tr>\n<tr>\n<td><strong>Surface Material</strong></td>\n<td>EVA Foam</td>\n</tr>\n<tr>\n<td><strong>Material Composition</strong></td>\n<td>Composite Construction</td>\n</tr>\n<tr>\n<td><strong>Mat Shape</strong></td>\n<td>Rectangle</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Surface Pattern</strong></td>\n<td>Rough</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Eliminates the Hassle &amp; Discomfort of Wearing Knee Pads; Has a Built-in Handle So it Can Be Easily Hung From Tool or Maintenance Carts</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>8.0000</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>18.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:12:59-06:00",
+  "created_at": "2023-12-29T20:12:59-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "OEM Tools",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43707604795559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "83187096",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786348806311,
+      "created_at": "2023-12-29T20:12:59-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238403461287,
+      "created_at": "2025-02-03T18:48:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:48:22-06:00",
+      "product_id": 7786348806311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8318709-21.jpg?v=1738630102",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8318709-21.jpg?v=1738630102",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OEM Tools",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

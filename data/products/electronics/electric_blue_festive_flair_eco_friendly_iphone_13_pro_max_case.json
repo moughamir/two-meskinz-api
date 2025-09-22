@@ -1,0 +1,121 @@
+{
+  "id": 8164330766424,
+  "title": "Electric Blue Festive Flair iPhone 13 Pro Max Case",
+  "handle": "electric-blue-festive-flair-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p class=\"p1\">Turn up the festive fun with the Festive Flair Phone Case! Bursting with holiday cheer, this case is covered in ornaments, stars, trees, and more to keep your phone as jolly as the season. Wrapped in vibrant colors and playful designs, it’s the perfect holiday accessory to deck your phone in merry style. Plus, it’s made from earth-friendly materials, so while you’re spreading cheer, you’re also spreading love for the planet. Ready to sleigh your holiday look? This case has your phone covered—literally! <b>🎄🎁</b>✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:16:03-04:00",
+  "created_at": "2024-10-21T14:39:07-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Festive Flair",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345506078808,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16839-IP13PMAX-ELEBLUE-AOD:FESTIVE-FLAIR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164330766424,
+      "created_at": "2024-10-21T14:39:07-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832663646296,
+      "created_at": "2024-10-21T14:39:07-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:39:09-04:00",
+      "product_id": 8164330766424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_IP13PMAX_ElectricBlue.jpg?v=1729535949",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33881131548760,
+      "created_at": "2024-10-28T14:53:35-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:53:36-04:00",
+      "product_id": 8164330766424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP1_96115779-eeb0-421e-ad30-a0c23dd5b573.jpg?v=1730141616",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881131581528,
+      "created_at": "2024-10-28T14:53:35-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:53:36-04:00",
+      "product_id": 8164330766424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP2_9d199b70-7561-4f89-ad93-c13cb311eacf.jpg?v=1730141616",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881131515992,
+      "created_at": "2024-10-28T14:53:35-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:53:36-04:00",
+      "product_id": 8164330766424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP3_d7fd6b76-4393-4637-b428-6cca7e654dcb.jpg?v=1730141616",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33881131614296,
+      "created_at": "2024-10-28T14:53:35-04:00",
+      "position": 5,
+      "updated_at": "2024-10-28T14:53:36-04:00",
+      "product_id": 8164330766424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FestiveFlair_PDP4_a0998a58-bf48-4bf7-9208-c5b2e4142ca6.jpg?v=1730141616",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FESTIVE-FLAIR_IP13PMAX_ElectricBlue.jpg?v=1729535949",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

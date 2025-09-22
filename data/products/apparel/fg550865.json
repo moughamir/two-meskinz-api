@@ -1,0 +1,67 @@
+{
+  "id": 7786066575527,
+  "title": "Brand: Bertech / Part #: PPT2B-1/4",
+  "handle": "fg550865",
+  "body_html": "<br><strong>Item #: </strong>01425776<br><strong>Brand: </strong>Bertech<br><strong>Model #: </strong>PPT2B-1/4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thickness (mil)</strong>\n</td>\n<td>3.5000</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Series Part Number</strong></td>\n<td>PPT2B</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>3D Printing; Fiber Optics Manufacturing; Solar Panels; Aerospace Assembly; Electronic Assembly</td>\n</tr>\n<tr>\n<td><strong>Adhesive Material</strong></td>\n<td>Silicone</td>\n</tr>\n<tr>\n<td><strong>Tape Material</strong></td>\n<td>Polyimide Film</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (Lb./Inch)</strong></td>\n<td>50.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature C</strong></td>\n<td>-106.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature F</strong></td>\n<td>-160.000</td>\n</tr>\n<tr>\n<td><strong>Length Ft.</strong></td>\n<td>108.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature C</strong></td>\n<td>260.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature F</strong></td>\n<td>500.000</td>\n</tr>\n<tr>\n<td><strong>Length (Yards - 2 Decimals)</strong></td>\n<td>36.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:35:33-06:00",
+  "created_at": "2023-12-29T08:35:33-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "Bertech",
+  "product_type": "Tapes & Adhesives",
+  "tags": [
+    "Tape"
+  ],
+  "variants": [
+    {
+      "id": 43706767802535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01425776",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.94",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786066575527,
+      "created_at": "2023-12-29T08:35:33-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237751115943,
+      "created_at": "2025-02-03T18:23:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:23:59-06:00",
+      "product_id": 7786066575527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0142514-21_559c9b0e-4591-49fb-a918-7d421de28d32.jpg?v=1738628639",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0142514-21_559c9b0e-4591-49fb-a918-7d421de28d32.jpg?v=1738628639",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bertech",
+  "category": "Tapes & Adhesives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

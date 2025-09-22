@@ -1,0 +1,133 @@
+{
+  "id": 6804988330186,
+  "title": "Gymshark Sharkhead Cross Body - Black",
+  "handle": "gymshark-sharkhead-cross-body-black-aw22",
+  "body_html": "<p><strong>PACK IT UP, PACK IT IN</strong></p>\n<p><br data-mce-fragment=\"1\">This little bag means business. Take functionality even further in this simple, practical cross body bag, perfect for storing your keys, wallet and phone and matching your look wherever you go.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Adjustable buckle<br data-mce-fragment=\"1\">- Printed Sharkhead logo<br data-mce-fragment=\"1\">- Not machine washable, wipe clean only<br data-mce-fragment=\"1\">- 100% Polyester<br data-mce-fragment=\"1\">- SKU: I2A1J-BBBB</p>",
+  "published_at": "2022-10-06T15:19:49-07:00",
+  "created_at": "2022-08-31T09:02:34-07:00",
+  "updated_at": "2025-09-22T08:46:37-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1752486536",
+    "all-products",
+    "bags",
+    "black-staples",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "filter-colour:Black",
+    "loungewear",
+    "lower-bucket",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Sharkhead",
+    "rest-day",
+    "season:AW22",
+    "subcategory:Crossbody",
+    "tier:1"
+  ],
+  "variants": [
+    {
+      "id": 39787183407306,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1J-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804988330186,
+      "created_at": "2022-08-31T09:02:34-07:00",
+      "updated_at": "2025-09-22T08:46:37-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973699956938,
+      "created_at": "2022-10-27T12:23:18-07:00",
+      "position": 1,
+      "updated_at": "2022-11-17T12:20:48-08:00",
+      "product_id": 6804988330186,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackBlack-0113.jpg?v=1668716448",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973699170506,
+      "created_at": "2022-10-27T12:23:18-07:00",
+      "position": 2,
+      "updated_at": "2022-11-17T12:20:48-08:00",
+      "product_id": 6804988330186,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackI2A1J-BBBB.210_06dd315c-d53a-4d92-afd2-940e4f48288b.jpg?v=1668716448",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973699399882,
+      "created_at": "2022-10-27T12:23:18-07:00",
+      "position": 3,
+      "updated_at": "2022-11-17T12:20:48-08:00",
+      "product_id": 6804988330186,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackI2A1J-BBBB.211_17852a1c-20d6-4910-be23-2e38f1d5fc57.jpg?v=1668716448",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973699825866,
+      "created_at": "2022-10-27T12:23:18-07:00",
+      "position": 4,
+      "updated_at": "2022-11-17T12:20:48-08:00",
+      "product_id": 6804988330186,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackI2A1J-BBBB.212_ce104e58-5d99-45ab-b155-7533bafa2a1e.jpg?v=1668716448",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973698941130,
+      "created_at": "2022-10-27T12:23:18-07:00",
+      "position": 5,
+      "updated_at": "2022-10-27T12:23:19-07:00",
+      "product_id": 6804988330186,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackBlack-0120.jpg?v=1666898599",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/SharkheadCrossBodyBlackBlack-0113.jpg?v=1668716448",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

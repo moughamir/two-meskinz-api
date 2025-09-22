@@ -1,0 +1,108 @@
+{
+  "id": 8310733439064,
+  "title": "Seashell Merry Medley Google Pixel 9a Case",
+  "handle": "seashell-merry-medley-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-03-19T09:31:51-04:00",
+  "created_at": "2025-03-11T12:31:59-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726125174872,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8310733439064,
+      "created_at": "2025-03-11T12:31:59-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671284256856,
+      "created_at": "2025-03-11T12:31:59-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:02-04:00",
+      "product_id": 8310733439064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_PX9A_Seashell.jpg?v=1741710722",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678381903960,
+      "created_at": "2025-03-12T15:23:20-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T15:23:25-04:00",
+      "product_id": 8310733439064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_d8e9ebab-a549-4df7-8698-aa369fdf4dc0.jpg?v=1741807405",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678381936728,
+      "created_at": "2025-03-12T15:23:20-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T15:23:25-04:00",
+      "product_id": 8310733439064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_998532d2-0710-436a-b017-559346c73bde.jpg?v=1741807405",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678381805656,
+      "created_at": "2025-03-12T15:23:20-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T15:23:25-04:00",
+      "product_id": 8310733439064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_1218b812-4656-4963-87f7-66008a33d7ca.jpg?v=1741807405",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_PX9A_Seashell.jpg?v=1741710722",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

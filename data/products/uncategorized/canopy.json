@@ -1,0 +1,113 @@
+{
+  "id": 7508760035437,
+  "title": "Canopy",
+  "handle": "canopy",
+  "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Get lost in luscious greens and tangled vines as summer <strong>dew</strong>, bright <strong>ivy greens</strong>, and ripened California <strong>fig</strong> swirl together for a scent that’s a little sweet, and a lot of fresh.<br></p>",
+  "published_at": "2024-08-01T12:58:40-06:00",
+  "created_at": "2024-08-01T11:44:33-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Otherland",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Otherland",
+    "Group_Home",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41756060418157,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CFSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7508760035437,
+      "created_at": "2024-08-01T11:44:33-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32667926757485,
+      "created_at": "2024-08-01T11:52:09-06:00",
+      "position": 1,
+      "updated_at": "2024-08-01T11:52:11-06:00",
+      "product_id": 7508760035437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Canopy-Prod1-0624.jpg?v=1722534731",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 32667931705453,
+      "created_at": "2024-08-01T11:53:07-06:00",
+      "position": 2,
+      "updated_at": "2024-08-01T11:53:10-06:00",
+      "product_id": 7508760035437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/figs-resized_b2297d46-2c10-4ced-ae3b-9954d317afe9.jpg?v=1722534790",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32708484366445,
+      "created_at": "2024-08-06T10:00:04-06:00",
+      "position": 3,
+      "updated_at": "2024-08-06T10:00:06-06:00",
+      "product_id": 7508760035437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Canopy-Otherland-Prod3-0824.jpg?v=1722960006",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 32667926691949,
+      "created_at": "2024-08-01T11:52:09-06:00",
+      "position": 4,
+      "updated_at": "2024-08-01T11:52:11-06:00",
+      "product_id": 7508760035437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Canopy-Prod4-0624.jpg?v=1722534731",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Otherland-Canopy-Prod1-0624.jpg?v=1722534731",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Otherland",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

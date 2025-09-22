@@ -1,0 +1,128 @@
+{
+  "id": 6579648331864,
+  "title": "London Fog iPhone X Case",
+  "handle": "london-fog-eco-friendly-iphone-x-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T11:19:47-04:00",
+  "created_at": "2021-04-08T10:44:15-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone X",
+  "tags": [
+    "Classic",
+    "Clearance",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39348875395160,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13326-IPX-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6579648331864,
+      "created_at": "2021-04-08T10:44:16-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28165948833880,
+      "created_at": "2021-05-04T11:13:10-04:00",
+      "position": 1,
+      "updated_at": "2021-05-04T11:13:12-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IPXS_LONDONFOG_BACK_286b7bf1-127a-436b-8d30-f6992d82c6a2.jpg?v=1620141192",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28165948866648,
+      "created_at": "2021-05-04T11:13:10-04:00",
+      "position": 2,
+      "updated_at": "2021-05-04T11:13:12-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IPXS_LONDONFOG_45L_526330a6-7ae3-4294-a043-9455f35c9472.jpg?v=1620141192",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28165948899416,
+      "created_at": "2021-05-04T11:13:10-04:00",
+      "position": 3,
+      "updated_at": "2021-05-04T11:13:12-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IPXS_LONDONFOG_45R_34895f3c-de06-404f-b64e-b7f9b8712f97.jpg?v=1620141192",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28346211139672,
+      "created_at": "2021-06-28T15:14:04-04:00",
+      "position": 4,
+      "updated_at": "2021-06-28T15:14:05-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog1_905250e9-ccfe-42c9-b88c-50ff28f8dcd0.jpg?v=1624907645",
+      "width": 1108,
+      "height": 1100
+    },
+    {
+      "id": 28346211270744,
+      "created_at": "2021-06-28T15:14:04-04:00",
+      "position": 5,
+      "updated_at": "2021-06-28T15:14:06-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog2_933f2eb4-8a7b-4965-a03c-9c83205340d3.jpg?v=1624907646",
+      "width": 884,
+      "height": 884
+    },
+    {
+      "id": 28346211205208,
+      "created_at": "2021-06-28T15:14:04-04:00",
+      "position": 6,
+      "updated_at": "2021-06-28T15:14:06-04:00",
+      "product_id": 6579648331864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog3_0ad034fd-0b84-4cf6-a751-fbe619208a1c.jpg?v=1624907646",
+      "width": 948,
+      "height": 948
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 27,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/IPXS_LONDONFOG_BACK_286b7bf1-127a-436b-8d30-f6992d82c6a2.jpg?v=1620141192",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone X",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 7991195009071,
+  "title": "Sakamoto Days Logo Denim Bucket Hat",
+  "handle": "sakamoto-days-logo-denim-bucket-hat",
+  "body_html": "<p>Get ready to channel your inner former-hitman-turned-convenience-store-owner with this stylish <em>Sakamoto Days </em>Logo Denim Bucket Hat! his denim bucket hat features the iconic <em>Sakamoto Days</em> logo, making it clear you're a true connoisseur of high-octane action and hilarious slice-of-life shenanigans. Whether you're heading to a con or just grabbing groceries, this hat is your perfect low-key flex for showing off your love for Taro Sakamoto and his chaotic, yet endearing, crew.</p>\n<table cellspacing=\"0\" cellpadding=\"0\" class=\"t1\">\n<tbody>\n<tr>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\"><b>SIZE LABEL</b><b></b></p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">Top Circumference</p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">Crown Height </p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">Brim Height</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">One size</p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">22 ½</p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">3 ¼</p>\n</td>\n<td valign=\"top\" class=\"td1\">\n<p class=\"p1\">2</p>\n</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>Made of: 100% cotton</li>\n<li>2 sewn eyelets on each side of the hat</li>\n<li>Poplin sweatband</li>\n<li>One size fits most</li>\n</ul>",
+  "published_at": "2025-07-07T10:34:14-04:00",
+  "created_at": "2025-06-23T12:32:55-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "81663325",
+    "Accessories",
+    "Badge: Best Seller | #E50815 | #FFFFFF",
+    "best sellers",
+    "Bucket Hat",
+    "Embroidered",
+    "Hat",
+    "Hats",
+    "New",
+    "New Arrivals",
+    "Sakamoto Days",
+    "series_id-81663325",
+    "Unisex"
+  ],
+  "variants": [
+    {
+      "id": 43897035522095,
+      "title": "Black Denim / One Size",
+      "option1": "Black Denim",
+      "option2": "One Size",
+      "option3": null,
+      "sku": "SKD-100951-0001-SD-DNMHT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36239164178479,
+        "product_id": 7991195009071,
+        "position": 1,
+        "created_at": "2025-06-23T12:33:07-04:00",
+        "updated_at": "2025-06-23T12:33:09-04:00",
+        "alt": "Sakamoto Days Logo Denim Bucket Hat Black Denim",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SD-DNMHT_NFLX-AE-0725_100951_FT_MF.jpg?v=1750696389",
+        "variant_ids": [
+          43897035522095
+        ]
+      },
+      "available": true,
+      "price": "29.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7991195009071,
+      "created_at": "2025-06-23T12:32:55-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36239164178479,
+      "created_at": "2025-06-23T12:33:07-04:00",
+      "position": 1,
+      "updated_at": "2025-06-23T12:33:09-04:00",
+      "product_id": 7991195009071,
+      "variant_ids": [
+        43897035522095
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SD-DNMHT_NFLX-AE-0725_100951_FT_MF.jpg?v=1750696389",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36239164145711,
+      "created_at": "2025-06-23T12:33:07-04:00",
+      "position": 2,
+      "updated_at": "2025-06-23T12:33:09-04:00",
+      "product_id": 7991195009071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SD-DNMHT_NFLX-AE-0725_100951_FT_LIFE.jpg?v=1750696389",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Denim"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 29.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SD-DNMHT_NFLX-AE-0725_100951_FT_MF.jpg?v=1750696389",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

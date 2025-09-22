@@ -1,0 +1,67 @@
+{
+  "id": 7786154786983,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 5669463",
+  "handle": "wk612760247",
+  "body_html": "<br><strong>Item #: </strong>12883765<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>5669463<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>LYEU</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>1410</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Pitch (mm)</strong></td>\n<td>2.54</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>IN2005</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>UN</td>\n</tr>\n<tr>\n<td><strong>Internal Threads Per Inch</strong></td>\n<td>10</td>\n</tr>\n<tr>\n<td><strong>Teeth Per Inch</strong></td>\n<td>10</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>0.5510</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>LYEU</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Conical</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Stainless Steel; Cast Iron; Super-alloys &amp; Titanium; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; S; K; M</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>LYEU14100UN-1 IN2005</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>LYEU14100UN-1 IN2005</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>LYEU14100UN-1 IN2005</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1260</td>\n</tr>\n<tr>\n<td><strong>Width (Mm - 2 Decimals)</strong></td>\n<td>7.90</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiAlN</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:49:14-06:00",
+  "created_at": "2023-12-29T11:49:14-06:00",
+  "updated_at": "2025-09-22T10:47:18-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43707089551527,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "12883765",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.58",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786154786983,
+      "created_at": "2023-12-29T11:49:14-06:00",
+      "updated_at": "2025-09-22T10:47:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237944316071,
+      "created_at": "2025-02-03T18:30:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:21-06:00",
+      "product_id": 7786154786983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1288376-21.jpg?v=1738629021",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.58,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1288376-21.jpg?v=1738629021",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

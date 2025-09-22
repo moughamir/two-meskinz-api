@@ -1,0 +1,67 @@
+{
+  "id": 8452505895079,
+  "title": "Extension Springs; End Type: Double Loop; Outside Diameter (Decimal Inch",
+  "handle": "01-156-550",
+  "body_html": "<br><strong>Item #: </strong>02979888<br><strong>Brand: </strong>Associated Spring Raymond<br><strong>Model #: </strong>MCDE0375010200M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>End Type</strong>\n</td>\n<td>Double Loop</td>\n</tr>\n<tr> <td> <strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.3750</td>\n</tr>\n<tr> <td> <strong>Spring Rate</strong>\n</td>\n<td>7.6000</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Music Wire</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>2.0940</td>\n</tr>\n<tr> <td> <strong>Initial Tension (Lb.)</strong>\n</td>\n<td>2.22</td>\n</tr>\n<tr> <td> <strong>Maximum Extended Length (Decimal Inch)</strong>\n</td>\n<td>2.9500</td>\n</tr>\n<tr> <td> <strong>Free Length (Inch)</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Inside Hook Length (Fractional Inch)</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>AMS 5112; ASTM A228</td>\n</tr>\n<tr> <td> <strong>Finish/Coating</strong>\n</td>\n<td>Dry to Touch Oil</td>\n</tr>\n<tr> <td> <strong>Wire Size (Decimal Inch)</strong>\n</td>\n<td>0.0470</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31161907</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:39:58-06:00",
+  "created_at": "2025-01-23T08:39:56-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Associated Spring Raymond",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Shock Absorbers & Springs"
+  ],
+  "variants": [
+    {
+      "id": 46497871790247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02979888",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.19",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452505895079,
+      "created_at": "2025-01-23T08:39:56-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241448558759,
+      "created_at": "2025-02-03T20:57:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:57:58-06:00",
+      "product_id": 8452505895079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0298719-21_1ed036db-9dc9-43ea-ac82-4efde68c9dc7.jpg?v=1738637878",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0298719-21_1ed036db-9dc9-43ea-ac82-4efde68c9dc7.jpg?v=1738637878",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Associated Spring Raymond",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

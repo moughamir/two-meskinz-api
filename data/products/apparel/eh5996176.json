@@ -1,0 +1,67 @@
+{
+  "id": 7786263969959,
+  "title": "Brand: Loctite / Part #: 88489",
+  "handle": "eh5996176",
+  "body_html": "<br><strong>Item #: </strong>97112049<br><strong>Brand: </strong>Loctite<br><strong>Model #: </strong>88489<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Glue Type</strong>\n</td>\n<td>Adhesive</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>50 mL</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Bottle</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Full Cure Time (Hours)</strong></td>\n<td>24.00</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>266.00 F</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature</strong></td>\n<td>-65.00 F</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ASTM D-5403; 29 CFR 1910.1200</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>349</td>\n</tr>\n<tr>\n<td><strong>Series Part Number</strong></td>\n<td>34931</td>\n</tr>\n<tr>\n<td><strong>Minimum Application Temperature (F)</strong></td>\n<td>-65.00</td>\n</tr>\n<tr>\n<td><strong>Bonds To</strong></td>\n<td>Glass</td>\n</tr>\n<tr>\n<td><strong>Fixture Time (sec.)</strong></td>\n<td>20 to 30</td>\n</tr>\n<tr>\n<td><strong>Additional Properties</strong></td>\n<td>High Viscosity</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>8040</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:12:01-06:00",
+  "created_at": "2023-12-29T16:12:01-06:00",
+  "updated_at": "2025-09-22T10:53:47-05:00",
+  "vendor": "Loctite",
+  "product_type": "Tapes & Adhesives",
+  "tags": [
+    "Glue; Epoxy & Adhesives"
+  ],
+  "variants": [
+    {
+      "id": 43707371454631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97112049",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "43.11",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786263969959,
+      "created_at": "2023-12-29T16:12:01-06:00",
+      "updated_at": "2025-09-22T10:53:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238192631975,
+      "created_at": "2025-02-03T18:39:39-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:39:40-06:00",
+      "product_id": 7786263969959,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9711204-11.jpg?v=1738629580",
+      "width": 221,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 43.11,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9711204-11.jpg?v=1738629580",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Loctite",
+  "category": "Tapes & Adhesives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

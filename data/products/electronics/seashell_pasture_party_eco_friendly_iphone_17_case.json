@@ -1,0 +1,96 @@
+{
+  "id": 8444678504536,
+  "title": "Seashell Pasture Party iPhone 17 Case",
+  "handle": "seashell-pasture-party-eco-friendly-iphone-17-case",
+  "body_html": "<p class=\"p1\">Get ready for a Pasture Party with this adorable phone case! 🐄🐐🐓 Featuring a playful bunch of farmyard friends—cows, pigs, chickens, goats, ducks, goose, and bunnies—this case brings a whole herd of charm to your phone. It’s like having your very own mini barnyard in your pocket! Perfect for animal lovers or anyone who enjoys a touch of countryside whimsy, this design will have you feeling all the farm-fresh vibes every time you pick up your phone. 🌾📱🐖 Let the farm fun begin!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:30:30-04:00",
+  "created_at": "2025-08-08T11:50:12-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Farm Animals",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pasture Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184256090200,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PASTURE-PARTY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444678504536,
+      "created_at": "2025-09-03T18:52:04-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184256122968,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PASTURE-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444678504536,
+      "created_at": "2025-09-03T18:52:04-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567242543192,
+      "created_at": "2025-08-08T11:50:12-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:14-04:00",
+      "product_id": 8444678504536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTURE-PARTY_IP17_Seashell.jpg?v=1754668214",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTURE-PARTY_IP17_Seashell.jpg?v=1754668214",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

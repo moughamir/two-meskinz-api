@@ -1,0 +1,110 @@
+{
+  "id": 7660279201901,
+  "title": "Sunlit Yuzu & Neroli",
+  "handle": "sunlit-yuzu-neroli",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Lift your spirits and embrace moments of joy with bright notes of sunlit <strong>yuzu</strong>, juicy <strong>mandarin</strong>, and <strong>neroli blossom</strong>.</p>",
+  "published_at": "2025-06-25T09:42:07-06:00",
+  "created_at": "2025-05-28T14:59:54-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:NEST New York",
+    "collection:NEST New York",
+    "Group_Home",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 42462518378605,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NXTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7660279201901,
+      "created_at": "2025-05-28T14:59:54-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34406636257389,
+      "created_at": "2025-05-28T15:23:45-06:00",
+      "position": 1,
+      "updated_at": "2025-05-28T15:24:27-06:00",
+      "product_id": 7660279201901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-SunlitYuzuAndNeroli-Prod1-0525.jpg?v=1748467467",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34406636224621,
+      "created_at": "2025-05-28T15:23:45-06:00",
+      "position": 2,
+      "updated_at": "2025-05-28T15:24:27-06:00",
+      "product_id": 7660279201901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-Yuzu-Resized-0525.jpg?v=1748467467",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34406636290157,
+      "created_at": "2025-05-28T15:23:45-06:00",
+      "position": 3,
+      "updated_at": "2025-05-28T15:23:47-06:00",
+      "product_id": 7660279201901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-SunlitYuzuAndNeroli-Prod4-0525.jpg?v=1748467427",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34406642188397,
+      "created_at": "2025-05-28T15:24:41-06:00",
+      "position": 4,
+      "updated_at": "2025-05-28T15:24:43-06:00",
+      "product_id": 7660279201901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SunlitYuzu-Nest-Prod3-0525.jpg?v=1748467483",
+      "width": 3401,
+      "height": 4534
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-SunlitYuzuAndNeroli-Prod1-0525.jpg?v=1748467467",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

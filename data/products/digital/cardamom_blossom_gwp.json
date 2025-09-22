@@ -1,0 +1,107 @@
+{
+  "id": 7631651274861,
+  "title": "Cardamom Blossom",
+  "handle": "cardamom-blossom-gwp",
+  "body_html": "<p>A blend of fresh air, lily, and spices mingle with creamy musk and driftwood for a scent that’s comforting and warm.</p>",
+  "published_at": "2025-08-26T09:58:13-06:00",
+  "created_at": "2025-04-01T15:23:39-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Gift",
+  "tags": [
+    "Brand:Studio McGee",
+    "Group_Home",
+    "hide_Reviews",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 42315551047789,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HLMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7631651274861,
+      "created_at": "2025-04-01T15:23:40-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33263037186157,
+      "created_at": "2024-10-29T13:44:46-06:00",
+      "position": 1,
+      "updated_at": "2024-10-29T13:44:47-06:00",
+      "product_id": 7631651274861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-CardamonBlossom-Prod1-0624.jpg?v=1730231087",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30349242040429,
+      "created_at": "2023-08-14T08:50:33-06:00",
+      "position": 2,
+      "updated_at": "2023-12-07T10:34:14-07:00",
+      "product_id": 7631651274861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cardamomblossom.jpg?v=1701970454",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33263037153389,
+      "created_at": "2024-10-29T13:44:46-06:00",
+      "position": 3,
+      "updated_at": "2024-10-29T13:44:48-06:00",
+      "product_id": 7631651274861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CardamomBlossom-StudioMcgee-Prod3-0624.jpg?v=1730231088",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33263037218925,
+      "created_at": "2024-10-29T13:44:46-06:00",
+      "position": 4,
+      "updated_at": "2024-10-29T13:44:48-06:00",
+      "product_id": 7631651274861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-CardamonBlossom-Prod4-0624.jpg?v=1730231088",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-CardamonBlossom-Prod1-0624.jpg?v=1730231087",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

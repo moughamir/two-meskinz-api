@@ -1,0 +1,67 @@
+{
+  "id": 7786072735911,
+  "title": "Brand: Mag-Lite / Part #: ML25LT-S3036",
+  "handle": "fg550834",
+  "body_html": "<br><strong>Item #: </strong>50349489<br><strong>Brand: </strong>Mag-Lite<br><strong>Model #: </strong>ML25LT-S3036<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bulb Type</strong>\n</td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Number Of Light Modes</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Batteries Included</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Body Type</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Battery Chemistry</strong></td>\n<td>Alkaline</td>\n</tr>\n<tr>\n<td><strong>Rechargeable</strong></td>\n<td>Disposable</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Decimal Inch)</strong></td>\n<td>8.6000</td>\n</tr>\n<tr>\n<td><strong>Intrinsically Safe</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Number Of Batteries</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Complete Light Output (Lumens)</strong></td>\n<td>173</td>\n</tr>\n<tr>\n<td><strong>Complete Run Time (Minutes)</strong></td>\n<td>1080</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:02:57-06:00",
+  "created_at": "2023-12-29T09:02:57-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "Mag-Lite",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43706821148839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "50349489",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "58.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786072735911,
+      "created_at": "2023-12-29T09:02:57-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237776642215,
+      "created_at": "2025-02-03T18:24:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:24:55-06:00",
+      "product_id": 7786072735911,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5034948-21.jpg?v=1738628695",
+      "width": 600,
+      "height": 136
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 58.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5034948-21.jpg?v=1738628695",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mag-Lite",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

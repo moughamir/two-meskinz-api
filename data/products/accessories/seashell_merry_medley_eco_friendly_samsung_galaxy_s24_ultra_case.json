@@ -1,0 +1,108 @@
+{
+  "id": 7555251470424,
+  "title": "Seashell Merry Medley Samsung Galaxy S24 Ultra Case",
+  "handle": "seashell-merry-medley-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:03:59-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277074520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13875-S24ULTRA-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251470424,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963730520,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251470424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S24ULTRA_Seashell.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241116545112,
+      "created_at": "2024-02-28T17:23:49-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:23:53-05:00",
+      "product_id": 7555251470424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_4d19cb1e-2f9d-4652-b181-fdf01a2c1216.jpg?v=1709159033",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241116381272,
+      "created_at": "2024-02-28T17:23:49-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:23:53-05:00",
+      "product_id": 7555251470424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_70750f65-0343-486c-ba36-b36886c3e9c7.jpg?v=1709159033",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241116446808,
+      "created_at": "2024-02-28T17:23:49-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:23:51-05:00",
+      "product_id": 7555251470424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_c79168f3-3fd9-41a7-a78b-4ce6d3804928.jpg?v=1709159031",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_S24ULTRA_Seashell.jpg?v=1707245497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

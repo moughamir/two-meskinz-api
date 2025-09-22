@@ -1,0 +1,96 @@
+{
+  "id": 8442721730648,
+  "title": "Sage Green Cacti iPhone Air Case",
+  "handle": "sage-green-cacti-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">🌵💚 Embrace the desert vibes with the Cacti Phone Case! This charming design features an intricate array of cacti illustrations in various shapes and sizes, set against a soothing sage green background. Perfect for plant lovers and desert dreamers, this case offers durable protection for your phone while celebrating the beauty of these resilient, spiky wonders. Let your phone stand out with this unique and whimsical case that brings a touch of the wild, rugged desert wherever you go! 🌞📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:26:35-04:00",
+  "created_at": "2025-08-05T12:07:32-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Cowgirl",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cacti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184215326808,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:CACTI_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8442721730648,
+      "created_at": "2025-09-03T18:43:56-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    },
+    {
+      "id": 43184215359576,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17538-IP17AIR-SAGE-AOD:CACTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8442721730648,
+      "created_at": "2025-09-03T18:43:56-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35548032991320,
+      "created_at": "2025-08-05T12:07:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-05T12:07:35-04:00",
+      "product_id": 8442721730648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CACTI_IP17AIR_SageGreen.jpg?v=1754410055",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CACTI_IP17AIR_SageGreen.jpg?v=1754410055",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

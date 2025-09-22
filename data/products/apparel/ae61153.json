@@ -1,0 +1,69 @@
+{
+  "id": 5337112936615,
+  "title": "Brand: Rocky Mountain Twist / Part #: 953HS12VS",
+  "handle": "ae61153",
+  "body_html": "<br><strong>Item #: </strong>96299268<br><strong>Brand: </strong>Rocky Mountain Twist<br><strong>Model #: </strong>953HS12VS<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Stub</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Size (Decimal Inch)</strong></td>\n<td>0.1890</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Size (Wire)</strong></td>\n<td>#12</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>135</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Threaded</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Split</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>0.4062</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Flute Length (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>P3</td>\n</tr>\n<tr>\n<td><strong>Maximum Drilling Depth (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Shank Thread Size</strong></td>\n<td>1/4-28</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>NAS 965 Type B</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Flute By Diameter Ratio</strong></td>\n<td>1xD</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Finish/Coating</strong></td>\n<td>Oxide</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T01:19:37-06:00",
+  "created_at": "2020-06-15T16:10:13-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Rocky Mountain Twist",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling",
+    "Drilling & Drill Bits",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34733518815399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96299268",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5337112936615,
+      "created_at": "2020-06-15T16:10:14-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240032981159,
+      "created_at": "2025-02-03T20:05:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:05:21-06:00",
+      "product_id": 5337112936615,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1166259-21.jpg?v=1738634721",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1166259-21.jpg?v=1738634721",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Rocky Mountain Twist",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

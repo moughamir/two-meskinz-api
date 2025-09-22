@@ -1,0 +1,132 @@
+{
+  "id": 8159692652632,
+  "title": "Seashell Be Merry iPhone 15 Case",
+  "handle": "seashell-be-merry-eco-friendly-iphone-15-case",
+  "body_html": "<p class=\"p1\">Spread the holiday cheer with the Be Merry Phone Case! 🌲✨ Adorned with festive gingerbread cookies, holly, bows, and sprigs of mistletoe, this case brings all the cozy vibes of the season right to your phone. It’s the perfect holiday accessory for keeping your phone safe while adding a touch of merry magic to your everyday. Lightweight, durable, and full of seasonal spirit—this case is a must-have for spreading joy all winter long! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:15:59-04:00",
+  "created_at": "2024-10-16T10:40:31-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Be Merry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333271162968,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:BE-MERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159692652632,
+      "created_at": "2024-10-16T10:40:32-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799054262360,
+      "created_at": "2024-10-16T10:40:32-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:32-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IP15_Seashell.jpg?v=1729089632",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33839139127384,
+      "created_at": "2024-10-22T13:18:19-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T13:18:21-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP1_bcf7056a-5ec9-4f5b-9d90-05bed13ff66a.jpg?v=1729617501",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839139094616,
+      "created_at": "2024-10-22T13:18:19-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T13:18:21-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP2_37a4243b-d7aa-4d9e-9580-98be676fa319.jpg?v=1729617501",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839139061848,
+      "created_at": "2024-10-22T13:18:19-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T13:18:21-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP3_78b2b5e3-b8c2-4af0-a9ad-8bb1440e616f.jpg?v=1729617501",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839139029080,
+      "created_at": "2024-10-22T13:18:19-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T13:18:21-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP4_e3a1dbb0-53a7-48bd-927b-58f5ea7ca435.jpg?v=1729617501",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839138996312,
+      "created_at": "2024-10-22T13:18:19-04:00",
+      "position": 6,
+      "updated_at": "2024-10-22T13:18:21-04:00",
+      "product_id": 8159692652632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP5_5fa04e56-33d6-468f-a8d4-dce7ec8784ce.jpg?v=1729617501",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IP15_Seashell.jpg?v=1729089632",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

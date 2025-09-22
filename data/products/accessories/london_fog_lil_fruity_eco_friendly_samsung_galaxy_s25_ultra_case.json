@@ -1,0 +1,108 @@
+{
+  "id": 8254960894040,
+  "title": "London Fog Lil Fruity Samsung Galaxy S25 Ultra Case",
+  "handle": "london-fog-lil-fruity-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Squeeze the day with the Pela Lil Fruity Phone Case, a zesty cocktail of summer's sweetest delights that's ripe for the picking. This case, with its London Fog base, is sprinkled with an array of handpicked watermelon slices, tangy lemons, and succulent berries, promising to keep your phone as fresh as a just-picked fruit salad. Each cheerful fruit sketch is a burst of happiness, ready to infuse your daily texts and calls with a dose of vitamin C(uteness). Go on, let your phone bask in a splash of nature's candy—your daily tech just got a whole lot juicier! 🍉🍋🍒</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:10:25-05:00",
+  "created_at": "2025-01-15T11:45:05-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Fruity",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567877394520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13966-S25ULTRA-LFOG-AOD:LIL-FRUITY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254960894040,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303573229656,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:07-05:00",
+      "product_id": 8254960894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_S25ULTRA_LondonFog.jpg?v=1736959507",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354876907608,
+      "created_at": "2025-01-22T16:22:30-05:00",
+      "position": 2,
+      "updated_at": "2025-01-22T16:22:33-05:00",
+      "product_id": 8254960894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP4_6fa744aa-06d0-4d67-ba46-0e99f14f74c6.jpg?v=1737580953",
+      "width": 3497,
+      "height": 3497
+    },
+    {
+      "id": 34354876940376,
+      "created_at": "2025-01-22T16:22:30-05:00",
+      "position": 3,
+      "updated_at": "2025-01-22T16:22:33-05:00",
+      "product_id": 8254960894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP3_d598b37b-3ad5-45b4-b59f-482c7e6086eb.jpg?v=1737580953",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34677470953560,
+      "created_at": "2025-03-12T12:06:56-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T12:06:58-04:00",
+      "product_id": 8254960894040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad7_8dc78608-f5b3-460e-b966-e9eb86c6c163.jpg?v=1741795618",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_S25ULTRA_LondonFog.jpg?v=1736959507",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

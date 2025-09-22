@@ -1,0 +1,52 @@
+{
+  "id": 8453294489767,
+  "title": "Slim-Tip Insulated Screwdriver, 3/16″ Cabinet, 6″ Round Shank",
+  "handle": "kp6050135",
+  "body_html": null,
+  "published_at": "2025-01-24T00:25:07-06:00",
+  "created_at": "2025-01-24T00:25:05-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500143202471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6050135",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.22",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453294489767,
+      "created_at": "2025-01-24T00:25:05-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.22,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

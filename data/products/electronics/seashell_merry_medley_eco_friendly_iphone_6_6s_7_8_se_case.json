@@ -1,0 +1,108 @@
+{
+  "id": 7555251241048,
+  "title": "Seashell Merry Medley iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:03:41-05:00",
+  "created_at": "2024-02-06T13:51:33-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035276877912,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251241048,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963435608,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:33-05:00",
+      "product_id": 7555251241048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP7_Seashell.jpg?v=1707245493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241112776792,
+      "created_at": "2024-02-28T17:22:54-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:22:57-05:00",
+      "product_id": 7555251241048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_66ecb2ef-9670-4ee7-949e-44b2ad0ddc17.jpg?v=1709158977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241112875096,
+      "created_at": "2024-02-28T17:22:53-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:22:57-05:00",
+      "product_id": 7555251241048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_35745dc0-d850-4d51-b0e1-00f57e508981.jpg?v=1709158977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241112842328,
+      "created_at": "2024-02-28T17:22:54-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:22:55-05:00",
+      "product_id": 7555251241048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_b7569b15-83ce-4a30-86dd-fa585ee7e84a.jpg?v=1709158975",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP7_Seashell.jpg?v=1707245493",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

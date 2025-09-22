@@ -1,0 +1,117 @@
+{
+  "id": 7991924883503,
+  "title": "Stranger Things Hawkins High Tote Bag",
+  "handle": "stranger-things-hawkins-high-tote-bag",
+  "body_html": "<p>Carry your textbooks, your D&amp;D manuals, or your emergency walkie-talkie in style with the <em>Stranger Things</em> Hawkins High Tote Bag! This spacious and durable tote features the iconic Hawkins High logo, letting everyone know where your loyalties lie. It's perfect for a trip to the video store, a visit to the arcade, or packing up your essentials for a clandestine meeting at Hopper's cabin. Practical and full of nostalgic charm, it's a must-have for any fan on the go.</p><ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\". </li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim. </li>\n<li>Care: Handwash.</li>\n</ul>",
+  "published_at": "2025-07-10T13:39:44-04:00",
+  "created_at": "2025-06-24T13:11:25-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "80057281",
+    "Accessories",
+    "All-Over Print",
+    "Bag",
+    "Bags",
+    "bags and wallets",
+    "Hawkins High",
+    "Netflix",
+    "New",
+    "New Arrivals",
+    "series_id-80057281",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Tote Bag",
+    "Tote Bags",
+    "Type: Accessories",
+    "Type: Bags",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43902304976943,
+      "title": "Black Handles / 15 in x 15 in",
+      "option1": "Black Handles",
+      "option2": "15 in x 15 in",
+      "option3": null,
+      "sku": "ST-100645-0001-ST-HWKTT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36244083540015,
+        "product_id": 7991924883503,
+        "position": 1,
+        "created_at": "2025-06-24T13:11:37-04:00",
+        "updated_at": "2025-06-24T13:11:39-04:00",
+        "alt": "Stranger Things Hawkins High Tote Bag Black Handles",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKTT_ST-S-0725_100645_MF.png?v=1750785099",
+        "variant_ids": [
+          43902304976943
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7991924883503,
+      "created_at": "2025-06-24T13:11:25-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36244083540015,
+      "created_at": "2025-06-24T13:11:37-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T13:11:39-04:00",
+      "product_id": 7991924883503,
+      "variant_ids": [
+        43902304976943
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKTT_ST-S-0725_100645_MF.png?v=1750785099",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36356418437167,
+      "created_at": "2025-07-10T14:07:34-04:00",
+      "position": 2,
+      "updated_at": "2025-07-10T14:07:36-04:00",
+      "product_id": 7991924883503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_a6ec41af-bb05-483b-8635-056edc09e712.png?v=1752170856",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Handles"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "15 in x 15 in"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWKTT_ST-S-0725_100645_MF.png?v=1750785099",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

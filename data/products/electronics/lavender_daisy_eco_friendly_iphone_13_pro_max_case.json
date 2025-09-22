@@ -1,0 +1,109 @@
+{
+  "id": 7366833012824,
+  "title": "Lavender Daisy iPhone 13 Pro Max Case",
+  "handle": "lavender-daisy-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Add a blooming touch to your phone with our sustainable and compostable Lavender Daisy Phone Case. Not only is it stylish with its beautifully designed daisy print, but it's also durable for long-lasting protection. Go green and stay trendy with this flower-inspired case. <meta charset=\"utf-8\"><span>🌼💜🌿</span></p>",
+  "published_at": "2023-06-29T09:15:51-04:00",
+  "created_at": "2023-06-26T09:34:01-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Summer Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Daisy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40241142890584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16827-IP13PMAX-LAV-AOD:DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7366833012824,
+      "created_at": "2023-06-26T09:34:01-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30299123515480,
+      "created_at": "2023-06-26T09:34:01-04:00",
+      "position": 1,
+      "updated_at": "2023-06-26T09:34:01-04:00",
+      "product_id": 7366833012824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP13PMAX_Lavender.jpg?v=1687786441",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30301086646360,
+      "created_at": "2023-06-28T16:04:40-04:00",
+      "position": 2,
+      "updated_at": "2023-06-28T16:04:42-04:00",
+      "product_id": 7366833012824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife2_62fef213-0f23-4d91-acf2-f1f41105f901.jpg?v=1687982682",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 30301086679128,
+      "created_at": "2023-06-28T16:04:40-04:00",
+      "position": 3,
+      "updated_at": "2023-06-28T16:04:42-04:00",
+      "product_id": 7366833012824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife3_dca30caa-d8d9-4f8e-b5e3-dd979c3e0da0.jpg?v=1687982682",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 30307552493656,
+      "created_at": "2023-07-04T09:40:01-04:00",
+      "position": 4,
+      "updated_at": "2023-07-04T09:40:03-04:00",
+      "product_id": 7366833012824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0591_1_9854175c-ddfb-46f8-a892-0ac74da8b75b.jpg?v=1688478003",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP13PMAX_Lavender.jpg?v=1687786441",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 7051705024621,
+  "title": "Bamboo Forest",
+  "handle": "bamboo-forest",
+  "body_html": "<p>Find moments of reflection and rest with fresh notes of <strong>bamboo</strong>, <strong>Himalayan azalea</strong>, <strong>Chinese eucalyptus</strong>, and grounding <strong>sandalwood</strong>.</p>",
+  "published_at": "2023-08-14T19:49:53-06:00",
+  "created_at": "2023-08-09T16:19:02-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "The Met",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:The Met",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_bambooforest"
+  ],
+  "variants": [
+    {
+      "id": 40702257725549,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "QOIH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705024621,
+      "created_at": "2023-08-09T16:19:02-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329772310637,
+      "created_at": "2023-08-09T16:19:11-06:00",
+      "position": 1,
+      "updated_at": "2023-08-28T09:50:42-06:00",
+      "product_id": 7051705024621,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_11a87c09-bff3-41aa-b424-021666eefe9f.png?v=1693237842",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31648789954669,
+      "created_at": "2024-04-13T13:34:58-06:00",
+      "position": 2,
+      "updated_at": "2024-04-13T13:35:02-06:00",
+      "product_id": 7051705024621,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Bamboo-Ingredients-Resized.jpg?v=1713036902",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30350942732397,
+      "created_at": "2023-08-14T22:06:12-06:00",
+      "position": 3,
+      "updated_at": "2024-04-13T13:35:01-06:00",
+      "product_id": 7051705024621,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/the-bamboo-forest-prod-3-resized.jpg?v=1713036901",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329772114029,
+      "created_at": "2023-08-09T16:19:11-06:00",
+      "position": 4,
+      "updated_at": "2024-04-13T13:35:01-06:00",
+      "product_id": 7051705024621,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_ac024c98-a8ac-4d9c-be5b-b16e1b89d343.jpg?v=1713036901",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_11a87c09-bff3-41aa-b424-021666eefe9f.png?v=1693237842",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "The Met",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

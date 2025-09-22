@@ -1,0 +1,115 @@
+{
+  "id": 7051704828013,
+  "title": "Champagne",
+  "handle": "champagne",
+  "body_html": "<p>Citrus fruits combine with <strong>ginger</strong> and <strong>raspberry</strong> for a delightfully sweet mix while <strong>rose</strong> and <strong>verbena</strong> bring a warm and endearing balance.</p>",
+  "published_at": "2023-08-14T19:49:50-06:00",
+  "created_at": "2023-08-09T16:19:02-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Energizing",
+    "Mood_Romantic",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_champagne"
+  ],
+  "variants": [
+    {
+      "id": 40702257299565,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "YYJH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051704828013,
+      "created_at": "2023-08-09T16:19:02-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525526311021,
+      "created_at": "2023-09-28T18:15:25-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:15:39-06:00",
+      "product_id": 7051704828013,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Champagne-Vertical-Resized.jpg?v=1695946539",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525526212717,
+      "created_at": "2023-09-28T18:15:25-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T18:15:39-06:00",
+      "product_id": 7051704828013,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/raspberries-4RESIZED_5faf5e23-2de8-4107-a830-1dd5489740ec.jpg?v=1695946539",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30440144502893,
+      "created_at": "2023-09-08T09:50:59-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:15:39-06:00",
+      "product_id": 7051704828013,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Champagne-Device-V4.jpg?v=1695946539",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525526179949,
+      "created_at": "2023-09-28T18:15:25-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:15:39-06:00",
+      "product_id": 7051704828013,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Champagne-Overhead-Shadow-Resized.jpg?v=1695946539",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Champagne-Vertical-Resized.jpg?v=1695946539",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

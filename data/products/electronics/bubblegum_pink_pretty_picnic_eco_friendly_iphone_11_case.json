@@ -1,0 +1,108 @@
+{
+  "id": 7555252912216,
+  "title": "Bubblegum Pink Pretty Picnic iPhone 11 Case",
+  "handle": "bubblegum-pink-pretty-picnic-eco-friendly-iphone-11-case",
+  "body_html": "<p>Protect your phone in style with the Bubblegum Pink Pretty Picnic Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bows, cherries, baskets, watermelons, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>\n<p> </p>",
+  "published_at": "2024-02-29T08:08:40-05:00",
+  "created_at": "2024-02-06T13:51:46-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pretty Picnic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035278549080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16229-IP11-BUBPINK-AOD:PRETTY-PICNIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555252912216,
+      "created_at": "2024-02-06T13:51:46-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170965303384,
+      "created_at": "2024-02-06T13:51:46-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:46-05:00",
+      "product_id": 7555252912216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PRETTY-PICNIC_IP11_BubblegumPink.jpg?v=1707245506",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130733656,
+      "created_at": "2024-02-28T17:30:32-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:30:36-05:00",
+      "product_id": 7555252912216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTYPICNIC_BUBBLEGUM_2_d28b3e45-f07d-41c6-ab07-007a8fa40bf2.jpg?v=1709159436",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130766424,
+      "created_at": "2024-02-28T17:30:32-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:30:36-05:00",
+      "product_id": 7555252912216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTYPICNIC_BUBBLEGUM_1_89d0bd2b-a6eb-4b5c-9830-5b9933a5b952.jpg?v=1709159436",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241130799192,
+      "created_at": "2024-02-28T17:30:32-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:30:34-05:00",
+      "product_id": 7555252912216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_41d097f3-b840-4995-a1cf-1e4c45333b04.jpg?v=1709159434",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PRETTY-PICNIC_IP11_BubblegumPink.jpg?v=1707245506",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

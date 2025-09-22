@@ -1,0 +1,125 @@
+{
+  "id": 8025267863599,
+  "title": "KPop Demon Hunters HUNTR/X Tote Bag",
+  "handle": "kpop-demon-hunters-huntr-x-tote-bag",
+  "body_html": "<p>Carry your essentials with supernatural flair. The HUNTR/X Tote Bag is your everyday sidekick, combining utility with bold Kpop energy straight from the world of <em>KPop Demon Hunters</em>.<br></p>\n<ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\".</li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim.</li>\n<li>Care: Handwash.<meta charset=\"utf-8\">\n<br>\n</li>\n</ul>",
+  "published_at": "2025-07-25T09:59:02-04:00",
+  "created_at": "2025-07-25T05:41:54-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "81498621",
+    "Accessories",
+    "All-Over Print",
+    "Badge: Exclusive | #E50815 | #FFFFFF",
+    "Bags",
+    "Huntrix",
+    "KPDH-6-0725",
+    "KPop Demon Hunters",
+    "Mira",
+    "movie_id- 81498621",
+    "Netflix",
+    "Rumi",
+    "Tote Bags",
+    "unisex",
+    "Zoey"
+  ],
+  "variants": [
+    {
+      "id": 44118447620143,
+      "title": "Black Handles / 15 in x 15 in",
+      "option1": "Black Handles",
+      "option2": "15 in x 15 in",
+      "option3": null,
+      "sku": "KPDH-100645-0001-KPDH-6-0725-HUNTTB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36601377456175,
+        "product_id": 8025267863599,
+        "position": 1,
+        "created_at": "2025-07-25T05:42:06-04:00",
+        "updated_at": "2025-07-25T05:42:08-04:00",
+        "alt": "KPop Demon Hunters HUNTR/X Tote Bright Purple Tote Bag",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTTB_100645_BK_MF.jpg?v=1753436528",
+        "variant_ids": [
+          44118447620143
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8025267863599,
+      "created_at": "2025-07-25T05:41:54-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36601377456175,
+      "created_at": "2025-07-25T05:42:06-04:00",
+      "position": 1,
+      "updated_at": "2025-07-25T05:42:08-04:00",
+      "product_id": 8025267863599,
+      "variant_ids": [
+        44118447620143
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTTB_100645_BK_MF.jpg?v=1753436528",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36601377488943,
+      "created_at": "2025-07-25T05:42:06-04:00",
+      "position": 2,
+      "updated_at": "2025-07-25T05:42:08-04:00",
+      "product_id": 8025267863599,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTTB_100645_FT_MF.jpg?v=1753436528",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36601377521711,
+      "created_at": "2025-07-25T05:42:06-04:00",
+      "position": 3,
+      "updated_at": "2025-07-25T05:42:08-04:00",
+      "product_id": 8025267863599,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTTB_100645_FT_MF2.jpg?v=1753436528",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Handles"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "15 in x 15 in"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTTB_100645_BK_MF.jpg?v=1753436528",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786239492263,
+  "title": "Brand: Panduit / Part #: PISR1/0-1",
+  "handle": "wk532012111",
+  "body_html": "<br><strong>Item #: </strong>46608923<br><strong>Brand: </strong>Panduit<br><strong>Model #: </strong>PISR1/0-1<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insulation Type</strong>\n</td>\n<td>Partially Insulated</td>\n</tr>\n<tr>\n<td><strong>Insulation Material</strong></td>\n<td>Vinyl</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Crimp-On</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.9100</td>\n</tr>\n<tr>\n<td><strong>Contact Material</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>UL Listed; CSA Certified</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:19:26-06:00",
+  "created_at": "2023-12-29T15:19:26-06:00",
+  "updated_at": "2025-09-22T10:53:52-05:00",
+  "vendor": "Panduit",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Electrical Connectors"
+  ],
+  "variants": [
+    {
+      "id": 43707308245159,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "46608923",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.88",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786239492263,
+      "created_at": "2023-12-29T15:19:26-06:00",
+      "updated_at": "2025-09-22T10:53:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238144594087,
+      "created_at": "2025-02-03T18:37:53-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:37:55-06:00",
+      "product_id": 7786239492263,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4660892-21_3971531e-9fd1-4bde-9919-de79a7152de7.jpg?v=1738629475",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4660892-21_3971531e-9fd1-4bde-9919-de79a7152de7.jpg?v=1738629475",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Panduit",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

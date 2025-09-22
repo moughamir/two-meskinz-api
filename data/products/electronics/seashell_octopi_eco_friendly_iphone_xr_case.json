@@ -1,0 +1,87 @@
+{
+  "id": 8088980324440,
+  "title": "Seashell Octopi iPhone XR Case",
+  "handle": "seashell-octopi-eco-friendly-iphone-xr-case",
+  "body_html": "<p class=\"p1\">Dive into a vibrant underwater celebration with the Octopi Phone Case! Bursting with color, these playful octopuses are here to bring some whimsy to your day. Each adorable sea creature is splashed in bright hues, from electric pinks to ocean blues, with quirky spots and friendly faces. This case is as fun as it is functional, offering protection while giving your phone a playful, aquatic flair. Perfect for ocean lovers, daydreamers, and anyone who loves a good splash of color! 🐙 🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-22T09:34:28-04:00",
+  "created_at": "2024-08-14T10:26:45-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Octopi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42168992333912,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:OCTOPI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088980324440,
+      "created_at": "2024-08-14T10:26:45-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33475979804760,
+      "created_at": "2024-08-14T10:28:38-04:00",
+      "position": 1,
+      "updated_at": "2024-08-14T10:28:38-04:00",
+      "product_id": 8088980324440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IPXR_Seashell_1549eda5-6390-4c77-b27d-5f185d4f5126.jpg?v=1723645718",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516479643736,
+      "created_at": "2024-08-22T12:38:55-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:38:58-04:00",
+      "product_id": 8088980324440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_Octopi_0905fc3d-4d14-4b2d-88cf-035a36ea70ad.jpg?v=1724344738",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IPXR_Seashell_1549eda5-6390-4c77-b27d-5f185d4f5126.jpg?v=1723645718",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

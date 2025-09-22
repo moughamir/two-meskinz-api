@@ -1,0 +1,67 @@
+{
+  "id": 7785433170087,
+  "title": "Brand: Harvey Tool / Part #: 938260-C3",
+  "handle": "cw8154590",
+  "body_html": "<br><strong>Item #: </strong>82841289<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>938260-C3<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cutter Head Diameter (Decimal Inch)</strong>\n</td>\n<td>0.3120</td>\n</tr>\n<tr>\n<td><strong>Cutter Head Diameter (Fractional Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Chamfer Width (Decimal Inch)</strong></td>\n<td>0.055</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Long Length Tool</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (Decimal Inch)</strong></td>\n<td>0.1960</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.3125</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Chamfer Cutters - Back Chamfer Cutters</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.5000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Back Chamfer</td>\n</tr>\n<tr>\n<td><strong>Tool Performance</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>90</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:55:01-06:00",
+  "created_at": "2023-12-28T20:55:01-06:00",
+  "updated_at": "2025-09-22T10:55:17-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Holemaking",
+  "tags": [
+    "Countersinks; Chamfer Mills & Back Chamfers"
+  ],
+  "variants": [
+    {
+      "id": 43703829332135,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82841289",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "93.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785433170087,
+      "created_at": "2023-12-28T20:55:01-06:00",
+      "updated_at": "2025-09-22T10:55:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236923691175,
+      "created_at": "2025-02-03T17:58:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:23-06:00",
+      "product_id": 7785433170087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5796108-21_4d38fed5-87ec-41fe-b826-55eb7d9844df.jpg?v=1738627103",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 93.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5796108-21_4d38fed5-87ec-41fe-b826-55eb7d9844df.jpg?v=1738627103",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

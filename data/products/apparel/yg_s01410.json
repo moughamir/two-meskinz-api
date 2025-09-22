@@ -1,0 +1,68 @@
+{
+  "id": 5464258707623,
+  "title": "Arc Flash Clothing Kit: Size Large, Cotton, Coat, Hoods & Leggings",
+  "handle": "yg-s01410",
+  "body_html": "<br><strong>Item #: </strong>00596874<br><strong>Brand: </strong>Chicago Protective Apparel<br><strong>Model #: </strong>AG8-CL-L-9<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Protection Type</strong>\n</td>\n<td>Arc Flash</td>\n</tr>\n<tr> <td> <strong>Garment Type</strong>\n</td>\n<td>Leggings; Hoods; Coat</td>\n</tr>\n<tr> <td> <strong>Maximum Arc Flash Protection (cal/Sq. cm)</strong>\n</td>\n<td>8.00</td>\n</tr>\n<tr> <td> <strong>Size</strong>\n</td>\n<td>Large</td>\n</tr>\n<tr> <td> <strong>Glove Type</strong>\n</td>\n<td>Electrical Protection Gloves</td>\n</tr>\n<tr> <td> <strong>Head or Face Protection Type</strong>\n</td>\n<td>Electrical Protection Hoods</td>\n</tr>\n<tr> <td> <strong>Clothing Material</strong>\n</td>\n<td>Cotton</td>\n</tr>\n<tr> <td> <strong>Clothing Color</strong>\n</td>\n<td>Navy</td>\n</tr>\n<tr> <td> <strong>Gear Bag Included</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Number Of Pieces</strong>\n</td>\n<td>12.000</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Arc Flash Coat and Legging Kit - Size: Large 9 - CPA?s arc flash kits come complete with the garments, head and face protection, gloves and accessories an electrical worker needs to stay protected from arc flash hazards on the job. The 8 Cal Coat and Legging Kit comes with navy 8 cal coat and leggings made from arc and flame-resistant UltraSoft, a fabric blend made from 88% cotton and 12% nylon. The coats are 50? in length and feature a barracuda collar with Velcro closure, front Veclro closure, and knit wristlets. The leggings are 14\" long, with full vertical Velcro closures in back, and secure to feet with split leather strap and side Velcro closure. Garments are AR / FR, and loose fitting to allow for air pockets that provide extra protection. The Coat and Legging Kit also includes a hard cap, face shield with chin cup, cap bracket, knit Nomex hood, 11\" Class \"0\" rubber insulating gloves, leather protector gloves, safety glasses, ear plugs, glove bag, and gear bag.</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>46181500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:13:20-06:00",
+  "created_at": "2020-07-11T23:56:45-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Chicago Protective Apparel",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment",
+    "Power Grinders Buffers & Sanders"
+  ],
+  "variants": [
+    {
+      "id": 35174131171495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00596874",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1207.48",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5464258707623,
+      "created_at": "2020-07-11T23:56:45-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240810762407,
+      "created_at": "2025-02-03T20:36:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:36:46-06:00",
+      "product_id": 5464258707623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0063212-21_db3f2dcc-febe-464c-926b-a208a8d484bd.jpg?v=1738636606",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1207.48,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0063212-21_db3f2dcc-febe-464c-926b-a208a8d484bd.jpg?v=1738636606",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Chicago Protective Apparel",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

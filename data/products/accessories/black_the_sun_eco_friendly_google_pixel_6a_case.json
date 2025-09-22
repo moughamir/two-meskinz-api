@@ -1,0 +1,76 @@
+{
+  "id": 7364919001176,
+  "title": "Black The Sun Google Pixel 6a Case",
+  "handle": "black-the-sun-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Brighten up your day with the radiant Sun Phone Case! <meta charset=\"utf-8\">☀️ Featuring a stunning tarot design that highlights a glorious sun at its center, this case is a beacon of positivity and warmth. Perfect for those who shine their own light and embrace life's vibrant energy, it offers not only protection but also a daily dose of sunshine. Let the Sun Phone Case illuminate your path, spread joy, and keep your phone safe and stylish. Bask in the glow and carry a piece of the cosmos with you wherever you go!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-08T14:36:16-04:00",
+  "created_at": "2023-06-08T14:36:14-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Tarot",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:The Sun",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236296896600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14800-PX6a-BLACK-AOD:THE-SUN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364919001176,
+      "created_at": "2023-06-08T14:36:14-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30284976914520,
+      "created_at": "2023-06-08T14:36:14-04:00",
+      "position": 1,
+      "updated_at": "2023-06-08T14:36:14-04:00",
+      "product_id": 7364919001176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/THE-SUN_PX6A_Black.jpg?v=1686249374",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/THE-SUN_PX6A_Black.jpg?v=1686249374",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

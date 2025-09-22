@@ -1,0 +1,98 @@
+{
+  "id": 8299244945496,
+  "title": "Chocolate Brown Cocoa Stripes iPhone 16 Pro Max Case",
+  "handle": "chocolate-brown-cocoa-stripes-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Classic, bold, and irresistibly rich—just like your favorite dark chocolate bar. The <em data-start=\"385\" data-end=\"400\">Cocoa Stripes Phone Case</em> brings timeless style to your phone with sleek vertical stripes in deep brown tones. Perfect for minimalists who love a touch of vintage charm.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:25:22-04:00",
+  "created_at": "2025-02-26T10:03:50-05:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Cocoa Stripes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697334816856,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17329-IP16PMAX-CHOBROWN-AOD:COCOA-STRIPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299244945496,
+      "created_at": "2025-02-26T10:03:50-05:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599127973976,
+      "created_at": "2025-02-26T10:03:50-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:03:52-05:00",
+      "product_id": 8299244945496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_IP16PMAX_ChocolateBrown.jpg?v=1740582232",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672834216024,
+      "created_at": "2025-03-11T18:23:42-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T18:23:44-04:00",
+      "product_id": 8299244945496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP1_799ed11e-d515-42a8-8cab-90f59cd1a5c2.jpg?v=1741731824",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672834248792,
+      "created_at": "2025-03-11T18:23:43-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T18:23:44-04:00",
+      "product_id": 8299244945496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CocoaStripes_PDP2_b8a9921a-1658-41e7-9382-f293010288df.jpg?v=1741731824",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COCOA-STRIPES_IP16PMAX_ChocolateBrown.jpg?v=1740582232",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

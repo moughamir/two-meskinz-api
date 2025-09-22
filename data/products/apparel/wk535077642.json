@@ -1,0 +1,67 @@
+{
+  "id": 7786066116775,
+  "title": "Brand: AcuRite / Part #: 00256M",
+  "handle": "wk535077642",
+  "body_html": "<br><strong>Item #: </strong>67737478<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>00256M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Meter Type</strong>\n</td>\n<td>Anemometer/Hygrometer/Thermometer/Light Meter; Wind Speed Indicator</td>\n</tr>\n<tr>\n<td><strong>Measures</strong></td>\n<td>Airflow; Humidity; Ambient Temperature</td>\n</tr>\n<tr>\n<td><strong>Maximum Air Velocity ft/min (Feet)</strong></td>\n<td>52 knots; 60 mph; 1990 ft/min; 97 km/h; 27 m/s</td>\n</tr>\n<tr>\n<td><strong>Humidity Sensing</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Data Logging</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Auto Power Off</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Air Velocity</strong></td>\n<td>0.1 knots; 0.1 km/h; 0.1 mph; 0.1 ft/min; 0.1 m/s</td>\n</tr>\n<tr>\n<td><strong>Minimum Process Temperature</strong></td>\n<td>-40 ?F</td>\n</tr>\n<tr>\n<td><strong>Maximum Process Temperature</strong></td>\n<td>150 ?F</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Tripod Mountable; For Tripods w/1/4\" 20-Thread Fitting (Tripod Not Included); Accurately Provides 1-Second Updates of Wind Speeds From 0 to 60 mph, 0 to 97 km/H, 0 to 52 knots, 0 to 27 M/s, and 0 to 1990 ft/min; Wind Speed Meter Features a Precision Anemometer That Measures Current Wind Speed, Average and Peak Wind Speed, and Offers a Wind Speed Alarm; Altimeter (Measures Current Elevation and Total Change In Elevation); Measures Wind Speed, Temperature, Humidity, Altitude, Wind Chill, and Heat Index; Storage Pouch; Extendable Design Allows For Measuring Wind Velocity In Hard-To-Reach Places; Integrated LED Inspection Light And Backlit Display For Visibility In Dark Areas</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:32:46-06:00",
+  "created_at": "2023-12-29T08:32:46-06:00",
+  "updated_at": "2025-09-22T10:54:14-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43706766983335,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67737478",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.16",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786066116775,
+      "created_at": "2023-12-29T08:32:46-06:00",
+      "updated_at": "2025-09-22T10:54:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237748297895,
+      "created_at": "2025-02-03T18:23:51-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:23:53-06:00",
+      "product_id": 7786066116775,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773747-21.jpg?v=1738628633",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773747-21.jpg?v=1738628633",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

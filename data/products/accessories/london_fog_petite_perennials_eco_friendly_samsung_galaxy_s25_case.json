@@ -1,0 +1,119 @@
+{
+  "id": 8254960369752,
+  "title": "London Fog Petite Perennials Samsung Galaxy S25 Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:10:37-05:00",
+  "created_at": "2025-01-15T11:45:03-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567876903000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13901-S25-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254960369752,
+      "created_at": "2025-01-15T11:45:03-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303572213848,
+      "created_at": "2025-01-15T11:45:03-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:05-05:00",
+      "product_id": 8254960369752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_S25_LondonFog.jpg?v=1736959505",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671644934232,
+      "created_at": "2025-03-11T14:15:39-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:15:45-04:00",
+      "product_id": 8254960369752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_abbf592f-b7c0-4b8b-a85e-3501e2906b75.png?v=1741716945",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671644868696,
+      "created_at": "2025-03-11T14:15:39-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:15:45-04:00",
+      "product_id": 8254960369752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_3ee39b80-9307-4ce1-a0ae-82de57725207.png?v=1741716945",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671644835928,
+      "created_at": "2025-03-11T14:15:39-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T14:15:45-04:00",
+      "product_id": 8254960369752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_a94a3c31-5aa7-4845-a81b-589c6d6a4477.png?v=1741716945",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 34671644901464,
+      "created_at": "2025-03-11T14:15:39-04:00",
+      "position": 5,
+      "updated_at": "2025-03-11T14:15:45-04:00",
+      "product_id": 8254960369752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_4a0ae2c5-410c-4d69-af27-1a47976795d4.png?v=1741716945",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_S25_LondonFog.jpg?v=1736959505",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 7699254870104,
+  "title": "Sage Green Luminate iPhone 15 Pro Case",
+  "handle": "sage-green-luminate-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p>Grow your phone's style with the Sage Green Luminate Phone Case. This case features a bright blue and green color scheme, inspiring you to thrive, flourish, and evolve. Protect your phone while adding a touch of positivity and watch it blossom.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:38:06-04:00",
+  "created_at": "2024-04-01T12:47:32-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Luminate",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311486247000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17053-IP15P-SAGE-AOD:LUMINATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699254870104,
+      "created_at": "2024-04-01T12:47:32-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487788150872,
+      "created_at": "2024-04-01T12:47:32-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:32-04:00",
+      "product_id": 7699254870104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_IP15P_SageGreen.jpg?v=1711990052",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520695152728,
+      "created_at": "2024-04-04T16:44:38-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T16:44:40-04:00",
+      "product_id": 7699254870104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_SEASHELL_-15_59166e9d-8f8c-4220-bf73-e6d742139282.jpg?v=1712263480",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520695185496,
+      "created_at": "2024-04-04T16:44:38-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T16:44:40-04:00",
+      "product_id": 7699254870104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_SEASHELL_-18_5b32edb8-882c-495a-a1b6-d7e350e7626a.jpg?v=1712263480",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LUMINATE_IP15P_SageGreen.jpg?v=1711990052",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

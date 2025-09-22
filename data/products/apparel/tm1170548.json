@@ -1,0 +1,67 @@
+{
+  "id": 7786404249767,
+  "title": "Brand: PowerSmith / Part #: PILF800S",
+  "handle": "tm1170548",
+  "body_html": "<br><strong>Item #: </strong>95507216<br><strong>Brand: </strong>PowerSmith<br><strong>Model #: </strong>PILF800S<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bulb Type</strong>\n</td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Spotlight Type</strong></td>\n<td>LED Spotlight</td>\n</tr>\n<tr>\n<td><strong>Light Output</strong></td>\n<td>500 lm</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Plastic</td>\n</tr>\n<tr>\n<td><strong>Run Time</strong></td>\n<td>12 h</td>\n</tr>\n<tr>\n<td><strong>Beam Distance</strong></td>\n<td>328 ft</td>\n</tr>\n<tr>\n<td><strong>Housing Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Power Type</strong></td>\n<td>Rechargeable Battery</td>\n</tr>\n<tr>\n<td><strong>Lighting Technology</strong></td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Batteries Included</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Number Of Batteries</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Battery Size</strong></td>\n<td>3.7V, 2.2Ah Lithium-Ion</td>\n</tr>\n<tr>\n<td><strong>Battery Chemistry</strong></td>\n<td>Lithium</td>\n</tr>\n<tr>\n<td><strong>Rechargeable</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Switch Type</strong></td>\n<td>Push Button</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Type-C USB Charging Cable</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Compact; Dual Functions: Spotlight (270/500 lm) distance up to 328 ft; Flood Light (400/800 lm) 5v, 1a USB Output; 180? Kickstand with Magnetic Base, Hanging Hook and 1/4? Threaded Fitting for Tripod; Sealed On/Off &amp; Mode Switch with Battery Power Indicator</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:58:26-06:00",
+  "created_at": "2023-12-29T22:58:26-06:00",
+  "updated_at": "2025-09-22T10:53:25-05:00",
+  "vendor": "PowerSmith",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Garage Equipment & Lifting"
+  ],
+  "variants": [
+    {
+      "id": 43707734130855,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95507216",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "33.99",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786404249767,
+      "created_at": "2023-12-29T22:58:26-06:00",
+      "updated_at": "2025-09-22T10:53:25-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238554783911,
+      "created_at": "2025-02-03T18:54:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:54:22-06:00",
+      "product_id": 7786404249767,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9550721-21.jpg?v=1738630462",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 33.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9550721-21.jpg?v=1738630462",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PowerSmith",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

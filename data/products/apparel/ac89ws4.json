@@ -1,0 +1,67 @@
+{
+  "id": 7785741582503,
+  "title": "Brand: Metro / Part #: 6MP",
+  "handle": "ac89ws4",
+  "body_html": "<br><strong>Item #: </strong>37804416<br><strong>Brand: </strong>Metro<br><strong>Model #: </strong>6MP<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wheel Type</strong>\n</td>\n<td>Swivel; Flat</td>\n</tr>\n<tr>\n<td><strong>Load Capacity</strong></td>\n<td>400</td>\n</tr>\n<tr>\n<td><strong>Wheel Width</strong></td>\n<td>1.5 in</td>\n</tr>\n<tr>\n<td><strong>Axle Size (mm)</strong></td>\n<td>12.45</td>\n</tr>\n<tr>\n<td><strong>Wheel Diameter</strong></td>\n<td>6 in</td>\n</tr>\n<tr>\n<td><strong>Wheel Material</strong></td>\n<td>Polyurethane over Polyethylene</td>\n</tr>\n<tr>\n<td><strong>Wheel Color</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Metro Super Erecta Shelving</td>\n</tr>\n<tr>\n<td><strong>Non-marking</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:55:49-06:00",
+  "created_at": "2023-12-29T00:55:49-06:00",
+  "updated_at": "2025-09-22T10:54:52-05:00",
+  "vendor": "Metro",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 43705398460583,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "37804416",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "81.35",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785741582503,
+      "created_at": "2023-12-29T00:55:49-06:00",
+      "updated_at": "2025-09-22T10:54:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237182754983,
+      "created_at": "2025-02-03T18:07:26-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:27-06:00",
+      "product_id": 7785741582503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3780441-21.jpg?v=1738627647",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 81.35,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3780441-21.jpg?v=1738627647",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Metro",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

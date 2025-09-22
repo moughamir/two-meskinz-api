@@ -1,0 +1,116 @@
+{
+  "id": 6567167033432,
+  "title": "London Fog iPhone 12/iPhone 12 Pro Case",
+  "handle": "london-fog-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>\n<p data-mce-fragment=\"1\"> </p>",
+  "published_at": "2023-10-05T10:49:45-04:00",
+  "created_at": "2021-03-26T12:00:16-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39314941837400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16448-IP12-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6567167033432,
+      "created_at": "2021-03-26T12:00:16-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28163395321944,
+      "created_at": "2021-05-03T12:37:26-04:00",
+      "position": 1,
+      "updated_at": "2021-05-03T12:37:28-04:00",
+      "product_id": 6567167033432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP12_PRO_LONDONFOG_BACK.jpg?v=1620059848",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31972249075800,
+      "created_at": "2023-12-11T18:57:11-05:00",
+      "position": 2,
+      "updated_at": "2023-12-11T18:57:13-05:00",
+      "product_id": 6567167033432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LONDONFOG-IP12-PERSONALIZATION.jpg?v=1702339033",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": 28163395256408,
+      "created_at": "2021-05-03T12:37:26-04:00",
+      "position": 3,
+      "updated_at": "2023-12-11T18:57:13-05:00",
+      "product_id": 6567167033432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP12_PRO_LONDONFOG_45L.jpg?v=1702339033",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163395289176,
+      "created_at": "2021-05-03T12:37:26-04:00",
+      "position": 4,
+      "updated_at": "2023-12-11T18:57:13-05:00",
+      "product_id": 6567167033432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP12_PRO_LONDONFOG_45R.jpg?v=1702339033",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28346207207512,
+      "created_at": "2021-06-28T15:12:52-04:00",
+      "position": 5,
+      "updated_at": "2023-12-11T18:57:13-05:00",
+      "product_id": 6567167033432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog2_a0db51ba-070f-48ca-b2e7-6709d4f54629.jpg?v=1702339033",
+      "width": 884,
+      "height": 884
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP12_PRO_LONDONFOG_BACK.jpg?v=1620059848",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

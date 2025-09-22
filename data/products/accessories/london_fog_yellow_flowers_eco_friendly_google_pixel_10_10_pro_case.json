@@ -1,0 +1,108 @@
+{
+  "id": 8444637577304,
+  "title": "London Fog Yellow Flowers Google Pixel 10/10 Pro Case",
+  "handle": "london-fog-yellow-flowers-eco-friendly-google-pixel-10-10-pro-case",
+  "body_html": "<p data-start=\"0\" data-end=\"121\">Let the sunshine in ☀️🌼—with the Yellow Flowers Phone Case from the Pela x Katie Waiyu Artist Series Collection.</p>\n<p data-start=\"123\" data-end=\"327\">Big, bold, and beautifully bloomy, this case brings a splash of joy to your everyday carry. Soft watercolor textures meet cheerful pops of yellow and sky blue for a look that’s both playful and painterly.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T10:57:42-04:00",
+  "created_at": "2025-08-08T11:04:32-04:00",
+  "updated_at": "2025-09-22T15:13:12-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Yellow Flowers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107941974104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15780-PX10-LFOG-AOD:YELLOW-FLOWERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8444637577304,
+      "created_at": "2025-08-08T11:04:32-04:00",
+      "updated_at": "2025-09-22T15:13:12-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567084535896,
+      "created_at": "2025-08-08T11:04:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:04:35-04:00",
+      "product_id": 8444637577304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YELLOW-FLOWERS_PX10_LondonFog.jpg?v=1754665475",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506869502040,
+      "created_at": "2025-07-30T12:15:28-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T12:43:09-04:00",
+      "product_id": 8444637577304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_1.jpg?v=1755189789",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869567576,
+      "created_at": "2025-07-30T12:15:30-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T12:43:17-04:00",
+      "product_id": 8444637577304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_2.jpg?v=1755189797",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869633112,
+      "created_at": "2025-07-30T12:15:31-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T12:43:24-04:00",
+      "product_id": 8444637577304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_3.jpg?v=1755189804",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/YELLOW-FLOWERS_PX10_LondonFog.jpg?v=1754665475",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

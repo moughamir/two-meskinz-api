@@ -1,0 +1,108 @@
+{
+  "id": 8359092682840,
+  "title": "Seashell Coastal Club Google Pixel 8 Case",
+  "handle": "seashell-coastal-club-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to vibe like it’s vacay every day with the Coastal Club Phone Case! ☀️🍹 This beachy beauty is decked out in doodles of palm trees, parasols, cocktails, bikinis, and more—basically everything you’d pack for your dream seaside escape. Whether you're soaking up sun or just wish you were, this case brings the beach party straight to your pocket. SPF not included. 😎🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-15T04:56:35-04:00",
+  "created_at": "2025-04-28T09:44:21-04:00",
+  "updated_at": "2025-09-22T15:14:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Clubhouse",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42846497144920,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14954-PX8-SEASHELL-AOD:COASTAL-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8359092682840,
+      "created_at": "2025-04-28T09:44:22-04:00",
+      "updated_at": "2025-09-22T15:14:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34914295087192,
+      "created_at": "2025-04-28T09:44:21-04:00",
+      "position": 1,
+      "updated_at": "2025-04-28T09:44:23-04:00",
+      "product_id": 8359092682840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_PX8_Seashell.jpg?v=1745847863",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35010484830296,
+      "created_at": "2025-05-13T06:20:18-04:00",
+      "position": 2,
+      "updated_at": "2025-05-13T06:20:25-04:00",
+      "product_id": 8359092682840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_01_e6efcbe1-8adb-4430-833f-62f8271df8a6.jpg?v=1747131625",
+      "width": 1152,
+      "height": 1152
+    },
+    {
+      "id": 35010484797528,
+      "created_at": "2025-05-13T06:20:18-04:00",
+      "position": 3,
+      "updated_at": "2025-05-13T06:20:25-04:00",
+      "product_id": 8359092682840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_02_9946eb92-25f0-4e71-97d3-d1b29592fe2b.jpg?v=1747131625",
+      "width": 1088,
+      "height": 1088
+    },
+    {
+      "id": 35010484863064,
+      "created_at": "2025-05-13T06:20:18-04:00",
+      "position": 4,
+      "updated_at": "2025-05-13T06:20:25-04:00",
+      "product_id": 8359092682840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalClubhouse_CoastalClub_PDP_03_a3924b49-8cdc-4157-907a-3503d0b5d2e1.jpg?v=1747131625",
+      "width": 1078,
+      "height": 1078
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-CLUB_PX8_Seashell.jpg?v=1745847863",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

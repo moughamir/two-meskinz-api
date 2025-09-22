@@ -1,0 +1,67 @@
+{
+  "id": 7786234478759,
+  "title": "Brand: DoALL / Part #: 13410241",
+  "handle": "eh4300467",
+  "body_html": "<br><strong>Item #: </strong>86619012<br><strong>Brand: </strong>DoALL<br><strong>Model #: </strong>13410241<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Drilling; Reaming; Stamping; Tapping; Forming; Sawing; Turning; Broaching Oil; Grinding</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Bottle</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>1 gal</td>\n</tr>\n<tr>\n<td><strong>Net Fill</strong></td>\n<td>1 gal</td>\n</tr>\n<tr>\n<td><strong>Form</strong></td>\n<td>Semi-Synthetic</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal; Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Flash Point (Deg F)</strong></td>\n<td>284.00</td>\n</tr>\n<tr>\n<td><strong>Flash Point (C)</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Specific Gravity</strong></td>\n<td>0.99</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Light Yellow to Amber</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Chemical Name: Severely Hydrotreated Petroleum Oil, CAS number 64742-52-5, % is 10 - <lt></lt> 20; Other components below reportable levels, % is 60 - <lt></lt> 70; Chemical Name: Trade Secret, CAS number Proprietary, % is 5 - <lt></lt> 10; Chemical Name: Trade Secret, CAS number Proprietary, % is 3 - <lt></lt> 5; Chemical Name: MONOETHANOLAMINE, CAS number 141-43-5, % is 1 - <lt></lt> 3</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:11:12-06:00",
+  "created_at": "2023-12-29T15:11:12-06:00",
+  "updated_at": "2025-09-22T10:53:52-05:00",
+  "vendor": "DoALL",
+  "product_type": "Lubricants; Coolants & Fluids",
+  "tags": [
+    "Metalworking Fluids; Coolants & Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707292090535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "86619012",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786234478759,
+      "created_at": "2023-12-29T15:11:12-06:00",
+      "updated_at": "2025-09-22T10:53:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238138106023,
+      "created_at": "2025-02-03T18:37:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:37:40-06:00",
+      "product_id": 7786234478759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8661901-21_80e40fbf-0a55-43c6-bd1a-85d4b8508493.jpg?v=1738629460",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 45.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8661901-21_80e40fbf-0a55-43c6-bd1a-85d4b8508493.jpg?v=1738629460",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DoALL",
+  "category": "Lubricants; Coolants & Fluids",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

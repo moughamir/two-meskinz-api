@@ -1,0 +1,110 @@
+{
+  "id": 6680593727576,
+  "title": "Seashell Pink Haze iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-pink-haze-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into a dreamy world of soft hues with the Pink Haze Phone Case! This enchanting design features a beautiful blend of pink and purple watercolors, creating a mesmerizing haze that is both soothing and stylish. Perfect for adding a touch of whimsy to your everyday look. Embrace the serene vibes and let your phone reflect your unique style with the Pink Haze Phone Case. Keep it cool, keep it colorful! 📱💖✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T10:19:33-04:00",
+  "created_at": "2021-07-11T19:37:17-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Abstract Paint",
+    "device-collection-page:Hidden",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pink Haze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39497563570264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:PINK-HAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6680593727576,
+      "created_at": "2021-07-11T19:37:17-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328143773784,
+      "created_at": "2023-07-24T10:19:32-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T10:19:32-04:00",
+      "product_id": 6680593727576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IP7_Seashell_c26e5e47-c6cc-4b38-9316-bd53ce756bbc.jpg?v=1690208372",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28433647075416,
+      "created_at": "2021-07-26T15:01:10-04:00",
+      "position": 2,
+      "updated_at": "2021-07-28T19:09:11-04:00",
+      "product_id": 6680593727576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed2_1_28717ea1-d9ba-430e-90d0-b26a1b7e4441.jpg?v=1627513751",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433647140952,
+      "created_at": "2021-07-26T15:01:10-04:00",
+      "position": 3,
+      "updated_at": "2021-07-28T19:09:11-04:00",
+      "product_id": 6680593727576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed3_1_58615bf2-1754-4a7d-aa7f-ccbb20138d7d.jpg?v=1627513751",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433647108184,
+      "created_at": "2021-07-26T15:01:10-04:00",
+      "position": 4,
+      "updated_at": "2021-07-28T19:09:11-04:00",
+      "product_id": 6680593727576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed8_cb7010dd-097f-4202-878e-c920c010faf0.jpg?v=1627513751",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IP7_Seashell_c26e5e47-c6cc-4b38-9316-bd53ce756bbc.jpg?v=1690208372",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

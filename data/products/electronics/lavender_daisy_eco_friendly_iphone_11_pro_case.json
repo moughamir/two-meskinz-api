@@ -1,0 +1,109 @@
+{
+  "id": 7366832291928,
+  "title": "Lavender Daisy iPhone 11 Pro Case",
+  "handle": "lavender-daisy-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Add a blooming touch to your phone with our sustainable and compostable Lavender Daisy Phone Case. Not only is it stylish with its beautifully designed daisy print, but it's also durable for long-lasting protection. Go green and stay trendy with this flower-inspired case. <meta charset=\"utf-8\"><span>🌼💜🌿</span></p>",
+  "published_at": "2023-06-29T09:15:49-04:00",
+  "created_at": "2023-06-26T09:33:58-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Summer Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Daisy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40241142104152,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16006-IP11P-LAV-AOD:DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7366832291928,
+      "created_at": "2023-06-26T09:33:58-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30299122729048,
+      "created_at": "2023-06-26T09:33:58-04:00",
+      "position": 1,
+      "updated_at": "2023-06-26T09:33:58-04:00",
+      "product_id": 7366832291928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP11P_Lavender.jpg?v=1687786438",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30301086253144,
+      "created_at": "2023-06-28T16:04:14-04:00",
+      "position": 2,
+      "updated_at": "2023-06-28T16:04:16-04:00",
+      "product_id": 7366832291928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife2_6aa20dcc-4261-4bdf-bb2b-bfa04071c2cc.jpg?v=1687982656",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 30301086220376,
+      "created_at": "2023-06-28T16:04:15-04:00",
+      "position": 3,
+      "updated_at": "2023-06-28T16:04:16-04:00",
+      "product_id": 7366832291928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife3_2f6d5fd4-6af7-4398-922e-12dd7e4f92e0.jpg?v=1687982656",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 30307552297048,
+      "created_at": "2023-07-04T09:39:34-04:00",
+      "position": 4,
+      "updated_at": "2023-07-04T09:39:36-04:00",
+      "product_id": 7366832291928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0591_1_ae625877-734a-4efd-970c-12c06bf67658.jpg?v=1688477976",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP11P_Lavender.jpg?v=1687786438",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

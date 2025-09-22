@@ -1,0 +1,97 @@
+{
+  "id": 8388532338776,
+  "title": "Seashell Sunkissed Samsung Galaxy S21 Case",
+  "handle": "seashell-sunkissed-eco-friendly-samsung-galaxy-s21-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn up the heat with the Sunkissed Phone Case — a sun-soaked sketchbook of beachy bliss! From cocktails and bikinis to crabs, cones, and the perfect pool float, this case is your one-way ticket to vacay vibes. Doodled in sunset tones and salty energy, it's for the ones who chase tan lines and treasure every golden hour. ☀️🍦🩴🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:14:02-04:00",
+  "created_at": "2025-05-30T12:37:27-04:00",
+  "updated_at": "2025-09-22T15:13:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunkissed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918162923608,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13498-S21-SEASHELL-AOD:SUNKISSED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388532338776,
+      "created_at": "2025-05-30T12:37:28-04:00",
+      "updated_at": "2025-09-22T15:13:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125629812824,
+      "created_at": "2025-05-30T12:37:27-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:29-04:00",
+      "product_id": 8388532338776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNKISSED_S21_Seashell.jpg?v=1748623049",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195826176088,
+      "created_at": "2025-06-09T17:07:04-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:07:04-04:00",
+      "product_id": 8388532338776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/31703c1213bb40b10515caac099cd813_b1c7df7a-49da-48f3-97bd-1e6eb59b700e.jpg?v=1749503224",
+      "width": 4154,
+      "height": 4154
+    },
+    {
+      "id": 35195826503768,
+      "created_at": "2025-06-09T17:07:06-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:07:06-04:00",
+      "product_id": 8388532338776,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4f283a1fd7982e2362adbfd986bb57ee_43da903b-e255-47f4-a5be-8f685ab7ed31.jpg?v=1749503226",
+      "width": 4481,
+      "height": 4481
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNKISSED_S21_Seashell.jpg?v=1748623049",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

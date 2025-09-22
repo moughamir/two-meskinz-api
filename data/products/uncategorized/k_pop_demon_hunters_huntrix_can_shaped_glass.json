@@ -1,0 +1,109 @@
+{
+  "id": 7994740703279,
+  "title": "KPop Demon Hunters HUNTR/X Can-Shaped Glass",
+  "handle": "k-pop-demon-hunters-huntrix-can-shaped-glass",
+  "body_html": "<p>Pour yourself a refreshing drink and chill like a KPop star (or a charming demon!) with the <meta charset=\"utf-8\"><em>KPop Demon Hunters</em> Can Glass! Shaped like a classic soda can, this glass features cool graphics inspired by the series. It's perfect for your favorite beverages and a stylish way to hydrate while you're enjoying the music or diving into the lore.</p>\n<ul>\n<li>Glass material</li>\n<li>Comes with a lid and straw</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe<br>\n</li>\n</ul>",
+  "published_at": "2025-06-27T19:00:24-04:00",
+  "created_at": "2025-06-27T18:42:31-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "81498621",
+    "Can Shaped Glass",
+    "Drinking Glasses",
+    "Drinkware",
+    "Glassware",
+    "Home",
+    "Huntrix",
+    "K-pop Demon Hunters",
+    "Kpop Demon Hunters",
+    "Mira",
+    "movie_id- 81498621",
+    "New",
+    "New Arrivals",
+    "Rumi",
+    "Shop All",
+    "unisex",
+    "Zoey"
+  ],
+  "variants": [
+    {
+      "id": 43916247171119,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-101797-0001-KPDH-TMCG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36268176343087,
+        "product_id": 7994740703279,
+        "position": 1,
+        "created_at": "2025-06-27T18:49:08-04:00",
+        "updated_at": "2025-06-27T18:49:10-04:00",
+        "alt": "K-Pop Demon Hunters Huntrix Can-Shaped Glass ",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-TMCG_KPDH-L-0625_101797_FT_MF.jpg?v=1751064550",
+        "variant_ids": [
+          43916247171119
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7994740703279,
+      "created_at": "2025-06-27T18:42:31-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36268176343087,
+      "created_at": "2025-06-27T18:49:08-04:00",
+      "position": 1,
+      "updated_at": "2025-06-27T18:49:10-04:00",
+      "product_id": 7994740703279,
+      "variant_ids": [
+        43916247171119
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-TMCG_KPDH-L-0625_101797_FT_MF.jpg?v=1751064550",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36268176310319,
+      "created_at": "2025-06-27T18:49:08-04:00",
+      "position": 2,
+      "updated_at": "2025-06-27T18:49:10-04:00",
+      "product_id": 7994740703279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-TMCG_KPDH-L-0625_101797_BK_F.jpg?v=1751064550",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-TMCG_KPDH-L-0625_101797_FT_MF.jpg?v=1751064550",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

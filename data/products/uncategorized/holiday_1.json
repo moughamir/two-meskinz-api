@@ -1,0 +1,119 @@
+{
+  "id": 7707203895405,
+  "title": "Holiday",
+  "handle": "holiday-1",
+  "body_html": "<p>The quintessential scent of the holiday season is created by blending <strong>pomegranate</strong>, <strong>mandarin orange</strong>, <strong>pine</strong>, <strong>cloves</strong>, and <strong>cinnamon</strong> with a hint of <strong>vanilla</strong> and <strong>amber</strong>.</p>",
+  "published_at": "2025-08-15T13:53:04-06:00",
+  "created_at": "2025-08-11T11:03:08-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:NEST New York",
+    "collection:NEST New York",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_holiday"
+  ],
+  "variants": [
+    {
+      "id": 42947267133549,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "XLPH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7707203895405,
+      "created_at": "2025-08-11T11:03:09-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34976586170477,
+      "created_at": "2025-08-11T11:04:23-06:00",
+      "position": 1,
+      "updated_at": "2025-08-11T11:10:17-06:00",
+      "product_id": 7707203895405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Net-Holiday-Prod1-0625.jpg?v=1754932217",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30485195030637,
+      "created_at": "2023-09-17T19:41:15-06:00",
+      "position": 2,
+      "updated_at": "2025-08-11T11:10:17-06:00",
+      "product_id": 7707203895405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CLOVES-RESIZED_f820e920-d0bf-4eaf-9cb1-2ea4f771505d.jpg?v=1754932217",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34976587841645,
+      "created_at": "2025-08-11T11:05:07-06:00",
+      "position": 3,
+      "updated_at": "2025-08-11T11:10:17-06:00",
+      "product_id": 7707203895405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Holiday-Nest-Prod3-0725.jpg?v=1754932217",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34976586203245,
+      "created_at": "2025-08-11T11:04:23-06:00",
+      "position": 4,
+      "updated_at": "2025-08-11T11:10:17-06:00",
+      "product_id": 7707203895405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Net-Holiday-Prod4-0625.jpg?v=1754932217",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Net-Holiday-Prod1-0625.jpg?v=1754932217",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

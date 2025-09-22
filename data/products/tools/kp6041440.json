@@ -1,0 +1,67 @@
+{
+  "id": 8453228101799,
+  "title": "TENDO RLA HSK-A80, 20 mm × 105 mm Hydraulic Chuck",
+  "handle": "kp6041440",
+  "body_html": "<br><strong>Item #: </strong>HF80205986<br><strong>Brand: </strong>SCHUNK<br><strong>Model #: </strong>205986<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>HSK-A80 </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>HSK </td>\n</tr>\n<tr>\n<td><strong>Body Length (LB)</strong></td>\n<td>79 mm </td>\n</tr>\n<tr>\n<td><strong>Shank Size (SS)</strong></td>\n<td>A80 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Workpiece Side (DCONWS)</strong></td>\n<td>20 mm </td>\n</tr>\n<tr>\n<td><strong>Nose Diameter</strong></td>\n<td>38 mm </td>\n</tr>\n<tr>\n<td><strong>Body Diameter (BD)</strong></td>\n<td>42 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Hydraulic Chuck </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>105 mm </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:09:58-06:00",
+  "created_at": "2025-01-23T22:09:57-06:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "SCHUNK",
+  "product_type": "Tooling Systems",
+  "tags": [
+    "Tool Holders"
+  ],
+  "variants": [
+    {
+      "id": 46499900227751,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HF80205986",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1037.77",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453228101799,
+      "created_at": "2025-01-23T22:09:57-06:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144000295079,
+      "created_at": "2025-01-23T22:10:10-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:10:11-06:00",
+      "product_id": 8453228101799,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c7935bf9-0251-4bff-a976-03a2552e5eee.png?v=1737691811",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1037.77,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c7935bf9-0251-4bff-a976-03a2552e5eee.png?v=1737691811",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SCHUNK",
+  "category": "Tooling Systems",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

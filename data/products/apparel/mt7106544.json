@@ -1,0 +1,67 @@
+{
+  "id": 7786421354663,
+  "title": "Brand: Boomerang Tool Company / Part #: 0TR2-013",
+  "handle": "mt7106544",
+  "body_html": "<br><strong>Item #: </strong>63805196<br><strong>Brand: </strong>Boomerang Tool Company<br><strong>Model #: </strong>0TR2-013<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Retractable Gear Tether</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Carabiner</td>\n</tr>\n<tr>\n<td><strong>Interchangeable</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Extended Length (Inch)</strong></td>\n<td>48</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polycarbonate (Housing); Aramid Fiber</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>48\" Retractable Cord w/Universal Wire End Fitting Adapter</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>8 oz Retraction Force</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T00:07:50-06:00",
+  "created_at": "2023-12-30T00:07:50-06:00",
+  "updated_at": "2025-09-22T10:53:23-05:00",
+  "vendor": "Boomerang Tool Company",
+  "product_type": "Hardware",
+  "tags": [
+    "Locks"
+  ],
+  "variants": [
+    {
+      "id": 43707778728103,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "63805196",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.67",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786421354663,
+      "created_at": "2023-12-30T00:07:50-06:00",
+      "updated_at": "2025-09-22T10:53:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238615371943,
+      "created_at": "2025-02-03T18:56:53-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:56:55-06:00",
+      "product_id": 7786421354663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6380519-21.jpg?v=1738630615",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 32.67,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6380519-21.jpg?v=1738630615",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Boomerang Tool Company",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

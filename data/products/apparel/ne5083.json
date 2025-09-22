@@ -1,0 +1,68 @@
+{
+  "id": 5324149391527,
+  "title": "KGDR 124T20JCT, Coolant-Through External Grooving Toolholder",
+  "handle": "ne5083",
+  "body_html": "<br><strong>Item #: </strong>KY96THT05487<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THT05487<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Width Minimum (CWN)</strong></td>\n<td>0.1575″ </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>5″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Width Maximum (CWX)</strong></td>\n<td>0.1969″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Cutting Depth Maximum (CDX)</strong></td>\n<td>0.7874″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Shank Height (H)</strong></td>\n<td>3/4″ </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Cut-Off | Ext. Grooving | </td>\n</tr>\n<tr>\n<td><strong>Shank Width (B)</strong></td>\n<td>3/4″ </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Steel </td>\n</tr>\n<tr>\n<td><strong>Functional Width (WF)</strong></td>\n<td>0.683″ </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>KGDJ </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>5″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Head Length (LH)</strong></td>\n<td>1.4961″ </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>3.5039″ </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:06:23-06:00",
+  "created_at": "2020-06-13T00:19:20-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Turning",
+  "tags": [
+    "Calibration; Layout & Machine Setup Tools",
+    "Groove/Turn & Parting Off"
+  ],
+  "variants": [
+    {
+      "id": 34701352763559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THT05487",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "296.21",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5324149391527,
+      "created_at": "2020-06-13T00:19:20-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143929614503,
+      "created_at": "2025-01-23T22:06:35-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:06:36-06:00",
+      "product_id": 5324149391527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_KGDR_T_JCT_d394_5eb575f6-3063-40c5-a08d-ccd5b5f77284.jpg?v=1737691596",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 296.21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_KGDR_T_JCT_d394_5eb575f6-3063-40c5-a08d-ccd5b5f77284.jpg?v=1737691596",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

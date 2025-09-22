@@ -1,0 +1,96 @@
+{
+  "id": 8444658679896,
+  "title": "Black Beagle Buds iPhone 17 Pro Case",
+  "handle": "black-beagle-buds-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span data-mce-fragment=\"1\">Let the Beagle Buds Phone Case unleash the joy of companionship with every call. Adorned with cheerful beagles, this case is a must-have for dog lovers who want to keep their precious devices safe while showcasing their affection for these lovable hounds. <meta charset=\"utf-8\">📱🌿✨<br><br></span></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span data-mce-fragment=\"1\"></span></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span><br></p>",
+  "published_at": "2025-09-09T15:52:53-04:00",
+  "created_at": "2025-08-08T11:49:03-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Dogs",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Beagle Buds",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184088252504,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17495-IP17P-BLACK-AOD:BEAGLE-BUDS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444658679896,
+      "created_at": "2025-09-03T18:22:56-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184088285272,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17495-IP17P-BLACK-AOD:BEAGLE-BUDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444658679896,
+      "created_at": "2025-09-03T18:22:56-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567200403544,
+      "created_at": "2025-08-08T11:49:03-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:05-04:00",
+      "product_id": 8444658679896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEAGLE-BUDS_IP17P_Black.jpg?v=1754668145",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEAGLE-BUDS_IP17P_Black.jpg?v=1754668145",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444694167640,
+  "title": "Chocolate Brown Teddy Love iPhone 17 Pro Max Case",
+  "handle": "chocolate-brown-teddy-love-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Soft, nostalgic, and oh-so-sweet—<em data-start=\"3998\" data-end=\"4010\">Teddy Love</em> brings childhood warmth to your phone with its cuddly teddy bear pattern. <meta charset=\"utf-8\">🧸💛Whether you’re a fan of cottagecore, kawaii aesthetics, or just love a cozy vibe, this compostable case is a hug in phone form.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:03:21-04:00",
+  "created_at": "2025-08-08T11:51:11-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Teddy Love",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184123117656,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17587-IP17PMAX-CHOBROWN-AOD:TEDDY-LOVE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444694167640,
+      "created_at": "2025-09-03T18:29:32-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184123150424,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17587-IP17PMAX-CHOBROWN-AOD:TEDDY-LOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444694167640,
+      "created_at": "2025-09-03T18:29:32-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567277146200,
+      "created_at": "2025-08-08T11:51:11-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:14-04:00",
+      "product_id": 8444694167640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TEDDY-LOVE_IP17PMAX_ChocolateBrown.jpg?v=1754668274",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683022671960,
+      "created_at": "2025-03-13T08:33:47-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T08:33:49-04:00",
+      "product_id": 8444694167640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP1_60a071d3-9a31-4d1e-9c45-5df20b685662.jpg?v=1741869229",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34683022704728,
+      "created_at": "2025-03-13T08:33:47-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T08:33:49-04:00",
+      "product_id": 8444694167640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP2_eb3c6e02-a291-4dac-b158-7081e0012441.jpg?v=1741869229",
+      "width": 4010,
+      "height": 4010
+    },
+    {
+      "id": 34683022770264,
+      "created_at": "2025-03-13T08:33:47-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T08:33:49-04:00",
+      "product_id": 8444694167640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TeddyLove_PDP3_5a0d4cf2-886c-4524-9a84-564d5f68babb.jpg?v=1741869229",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TEDDY-LOVE_IP17PMAX_ChocolateBrown.jpg?v=1754668274",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 5634267840670,
+  "title": "APlusLift Metal Shims - Fit 3/4\" Anchor Bolts",
+  "handle": "apluslift-metal-shims",
+  "body_html": "<h3>Metal Shims with a size 2 3/4\" L x 2 1/4\"</h3>\n<h3>Thickness: 1mm (0.04\")</h3>\n<h3>Inner distance: 13/16\" (fit 3/4\" anchor bolts)</h3>",
+  "published_at": "2024-01-15T23:30:01-08:00",
+  "created_at": "2020-08-30T17:48:58-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts",
+    "4-Post Lifts and Jacks Parts"
+  ],
+  "variants": [
+    {
+      "id": 41025955004574,
+      "title": "12 Pieces",
+      "option1": "12 Pieces",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.00",
+      "grams": 198,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5634267840670,
+      "created_at": "2021-10-22T19:44:03-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 41025955037342,
+      "title": "24 Pieces",
+      "option1": "24 Pieces",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.00",
+      "grams": 397,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5634267840670,
+      "created_at": "2021-10-22T19:44:03-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31261323362462,
+      "created_at": "2021-10-22T20:05:53-07:00",
+      "position": 1,
+      "updated_at": "2021-10-22T20:05:54-07:00",
+      "product_id": 5634267840670,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-shims.jpg?v=1634958354",
+      "width": 1080,
+      "height": 1440
+    }
+  ],
+  "options": [
+    {
+      "name": "Units",
+      "position": 1,
+      "values": [
+        "12 Pieces",
+        "24 Pieces"
+      ]
+    }
+  ],
+  "price": 22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-shims.jpg?v=1634958354",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

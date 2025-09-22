@@ -1,0 +1,164 @@
+{
+  "id": 8453593792740,
+  "title": "APlusLift Complete Rotating Valves for Tire Changers",
+  "handle": "apluslift-tire-changer-parts-complete-rotating-valve",
+  "body_html": "<h3>One complete rotating valve for APlusLift tire changers.</h3>",
+  "published_at": "2024-07-24T15:57:11-07:00",
+  "created_at": "2024-07-14T18:50:06-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift Official Store",
+  "product_type": "",
+  "tags": [
+    "Tire Machine Parts"
+  ],
+  "variants": [
+    {
+      "id": 45411816997092,
+      "title": "TSA-24",
+      "option1": "TSA-24",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68273501536484,
+        "product_id": 8453593792740,
+        "position": 1,
+        "created_at": "2024-07-16T01:54:27-07:00",
+        "updated_at": "2024-07-16T01:54:29-07:00",
+        "alt": "APlusLift Tire Changer Parts Complete Rotating Valve",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve.jpg?v=1721120069",
+        "variant_ids": [
+          45411816997092,
+          45411817029860
+        ]
+      },
+      "available": true,
+      "price": "57.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 8453593792740,
+      "created_at": "2024-07-14T18:50:06-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45411817029860,
+      "title": "DHM-24",
+      "option1": "DHM-24",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68273501536484,
+        "product_id": 8453593792740,
+        "position": 1,
+        "created_at": "2024-07-16T01:54:27-07:00",
+        "updated_at": "2024-07-16T01:54:29-07:00",
+        "alt": "APlusLift Tire Changer Parts Complete Rotating Valve",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve.jpg?v=1721120069",
+        "variant_ids": [
+          45411816997092,
+          45411817029860
+        ]
+      },
+      "available": true,
+      "price": "57.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 4,
+      "product_id": 8453593792740,
+      "created_at": "2024-07-14T18:50:06-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45411817062628,
+      "title": "THA-28",
+      "option1": "THA-28",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 68273501503716,
+        "product_id": 8453593792740,
+        "position": 2,
+        "created_at": "2024-07-16T01:54:28-07:00",
+        "updated_at": "2024-07-16T01:54:29-07:00",
+        "alt": "APlusLift Tire Changer Parts Complete Rotating Valve - THA-28",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve-for-THA-28.jpg?v=1721120069",
+        "variant_ids": [
+          45411817062628
+        ]
+      },
+      "available": true,
+      "price": "90.00",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 5,
+      "product_id": 8453593792740,
+      "created_at": "2024-07-14T18:50:06-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 68273501536484,
+      "created_at": "2024-07-16T01:54:27-07:00",
+      "position": 1,
+      "updated_at": "2024-07-16T01:54:29-07:00",
+      "product_id": 8453593792740,
+      "variant_ids": [
+        45411816997092,
+        45411817029860
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve.jpg?v=1721120069",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 68273501503716,
+      "created_at": "2024-07-16T01:54:28-07:00",
+      "position": 2,
+      "updated_at": "2024-07-16T01:54:29-07:00",
+      "product_id": 8453593792740,
+      "variant_ids": [
+        45411817062628
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve-for-THA-28.jpg?v=1721120069",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "TSA-24",
+        "DHM-24",
+        "THA-28"
+      ]
+    }
+  ],
+  "price": 57,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/AplusLIft-Tire-Machine-Parts-Complete-Rotating-valve.jpg?v=1721120069",
+  "images_count": 2,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift Official Store",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

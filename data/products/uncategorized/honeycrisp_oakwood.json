@@ -1,0 +1,121 @@
+{
+  "id": 7051707383917,
+  "title": "Honeycrisp Oakwood",
+  "handle": "honeycrisp-oakwood",
+  "body_html": "<p>A sensory kaleidoscope of crisp fall <strong>leaves</strong> are enhanced with woodland <strong>herbs</strong> and redwood <strong>tree bark</strong> over sweet harvest <strong>apple</strong>.</p>",
+  "published_at": "2023-08-14T19:50:37-06:00",
+  "created_at": "2023-08-09T16:19:35-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Anthropologie",
+    "collection:Best Sellers",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_honeycrispoakwood"
+  ],
+  "variants": [
+    {
+      "id": 40702259757165,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HPDH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707383917,
+      "created_at": "2023-08-09T16:19:35-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30489070764141,
+      "created_at": "2023-09-18T10:45:12-06:00",
+      "position": 1,
+      "updated_at": "2023-09-18T10:45:15-06:00",
+      "product_id": 7051707383917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthrohoneycrispoakwood-resized.jpg?v=1695055515",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30424703434861,
+      "created_at": "2023-08-29T20:56:41-06:00",
+      "position": 2,
+      "updated_at": "2023-09-18T10:45:15-06:00",
+      "product_id": 7051707383917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/apples-resized_32db4f95-25e5-407e-acc5-8410be0993a0.jpg?v=1695055515",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350238023789,
+      "created_at": "2023-08-14T19:25:41-06:00",
+      "position": 3,
+      "updated_at": "2023-09-18T10:45:15-06:00",
+      "product_id": 7051707383917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Honeycrisp-Oakwood-Device-V4.jpg?v=1695055515",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30489075089517,
+      "created_at": "2023-09-18T10:47:13-06:00",
+      "position": 4,
+      "updated_at": "2023-09-18T10:47:15-06:00",
+      "product_id": 7051707383917,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthrohoneycrispoakwood-resized-2.jpg?v=1695055635",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthrohoneycrispoakwood-resized.jpg?v=1695055515",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

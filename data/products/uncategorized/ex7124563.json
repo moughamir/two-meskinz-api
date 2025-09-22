@@ -1,0 +1,68 @@
+{
+  "id": 5330224513191,
+  "title": "‎5/16-18 BGF-Z Style Thread Mill",
+  "handle": "ex7124563",
+  "body_html": "<br><strong>Item #: </strong>ER4517060<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>GF422201.5010<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>5/16″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>18 </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>HB </td>\n</tr>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>5/16″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Bright </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| UNC | </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>10 mm </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>14.1 mm </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>74 mm </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>A403324 </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>2 </td>\n</tr>\n<tr>\n<td><strong>Point Angle (SIG)</strong></td>\n<td>140 Degrees </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:35:51-06:00",
+  "created_at": "2020-06-14T11:23:04-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills",
+    "Threaded Inserts"
+  ],
+  "variants": [
+    {
+      "id": 34716138012839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4517060",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "517.27",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5330224513191,
+      "created_at": "2020-06-14T11:23:04-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143254823079,
+      "created_at": "2025-01-23T21:36:00-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:36:01-06:00",
+      "product_id": 5330224513191,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_6aec5bce-02c5-4e04-9749-2c98f589ce84.png?v=1737689761",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 517.27,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_6aec5bce-02c5-4e04-9749-2c98f589ce84.png?v=1737689761",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

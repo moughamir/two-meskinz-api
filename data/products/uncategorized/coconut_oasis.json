@@ -1,0 +1,117 @@
+{
+  "id": 7051705712749,
+  "title": "Coconut Oasis",
+  "handle": "coconut-oasis",
+  "body_html": "<p>An exotic tropical blend of <strong>coconut milk</strong>, wild <strong>hibiscus</strong> petals, <strong>cassis</strong> fruit, and <strong>mandarin</strong> peel.</p>",
+  "published_at": "2023-08-14T19:50:04-06:00",
+  "created_at": "2023-08-09T16:19:16-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Tommy Bahama",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Tommy Bahama",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Relaxing",
+    "Scent Type_Fruity",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_coconutoasis"
+  ],
+  "variants": [
+    {
+      "id": 40702258249837,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "COAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705712749,
+      "created_at": "2023-08-09T16:19:16-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30329780142189,
+      "created_at": "2023-08-09T16:19:33-06:00",
+      "position": 1,
+      "updated_at": "2023-08-09T16:19:35-06:00",
+      "product_id": 7051705712749,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_fe0a2a05-e71c-4c43-a15f-7a68363ab752.png?v=1691619575",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329780076653,
+      "created_at": "2023-08-09T16:19:33-06:00",
+      "position": 2,
+      "updated_at": "2023-08-09T16:19:35-06:00",
+      "product_id": 7051705712749,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_992ea7c8-fa2e-41c7-9f87-f583d71859b7.png?v=1691619575",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345745563757,
+      "created_at": "2023-08-13T22:36:08-06:00",
+      "position": 3,
+      "updated_at": "2023-08-13T22:36:09-06:00",
+      "product_id": 7051705712749,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Tommy-Bahama-Coconut-Oasis-Device-V4.jpg?v=1691987769",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30329780043885,
+      "created_at": "2023-08-09T16:19:33-06:00",
+      "position": 4,
+      "updated_at": "2023-08-13T22:36:09-06:00",
+      "product_id": 7051705712749,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_f5d235cb-03d0-4312-b5d7-1d4b958263f8.png?v=1691987769",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_fe0a2a05-e71c-4c43-a15f-7a68363ab752.png?v=1691619575",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tommy Bahama",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

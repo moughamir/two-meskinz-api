@@ -1,0 +1,113 @@
+{
+  "id": 8356361797720,
+  "title": "If your screen cracks wearing our easy wipe screen protector, we'll pay to fix it.",
+  "handle": "canopy-easy-wipe",
+  "body_html": "<p>Get screen protection in seconds with Canopy Easy Wipe - the same powerful, plant-based liquid glass protection as our original Canopy, now in a convenient, single-use wipe format. It strengthens your screen against scratches and minor impacts with a hydrophobic layer that’s easy to apply, no mess or measuring required.</p>",
+  "published_at": "2025-06-26T09:33:59-04:00",
+  "created_at": "2025-04-24T15:53:15-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Screen Protection",
+  "tags": [
+    "accessory",
+    "canopy easy wipe"
+  ],
+  "variants": [
+    {
+      "id": 42839275241560,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25110-CANOPY-WIPE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "30.00",
+      "grams": 9,
+      "compare_at_price": "30.00",
+      "position": 1,
+      "product_id": 8356361797720,
+      "created_at": "2025-04-24T15:53:15-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35296480493656,
+      "created_at": "2025-06-25T15:21:06-04:00",
+      "position": 1,
+      "updated_at": "2025-06-25T15:21:08-04:00",
+      "product_id": 8356361797720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_1.png?v=1750879268",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35296480362584,
+      "created_at": "2025-06-25T15:21:06-04:00",
+      "position": 2,
+      "updated_at": "2025-06-25T15:21:08-04:00",
+      "product_id": 8356361797720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_2.png?v=1750879268",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35296480460888,
+      "created_at": "2025-06-25T15:21:06-04:00",
+      "position": 3,
+      "updated_at": "2025-06-25T15:21:08-04:00",
+      "product_id": 8356361797720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_3.png?v=1750879268",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35296480395352,
+      "created_at": "2025-06-25T15:21:06-04:00",
+      "position": 4,
+      "updated_at": "2025-06-25T15:21:08-04:00",
+      "product_id": 8356361797720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_4.png?v=1750879268",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35296480428120,
+      "created_at": "2025-06-25T15:21:06-04:00",
+      "position": 5,
+      "updated_at": "2025-06-25T15:21:08-04:00",
+      "product_id": 8356361797720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_5.png?v=1750879268",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canopy_EasyWipe_PDP_1.png?v=1750879268",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Screen Protection",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8452546527399,
+  "title": "Steel Shelving; Shelf Type: Starter Unit; Starter or Add-On: Starter Unit; Adjustment Type: Boltless; Boltless: Yes; Shelf Capacity: 2000; Mount Type: Floor",
+  "handle": "49457617",
+  "body_html": "<br><strong>Item #: </strong>05465851<br><strong>Brand: </strong>Hallowell<br><strong>Model #: </strong>HCR601896-5ME<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Shelf Type</strong>\n</td>\n<td>Starter Unit</td>\n</tr>\n<tr> <td> <strong>Starter or Add-On</strong>\n</td>\n<td>Starter Unit</td>\n</tr>\n<tr> <td> <strong>Adjustment Type</strong>\n</td>\n<td>Boltless</td>\n</tr>\n<tr> <td> <strong>Boltless</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Shelf Capacity</strong>\n</td>\n<td>2000</td>\n</tr>\n<tr> <td> <strong>Mount Type</strong>\n</td>\n<td>Floor</td>\n</tr>\n<tr> <td> <strong>Assembled</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Overall Height</strong>\n</td>\n<td>96 in</td>\n</tr>\n<tr> <td> <strong>Overall Depth</strong>\n</td>\n<td>18</td>\n</tr>\n<tr> <td> <strong>Overall Width</strong>\n</td>\n<td>60</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>(5) Adjustable Shelves</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Ebony</td>\n</tr>\n<tr> <td> <strong>Gauge</strong>\n</td>\n<td>14</td>\n</tr>\n<tr> <td> <strong>Shelving Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Shelf Size</strong>\n</td>\n<td>60 x 18 x 96</td>\n</tr>\n<tr> <td> <strong>Features</strong>\n</td>\n<td>Stationary</td>\n</tr>\n<tr> <td> <strong>Open/Closed</strong>\n</td>\n<td>Open</td>\n</tr>\n<tr> <td> <strong>Rivet Style</strong>\n</td>\n<td>Double Rivet</td>\n</tr>\n<tr> <td> <strong>Shelf Style</strong>\n</td>\n<td>Double Rivet</td>\n</tr>\n<tr> <td> <strong>Storage Direction</strong>\n</td>\n<td>Vertical</td>\n</tr>\n<tr> <td> <strong>Number Of Shelves</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24102004</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:26:46-06:00",
+  "created_at": "2025-01-23T09:26:45-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Hallowell",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 46498031435943,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05465851",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1090.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452546527399,
+      "created_at": "2025-01-23T09:26:45-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242484486311,
+      "created_at": "2025-02-03T21:34:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:34:05-06:00",
+      "product_id": 8452546527399,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0546585-21_91b80b41-c7a0-443a-9645-86fef0d0ea33.jpg?v=1738640045",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1090.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0546585-21_91b80b41-c7a0-443a-9645-86fef0d0ea33.jpg?v=1738640045",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Hallowell",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

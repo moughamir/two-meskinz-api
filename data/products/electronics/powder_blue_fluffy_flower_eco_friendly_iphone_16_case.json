@@ -1,0 +1,109 @@
+{
+  "id": 8381664264280,
+  "title": "Powder Blue Fluffy Flower iPhone 16 Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-16-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-05-21T17:06:50-04:00",
+  "created_at": "2025-05-21T09:52:43-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895732211800,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17249-IP16-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8381664264280,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065439289432,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:45-04:00",
+      "product_id": 8381664264280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16_PowderBlue.jpg?v=1747835565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763233880,
+      "created_at": "2025-05-21T11:28:09-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:28:11-04:00",
+      "product_id": 8381664264280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_75bcdfe3-9001-4a5a-835a-5bd7d0502e3c.jpg?v=1747841291",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763168344,
+      "created_at": "2025-05-21T11:28:09-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:28:10-04:00",
+      "product_id": 8381664264280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_356f77b9-de54-44d4-8dab-6718e6a96912.jpg?v=1747841290",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763201112,
+      "created_at": "2025-05-21T11:28:09-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:28:11-04:00",
+      "product_id": 8381664264280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_911493e7-040f-47d3-b5e2-6f5ac932b0a2.jpg?v=1747841291",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16_PowderBlue.jpg?v=1747835565",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

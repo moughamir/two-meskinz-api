@@ -1,0 +1,115 @@
+{
+  "id": 6806186131658,
+  "title": "Gymshark Workout Logbook - Black/White",
+  "handle": "gymshark-workout-logbook-misc-black-aw24",
+  "body_html": "<p><strong>LOG ABOUT IT</strong></p>\n<p><br>Progress is made one session at a time. Track yours in a workout log that holds space for every aspect of your training. </p>\n<p> </p>\n<p>• Each page has space to log your: warm up &amp; cool down; workout type; weights, sets &amp; reps; cardio time, distance &amp; calories<br>• A5 so it fits in a gym bag and is easy to carry around the gym<br>• Plastic covering to protect it on the gym floor </p>\n<p><br><strong>SIZE</strong><br>• A5<br>• 103 pages</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• Front &amp; back covers: Polypropylene. Pages: FSC paper. Belly band: FSC paper</p>\n<p><br>SKU: I2B1Z-BB3F</p>",
+  "published_at": "2025-01-31T09:43:01-08:00",
+  "created_at": "2024-12-02T07:05:29-08:00",
+  "updated_at": "2025-09-22T08:45:47-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Misc.",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "akeneo_updated_at:1758186881",
+    "all-products",
+    "black-staples",
+    "build-your-wishlist",
+    "category:Misc.",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "lower-bucket",
+    "Mens",
+    "no-returns:2025-06-26T08:00:00_2025-07-07T14:00:00",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Lifting Goods",
+    "seamtype:Accessories",
+    "season:AW24",
+    "segmentation:Lifting",
+    "subcategory:Misc",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39794547425482,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2B1Z-BB3F-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6806186131658,
+      "created_at": "2024-12-02T07:05:29-08:00",
+      "updated_at": "2025-09-22T08:45:47-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28990842896586,
+      "created_at": "2025-02-06T06:06:01-08:00",
+      "position": 1,
+      "updated_at": "2025-02-06T06:06:03-08:00",
+      "product_id": 6806186131658,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/OriginalLogbook100PageGSBlack_GSWhiteGSBlack_GSWhiteI2B1Z-BB3F0148_c6b8e9d1-8edc-459e-9884-c367715cd6d8.jpg?v=1738850763",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28990842863818,
+      "created_at": "2025-02-06T06:06:01-08:00",
+      "position": 2,
+      "updated_at": "2025-02-06T06:06:03-08:00",
+      "product_id": 6806186131658,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/OriginalLogbook100PageGSBlack_GSWhiteGSBlack_GSWhiteI2B1Z-BB3F-0150_a39e48d2-380a-4188-8f5a-973e27288c1e.jpg?v=1738850763",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28990842929354,
+      "created_at": "2025-02-06T06:06:02-08:00",
+      "position": 3,
+      "updated_at": "2025-02-06T06:06:03-08:00",
+      "product_id": 6806186131658,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/OriginalLogbook100PageGSBlack_GSWhiteGSBlack_GSWhiteI2B1Z-BB3F-0149_981fc24c-c8d2-42d4-8233-ff744ad0dc8b.jpg?v=1738850763",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/OriginalLogbook100PageGSBlack_GSWhiteGSBlack_GSWhiteI2B1Z-BB3F0148_c6b8e9d1-8edc-459e-9884-c367715cd6d8.jpg?v=1738850763",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Misc.",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

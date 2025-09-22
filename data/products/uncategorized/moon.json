@@ -1,0 +1,121 @@
+{
+  "id": 7170959900781,
+  "title": "Moon",
+  "handle": "moon",
+  "body_html": "<p>Relaxing, soothing notes of <strong>spicy-floral bergamot</strong>, <strong>violet leaf</strong>, and <strong>eucalyptus blossom</strong> blend with the tranquil aroma of blue lotus and orris to create a peaceful ambiance.</p>",
+  "published_at": "2023-12-13T12:55:39-07:00",
+  "created_at": "2023-12-13T12:47:53-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Unify Co.",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Unify Co.",
+    "CollectionFilter_Well-being",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Fresh",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_moon"
+  ],
+  "variants": [
+    {
+      "id": 40934445973613,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MSVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7170959900781,
+      "created_at": "2023-12-13T12:47:53-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30956874563693,
+      "created_at": "2024-01-02T15:01:38-07:00",
+      "position": 1,
+      "updated_at": "2024-01-02T15:01:46-07:00",
+      "product_id": 7170959900781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/UnifyMoonResized.jpg?v=1704232906",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30956874498157,
+      "created_at": "2024-01-02T15:01:38-07:00",
+      "position": 2,
+      "updated_at": "2024-01-02T15:01:46-07:00",
+      "product_id": 7170959900781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cardamomingredientsresized-2_4a71521b-8c69-423c-a9a7-2aed90a3d813.jpg?v=1704232906",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31269276680301,
+      "created_at": "2024-02-20T11:46:29-07:00",
+      "position": 3,
+      "updated_at": "2024-02-20T11:46:40-07:00",
+      "product_id": 7170959900781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moon-Unify-Prod3-0224.jpg?v=1708454800",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30956874432621,
+      "created_at": "2024-01-02T15:01:38-07:00",
+      "position": 4,
+      "updated_at": "2024-02-20T11:46:40-07:00",
+      "product_id": 7170959900781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/UnifyMoonResized-2.jpg?v=1708454800",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/UnifyMoonResized.jpg?v=1704232906",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Unify Co.",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

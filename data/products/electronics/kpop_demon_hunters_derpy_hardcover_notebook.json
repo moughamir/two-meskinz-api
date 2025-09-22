@@ -1,0 +1,109 @@
+{
+  "id": 8025335398447,
+  "title": "KPop Demon Hunters Derpy Hardcover Notebook",
+  "handle": "kpop-demon-hunters-derpy-hardcover-notebook",
+  "body_html": "<p>Let your creativity run wild with the Derpy Hardcover Notebook, starring the adorably chaotic member of <em>KPop Demon Hunters</em>! Whether you're journaling, sketching, or planning your next Kpop adventure, this notebook has you covered. </p><ul>\n<li>Cover material: UltraHyde hardcover paper</li>\n<li>80 pages of lined, cream-colored paper</li>\n<li>Matching elastic closure and ribbon marker</li>\n<br>\n</ul>",
+  "published_at": "2025-07-25T10:05:12-04:00",
+  "created_at": "2025-07-25T07:51:13-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Notebooks",
+  "tags": [
+    "81498621",
+    "Derpy",
+    "Home and Office",
+    "JournalBook",
+    "KPDH-6-0725",
+    "KPop Demon Hunters",
+    "movie_id- 81498621",
+    "Netflix",
+    "Notebooks",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44119400022063,
+      "title": "Navy / 5.5 in x 8.5 in",
+      "option1": "Navy",
+      "option2": "5.5 in x 8.5 in",
+      "option3": null,
+      "sku": "KPDH-101717-0005-KPDH-6-0725-DERPHN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36607434489903,
+        "product_id": 8025335398447,
+        "position": 1,
+        "created_at": "2025-07-25T10:04:50-04:00",
+        "updated_at": "2025-07-25T10:04:53-04:00",
+        "alt": "KPop Demon Hunters Derpy Hardcover Notebook Navy",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-DERPHN_101717_MF.png?v=1753452293",
+        "variant_ids": [
+          44119400022063
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8025335398447,
+      "created_at": "2025-07-25T07:51:13-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36607434489903,
+      "created_at": "2025-07-25T10:04:50-04:00",
+      "position": 1,
+      "updated_at": "2025-07-25T10:04:53-04:00",
+      "product_id": 8025335398447,
+      "variant_ids": [
+        44119400022063
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-DERPHN_101717_MF.png?v=1753452293",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36607434522671,
+      "created_at": "2025-07-25T10:04:50-04:00",
+      "position": 2,
+      "updated_at": "2025-07-25T10:04:53-04:00",
+      "product_id": 8025335398447,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-DERPHN_101717_MF2.png?v=1753452293",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Navy"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "5.5 in x 8.5 in"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-DERPHN_101717_MF.png?v=1753452293",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Notebooks",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

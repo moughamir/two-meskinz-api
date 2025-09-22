@@ -1,0 +1,102 @@
+{
+  "id": 1566180540504,
+  "title": "Test - Pela Digital Gift Card",
+  "handle": "test-pela-digital-gift-card",
+  "body_html": "<meta charset=\"utf-8\">\n<p>Is someone on your list in the market for a new case but you're not sure which one to pick? </p>\n<p>The Pela Gift Card (available in $10, $25, $50 &amp; $100 amounts) is the perfect present for anyone on your list who:</p>\n<p>- Loves the planet</p>\n<p>- Loves stylish, cool &amp; functional, sustainable products</p>\n<p>- Loves to support companies that give back to environmental initiatives</p>\n<p>- Has a naked phone (and no longer wants to live on the edge!)</p>\n<p>This gift card has a zero-waste footprint since it's digital (another win!) but can be printed out as well. </p>\n<p>Gift Cards are automatically emailed to the email address provided. These emails cannot be personalized so the best advice is to email the gift card to yourself and forward with a personalized message.</p>\n<p>Give the gift of sustainability to your loved ones this holiday season and help Lead The Way to a waste free future for all :)</p>\n<p><strong>Gift Cards are not qualified for any discount codes or special offers and are final sale.</strong></p>",
+  "published_at": "2025-05-08T10:25:48-04:00",
+  "created_at": "2018-11-16T09:56:36-05:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Digital Gift Card",
+  "tags": [
+    "app-discount-exclude",
+    "exclude_rebuy",
+    "exclude_SS"
+  ],
+  "variants": [
+    {
+      "id": 40249786302552,
+      "title": "$10",
+      "option1": "$10",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "10.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 1566180540504,
+      "created_at": "2023-07-31T20:07:08-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 4498058772568,
+      "created_at": "2018-11-16T09:56:42-05:00",
+      "position": 1,
+      "updated_at": "2020-01-16T18:25:07-05:00",
+      "product_id": 1566180540504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Lead-the-Way-Presents-to-the-Planet_grande_93732b27-bf41-475c-b9d2-4db126bd3ad8.gif?v=1579217107",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": 4510158487640,
+      "created_at": "2018-11-21T10:35:04-05:00",
+      "position": 2,
+      "updated_at": "2020-01-16T18:25:07-05:00",
+      "product_id": 1566180540504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/giftcard.gif?v=1579217107",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": 4510158848088,
+      "created_at": "2018-11-21T10:35:11-05:00",
+      "position": 3,
+      "updated_at": "2020-01-16T18:25:07-05:00",
+      "product_id": 1566180540504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/giftcard_1d3a2699-0808-424e-8ab4-9e161ccad3a6.gif?v=1579217107",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": 4510159044696,
+      "created_at": "2018-11-21T10:35:18-05:00",
+      "position": 4,
+      "updated_at": "2020-01-16T18:25:07-05:00",
+      "product_id": 1566180540504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/giftcard_36e3e003-a68d-4258-b74b-442f6d92b2e4.gif?v=1579217107",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Card",
+      "position": 1,
+      "values": [
+        "$10"
+      ]
+    }
+  ],
+  "price": 10,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/Lead-the-Way-Presents-to-the-Planet_grande_93732b27-bf41-475c-b9d2-4db126bd3ad8.gif?v=1579217107",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Digital Gift Card",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

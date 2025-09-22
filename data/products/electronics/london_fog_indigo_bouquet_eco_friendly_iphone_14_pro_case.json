@@ -1,0 +1,112 @@
+{
+  "id": 7536125345880,
+  "title": "London Fog Indigo Bouquet iPhone 14 Pro Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:16:02-05:00",
+  "created_at": "2024-01-15T11:10:00-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949020459096,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16800-IP14P-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536125345880,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723233368,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:00-05:00",
+      "product_id": 7536125345880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP14P_LondonFog.jpg?v=1705335000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088841125976,
+      "created_at": "2024-01-17T10:15:32-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:15:34-05:00",
+      "product_id": 7536125345880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_b9e6f470-fa30-4c0d-bb2f-067d37ccb7c4.png?v=1705504534",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088841093208,
+      "created_at": "2024-01-17T10:15:32-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:15:33-05:00",
+      "product_id": 7536125345880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_78c7d6f6-69e5-4e16-b3b4-91a95947027a.png?v=1705504533",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088841158744,
+      "created_at": "2024-01-17T10:15:32-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:15:34-05:00",
+      "product_id": 7536125345880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_5e8b4e66-0423-40d1-add5-b0bac1082534.png?v=1705504534",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP14P_LondonFog.jpg?v=1705335000",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

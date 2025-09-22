@@ -1,0 +1,87 @@
+{
+  "id": 8021393637423,
+  "title": "Happy Gilmore Go Home Ball Golf Rope Cap",
+  "handle": "happy-gilmore-go-home-ball-golf-rope-cap",
+  "body_html": "<p>Give that ball a stern talking-to with the Go Home Ball Golf Rope Hat. This golf rope hat features the memorable phrase from Happy's intense (and effective) pre-shot routine. It's the perfect accessory for anyone who believes in intimidating the ball into the hole.</p><ul>\n<li>70% cotton, 30% nylon</li>\n<li>Unstructured, 5-panel, front panel lined</li>\n<li>Semi-curved bill with contrasting rope</li>\n<li>Contrasting snapback closure</li>\n<li>One size fits most adults</li>\n</ul>",
+  "published_at": "2025-07-25T14:50:03-04:00",
+  "created_at": "2025-07-23T14:11:15-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "81696722",
+    "Accessories",
+    "Happy Gilmore",
+    "Happy Gilmore 2",
+    "Hat",
+    "Hats",
+    "Netflix",
+    "New",
+    "Shop All",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44062227988527,
+      "title": "Black/white",
+      "option1": "Black/white",
+      "option2": null,
+      "option3": null,
+      "sku": "HG-101837-0001-HG-L-0725-GOHB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "28.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8021393637423,
+      "created_at": "2025-07-23T14:11:15-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36615178387503,
+      "created_at": "2025-07-25T14:42:53-04:00",
+      "position": 1,
+      "updated_at": "2025-07-25T14:42:54-04:00",
+      "product_id": 8021393637423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HG-L-0725-GOHB_101837_FT_MF.jpg?v=1753468974",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36615193722927,
+      "created_at": "2025-07-25T14:43:10-04:00",
+      "position": 2,
+      "updated_at": "2025-07-25T14:43:12-04:00",
+      "product_id": 8021393637423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HG-L-0725-GOHB_101837_LIFE3.jpg?v=1753468992",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black/white"
+      ]
+    }
+  ],
+  "price": 28.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HG-L-0725-GOHB_101837_FT_MF.jpg?v=1753468974",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

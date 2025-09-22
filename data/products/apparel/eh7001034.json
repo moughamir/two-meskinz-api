@@ -1,0 +1,69 @@
+{
+  "id": 5396818296999,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 5809656",
+  "handle": "eh7001034",
+  "body_html": "<br><strong>Item #: </strong>54248554<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>5809656<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>BEHB</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>82</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>IN2540</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Inch)</strong></td>\n<td>7/16</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>BEHB</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>0.9300</td>\n</tr>\n<tr>\n<td><strong>Number Of Cutting Edges</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Parallelogram</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Positive</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; K</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>BEHB82R08 K</td>\n</tr>\n<tr>\n<td><strong>Rake Angle</strong></td>\n<td>20.000</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>BEHB82R08 K IN2540</td>\n</tr>\n<tr>\n<td><strong>Cutter Series Compatibility</strong></td>\n<td>15J1H; 15.1H</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Parallelogram</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>23.6200</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Single or Double Sided Insert</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN; TiAlN</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.4380</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1450</td>\n</tr>\n<tr>\n<td><strong>Multi-Use Tool</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T10:06:45-06:00",
+  "created_at": "2020-06-29T11:32:58-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Cutting Tool Spare Parts",
+    "Drilling",
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 34976117686439,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54248554",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.52",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5396818296999,
+      "created_at": "2020-06-29T11:32:58-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239162400935,
+      "created_at": "2025-02-03T19:22:39-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:22:41-06:00",
+      "product_id": 5396818296999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5424855-21.jpg?v=1738632161",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.52,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5424855-21.jpg?v=1738632161",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

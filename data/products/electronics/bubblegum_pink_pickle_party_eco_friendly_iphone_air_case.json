@@ -1,0 +1,140 @@
+{
+  "id": 8444696166488,
+  "title": "Bubblegum Pink Pickle Party iPhone Air Case",
+  "handle": "bubblegum-pink-pickle-party-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">orks up, pickle lovers—it's time to party! <em data-start=\"82\" data-end=\"96\">Pickle Party</em> is the ultimate case for those who believe that every snack is better brined. With a fun, quirky design of juicy pickles mid-air on silver forks, this case brings the tangy goodness straight to your phone. Bold, playful, and totally unexpected—just like your favorite crunchy treat!<meta charset=\"utf-8\">🥒</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:54:41-04:00",
+  "created_at": "2025-08-08T11:51:16-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Pickles",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pickle Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184109912152,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:PICKLE-PARTY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444696166488,
+      "created_at": "2025-09-03T18:27:30-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184109944920,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:PICKLE-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444696166488,
+      "created_at": "2025-09-03T18:27:30-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567282192472,
+      "created_at": "2025-08-08T11:51:16-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:19-04:00",
+      "product_id": 8444696166488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLE-PARTY_IP17AIR_BubblegumPink.jpg?v=1754668279",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34739241386072,
+      "created_at": "2025-03-24T11:23:04-04:00",
+      "position": 2,
+      "updated_at": "2025-08-15T10:20:23-04:00",
+      "product_id": 8444696166488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Friends_PDP_1x1_01_12497fb8-efdb-45a4-9f71-3d7ea6cff1ab.jpg?v=1755267623",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739241812056,
+      "created_at": "2025-03-24T11:23:16-04:00",
+      "position": 3,
+      "updated_at": "2025-08-15T10:20:23-04:00",
+      "product_id": 8444696166488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Androids_PDP_1x1_03_c0215654-adf5-41d8-b6e7-8f0448722bb2.jpg?v=1755267623",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739241877592,
+      "created_at": "2025-03-24T11:23:16-04:00",
+      "position": 4,
+      "updated_at": "2025-08-15T10:20:23-04:00",
+      "product_id": 8444696166488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_IPGrid_PDP_1x1_05_efbb3437-1b6f-4fd2-807e-c36b690ff4c3.jpg?v=1755267623",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34739241779288,
+      "created_at": "2025-03-24T11:23:16-04:00",
+      "position": 5,
+      "updated_at": "2025-08-15T10:20:23-04:00",
+      "product_id": 8444696166488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Pile_PDP_1x1_02_b98d1944-964e-45cc-83c6-fdf2e1889b31.jpg?v=1755267623",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PICKLE-PARTY_IP17AIR_BubblegumPink.jpg?v=1754668279",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

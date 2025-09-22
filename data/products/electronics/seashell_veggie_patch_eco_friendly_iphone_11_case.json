@@ -1,0 +1,97 @@
+{
+  "id": 8286015488088,
+  "title": "Seashell Veggie Patch iPhone 11 Case",
+  "handle": "seashell-veggie-patch-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Who said veggies can't be fun? <meta charset=\"utf-8\">🥬🥕 Sprout a little joy with the Veggie Patch Phone Case, bursting with playful, garden-grown goodies like crisp asparagus, vibrant garlic, and leafy greens. Every glance at your phone is a friendly reminder to keep things fresh, colorful, and sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:52:01-05:00",
+  "created_at": "2025-02-12T10:14:58-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Veggie Patch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658631221336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:VEGGIE-PATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286015488088,
+      "created_at": "2025-02-12T10:14:58-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505579429976,
+      "created_at": "2025-02-12T10:14:58-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:15:01-05:00",
+      "product_id": 8286015488088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP11_Seashell.jpg?v=1739373301",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34601100804184,
+      "created_at": "2025-02-26T16:13:28-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T16:13:29-05:00",
+      "product_id": 8286015488088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_d067a5ed-af02-4f44-9545-381dc38d1831.jpg?v=1740604409",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601100771416,
+      "created_at": "2025-02-26T16:13:28-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T16:13:29-05:00",
+      "product_id": 8286015488088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Friends_PDP_1x1_01_edc2c0ee-6e88-407d-88fd-11aa2d21086c.jpg?v=1740604409",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VEGGIE-PATCH_IP11_Seashell.jpg?v=1739373301",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 7556235984984,
+  "title": "Bubblegum Pink Cow iPhone 11 Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-11-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:48:44-05:00",
+  "created_at": "2024-02-08T11:08:38-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007435352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16229-IP11-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556235984984,
+      "created_at": "2024-02-08T11:08:38-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177738416216,
+      "created_at": "2024-02-08T11:08:38-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:38-05:00",
+      "product_id": 7556235984984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP11_BubblegumPink.jpg?v=1707408518",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211970654296,
+      "created_at": "2024-02-21T03:07:59-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:08:00-05:00",
+      "product_id": 7556235984984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_4b73edeb-f021-4e27-bf48-445f71155216.jpg?v=1708502880",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211970752600,
+      "created_at": "2024-02-21T03:07:59-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:08:00-05:00",
+      "product_id": 7556235984984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_629265b4-51c2-40f2-ad3c-a03a948aa531.jpg?v=1708502880",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP11_BubblegumPink.jpg?v=1707408518",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

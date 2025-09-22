@@ -1,0 +1,115 @@
+{
+  "id": 7673810583661,
+  "title": "Fresh Sea Salt",
+  "handle": "fresh-sea-salt-copy",
+  "body_html": "<p><strong>Sea salt</strong>, <strong>jasmine</strong>, and <strong>watery</strong> notes mimic the ocean’s breeze for a fragrance that’s marine, floral, and fresh.</p>",
+  "published_at": "2025-08-27T13:28:32-06:00",
+  "created_at": "2025-06-23T09:46:27-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "ILLUME",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:ILLUME",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Relaxing",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_freshseasalt"
+  ],
+  "variants": [
+    {
+      "id": 42612691861613,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FZYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7673810583661,
+      "created_at": "2025-06-23T09:46:28-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34683790131309,
+      "created_at": "2025-07-09T13:36:06-06:00",
+      "position": 1,
+      "updated_at": "2025-07-09T13:36:09-06:00",
+      "product_id": 7673810583661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FreshSeaSalt-Prod1.png?v=1752089769",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34683791605869,
+      "created_at": "2025-07-09T13:36:31-06:00",
+      "position": 2,
+      "updated_at": "2025-07-09T13:36:42-06:00",
+      "product_id": 7673810583661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/salt-RESIZED_efe69996-454e-4639-aeb3-286aee171a16.jpg?v=1752089802",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34683790164077,
+      "created_at": "2025-07-09T13:36:06-06:00",
+      "position": 3,
+      "updated_at": "2025-07-09T13:36:42-06:00",
+      "product_id": 7673810583661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FreshSeaSalt-Prod3.png?v=1752089802",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 34683790295149,
+      "created_at": "2025-07-09T13:36:06-06:00",
+      "position": 4,
+      "updated_at": "2025-07-09T13:36:42-06:00",
+      "product_id": 7673810583661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FreshSeaSalt-Prod4.png?v=1752089802",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FreshSeaSalt-Prod1.png?v=1752089769",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ILLUME",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

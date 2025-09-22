@@ -1,0 +1,52 @@
+{
+  "id": 6806450831562,
+  "title": "Gymshark Strength Jogger - Rich Maroon",
+  "handle": "gymshark-strength-jogger-rich-maroon",
+  "body_html": null,
+  "published_at": "2025-08-12T02:56:31-07:00",
+  "created_at": "2025-08-12T02:56:29-07:00",
+  "updated_at": "2025-09-22T08:45:10-07:00",
+  "vendor": "Gymshark US",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 39796226523338,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "A3C3A-NBZQ-XS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "0.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6806450831562,
+      "created_at": "2025-08-12T02:56:29-07:00",
+      "updated_at": "2025-09-22T08:45:10-07:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark US",
+  "category": "",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

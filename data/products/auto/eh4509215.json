@@ -1,0 +1,68 @@
+{
+  "id": 5396836352167,
+  "title": "7.43 mm Dia. × 0.276″ Shank Dia. × 4.29″ OAL, 6 Flute, Carbide Reamer",
+  "handle": "eh4509215",
+  "body_html": "<br><strong>Item #: </strong>FB5088860007430<br><strong>Brand: </strong>duMont<br><strong>Model #: </strong>88860007430<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>7.43 mm </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>4.29″ </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>3.071″ </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>K15 </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Length (L)</strong></td>\n<td>1.299″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.276″ </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Reamer </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>6 </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:40:26-06:00",
+  "created_at": "2020-06-29T11:36:36-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "duMont",
+  "product_type": "Holemaking",
+  "tags": [
+    "Reaming",
+    "Tool Holder Accessories"
+  ],
+  "variants": [
+    {
+      "id": 34976143736999,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FB5088860007430",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "124.78",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5396836352167,
+      "created_at": "2020-06-29T11:36:36-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143358238887,
+      "created_at": "2025-01-23T21:40:34-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:40:35-06:00",
+      "product_id": 5396836352167,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_high_precision_8600_miniature_reamers_k15_carbide_09bc_6b807ae0-be05-4973-b6ca-dee7ea7b3a03.png?v=1737690035",
+      "width": 265,
+      "height": 265
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 124.78,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ppc_magafor_high_precision_8600_miniature_reamers_k15_carbide_09bc_6b807ae0-be05-4973-b6ca-dee7ea7b3a03.png?v=1737690035",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "duMont",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

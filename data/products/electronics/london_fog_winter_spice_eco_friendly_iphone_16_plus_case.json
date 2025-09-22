@@ -1,0 +1,77 @@
+{
+  "id": 8150539272280,
+  "title": "London Fog Winter Spice iPhone 16 Plus Case",
+  "handle": "london-fog-winter-spice-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get into the holiday spirit all year round with the enchanting Winter Spice Phone Case! Adorned with delightful illustrations of pine cones, vibrant berries, and festive foliage, this case captures the cozy essence of winter's charm. Perfect for those who love the crisp air and warm drinks of the season. Embrace the holiday cheer and let your phone spread the joy of winter wonderlands wherever you go! ❄️📱✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:32:42-04:00",
+  "created_at": "2024-10-07T12:20:34-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Holidays",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Winter Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42315059757144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17360-IP16PLUS-LFOG-AOD:WINTER-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8150539272280,
+      "created_at": "2024-10-07T12:20:34-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33737809330264,
+      "created_at": "2024-10-07T12:20:34-04:00",
+      "position": 1,
+      "updated_at": "2024-10-07T12:20:34-04:00",
+      "product_id": 8150539272280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINTER-SPICE_IP16PLUS_LondonFog.jpg?v=1728318034",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WINTER-SPICE_IP16PLUS_LondonFog.jpg?v=1728318034",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

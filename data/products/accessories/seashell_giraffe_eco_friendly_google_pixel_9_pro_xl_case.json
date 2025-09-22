@@ -1,0 +1,108 @@
+{
+  "id": 8278271066200,
+  "title": "Seashell Giraffe Google Pixel 9 Pro XL Case",
+  "handle": "seashell-giraffe-eco-friendly-google-pixel-9-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\">Stand Tall, Stay Wild! Take your phone on a safari adventure with the Giraffe Phone Case! Inspired by the majestic beauty of the tallest land animal, this design features a bold giraffe print that brings a wild touch to your everyday essentials.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:18:56-05:00",
+  "created_at": "2025-02-04T10:20:44-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Giraffe",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642241224792,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15696-PX9PXL-SEASHELL-AOD:GIRAFFE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278271066200,
+      "created_at": "2025-02-04T10:20:44-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454008037464,
+      "created_at": "2025-02-04T10:20:44-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:20:47-05:00",
+      "product_id": 8278271066200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIRAFFE_PX9PXL_Seashell.jpg?v=1738682447",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572182618200,
+      "created_at": "2025-02-20T17:09:46-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T17:09:48-05:00",
+      "product_id": 8278271066200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_78d83c92-1536-4c0b-9045-3f51e4409e46.jpg?v=1740089388",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572182650968,
+      "created_at": "2025-02-20T17:09:46-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T17:09:48-05:00",
+      "product_id": 8278271066200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_536054f3-6783-45e0-950f-c27021eecf0b.jpg?v=1740089388",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34683696513112,
+      "created_at": "2025-03-13T10:37:52-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:37:54-04:00",
+      "product_id": 8278271066200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Pile_PDP_1x1_02_QuietLuxury.jpg?v=1741876674",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GIRAFFE_PX9PXL_Seashell.jpg?v=1738682447",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

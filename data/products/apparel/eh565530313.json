@@ -1,0 +1,67 @@
+{
+  "id": 7785449619623,
+  "title": "Brand: Mitutoyo / Part #: 1506AB",
+  "handle": "eh565530313",
+  "body_html": "<br><strong>Item #: </strong>90073404<br><strong>Brand: </strong>Mitutoyo<br><strong>Model #: </strong>1506AB<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accuracy (Decimal Inch)</strong>\n</td>\n<td>?.0005</td>\n</tr>\n<tr>\n<td><strong>Back Type</strong></td>\n<td>Flat</td>\n</tr>\n<tr>\n<td><strong>Indicator Style</strong></td>\n<td>Plunger</td>\n</tr>\n<tr>\n<td><strong>Bearing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Minimum Measurement (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Measurement (Decimal Inch)</strong></td>\n<td>0.4000</td>\n</tr>\n<tr>\n<td><strong>Dial Graduation (Decimal Inch)</strong></td>\n<td>0.000500</td>\n</tr>\n<tr>\n<td><strong>Dial Reading</strong></td>\n<td>0-50</td>\n</tr>\n<tr>\n<td><strong>Measuring Force (N)</strong></td>\n<td>1.4</td>\n</tr>\n<tr>\n<td><strong>Base Mount Type</strong></td>\n<td>Vacuum</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>4.0000</td>\n</tr>\n<tr>\n<td><strong>Calibrated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Range Per Revolution (Decimal Inch)</strong></td>\n<td>0.0500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:22:44-06:00",
+  "created_at": "2023-12-28T21:22:44-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "Mitutoyo",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Dimensional Measuring Tools"
+  ],
+  "variants": [
+    {
+      "id": 43703881367719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90073404",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "92.64",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785449619623,
+      "created_at": "2023-12-28T21:22:44-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236951904423,
+      "created_at": "2025-02-03T17:59:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:59:19-06:00",
+      "product_id": 7785449619623,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9007340-21.jpg?v=1738627159",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 92.64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9007340-21.jpg?v=1738627159",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mitutoyo",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

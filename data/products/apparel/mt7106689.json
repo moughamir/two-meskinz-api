@@ -1,0 +1,67 @@
+{
+  "id": 7786452025511,
+  "title": "Brand: PRO-SAFE / Part #: AKPBT01-282",
+  "handle": "mt7106689",
+  "body_html": "<br><strong>Item #: </strong>48008650<br><strong>Brand: </strong>PRO-SAFE<br><strong>Model #: </strong>AKPBT01-282<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Burn Relief</td>\n</tr>\n<tr>\n<td><strong>Form</strong></td>\n<td>Gel</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>4 in x 5.6 in</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Injury Specifc: Burn Treatment</td>\n</tr>\n<tr>\n<td><strong>Contents</strong></td>\n<td>AEROCLEANSE Hand Sanitizer Packet; AEROGLOVE Powderfree Nitrile Gloves; AEROPAD Low Ad. Dressing 2 x 3\"; (2) AEROWIPE Antiseptic Wipes; (5) AEROBURN Burn Gel Packet 3.5g; AEROFORM Conforming Band 2\" x 4.4yds</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:17:26-06:00",
+  "created_at": "2023-12-30T02:17:26-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "PRO-SAFE",
+  "product_type": "Safety",
+  "tags": [
+    "First Aid; Medical & Hydration"
+  ],
+  "variants": [
+    {
+      "id": 43708070559911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48008650",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.75",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786452025511,
+      "created_at": "2023-12-30T02:17:26-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238731534503,
+      "created_at": "2025-02-03T19:02:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:02:04-06:00",
+      "product_id": 7786452025511,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4800865-24.jpg?v=1738630924",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.75,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4800865-24.jpg?v=1738630924",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PRO-SAFE",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

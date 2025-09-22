@@ -1,0 +1,129 @@
+{
+  "id": 8444688662616,
+  "title": "Seashell Spaghetti Splash iPhone 17 Pro Case",
+  "handle": "seashell-spaghetti-splash-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get tangled up in delicious design with the Spaghetti Splash Phone Case! Featuring a playful pattern of golden noodles and juicy red tomatoes, this case is a carb lover’s dream. Whether you’re a spaghetti aficionado or just love bold, foodie-inspired style, it’s the perfect accessory to sauce up your phone.<meta charset=\"utf-8\">🍝🍅</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:33:03-04:00",
+  "created_at": "2025-08-08T11:50:49-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Spaghetti Splash",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184265068632,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:SPAGHETTI-SPLASH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444688662616,
+      "created_at": "2025-09-03T18:53:44-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184265101400,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17501-IP17P-SEASHELL-AOD:SPAGHETTI-SPLASH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444688662616,
+      "created_at": "2025-09-03T18:53:44-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567264170072,
+      "created_at": "2025-08-08T11:50:49-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:51-04:00",
+      "product_id": 8444688662616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTI-SPLASH_IP17P_Seashell.jpg?v=1754668251",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683399045208,
+      "created_at": "2025-03-13T09:20:35-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T09:20:37-04:00",
+      "product_id": 8444688662616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP1_22ec04da-fab5-4617-a92b-5ae1ac102c97.jpg?v=1741872037",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357412986968,
+      "created_at": "2025-01-23T10:15:54-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:15:56-05:00",
+      "product_id": 8444688662616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP3_61a28a71-4b15-4e2a-a4ea-33f91b50fd33.jpg?v=1737645356",
+      "width": 3416,
+      "height": 3416
+    },
+    {
+      "id": 34683399143512,
+      "created_at": "2025-03-13T09:20:35-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T09:20:39-04:00",
+      "product_id": 8444688662616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTISPLASH_PDP2_43b429a2-a65c-4962-a1c2-881839874836.jpg?v=1741872039",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPAGHETTI-SPLASH_IP17P_Seashell.jpg?v=1754668251",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 7363995926616,
+  "title": "Black Cassette iPhone 11 Pro Case",
+  "handle": "black-cassette-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Rewind to the retro era with the Pela Cassette Phone Case! This groovy accessory brings back the nostalgic mixtape days with its classic cassette tape design, complete with vintage labeling and reel-to-reel details. Made for music lovers and retro enthusiasts, this case hits all the right notes of style and protection. Slide this case onto your phone and let it play the soundtrack of your life, one call at a time. Whether you're streaming today's hits or old-school jams, this case is sure to be a conversation starter. 📼🎶📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:02:09-04:00",
+  "created_at": "2023-05-30T14:50:33-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Retrospin",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cassette",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234195746904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16001-IP11P-BLACK-AOD:CASSETTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363995926616,
+      "created_at": "2023-05-30T14:50:33-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275017769048,
+      "created_at": "2023-05-30T14:50:33-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:50:33-04:00",
+      "product_id": 7363995926616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP11P_Black.jpg?v=1685472633",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275848667224,
+      "created_at": "2023-05-31T09:57:56-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T09:57:57-04:00",
+      "product_id": 7363995926616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN2_dd863aa9-1fe1-4860-b413-7ab9c62ac1e7.png?v=1685541477",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275848634456,
+      "created_at": "2023-05-31T09:57:56-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T09:57:57-04:00",
+      "product_id": 7363995926616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_8a8c3805-2014-41f6-ab7f-bc5d87673534.png?v=1685541477",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800418009176,
+      "created_at": "2023-10-03T11:56:00-04:00",
+      "position": 4,
+      "updated_at": "2023-10-03T11:56:02-04:00",
+      "product_id": 7363995926616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_05022_cda04f94-ef4f-4f58-bdfb-e002feea6624.jpg?v=1696348562",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800417976408,
+      "created_at": "2023-10-03T11:56:00-04:00",
+      "position": 5,
+      "updated_at": "2023-10-03T11:56:02-04:00",
+      "product_id": 7363995926616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_04612_d7f54f0d-8085-404e-ba5a-21a41eaf73c1.jpg?v=1696348562",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP11P_Black.jpg?v=1685472633",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

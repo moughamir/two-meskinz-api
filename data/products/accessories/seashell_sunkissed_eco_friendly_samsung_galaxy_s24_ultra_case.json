@@ -1,0 +1,97 @@
+{
+  "id": 8388532437080,
+  "title": "Seashell Sunkissed Samsung Galaxy S24 Ultra Case",
+  "handle": "seashell-sunkissed-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn up the heat with the Sunkissed Phone Case — a sun-soaked sketchbook of beachy bliss! From cocktails and bikinis to crabs, cones, and the perfect pool float, this case is your one-way ticket to vacay vibes. Doodled in sunset tones and salty energy, it's for the ones who chase tan lines and treasure every golden hour. ☀️🍦🩴🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:13:52-04:00",
+  "created_at": "2025-05-30T12:37:27-04:00",
+  "updated_at": "2025-09-22T15:13:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunkissed",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918163087448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13875-S24ULTRA-SEASHELL-AOD:SUNKISSED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388532437080,
+      "created_at": "2025-05-30T12:37:28-04:00",
+      "updated_at": "2025-09-22T15:13:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125629943896,
+      "created_at": "2025-05-30T12:37:27-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:29-04:00",
+      "product_id": 8388532437080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNKISSED_S24ULTRA_Seashell.jpg?v=1748623049",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195831582808,
+      "created_at": "2025-06-09T17:07:25-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:07:25-04:00",
+      "product_id": 8388532437080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/31703c1213bb40b10515caac099cd813_ab54310c-155e-4a38-bec2-4e8bc81310c5.jpg?v=1749503245",
+      "width": 4154,
+      "height": 4154
+    },
+    {
+      "id": 35195832205400,
+      "created_at": "2025-06-09T17:07:27-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:07:27-04:00",
+      "product_id": 8388532437080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4f283a1fd7982e2362adbfd986bb57ee_672159eb-75e5-4584-b73d-0208d50b5472.jpg?v=1749503247",
+      "width": 4481,
+      "height": 4481
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNKISSED_S24ULTRA_Seashell.jpg?v=1748623049",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

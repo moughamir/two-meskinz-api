@@ -1,0 +1,97 @@
+{
+  "id": 8254917017688,
+  "title": "London Fog Equestrian Samsung Galaxy S25 Ultra Case",
+  "handle": "london-fog-equestrian-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up your style with the Equestrian Phone Case by Pela! Featuring charming horse-themed illustrations, this case captures the essence of a day at the stables. Perfect for horse lovers and equestrian enthusiasts, this case is your trusty companion, bringing a touch of playful charm and sustainability to your daily adventures. 🐴<meta charset=\"utf-8\">🍎📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:11:49-05:00",
+  "created_at": "2025-01-15T10:45:00-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Equestrian",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567768277080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13966-S25ULTRA-LFOG-AOD:EQUESTRIAN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254917017688,
+      "created_at": "2025-01-15T10:45:00-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303309414488,
+      "created_at": "2025-01-15T10:45:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:45:02-05:00",
+      "product_id": 8254917017688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_S25ULTRA_LondonFog.jpg?v=1736955902",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678205382744,
+      "created_at": "2025-03-12T14:46:08-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T14:46:11-04:00",
+      "product_id": 8254917017688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-1_0c903c1e-4f22-4dc7-b18d-e248ada29be1.jpg?v=1741805171",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678205284440,
+      "created_at": "2025-03-12T14:46:08-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T14:46:11-04:00",
+      "product_id": 8254917017688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-2_4330a4ec-ad6a-49be-9771-7744972628cc.jpg?v=1741805171",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_S25ULTRA_LondonFog.jpg?v=1736955902",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

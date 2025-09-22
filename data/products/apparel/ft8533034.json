@@ -1,0 +1,67 @@
+{
+  "id": 7785616015527,
+  "title": "Brand: Holemaker Technology / Part #: 308075-0010",
+  "handle": "ft8533034",
+  "body_html": "<br><strong>Item #: </strong>87436564<br><strong>Brand: </strong>Holemaker Technology<br><strong>Model #: </strong>308075-0010<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tap Type</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Thread Size (Inch)</strong></td>\n<td>1/8-27</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>7H</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Plug</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>27</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-35/64</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (Decimal Inch)</strong></td>\n<td>0.0370</td>\n</tr>\n<tr>\n<td><strong>Thread Length (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>11.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:28:27-06:00",
+  "created_at": "2023-12-28T23:28:27-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Holemaker Technology",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43704767348903,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87436564",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "85.76",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785616015527,
+      "created_at": "2023-12-28T23:28:27-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237093265575,
+      "created_at": "2025-02-03T18:04:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:20-06:00",
+      "product_id": 7785616015527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8743656-21_7ff950ed-3e19-4fc4-adc2-482070ea54aa.jpg?v=1738627460",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 85.76,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8743656-21_7ff950ed-3e19-4fc4-adc2-482070ea54aa.jpg?v=1738627460",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Holemaker Technology",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

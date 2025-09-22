@@ -1,0 +1,69 @@
+{
+  "id": 5342597185703,
+  "title": "Brand: Made in USA / Part #: IB-375-N",
+  "handle": "tm1101725",
+  "body_html": "<br><strong>Item #: </strong>05164496<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>IB-375-N<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Nylon</td>\n</tr>\n<tr>\n<td><strong>Clamp Type</strong></td>\n<td>Insulating Bushing, Miniature</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Maximum Bundle Diameter (Inch)</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Cable Diameter</strong></td>\n<td>0.375 in</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Cable Diameter (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Height (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T00:59:18-06:00",
+  "created_at": "2020-06-16T16:30:24-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Coated Abrasives",
+    "Internal Turning",
+    "Wire Management"
+  ],
+  "variants": [
+    {
+      "id": 34753024786599,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05164496",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.39",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5342597185703,
+      "created_at": "2020-06-16T16:30:24-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240012042407,
+      "created_at": "2025-02-03T20:04:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:04:29-06:00",
+      "product_id": 5342597185703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_9da66073-bec4-4802-804b-9dbe70bacd06.png?v=1738634669",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10.39,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_9da66073-bec4-4802-804b-9dbe70bacd06.png?v=1738634669",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

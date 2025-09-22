@@ -1,0 +1,67 @@
+{
+  "id": 7785333325991,
+  "title": "Brand: Value Collection / Part #: BD2239-4-",
+  "handle": "wk315365639",
+  "body_html": "<br><strong>Item #: </strong>66432220<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>BD2239-4-<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Exhaust Clamp Type</strong>\n</td>\n<td>Exhaust Clamp</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:49:44-06:00",
+  "created_at": "2023-12-28T17:49:44-06:00",
+  "updated_at": "2025-09-22T10:55:42-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Tools & Repair Parts"
+  ],
+  "variants": [
+    {
+      "id": 43703634460839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "66432220",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "105.19",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785333325991,
+      "created_at": "2023-12-28T17:49:44-06:00",
+      "updated_at": "2025-09-22T10:55:42-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236723183783,
+      "created_at": "2025-02-03T17:51:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:51:51-06:00",
+      "product_id": 7785333325991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_42aefbbc-f29a-4df7-8ff4-dd9110b92125.png?v=1738626711",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 105.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_42aefbbc-f29a-4df7-8ff4-dd9110b92125.png?v=1738626711",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

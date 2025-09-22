@@ -1,0 +1,108 @@
+{
+  "id": 7555250978904,
+  "title": "Seashell Merry Medley iPhone 11 Pro Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:03:13-05:00",
+  "created_at": "2024-02-06T13:51:33-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035276583000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555250978904,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963140696,
+      "created_at": "2024-02-06T13:51:33-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:33-05:00",
+      "product_id": 7555250978904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP11P_Seashell.jpg?v=1707245493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109925976,
+      "created_at": "2024-02-28T17:20:33-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:20:37-05:00",
+      "product_id": 7555250978904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_32b544a3-8e18-4175-bef2-34eb1f3c3755.jpg?v=1709158837",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109991512,
+      "created_at": "2024-02-28T17:20:33-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:20:37-05:00",
+      "product_id": 7555250978904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_f6570e65-4193-4b1a-8be0-49acc170e527.jpg?v=1709158837",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109958744,
+      "created_at": "2024-02-28T17:20:33-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:20:35-05:00",
+      "product_id": 7555250978904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_83d2336d-cb76-4b32-a196-7a1b8a80cf7b.jpg?v=1709158835",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_IP11P_Seashell.jpg?v=1707245493",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

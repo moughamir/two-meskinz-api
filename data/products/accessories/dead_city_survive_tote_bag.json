@@ -1,0 +1,95 @@
+{
+  "id": 7873588396079,
+  "title": "Dead City Survive Tote Bag",
+  "handle": "dead-city-survive-tote-bag",
+  "body_html": "<p>Introducing the <em>Dead City</em> Survive Tote Bag, a rugged and versatile accessory that combines urban style with practical functionality. This eye-catching tote bag is designed for those who embrace the spirit of resilience and survival amidst the gritty chaos of the city.</p><ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\". </li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim. </li>\n<li>Care: Handwash.</li>\n</ul>",
+  "published_at": "2025-01-16T14:29:15-05:00",
+  "created_at": "2024-11-20T13:55:50-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "accessories",
+    "All-Over Print",
+    "AMC",
+    "Bags",
+    "Dead City",
+    "Promo Eligible Collection",
+    "The Walking Dead",
+    "Tote bag",
+    "Type: Accessories",
+    "Type: Bags",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43415872634927,
+      "title": "Black Handles / 15 in x 15 in",
+      "option1": "Black Handles",
+      "option2": "15 in x 15 in",
+      "option3": null,
+      "sku": "DECT-100645-0001-TWD-SURV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7873588396079,
+      "created_at": "2024-11-20T13:55:50-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35507363643439,
+      "created_at": "2025-02-10T22:29:34-05:00",
+      "position": 1,
+      "updated_at": "2025-02-10T22:29:44-05:00",
+      "product_id": 7873588396079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_28.png?v=1739244584",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35507363676207,
+      "created_at": "2025-02-10T22:29:34-05:00",
+      "position": 2,
+      "updated_at": "2025-02-10T22:29:44-05:00",
+      "product_id": 7873588396079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_27.png?v=1739244584",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Handles"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "15 in x 15 in"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/twd-Photoroom_28.png?v=1739244584",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

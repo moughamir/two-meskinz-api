@@ -1,0 +1,67 @@
+{
+  "id": 7786298015911,
+  "title": "Brand: DIABLO / Part #: DOS250BW3",
+  "handle": "wk505696558",
+  "body_html": "<br><strong>Item #: </strong>98288038<br><strong>Brand: </strong>DIABLO<br><strong>Model #: </strong>DOS250BW3<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Oscillating Blade</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Milwaukee; Makita; Ridgid; AEG; Festool; Metabo; Rockwell; Bosch</td>\n</tr>\n<tr>\n<td><strong>Number of Pieces</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Nail-Embedded Wood</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Bi-Metal</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Width of Cut:2-1/2\"</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T17:29:44-06:00",
+  "created_at": "2023-12-29T17:29:44-06:00",
+  "updated_at": "2025-09-22T10:53:42-05:00",
+  "vendor": "DIABLO",
+  "product_type": "Power Tools",
+  "tags": [
+    "Rotary & Multi-Tools & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43707449442471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98288038",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.02",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786298015911,
+      "created_at": "2023-12-29T17:29:44-06:00",
+      "updated_at": "2025-09-22T10:53:42-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238260756647,
+      "created_at": "2025-02-03T18:42:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:42:11-06:00",
+      "product_id": 7786298015911,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9828803-21.jpg?v=1738629731",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.02,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9828803-21.jpg?v=1738629731",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DIABLO",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

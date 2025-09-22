@@ -1,0 +1,68 @@
+{
+  "id": 5344749846695,
+  "title": "3″ Diameter × 5/8″ Width, Stainless Steel, 0.008″ Crimped Bristle, Wheel Brush",
+  "handle": "rp60t7625314",
+  "body_html": "<br><strong>Item #: </strong>MJ74C3S08C<br><strong>Brand: </strong>Brush Research<br><strong>Model #: </strong>C3S08C<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Diameter</strong></td>\n<td>3″ </td>\n</tr>\n<tr>\n<td><strong>Bristle Type</strong></td>\n<td>Crimped </td>\n</tr>\n<tr>\n<td><strong>Width</strong></td>\n<td>5/8″ </td>\n</tr>\n<tr>\n<td><strong>Trim Length</strong></td>\n<td>1.062″ </td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Stainless Steel </td>\n</tr>\n<tr>\n<td><strong>Maximum RPM</strong></td>\n<td>20,000 </td>\n</tr>\n<tr>\n<td><strong>Arbor Hole</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Thickness</strong></td>\n<td>5/8″ </td>\n</tr>\n<tr>\n<td><strong>Bristle Diameter</strong></td>\n<td>0.008″ </td>\n</tr>\n<tr>\n<td><strong>Standard Pack</strong></td>\n<td>6 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:05:01-06:00",
+  "created_at": "2020-06-17T01:59:56-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Brush Research",
+  "product_type": "Abrasives & Finishing",
+  "tags": [
+    "Lifting Hardware",
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 34758897369255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MJ74C3S08C",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.01",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5344749846695,
+      "created_at": "2020-06-17T01:59:56-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143901630631,
+      "created_at": "2025-01-23T22:05:09-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:05:11-06:00",
+      "product_id": 5344749846695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_c4s08c_cp_8c6f_618e5f26-8a89-4814-8e1b-77a0634a27c1.jpg?v=1737691511",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.01,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_c4s08c_cp_8c6f_618e5f26-8a89-4814-8e1b-77a0634a27c1.jpg?v=1737691511",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brush Research",
+  "category": "Abrasives & Finishing",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

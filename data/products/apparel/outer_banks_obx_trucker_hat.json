@@ -1,0 +1,145 @@
+{
+  "id": 7794621513775,
+  "title": "Outer Banks OBX Trucker Hat",
+  "handle": "outer-banks-obx-trucker-hat",
+  "body_html": "<p>Channel your favorite <em>Outer Banks</em> vibes with the OBX Trucker Hat! Featuring a classic design and the iconic OBX logo, this hat is perfect for fans who want to showcase their love for the show while enjoying a laid-back, beach-ready look. Keep the sun at bay and your style on point as you rep the spirit of the Outer Banks wherever you go.</p>\n<ul>\n<li>Made of: 60% cotton, 40% polyester</li>\n<li>Mid-profile cap with a low-profile embroidery area</li>\n<li>Structured, six-panel cap</li>\n<li>Hard buckram front panels</li>\n<li>Mesh back</li>\n<li>Permacurv® visor, matching undervisor</li>\n<li>Plastic adjustable closure</li>\n</ul>",
+  "published_at": "2024-09-03T13:17:01-04:00",
+  "created_at": "2024-08-06T17:44:44-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6606",
+    "80236318",
+    "Accessories",
+    "Hats",
+    "Outer Banks",
+    "Promo Eligible Collection",
+    "Unisex"
+  ],
+  "variants": [
+    {
+      "id": 43153476386863,
+      "title": "Rustic Orange/ Khaki",
+      "option1": "Rustic Orange/ Khaki",
+      "option2": null,
+      "option3": null,
+      "sku": "OB-100953-0009-OB-OXRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34405958877231,
+        "product_id": 7794621513775,
+        "position": 1,
+        "created_at": "2024-08-06T17:44:44-04:00",
+        "updated_at": "2024-08-06T17:44:44-04:00",
+        "alt": "Netflix Shop Outer Banks Trucker Hat",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_RUSTIC-ORNAGE-KHAKI_MF.jpg?v=1722980684",
+        "variant_ids": [
+          43153476386863
+        ]
+      },
+      "available": true,
+      "price": "26.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7794621513775,
+      "created_at": "2024-08-06T17:44:45-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    },
+    {
+      "id": 43153476354095,
+      "title": "Khaki",
+      "option1": "Khaki",
+      "option2": null,
+      "option3": null,
+      "sku": "OB-100953-0005-OB-OXRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34405958844463,
+        "product_id": 7794621513775,
+        "position": 3,
+        "created_at": "2024-08-06T17:44:44-04:00",
+        "updated_at": "2024-08-06T17:44:44-04:00",
+        "alt": "Netflix Shop Outer Banks Trucker Hat",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_KHAKI_MF.jpg?v=1722980684",
+        "variant_ids": [
+          43153476354095
+        ]
+      },
+      "available": true,
+      "price": "26.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7794621513775,
+      "created_at": "2024-08-06T17:44:44-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34405958877231,
+      "created_at": "2024-08-06T17:44:44-04:00",
+      "position": 1,
+      "updated_at": "2024-08-06T17:44:44-04:00",
+      "product_id": 7794621513775,
+      "variant_ids": [
+        43153476386863
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_RUSTIC-ORNAGE-KHAKI_MF.jpg?v=1722980684",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34405958909999,
+      "created_at": "2024-08-06T17:44:44-04:00",
+      "position": 2,
+      "updated_at": "2024-08-06T17:44:44-04:00",
+      "product_id": 7794621513775,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_RUSTIC-ORANGE-KHAKI_LIFE.jpg?v=1722980684",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34405958844463,
+      "created_at": "2024-08-06T17:44:44-04:00",
+      "position": 3,
+      "updated_at": "2024-08-06T17:44:44-04:00",
+      "product_id": 7794621513775,
+      "variant_ids": [
+        43153476354095
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_KHAKI_MF.jpg?v=1722980684",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Rustic Orange/ Khaki",
+        "Khaki"
+      ]
+    }
+  ],
+  "price": 26.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OB-OXRH_7_100974_RUSTIC-ORNAGE-KHAKI_MF.jpg?v=1722980684",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

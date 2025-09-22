@@ -1,0 +1,98 @@
+{
+  "id": 7365128487000,
+  "title": "Black Elevation iPhone 6/6s/7/8/SE Case",
+  "handle": "black-elevation-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Ascend to style heights with the Pela Elevation Phone Case! Set against the vast expanse of a midnight black sky, the minimalist mountain outline with a surprise splash of rainbow dares you to climb higher. It's a sleek, sustainable safeguard for your phone that stands for more than just protection; it's about reaching peaks in both your adventures and your commitment to the planet. Every call or text becomes part of a journey, with this case as your daily reminder to rise above and chase those horizons. It's for the explorers at heart who carry the summit's spirit in their pocket. 🏔️🌈✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-16T09:25:51-04:00",
+  "created_at": "2023-06-13T13:13:27-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Elevation",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40237090930776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:PL-IP7-BLACK-AOD:ELEVATION",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7365128487000,
+      "created_at": "2023-06-13T13:13:27-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30287699411032,
+      "created_at": "2023-06-13T13:13:27-04:00",
+      "position": 1,
+      "updated_at": "2023-06-13T13:13:27-04:00",
+      "product_id": 7365128487000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ELEVATION_IP7_Black.jpg?v=1686676407",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287714386008,
+      "created_at": "2023-06-13T14:09:23-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:09:25-04:00",
+      "product_id": 7365128487000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_f838dc9f-d1d9-489b-8e4d-4049ad7da5e3.png?v=1686679765",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287714353240,
+      "created_at": "2023-06-13T14:09:23-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:09:24-04:00",
+      "product_id": 7365128487000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE3_2_861d720d-2b77-4ffc-b3a2-fae42be121a7.png?v=1686679764",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/ELEVATION_IP7_Black.jpg?v=1686676407",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

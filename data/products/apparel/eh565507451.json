@@ -1,0 +1,67 @@
+{
+  "id": 7786111959207,
+  "title": "Brand: Craftsman / Part #: CMMT99258",
+  "handle": "eh565507451",
+  "body_html": "<br><strong>Item #: </strong>23178189<br><strong>Brand: </strong>Craftsman<br><strong>Model #: </strong>CMMT99258<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Measurement Type</strong>\n</td>\n<td>Inch; Metric</td>\n</tr>\n<tr>\n<td><strong>Maximum Size (Inch)</strong></td>\n<td>9/32</td>\n</tr>\n<tr>\n<td><strong>Maximum Size (Torx)</strong></td>\n<td>E16</td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>External Torx; Socket</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>1/4 Drive Sizes</strong></td>\n<td>E6; E7; E8; T20; T25; T15</td>\n</tr>\n<tr>\n<td><strong>3/8 Drive Sizes</strong></td>\n<td>T30; T40; 10 to 19mm; T45; E10; E12; T27; E14; E16; T50</td>\n</tr>\n<tr>\n<td><strong>Contents</strong></td>\n<td>3/8-in. Drive Slotted Bit Sockets - 7/32-in. , 3/8-in. , 9/32-in; 1/4-in. Drive Torx Bit Sockets - T15, T20, T25; 3/8-in. Drive Phillips Bit Sockets - #1, #2, #3; 3/8-in. Drive Torx Bit Sockets - T27, T30, T40, T45, T47, T50; 3/8-in. Drive Hex Bit Sockets - 10mm, 3/8-in; 1/4-in. Drive External Torx Bit Sockets - E6, E7, E8; 3/8-in. Drive Size Adapter - 1/4-in.; 3/8-in. Drive External Torx Bit Sockets - E10, E12, E14, E16</td>\n</tr>\n<tr>\n<td><strong>Number Of Points</strong></td>\n<td>12; 6</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Full-Polished</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:09:10-06:00",
+  "created_at": "2023-12-29T10:09:10-06:00",
+  "updated_at": "2025-09-22T10:47:23-05:00",
+  "vendor": "Craftsman",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43706982989991,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "23178189",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.20",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786111959207,
+      "created_at": "2023-12-29T10:09:10-06:00",
+      "updated_at": "2025-09-22T10:47:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237846864039,
+      "created_at": "2025-02-03T18:27:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:27:07-06:00",
+      "product_id": 7786111959207,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2317818-21.jpg?v=1738628827",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.2,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2317818-21.jpg?v=1738628827",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Craftsman",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

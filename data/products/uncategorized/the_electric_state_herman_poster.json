@@ -1,0 +1,100 @@
+{
+  "id": 7942885900335,
+  "title": "The Electric State Herman Poster",
+  "handle": "the-electric-state-herman-poster",
+  "body_html": "<p>Bring the world of <em>The Electric State</em> to your walls with the Herman Wall Poster! Featuring the mysterious and captivating character Herman, this poster captures the futuristic and dystopian atmosphere of the series. Printed on high-quality material for vibrant color and long-lasting durability, it's the perfect addition to any fan's collection. Whether you're reimagining the electric state or simply showcasing your love for the story, this poster is sure to make a statement.</p>\n<p><br></p>\n<ul>\n<li>Dimensions: 12x18</li>\n<li>10 mil (0.25 mm) thick</li>\n<li>Paper weight: 7.67 oz/y² (260 g/m²)</li>\n<li>Slightly glossy</li>\n<li>Fingerprint resistant</li>\n<li>Blank product sourced from Japan</li>\n</ul>",
+  "published_at": "2025-03-14T13:45:00-04:00",
+  "created_at": "2025-03-14T12:18:45-04:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Posters",
+  "tags": [
+    "81601562",
+    "Home  Office",
+    "new",
+    "Posters",
+    "Premium Poster",
+    "The Electric State",
+    "unisex",
+    "Wall Art"
+  ],
+  "variants": [
+    {
+      "id": 43664751362095,
+      "title": "12 in x 18 in",
+      "option1": "12 in x 18 in",
+      "option2": null,
+      "option3": null,
+      "sku": "ES-100850-0006-ES-HNMN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35714181464111,
+        "product_id": 7942885900335,
+        "position": 1,
+        "created_at": "2025-03-14T12:18:45-04:00",
+        "updated_at": "2025-03-14T12:18:45-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-HNMN_59_100850_MF.jpg?v=1741969125",
+        "variant_ids": [
+          43664751362095
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7942885900335,
+      "created_at": "2025-03-14T12:18:45-04:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35714181464111,
+      "created_at": "2025-03-14T12:18:45-04:00",
+      "position": 1,
+      "updated_at": "2025-03-14T12:18:45-04:00",
+      "product_id": 7942885900335,
+      "variant_ids": [
+        43664751362095
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-HNMN_59_100850_MF.jpg?v=1741969125",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35714181496879,
+      "created_at": "2025-03-14T12:18:45-04:00",
+      "position": 2,
+      "updated_at": "2025-03-14T12:18:45-04:00",
+      "product_id": 7942885900335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-HNMN_59_100850_LIFE.jpg?v=1741969125",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "12 in x 18 in"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-HNMN_59_100850_MF.jpg?v=1741969125",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Posters",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

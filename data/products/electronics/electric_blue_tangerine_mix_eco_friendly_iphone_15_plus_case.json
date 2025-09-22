@@ -1,0 +1,109 @@
+{
+  "id": 8335119024216,
+  "title": "Electric Blue Tangerine Mix iPhone 15 Plus Case",
+  "handle": "electric-blue-tangerine-mix-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a party with the Tangerine Mix Phone Case! With wavy lines, checkerboard patterns, and zesty swirls in bold blues and juicy orange, this design is serving maximalist magic. It's retro, it's modern, it’s a whole vibe—and it’s here to keep your phone safe while stealing the spotlight. 🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:11:48-04:00",
+  "created_at": "2025-04-01T11:42:20-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tangerine Mix",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788478681176,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17196-IP15PLUS-ELEBLUE-AOD:TANGERINE-MIX",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335119024216,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775483547736,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:21-04:00",
+      "product_id": 8335119024216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP15PLUS_ElectricBlue.jpg?v=1743522141",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892671877208,
+      "created_at": "2025-04-23T10:08:11-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:08:16-04:00",
+      "product_id": 8335119024216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_e33433a9-d57c-487b-a7e5-c87e2c636495.jpg?v=1745417296",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892671909976,
+      "created_at": "2025-04-23T10:08:11-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:08:16-04:00",
+      "product_id": 8335119024216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_5cf346ce-f1b7-4315-a38c-e7f82004452c.jpg?v=1745417296",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892671844440,
+      "created_at": "2025-04-23T10:08:11-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:08:16-04:00",
+      "product_id": 8335119024216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_3b9a72bd-367a-4236-815f-0e9a02928953.jpg?v=1745417296",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP15PLUS_ElectricBlue.jpg?v=1743522141",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

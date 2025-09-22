@@ -1,0 +1,108 @@
+{
+  "id": 8142178287704,
+  "title": "Seashell Forest Gems iPhone XR Case",
+  "handle": "seashell-forest-gems-eco-friendly-iphone-xr-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:47:05-04:00",
+  "created_at": "2024-09-25T12:26:19-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294275670104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142178287704,
+      "created_at": "2024-09-25T12:26:19-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677679296600,
+      "created_at": "2024-09-25T12:26:19-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:19-04:00",
+      "product_id": 8142178287704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IPXR_Seashell.jpg?v=1727281579",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749437120600,
+      "created_at": "2024-10-09T17:29:51-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:29:53-04:00",
+      "product_id": 8142178287704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_b6b4bc13-dbd4-4aad-8f72-a9d6056d0c47.jpg?v=1728509393",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749437087832,
+      "created_at": "2024-10-09T17:29:51-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:29:53-04:00",
+      "product_id": 8142178287704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_9dfd56b6-5544-4067-abd4-47514e3240e7.jpg?v=1728509393",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749437153368,
+      "created_at": "2024-10-09T17:29:51-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:29:53-04:00",
+      "product_id": 8142178287704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_878f1bda-cb37-4f78-9f5f-5e662c80f440.jpg?v=1728509393",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IPXR_Seashell.jpg?v=1727281579",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

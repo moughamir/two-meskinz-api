@@ -1,0 +1,108 @@
+{
+  "id": 8259873112152,
+  "title": "Bubblegum Pink Swan Garden Samsung Galaxy S25 Case",
+  "handle": "bubblegum-pink-swan-garden-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Float into romance with the Swan Garden Phone Case, part of our dreamy Amour Collection. Featuring elegant swans tied with dainty bows and surrounded by delicate blossoms, this case is pure fairy-tale magic. <meta charset=\"utf-8\">🦢💗</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:47:56-05:00",
+  "created_at": "2025-01-20T13:45:52-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Swan Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42579113738328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13903-S25-BUBPINK-AOD:SWAN-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8259873112152,
+      "created_at": "2025-01-20T13:45:52-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34336473088088,
+      "created_at": "2025-01-20T13:45:52-05:00",
+      "position": 1,
+      "updated_at": "2025-01-20T13:45:54-05:00",
+      "product_id": 8259873112152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_S25_BubblegumPink.jpg?v=1737398754",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34683520254040,
+      "created_at": "2025-03-13T10:02:15-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T10:02:17-04:00",
+      "product_id": 8259873112152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP1_7af5f63d-1bc7-449c-aeb1-4c1072cf2b24.jpg?v=1741874537",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683520286808,
+      "created_at": "2025-03-13T10:02:16-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T10:02:17-04:00",
+      "product_id": 8259873112152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP2_09f9831a-5096-45ed-806b-bfed7ad2dde1.jpg?v=1741874537",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34683520319576,
+      "created_at": "2025-03-13T10:02:16-04:00",
+      "position": 4,
+      "updated_at": "2025-03-13T10:02:17-04:00",
+      "product_id": 8259873112152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWANGARDEN_PDP3_7acc75a0-dbfc-4c2a-997c-4ec26544e23b.jpg?v=1741874537",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWAN-GARDEN_S25_BubblegumPink.jpg?v=1737398754",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

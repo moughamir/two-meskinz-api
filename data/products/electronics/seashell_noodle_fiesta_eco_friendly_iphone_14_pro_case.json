@@ -1,0 +1,98 @@
+{
+  "id": 8243496976472,
+  "title": "Seashell Noodle Fiesta iPhone 14 Pro Case",
+  "handle": "seashell-noodle-fiesta-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to celebrate your love for carbs with the Noodle Fiesta Phone Case! Featuring a vibrant array of pasta shapes—bowties, macaroni, rigatoni, and more—this design is a feast of fun and flavor. Perfect for foodies and pasta enthusiasts alike, it’s a case that brings the joy of your favorite noodles to your everyday style. <meta charset=\"utf-8\">🍝🎉</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:03:14-05:00",
+  "created_at": "2025-01-08T12:41:08-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Noodle Fiesta",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541141393496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16801-IP14P-SEASHELL-AOD:NOODLE-FIESTA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243496976472,
+      "created_at": "2025-01-08T12:41:08-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242774270040,
+      "created_at": "2025-01-08T12:41:08-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:09-05:00",
+      "product_id": 8243496976472,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_IP14P_Seashell.jpg?v=1736358069",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357486583896,
+      "created_at": "2025-01-23T11:29:21-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T11:29:23-05:00",
+      "product_id": 8243496976472,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP1_4d4d57ae-877c-4588-853b-5c9a3a28e58b.jpg?v=1737649763",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357486551128,
+      "created_at": "2025-01-23T11:29:21-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T11:29:22-05:00",
+      "product_id": 8243496976472,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLEFIESTA_PDP2_690036d2-ad2d-4dff-bb03-198461c363b3.jpg?v=1737649762",
+      "width": 3218,
+      "height": 3218
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLE-FIESTA_IP14P_Seashell.jpg?v=1736358069",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

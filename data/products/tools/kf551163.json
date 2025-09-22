@@ -1,0 +1,68 @@
+{
+  "id": 5323968151719,
+  "title": "TENDO SLIM SK40, 6 mm × 120 mm Hydraulic Chuck",
+  "handle": "kf551163",
+  "body_html": "<br><strong>Item #: </strong>HF801378676<br><strong>Brand: </strong>SCHUNK<br><strong>Model #: </strong>1378676<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>SK40 </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>SK </td>\n</tr>\n<tr>\n<td><strong>Body Length (LB)</strong></td>\n<td>101 mm </td>\n</tr>\n<tr>\n<td><strong>Shank Size (SS)</strong></td>\n<td>40 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Workpiece Side (DCONWS)</strong></td>\n<td>6 mm </td>\n</tr>\n<tr>\n<td><strong>Nose Diameter</strong></td>\n<td>21 mm </td>\n</tr>\n<tr>\n<td><strong>Body Diameter (BD)</strong></td>\n<td>27 mm </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Hydraulic Chuck </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>120 mm </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:19:26-06:00",
+  "created_at": "2020-06-12T23:27:53-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "SCHUNK",
+  "product_type": "Tooling Systems",
+  "tags": [
+    "Marking Tools - Chisels/Punches/Stamps & Fluids",
+    "Tool Holders"
+  ],
+  "variants": [
+    {
+      "id": 34700937363623,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HF801378676",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "703.62",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5323968151719,
+      "created_at": "2020-06-12T23:27:53-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144193921191,
+      "created_at": "2025-01-23T22:19:35-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:19:36-06:00",
+      "product_id": 5323968151719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_ae03ff21-f92b-4b82-9020-b5ed8fb26534.png?v=1737692376",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 703.62,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_ae03ff21-f92b-4b82-9020-b5ed8fb26534.png?v=1737692376",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SCHUNK",
+  "category": "Tooling Systems",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

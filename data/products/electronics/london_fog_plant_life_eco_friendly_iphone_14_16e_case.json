@@ -1,0 +1,76 @@
+{
+  "id": 7364845863000,
+  "title": "London Fog Plant Life iPhone 14/16e Case",
+  "handle": "london-fog-plant-life-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Embrace your love for greenery with the Plant Life Phone Case! 🌿📱 This delightful case is adorned with a charming assortment of potted plants, each adding a touch of natural beauty to your phone. Its earthy tones and intricate designs bring a serene, botanical vibe to your everyday tech. Protect your phone while celebrating your passion for all things green with this adorable Plant Life Phone Case – a mini garden you can carry with you everywhere! 🌱🌼🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-07T14:36:32-04:00",
+  "created_at": "2023-06-07T14:36:29-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Botanics",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Plant Life",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236089671768,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16735-IP14-LFOG-AOD:PLANT-LIFE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364845863000,
+      "created_at": "2023-06-07T14:36:29-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30284162302040,
+      "created_at": "2023-06-07T14:36:29-04:00",
+      "position": 1,
+      "updated_at": "2023-06-07T14:36:29-04:00",
+      "product_id": 7364845863000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PLANT-LIFE_IP14_LondonFog.jpg?v=1686162989",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PLANT-LIFE_IP14_LondonFog.jpg?v=1686162989",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

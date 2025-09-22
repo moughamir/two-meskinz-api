@@ -1,0 +1,67 @@
+{
+  "id": 8452648796327,
+  "title": "MIG Flux Core Welding Wire: 0.063\" Dia, Steel Alloy",
+  "handle": "68295146",
+  "body_html": "<br><strong>Item #: </strong>59751792<br><strong>Brand: </strong>Lincoln Electric<br><strong>Model #: </strong>ED031887<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Wire Type</strong>\n</td>\n<td>Flux Core</td>\n</tr>\n<tr> <td> <strong>Wire Diameter (Decimal Inch)</strong>\n</td>\n<td>0.0630</td>\n</tr>\n<tr> <td> <strong>Tensile Strength</strong>\n</td>\n<td>480</td>\n</tr>\n<tr> <td> <strong>Wire Material</strong>\n</td>\n<td>Steel Alloy</td>\n</tr>\n<tr> <td> <strong>Container Type</strong>\n</td>\n<td>Spool</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23271800</td>\n</tr>\n<tr> <td> <strong>Wire Type</strong>\n</td>\n<td>Flux Core</td>\n</tr>\n<tr> <td> <strong>Wire Diameter (Decimal Inch)</strong>\n</td>\n<td>0.0630</td>\n</tr>\n<tr> <td> <strong>Tensile Strength</strong>\n</td>\n<td>480</td>\n</tr>\n<tr> <td> <strong>Wire Material</strong>\n</td>\n<td>Steel Alloy</td>\n</tr>\n<tr> <td> <strong>Container Type</strong>\n</td>\n<td>Spool</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23271800</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>59751792</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>ED031887</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:16:54-06:00",
+  "created_at": "2025-01-23T13:16:52-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Lincoln Electric",
+  "product_type": "Welding & Soldering",
+  "tags": [
+    "Welders & Welding Equipment"
+  ],
+  "variants": [
+    {
+      "id": 46498386870439,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "59751792",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "7.98",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452648796327,
+      "created_at": "2025-01-23T13:16:52-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38247654228135,
+      "created_at": "2025-02-04T00:21:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:21:33-06:00",
+      "product_id": 8452648796327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5975179-21.jpg?v=1738650093",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 7.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5975179-21.jpg?v=1738650093",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lincoln Electric",
+  "category": "Welding & Soldering",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

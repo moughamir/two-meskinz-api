@@ -1,0 +1,94 @@
+{
+  "id": 7420561653848,
+  "title": "Seashell iPhone 13 Pro Max Case",
+  "handle": "seashell-iphone-13-pro-max-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T11:01:44-04:00",
+  "created_at": "2023-09-14T11:11:48-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "Classic",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40265569632344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16831-IP13PMAX-SEASHELL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7420561653848,
+      "created_at": "2023-09-14T11:11:48-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31781462016088,
+      "created_at": "2023-09-28T11:39:07-04:00",
+      "position": 1,
+      "updated_at": "2023-09-28T11:39:09-04:00",
+      "product_id": 7420561653848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_SEASHELL_BACK.jpg?v=1695915549",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781461983320,
+      "created_at": "2023-09-28T11:39:07-04:00",
+      "position": 2,
+      "updated_at": "2023-09-28T11:39:08-04:00",
+      "product_id": 7420561653848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_SEASHELL_BACK45L.jpg?v=1695915548",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781461950552,
+      "created_at": "2023-09-28T11:39:07-04:00",
+      "position": 3,
+      "updated_at": "2023-09-28T11:39:08-04:00",
+      "product_id": 7420561653848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_SEASHELL_BACK45R.jpg?v=1695915548",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_PRO_MAX_SEASHELL_BACK.jpg?v=1695915549",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

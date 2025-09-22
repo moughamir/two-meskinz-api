@@ -1,0 +1,67 @@
+{
+  "id": 8453214470311,
+  "title": "‎M 56X4-6HX ROBUST 2X-VA",
+  "handle": "kp6043515",
+  "body_html": "<br><strong>Item #: </strong>ER4514404<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>C0803001.0662<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>M56 </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Modified Bottoming Tap </td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (TP)</strong></td>\n<td>4 mm </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>‎2P-3P </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>NE2 </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>250 mm </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>40 mm </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Cast Iron | </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSSE </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>803001 </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| 6HX | </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Through Hole | Blind Hole </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:32:07-06:00",
+  "created_at": "2025-01-23T21:32:05-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 46499863330983,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4514404",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "3087.19",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453214470311,
+      "created_at": "2025-01-23T21:32:05-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143173918887,
+      "created_at": "2025-01-23T21:32:13-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:32:15-06:00",
+      "product_id": 8453214470311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_60c2566e-bd55-42fb-abbc-cc010caf906a.png?v=1737689535",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 3087.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_60c2566e-bd55-42fb-abbc-cc010caf906a.png?v=1737689535",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

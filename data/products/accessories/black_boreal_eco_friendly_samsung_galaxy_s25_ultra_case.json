@@ -1,0 +1,97 @@
+{
+  "id": 8254961844312,
+  "title": "Black Boreal Samsung Galaxy S25 Ultra Case",
+  "handle": "black-boreal-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Embrace the enchanting beauty of the night with the Boreal Phone Case! 🌌📱 Featuring a breathtaking view of a majestic mountain peak under a starlit sky, this case transports you to the serene boreal forests with every glance. Perfect for adventurers and dreamers alike, it combines rugged protection with a touch of wilderness magic. Let your phone shine with the allure of the great outdoors, capturing the essence of the night sky and the tranquil forest below. Elevate your style and wanderlust with the Boreal Phone Case! 🌲🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:26:13-05:00",
+  "created_at": "2025-01-15T11:45:07-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Landscapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Boreal",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567878377560,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13960-S25ULTRA-BLACK-AOD:BOREAL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254961844312,
+      "created_at": "2025-01-15T11:45:07-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303575064664,
+      "created_at": "2025-01-15T11:45:07-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:10-05:00",
+      "product_id": 8254961844312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOREAL_S25ULTRA_Black.jpg?v=1736959510",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354890506328,
+      "created_at": "2025-01-22T16:32:55-05:00",
+      "position": 2,
+      "updated_at": "2025-01-22T16:32:57-05:00",
+      "product_id": 8254961844312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_PDP4_c07ea2a5-1240-4a5f-ae90-60f25e76f21b.jpg?v=1737581577",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34678324166744,
+      "created_at": "2025-03-12T15:06:03-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T15:06:04-04:00",
+      "product_id": 8254961844312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINLAND1_8d87d49f-224f-454f-9704-021c6b890155.jpg?v=1741806364",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOREAL_S25ULTRA_Black.jpg?v=1736959510",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

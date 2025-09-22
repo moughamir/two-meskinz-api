@@ -1,0 +1,110 @@
+{
+  "id": 8142178877528,
+  "title": "Seashell Forest Gems iPhone 15 Case",
+  "handle": "seashell-forest-gems-eco-friendly-iphone-15-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:47:00-04:00",
+  "created_at": "2024-09-25T12:26:22-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294276391000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142178877528,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677680115800,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:22-04:00",
+      "product_id": 8142178877528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP15_Seashell.jpg?v=1727281582",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749432565848,
+      "created_at": "2024-10-09T17:28:10-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:28:12-04:00",
+      "product_id": 8142178877528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_119f6f34-2641-48e8-ba3c-5458f37db350.jpg?v=1728509292",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749432533080,
+      "created_at": "2024-10-09T17:28:10-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:28:11-04:00",
+      "product_id": 8142178877528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_e3699607-9c84-40d7-8786-6a13e9d616d5.jpg?v=1728509291",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749432598616,
+      "created_at": "2024-10-09T17:28:10-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:28:12-04:00",
+      "product_id": 8142178877528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_c3a8f1b0-ddc8-4f56-88a8-f5784f018cf3.jpg?v=1728509292",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP15_Seashell.jpg?v=1727281582",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

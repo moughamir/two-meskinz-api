@@ -1,0 +1,119 @@
+{
+  "id": 7051708203117,
+  "title": "Lemon Sage",
+  "handle": "lemon-sage",
+  "body_html": "<p>An energizing and bright blend of fresh <strong>ozonic accord</strong> and pure <strong>lemon zest</strong> with a subtle hint of <strong>sage</strong>.</p>",
+  "published_at": "2023-08-14T19:50:52-06:00",
+  "created_at": "2023-08-09T16:19:43-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "K. Hall Designs",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:K. Hall Designs",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_lemonsage"
+  ],
+  "variants": [
+    {
+      "id": 40702260478061,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LNSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051708203117,
+      "created_at": "2023-08-09T16:19:43-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977491042413,
+      "created_at": "2024-01-07T19:31:18-07:00",
+      "position": 1,
+      "updated_at": "2024-01-18T11:02:00-07:00",
+      "product_id": 7051708203117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/k-hall-lemon-sage-resized.jpg?v=1705600920",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977490911341,
+      "created_at": "2024-01-07T19:31:18-07:00",
+      "position": 2,
+      "updated_at": "2024-01-18T11:02:00-07:00",
+      "product_id": 7051708203117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lemonresized_a07a084b-768d-46b8-8b08-dc123e2e4e30.jpg?v=1705600920",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977491009645,
+      "created_at": "2024-01-07T19:31:18-07:00",
+      "position": 3,
+      "updated_at": "2024-01-18T11:08:25-07:00",
+      "product_id": 7051708203117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/K-Hall-Designs-Lemon-Sage-Device-V4.jpg?v=1705601305",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977490976877,
+      "created_at": "2024-01-07T19:31:18-07:00",
+      "position": 4,
+      "updated_at": "2024-01-18T11:08:25-07:00",
+      "product_id": 7051708203117,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/khalllemonsage-resizedd-3.jpg?v=1705601305",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/k-hall-lemon-sage-resized.jpg?v=1705600920",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "K. Hall Designs",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

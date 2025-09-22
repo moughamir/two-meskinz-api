@@ -1,0 +1,52 @@
+{
+  "id": 8453465407655,
+  "title": "Chicago® Grip for Bare Wire 0.31 to 0.53″",
+  "handle": "kp6043690",
+  "body_html": null,
+  "published_at": "2025-01-24T07:19:16-06:00",
+  "created_at": "2025-01-24T07:19:15-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500880810151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6043690",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "358.26",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453465407655,
+      "created_at": "2025-01-24T07:19:15-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 358.26,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

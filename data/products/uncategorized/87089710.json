@@ -1,0 +1,68 @@
+{
+  "id": 5279882870951,
+  "title": "Sleeve Bearings; Bearing Type: Sleeve; Outside Diameter (Inch): 3-15/16; Outside Diameter (Decimal Inch - 4 Decimals): 3.9375; Inside Diameter (Inch): 3-3/4; Inside Diameter (Decimal Inch): 3.7500",
+  "handle": "87089710",
+  "body_html": "<br><strong>Item #: </strong>77002798<br><strong>Brand: </strong>USA Industrials<br><strong>Model #: </strong>ZUSAB-PB-994<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Bearing Type</strong>\n</td>\n<td>Sleeve</td>\n</tr>\n<tr> <td> <strong>Outside Diameter (Inch)</strong>\n</td>\n<td>3-15/16</td>\n</tr>\n<tr> <td> <strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>3.9375</td>\n</tr>\n<tr> <td> <strong>Inside Diameter (Inch)</strong>\n</td>\n<td>3-3/4</td>\n</tr>\n<tr> <td> <strong>Inside Diameter (Decimal Inch)</strong>\n</td>\n<td>3.7500</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>3-1/2</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>3.5000</td>\n</tr>\n<tr> <td> <strong>Static Load Capacity</strong>\n</td>\n<td>2452878.65</td>\n</tr>\n<tr> <td> <strong>Dynamic Load Capacity</strong>\n</td>\n<td>2923960.790</td>\n</tr>\n<tr> <td> <strong>Maximum Pressure X Velocity</strong>\n</td>\n<td>406</td>\n</tr>\n<tr> <td> <strong>Bore Type</strong>\n</td>\n<td>Plain</td>\n</tr>\n<tr> <td> <strong>Lubricant Type</strong>\n</td>\n<td>PTFE</td>\n</tr>\n<tr> <td> <strong>Temperature Range</strong>\n</td>\n<td>-320 to 530 Deg F</td>\n</tr>\n<tr> <td> <strong>Housing Bore Limits Maximum</strong>\n</td>\n<td>3.9370</td>\n</tr>\n<tr> <td> <strong>Housing Bore Limits Mininum</strong>\n</td>\n<td>3.9360</td>\n</tr>\n<tr> <td> <strong>Inside Diameter (mm)</strong>\n</td>\n<td>95.2500</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>88.9</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31171509</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>United Kingdom</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T15:24:53-06:00",
+  "created_at": "2020-06-04T01:10:36-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "USA Industrials",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Bearings",
+    "Electrical Installation Tools"
+  ],
+  "variants": [
+    {
+      "id": 34573106675879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "77002798",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "57.12",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5279882870951,
+      "created_at": "2020-06-04T01:10:37-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38250444357799,
+      "created_at": "2025-02-04T02:07:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:07:49-06:00",
+      "product_id": 5279882870951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7668647-21_04457745-1940-4b14-844f-7da879881f04.jpg?v=1738656469",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 57.12,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7668647-21_04457745-1940-4b14-844f-7da879881f04.jpg?v=1738656469",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Industrials",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

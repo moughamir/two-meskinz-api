@@ -1,0 +1,118 @@
+{
+  "id": 8444660940888,
+  "title": "Electric Blue Blue Crush iPhone 17 Pro Case",
+  "handle": "electric-blue-blue-crush-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌊📱 Make waves with our Blue Crush Phone Case by Pela! Inspired by the rhythmic flow of ocean waves, this striking blue and white design offers a fresh, modern look that captures the essence of a seaside escape. Perfect for the environmentally conscious and style-savvy, it’s made from sustainable, compostable materials that protect your phone and the planet. Whether you’re surfing the web or catching real waves, this case keeps your device safe and stylish. Dive into sustainability with a splash of bold, oceanic flair! 🐚💙</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:49:30-04:00",
+  "created_at": "2025-08-08T11:49:11-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Bold and Bright",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Blue Crush",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184125902936,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17504-IP17P-ELEBLUE-AOD:BLUE-CRUSH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444660940888,
+      "created_at": "2025-09-03T18:30:02-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184125935704,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17504-IP17P-ELEBLUE-AOD:BLUE-CRUSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444660940888,
+      "created_at": "2025-09-03T18:30:02-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567205089368,
+      "created_at": "2025-08-08T11:49:11-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:13-04:00",
+      "product_id": 8444660940888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_IP17P_ElectricBlue.jpg?v=1754668153",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32859330740312,
+      "created_at": "2024-05-14T10:48:11-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T11:37:32-04:00",
+      "product_id": 8444660940888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Blue_Crush_1.jpg?v=1754926652",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32859333656664,
+      "created_at": "2024-05-14T10:48:39-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T11:37:43-04:00",
+      "product_id": 8444660940888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Blue_Crush_2.jpg?v=1754926663",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_IP17P_ElectricBlue.jpg?v=1754668153",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

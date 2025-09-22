@@ -1,0 +1,119 @@
+{
+  "id": 8345582764120,
+  "title": "Seashell True North Red Samsung Galaxy S23 Case",
+  "handle": "seashell-true-north-red-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p data-start=\"70\" data-end=\"324\" class=\"\">Maple syrup, toques, canadian geese, hockey sticks, and ketchup chips—this bold red beauty is a love letter to the Great White North. Whether you're paddling a canoe or just braving the morning commute, this case brings peak Canadian charm to your pocket.</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Made in Canada (eh!), it's compostable, durable, and packed with more national pride than a Mountie at a maple syrup festival.🍁🏒🇨🇦</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:34:06-04:00",
+  "created_at": "2025-04-14T10:39:41-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "name:True North Red",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815084167256,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:TRUE-NORTH-RED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345582764120,
+      "created_at": "2025-04-14T10:39:41-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829664354392,
+      "created_at": "2025-04-14T10:39:41-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:43-04:00",
+      "product_id": 8345582764120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_S23_Seashell.jpg?v=1744641583",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982777978968,
+      "created_at": "2025-05-07T16:38:23-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:38:35-04:00",
+      "product_id": 8345582764120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_12509fe3-f8a7-4dbb-9566-cb67eccc0d42.jpg?v=1746650315",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982777913432,
+      "created_at": "2025-05-07T16:38:23-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:38:35-04:00",
+      "product_id": 8345582764120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_7d6a6fc4-1d7c-4707-932c-bf1b79f6e782.jpg?v=1746650315",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982778011736,
+      "created_at": "2025-05-07T16:38:23-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:38:35-04:00",
+      "product_id": 8345582764120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_8f2bda05-36c5-492b-b9f1-db150b2f7ca4.jpg?v=1746650315",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982777946200,
+      "created_at": "2025-05-07T16:38:23-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:38:35-04:00",
+      "product_id": 8345582764120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_39ddaf80-3801-4927-b835-5009e3a541b3.jpg?v=1746650315",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_S23_Seashell.jpg?v=1744641583",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

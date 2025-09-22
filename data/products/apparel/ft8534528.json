@@ -1,0 +1,67 @@
+{
+  "id": 7785593864359,
+  "title": "Brand: Micro World Corp / Part #: AB12418",
+  "handle": "ft8534528",
+  "body_html": "<br><strong>Item #: </strong>08473241<br><strong>Brand: </strong>Micro World Corp<br><strong>Model #: </strong>AB12418<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Binocular Type</strong>\n</td>\n<td>Compact</td>\n</tr>\n<tr>\n<td><strong>Prism Type</strong></td>\n<td>Roof; BK-7</td>\n</tr>\n<tr>\n<td><strong>Field Of View</strong></td>\n<td>303.000</td>\n</tr>\n<tr>\n<td><strong>Waterproof</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Anti-fog</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Magnification</strong></td>\n<td>10x</td>\n</tr>\n<tr>\n<td><strong>Maximum Magnification</strong></td>\n<td>10x</td>\n</tr>\n<tr>\n<td><strong>Lens Diameter</strong></td>\n<td>25 mm</td>\n</tr>\n<tr>\n<td><strong>Optical Lens Coating</strong></td>\n<td>Fully Coated</td>\n</tr>\n<tr>\n<td><strong>Tripod Mountable</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Minimum Distance</strong></td>\n<td>26 ft</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>4.33</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>4.53</td>\n</tr>\n<tr>\n<td><strong>Construction</strong></td>\n<td>Rubber Armored</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Objective Lens 25mm; Prism type Roof; Eye Relief 10.5mm; Close Focus (ft/m) 26/8; Field of View 303/101; Prism Glass BK-7; Magnification 10x; Pink Rubber Armored Exterior; Fold-Down Rubber Eyecups; Optical Coating Fully Coated; Grooved Center Focus Dial; Exit Pupil 2.5mm; Focusing System Center</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Soft Pouch and Neckstrap</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:15:34-06:00",
+  "created_at": "2023-12-28T23:15:34-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Micro World Corp",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43704665768103,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08473241",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "86.63",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785593864359,
+      "created_at": "2023-12-28T23:15:34-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237079371943,
+      "created_at": "2025-02-03T18:03:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:03:52-06:00",
+      "product_id": 7785593864359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0847324-21.jpg?v=1738627432",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 86.63,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0847324-21.jpg?v=1738627432",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Micro World Corp",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444669821016,
+  "title": "Seashell Lil Crabby iPhone 17 Pro Max Case",
+  "handle": "seashell-lil-crabby-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to scuttle into cuteness with the Lil Crabby Phone Case! Adorned with delightful little red crabs, this case brings a touch of beachy charm and playful whimsy to your phone. Perfect for those who love the ocean or just appreciate a pinch of fun in their accessories. Whether you're navigating the sandy shores or just daydreaming of a seaside escape, the Lil Crabby Phone Case is your perfect crustacean companion. Keep your phone snug and stylish, and let the crabby vibes take over! <meta charset=\"utf-8\">🦀 🌊📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:35:12-04:00",
+  "created_at": "2025-08-08T11:49:41-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Crabby",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184247472216,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:LIL-CRABBY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444669821016,
+      "created_at": "2025-09-03T18:50:30-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184247504984,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:LIL-CRABBY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444669821016,
+      "created_at": "2025-09-03T18:50:30-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567223996504,
+      "created_at": "2025-08-08T11:49:41-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:43-04:00",
+      "product_id": 8444669821016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-CRABBY_IP17PMAX_Seashell.jpg?v=1754668183",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35082301767768,
+      "created_at": "2025-05-23T16:43:49-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T16:43:52-04:00",
+      "product_id": 8444669821016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LILCRABBY_SEASHELL-1_df872ed4-1b14-4b10-bbd0-6575f406e84c.jpg?v=1748033032",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35082301800536,
+      "created_at": "2025-05-23T16:43:49-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T16:43:52-04:00",
+      "product_id": 8444669821016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LILCRABBY_SEASHELL-2_28dca3fb-effc-4c6d-8d7f-faea7aa23b8c.jpg?v=1748033032",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-CRABBY_IP17PMAX_Seashell.jpg?v=1754668183",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

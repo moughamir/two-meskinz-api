@@ -1,0 +1,98 @@
+{
+  "id": 8278271721560,
+  "title": "Black Jaguar Stars iPhone 14/16e Case",
+  "handle": "black-jaguar-stars-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Unleash your fierce side and reach for the stars with the Jaguar Stars Phone Case! This bold design blends untamed leopard print with celestial energy, creating a look that’s equal parts wild and star-studded. Whether you're prowling through the urban jungle or chasing cosmic dreams, this case has your back (and your phone’s).</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:18:04-05:00",
+  "created_at": "2025-02-04T10:20:46-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Jaguar Stars",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642241847384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16730-IP14-BLACK-AOD:JAGUAR-STARS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278271721560,
+      "created_at": "2025-02-04T10:20:46-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454009479256,
+      "created_at": "2025-02-04T10:20:46-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:20:49-05:00",
+      "product_id": 8278271721560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JAGUAR-STARS_IP14_Black.jpg?v=1738682449",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572032507992,
+      "created_at": "2025-02-20T16:50:36-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T16:50:38-05:00",
+      "product_id": 8278271721560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_c8897b3c-ea34-4f57-ab07-f4dda329f648.jpg?v=1740088238",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572032540760,
+      "created_at": "2025-02-20T16:50:36-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T16:50:38-05:00",
+      "product_id": 8278271721560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_f74f5fb4-dfcb-4220-95c3-a66abf258986.jpg?v=1740088238",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JAGUAR-STARS_IP14_Black.jpg?v=1738682449",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8216567119960,
+  "title": "Seashell Sweet As You iPhone 13 Case",
+  "handle": "seashell-sweet-as-you-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring on the cuteness with the Sweet As You Phone Case from our <em>Amour Collection</em>! Featuring adorable gummy bears, candy hearts, and playful bows, this design is as sweet as you are. Perfect for spreading love and good vibes! <meta charset=\"utf-8\">🍬💖</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:20:29-05:00",
+  "created_at": "2024-12-16T10:52:30-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Sweet As You",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469059821656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:SWEET-AS-YOU",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216567119960,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130695651416,
+      "created_at": "2024-12-16T10:52:30-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:32-05:00",
+      "product_id": 8216567119960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEET-AS-YOU_IP13_Seashell.jpg?v=1734364352",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34214875431000,
+      "created_at": "2025-01-03T10:46:08-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T10:46:10-05:00",
+      "product_id": 8216567119960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP1_fdd2f546-30e1-47f8-a3d9-5fea272673bb.jpg?v=1735919170",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214875365464,
+      "created_at": "2025-01-03T10:46:08-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T10:46:10-05:00",
+      "product_id": 8216567119960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP2_ade220b7-a91d-45ec-9f72-85df623ae4c6.jpg?v=1735919170",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214875398232,
+      "created_at": "2025-01-03T10:46:08-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T10:46:10-05:00",
+      "product_id": 8216567119960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP3_ef14e835-0a5d-4922-9914-9cb38424fe82.jpg?v=1735919170",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214875332696,
+      "created_at": "2025-01-03T10:46:08-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T10:46:10-05:00",
+      "product_id": 8216567119960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEETASYOU_PDP4_673df0c1-0431-4a9c-9585-f6fcc4bdbb91.jpg?v=1735919170",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEET-AS-YOU_IP13_Seashell.jpg?v=1734364352",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8453417566375,
+  "title": "Replacement Moving Blade Set for Pre-2017 Cat. No. 63750",
+  "handle": "kp6048850",
+  "body_html": null,
+  "published_at": "2025-01-24T05:11:52-06:00",
+  "created_at": "2025-01-24T05:11:51-06:00",
+  "updated_at": "2025-09-22T10:51:46-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500670439591,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6048850",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "140.02",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453417566375,
+      "created_at": "2025-01-24T05:11:51-06:00",
+      "updated_at": "2025-09-22T10:51:46-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 140.02,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

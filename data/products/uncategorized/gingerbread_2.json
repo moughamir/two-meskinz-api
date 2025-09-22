@@ -1,0 +1,117 @@
+{
+  "id": 7052696289389,
+  "title": "Gingerbread",
+  "handle": "gingerbread-2",
+  "body_html": "<p>Notes of spicy <strong>cardamom</strong>, <strong>cinnamon</strong> bark, and <strong>fresh ginger</strong> warm the home and heart.</p>",
+  "published_at": "2023-08-14T19:52:46-06:00",
+  "created_at": "2023-08-10T20:02:50-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "K. Hall Designs",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:K. Hall Designs",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_gingerbreadkhall"
+  ],
+  "variants": [
+    {
+      "id": 40703042748525,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GNGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052696289389,
+      "created_at": "2023-08-10T20:02:50-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525515104365,
+      "created_at": "2023-09-28T18:04:46-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:05:07-06:00",
+      "product_id": 7052696289389,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-Gingerbread-Vertical-Resized.jpg?v=1695945907",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525515137133,
+      "created_at": "2023-09-28T18:04:46-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T18:05:07-06:00",
+      "product_id": 7052696289389,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cardamomingredientsresized-2_2cd78cd1-732c-4626-96b3-a2a3cf9ad6ec.jpg?v=1695945907",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525515071597,
+      "created_at": "2023-09-28T18:04:46-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:05:07-06:00",
+      "product_id": 7052696289389,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/K-Hall-Designs-Gingerbread-Device-V4.jpg?v=1695945907",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525515169901,
+      "created_at": "2023-09-28T18:04:46-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:05:07-06:00",
+      "product_id": 7052696289389,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-Gingerbread-Overhead-Shadow-Resized.jpg?v=1695945907",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/KHallDesigns-Gingerbread-Vertical-Resized.jpg?v=1695945907",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "K. Hall Designs",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

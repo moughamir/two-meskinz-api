@@ -1,0 +1,104 @@
+{
+  "id": 7371662983256,
+  "title": "Electric Blue iPhone 15 Pro Case",
+  "handle": "electric-blue-iphone-15-pro-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-09-12T14:01:33-04:00",
+  "created_at": "2023-08-11T16:10:48-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40253140926552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17060-IP15P-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7371662983256,
+      "created_at": "2023-08-11T16:10:49-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30342981943384,
+      "created_at": "2023-08-15T16:36:44-04:00",
+      "position": 1,
+      "updated_at": "2023-08-15T16:36:46-04:00",
+      "product_id": 7371662983256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_ELECTRICBLUE_BACK.jpg?v=1692131806",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342982008920,
+      "created_at": "2023-08-15T16:36:44-04:00",
+      "position": 2,
+      "updated_at": "2023-08-15T16:36:46-04:00",
+      "product_id": 7371662983256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_ELECTRICBLUE_BACK_45L.jpg?v=1692131806",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342981976152,
+      "created_at": "2023-08-15T16:36:44-04:00",
+      "position": 3,
+      "updated_at": "2023-08-15T16:36:46-04:00",
+      "product_id": 7371662983256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_ELECTRICBLUE_BACK_45R.jpg?v=1692131806",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826947735640,
+      "created_at": "2023-10-16T14:29:51-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:29:53-04:00",
+      "product_id": 7371662983256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_dbd3adf4-5a97-48fa-a857-9c87e2e5aec4.jpg?v=1697480993",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_ELECTRICBLUE_BACK.jpg?v=1692131806",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

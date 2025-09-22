@@ -1,0 +1,83 @@
+{
+  "id": 7633387290733,
+  "title": "Build a Pura 4 + Pura Mini Set",
+  "handle": "build-a-pura-4-mini-set",
+  "body_html": "",
+  "published_at": "2025-04-14T12:59:42-06:00",
+  "created_at": "2025-04-03T19:20:11-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Mini Set",
+  "tags": [
+    "__label:Customize",
+    "Group_Home",
+    "type_Smartvial",
+    "YCRF_device",
+    "YCRF_homedevices",
+    "YGroup_device"
+  ],
+  "variants": [
+    {
+      "id": 42323917930605,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02160",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7633387290733,
+      "created_at": "2025-04-03T19:20:11-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34101993439341,
+      "created_at": "2025-04-14T12:17:46-06:00",
+      "position": 1,
+      "updated_at": "2025-04-14T12:31:27-06:00",
+      "product_id": 7633387290733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TwoMini-Bundle-PDP-0225-_1_c6070bb8-16ba-4912-bbf4-9998d4ea3b34.png?v=1744655487",
+      "width": 3383,
+      "height": 4511
+    },
+    {
+      "id": 34064492953709,
+      "created_at": "2025-04-08T20:24:42-06:00",
+      "position": 2,
+      "updated_at": "2025-04-08T20:25:04-06:00",
+      "product_id": 7633387290733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini2.png?v=1744165504",
+      "width": 2401,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TwoMini-Bundle-PDP-0225-_1_c6070bb8-16ba-4912-bbf4-9998d4ea3b34.png?v=1744655487",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Mini Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

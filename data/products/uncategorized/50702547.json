@@ -1,0 +1,67 @@
+{
+  "id": 8452518477991,
+  "title": "Handlesets; Type: Handlesets; Material: Metal; Door Thickness: 1-5/8",
+  "handle": "50702547",
+  "body_html": "<br><strong>Item #: </strong>04635207<br><strong>Brand: </strong>Schlage<br><strong>Model #: </strong>F58 PLY 716<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Handlesets</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Metal</td>\n</tr>\n<tr> <td> <strong>Door Thickness</strong>\n</td>\n<td>1-5/8 - 1-3/4</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>F Series Residential Handlesets</td>\n</tr>\n<tr> <td> <strong>Minimum Order Quantity</strong>\n</td>\n<td>1.000</td>\n</tr>\n<tr> <td> <strong>Finish Coating</strong>\n</td>\n<td>Antique Bronze</td>\n</tr>\n<tr> <td> <strong>Number of Codes</strong>\n</td>\n<td>1.000</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>46171503</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:06:20-06:00",
+  "created_at": "2025-01-23T09:06:19-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Schlage",
+  "product_type": "Hardware",
+  "tags": [
+    "Locks"
+  ],
+  "variants": [
+    {
+      "id": 46497973633191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04635207",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "253.35",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452518477991,
+      "created_at": "2025-01-23T09:06:19-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242039169191,
+      "created_at": "2025-02-03T21:17:37-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:17:39-06:00",
+      "product_id": 8452518477991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0463520-21.jpg?v=1738639059",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 253.35,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0463520-21.jpg?v=1738639059",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Schlage",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

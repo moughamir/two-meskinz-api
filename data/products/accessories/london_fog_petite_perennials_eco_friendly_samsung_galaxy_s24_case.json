@@ -1,0 +1,120 @@
+{
+  "id": 7536128229464,
+  "title": "London Fog Petite Perennials Samsung Galaxy S24 Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:19:01-05:00",
+  "created_at": "2024-01-15T11:10:10-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949024227416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13787-S24-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536128229464,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079726379096,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:10-05:00",
+      "product_id": 7536128229464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_S24_LondonFog.jpg?v=1705335010",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088883101784,
+      "created_at": "2024-01-17T10:30:08-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:30:14-05:00",
+      "product_id": 7536128229464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_b589a6f5-1b8c-4977-bbfd-faaca1186ca7.png?v=1705505414",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088883036248,
+      "created_at": "2024-01-17T10:30:08-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:30:14-05:00",
+      "product_id": 7536128229464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_028b1a15-93db-4664-9218-23596254c4d0.png?v=1705505414",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088883134552,
+      "created_at": "2024-01-17T10:30:08-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:30:14-05:00",
+      "product_id": 7536128229464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_a88c4e08-7751-4fd7-93ec-cf4d2933a8d0.png?v=1705505414",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088883069016,
+      "created_at": "2024-01-17T10:30:08-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:30:14-05:00",
+      "product_id": 7536128229464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_de257a90-6114-4ddd-bc5f-d69138f066be.png?v=1705505414",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_S24_LondonFog.jpg?v=1705335010",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

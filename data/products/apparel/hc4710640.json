@@ -1,0 +1,67 @@
+{
+  "id": 7785898705063,
+  "title": "Brand: Cleveland / Part #: C33704",
+  "handle": "hc4710640",
+  "body_html": "<br><strong>Item #: </strong>87391132<br><strong>Brand: </strong>Cleveland<br><strong>Model #: </strong>C33704<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>23/64</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.3594</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>9.53</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-1/2</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>30.00</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>88.90</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut Range (Decimal Inch)</strong></td>\n<td>0.5000 - 0.6000</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.5630</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Regular</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:31:33-06:00",
+  "created_at": "2023-12-29T06:31:33-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Cleveland",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43705847447719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87391132",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.38",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785898705063,
+      "created_at": "2023-12-29T06:31:33-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237624303783,
+      "created_at": "2025-02-03T18:19:37-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:19:38-06:00",
+      "product_id": 7785898705063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8739113-21.jpg?v=1738628378",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.38,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8739113-21.jpg?v=1738628378",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Cleveland",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

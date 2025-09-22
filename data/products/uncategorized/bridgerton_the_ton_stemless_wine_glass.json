@@ -1,0 +1,118 @@
+{
+  "id": 7956784250927,
+  "title": "Bridgerton The Ton Stemless Wine Glass",
+  "handle": "bridgerton-the-ton-stemless-wine-glass",
+  "body_html": "<p>Raise a glass to the <em>Bridgerton</em> family with the <em>Bridgerton</em> The Ton Stemless Wine Glass. This stylish glass is perfect for any fan of the hit Netflix series. It features a sleek design with a subtle nod to the iconic moments in The Ton. It's the perfect way to show your love for the Bridgertons while enjoying your favorite beverage.</p>\n<ul>\n<li>Elevate your wine experience with our 15 oz Stemless Wine Glass. This elegant and versatile glass offers a comfortable grip, ample capacity for your favorite wines, and a timeless design. It's perfect for wine lovers and makes an ideal gift. Cheers to sophistication and simplicity in every sip!<br>\n</li>\n<li>Made of: Glass<br>\n</li>\n<li>Care: Handwash only. Do not microwave or run through dishwasher</li>\n</ul>",
+  "published_at": "2025-04-11T12:42:40-04:00",
+  "created_at": "2025-04-09T11:42:47-04:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "Bridgerton",
+    "Drinking Glasses",
+    "Stemless Wine Glass",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43734496608303,
+      "title": "15 oz",
+      "option1": "15 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "BRDGTN-101727-0001-BR-ICNS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35881910992943,
+        "product_id": 7956784250927,
+        "position": 1,
+        "created_at": "2025-04-09T11:42:59-04:00",
+        "updated_at": "2025-04-09T11:43:01-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF.jpg?v=1744213381",
+        "variant_ids": [
+          43734496608303
+        ]
+      },
+      "available": true,
+      "price": "16.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7956784250927,
+      "created_at": "2025-04-09T11:42:47-04:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35881910992943,
+      "created_at": "2025-04-09T11:42:59-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T11:43:01-04:00",
+      "product_id": 7956784250927,
+      "variant_ids": [
+        43734496608303
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF.jpg?v=1744213381",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35881910960175,
+      "created_at": "2025-04-09T11:42:59-04:00",
+      "position": 2,
+      "updated_at": "2025-04-09T11:43:01-04:00",
+      "product_id": 7956784250927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF3.jpg?v=1744213381",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35881911025711,
+      "created_at": "2025-04-09T11:42:59-04:00",
+      "position": 3,
+      "updated_at": "2025-04-09T11:43:01-04:00",
+      "product_id": 7956784250927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF4.jpg?v=1744213381",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35881910927407,
+      "created_at": "2025-04-09T11:42:59-04:00",
+      "position": 4,
+      "updated_at": "2025-04-09T11:43:01-04:00",
+      "product_id": 7956784250927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF2.jpg?v=1744213381",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "15 oz"
+      ]
+    }
+  ],
+  "price": 16.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-ICNS_101727_MF.jpg?v=1744213381",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

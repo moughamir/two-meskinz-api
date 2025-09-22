@@ -1,0 +1,68 @@
+{
+  "id": 5327975448743,
+  "title": "INSERT IC4.6 R2 RHOMBIC PCD",
+  "handle": "sg2504010",
+  "body_html": "<br><strong>Item #: </strong>ER4522134<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>9679.09220<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Rhombic </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>PCD </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>9679 </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:33:15-06:00",
+  "created_at": "2020-06-13T21:27:39-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Milling",
+  "tags": [
+    "Indexable",
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34710719266983,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4522134",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "253.64",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5327975448743,
+      "created_at": "2020-06-13T21:27:39-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143199740071,
+      "created_at": "2025-01-23T21:33:23-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:33:25-06:00",
+      "product_id": 5327975448743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_4bb24311-1ae0-486d-a662-c83b5d6a8620.png?v=1737689605",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 253.64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_4bb24311-1ae0-486d-a662-c83b5d6a8620.png?v=1737689605",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

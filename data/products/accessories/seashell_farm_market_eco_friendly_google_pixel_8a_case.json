@@ -1,0 +1,97 @@
+{
+  "id": 8341656862808,
+  "title": "Seashell Farm Market Google Pixel 8a Case",
+  "handle": "seashell-farm-market-eco-friendly-google-pixel-8a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Fresh-picked and phone-ready! <meta charset=\"utf-8\">🧺<meta charset=\"utf-8\">🍓 The <em data-start=\"72\" data-end=\"85\">Farm Market</em> Phone Case is stacked with all your farmers market faves—baskets of berries, bunches of tulips, jars of jam, leafy greens, and the cutest squash around. It’s like a Saturday morning stroll through your local stand, minus the reusable tote.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-01T09:09:36-04:00",
+  "created_at": "2025-04-09T12:44:42-04:00",
+  "updated_at": "2025-09-22T15:14:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8a",
+  "tags": [
+    "art-type:Print",
+    "collection:Farm Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Farm Market",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42806264660056,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15027-PX8a-SEASHELL-AOD:FARM-MARKET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8341656862808,
+      "created_at": "2025-04-09T12:44:42-04:00",
+      "updated_at": "2025-09-22T15:14:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34808803000408,
+      "created_at": "2025-04-09T12:44:42-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T12:44:44-04:00",
+      "product_id": 8341656862808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FARM-MARKET_PX8A_Seashell.jpg?v=1744217084",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34901904490584,
+      "created_at": "2025-04-25T16:38:41-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T16:38:42-04:00",
+      "product_id": 8341656862808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FarmMarket_PDP_01_cd3d5bfb-03f1-4fa5-8d5d-c2363188fd97.jpg?v=1745613522",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34901904523352,
+      "created_at": "2025-04-25T16:38:41-04:00",
+      "position": 3,
+      "updated_at": "2025-04-25T16:38:42-04:00",
+      "product_id": 8341656862808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FarmMarket_PDP_02_5e56151f-438e-4ec2-8b81-2b8882db33e9.jpg?v=1745613522",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FARM-MARKET_PX8A_Seashell.jpg?v=1744217084",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

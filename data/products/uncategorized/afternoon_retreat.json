@@ -1,0 +1,120 @@
+{
+  "id": 7051705253997,
+  "title": "Afternoon Retreat",
+  "handle": "afternoon-retreat",
+  "body_html": "<p>Sink into a bed of soft <strong>moss</strong>, <strong>teak</strong>, <strong>sandalwood</strong> and <strong>amber</strong> as a light, refreshing breeze of <strong>bergamot</strong> and <strong>lime</strong> sweeps through the air.</p>",
+  "published_at": "2023-08-14T19:49:57-06:00",
+  "created_at": "2023-08-09T16:19:02-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Bridgewater Candle Company",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Bridgewater Candle Company",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "RZBH",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_afternoonretreat"
+  ],
+  "variants": [
+    {
+      "id": 40702257889389,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "RZBH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705253997,
+      "created_at": "2023-08-09T16:19:02-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30848795836525,
+      "created_at": "2023-12-11T20:33:14-07:00",
+      "position": 1,
+      "updated_at": "2023-12-11T20:33:27-07:00",
+      "product_id": 7051705253997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-AfternoonRetreat-Vertical-Resized.jpg?v=1702352007",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30435162357869,
+      "created_at": "2023-09-04T10:21:41-06:00",
+      "position": 2,
+      "updated_at": "2023-12-11T20:33:27-07:00",
+      "product_id": 7051705253997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sandalwood-2-resized_942d5bc5-2877-44df-9a49-9f1074a30862.jpg?v=1702352007",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350185267309,
+      "created_at": "2023-08-14T18:18:01-06:00",
+      "position": 3,
+      "updated_at": "2023-12-11T20:33:27-07:00",
+      "product_id": 7051705253997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Bridgewater-Candle-Company-Afternoon-Retreat-Device-V4.jpg?v=1702352007",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30848795803757,
+      "created_at": "2023-12-11T20:33:14-07:00",
+      "position": 4,
+      "updated_at": "2023-12-11T20:33:17-07:00",
+      "product_id": 7051705253997,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-AfternoonRetreat-Overhead-Resized.jpg?v=1702351997",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BridgewaterCandleCompany-AfternoonRetreat-Vertical-Resized.jpg?v=1702352007",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bridgewater Candle Company",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

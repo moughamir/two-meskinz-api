@@ -1,0 +1,96 @@
+{
+  "id": 8444669198424,
+  "title": "Powder Blue Great White iPhone 17 Pro Max Case",
+  "handle": "powder-blue-great-white-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Dive into the deep blue with the Great White Phone Case! This jaw-some design showcases a captivating collection of majestic sharks, each ready to swim right into your heart. Perfect for ocean lovers and thrill-seekers alike, this case combines sleek style with a fierce sense of adventure. So, get ready to make waves and let your phone swim with the sharks—because the ocean is calling, and it's never looked cooler! 🌟📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:36:15-04:00",
+  "created_at": "2025-08-08T11:49:39-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Sharks",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Great White",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184201531480,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:GREAT-WHITE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444669198424,
+      "created_at": "2025-09-03T18:42:28-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184201564248,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:GREAT-WHITE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444669198424,
+      "created_at": "2025-09-03T18:42:28-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567222653016,
+      "created_at": "2025-08-08T11:49:39-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:41-04:00",
+      "product_id": 8444669198424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GREAT-WHITE_IP17PMAX_PowderBlue.jpg?v=1754668181",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GREAT-WHITE_IP17PMAX_PowderBlue.jpg?v=1754668181",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

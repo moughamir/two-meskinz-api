@@ -1,0 +1,109 @@
+{
+  "id": 8385758363736,
+  "title": "Electric Blue Belugas iPhone 16 Pro Max Case",
+  "handle": "electric-blue-belugas-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Make a splash with the Belugas Phone Case—your pocket-sized pod of pure joy! With a pod of smiling, white belugas gliding across a bold blue sea, this case brings big ocean energy and even bigger charm. It's perfect for marine life lovers, ocean daydreamers, and anyone who’s not afraid to let their phone swim with personality. 🐋💙🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:25:23-04:00",
+  "created_at": "2025-05-27T09:18:41-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Belugas",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908179300440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17325-IP16PMAX-ELEBLUE-AOD:BELUGAS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385758363736,
+      "created_at": "2025-05-27T09:18:41-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101693378648,
+      "created_at": "2025-05-27T09:18:41-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:42-04:00",
+      "product_id": 8385758363736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_IP16PMAX_ElectricBlue.jpg?v=1748351922",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102119788632,
+      "created_at": "2025-05-27T11:10:43-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:10:43-04:00",
+      "product_id": 8385758363736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/564677a2709fe2414cfa44cae64c3bb5_7c138f94-5101-4e93-8e61-4b9829cb1de1.jpg?v=1748358643",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102119985240,
+      "created_at": "2025-05-27T11:10:45-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:10:45-04:00",
+      "product_id": 8385758363736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3e2c9e947e92ed0a1b0d07af833a00e9_101ee962-63a1-4d29-bbe2-0bda81f4c408.jpg?v=1748358645",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102120181848,
+      "created_at": "2025-05-27T11:10:46-04:00",
+      "position": 4,
+      "updated_at": "2025-05-27T11:10:46-04:00",
+      "product_id": 8385758363736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8649c140fdfef36cfaf198cdd1388b75_30c1e09e-b586-413e-8c77-64ca2211300b.jpg?v=1748358646",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_IP16PMAX_ElectricBlue.jpg?v=1748351922",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

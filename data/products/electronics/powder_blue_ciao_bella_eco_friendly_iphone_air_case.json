@@ -1,0 +1,140 @@
+{
+  "id": 8444705701976,
+  "title": "Powder Blue Ciao Bella iPhone Air Case",
+  "handle": "powder-blue-ciao-bella-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say “ciao bella” to your new fave accessory! The Ciao Bella Phone Case is a love letter to la dolce vita — packed with zesty lemons, seaside snacks, and a sprinkle of Italian charm. Whether you’re dreaming of Amalfi or just vibing with your Aperol, this case brings Mediterranean magic to every moment. 🍋🫒🍝💙</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:52:18-04:00",
+  "created_at": "2025-08-08T11:51:51-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ciao Bella",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184197238872,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17543-IP17AIR-POWDERBLUE-AOD:CIAO-BELLA_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444705701976,
+      "created_at": "2025-09-03T18:41:34-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184197271640,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17543-IP17AIR-POWDERBLUE-AOD:CIAO-BELLA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444705701976,
+      "created_at": "2025-09-03T18:41:34-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567302639704,
+      "created_at": "2025-08-08T11:51:51-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:53-04:00",
+      "product_id": 8444705701976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CIAO-BELLA_IP17AIR_PowderBlue.jpg?v=1754668313",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195796521048,
+      "created_at": "2025-06-09T17:05:04-04:00",
+      "position": 2,
+      "updated_at": "2025-08-13T14:24:47-04:00",
+      "product_id": 8444705701976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Ciao_Bella_1.jpg?v=1755109487",
+      "width": 4059,
+      "height": 4059
+    },
+    {
+      "id": 35195796947032,
+      "created_at": "2025-06-09T17:05:06-04:00",
+      "position": 3,
+      "updated_at": "2025-08-13T14:24:56-04:00",
+      "product_id": 8444705701976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Ciao_Bella_2.jpg?v=1755109496",
+      "width": 3953,
+      "height": 3953
+    },
+    {
+      "id": 35195797667928,
+      "created_at": "2025-06-09T17:05:08-04:00",
+      "position": 4,
+      "updated_at": "2025-08-13T14:25:07-04:00",
+      "product_id": 8444705701976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Ciao_Bella_3.jpg?v=1755109507",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195798061144,
+      "created_at": "2025-06-09T17:05:10-04:00",
+      "position": 5,
+      "updated_at": "2025-08-13T14:25:19-04:00",
+      "product_id": 8444705701976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Ciao_Bella_4.jpg?v=1755109519",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CIAO-BELLA_IP17AIR_PowderBlue.jpg?v=1754668313",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

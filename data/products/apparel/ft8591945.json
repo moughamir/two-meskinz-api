@@ -1,0 +1,67 @@
+{
+  "id": 7785679290535,
+  "title": "Brand: Race Sport / Part #: 1006919",
+  "handle": "ft8591945",
+  "body_html": "<br><strong>Item #: </strong>89765077<br><strong>Brand: </strong>Race Sport<br><strong>Model #: </strong>1006919<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Plug &amp; Play Replacement Bulb Kit</td>\n</tr>\n<tr>\n<td><strong>Base Type</strong></td>\n<td>5202</td>\n</tr>\n<tr>\n<td><strong>Lumens per Pair</strong></td>\n<td>4420</td>\n</tr>\n<tr>\n<td><strong>Kelvin Scale/Color</strong></td>\n<td>6000K</td>\n</tr>\n<tr>\n<td><strong>Beam Type</strong></td>\n<td>Directional</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>32V DC; 9V DC</td>\n</tr>\n<tr>\n<td><strong>Low Beam Wattage</strong></td>\n<td>40</td>\n</tr>\n<tr>\n<td><strong>Chip Type</strong></td>\n<td>FCiP</td>\n</tr>\n<tr>\n<td><strong>Average Life Hours High</strong></td>\n<td>50000</td>\n</tr>\n<tr>\n<td><strong>DOT Certified</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>LUX: 580 lx; Series: 5202 PNP</td>\n</tr>\n<tr>\n<td><strong>Ip Rating</strong></td>\n<td>IP67</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:05:45-06:00",
+  "created_at": "2023-12-29T00:05:46-06:00",
+  "updated_at": "2025-09-22T10:54:57-05:00",
+  "vendor": "Race Sport",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Electrical & Lighting"
+  ],
+  "variants": [
+    {
+      "id": 43705118785703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "89765077",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "83.78",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785679290535,
+      "created_at": "2023-12-29T00:05:46-06:00",
+      "updated_at": "2025-09-22T10:54:57-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237131833511,
+      "created_at": "2025-02-03T18:05:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:05:40-06:00",
+      "product_id": 7785679290535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8976507-21.jpg?v=1738627540",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 83.78,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8976507-21.jpg?v=1738627540",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Race Sport",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

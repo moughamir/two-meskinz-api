@@ -1,0 +1,67 @@
+{
+  "id": 7785648292007,
+  "title": "Brand: Harvey Tool / Part #: 855665-C6",
+  "handle": "ft8531688",
+  "body_html": "<br><strong>Item #: </strong>82500257<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>855665-C6<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Shank</td>\n</tr>\n<tr>\n<td><strong>Cutter Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Cutter Diameter (Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Cutter Diameter (Decimal Inch)</strong></td>\n<td>0.3125</td>\n</tr>\n<tr>\n<td><strong>Tooth Configuration</strong></td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (Inch)</strong></td>\n<td>5/32</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (Decimal Inch)</strong></td>\n<td>0.1560</td>\n</tr>\n<tr>\n<td><strong>Weldon Flat</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/16</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.3125</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN Nano</td>\n</tr>\n<tr>\n<td><strong>Number Of Teeth</strong></td>\n<td>8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:46:58-06:00",
+  "created_at": "2023-12-28T23:46:58-06:00",
+  "updated_at": "2025-09-22T10:55:00-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "Milling Cutters"
+  ],
+  "variants": [
+    {
+      "id": 43704906547367,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82500257",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "84.65",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785648292007,
+      "created_at": "2023-12-28T23:46:59-06:00",
+      "updated_at": "2025-09-22T10:55:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237112172711,
+      "created_at": "2025-02-03T18:04:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:58-06:00",
+      "product_id": 7785648292007,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3113138-21_c9133b23-9f9b-499f-a6ce-51986c7184b3.jpg?v=1738627498",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 84.65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3113138-21_c9133b23-9f9b-499f-a6ce-51986c7184b3.jpg?v=1738627498",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

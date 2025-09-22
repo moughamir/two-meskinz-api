@@ -1,0 +1,104 @@
+{
+  "id": 7361819738200,
+  "title": "Electric Blue iPhone 14 Pro Max Case",
+  "handle": "electric-blue-iphone-14-pro-max-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:16:24-04:00",
+  "created_at": "2023-05-12T10:16:26-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230008291416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16881-IP14PMAX-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819738200,
+      "created_at": "2023-05-12T10:16:26-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30269181493336,
+      "created_at": "2023-05-23T18:27:05-04:00",
+      "position": 1,
+      "updated_at": "2023-05-23T18:27:09-04:00",
+      "product_id": 7361819738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_MAX_ELECTRIC_BLUE_BACK.jpg?v=1684880829",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269181427800,
+      "created_at": "2023-05-23T18:27:05-04:00",
+      "position": 2,
+      "updated_at": "2023-05-23T18:27:09-04:00",
+      "product_id": 7361819738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_MAX_ELECTRIC_BLUE_BACK_45L.jpg?v=1684880829",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269181460568,
+      "created_at": "2023-05-23T18:27:05-04:00",
+      "position": 3,
+      "updated_at": "2023-05-23T18:27:09-04:00",
+      "product_id": 7361819738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_MAX_ELECTRIC_BLUE_BACK_45R.jpg?v=1684880829",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826947637336,
+      "created_at": "2023-10-16T14:29:42-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:29:43-04:00",
+      "product_id": 7361819738200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_f810c9ed-6c53-497d-a914-e036433ace3e.jpg?v=1697480983",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PRO_MAX_ELECTRIC_BLUE_BACK.jpg?v=1684880829",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

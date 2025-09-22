@@ -1,0 +1,120 @@
+{
+  "id": 8345581813848,
+  "title": "Seashell True North Red iPhone 16 Case",
+  "handle": "seashell-true-north-red-eco-friendly-iphone-16-case",
+  "body_html": "<p data-start=\"70\" data-end=\"324\" class=\"\">Maple syrup, toques, canadian geese, hockey sticks, and ketchup chips—this bold red beauty is a love letter to the Great White North. Whether you're paddling a canoe or just braving the morning commute, this case brings peak Canadian charm to your pocket.</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Made in Canada (eh!), it's compostable, durable, and packed with more national pride than a Mountie at a maple syrup festival.🍁🏒🇨🇦</p>\n<p data-start=\"326\" data-end=\"460\" class=\"\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:35:52-04:00",
+  "created_at": "2025-04-14T10:39:39-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:True North Red",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815083184216,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17246-IP16-SEASHELL-AOD:TRUE-NORTH-RED",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345581813848,
+      "created_at": "2025-04-14T10:39:39-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829662879832,
+      "created_at": "2025-04-14T10:39:39-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:40-04:00",
+      "product_id": 8345581813848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_IP16_Seashell.jpg?v=1744641580",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982757892184,
+      "created_at": "2025-05-07T16:35:31-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:35:38-04:00",
+      "product_id": 8345581813848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_6dab6743-7496-437f-8f1a-01ab611c1bfe.jpg?v=1746650138",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982757826648,
+      "created_at": "2025-05-07T16:35:31-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:35:38-04:00",
+      "product_id": 8345581813848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_8a9e635a-d4f8-4efe-9983-eacaeb828540.jpg?v=1746650138",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982757793880,
+      "created_at": "2025-05-07T16:35:31-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:35:38-04:00",
+      "product_id": 8345581813848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_9fe94565-e5d4-4c64-baab-b20efa1edf74.jpg?v=1746650138",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982757859416,
+      "created_at": "2025-05-07T16:35:31-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:35:38-04:00",
+      "product_id": 8345581813848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_086142e3-0b06-4eff-982b-fbe06310c4d5.jpg?v=1746650138",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRUE-NORTH-RED_IP16_Seashell.jpg?v=1744641580",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

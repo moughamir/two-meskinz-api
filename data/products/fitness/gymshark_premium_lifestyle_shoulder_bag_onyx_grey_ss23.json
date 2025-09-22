@@ -1,0 +1,123 @@
+{
+  "id": 6805095907530,
+  "title": "Gymshark Premium Lifestyle Shoulder Bag - Onyx Grey",
+  "handle": "gymshark-premium-lifestyle-shoulder-bag-onyx-grey-ss23",
+  "body_html": "<p><strong>IT’S A LIFESTYLE</strong></p>\n<p> </p>\n<p><br>Premium materials, metal accents, elegant branding details. When your day needs a little sophistication, the Lifestyle collection is the finishing touch.</p>\n<p><br>• Small zipped front pocket and zipped main pocket<br>• Shoulder strap</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• Length: 20cm. Height: 14cm. Width: 9cm.<br>• Volume: 2.6L</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• Shell: 100% Nylon. Lining: 100% Polyester .<br>• Wipe clean only<br>• Don’t wash<br>• Don’t bleach<br>• Don’t tumble dry<br>• Don’t iron<br>• Don’t dry clean</p>\n<p><br>SKU: I2A5Z-GBCY</p>",
+  "published_at": "2023-11-15T14:23:24-08:00",
+  "created_at": "2023-01-12T01:12:03-08:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1758186877",
+    "all-products",
+    "bags",
+    "build-your-wishlist",
+    "category:Bags",
+    "created_by:product-service",
+    "filter-colour:Grey",
+    "loungewear",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Pause",
+    "rest-day",
+    "season:SS23",
+    "subcategory:Crossbody",
+    "tier:2"
+  ],
+  "variants": [
+    {
+      "id": 39787830116554,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A5Z-GBCY-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "42.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805095907530,
+      "created_at": "2023-01-12T01:12:03-08:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976708681930,
+      "created_at": "2023-12-01T06:42:33-08:00",
+      "position": 1,
+      "updated_at": "2023-12-01T06:42:36-08:00",
+      "product_id": 6805095907530,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleShoulderBagOnyxGreyI2A5Z-GBCY.28_d8f571c6-9d97-4170-b18c-97c9aa4ced20.jpg?v=1701441756",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976707535050,
+      "created_at": "2023-12-01T06:42:33-08:00",
+      "position": 2,
+      "updated_at": "2023-12-01T06:42:35-08:00",
+      "product_id": 6805095907530,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleShoulderBagOnyxGreyI2A5Z-GBCY.29_073526da-e2e6-4c89-916e-8e364726ff12.jpg?v=1701441755",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976706388170,
+      "created_at": "2023-12-01T06:42:33-08:00",
+      "position": 3,
+      "updated_at": "2023-12-01T06:42:34-08:00",
+      "product_id": 6805095907530,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleShoulderBagOnyxGreyI2A5Z-GBCY.30_ce86a662-d610-45c2-8231-9cae8c505a98.jpg?v=1701441754",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976709632202,
+      "created_at": "2023-12-01T06:42:33-08:00",
+      "position": 4,
+      "updated_at": "2023-12-01T06:42:37-08:00",
+      "product_id": 6805095907530,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/B4A8R-BBBB_B7A8R-WBBM_I2A5X-KBMY_I1A2F-WBBM_2469dde2-571a-423e-984e-50df7124450f.jpg?v=1701441757",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 42,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/LifestyleShoulderBagOnyxGreyI2A5Z-GBCY.28_d8f571c6-9d97-4170-b18c-97c9aa4ced20.jpg?v=1701441756",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

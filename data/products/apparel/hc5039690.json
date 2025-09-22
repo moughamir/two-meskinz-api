@@ -1,0 +1,67 @@
+{
+  "id": 7785901490343,
+  "title": "Brand: Milwaukee Tool / Part #: 48-73-6051",
+  "handle": "hc5039690",
+  "body_html": "<br><strong>Item #: </strong>80531395<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>48-73-6051<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Closure Type</strong>\n</td>\n<td>Double Strap; Buckle</td>\n</tr>\n<tr>\n<td><strong>Pad Material</strong></td>\n<td>Gel</td>\n</tr>\n<tr>\n<td><strong>Cover Material</strong></td>\n<td>Gel Filled</td>\n</tr>\n<tr>\n<td><strong>Hard Protective Cap</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Strap Material</strong></td>\n<td>Nylon; Polyurethane</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Hinged Thigh Straps: Better Mobility</td>\n</tr>\n<tr>\n<td><strong>Hard Cap Material</strong></td>\n<td>Polyester</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:41:41-06:00",
+  "created_at": "2023-12-29T06:41:41-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705875103911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "80531395",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.31",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785901490343,
+      "created_at": "2023-12-29T06:41:41-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237634855079,
+      "created_at": "2025-02-03T18:19:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:19:58-06:00",
+      "product_id": 7785901490343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8053139-21.jpg?v=1738628398",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.31,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8053139-21.jpg?v=1738628398",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

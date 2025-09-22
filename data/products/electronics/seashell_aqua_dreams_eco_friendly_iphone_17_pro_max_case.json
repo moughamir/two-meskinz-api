@@ -1,0 +1,118 @@
+{
+  "id": 8444669591640,
+  "title": "Seashell Aqua Dreams iPhone 17 Pro Max Case",
+  "handle": "seashell-aqua-dreams-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into a world of enchantment with the Aqua Dreams Phone Case, where the wonders of the ocean come to life on your phone! Adorned with vibrant coral, shimmering seashells, and playful sea creatures, this case is a dreamy escape to an underwater paradise. Perfect for ocean lovers and daydreamers alike, it not only adds a splash of color to your device but also ensures robust protection. Let the Aqua Dreams Phone Case transform your phone into a beautiful seascape, keeping the magic of the ocean close at hand! <meta charset=\"utf-8\">🌊🌟🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:35:40-04:00",
+  "created_at": "2025-08-08T11:49:41-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Aqua Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184224043096,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:AQUA-DREAMS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444669591640,
+      "created_at": "2025-09-03T18:45:36-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184224075864,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:AQUA-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444669591640,
+      "created_at": "2025-09-03T18:45:36-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567223504984,
+      "created_at": "2025-08-08T11:49:41-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:43-04:00",
+      "product_id": 8444669591640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUA-DREAMS_IP17PMAX_Seashell.jpg?v=1754668183",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35082279714904,
+      "created_at": "2025-05-23T16:41:38-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T16:41:39-04:00",
+      "product_id": 8444669591640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUADREAMS_SEASHELL-1_28b37710-83ba-4968-827e-7fb5ca0046ab.jpg?v=1748032899",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35082279845976,
+      "created_at": "2025-05-23T16:41:38-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T16:41:39-04:00",
+      "product_id": 8444669591640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUADREAMS_SEASHELL-2_ed0d3b0c-1fc3-4022-a1f7-b43d017c903c.jpg?v=1748032899",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AQUA-DREAMS_IP17PMAX_Seashell.jpg?v=1754668183",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

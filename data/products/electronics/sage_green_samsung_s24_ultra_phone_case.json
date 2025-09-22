@@ -1,0 +1,92 @@
+{
+  "id": 7495944241240,
+  "title": "Sage Green Samsung S24 Ultra Phone Case",
+  "handle": "sage-green-samsung-s24-ultra-phone-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2024-01-17T09:33:24-05:00",
+  "created_at": "2023-12-01T13:08:47-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40802651340888,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13874-S24ULTRA-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7495944241240,
+      "created_at": "2023-12-01T13:08:47-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32010173251672,
+      "created_at": "2023-12-21T11:29:41-05:00",
+      "position": 1,
+      "updated_at": "2023-12-21T11:29:44-05:00",
+      "product_id": 7495944241240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_ULTRA_SAGEGREEN_BACK.jpg?v=1703176184",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010173186136,
+      "created_at": "2023-12-21T11:29:41-05:00",
+      "position": 2,
+      "updated_at": "2023-12-21T11:29:44-05:00",
+      "product_id": 7495944241240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_ULTRA_SAGEGREEN_BACK_45L.jpg?v=1703176184",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32010173218904,
+      "created_at": "2023-12-21T11:29:41-05:00",
+      "position": 3,
+      "updated_at": "2023-12-21T11:29:44-05:00",
+      "product_id": 7495944241240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_ULTRA_SAGEGREEN_BACK_45R.jpg?v=1703176184",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S24_ULTRA_SAGEGREEN_BACK.jpg?v=1703176184",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

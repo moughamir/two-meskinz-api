@@ -1,0 +1,82 @@
+{
+  "id": 7627273961581,
+  "title": "Pura Mini Volcano Set",
+  "handle": "pura-mini-volcano-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">This set includes one Capri Blue Volcano fragrance vial and a Pura Mini™ smart home diffuser.</p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><i style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-stringify-type=\"italic\">This product is excluded from promos and discounts.</i><br></p>",
+  "published_at": "2025-04-15T19:08:30-06:00",
+  "created_at": "2025-03-25T13:09:31-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Mini Set",
+  "tags": [
+    "Brand:Capri Blue",
+    "Group_Home",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_volcano"
+  ],
+  "variants": [
+    {
+      "id": 42265892716653,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02160",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 499,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7627273961581,
+      "created_at": "2025-03-25T13:09:31-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33978404274285,
+      "created_at": "2025-03-25T13:19:24-06:00",
+      "position": 1,
+      "updated_at": "2025-03-25T13:19:26-06:00",
+      "product_id": 7627273961581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Volcano-MiniSet-0125-1.png?v=1742930366",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33978404307053,
+      "created_at": "2025-03-25T13:19:24-06:00",
+      "position": 2,
+      "updated_at": "2025-03-25T13:19:26-06:00",
+      "product_id": 7627273961581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Volcano-MiniSet-0125-2.png?v=1742930366",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Volcano-MiniSet-0125-1.png?v=1742930366",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Mini Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

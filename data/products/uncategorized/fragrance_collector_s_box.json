@@ -1,0 +1,69 @@
+{
+  "id": 7673824542829,
+  "title": "Fragrance Collector’s Box",
+  "handle": "fragrance-collector-s-box",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Your scents, beautifully stored. A refined storage solution designed to keep your Pura fragrances organized, protected, and always within reach.<br></p>",
+  "published_at": "2025-08-26T09:57:43-06:00",
+  "created_at": "2025-06-23T10:29:39-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Gift",
+  "tags": [
+    "remove-klevu",
+    "remove-search",
+    "remove-subs"
+  ],
+  "variants": [
+    {
+      "id": 42612720894061,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "465-01543",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7673824542829,
+      "created_at": "2025-06-23T10:29:39-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34590931779693,
+      "created_at": "2025-06-23T10:53:10-06:00",
+      "position": 1,
+      "updated_at": "2025-06-23T10:53:12-06:00",
+      "product_id": 7673824542829,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-FragranceStorageBox-0525--7.jpg?v=1750697592",
+      "width": 3911,
+      "height": 4828
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura-FragranceStorageBox-0525--7.jpg?v=1750697592",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

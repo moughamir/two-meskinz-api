@@ -1,0 +1,110 @@
+{
+  "id": 8164304781400,
+  "title": "Seashell Jolly Doggos iPhone 13 Pro Max Case",
+  "handle": "seashell-jolly-doggos-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p class=\"p1\">Get ready to fetch some holiday joy with our Jolly Doggos Phone Case! Featuring a pack of playful pups decked out in their coziest holiday sweaters, this case is barking with festive fun. From wagging tails to reindeer ears, these adorable doggos are here to spread cheer while keeping your phone protected. Made with eco-friendly materials that are as kind to the planet as a puppy’s love, this case is a perfect gift for you <i>and</i> the Earth. Keep your phone safe in paws-itively cute style this season! 🐶🎁✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-31T09:08:40-04:00",
+  "created_at": "2024-10-21T14:06:05-04:00",
+  "updated_at": "2025-09-22T15:15:32-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Festive",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Jolly Doggos",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42345454141528,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:JOLLY-DOGGOS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8164304781400,
+      "created_at": "2024-10-21T14:06:06-04:00",
+      "updated_at": "2025-09-22T15:15:32-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33832581038168,
+      "created_at": "2024-10-21T14:06:05-04:00",
+      "position": 1,
+      "updated_at": "2024-10-21T14:06:08-04:00",
+      "product_id": 8164304781400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP13PMAX_Seashell.jpg?v=1729533968",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33880372052056,
+      "created_at": "2024-10-28T14:27:09-04:00",
+      "position": 2,
+      "updated_at": "2024-10-28T14:27:10-04:00",
+      "product_id": 8164304781400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP2_ec505076-9e13-46c8-9033-4a6b3f386b77.jpg?v=1730140030",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880372084824,
+      "created_at": "2024-10-28T14:27:09-04:00",
+      "position": 3,
+      "updated_at": "2024-10-28T14:27:10-04:00",
+      "product_id": 8164304781400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP1_7f401299-ee37-44b8-97c1-b3f51f27ffea.jpg?v=1730140030",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33880371724376,
+      "created_at": "2024-10-28T14:27:08-04:00",
+      "position": 4,
+      "updated_at": "2024-10-28T14:27:10-04:00",
+      "product_id": 8164304781400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/JollyDoggos_PDP3_88cbf07d-a54f-4f4c-8e9e-ec2afdd75ded.jpg?v=1730140030",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/JOLLY-DOGGOS_IP13PMAX_Seashell.jpg?v=1729533968",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

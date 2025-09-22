@@ -1,0 +1,107 @@
+{
+  "id": 8444696428632,
+  "title": "London Fog Ocean Knit iPhone 17 Pro Max Case",
+  "handle": "london-fog-ocean-knit-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Cozy up to the salty sea breeze with <em data-start=\"1470\" data-end=\"1482\">Ocean Knit Phone Case</em>! Inspired by classic fisherman sweaters, this case features a knitted wave and anchor pattern in deep navy tones. Whether you're out on the water or just love a good nautical vibe, this case keeps things warm, stylish, and sustainable.<meta charset=\"utf-8\">🌊🧶</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:11:45-04:00",
+  "created_at": "2025-08-08T11:51:18-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ocean Knit",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184183148632,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17580-IP17PMAX-LFOG-AOD:OCEAN-KNIT_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444696428632,
+      "created_at": "2025-09-03T18:39:10-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184183181400,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17580-IP17PMAX-LFOG-AOD:OCEAN-KNIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444696428632,
+      "created_at": "2025-09-03T18:39:10-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567282585688,
+      "created_at": "2025-08-08T11:51:18-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:21-04:00",
+      "product_id": 8444696428632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-KNIT_IP17PMAX_LondonFog.jpg?v=1754668281",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34743430479960,
+      "created_at": "2025-03-25T13:40:32-04:00",
+      "position": 2,
+      "updated_at": "2025-08-13T10:56:35-04:00",
+      "product_id": 8444696428632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Ocean_Knit.jpg?v=1755096995",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-KNIT_IP17PMAX_LondonFog.jpg?v=1754668281",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

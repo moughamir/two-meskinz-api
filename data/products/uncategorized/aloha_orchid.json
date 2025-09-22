@@ -1,0 +1,116 @@
+{
+  "id": 7051705319533,
+  "title": "Aloha Orchid",
+  "handle": "aloha-orchid",
+  "body_html": "<p>Notes of <strong>orchid</strong>, <strong>jasmine</strong>, and <strong>gardenia</strong> blend to create a scent that’s strong but not overpowering and floral without being fussy.</p>",
+  "published_at": "2023-08-14T19:49:58-06:00",
+  "created_at": "2023-08-09T16:19:02-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_alohaorchid"
+  ],
+  "variants": [
+    {
+      "id": 40702257922157,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LWQH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705319533,
+      "created_at": "2023-08-09T16:19:02-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30848792985709,
+      "created_at": "2023-12-11T20:32:13-07:00",
+      "position": 1,
+      "updated_at": "2023-12-11T20:32:26-07:00",
+      "product_id": 7051705319533,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-AlohaOrchid-Vertical-Resized.jpg?v=1702351946",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31648896548973,
+      "created_at": "2024-04-13T14:35:26-06:00",
+      "position": 2,
+      "updated_at": "2024-04-13T14:35:31-06:00",
+      "product_id": 7051705319533,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Orchid-Ingredients-resized.jpg?v=1713040531",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30350191657069,
+      "created_at": "2023-08-14T18:28:15-06:00",
+      "position": 3,
+      "updated_at": "2024-04-13T14:35:31-06:00",
+      "product_id": 7051705319533,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Aloha-Orchid-Device-V4.jpg?v=1713040531",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30848792952941,
+      "created_at": "2023-12-11T20:32:13-07:00",
+      "position": 4,
+      "updated_at": "2024-04-13T14:35:31-06:00",
+      "product_id": 7051705319533,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-AlohaOrchid-Overhead-Shadow-Resized.jpg?v=1713040531",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-AlohaOrchid-Vertical-Resized.jpg?v=1702351946",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8453533237415,
+  "title": "Battery-Operated Bolt Cutter, Steel, 4 Ah",
+  "handle": "kp6040250",
+  "body_html": null,
+  "published_at": "2025-01-24T09:06:34-06:00",
+  "created_at": "2025-01-24T09:06:32-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46501147443367,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6040250",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "3638.35",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453533237415,
+      "created_at": "2025-01-24T09:06:32-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 3638.35,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

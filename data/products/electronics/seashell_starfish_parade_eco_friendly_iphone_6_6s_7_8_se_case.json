@@ -1,0 +1,97 @@
+{
+  "id": 8385756758104,
+  "title": "Seashell Starfish Parade iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-starfish-parade-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a seaside celebration with the Starfish Parade Phone Case! Featuring a colorful cast of coral-cuties in pinks, purples, and sunset orange, this case is a beachy dream come true. It's like a tide pool dance party in your pocket—no shell required. Perfect for anyone who believes life’s better with a splash of ocean sparkle. 🌊⭐🧡</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:26:44-04:00",
+  "created_at": "2025-05-27T09:18:36-04:00",
+  "updated_at": "2025-09-22T15:13:56-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Starfish Parade",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908177727576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:STARFISH-PARADE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385756758104,
+      "created_at": "2025-05-27T09:18:36-04:00",
+      "updated_at": "2025-09-22T15:13:56-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101690167384,
+      "created_at": "2025-05-27T09:18:36-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:38-04:00",
+      "product_id": 8385756758104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STARFISH-PARADE_IP7_Seashell.jpg?v=1748351918",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102110679128,
+      "created_at": "2025-05-27T11:09:52-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:09:52-04:00",
+      "product_id": 8385756758104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3d93d2bd231ada264dda70cb562ad896_23c09454-26ce-4117-aafb-f36f992860bc.jpg?v=1748358592",
+      "width": 4196,
+      "height": 4196
+    },
+    {
+      "id": 35102111072344,
+      "created_at": "2025-05-27T11:09:54-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:09:54-04:00",
+      "product_id": 8385756758104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a3b79abae2229818cef56fa81578c292_7d29b776-20a9-4f98-8ff5-3d75d0f9b49f.jpg?v=1748358594",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STARFISH-PARADE_IP7_Seashell.jpg?v=1748351918",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

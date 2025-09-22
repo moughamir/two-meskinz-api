@@ -1,0 +1,119 @@
+{
+  "id": 7051711905901,
+  "title": "SoHo",
+  "handle": "soho",
+  "body_html": "<p>Inspired by New York City’s renowned SoHo neighborhood, this fragrance evokes the refinement and history of the area with dark<strong> amber</strong>, <strong>sandalwood</strong>, and soft <strong>musk</strong>.</p>",
+  "published_at": "2023-08-14T19:51:58-06:00",
+  "created_at": "2023-08-09T16:20:24-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "GUY FOX",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:GUY FOX",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Amber",
+    "Scent Type_Fresh",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_soho"
+  ],
+  "variants": [
+    {
+      "id": 40702265294957,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SOHH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "17.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051711905901,
+      "created_at": "2023-08-09T16:20:24-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827782570093,
+      "created_at": "2023-12-07T14:01:11-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T14:01:36-07:00",
+      "product_id": 7051711905901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/soho-prod-1-resized.jpg?v=1701982896",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827782602861,
+      "created_at": "2023-12-07T14:01:11-07:00",
+      "position": 2,
+      "updated_at": "2023-12-07T14:03:53-07:00",
+      "product_id": 7051711905901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sandalwoodresized_f7f41051-adbd-4f49-bde6-9c44e087ff3e.jpg?v=1701983033",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30440567177325,
+      "created_at": "2023-09-08T15:19:04-06:00",
+      "position": 3,
+      "updated_at": "2023-12-07T14:03:53-07:00",
+      "product_id": 7051711905901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Guy-Fox-SoHo-Device-V4.jpg?v=1701983033",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827782537325,
+      "created_at": "2023-12-07T14:01:10-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T14:03:53-07:00",
+      "product_id": 7051711905901,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Guy-Fox-soho-Overhead--resized.jpg?v=1701983033",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 17.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/soho-prod-1-resized.jpg?v=1701982896",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "GUY FOX",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

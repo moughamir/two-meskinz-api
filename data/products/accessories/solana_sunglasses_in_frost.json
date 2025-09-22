@@ -1,0 +1,117 @@
+{
+  "id": 6760244576344,
+  "title": "Solana Sunglasses in Frost",
+  "handle": "solana-sunglasses-in-frost",
+  "body_html": "<span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Back and better than ever. Meet the Solana, Cocos, and Nusa sunglasses. Our newest frames are stylish and sophisticated — the perfect addition to your favorite outfit (or loungewear!).  Offering full UVA/UVB protection, these sunnies are comfortable and durable<span data-mce-fragment=\"1\">. </span><span data-mce-fragment=\"1\">Eyewear for People Who Care: </span><span data-mce-fragment=\"1\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span></span>",
+  "published_at": "2025-05-08T09:13:20-04:00",
+  "created_at": "2021-09-17T17:02:47-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Solana"
+  ],
+  "variants": [
+    {
+      "id": 39606556950616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "42000-SOLANA-FROST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6760244576344,
+      "created_at": "2021-09-17T17:02:47-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28654085701720,
+      "created_at": "2021-09-21T13:50:27-04:00",
+      "position": 1,
+      "updated_at": "2021-09-21T13:50:29-04:00",
+      "product_id": 6760244576344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-FROST-FRONT.jpg?v=1632246629",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654085636184,
+      "created_at": "2021-09-21T13:50:27-04:00",
+      "position": 2,
+      "updated_at": "2021-09-21T13:50:28-04:00",
+      "product_id": 6760244576344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-FRONT-ANGLE.jpg?v=1632246628",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654085734488,
+      "created_at": "2021-09-21T13:50:27-04:00",
+      "position": 3,
+      "updated_at": "2021-09-21T13:50:29-04:00",
+      "product_id": 6760244576344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-FROST-BACK-ANGLE.jpg?v=1632246629",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654085668952,
+      "created_at": "2021-09-21T13:50:27-04:00",
+      "position": 4,
+      "updated_at": "2021-09-21T13:50:28-04:00",
+      "product_id": 6760244576344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A0612.jpg?v=1632246628",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28798471241816,
+      "created_at": "2021-10-13T14:01:43-04:00",
+      "position": 5,
+      "updated_at": "2021-10-13T14:01:43-04:00",
+      "product_id": 6760244576344,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A9865.jpg?v=1634148103",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-FROST-FRONT.jpg?v=1632246629",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

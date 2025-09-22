@@ -1,0 +1,109 @@
+{
+  "id": 8406076424280,
+  "title": "Black Tropic Noir iPhone 15 Pro Case",
+  "handle": "black-tropic-noir-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn up the drama, tropical style. The Tropic Noir Phone Case is your go-to for jungle vibes after dark—packed with lush, hand-drawn leaves in vibrant pinks, teals, and greens that pop against a moody black backdrop. It’s bold, it’s botanical, and it’s ready to bring a little wild to your everyday.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-10T08:57:13-04:00",
+  "created_at": "2025-06-17T14:37:34-04:00",
+  "updated_at": "2025-09-22T15:13:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Tropical Plants",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tropic Noir",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42990987575384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17050-IP15P-BLACK-AOD:TROPIC-NOIR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8406076424280,
+      "created_at": "2025-06-17T14:37:34-04:00",
+      "updated_at": "2025-09-22T15:13:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35241728475224,
+      "created_at": "2025-06-17T14:37:34-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T14:37:36-04:00",
+      "product_id": 8406076424280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-NOIR_IP15P_Black.jpg?v=1750185456",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359273123928,
+      "created_at": "2025-07-04T14:13:46-04:00",
+      "position": 2,
+      "updated_at": "2025-07-04T14:13:46-04:00",
+      "product_id": 8406076424280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9cc59299dd4b1b1262aa48718aa1daa2_64443667-9859-4606-9472-5d42b07ceec7.jpg?v=1751652826",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359273549912,
+      "created_at": "2025-07-04T14:13:48-04:00",
+      "position": 3,
+      "updated_at": "2025-07-04T14:13:48-04:00",
+      "product_id": 8406076424280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8eff27cab364208b36646ca514de4f4c_09480b74-1335-4b62-a384-66514f4b06cb.jpg?v=1751652828",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359273877592,
+      "created_at": "2025-07-04T14:13:50-04:00",
+      "position": 4,
+      "updated_at": "2025-07-04T14:13:50-04:00",
+      "product_id": 8406076424280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4910554484a02461ae142df33b1b7637_9b76ef25-0026-452f-9505-59e0538d5131.jpg?v=1751652830",
+      "width": 4333,
+      "height": 4333
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-NOIR_IP15P_Black.jpg?v=1750185456",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

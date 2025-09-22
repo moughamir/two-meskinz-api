@@ -1,0 +1,68 @@
+{
+  "id": 5478222495911,
+  "title": "Precision Compression Spring: 0.9400\" OD, 9\" Free Length",
+  "handle": "99-011-609",
+  "body_html": "<br><strong>Item #: </strong>16894354<br><strong>Brand: </strong>Associated Spring Raymond<br><strong>Model #: </strong>C0940-098-9000S<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Outside Diameter (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>0.9400</td>\n</tr>\n<tr> <td> <strong>Free Length (Inch)</strong>\n</td>\n<td>9</td>\n</tr>\n<tr> <td> <strong>Spring Rate</strong>\n</td>\n<td>6.8</td>\n</tr>\n<tr> <td> <strong>End Type</strong>\n</td>\n<td>Square</td>\n</tr>\n<tr> <td> <strong>Maximum Work Load (Lb.)</strong>\n</td>\n<td>30.40</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Stainless Steel</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Plain</td>\n</tr>\n<tr> <td> <strong>Wire Size (Decimal Inch)</strong>\n</td>\n<td>0.0980</td>\n</tr>\n<tr> <td> <strong>Hole Diameter (Decimal Inch)</strong>\n</td>\n<td>0.7400</td>\n</tr>\n<tr> <td> <strong>Spring Type</strong>\n</td>\n<td>Precision</td>\n</tr>\n<tr> <td> <strong>Solid Height (Decimal Inch)</strong>\n</td>\n<td>3.2500</td>\n</tr>\n<tr> <td> <strong>Free Length (Decimal Inch)</strong>\n</td>\n<td>9.0000</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Silver</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>AMS 5688; ASTM A313</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31161904</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:22:10-06:00",
+  "created_at": "2020-07-14T00:05:19-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Associated Spring Raymond",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Drilling & Drill Bits",
+    "Shock Absorbers & Springs"
+  ],
+  "variants": [
+    {
+      "id": 35206686900391,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16894354",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5478222495911,
+      "created_at": "2020-07-14T00:05:19-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38245025972391,
+      "created_at": "2025-02-03T22:55:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:55:05-06:00",
+      "product_id": 5478222495911,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1057723-21_9c57ab6f-8fcf-450f-8e1d-d90d2b8501e0.jpg?v=1738644905",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1057723-21_9c57ab6f-8fcf-450f-8e1d-d90d2b8501e0.jpg?v=1738644905",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Associated Spring Raymond",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

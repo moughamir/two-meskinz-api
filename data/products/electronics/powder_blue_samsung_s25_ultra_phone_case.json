@@ -1,0 +1,92 @@
+{
+  "id": 8190702387288,
+  "title": "Powder Blue Samsung S25 Ultra Phone Case",
+  "handle": "powder-blue-samsung-s25-ultra-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-01-22T09:06:49-05:00",
+  "created_at": "2024-11-19T12:08:27-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42406568722520,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13963-S25ULTRA-POWDERBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190702387288,
+      "created_at": "2024-11-19T12:08:27-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34089745416280,
+      "created_at": "2024-12-06T15:39:53-05:00",
+      "position": 1,
+      "updated_at": "2024-12-06T15:39:55-05:00",
+      "product_id": 8190702387288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_POWDERBLUE_BACK.jpg?v=1733517595",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089745481816,
+      "created_at": "2024-12-06T15:39:53-05:00",
+      "position": 2,
+      "updated_at": "2024-12-06T15:39:55-05:00",
+      "product_id": 8190702387288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_POWDERBLUE_BACK_45L.jpg?v=1733517595",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089745449048,
+      "created_at": "2024-12-06T15:39:53-05:00",
+      "position": 3,
+      "updated_at": "2024-12-06T15:39:55-05:00",
+      "product_id": 8190702387288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_POWDERBLUE_BACK_45R.jpg?v=1733517595",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_POWDERBLUE_BACK.jpg?v=1733517595",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5255261847719,
+  "title": "Boring Bar: 0.1200\" Min Bore Dia, 0.3500\" Max Bore Depth, Right Hand, 3/16\" Shank Dia, Micrograin Solid Carbide",
+  "handle": "39034178",
+  "body_html": "<br><strong>Item #: </strong>09795170<br><strong>Brand: </strong>Internal Tool<br><strong>Model #: </strong>10-1150-A<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Boring Bar Type</strong>\n</td>\n<td>Boring</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Minimum Bore Diameter (Decimal Inch)</strong>\n</td>\n<td>0.1200</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Carbide</td>\n</tr>\n<tr> <td> <strong>Material Grade</strong>\n</td>\n<td>Micrograin</td>\n</tr>\n<tr> <td> <strong>Maximum Bore Depth (Decimal Inch)</strong>\n</td>\n<td>0.3500</td>\n</tr>\n<tr> <td> <strong>Projection (Decimal Inch)</strong>\n</td>\n<td>0.3500</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>3/16</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>2-1/2</td>\n</tr>\n<tr> <td> <strong>Bar End Angle</strong>\n</td>\n<td>1.5</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>10</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>2.5000</td>\n</tr>\n<tr> <td> <strong>Primary Workpiece Material</strong>\n</td>\n<td>Universal</td>\n</tr>\n<tr> <td> <strong>Relief Angle</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23241601</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:48:21-06:00",
+  "created_at": "2020-05-29T17:38:03-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Internal Tool",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools",
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34503963771047,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09795170",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5255261847719,
+      "created_at": "2020-05-29T17:38:03-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244318806183,
+      "created_at": "2025-02-03T22:32:26-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:32:27-06:00",
+      "product_id": 5255261847719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0927157-21_8280881f-07ad-47a4-ab69-11b32793be48.jpg?v=1738643547",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0927157-21_8280881f-07ad-47a4-ab69-11b32793be48.jpg?v=1738643547",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Internal Tool",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

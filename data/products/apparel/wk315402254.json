@@ -1,0 +1,67 @@
+{
+  "id": 7785307439271,
+  "title": "Brand: Milwaukee Tool / Part #: 49-25-1249",
+  "handle": "wk315402254",
+  "body_html": "<br><strong>Item #: </strong>48131585<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>49-25-1249<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Multi-Material Blade</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Multi-Tool</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>10</td>\n</tr>\n<tr>\n<td><strong>Number of Pieces</strong></td>\n<td>10</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(10) 2-1/2 in Titanium Bi-Metal Wood with Nail Blades</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:00:23-06:00",
+  "created_at": "2023-12-28T17:00:23-06:00",
+  "updated_at": "2025-09-22T10:55:46-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Power Tools",
+  "tags": [
+    "Rotary & Multi-Tools & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43703592681639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48131585",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "108.71",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785307439271,
+      "created_at": "2023-12-28T17:00:23-06:00",
+      "updated_at": "2025-09-22T10:55:46-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236669804711,
+      "created_at": "2025-02-03T17:50:00-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:50:01-06:00",
+      "product_id": 7785307439271,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4813158-21.jpg?v=1738626601",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 108.71,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4813158-21.jpg?v=1738626601",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

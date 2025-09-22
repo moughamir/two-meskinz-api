@@ -1,0 +1,130 @@
+{
+  "id": 7420522102872,
+  "title": "Seashell Succulent Cacti Google Pixel 6 Case",
+  "handle": "seashell-succulent-cacti-eco-friendly-google-pixel-6-case",
+  "body_html": "<p><span>Introducing the Succulent Cacti Phone Case, a vibrant tribute to the resilient beauty of the desert, from the Coastal Cowgirl Collection by Pela.  The intricate design, featuring a variety of cacti, brings a piece of the arid desert to your daily life, adding a touch of nature's artistry to your tech. 🌵🌿🌊</span></p>\n<p><span>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2023-09-21T09:12:50-04:00",
+  "created_at": "2023-09-13T16:33:11-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Cowgirl",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Succulent Cacti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40265508847704,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14708-PX6-SEASHELL-AOD:SUCCULENT-CACTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7420522102872,
+      "created_at": "2023-09-13T16:33:11-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30362323124312,
+      "created_at": "2023-09-13T16:33:11-04:00",
+      "position": 1,
+      "updated_at": "2023-09-13T16:33:11-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUCCULENT-CACTI_PX6_Seashell.jpg?v=1694637191",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31774686216280,
+      "created_at": "2023-09-18T17:28:56-04:00",
+      "position": 2,
+      "updated_at": "2023-09-18T17:28:57-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalCowgirl5.jpg?v=1695072537",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388317272,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 3,
+      "updated_at": "2025-08-12T10:54:51-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_1.jpg?v=1755010491",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388382808,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 4,
+      "updated_at": "2025-08-12T10:55:04-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_2.jpg?v=1755010504",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388350040,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 5,
+      "updated_at": "2025-08-12T10:55:13-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Succulent_Cacti_3.jpg?v=1755010513",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776388284504,
+      "created_at": "2023-09-20T13:41:22-04:00",
+      "position": 6,
+      "updated_at": "2023-09-20T13:41:29-04:00",
+      "product_id": 7420522102872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2025_37d040a0-d6c5-4306-87b0-f57b3c52a5d2.jpg?v=1695231689",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUCCULENT-CACTI_PX6_Seashell.jpg?v=1694637191",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

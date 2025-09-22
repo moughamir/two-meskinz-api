@@ -1,0 +1,119 @@
+{
+  "id": 7927955783727,
+  "title": "Stranger Things Cartoon Pattern Tote Bag",
+  "handle": "stranger-things-cartoon-pattern-tote-bag",
+  "body_html": "<p>Carry a piece of Hawkins with you wherever you go with the <em>Stranger Things</em> Cartoon Pattern Tote Bag. Featuring playful, retro designs of your favorite characters and iconic moments, this bag is perfect for packing all your essentials—whether you're off to the mall or heading into the Upside Down. Light, durable, and full of charm, it's the ultimate accessory for any <em>Stranger Things</em> fan who wants to stay stylish and a little bit mysterious. What's in your bag?</p><ul>\n<li>Dimensions: Bag 15\" x 15\"</li>\n<li>Maximum weight limit: 44lb</li>\n<li>Handle length: 11.8\". </li>\n<li>Made Of: 100% spun polyester fabric, Dual handles 100% natural cotton bull denim. </li>\n<li>Care: Handwash.</li>\n</ul>",
+  "published_at": "2025-03-10T10:11:04-04:00",
+  "created_at": "2025-02-17T08:28:10-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "8005728",
+    "Accessories",
+    "All-Over Print",
+    "Bags",
+    "ST-02-0225",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Type: Bags",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43603990577199,
+      "title": "Black Handles / 15 in x 15 in",
+      "option1": "Black Handles",
+      "option2": "15 in x 15 in",
+      "option3": null,
+      "sku": "ST-100645-0001-ST-PTC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35545197051951,
+        "product_id": 7927955783727,
+        "position": 1,
+        "created_at": "2025-02-17T08:28:10-05:00",
+        "updated_at": "2025-02-17T08:28:10-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-PTC_54_100645_FT_MF.jpg?v=1739798890",
+        "variant_ids": [
+          43603990577199
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7927955783727,
+      "created_at": "2025-02-17T08:28:10-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35545197051951,
+      "created_at": "2025-02-17T08:28:10-05:00",
+      "position": 1,
+      "updated_at": "2025-02-17T08:28:10-05:00",
+      "product_id": 7927955783727,
+      "variant_ids": [
+        43603990577199
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-PTC_54_100645_FT_MF.jpg?v=1739798890",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35545197084719,
+      "created_at": "2025-02-17T08:28:10-05:00",
+      "position": 2,
+      "updated_at": "2025-02-17T08:28:10-05:00",
+      "product_id": 7927955783727,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-PTC_54_100645_BK_MF.jpg?v=1739798890",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35545197117487,
+      "created_at": "2025-02-17T08:28:10-05:00",
+      "position": 3,
+      "updated_at": "2025-02-17T08:28:10-05:00",
+      "product_id": 7927955783727,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-PTC_54_100645_FT_MF2.jpg?v=1739798890",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Handles"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "15 in x 15 in"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-PTC_54_100645_FT_MF.jpg?v=1739798890",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

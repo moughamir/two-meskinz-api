@@ -1,0 +1,110 @@
+{
+  "id": 7590355402861,
+  "title": "Original Scent",
+  "handle": "original-scent-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">This tranquil blend of <strong>milk</strong>, <strong>oatmeal</strong>, <strong>vetiver</strong>, and <strong>vanilla</strong> will bring comforting, sweet notes to every commute.</p>",
+  "published_at": "2025-01-28T11:16:10-07:00",
+  "created_at": "2025-01-09T13:06:25-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Barr-Co.",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Barr-Co.",
+    "collection:Car",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Car",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Strength_Medium",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 41994028941421,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "IOQC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7590355402861,
+      "created_at": "2025-01-09T13:06:25-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33545985753197,
+      "created_at": "2025-01-09T13:26:16-07:00",
+      "position": 1,
+      "updated_at": "2025-01-09T13:26:19-07:00",
+      "product_id": 7590355402861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BarrCo.-OriginalScent-Car-Prod1-1224.jpg?v=1736454379",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33545985818733,
+      "created_at": "2025-01-09T13:26:16-07:00",
+      "position": 2,
+      "updated_at": "2025-01-09T13:26:21-07:00",
+      "product_id": 7590355402861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/milk-resized2_e7551a81-d654-4cea-99f4-f365436d1907.jpg?v=1736454381",
+      "width": 2400,
+      "height": 3199
+    },
+    {
+      "id": 33546153263213,
+      "created_at": "2025-01-09T14:30:20-07:00",
+      "position": 3,
+      "updated_at": "2025-01-09T14:30:26-07:00",
+      "product_id": 7590355402861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/OriginalScent-BarrCo-Car-Prod3-0125_1.png?v=1736458226",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 33545985720429,
+      "created_at": "2025-01-09T13:26:16-07:00",
+      "position": 4,
+      "updated_at": "2025-01-09T14:30:26-07:00",
+      "product_id": 7590355402861,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BarrCo.-OriginalScent-Car-Prod4-1224.jpg?v=1736458226",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BarrCo.-OriginalScent-Car-Prod1-1224.jpg?v=1736454379",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Barr-Co.",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

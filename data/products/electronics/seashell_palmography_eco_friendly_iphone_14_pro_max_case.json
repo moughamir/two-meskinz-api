@@ -1,0 +1,109 @@
+{
+  "id": 8406075277400,
+  "title": "Seashell Palmography iPhone 14 Pro Max Case",
+  "handle": "seashell-palmography-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p data-start=\"0\" data-end=\"79\">Say hello to your daily dose of wanderlust: the Palmography Phone Case 🌴🧡</p>\n<p data-start=\"81\" data-end=\"357\">This palm-packed pattern is a scrapbook of sunshine, splashed with doodle-style palms, wavy lines, and tropical frames that scream “wish you were here!” in the cutest way possible. With juicy orange, leafy green, and sandy tones, it’s basically a beach postcard you can carry.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-10T08:57:31-04:00",
+  "created_at": "2025-06-17T14:37:30-04:00",
+  "updated_at": "2025-09-22T15:13:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Tropical Plants",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Palmography",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42990986428504,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:PALMOGRAPHY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8406075277400,
+      "created_at": "2025-06-17T14:37:30-04:00",
+      "updated_at": "2025-09-22T15:13:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35241725624408,
+      "created_at": "2025-06-17T14:37:30-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T14:37:32-04:00",
+      "product_id": 8406075277400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PALMOGRAPHY_IP14PMAX_Seashell.jpg?v=1750185452",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35359272140888,
+      "created_at": "2025-07-04T14:13:41-04:00",
+      "position": 2,
+      "updated_at": "2025-07-04T14:13:41-04:00",
+      "product_id": 8406075277400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/13402465d73fa331493153863c3f244e_416e8b20-4d62-4a13-ae1b-92ffecf3bb10.jpg?v=1751652821",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359272730712,
+      "created_at": "2025-07-04T14:13:43-04:00",
+      "position": 3,
+      "updated_at": "2025-07-04T14:13:43-04:00",
+      "product_id": 8406075277400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/39d9ef441d1e14b3e82ca8f63f5b7629_48a5c0e7-3f4e-490c-87c5-b1d570abd006.jpg?v=1751652823",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35359272960088,
+      "created_at": "2025-07-04T14:13:45-04:00",
+      "position": 4,
+      "updated_at": "2025-07-04T14:13:45-04:00",
+      "product_id": 8406075277400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/99f0bfcc039339d1e88256b7459212b1_4e34fd92-bc40-4be4-a8b8-beab7889dd93.jpg?v=1751652825",
+      "width": 3886,
+      "height": 3886
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PALMOGRAPHY_IP14PMAX_Seashell.jpg?v=1750185452",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 8278278078552,
+  "title": "Chocolate Brown Google Pixel 7 Pro Phone Case",
+  "handle": "chocolate-brown-google-pixel-7-pro-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:17:13-05:00",
+  "created_at": "2025-02-04T10:23:47-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7 Pro",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642249252952,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14882-PX7P-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278278078552,
+      "created_at": "2025-02-04T10:23:47-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569285304408,
+      "created_at": "2025-02-20T10:47:36-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:47:38-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7P_CHOCOLATE_BROWN_BACK.jpg?v=1740066458",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569285271640,
+      "created_at": "2025-02-20T10:47:37-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:47:38-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7P_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066458",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569285337176,
+      "created_at": "2025-02-20T10:47:37-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:47:38-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7P_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066458",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569392717912,
+      "created_at": "2025-02-20T11:03:57-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:03:59-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_2e967353-f108-4f44-8910-3062b3f019ae.jpg?v=1740067439",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569392652376,
+      "created_at": "2025-02-20T11:03:57-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:03:58-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_1cb7e223-61e4-4342-9c2f-a2c0b7114e30.jpg?v=1740067438",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569392685144,
+      "created_at": "2025-02-20T11:03:57-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:03:58-05:00",
+      "product_id": 8278278078552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_1b6f7c54-d2de-48be-a318-962f86f77b17.jpg?v=1740067438",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7P_CHOCOLATE_BROWN_BACK.jpg?v=1740066458",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

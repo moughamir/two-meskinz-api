@@ -1,0 +1,87 @@
+{
+  "id": 8381660594264,
+  "title": "London Fog Kitty Cats iPhone 16 Plus Case",
+  "handle": "london-fog-kitty-cats-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Say hello to the purr-fect accessory for cat lovers! The Kitty Cats Phone Case is a whimsical celebration of our feline friends, featuring a delightful array of cat illustrations in various playful poses. From curious kittens to lounging tabbies, this case captures the diverse personalities of cats in a charming and fun design. It's the ideal way to showcase your love for these furry companions while adding a touch of cuteness to your device. Whether you're a proud cat parent or simply adore cats, the Kitty Cats Phone Case is a must-have for your collection! 🐾</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:15:50-04:00",
+  "created_at": "2025-05-21T09:51:37-04:00",
+  "updated_at": "2025-09-22T15:14:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Cats & Dogs",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Kitty Cats",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895727362136,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17360-IP16PLUS-LFOG-AOD:KITTY-CATS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381660594264,
+      "created_at": "2025-05-21T09:51:37-04:00",
+      "updated_at": "2025-09-22T15:14:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065426706520,
+      "created_at": "2025-05-21T09:51:37-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:51:38-04:00",
+      "product_id": 8381660594264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/KITTY-CATS_IP16PLUS_LondonFog.jpg?v=1747835498",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065577373784,
+      "created_at": "2025-05-21T10:32:50-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:32:52-04:00",
+      "product_id": 8381660594264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CATS_DOGSSQ-5995_559c6899-ba95-45d3-9a4d-4190b9d8c67f.jpg?v=1747837972",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/KITTY-CATS_IP16PLUS_LondonFog.jpg?v=1747835498",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

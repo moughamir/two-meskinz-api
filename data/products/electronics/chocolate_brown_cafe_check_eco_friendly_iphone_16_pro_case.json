@@ -1,0 +1,98 @@
+{
+  "id": 8299253989464,
+  "title": "Chocolate Brown Cafe Check iPhone 16 Pro Case",
+  "handle": "chocolate-brown-cafe-check-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">A little bit retro, a little bit mind-bending—<em data-start=\"3168\" data-end=\"3180\">Cafe Check</em> gives the classic checkered pattern a wavy, distorted twist, like the foam art on your cappuccino. Perfect for coffee lovers, vintage fans, and anyone who loves a bold yet timeless design. <meta charset=\"utf-8\">☕♟️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:11:17-04:00",
+  "created_at": "2025-02-26T10:04:16-05:00",
+  "updated_at": "2025-09-22T15:14:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Cafe Check",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697344024664,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17294-IP16P-CHOBROWN-AOD:CAFE-CHECK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299253989464,
+      "created_at": "2025-02-26T10:04:16-05:00",
+      "updated_at": "2025-09-22T15:14:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599147110488,
+      "created_at": "2025-02-26T10:04:16-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:18-05:00",
+      "product_id": 8299253989464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAFE-CHECK_IP16P_ChocolateBrown.jpg?v=1740582258",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672334438488,
+      "created_at": "2025-03-11T16:42:39-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:42:40-04:00",
+      "product_id": 8299253989464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CafeCheck_PDP2_3941c8c3-b29f-4e89-b4cc-a7c80b6b82b1.jpg?v=1741725760",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672334471256,
+      "created_at": "2025-03-11T16:42:39-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:42:40-04:00",
+      "product_id": 8299253989464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CafeCheck_PDP1_2e9fa99d-5bfb-43fb-b740-5e28e2067e1a.jpg?v=1741725760",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAFE-CHECK_IP16P_ChocolateBrown.jpg?v=1740582258",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

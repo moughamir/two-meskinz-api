@@ -1,0 +1,68 @@
+{
+  "id": 5317016748199,
+  "title": "‎Straight Flute Tap; M8 x1.25 mm × 2-23/32″ OAL, 4 Flute, HSS, TiN, D5",
+  "handle": "sg6638723",
+  "body_html": "<br><strong>Item #: </strong>TA15TT75744<br><strong>Brand: </strong>Titan USA<br><strong>Model #: </strong>TT75744<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>M8 </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSS </td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (TP)</strong></td>\n<td>1.25 mm </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| D5 | </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| Metric | </td>\n</tr>\n<tr>\n<td><strong>Special Feature</strong></td>\n<td>General Purpose </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎2-23/32″ </td>\n</tr>\n<tr>\n<td><strong>Standard</strong></td>\n<td>| ANSI | </td>\n</tr>\n<tr>\n<td><strong>Thread Cutting Part Length (THL)</strong></td>\n<td>‎1-1/8″ </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Taper </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>‎1-1/8″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TiN </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.318″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>M8 × 1.25 </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>0 Degrees </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:59:58-06:00",
+  "created_at": "2020-06-11T13:20:55-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Titan USA",
+  "product_type": "Threading",
+  "tags": [
+    "Taps",
+    "Threaded Rods & Studs"
+  ],
+  "variants": [
+    {
+      "id": 34679676633255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TA15TT75744",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.33",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5317016748199,
+      "created_at": "2020-06-11T13:20:55-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143799361703,
+      "created_at": "2025-01-23T22:00:06-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:00:07-06:00",
+      "product_id": 5317016748199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e138828c-0e42-4ed0-8efc-ed91c8b9e95f.png?v=1737691207",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_e138828c-0e42-4ed0-8efc-ed91c8b9e95f.png?v=1737691207",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Titan USA",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

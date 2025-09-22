@@ -1,0 +1,67 @@
+{
+  "id": 7785907355815,
+  "title": "Brand: NIBCO / Part #: NJ73006",
+  "handle": "hc4935740",
+  "body_html": "<br><strong>Item #: </strong>81362055<br><strong>Brand: </strong>NIBCO<br><strong>Model #: </strong>NJ73006<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Valve Type</strong>\n</td>\n<td>Y-Pattern</td>\n</tr>\n<tr>\n<td><strong>Pipe Size</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>End Connection</strong></td>\n<td>Soldered x Soldered</td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>Seal Material</strong></td>\n<td>Bronze</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:50:45-06:00",
+  "created_at": "2023-12-29T06:50:45-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "NIBCO",
+  "product_type": "Hose; Tube; Fittings & Valves",
+  "tags": [
+    "Valves"
+  ],
+  "variants": [
+    {
+      "id": 43705913639079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81362055",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "63.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785907355815,
+      "created_at": "2023-12-29T06:50:45-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237643997351,
+      "created_at": "2025-02-03T18:20:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:20:15-06:00",
+      "product_id": 7785907355815,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8136202-11_8a7dd079-29c3-45bc-8b60-294547a78eee.jpg?v=1738628415",
+      "width": 600,
+      "height": 426
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 63.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8136202-11_8a7dd079-29c3-45bc-8b60-294547a78eee.jpg?v=1738628415",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NIBCO",
+  "category": "Hose; Tube; Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

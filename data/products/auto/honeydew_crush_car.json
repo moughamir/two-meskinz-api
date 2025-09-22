@@ -1,0 +1,112 @@
+{
+  "id": 7614612242541,
+  "title": "Honeydew Crush",
+  "handle": "honeydew-crush-car",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Refresh your drive as juicy notes of tart <strong>grapefruit</strong>, <strong>lemon</strong>, and ripened <strong>honeydew</strong> mingle with <strong>apple blossom</strong>, <strong>cactus</strong> <strong>flower</strong>, and wild <strong>bamboo</strong>. </p>",
+  "published_at": "2025-06-25T09:16:18-06:00",
+  "created_at": "2025-03-03T13:52:54-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "collection:Car",
+    "Group_Car",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "type_CarFragrance21",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 42091858395245,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CBLC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7614612242541,
+      "created_at": "2025-03-03T13:52:55-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33811011272813,
+      "created_at": "2025-03-03T13:57:33-07:00",
+      "position": 1,
+      "updated_at": "2025-03-03T13:57:35-07:00",
+      "product_id": 7614612242541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneyDewCrush-Car-Prod1-0225.jpg?v=1741035455",
+      "width": 3713,
+      "height": 4847
+    },
+    {
+      "id": 33853531127917,
+      "created_at": "2025-03-05T15:50:33-07:00",
+      "position": 2,
+      "updated_at": "2025-03-05T15:50:39-07:00",
+      "product_id": 7614612242541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/honeydew_resized-3_1.jpg?v=1741215039",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33811521929325,
+      "created_at": "2025-03-03T16:26:33-07:00",
+      "position": 3,
+      "updated_at": "2025-03-05T15:50:39-07:00",
+      "product_id": 7614612242541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HoneydewCrush-CapriBlue-Car-Prod3-0303.png?v=1741215039",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 33811049349229,
+      "created_at": "2025-03-03T14:08:23-07:00",
+      "position": 4,
+      "updated_at": "2025-03-05T15:50:39-07:00",
+      "product_id": 7614612242541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneyDewCrush-Car-PDP-0225-3.png?v=1741215039",
+      "width": 1626,
+      "height": 1951
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneyDewCrush-Car-Prod1-0225.jpg?v=1741035455",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

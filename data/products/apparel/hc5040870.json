@@ -1,0 +1,67 @@
+{
+  "id": 7785880322215,
+  "title": "Brand: Gatorade / Part #: 04700",
+  "handle": "hc5040870",
+  "body_html": "<br><strong>Item #: </strong>29289006<br><strong>Brand: </strong>Gatorade<br><strong>Model #: </strong>04700<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drink Type</strong>\n</td>\n<td>Activity</td>\n</tr>\n<tr>\n<td><strong>Form</strong></td>\n<td>Powder</td>\n</tr>\n<tr>\n<td><strong>Container Yields (oz.)</strong></td>\n<td>16.90</td>\n</tr>\n<tr>\n<td><strong>Container Size</strong></td>\n<td>16.90</td>\n</tr>\n<tr>\n<td><strong>Flavor</strong></td>\n<td>Lemon-Lime</td>\n</tr>\n<tr>\n<td><strong>Drink Content Features</strong></td>\n<td>Hydration Electrolytes Single Serve</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Packet</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:41:17-06:00",
+  "created_at": "2023-12-29T05:41:17-06:00",
+  "updated_at": "2025-09-22T10:54:23-05:00",
+  "vendor": "Gatorade",
+  "product_type": "Safety",
+  "tags": [
+    "First Aid; Medical & Hydration"
+  ],
+  "variants": [
+    {
+      "id": 43705744392359,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "29289006",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "66.54",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785880322215,
+      "created_at": "2023-12-29T05:41:18-06:00",
+      "updated_at": "2025-09-22T10:54:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237513777319,
+      "created_at": "2025-02-03T18:17:55-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:17:56-06:00",
+      "product_id": 7785880322215,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2928900-21.jpg?v=1738628276",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 66.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2928900-21.jpg?v=1738628276",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gatorade",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

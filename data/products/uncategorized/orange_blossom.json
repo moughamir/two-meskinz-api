@@ -1,0 +1,119 @@
+{
+  "id": 7051709382765,
+  "title": "Orange Blossom, Lilac & Jasmine",
+  "handle": "orange-blossom",
+  "body_html": "<p>Captivating citrus notes of mandarin and Sicilian lemon blend beautifully with floral notes of <strong>orange blossoms</strong>, <strong>jasmine</strong>, and <strong>lily of the valley</strong>.</p>",
+  "published_at": "2023-08-14T19:51:17-06:00",
+  "created_at": "2023-08-09T16:19:56-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Antica Farmacista",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Antica Farmacista",
+    "collection:Citrus",
+    "DZIH",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_orangeblossomlilacjasmine"
+  ],
+  "variants": [
+    {
+      "id": 40702261592173,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DZIH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051709382765,
+      "created_at": "2023-08-09T16:19:56-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30827488378989,
+      "created_at": "2023-12-07T13:16:35-07:00",
+      "position": 1,
+      "updated_at": "2023-12-07T13:16:48-07:00",
+      "product_id": 7051709382765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-OrangeBlossom-Vetical-Resized.jpg?v=1701980208",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30827488411757,
+      "created_at": "2023-12-07T13:16:35-07:00",
+      "position": 2,
+      "updated_at": "2023-12-07T13:16:48-07:00",
+      "product_id": 7051709382765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mandarin-resized_8b1c94c9-0785-4db5-8999-cb7f912b973f.jpg?v=1701980208",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350239400045,
+      "created_at": "2023-08-14T19:36:31-06:00",
+      "position": 3,
+      "updated_at": "2023-12-07T13:16:50-07:00",
+      "product_id": 7051709382765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Antica-Farmacista-Orange-Blossom-Device-V4.jpg?v=1701980210",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30827488477293,
+      "created_at": "2023-12-07T13:16:35-07:00",
+      "position": 4,
+      "updated_at": "2023-12-07T13:16:50-07:00",
+      "product_id": 7051709382765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-OrangeBlossom-Overhead-Shadow-Resized.jpg?v=1701980210",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnticaFarmacista-OrangeBlossom-Vetical-Resized.jpg?v=1701980208",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Antica Farmacista",
+  "category": "Fragrance",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

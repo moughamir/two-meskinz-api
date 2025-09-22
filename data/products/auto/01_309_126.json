@@ -1,0 +1,67 @@
+{
+  "id": 8452799725735,
+  "title": "Micro Drill Bit: 0.0520\" Dia, 130 deg, Solid Carbide",
+  "handle": "01-309-126",
+  "body_html": "<br><strong>Item #: </strong>93428431<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>GNB0520-C8<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Drill Bit Size (Decimal Inch)</strong>\n</td>\n<td>0.0520</td>\n</tr>\n<tr> <td> <strong>Tool Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Flute Length (Decimal Inch)</strong>\n</td>\n<td>0.3600</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>TiB2</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Drill Point Angle</strong>\n</td>\n<td>130</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Maximum Drilling Depth (Decimal Inch)</strong>\n</td>\n<td>0.3600</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>Miniature High Performance Drills - Aluminum Alloys</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>2.0000</td>\n</tr>\n<tr> <td> <strong>Flute Type</strong>\n</td>\n<td>Spiral</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr> <td> <strong>Point Type</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr> <td> <strong>Tool Application</strong>\n</td>\n<td>Through Hole Drilling</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Decimal Inch)</strong>\n</td>\n<td>0.1250</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>1/8</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23241600</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T18:01:32-06:00",
+  "created_at": "2025-01-23T18:01:31-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 46499125166247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "93428431",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.48",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452799725735,
+      "created_at": "2025-01-23T18:01:31-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38253816873127,
+      "created_at": "2025-02-04T04:04:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T04:04:43-06:00",
+      "product_id": 8452799725735,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9348538-21_5caa155b-cf08-4fd8-997f-d55248f1568a.jpg?v=1738663483",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.48,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9348538-21_5caa155b-cf08-4fd8-997f-d55248f1568a.jpg?v=1738663483",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

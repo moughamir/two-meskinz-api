@@ -1,0 +1,140 @@
+{
+  "id": 8444722577496,
+  "title": "Chocolate Brown Earthy Curves iPhone Air Case",
+  "handle": "chocolate-brown-earthy-curves-eco-friendly-iphone-air-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:47:40-04:00",
+  "created_at": "2025-08-08T12:07:02-04:00",
+  "updated_at": "2025-09-22T15:12:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Earthy Curves",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184120103000,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17547-IP17AIR-CHOBROWN-AOD:EARTHY-CURVES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444722577496,
+      "created_at": "2025-09-03T18:28:58-04:00",
+      "updated_at": "2025-09-22T15:12:45-04:00"
+    },
+    {
+      "id": 43184120135768,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17547-IP17AIR-CHOBROWN-AOD:EARTHY-CURVES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444722577496,
+      "created_at": "2025-09-03T18:28:58-04:00",
+      "updated_at": "2025-09-22T15:12:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567385083992,
+      "created_at": "2025-08-08T12:07:02-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:04-04:00",
+      "product_id": 8444722577496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EARTHY-CURVES_IP17AIR_ChocolateBrown.jpg?v=1754669224",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581725245528,
+      "created_at": "2025-08-11T14:59:37-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:59:37-04:00",
+      "product_id": 8444722577496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9e91c7e4323f6e3ddbf1f3ed60429a22_e1b41f09-7e89-4b39-9d15-240f3b91a703.jpg?v=1754938777",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581725671512,
+      "created_at": "2025-08-11T14:59:39-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:59:39-04:00",
+      "product_id": 8444722577496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4feebeda2f7969d22e19c8690b5c267b_3374bd17-7c50-476a-8579-d07b32845db5.jpg?v=1754938779",
+      "width": 4367,
+      "height": 4367
+    },
+    {
+      "id": 35581725868120,
+      "created_at": "2025-08-11T14:59:40-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:59:40-04:00",
+      "product_id": 8444722577496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_38c78956-e365-4424-bc69-e48ebddf7322.jpg?v=1754938780",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581726064728,
+      "created_at": "2025-08-11T14:59:42-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:59:42-04:00",
+      "product_id": 8444722577496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/5cf1c45fa3864460b546a0e99814f145_ae152004-6985-48ab-b1de-934d303aed91.jpg?v=1754938782",
+      "width": 4281,
+      "height": 4281
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EARTHY-CURVES_IP17AIR_ChocolateBrown.jpg?v=1754669224",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

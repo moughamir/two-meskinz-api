@@ -1,0 +1,119 @@
+{
+  "id": 8429102661720,
+  "title": "Seashell Petal Burst Samsung Galaxy S22 Case",
+  "handle": "seashell-petal-burst-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:22:31-04:00",
+  "created_at": "2025-07-17T07:10:01-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063794401368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13594-S22-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429102661720,
+      "created_at": "2025-07-17T07:10:01-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436659638360,
+      "created_at": "2025-07-17T07:10:01-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:10:02-04:00",
+      "product_id": 8429102661720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_S22_Seashell.jpg?v=1752750602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581717610584,
+      "created_at": "2025-08-11T14:58:53-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:58:53-04:00",
+      "product_id": 8429102661720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_360df562-df69-4c1d-8837-bb8609b15962.jpg?v=1754938733",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581717839960,
+      "created_at": "2025-08-11T14:58:54-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:58:54-04:00",
+      "product_id": 8429102661720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_1d1802dc-066a-4365-a226-495d9e9f2b97.jpg?v=1754938734",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581718036568,
+      "created_at": "2025-08-11T14:58:56-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:58:56-04:00",
+      "product_id": 8429102661720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_502fd8b6-dd95-4eae-ba5e-a045e78fa287.jpg?v=1754938736",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581718200408,
+      "created_at": "2025-08-11T14:58:58-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:58:58-04:00",
+      "product_id": 8429102661720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_905ca976-867b-4b9f-85b9-6aa3f4cc4710.jpg?v=1754938738",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_S22_Seashell.jpg?v=1752750602",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

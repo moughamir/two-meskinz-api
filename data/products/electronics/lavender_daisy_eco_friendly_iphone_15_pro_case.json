@@ -1,0 +1,98 @@
+{
+  "id": 7372994052184,
+  "title": "Lavender Daisy iPhone 15 Pro Case",
+  "handle": "lavender-daisy-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Add a blooming touch to your phone with our sustainable and compostable Lavender Daisy Phone Case. Not only is it stylish with its beautifully designed daisy print, but it's also durable for long-lasting protection. Go green and stay trendy with this flower-inspired case. <meta charset=\"utf-8\"><span>🌼💜🌿</span></p>",
+  "published_at": "2023-09-12T13:59:36-04:00",
+  "created_at": "2023-08-18T10:33:44-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Summer Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Daisy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40256223543384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17052-IP15P-LAV-AOD:DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7372994052184,
+      "created_at": "2023-08-18T10:33:44-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30346900570200,
+      "created_at": "2023-08-18T10:33:44-04:00",
+      "position": 1,
+      "updated_at": "2023-08-18T10:33:44-04:00",
+      "product_id": 7372994052184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP15P_Lavender.jpg?v=1692369224",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30346909450328,
+      "created_at": "2023-08-18T10:58:21-04:00",
+      "position": 2,
+      "updated_at": "2023-08-18T10:58:23-04:00",
+      "product_id": 7372994052184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Summerlife3_e3ea978a-f3ae-4809-bd6d-663344b9ea3a.jpg?v=1692370703",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 30346909417560,
+      "created_at": "2023-08-18T10:58:21-04:00",
+      "position": 3,
+      "updated_at": "2023-08-18T10:58:23-04:00",
+      "product_id": 7372994052184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0591_1_84c56545-af09-45f2-8426-9f0ab5422ccf.jpg?v=1692370703",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP15P_Lavender.jpg?v=1692369224",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

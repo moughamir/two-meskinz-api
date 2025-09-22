@@ -1,0 +1,52 @@
+{
+  "id": 8453285904551,
+  "title": "Safety Helmet Suspension",
+  "handle": "kp6040575",
+  "body_html": null,
+  "published_at": "2025-01-24T00:05:32-06:00",
+  "created_at": "2025-01-24T00:05:30-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500104994983,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6040575",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.46",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453285904551,
+      "created_at": "2025-01-24T00:05:30-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.46,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

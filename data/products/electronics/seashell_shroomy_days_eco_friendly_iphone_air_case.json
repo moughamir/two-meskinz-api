@@ -1,0 +1,140 @@
+{
+  "id": 8444724183128,
+  "title": "Seashell Shroomy Days iPhone Air Case",
+  "handle": "seashell-shroomy-days-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get lost in the forest (without leaving your couch). <meta charset=\"utf-8\">🍄 The Shroomy Days Case is covered in a magical mix of red-capped toadstools and earthy mushrooms, bringing whimsical woodland vibes straight to your phone. Whether you’re a fungi fanatic or just love a cozy cottagecore moment, this case is a fairytale in your pocket.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:57:29-04:00",
+  "created_at": "2025-08-08T12:07:21-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Shroomy Days",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184264740952,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:SHROOMY-DAYS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444724183128,
+      "created_at": "2025-09-03T18:53:39-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184264773720,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:SHROOMY-DAYS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444724183128,
+      "created_at": "2025-09-03T18:53:39-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567388328024,
+      "created_at": "2025-08-08T12:07:21-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:24-04:00",
+      "product_id": 8444724183128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHROOMY-DAYS_IP17AIR_Seashell.jpg?v=1754669244",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35620954308696,
+      "created_at": "2025-08-19T13:33:22-04:00",
+      "position": 2,
+      "updated_at": "2025-08-19T13:33:22-04:00",
+      "product_id": 8444724183128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7c2a1205084c1bafd610d18d0bd5b913_2282adc3-63d2-44e6-8db2-4444781a6da1.jpg?v=1755624802",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620954636376,
+      "created_at": "2025-08-19T13:33:23-04:00",
+      "position": 3,
+      "updated_at": "2025-08-19T13:33:23-04:00",
+      "product_id": 8444724183128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1ec2569ee7be982fd636a885c8a63b18_1d87b0d7-5e81-4f4e-8912-0f1311f0754b.jpg?v=1755624803",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35620954964056,
+      "created_at": "2025-08-19T13:33:25-04:00",
+      "position": 4,
+      "updated_at": "2025-08-19T13:33:25-04:00",
+      "product_id": 8444724183128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b3fceaba98b549fd1ed5199f45ac77e9_5f3bc63b-8102-49b9-9803-5c840c95913a.jpg?v=1755624805",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620955521112,
+      "created_at": "2025-08-19T13:33:26-04:00",
+      "position": 5,
+      "updated_at": "2025-08-19T13:33:26-04:00",
+      "product_id": 8444724183128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a3bd2a2f67cc2013cd7e3b300fddb067_698a373a-3104-4637-b5d6-819c3dd8d8fb.jpg?v=1755624806",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SHROOMY-DAYS_IP17AIR_Seashell.jpg?v=1754669244",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

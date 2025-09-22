@@ -1,0 +1,75 @@
+{
+  "id": 8444621750360,
+  "title": "Seashell Apple Market Google Pixel 10/10 Pro Case",
+  "handle": "seashell-apple-market-eco-friendly-google-pixel-10-10-pro-case",
+  "body_html": "<p class=\"p1\">Pick fresh style with the Pela Apple Market Phone Case! 🍎✨ Featuring a charming design inspired by your favorite local market, this case brings a cozy, rustic vibe to your everyday essentials. Made from plants and crafted to protect your phone, it’s as earth-friendly as it is adorable. Lightweight, durable, and perfect for apple lovers or anyone who appreciates farm-fresh fun—this case is ripe for the picking! 🌿📱</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T09:53:45-04:00",
+  "created_at": "2025-08-08T11:03:32-04:00",
+  "updated_at": "2025-09-22T15:13:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10/10 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fruits",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Apple Market",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107924967512,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15781-PX10-SEASHELL-AOD:APPLE-MARKET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444621750360,
+      "created_at": "2025-08-08T11:03:32-04:00",
+      "updated_at": "2025-09-22T15:13:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567053275224,
+      "created_at": "2025-08-08T11:03:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:03:34-04:00",
+      "product_id": 8444621750360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/APPLE-MARKET_PX10_Seashell.jpg?v=1754665414",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/APPLE-MARKET_PX10_Seashell.jpg?v=1754665414",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10/10 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8397886095448,
+  "title": "Seashell Whimsy Shapes Samsung Galaxy S25 Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:23:19-04:00",
+  "created_at": "2025-06-10T10:31:39-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939119009880,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13900-S25-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397886095448,
+      "created_at": "2025-06-10T10:31:39-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200274497624,
+      "created_at": "2025-06-10T10:31:39-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:41-04:00",
+      "product_id": 8397886095448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_S25_Seashell.jpg?v=1749565901",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288806555736,
+      "created_at": "2025-06-24T14:45:16-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:45:16-04:00",
+      "product_id": 8397886095448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_9b207c1a-c615-48fa-92da-5d56c7f1ba95.jpg?v=1750790716",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288806883416,
+      "created_at": "2025-06-24T14:45:17-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:45:17-04:00",
+      "product_id": 8397886095448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_3a0c23eb-c9c7-4948-a681-737e93827944.jpg?v=1750790717",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288807145560,
+      "created_at": "2025-06-24T14:45:19-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:45:19-04:00",
+      "product_id": 8397886095448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_c1182697-94a5-42b5-ab08-8915bccd6462.jpg?v=1750790719",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_S25_Seashell.jpg?v=1749565901",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 7049440886893,
+  "title": "Apple Orchard",
+  "handle": "apple-orchard-car",
+  "body_html": "<p>Like driving through an apple orchard on a crisp autumn day, this mouth-watering scent combines <strong>red apples</strong>, <strong>strawberries</strong>, toasted <strong>vanilla</strong>, and spices for a nostalgic, awakening drive.</p>",
+  "published_at": "2023-08-15T09:14:00-06:00",
+  "created_at": "2023-08-07T10:50:42-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Apple Orchard",
+    "Brand:Pura",
+    "collection:Car",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Fall Fruit",
+    "CollectionFilter_Fragrance of the Month",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances"
+  ],
+  "variants": [
+    {
+      "id": 40700562800749,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TPRC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7049440886893,
+      "created_at": "2023-08-07T10:50:43-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30311540064365,
+      "created_at": "2023-08-07T10:54:49-06:00",
+      "position": 1,
+      "updated_at": "2023-08-07T10:54:51-06:00",
+      "product_id": 7049440886893,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_1_b265dce3-4670-4ad4-ae32-5b923749979b.png?v=1691427291",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30311539736685,
+      "created_at": "2023-08-07T10:54:49-06:00",
+      "position": 2,
+      "updated_at": "2023-08-07T10:54:50-06:00",
+      "product_id": 7049440886893,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_1_a810e932-aff6-4f80-b1d9-bd1b7e23507f.png?v=1691427290",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30311539802221,
+      "created_at": "2023-08-07T10:54:49-06:00",
+      "position": 3,
+      "updated_at": "2023-08-07T10:54:51-06:00",
+      "product_id": 7049440886893,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_3_1_b62e7026-e8c0-4413-8098-025d5ecabab7.png?v=1691427291",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30311539703917,
+      "created_at": "2023-08-07T10:54:49-06:00",
+      "position": 4,
+      "updated_at": "2023-08-07T10:54:50-06:00",
+      "product_id": 7049440886893,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_ed1fb4f9-427d-4121-b82d-7fd4f4b55abc.png?v=1691427290",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_1_b265dce3-4670-4ad4-ae32-5b923749979b.png?v=1691427291",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

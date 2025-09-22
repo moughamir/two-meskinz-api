@@ -1,0 +1,88 @@
+{
+  "id": 6710417653848,
+  "title": "Black Flamingo Party iPhone XR Case",
+  "handle": "black-flamingo-party-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to turn heads with the Flamingo Party Phone Case! Bursting with tropical vibes, this case features a lively design of elegant pink flamingos amidst lush, vibrant foliage. Perfect for those who love a splash of color and a touch of exotic charm, this case ensures your phone stands out from the crowd while staying protected. Bring a slice of paradise wherever you go and let the flamingo fiesta brighten up your day! 🦩📱🌴</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T10:42:17-04:00",
+  "created_at": "2021-08-04T10:36:32-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Hawaiian Vintage",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flamingo Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39530809262168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13084-IPXR-BLACK-AOD:FLAMINGO-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6710417653848,
+      "created_at": "2021-08-04T10:36:32-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328148754520,
+      "created_at": "2023-07-24T10:42:16-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T10:42:16-04:00",
+      "product_id": 6710417653848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLAMINGO-PARTY_IPXR_Black_52050d38-a11d-4b33-bc27-f7e9f6c4898b.jpg?v=1690209736",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28477895475288,
+      "created_at": "2021-08-05T11:24:33-04:00",
+      "position": 2,
+      "updated_at": "2021-08-05T11:24:33-04:00",
+      "product_id": 6710417653848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1_1_ac89b79f-816f-4ea8-a880-7e6db10c3efe.jpg?v=1628177073",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLAMINGO-PARTY_IPXR_Black_52050d38-a11d-4b33-bc27-f7e9f6c4898b.jpg?v=1690209736",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

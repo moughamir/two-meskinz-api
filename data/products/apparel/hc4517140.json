@@ -1,0 +1,67 @@
+{
+  "id": 7785896771751,
+  "title": "Brand: Merit Brass / Part #: MBF053/46GEH",
+  "handle": "hc4517140",
+  "body_html": "<br><strong>Item #: </strong>57041246<br><strong>Brand: </strong>Merit Brass<br><strong>Model #: </strong>MBF053/46GEH<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>Press x Press</td>\n</tr>\n<tr>\n<td><strong>Fitting Size</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>316</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>1.6200</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:21:35-06:00",
+  "created_at": "2023-12-29T06:21:35-06:00",
+  "updated_at": "2025-09-22T10:54:23-05:00",
+  "vendor": "Merit Brass",
+  "product_type": "Hose; Tube; Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 43705839321255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "57041246",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.90",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785896771751,
+      "created_at": "2023-12-29T06:21:35-06:00",
+      "updated_at": "2025-09-22T10:54:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237613818023,
+      "created_at": "2025-02-03T18:19:16-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:19:17-06:00",
+      "product_id": 7785896771751,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5704124-21_b363d04a-f3e6-4d27-ba46-6cde3340b982.jpg?v=1738628357",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.9,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5704124-21_b363d04a-f3e6-4d27-ba46-6cde3340b982.jpg?v=1738628357",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Merit Brass",
+  "category": "Hose; Tube; Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

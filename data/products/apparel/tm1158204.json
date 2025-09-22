@@ -1,0 +1,67 @@
+{
+  "id": 7786403332263,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 5903326",
+  "handle": "tm1158204",
+  "body_html": "<br><strong>Item #: </strong>08184137<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>5903326<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>22UE</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>22</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>TT9030</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal &amp; External</td>\n</tr>\n<tr>\n<td><strong>Pitch (mm)</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>American Buttress</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>45.00</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>American Buttress Regular Type</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Positive</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Stainless Steel; Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; K; M</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material</strong></td>\n<td>Hard Material; Non-Ferrous Metal; Super-alloys &amp; Titanium</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material Code</strong></td>\n<td>S; H; N</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>22UER4ABUT</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>22UER4ABUT</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge to Theoretical Edge Length (Decimal Inch)</strong></td>\n<td>0.386</td>\n</tr>\n<tr>\n<td><strong>Face of Insert to Tip Centerline (Decimal Inch)</strong></td>\n<td>0.094</td>\n</tr>\n<tr>\n<td><strong>Number of Teeth Per Side</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1880</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiAlN</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:56:12-06:00",
+  "created_at": "2023-12-29T22:56:12-06:00",
+  "updated_at": "2025-09-22T10:53:25-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43707733213351,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08184137",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.01",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786403332263,
+      "created_at": "2023-12-29T22:56:12-06:00",
+      "updated_at": "2025-09-22T10:53:25-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238553571495,
+      "created_at": "2025-02-03T18:54:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:54:19-06:00",
+      "product_id": 7786403332263,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0818413-21.jpg?v=1738630459",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.01,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0818413-21.jpg?v=1738630459",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

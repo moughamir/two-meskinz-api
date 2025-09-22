@@ -1,0 +1,69 @@
+{
+  "id": 5322638033063,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 4802143",
+  "handle": "kn5326207",
+  "body_html": "<br><strong>Item #: </strong>95149910<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>4802143<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>TPMX</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>280716</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>IN2005</td>\n</tr>\n<tr>\n<td><strong>Thickness (mm)</strong></td>\n<td>7.4900</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (Decimal Inch)</strong></td>\n<td>0.6690</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>16.99</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Inch)</strong></td>\n<td>1/16</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>BG</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>TPMX</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Triangle</td>\n</tr>\n<tr>\n<td><strong>Number Of Cutting Edges</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Positive</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Stainless Steel; Cast Iron; Super-alloys &amp; Titanium; Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>P; S; K; M</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>TPMX280716L-BG IN2005</td>\n</tr>\n<tr>\n<td><strong>Drill Style</strong></td>\n<td>TBTA</td>\n</tr>\n<tr>\n<td><strong>Insert Size</strong></td>\n<td>28</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>60</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.2950</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiAlN</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T04:25:38-06:00",
+  "created_at": "2020-06-12T16:15:41-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts",
+    "Reaming",
+    "Screwdrivers; Nutdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34696796209319,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95149910",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322638033063,
+      "created_at": "2020-06-12T16:15:41-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238852546727,
+      "created_at": "2025-02-03T19:07:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:07:34-06:00",
+      "product_id": 5322638033063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9514991-21.jpg?v=1738631254",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 27.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9514991-21.jpg?v=1738631254",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

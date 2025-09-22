@@ -1,0 +1,120 @@
+{
+  "id": 7809268056173,
+  "title": "Himalayan Salt & Rosewater",
+  "handle": "himalayan-salt-rosewater-1",
+  "body_html": "<p>This relaxing, floral scent whisks you away to a serene oasis filled with calming <strong>rosewater</strong>, cheerful <strong>geranium</strong>, and grounding salted <strong>amber</strong>.</p>",
+  "published_at": "2025-09-12T16:07:32-06:00",
+  "created_at": "2025-09-12T15:52:43-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "NEST New York",
+  "product_type": "",
+  "tags": [
+    "Brand:NEST New York",
+    "collection:NEST New York",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "Scent Type_Floral",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_himalayansaltrosewater"
+  ],
+  "variants": [
+    {
+      "id": 43294737006701,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MEXH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7809268056173,
+      "created_at": "2025-09-12T15:52:44-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35489303134317,
+      "created_at": "2025-09-12T15:54:18-06:00",
+      "position": 1,
+      "updated_at": "2025-09-12T15:57:36-06:00",
+      "product_id": 7809268056173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HimalayanSaltAndRoseWater-Prod1.png?v=1757714256",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30974909513837,
+      "created_at": "2024-01-06T17:13:50-07:00",
+      "position": 2,
+      "updated_at": "2025-09-12T15:57:36-06:00",
+      "product_id": 7809268056173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/rose-resized_15383f8e-e8ec-413d-a7bc-2a7626869eb8.jpg?v=1757714256",
+      "width": 2400,
+      "height": 3600
+    },
+    {
+      "id": 35489303789677,
+      "created_at": "2025-09-12T15:54:21-06:00",
+      "position": 3,
+      "updated_at": "2025-09-12T15:54:23-06:00",
+      "product_id": 7809268056173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HimalayanSaltAndRoseWater-Prod3.png?v=1757714063",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35489303822445,
+      "created_at": "2025-09-12T15:54:21-06:00",
+      "position": 4,
+      "updated_at": "2025-09-12T15:54:24-06:00",
+      "product_id": 7809268056173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HimalayanSaltAndRoseWater-Prod4.png?v=1757714064",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HimalayanSaltAndRoseWater-Prod1.png?v=1757714256",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

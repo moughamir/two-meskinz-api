@@ -1,0 +1,129 @@
+{
+  "id": 8444665266264,
+  "title": "Seashell The Knight iPhone Air Case",
+  "handle": "seashell-the-knight-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Unleash your inner noble steed with The Knight Phone Case by Pela! Adorned with a regal pattern of gallant horse profiles in striking red, this case is perfect for anyone with a spirit of adventure and a love for all things equestrian. Whether you're cantering through your day or charging into new challenges, this case adds a touch of chivalry and elegance to your style. Gallop into greatness with The Knight Phone Case! 🏇📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:16:38-04:00",
+  "created_at": "2025-08-08T11:49:26-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:The Knight",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184268476504,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:THE-KNIGHT_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444665266264,
+      "created_at": "2025-09-03T18:54:23-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184268509272,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:THE-KNIGHT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444665266264,
+      "created_at": "2025-09-03T18:54:23-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567215083608,
+      "created_at": "2025-08-08T11:49:26-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:29-04:00",
+      "product_id": 8444665266264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KNIGHT_IP17AIR_Seashell.jpg?v=1754668169",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081435643992,
+      "created_at": "2025-05-23T15:02:55-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T15:02:57-04:00",
+      "product_id": 8444665266264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/THEKNIGHT_SEASHELL-2_7e9dd745-fdc9-42ed-a911-8244d6b1309d.jpg?v=1748026977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081435578456,
+      "created_at": "2025-05-23T15:02:55-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T15:02:56-04:00",
+      "product_id": 8444665266264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/THEKNIGHT_SEASHELL-1_d0cbf1b2-5f0d-44d8-8dc2-003a499ed5f1.jpg?v=1748026976",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081434955864,
+      "created_at": "2025-05-23T15:02:48-04:00",
+      "position": 4,
+      "updated_at": "2025-05-23T15:02:49-04:00",
+      "product_id": 8444665266264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/THEKNIGHT_SEASHELL-3_e2955401-9bb4-421f-800c-ee63645f366e.jpg?v=1748026969",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KNIGHT_IP17AIR_Seashell.jpg?v=1754668169",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

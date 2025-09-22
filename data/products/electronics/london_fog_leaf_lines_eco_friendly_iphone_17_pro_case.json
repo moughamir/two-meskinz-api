@@ -1,0 +1,96 @@
+{
+  "id": 8444689973336,
+  "title": "London Fog Leaf Lines iPhone 17 Pro Case",
+  "handle": "london-fog-leaf-lines-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Keep it fresh and leafy with the Leaf Lines Phone Case! Featuring a minimalist design of Monstera-inspired line art, this case is perfect for plant lovers and jungle dreamers. Whether you're curating your indoor garden or just want a touch of greenery on the go, this earth-friendly case has you covered.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:10:25-04:00",
+  "created_at": "2025-08-08T11:50:54-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Quiet Luxury",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Leaf Lines",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184179150936,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:LEAF-LINES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444689973336,
+      "created_at": "2025-09-03T18:38:16-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184179183704,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:LEAF-LINES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444689973336,
+      "created_at": "2025-09-03T18:38:16-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567267741784,
+      "created_at": "2025-08-08T11:50:54-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:56-04:00",
+      "product_id": 8444689973336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-LINES_IP17P_LondonFog.jpg?v=1754668256",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-LINES_IP17P_LondonFog.jpg?v=1754668256",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8388530405464,
+  "title": "Seashell Tropic Muse iPhone 13 Pro Max Case",
+  "handle": "seashell-tropic-muse-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet your main character energy in case form—the Tropic Muse Phone Case is your passport to a technicolor dream island. With doodle-style fruits, palms, shells, crabs, and sunny vibes galore, this case is like a scrapbook of the ultimate beach vacay. Equal parts playful and artsy, it's made for daydreamers, wanderlusters, and sunshine chasers. 🍍🦀🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:17:19-04:00",
+  "created_at": "2025-05-30T12:37:20-04:00",
+  "updated_at": "2025-09-22T15:13:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Tropic Muse",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918160793688,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:TROPIC-MUSE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388530405464,
+      "created_at": "2025-05-30T12:37:21-04:00",
+      "updated_at": "2025-09-22T15:13:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125624864856,
+      "created_at": "2025-05-30T12:37:20-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:22-04:00",
+      "product_id": 8388530405464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-MUSE_IP13PMAX_Seashell.jpg?v=1748623042",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195815886936,
+      "created_at": "2025-06-09T17:06:23-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:06:23-04:00",
+      "product_id": 8388530405464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/57cd8bee1adc4c835004636825fc93dd_678763f3-b09b-4f9b-b081-3dfb11fad6ac.jpg?v=1749503183",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35195816345688,
+      "created_at": "2025-06-09T17:06:25-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:06:25-04:00",
+      "product_id": 8388530405464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/dac627d67f1f297223104ab8702580a2_7c4868ad-e11a-44a4-97f9-5b1fa8010a10.jpg?v=1749503185",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35195816869976,
+      "created_at": "2025-06-09T17:06:27-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:06:27-04:00",
+      "product_id": 8388530405464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1d02cb7021f61830d302d52043e0bf9b_9a3b079b-5564-4f97-84dd-dea0f04f0b98.jpg?v=1749503187",
+      "width": 4203,
+      "height": 4203
+    },
+    {
+      "id": 35195817197656,
+      "created_at": "2025-06-09T17:06:28-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:06:28-04:00",
+      "product_id": 8388530405464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_bf3e0fb6-70eb-434e-bed5-7972e2ff6333.jpg?v=1749503188",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TROPIC-MUSE_IP13PMAX_Seashell.jpg?v=1748623042",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

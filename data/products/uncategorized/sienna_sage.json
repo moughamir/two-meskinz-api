@@ -1,0 +1,115 @@
+{
+  "id": 7051711742061,
+  "title": "Sienna Sage",
+  "handle": "sienna-sage",
+  "body_html": "<p>Indulge in moments of self-care as warm notes of palo santo and clary sage blend with soothing notes of soft amber and green fig.</p>",
+  "published_at": "2023-08-14T19:51:54-06:00",
+  "created_at": "2023-08-09T16:20:21-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Thymes",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Thymes",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_siennasage"
+  ],
+  "variants": [
+    {
+      "id": 40702265163885,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SNGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051711742061,
+      "created_at": "2023-08-09T16:20:21-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31049637855341,
+      "created_at": "2024-01-17T20:34:35-07:00",
+      "position": 1,
+      "updated_at": "2024-01-17T20:34:44-07:00",
+      "product_id": 7051711742061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-SiennaSage-Vertical-Resized.jpg?v=1705548884",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31049637822573,
+      "created_at": "2024-01-17T20:34:35-07:00",
+      "position": 2,
+      "updated_at": "2024-01-17T20:34:44-07:00",
+      "product_id": 7051711742061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sage-resized_432d0583-2fe8-49eb-97b4-1ac9c8ef7af2.jpg?v=1705548884",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31049637789805,
+      "created_at": "2024-01-17T20:34:35-07:00",
+      "position": 3,
+      "updated_at": "2024-01-17T20:34:44-07:00",
+      "product_id": 7051711742061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sienna-sage-v4-resized.jpg?v=1705548884",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31049637920877,
+      "created_at": "2024-01-17T20:34:35-07:00",
+      "position": 4,
+      "updated_at": "2024-01-17T20:34:44-07:00",
+      "product_id": 7051711742061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-SiennaSage-Overhead-Shadow-Resized.jpg?v=1705548884",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Thymes-SiennaSage-Vertical-Resized.jpg?v=1705548884",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Thymes",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

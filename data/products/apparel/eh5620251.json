@@ -1,0 +1,67 @@
+{
+  "id": 7785852862631,
+  "title": "Brand: Widia / Part #: 6127704",
+  "handle": "eh5620251",
+  "body_html": "<br><strong>Item #: </strong>98393846<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6127704<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Duo-Lock 12</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Tip Diameter</strong></td>\n<td>0.0600</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.7214</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Radius</strong></td>\n<td>0.0600 in</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Fractional Inch)</strong></td>\n<td>1/2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:41:52-06:00",
+  "created_at": "2023-12-29T04:41:52-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Widia",
+  "product_type": "Milling",
+  "tags": [
+    "End Mill Heads"
+  ],
+  "variants": [
+    {
+      "id": 43705647038631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98393846",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "69.18",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785852862631,
+      "created_at": "2023-12-29T04:41:52-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237428318375,
+      "created_at": "2025-02-03T18:15:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:15:49-06:00",
+      "product_id": 7785852862631,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9839389-21_786eb69b-511d-42c3-8d1c-065d44a59c5e.jpg?v=1738628149",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 69.18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9839389-21_786eb69b-511d-42c3-8d1c-065d44a59c5e.jpg?v=1738628149",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

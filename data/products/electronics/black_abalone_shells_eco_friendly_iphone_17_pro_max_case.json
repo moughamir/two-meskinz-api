@@ -1,0 +1,130 @@
+{
+  "id": 8444699050072,
+  "title": "Black Abalone Shells iPhone 17 Pro Max Case",
+  "handle": "black-abalone-shells-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Shell yeah! The Abalone Shells Phone Case brings major ocean treasure vibes with its stunning, iridescent swirls and deep-sea shimmer. It's giving salty air, tide pool daydreams, and mermaid energy—all wrapped up in planet-friendly protection. Dive into the look that’s bold, beachy, and totally shell-fie ready. 🐚🌊✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:57:44-04:00",
+  "created_at": "2025-08-08T11:51:28-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Witch",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Abalone Shells",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43162761789528,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17575-IP17PMAX-BLACK-AOD:ABALONE-SHELLS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 100,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444699050072,
+      "created_at": "2025-08-26T12:47:37-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43162761822296,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17575-IP17PMAX-BLACK-AOD:ABALONE-SHELLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 90,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444699050072,
+      "created_at": "2025-08-26T12:47:37-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567287828568,
+      "created_at": "2025-08-08T11:51:28-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:30-04:00",
+      "product_id": 8444699050072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ABALONE-SHELLS_IP17PMAX_Black.jpg?v=1754668290",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34893750829144,
+      "created_at": "2025-04-23T15:58:57-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T15:59:01-04:00",
+      "product_id": 8444699050072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_Friends_PDP_1x1_01_3006794b-49f4-4864-b1dc-bbfa796af95a.jpg?v=1745438341",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34893750927448,
+      "created_at": "2025-04-23T15:58:56-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T15:59:01-04:00",
+      "product_id": 8444699050072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_Androids_PDP_1x1_03_ae5551b1-8a2e-4a8f-8a89-e6a5569a52b4.jpg?v=1745438341",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34893750861912,
+      "created_at": "2025-04-23T15:58:56-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T15:59:01-04:00",
+      "product_id": 8444699050072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaWitch_Render_Group_IPGrid_PDP_1x1_05_454f4c57-de60-4ccd-8f21-212629ec4407.jpg?v=1745438341",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ABALONE-SHELLS_IP17PMAX_Black.jpg?v=1754668290",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

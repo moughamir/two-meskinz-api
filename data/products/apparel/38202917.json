@@ -1,0 +1,68 @@
+{
+  "id": 5245497835687,
+  "title": "Replacement/Interchange Hydraulic Filter Element: Microglass, 25 &micro;",
+  "handle": "38202917",
+  "body_html": "<br><strong>Item #: </strong>20315057<br><strong>Brand: </strong>Main Filter<br><strong>Model #: </strong>MF0058560<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Filter Type</strong>\n</td>\n<td>Replacement/Interchange Hydraulic Filter</td>\n</tr>\n<tr> <td> <strong>Media Type</strong>\n</td>\n<td>Microglass</td>\n</tr>\n<tr> <td> <strong>Micron Rating</strong>\n</td>\n<td>25</td>\n</tr>\n<tr> <td> <strong>OEM Cross Reference Number</strong>\n</td>\n<td>FILTREC D122G25BV</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40161515</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:36:19-06:00",
+  "created_at": "2020-05-27T01:33:17-05:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Main Filter",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Coated & Non-Woven Abrasives",
+    "Hydraulics"
+  ],
+  "variants": [
+    {
+      "id": 34476532531367,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "20315057",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "129.93",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5245497835687,
+      "created_at": "2020-05-27T01:33:18-05:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38245327765671,
+      "created_at": "2025-02-03T23:05:09-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:05:11-06:00",
+      "product_id": 5245497835687,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1536588-21_c6aa3d28-505a-47cc-b459-fd084daf3209.jpg?v=1738645511",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 129.93,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1536588-21_c6aa3d28-505a-47cc-b459-fd084daf3209.jpg?v=1738645511",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Main Filter",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

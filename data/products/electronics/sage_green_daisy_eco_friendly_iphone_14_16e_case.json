@@ -1,0 +1,97 @@
+{
+  "id": 7247398109272,
+  "title": "Sage Green Daisy iPhone 14/16e Case",
+  "handle": "sage-green-daisy-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your phone bloom with happiness with the Daisy Phone Case! 🌼📱 Featuring a charming pattern of bright white daisies against a refreshing sage green backdrop, this case is perfect for bringing a touch of spring to your everyday life. The cheerful design not only protects your phone but also brightens your day with every glance. Embrace the joy and simplicity of nature with the Daisy Phone Case and make every moment feel like a walk through a sunny meadow! 🌞🌿✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T13:50:03-05:00",
+  "created_at": "2022-09-06T16:20:03-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Daisy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40069124292696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16733-IP14-SAGE-AOD:DAISY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7247398109272,
+      "created_at": "2022-09-06T16:20:04-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116376207448,
+      "created_at": "2024-01-23T13:42:58-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:42:58-05:00",
+      "product_id": 7247398109272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP14_SageGreen.jpg?v=1706035378",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30239769002072,
+      "created_at": "2023-04-10T13:54:57-04:00",
+      "position": 2,
+      "updated_at": "2023-04-10T13:54:59-04:00",
+      "product_id": 7247398109272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Daisy_547b1ed3-d0ef-4467-91fa-c1f03e1a3e94.jpg?v=1681149299",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30239769034840,
+      "created_at": "2023-04-10T13:54:57-04:00",
+      "position": 3,
+      "updated_at": "2023-04-10T13:54:59-04:00",
+      "product_id": 7247398109272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Daisy2_76b21555-ef16-46ca-bab9-99f94808f472.jpg?v=1681149299",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAISY_IP14_SageGreen.jpg?v=1706035378",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

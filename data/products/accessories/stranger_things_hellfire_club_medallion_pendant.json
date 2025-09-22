@@ -1,0 +1,97 @@
+{
+  "id": 7877436244015,
+  "title": "Hellfire Club Medallion Necklace",
+  "handle": "stranger-things-hellfire-club-medallion-pendant",
+  "body_html": "<p>Believe it or not, Hellfire Clubs were real things back in the day, they were social clubs for the elite where they could do roughly anything they wanted outside the bounds of what was considered acceptable to the society. Our Hellfire Club medallion is a reference to a secret club for outcasts, weirdos, rebels and of course Dungeons &amp; Dragons fans. So, if you have a sardonic sense of humor and you feel like someone who could join the real-life version of the Hellfire Club as seen on Netflix's outstandingly popular show Stranger Things - this necklace is for you! Simple medallion features the Hellfire Club logo, including Dungeon &amp; Dragons symbols like a horned devil, a flaming sword, a mace, and two game dice as seen on Netflix series <em>Stranger Things</em>.</p>\n<ul>\n<li>This product is: metal 3D printed Hallmarked 925 Sterling silver made of 100% recycled Silver. Comes with an adjustable anchor chain 17.7\" to 19.7\" (450mm-500mm) from 925 sterling silver, planet-friendly, hypoallergenic, and skin-friendly (nickel free).<br>\n</li>\n<li>Should be kept dry at all times, avoid wearing while swimming, sleeping, bathing or sweating. If the jewelry is in contact with sea water, rinse with freshwater and dry immediately. Avoid exposure to high temperatures and direct contact with solvents, perfume or cosmetics.<br>\n</li>\n</ul>",
+  "published_at": "2024-11-27T16:07:45-05:00",
+  "created_at": "2024-11-26T13:44:37-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "cloud-factory",
+  "product_type": "Jewelry",
+  "tags": [
+    "80057281",
+    "accessories",
+    "As Seen On",
+    "Gifting",
+    "halloween costumes",
+    "Jewelry",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Valentines Day"
+  ],
+  "variants": [
+    {
+      "id": 43434019258415,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-R7009303-1-CLF-STT-002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.95",
+      "grams": 34,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7877436244015,
+      "created_at": "2024-11-26T13:44:37-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35075682697263,
+      "created_at": "2024-11-26T13:44:37-05:00",
+      "position": 1,
+      "updated_at": "2024-11-26T13:44:37-05:00",
+      "product_id": 7877436244015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Copy-of-Stranger-Things-Hellfire-Club-Medallion-with-55cm-chain.png?v=1732646677",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35075682730031,
+      "created_at": "2024-11-26T13:44:37-05:00",
+      "position": 2,
+      "updated_at": "2024-11-26T13:44:37-05:00",
+      "product_id": 7877436244015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Stranger-Things-Hellfire-Club-Medallion.png?v=1732646677",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35075682762799,
+      "created_at": "2024-11-26T13:44:37-05:00",
+      "position": 3,
+      "updated_at": "2024-11-26T13:44:37-05:00",
+      "product_id": 7877436244015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Copy-of-Stranger-Things-Hellfire-Club-Medallion.png?v=1732646677",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Copy-of-Stranger-Things-Hellfire-Club-Medallion-with-55cm-chain.png?v=1732646677",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "cloud-factory",
+  "category": "Jewelry",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

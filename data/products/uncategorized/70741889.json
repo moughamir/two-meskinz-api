@@ -1,0 +1,68 @@
+{
+  "id": 8452789174439,
+  "title": "Push Bars; Material: Metal; Locking Type: Exit Device Only; Maximum Door Width: 4 ft; Finish/Coating: Anodized, Aluminum, Dark Bronze; Minimum Door Width: 4 ft",
+  "handle": "70741889",
+  "body_html": "<br><strong>Item #: </strong>89813885<br><strong>Brand: </strong>Adams Rite<br><strong>Model #: </strong>8802-48<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Metal</td>\n</tr>\n<tr> <td> <strong>Locking Type</strong>\n</td>\n<td>Exit Device Only</td>\n</tr>\n<tr> <td> <strong>Maximum Door Width</strong>\n</td>\n<td>4 ft</td>\n</tr>\n<tr> <td> <strong>Finish/Coating</strong>\n</td>\n<td>Anodized; Aluminum; Dark Bronze</td>\n</tr>\n<tr> <td> <strong>Minimum Door Width</strong>\n</td>\n<td>4 ft</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31162800</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T17:41:09-06:00",
+  "created_at": "2025-01-23T17:41:08-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Adams Rite",
+  "product_type": "Hardware",
+  "tags": [
+    "Door",
+    "Lid & Drawer Hardware"
+  ],
+  "variants": [
+    {
+      "id": 46499061203111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "89813885",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "434.15",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452789174439,
+      "created_at": "2025-01-23T17:41:08-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38253349011623,
+      "created_at": "2025-02-04T03:49:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:49:05-06:00",
+      "product_id": 8452789174439,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8980808-21_bbd2a90e-c156-4232-84b9-ba8b7901bc9a.jpg?v=1738662545",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 434.15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8980808-21_bbd2a90e-c156-4232-84b9-ba8b7901bc9a.jpg?v=1738662545",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Adams Rite",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

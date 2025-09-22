@@ -1,0 +1,97 @@
+{
+  "id": 7369017131096,
+  "title": "Seashell Hidden Tigers iPhone XR Case",
+  "handle": "seashell-hidden-tigers-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Let your style roar with the Pela Hidden Tigers Phone Case, where strokes of wild elegance meet modern flair.  <meta charset=\"utf-8\">It’s where protection meets the pinnacle of nature-inspired fashion, making your phone a fearless companion both in the urban jungle and in the wild. Carry a piece of the wilderness with you and let these hidden tigers turn your day into an adventure with just the right amount of pounce! 🐅✨🌸</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-27T09:09:41-04:00",
+  "created_at": "2023-07-17T11:20:08-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:International Tiger Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hidden Tigers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40246549119064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:HIDDEN-TIGERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7369017131096,
+      "created_at": "2023-07-17T11:20:08-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30320955228248,
+      "created_at": "2023-07-17T11:20:08-04:00",
+      "position": 1,
+      "updated_at": "2023-07-17T11:20:08-04:00",
+      "product_id": 7369017131096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_IPXR_Seashell.jpg?v=1689607208",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30329121931352,
+      "created_at": "2023-07-25T15:42:15-04:00",
+      "position": 2,
+      "updated_at": "2023-07-25T15:42:17-04:00",
+      "product_id": 7369017131096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0940_52cc36ed-d2a3-4d9a-97e4-eba97f0a9bd5.jpg?v=1690314137",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30321103143000,
+      "created_at": "2023-07-17T12:54:15-04:00",
+      "position": 3,
+      "updated_at": "2023-07-25T15:42:17-04:00",
+      "product_id": 7369017131096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/InternationalTigerDayv2_d28ee097-98dd-4fbf-afc2-1c82c757a49d.png?v=1690314137",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/HIDDEN-TIGERS_IPXR_Seashell.jpg?v=1689607208",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 7346683543640,
+  "title": "Seashell Jellyfish iPhone 14 Plus Case",
+  "handle": "seashell-jellyfish-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the mesmerizing depths of the ocean with the Jellyfish Phone Case! 🌊 This enchanting design features a stunning array of vibrant jellyfish, their colorful tentacles gracefully floating across a serene seashell backdrop. Perfect for marine life enthusiasts and ocean lovers, this case adds a splash of aquatic beauty to your daily routine while offering superior protection for your device. Let your phone make waves with the captivating Jellyfish Case! 🐙💧</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-12-11T12:21:26-05:00",
+  "created_at": "2022-12-21T15:16:11-05:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Creatures",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Jellyfish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40193717764184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:JELLYFISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7346683543640,
+      "created_at": "2022-12-21T15:16:11-05:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30158078509144,
+      "created_at": "2022-12-21T15:16:11-05:00",
+      "position": 1,
+      "updated_at": "2022-12-21T15:16:11-05:00",
+      "product_id": 7346683543640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/JELLYFISH_IP14PLUS_Seashell.jpg?v=1671653771",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30237210574936,
+      "created_at": "2023-04-06T15:27:11-04:00",
+      "position": 2,
+      "updated_at": "2023-04-06T15:27:12-04:00",
+      "product_id": 7346683543640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_5354_00e937fc-5921-4379-949b-bcc9a5cb1892.jpg?v=1680809232",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/JELLYFISH_IP14PLUS_Seashell.jpg?v=1671653771",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

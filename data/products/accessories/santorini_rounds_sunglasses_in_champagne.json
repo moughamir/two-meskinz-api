@@ -1,0 +1,117 @@
+{
+  "id": 6818083143768,
+  "title": "Santorini Rounds Sunglasses in Champagne",
+  "handle": "santorini-rounds-sunglasses-in-champagne",
+  "body_html": "<p><span style=\"font-weight: 300;\">Classic metal round sunglasses have been worn by the world's most legendary creatives and intellectuals for generations. Santorini Rounds are a contemporary take on this timeless style. Crafted from sustainable and planet-friendly materials, these shades are the sunglasses of the future. We’ve combined style and sustainability with affordability and comfort. Designed to complement any wardrobe with four available color options. With full UVA/UVB &amp; glare protection. These sunnies are light-weight, comfortable, and durable for anything you get up to outdoors. </span></p>\n<p><b>Made with:</b></p>\n<ul>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">33% less CO2e Emissions</span></li>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">34% less water usage</span></li>\n<li style=\"font-weight: 300;\"><span style=\"font-weight: 300;\">82% less waste compared to conventional sunglasses</span></li>\n</ul>",
+  "published_at": "2025-05-08T09:08:19-04:00",
+  "created_at": "2021-10-13T11:27:47-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Santorini Rounds"
+  ],
+  "variants": [
+    {
+      "id": 39672940691544,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40271-SANTO-CHAMP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "46.00",
+      "grams": 113,
+      "compare_at_price": "79.00",
+      "position": 1,
+      "product_id": 6818083143768,
+      "created_at": "2021-10-13T11:27:47-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28798439653464,
+      "created_at": "2021-10-13T13:38:47-04:00",
+      "position": 1,
+      "updated_at": "2021-10-13T13:38:47-04:00",
+      "product_id": 6818083143768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_CHAMPAGNE_FRONT.jpg?v=1634146727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439686232,
+      "created_at": "2021-10-13T13:38:47-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T13:38:47-04:00",
+      "product_id": 6818083143768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_CHAMPAGNE_FRONT_ANGLE.jpg?v=1634146727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439719000,
+      "created_at": "2021-10-13T13:38:47-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T13:38:47-04:00",
+      "product_id": 6818083143768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_CHAMPAGNE_BACK_ANGLE.jpg?v=1634146727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798439751768,
+      "created_at": "2021-10-13T13:38:47-04:00",
+      "position": 4,
+      "updated_at": "2021-10-13T13:38:47-04:00",
+      "product_id": 6818083143768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A1922.jpg?v=1634146727",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28798439784536,
+      "created_at": "2021-10-13T13:38:47-04:00",
+      "position": 5,
+      "updated_at": "2021-10-13T13:38:47-04:00",
+      "product_id": 6818083143768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/1X5A3689.jpg?v=1634146727",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 46,
+  "compare_at_price": 79,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/Santorini_Rounds_CHAMPAGNE_FRONT.jpg?v=1634146727",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

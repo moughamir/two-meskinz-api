@@ -1,0 +1,125 @@
+{
+  "id": 8190703304792,
+  "title": "Chocolate Brown Samsung S25 Ultra Phone Case",
+  "handle": "chocolate-brown-samsung-s25-ultra-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-01-22T09:08:13-05:00",
+  "created_at": "2024-11-19T12:08:51-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42406571475032,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13970-S25ULTRA-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 39,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190703304792,
+      "created_at": "2024-11-19T12:08:51-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34089741090904,
+      "created_at": "2024-12-06T15:38:44-05:00",
+      "position": 1,
+      "updated_at": "2024-12-06T15:38:45-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_CHOCOLATE_BROWN_BACK.jpg?v=1733517525",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089741025368,
+      "created_at": "2024-12-06T15:38:44-05:00",
+      "position": 2,
+      "updated_at": "2024-12-06T15:38:45-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_CHOCOLATE_BROWN_BACK_45L.jpg?v=1733517525",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089741058136,
+      "created_at": "2024-12-06T15:38:44-05:00",
+      "position": 3,
+      "updated_at": "2024-12-06T15:38:45-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_CHOCOLATE_BROWN_BACK_45R.jpg?v=1733517525",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569424470104,
+      "created_at": "2025-02-20T11:07:19-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:07:21-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_8ebd6a76-52e9-4912-bd13-56507d44c39e.jpg?v=1740067641",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569424437336,
+      "created_at": "2025-02-20T11:07:19-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:07:21-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_610d0030-2ac7-49cc-b367-07d23bb8e3ed.jpg?v=1740067641",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569424568408,
+      "created_at": "2025-02-20T11:07:19-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:07:21-05:00",
+      "product_id": 8190703304792,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_6efea748-bd5f-4349-8003-a831e29766c3.jpg?v=1740067641",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25ULTRA_CHOCOLATE_BROWN_BACK.jpg?v=1733517525",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

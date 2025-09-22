@@ -1,0 +1,75 @@
+{
+  "id": 7883954683992,
+  "title": "Bubblegum Pink Groovy Tiles iPhone 11 Case",
+  "handle": "bubblegum-pink-groovy-tiles-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🎨🔶 Step into a world of pattern and color with the Groovy Tiles Phone Case by Pela, a standout feature of our '70s collection! This case boasts a bold geometric design with interlocking tiles in shades of brown, orange, pink, and cream, echoing the dynamic style and energy of the disco era. Perfect for those who want their tech to make a statement, this case is a true throwback to the spirited vibes of the seventies. Dance through your day with a burst of nostalgia and contemporary charm! 🌟✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-05-23T08:26:07-04:00",
+  "created_at": "2024-05-14T11:15:30-04:00",
+  "updated_at": "2025-09-22T15:16:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:70s",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Groovy Tiles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41674201366616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16229-IP11-BUBPINK-AOD:GROOVY-TILES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7883954683992,
+      "created_at": "2024-05-14T11:15:30-04:00",
+      "updated_at": "2025-09-22T15:16:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32859485208664,
+      "created_at": "2024-05-14T11:15:30-04:00",
+      "position": 1,
+      "updated_at": "2024-05-14T11:15:30-04:00",
+      "product_id": 7883954683992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GROOVY-TILES_IP11_BubblegumPink.jpg?v=1715699730",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GROOVY-TILES_IP11_BubblegumPink.jpg?v=1715699730",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 7197426057325,
+  "title": "Mint Leaves",
+  "handle": "mint-leaves",
+  "body_html": "<p>Made with ingredients known to increase feelings of motivation and focus, this scent blends notes of fresh <strong>mint leaves</strong> with <strong>watery cucumber</strong>, <strong>honeydew</strong>, and <strong>ylang ylang.</strong></p>",
+  "published_at": "2024-03-10T22:02:30-06:00",
+  "created_at": "2024-02-16T14:53:44-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Allos",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Allos",
+    "CollectionFilter_Well-being",
+    "Group_Home",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41056456310893,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MLRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7197426057325,
+      "created_at": "2024-02-16T14:53:44-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31241058975853,
+      "created_at": "2024-02-16T15:11:34-07:00",
+      "position": 1,
+      "updated_at": "2024-02-16T15:12:02-07:00",
+      "product_id": 7197426057325,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/allosmintleaves-resized-3.jpg?v=1708121522",
+      "width": 3899,
+      "height": 5198
+    },
+    {
+      "id": 31241062219885,
+      "created_at": "2024-02-16T15:11:54-07:00",
+      "position": 2,
+      "updated_at": "2024-02-16T15:12:02-07:00",
+      "product_id": 7197426057325,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mint-4-resized_6472f4d4-06e8-404b-a4e9-f4c541fe0d51.jpg?v=1708121522",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31241059008621,
+      "created_at": "2024-02-16T15:11:34-07:00",
+      "position": 3,
+      "updated_at": "2024-02-16T15:12:02-07:00",
+      "product_id": 7197426057325,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/MintLeaves-Allos-Prod3-01-24.png?v=1708121522",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 31241058943085,
+      "created_at": "2024-02-16T15:11:34-07:00",
+      "position": 4,
+      "updated_at": "2024-02-16T15:12:02-07:00",
+      "product_id": 7197426057325,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/allosmintleaves-resized-2.jpg?v=1708121522",
+      "width": 3299,
+      "height": 4399
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/allosmintleaves-resized-3.jpg?v=1708121522",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Allos",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

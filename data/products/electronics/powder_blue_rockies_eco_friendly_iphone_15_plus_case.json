@@ -1,0 +1,88 @@
+{
+  "id": 7372992512088,
+  "title": "Powder Blue Rockies iPhone 15 Plus Case",
+  "handle": "powder-blue-rockies-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring the majestic Rockies with you wherever you go with the Rockies Phone Case! This beautifully engraved design captures the serene beauty of towering mountains, lush forests, and winding rivers, all etched in a calming powder blue backdrop. Perfect for adventurers and nature lovers alike, this case adds a touch of rugged elegance to your daily life while protecting your phone with durable style. Whether you're exploring the great outdoors or just dreaming of your next hike, the Rockies Phone Case is your perfect companion.<meta charset=\"utf-8\">🏔️<meta charset=\"utf-8\">🌲📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-12T13:52:55-04:00",
+  "created_at": "2023-08-18T10:33:09-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Engraving",
+    "bestseller",
+    "collection:Landscapes",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rockies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40256222003288,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17193-IP15PLUS-POWDERBLUE-AOD:ROCKIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7372992512088,
+      "created_at": "2023-08-18T10:33:09-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30346899030104,
+      "created_at": "2023-08-18T10:33:09-04:00",
+      "position": 1,
+      "updated_at": "2023-08-18T10:33:09-04:00",
+      "product_id": 7372992512088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROCKIES_IP15PLUS_PowderBlue.jpg?v=1692369189",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30346903158872,
+      "created_at": "2023-08-18T10:39:39-04:00",
+      "position": 2,
+      "updated_at": "2023-08-18T10:39:41-04:00",
+      "product_id": 7372992512088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINLAND2_2_5b5fd389-184f-4639-9011-d4eacc5e4dc9.jpg?v=1692369581",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROCKIES_IP15PLUS_PowderBlue.jpg?v=1692369189",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

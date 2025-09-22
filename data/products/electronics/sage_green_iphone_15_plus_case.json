@@ -1,0 +1,92 @@
+{
+  "id": 7371663605848,
+  "title": "Sage Green iPhone 15 Plus Case",
+  "handle": "sage-green-iphone-15-plus-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-09-12T13:48:38-04:00",
+  "created_at": "2023-08-11T16:13:03-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40253141549144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17188-IP15PLUS-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7371663605848,
+      "created_at": "2023-08-11T16:13:03-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30342981091416,
+      "created_at": "2023-08-15T16:35:25-04:00",
+      "position": 1,
+      "updated_at": "2023-08-15T16:35:27-04:00",
+      "product_id": 7371663605848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PLUS_SAGEGREEN_BACK_f2f18b8d-d243-47f8-8e4c-cab8f326c38b.jpg?v=1692131727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342981025880,
+      "created_at": "2023-08-15T16:35:25-04:00",
+      "position": 2,
+      "updated_at": "2023-08-15T16:35:27-04:00",
+      "product_id": 7371663605848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PLUS_SAGEGREEN_BACK_45L_8c60e35d-8fee-4d0b-8601-ba940812eb7d.jpg?v=1692131727",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342981058648,
+      "created_at": "2023-08-15T16:35:25-04:00",
+      "position": 3,
+      "updated_at": "2023-08-15T16:35:27-04:00",
+      "product_id": 7371663605848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PLUS_SAGEGREEN_BACK_45R.jpg?v=1692131727",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PLUS_SAGEGREEN_BACK_f2f18b8d-d243-47f8-8e4c-cab8f326c38b.jpg?v=1692131727",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

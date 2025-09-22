@@ -1,0 +1,67 @@
+{
+  "id": 7785420685479,
+  "title": "Brand: Kennametal / Part #: 6953261",
+  "handle": "wk534147979",
+  "body_html": "<br><strong>Item #: </strong>97274815<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>6953261<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (mm)</strong>\n</td>\n<td>12.00</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>18.0000</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>18.0000</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.50</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.4724</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Duo-Lock 12</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Helix Angle</strong></td>\n<td>36</td>\n</tr>\n<tr>\n<td><strong>Maximum Helix Angle</strong></td>\n<td>39</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Harvi I TE; Duo-Lock</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>36.00/39.00</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:33:58-06:00",
+  "created_at": "2023-12-28T20:33:58-06:00",
+  "updated_at": "2025-09-22T10:55:19-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Milling",
+  "tags": [
+    "End Mill Heads"
+  ],
+  "variants": [
+    {
+      "id": 43703803412647,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97274815",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "95.14",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785420685479,
+      "created_at": "2023-12-28T20:33:58-06:00",
+      "updated_at": "2025-09-22T10:55:19-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236899410087,
+      "created_at": "2025-02-03T17:57:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:57:37-06:00",
+      "product_id": 7785420685479,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727481-21_fe5feba7-b1ff-4306-90f5-2a9c3fd67c22.jpg?v=1738627057",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 95.14,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727481-21_fe5feba7-b1ff-4306-90f5-2a9c3fd67c22.jpg?v=1738627057",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

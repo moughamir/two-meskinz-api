@@ -1,0 +1,67 @@
+{
+  "id": 7786356703399,
+  "title": "Brand: Scott Equipment / Part #: ASV410F-02-08S",
+  "handle": "er45a5145240670",
+  "body_html": "<br><strong>Item #: </strong>53872628<br><strong>Brand: </strong>Scott Equipment<br><strong>Model #: </strong>ASV410F-02-08S<br><br><div class=\"flex flex-row justify-between items-center pb-7\"><h2 class=\"text-2xl md:text-28 3xl:text-32 font-bold font-allumin_std\">Specifications</h2></div><div class=\"lg:flex\">\n<div class=\"w-full lg:w-8/12\"><div class=\"bg-white border rounded-xl mb-6\"><table class=\"w-full rounded-full specs_table text-base\"><tbody></tbody></table></div></div>\n<div class=\"w-full lg:w-4/12 lg:pl-10\"><div class=\"bg-white border rounded-xl p-4 md:p-8\"><table class=\"rounded-full specs_table text-base w-full\"><tbody>\n<tr><td colspan=\"2\" class=\"py-2 text-monochromes leading-4\"><img alt=\"PRO-SAFE\" src=\"https://cdn.mscdirect.com/global/images/Logos/SCOTTEQU-61.gif\"></td></tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">MSC Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">53872628</td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"flex py-2 text-monochromes leading-4 text-sm md:text-base\">Mfr Part #</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\"><p>ASV410F-02-08S</p></td>\n</tr>\n<tr class=\"border-b\">\n<td class=\"py-2 text-monochromes leading-4 text-sm md:text-base\">Country of Origin<span class=\"block text-xs text-monochromes-GradientGrey mt-2 text-width\">Country of Origin is subject to change</span>\n</td>\n<td class=\"py-2 text-monochromes leading-4 text-right text-sm md:text-base\">Japan</td>\n</tr>\n</tbody></table></div></div>\n</div>",
+  "published_at": "2023-12-29T20:29:58-06:00",
+  "created_at": "2023-12-29T20:29:58-06:00",
+  "updated_at": "2025-09-22T10:53:35-05:00",
+  "vendor": "Scott Equipment",
+  "product_type": "Fasteners",
+  "tags": [
+    "Bolts; Screws & Cap Screws"
+  ],
+  "variants": [
+    {
+      "id": 43707617018023,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "53872628",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.42",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786356703399,
+      "created_at": "2023-12-29T20:29:58-06:00",
+      "updated_at": "2025-09-22T10:53:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238419452071,
+      "created_at": "2025-02-03T18:48:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:48:58-06:00",
+      "product_id": 7786356703399,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_ea298aaf-a783-4740-a87f-e9f0f9e3efcf.png?v=1738630138",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.42,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_ea298aaf-a783-4740-a87f-e9f0f9e3efcf.png?v=1738630138",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Scott Equipment",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

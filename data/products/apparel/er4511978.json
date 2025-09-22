@@ -1,0 +1,67 @@
+{
+  "id": 7785345777831,
+  "title": "Brand: Tingley / Part #: S76522.2X",
+  "handle": "er4511978",
+  "body_html": "<br><strong>Item #: </strong>60819018<br><strong>Brand: </strong>Tingley<br><strong>Model #: </strong>S76522.2X<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Type</strong>\n</td>\n<td>Hi-Visibility</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>2X-Large</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Fluorescent Yellow-Green</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Button</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>3.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:14:37-06:00",
+  "created_at": "2023-12-28T18:14:37-06:00",
+  "updated_at": "2025-09-22T10:55:39-05:00",
+  "vendor": "Tingley",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43703653499047,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "60819018",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "103.89",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785345777831,
+      "created_at": "2023-12-28T18:14:37-06:00",
+      "updated_at": "2025-09-22T10:55:39-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236748054695,
+      "created_at": "2025-02-03T17:52:39-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:40-06:00",
+      "product_id": 7785345777831,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5695967-21_e0d5b63c-964c-4f1d-b692-b8ee8231e90e.jpg?v=1738626760",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 103.89,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5695967-21_e0d5b63c-964c-4f1d-b692-b8ee8231e90e.jpg?v=1738626760",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tingley",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 7556232020056,
+  "title": "Bubblegum Pink Hearts iPhone 13 Case",
+  "handle": "bubblegum-pink-hearts-eco-friendly-iphone-13-case",
+  "body_html": "<p>Add some sweetness to your phone with our engraved Bubblegum Pink Hearts Phone Case. Not only is it beautifully designed with tiny pink hearts, but it's also sustainable and compostable - making it a durable and earth-friendly choice for your phone. Love your phone and the planet with this unique case!</p>",
+  "published_at": "2024-02-22T04:34:24-05:00",
+  "created_at": "2024-02-08T11:08:09-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Hearts",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038003503192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16699-IP13-BUBPINK-AOD:HEARTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556232020056,
+      "created_at": "2024-02-08T11:08:09-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177829773400,
+      "created_at": "2024-02-08T12:00:30-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T12:00:30-05:00",
+      "product_id": 7556232020056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/HEARTS_IP13_BubblegumPink_4b47a3da-81ac-4825-9deb-ad1e6bb3793d.jpg?v=1707411630",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211873857624,
+      "created_at": "2024-02-21T02:42:29-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T02:42:30-05:00",
+      "product_id": 7556232020056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEARTS_BUBBLEGGUM_1_071d5658-6739-4222-a957-ef63ff88611d.jpg?v=1708501350",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/HEARTS_IP13_BubblegumPink_4b47a3da-81ac-4825-9deb-ad1e6bb3793d.jpg?v=1707411630",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

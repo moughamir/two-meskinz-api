@@ -1,0 +1,87 @@
+{
+  "id": 8381665116248,
+  "title": "Bubblegum Pink Coastal Rodeo iPhone 16 Case",
+  "handle": "bubblegum-pink-coastal-rodeo-eco-friendly-iphone-16-case",
+  "body_html": "<p>Protect your phone in a sustainable and stylish way with our compostable Bubblegum Pink Coastal Rodeo Phone Case. With a durable design and fun cowboy-themed print including cowboy boots, snakes, cactus, seashells and horse shoes, you'll stand out from the crowd while also being environmentally friendly.  Yeehaw!</p>",
+  "published_at": "2025-05-21T17:04:39-04:00",
+  "created_at": "2025-05-21T09:52:54-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coastal Rodeo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895733096536,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17251-IP16-BUBPINK-AOD:COASTAL-RODEO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381665116248,
+      "created_at": "2025-05-21T09:52:54-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065440895064,
+      "created_at": "2025-05-21T09:52:54-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:56-04:00",
+      "product_id": 8381665116248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_IP16_BubblegumPink.jpg?v=1747835576",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065809469528,
+      "created_at": "2025-05-21T12:25:47-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T12:25:48-04:00",
+      "product_id": 8381665116248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_BUBBLEGUM_1_47681f6d-3567-4f32-99fe-320b0d7a1ad3.jpg?v=1747844748",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_IP16_BubblegumPink.jpg?v=1747835576",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

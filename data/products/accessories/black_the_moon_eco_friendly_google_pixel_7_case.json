@@ -1,0 +1,76 @@
+{
+  "id": 7364918706264,
+  "title": "Black The Moon Google Pixel 7 Case",
+  "handle": "black-the-moon-eco-friendly-google-pixel-7-case",
+  "body_html": "<p><meta charset=\"utf-8\">Unleash your inner mystic with the enchanting Moon Phone Case! <meta charset=\"utf-8\">🌙 Adorned with a celestial tarot design that showcases a serene crescent moon, this case is a tribute to the cosmic wonders of the night sky. Perfect for starry-eyed dreamers and tarot enthusiasts, it adds a touch of magic and mystery to your everyday life. Crafted to protect your phone while inspiring your imagination, the Moon Phone Case is your gateway to the stars, right in the palm of your hand. Embrace the night and let the moon guide your way!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-08T14:36:12-04:00",
+  "created_at": "2023-06-08T14:36:08-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Tarot",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:The Moon",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236296568920,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14830-PX7-BLACK-AOD:THE-MOON",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364918706264,
+      "created_at": "2023-06-08T14:36:08-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30284976619608,
+      "created_at": "2023-06-08T14:36:08-04:00",
+      "position": 1,
+      "updated_at": "2023-06-08T14:36:08-04:00",
+      "product_id": 7364918706264,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/THE-MOON_PX7_Black.jpg?v=1686249368",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/THE-MOON_PX7_Black.jpg?v=1686249368",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

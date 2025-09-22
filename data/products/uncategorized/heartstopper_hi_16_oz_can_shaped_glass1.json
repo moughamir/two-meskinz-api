@@ -1,0 +1,104 @@
+{
+  "id": 7851280433199,
+  "title": "Heartstopper Hi. 16 oz. Can Shaped Glass",
+  "handle": "heartstopper-hi-16-oz-can-shaped-glass1",
+  "body_html": "<p>In collaboration with Illustrator &amp; Brand Identity Designer, Carly Berry, enjoy your favorite drinks in style with our <em>Heartstopper </em>\"Hi.\" 16 oz. can-shaped glass! This sleek design captures the charm of the series, making it perfect for cozy nights in or gatherings with friends. Made from durable glass, it's a wonderful way to toast to love and friendship while showcasing your <em>Heartstopper </em>fandom!</p>\n<ul>\n<li>Glass material</li>\n<li>Comes with a lid and straw</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>",
+  "published_at": "2024-10-24T16:51:50-04:00",
+  "created_at": "2024-10-16T10:49:24-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "81059939",
+    "Can Shaped Glass",
+    "Drinking Glasses",
+    "Drinkware",
+    "glass",
+    "Glasseware",
+    "Glassware",
+    "Heartstopper",
+    "Home  Office",
+    "new",
+    "Promo Eligible Collection",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43305132687407,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101797-0001-HS-HIHI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34829353189423,
+        "product_id": 7851280433199,
+        "position": 1,
+        "created_at": "2024-10-16T10:49:24-04:00",
+        "updated_at": "2024-10-16T10:49:24-04:00",
+        "alt": "Heartstopper 'Hi' Glass Can Cup",
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HIHI_101726_LIFE4_a79a4736-77b2-4866-bb0c-cfa09cb55ea1.png?v=1729090164",
+        "variant_ids": [
+          43305132687407
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7851280433199,
+      "created_at": "2024-10-16T10:49:24-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829353189423,
+      "created_at": "2024-10-16T10:49:24-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:49:24-04:00",
+      "product_id": 7851280433199,
+      "variant_ids": [
+        43305132687407
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HIHI_101726_LIFE4_a79a4736-77b2-4866-bb0c-cfa09cb55ea1.png?v=1729090164",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34869421932591,
+      "created_at": "2024-10-24T16:47:46-04:00",
+      "position": 2,
+      "updated_at": "2024-10-24T16:47:48-04:00",
+      "product_id": 7851280433199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-TXT_101797_22_BK_MF.jpg?v=1729802868",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HIHI_101726_LIFE4_a79a4736-77b2-4866-bb0c-cfa09cb55ea1.png?v=1729090164",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444662906968,
+  "title": "Electric Blue Summer Blues iPhone Air Case",
+  "handle": "electric-blue-summer-blues-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">🌞🔷 Dive into the cool vibes of summer with the Summer Blues Phone Case from the exclusive Pela x Cam Miller Artist Series Collection! This vibrant case features a fun, eclectic mix of summery illustrations in striking electric blue, bringing a refreshing splash of color to your day. From happy palm trees and playful waves to quirky ice cream cones and zippy surfboards, this case captures the essence of sunny beach days and endless fun. Perfect for beach bums and art enthusiasts alike, the Summer Blues case is your ultimate accessory for a stylish, laid-back summer. Embrace the joy of the season and make every day feel like a vacation! 🌊🍦🏄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:17:51-04:00",
+  "created_at": "2025-08-08T11:49:17-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Cam Miller",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Summer Blues",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184135766104,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17544-IP17AIR-ELEBLUE-AOD:SUMMER-BLUES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 90,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444662906968,
+      "created_at": "2025-09-03T18:31:55-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43188496105560,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17544-IP17AIR-ELEBLUE-AOD:SUMMER-BLUES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 80,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444662906968,
+      "created_at": "2025-09-05T14:21:01-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567209578584,
+      "created_at": "2025-08-08T11:49:17-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:20-04:00",
+      "product_id": 8444662906968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-BLUES_IP17AIR_ElectricBlue.jpg?v=1754668160",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081131556952,
+      "created_at": "2025-05-23T14:06:36-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T14:06:39-04:00",
+      "product_id": 8444662906968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMERBLUES_ELECTRICBLUE--2_c0c87839-6a50-4c5f-865b-d669bea58e26.jpg?v=1748023599",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081130147928,
+      "created_at": "2025-05-23T14:06:21-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T14:06:24-04:00",
+      "product_id": 8444662906968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--2_bca1973f-290e-409a-8ac7-7a6b0500179f.jpg?v=1748023584",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-BLUES_IP17AIR_ElectricBlue.jpg?v=1754668160",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

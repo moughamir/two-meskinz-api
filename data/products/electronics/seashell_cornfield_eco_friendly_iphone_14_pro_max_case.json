@@ -1,0 +1,120 @@
+{
+  "id": 8470412099672,
+  "title": "Seashell Cornfield iPhone 14 Pro Max Case",
+  "handle": "seashell-cornfield-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to the <em data-start=\"126\" data-end=\"139\">a-maize-ing</em> case your phone didn’t know it needed. With rows of colorful kernels and rustic charm, the Cornfield Case is here to bring harvest vibes year-round. Whether you’re strolling through the farmer’s market or just craving popcorn on the couch, this design is a sweet reminder that cozy season is always in style. Bonus: it’s guaranteed to be the corniest compliment magnet in your collection.<meta charset=\"utf-8\">🌽</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-18T09:10:16-04:00",
+  "created_at": "2025-09-11T11:58:02-04:00",
+  "updated_at": "2025-09-22T15:12:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Cornfield",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43202913894488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16876-IP14PMAX-SEASHELL-AOD:CORNFIELD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8470412099672,
+      "created_at": "2025-09-11T11:58:02-04:00",
+      "updated_at": "2025-09-22T15:12:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35824747937880,
+      "created_at": "2025-09-11T11:58:02-04:00",
+      "position": 1,
+      "updated_at": "2025-09-11T11:58:04-04:00",
+      "product_id": 8470412099672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORNFIELD_IP14PMAX_Seashell.jpg?v=1757606284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35878862422104,
+      "created_at": "2025-09-16T13:42:56-04:00",
+      "position": 2,
+      "updated_at": "2025-09-16T13:42:56-04:00",
+      "product_id": 8470412099672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/20263e644cf372b5a712f878923b3bf5_c39427d4-1109-40e9-bb03-bcc127b96aa7.jpg?v=1758044576",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878862585944,
+      "created_at": "2025-09-16T13:42:57-04:00",
+      "position": 3,
+      "updated_at": "2025-09-16T13:42:57-04:00",
+      "product_id": 8470412099672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f1ff90712ba09334c4a36f58d091d40c_48e3dd87-d9e2-4aa3-993c-00cdbdccd694.jpg?v=1758044577",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35878862782552,
+      "created_at": "2025-09-16T13:42:59-04:00",
+      "position": 4,
+      "updated_at": "2025-09-16T13:42:59-04:00",
+      "product_id": 8470412099672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3c9642fd03f9e5926ad6dc536c9e5f8f_b0687039-37fe-40f8-ba9f-605f3a4b1156.jpg?v=1758044579",
+      "width": 2039,
+      "height": 2048
+    },
+    {
+      "id": 35878863143000,
+      "created_at": "2025-09-16T13:43:00-04:00",
+      "position": 5,
+      "updated_at": "2025-09-16T13:43:00-04:00",
+      "product_id": 8470412099672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/e7ec4da6922558c40d32755f69d9fcb8_95ac0554-dc6b-4745-b5ba-6dde1999cf55.jpg?v=1758044580",
+      "width": 2047,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORNFIELD_IP14PMAX_Seashell.jpg?v=1757606284",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

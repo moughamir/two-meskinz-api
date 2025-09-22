@@ -1,0 +1,67 @@
+{
+  "id": 8452811489447,
+  "title": "‎Straight Flute Tap; 1/4″ -28 × 2-1/2″ OAL, 4 Flute, HSS, Uncoated, H3",
+  "handle": "kp6040105",
+  "body_html": "<br><strong>Item #: </strong>TA15TT82936<br><strong>Brand: </strong>Titan USA<br><strong>Model #: </strong>TT82936<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSS </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>28 </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| H3 | </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| UN | </td>\n</tr>\n<tr>\n<td><strong>Special Feature</strong></td>\n<td>General Purpose </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎2-1/2″ </td>\n</tr>\n<tr>\n<td><strong>Standard</strong></td>\n<td>| ANSI | </td>\n</tr>\n<tr>\n<td><strong>Thread Cutting Part Length (THL)</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>PLUG </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Uncoated </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.255″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>‎1/4″ - 28 </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>0 Degrees </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T18:32:06-06:00",
+  "created_at": "2025-01-23T18:32:05-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Titan USA",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 46499177234599,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TA15TT82936",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.54",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452811489447,
+      "created_at": "2025-01-23T18:32:05-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38136741626023,
+      "created_at": "2025-01-23T18:32:16-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T18:32:17-06:00",
+      "product_id": 8452811489447,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c5fc2fa7-ec7a-4669-b835-54ab34adcace.png?v=1737678737",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c5fc2fa7-ec7a-4669-b835-54ab34adcace.png?v=1737678737",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Titan USA",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

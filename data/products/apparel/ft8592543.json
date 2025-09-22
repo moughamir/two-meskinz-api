@@ -1,0 +1,65 @@
+{
+  "id": 7785493823655,
+  "title": "Brand: Jonard Tools / Part #: UC-4511",
+  "handle": "ft8592543",
+  "body_html": "<br><strong>Item #: </strong>80807159<br><strong>Brand: </strong>Jonard Tools<br><strong>Model #: </strong>UC-4511<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Handle Style</strong>\n</td>\n<td>Dual Material</td>\n</tr>\n<tr>\n<td><strong>Crimper Type</strong></td>\n<td>Connector Crimper</td>\n</tr>\n<tr>\n<td><strong>Maximum Wire Gauge</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Capacity</strong></td>\n<td>RJ-11; RJ-45; (2) Standard Rolls up to 5-1/2 in Diameter</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Dual Material</td>\n</tr>\n<tr>\n<td><strong>Terminal Type</strong></td>\n<td>Pass-Through</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Vertical crimp action crimps RJ11, RJ12, and RJ45 pass-through connectors perfectly every time ? Cleanly trims the wires flush to the end face of pass-through RJ11/12 and CAT6A RJ45 connectors ? Unique crimping slots in the middle of the tool crimp the tails of shielded RJ45 CAT6A connectors ? Ratcheting ultra-stable platform for consistent terminations with low hand force ? Ergonomically designed dual material cushion grip handles for greater leverage and comfort</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>8-1/4</td>\n</tr>\n<tr>\n<td><strong>Minimum Wire Gage</strong></td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:08:17-06:00",
+  "created_at": "2023-12-28T22:08:17-06:00",
+  "updated_at": "2025-09-22T10:48:29-05:00",
+  "vendor": "Jonard Tools",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 43704091377831,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "80807159",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.04",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785493823655,
+      "created_at": "2023-12-28T22:08:17-06:00",
+      "updated_at": "2025-09-22T10:48:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237007806631,
+      "created_at": "2025-02-03T18:01:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:01:02-06:00",
+      "product_id": 7785493823655,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8080715-21.jpg?v=1738627262",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 90.04,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8080715-21.jpg?v=1738627262",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Jonard Tools",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

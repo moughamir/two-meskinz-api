@@ -1,0 +1,120 @@
+{
+  "id": 8345580306520,
+  "title": "Seashell Wild Canada iPhone 13 Pro Max Case",
+  "handle": "seashell-wild-canada-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p data-start=\"77\" data-end=\"299\" class=\"\">Take a walk on the wild side with a phone case that’s bursting with Canadian critters—from mighty moose to curious bears, waddling ducks to salmon mid-leap. It's a full-on forest parade, and yes, the beavers are invited.</p>\n<p data-start=\"301\" data-end=\"484\" class=\"\">Made in Canada and inspired by it too, this case brings a little wilderness wherever you wander. Sturdy, sustainable, and proudly northern—what’s more Canadian than that, eh? 🇨🇦🦫📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:38:31-04:00",
+  "created_at": "2025-04-14T10:39:33-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Wild Canada",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815081742424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:WILD-CANADA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345580306520,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829659996248,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:34-04:00",
+      "product_id": 8345580306520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP13PMAX_Seashell.jpg?v=1744641574",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982838435928,
+      "created_at": "2025-05-07T16:47:41-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:47:43-04:00",
+      "product_id": 8345580306520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_33989aab-50e7-4688-993d-3012441b2943.jpg?v=1746650863",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982838501464,
+      "created_at": "2025-05-07T16:47:41-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:47:43-04:00",
+      "product_id": 8345580306520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_8cb8bb7f-9ff1-4547-b5df-dd50d99d9b6d.jpg?v=1746650863",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982838468696,
+      "created_at": "2025-05-07T16:47:41-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:47:43-04:00",
+      "product_id": 8345580306520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_09cb4000-35d1-4542-95a5-5e0c8f2cd5a1.jpg?v=1746650863",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982838403160,
+      "created_at": "2025-05-07T16:47:41-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:47:43-04:00",
+      "product_id": 8345580306520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_c71b4857-0c47-4770-8745-78399c885d9f.jpg?v=1746650863",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP13PMAX_Seashell.jpg?v=1744641574",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

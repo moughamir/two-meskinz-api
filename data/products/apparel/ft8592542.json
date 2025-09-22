@@ -1,0 +1,67 @@
+{
+  "id": 7785594912935,
+  "title": "Brand: Widia / Part #: 5696700",
+  "handle": "ft8592542",
+  "body_html": "<br><strong>Item #: </strong>98258825<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>5696700<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Hand of Holder</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Compatible Insert Size Code</strong></td>\n<td>1204..</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>DSRNL</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Negative</td>\n</tr>\n<tr>\n<td><strong>Rake Angle</strong></td>\n<td>-5 (Axial);-5 (Radial)</td>\n</tr>\n<tr>\n<td><strong>Multi-use Tool</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Lead Angle</strong></td>\n<td>75.000</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Insert Compatibility</strong></td>\n<td>SN..1204..</td>\n</tr>\n<tr>\n<td><strong>Shank Width (mm)</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Shank Height (mm)</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>DSRN</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>150.0000</td>\n</tr>\n<tr>\n<td><strong>Cutting Tool Application</strong></td>\n<td>Facing; Turning</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>32.00</td>\n</tr>\n<tr>\n<td><strong>Back of Bar to Cutting Edge (mm)</strong></td>\n<td>27.00</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Universal</td>\n</tr>\n<tr>\n<td><strong>Insert Width (mm)</strong></td>\n<td>12.70</td>\n</tr>\n<tr>\n<td><strong>Toolholder Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>DSRNL2525M12KC04</td>\n</tr>\n<tr>\n<td><strong>Complete Insert Compatibility</strong></td>\n<td>SN..</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness</strong></td>\n<td>4.76</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Insert Inscribed Circle (mm)</strong></td>\n<td>12.70</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:16:16-06:00",
+  "created_at": "2023-12-28T23:16:16-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 43704670322855,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98258825",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "86.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785594912935,
+      "created_at": "2023-12-28T23:16:16-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237080092839,
+      "created_at": "2025-02-03T18:03:52-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:03:54-06:00",
+      "product_id": 7785594912935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9825881-21_f3e84995-527d-4901-bcbd-b11a464dda19.jpg?v=1738627434",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 86.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9825881-21_f3e84995-527d-4901-bcbd-b11a464dda19.jpg?v=1738627434",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

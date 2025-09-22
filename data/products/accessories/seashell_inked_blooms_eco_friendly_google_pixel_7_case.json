@@ -1,0 +1,97 @@
+{
+  "id": 8267602755672,
+  "title": "Seashell Inked Blooms Google Pixel 7 Case",
+  "handle": "seashell-inked-blooms-eco-friendly-google-pixel-7-case",
+  "body_html": "<p><meta charset=\"utf-8\">Like a page torn from an artist’s notebook, the <strong>Inked Blooms Phone Case</strong> brings hand-drawn floral elegance straight to your fingertips. With bold, expressive rose sketches dancing across a warm, neutral background, this case is a love letter to creativity and timeless style. Perfect for the romantics, the dreamers, and those who see the world as one big canvas. <meta charset=\"utf-8\">🌹🖊️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-20T09:10:42-05:00",
+  "created_at": "2025-01-27T13:58:56-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Noir Romance",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Inked Blooms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42597372461144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14836-PX7-SEASHELL-AOD:INKED-BLOOMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8267602755672,
+      "created_at": "2025-01-27T13:58:56-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34373319131224,
+      "created_at": "2025-01-27T13:58:56-05:00",
+      "position": 1,
+      "updated_at": "2025-01-27T13:58:58-05:00",
+      "product_id": 8267602755672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/INKED-BLOOMS_PX7_Seashell.jpg?v=1738004338",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34537601859672,
+      "created_at": "2025-02-18T15:35:34-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T15:35:38-05:00",
+      "product_id": 8267602755672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/INKEDBLOOMS_PDP1_8bf9b2a5-8a9a-42b9-83ef-b7625135ce4c.jpg?v=1739910938",
+      "width": 4246,
+      "height": 4246
+    },
+    {
+      "id": 34537601990744,
+      "created_at": "2025-02-18T15:35:34-05:00",
+      "position": 3,
+      "updated_at": "2025-02-18T15:35:38-05:00",
+      "product_id": 8267602755672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/INKEDBLOOMS_PDP3_4c5dfd93-d3e5-4444-9383-857e2b2f4850.jpg?v=1739910938",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/INKED-BLOOMS_PX7_Seashell.jpg?v=1738004338",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

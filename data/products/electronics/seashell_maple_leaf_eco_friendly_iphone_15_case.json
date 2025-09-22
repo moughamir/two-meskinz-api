@@ -1,0 +1,120 @@
+{
+  "id": 8345579454552,
+  "title": "Seashell Maple Leaf iPhone 15 Case",
+  "handle": "seashell-maple-leaf-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\">Oh Canada, you’ve never looked so good on a phone case. With a flurry of fiery red leaves, this design brings all the cozy, crunchy charm of a crisp fall day—plus a little national pride. Whether you're a true north local or just maple-obsessed, this case says “eh” in the cutest way possible. <meta charset=\"utf-8\">🇨🇦📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:40:01-04:00",
+  "created_at": "2025-04-14T10:39:27-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Maple Leaf",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815080661080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:MAPLE-LEAF",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345579454552,
+      "created_at": "2025-04-14T10:39:27-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829657505880,
+      "created_at": "2025-04-14T10:39:27-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:29-04:00",
+      "product_id": 8345579454552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP15_Seashell.jpg?v=1744641569",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982684328024,
+      "created_at": "2025-05-07T16:18:11-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:18:20-04:00",
+      "product_id": 8345579454552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_a847f401-6e56-413d-927f-bdddcb53e0ee.jpg?v=1746649100",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982684426328,
+      "created_at": "2025-05-07T16:18:11-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:18:20-04:00",
+      "product_id": 8345579454552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_96a36814-bdba-4c0d-9d03-68ab05a3f722.jpg?v=1746649100",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982684393560,
+      "created_at": "2025-05-07T16:18:11-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:18:20-04:00",
+      "product_id": 8345579454552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_ee382f69-46c0-4eff-bff3-febbe04135be.jpg?v=1746649100",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982684295256,
+      "created_at": "2025-05-07T16:18:11-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:18:20-04:00",
+      "product_id": 8345579454552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_aa3f854a-8392-46c9-873b-e3f0b90d36f0.jpg?v=1746649100",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP15_Seashell.jpg?v=1744641569",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

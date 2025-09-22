@@ -1,0 +1,87 @@
+{
+  "id": 5002627842181,
+  "title": "APlusLift 1.5\" Diameter Truck Adapters 1 1/4\" and 5\" Tall - 4 Pieces",
+  "handle": "apluslift-2-post-car-lift-truck-adapters-symmetric-arm",
+  "body_html": "<h3>1 1/2\" Diameter Truck Adapters (Height Extensions). 1 1/4\" and 5\" Tall. Fit 1 1/2\" arm holes. The truck adapters fit HW-9KBP, HW-9KOH, HW-10KBP (before 2020, with Symmetric Arms), and HW-10KOH (before 2020, with Symmetric Arms) 2-post car lift models.</h3>\n<h3><span style=\"color: red;\">Please measure the arm holes of your lift before making the purchase. For parts purchased by mistake, a minimum 25% restocking fee and return shipping charges apply.</span></h3>",
+  "published_at": "2021-01-04T15:23:53-08:00",
+  "created_at": "2020-05-04T00:50:58-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 44714059890916,
+      "title": "5\" Tall",
+      "option1": "5\" Tall",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 9072,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5002627842181,
+      "created_at": "2024-03-13T12:17:40-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45496770855140,
+      "title": "1 1/4\" and 5\" Tall",
+      "option1": "1 1/4\" and 5\" Tall",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "110.00",
+      "grams": 9072,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5002627842181,
+      "created_at": "2024-08-05T23:52:42-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891552190622,
+      "created_at": "2020-11-01T16:33:28-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:33:38-08:00",
+      "product_id": 5002627842181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-truck-adapters-8-pieces.jpg?v=1604277218",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "5\" Tall",
+        "1 1/4\" and 5\" Tall"
+      ]
+    }
+  ],
+  "price": 90,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-truck-adapters-8-pieces.jpg?v=1604277218",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

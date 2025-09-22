@@ -1,0 +1,68 @@
+{
+  "id": 5333554462887,
+  "title": "‎7/16″-20 UNF × 3.937″ OAL, HSSE, GLT-1, 3B Tolerance Class, 2P-3P Chamfer, Left Hand, Semi-Bottoming, Spiral Flute Tap",
+  "handle": "at51c008",
+  "body_html": "<br><strong>Item #: </strong>ER4550C4605046<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>CU50C460.5046<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>7/16″ </td>\n</tr>\n<tr>\n<td><strong>Standard</strong></td>\n<td>| DIN | ANSI | </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>20 </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Enorm Z </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| UNF | </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>‎2P-3P </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>3.937″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>GLT-1 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.323″ </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Semi-Bottoming </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Super-Alloys / Titanium | Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Left Hand </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSSE </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| 3B | </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Blind Hole </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:35:31-06:00",
+  "created_at": "2020-06-14T23:08:06-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Drilling",
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 34722748334247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4550C4605046",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "140.21",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5333554462887,
+      "created_at": "2020-06-14T23:08:06-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143247253671,
+      "created_at": "2025-01-23T21:35:39-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:35:40-06:00",
+      "product_id": 5333554462887,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_3DEnorm2ZLHGLT1_609f_f53ced7f-3c9e-472f-8fb2-b1ea624b9de8.jpg?v=1737689740",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 140.21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_3DEnorm2ZLHGLT1_609f_f53ced7f-3c9e-472f-8fb2-b1ea624b9de8.jpg?v=1737689740",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 5002619158661,
+  "title": "APlusLift 2-Post Car Lift Tool Trays - 2 Pieces",
+  "handle": "apluslift-2-post-car-lift-tool-trays",
+  "body_html": "<h3>Two tool trays for 2-post car lifts.</h3>",
+  "published_at": "2020-05-04T00:43:23-07:00",
+  "created_at": "2020-05-04T00:43:23-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330699190500,
+      "title": "10 1/2\" x 3\" (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)",
+      "option1": "10 1/2\" x 3\" (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5002619158661,
+      "created_at": "2024-06-20T20:03:13-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891397492894,
+      "created_at": "2020-11-01T16:14:18-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:14:27-08:00",
+      "product_id": 5002619158661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-tool-tray.jpg?v=1604276067",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "10 1/2\" x 3\" (HW-10KBP HW-10KOH AP-10SR HW-10ASY Models)"
+      ]
+    }
+  ],
+  "price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-tool-tray.jpg?v=1604276067",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

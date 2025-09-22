@@ -1,0 +1,67 @@
+{
+  "id": 8451814391975,
+  "title": "Brand: Niagara Cutter / Part #: 10135025",
+  "handle": "19898394",
+  "body_html": "<br><strong>Item #: </strong>98788128<br><strong>Brand: </strong>Niagara Cutter<br><strong>Model #: </strong>10135025<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Inch)</strong></td>\n<td>1/16</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>ANF</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Single Or Double End</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-1/2</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Pitch</strong></td>\n<td>Variable</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>40</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Corner Radius</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Variable</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Material Removal Type</strong></td>\n<td>Roughing &amp; Finishing</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Minimum Helix Angle</strong></td>\n<td>40</td>\n</tr>\n<tr>\n<td><strong>Maximum Helix Angle</strong></td>\n<td>40</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter Tolerance</strong></td>\n<td>-0.0020/+0.0000</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>N</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>ACS540</td>\n</tr>\n<tr>\n<td><strong>TIR Maximum (Decimal Inch)</strong></td>\n<td>0.0005</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Variable</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:36:44-06:00",
+  "created_at": "2025-01-22T09:36:43-06:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "Niagara Cutter",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 46493920559271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98788128",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451814391975,
+      "created_at": "2025-01-22T09:36:43-06:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38111125799079,
+      "created_at": "2025-01-22T09:36:52-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:36:53-06:00",
+      "product_id": 8451814391975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9878812-21_eae69f16-adcf-4acd-a555-e26fb0d7308d.jpg?v=1737560213",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9878812-21_eae69f16-adcf-4acd-a555-e26fb0d7308d.jpg?v=1737560213",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Niagara Cutter",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

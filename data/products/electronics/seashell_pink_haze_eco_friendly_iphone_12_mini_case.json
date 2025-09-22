@@ -1,0 +1,110 @@
+{
+  "id": 6680593530968,
+  "title": "Seashell Pink Haze iPhone 12 Mini Case",
+  "handle": "seashell-pink-haze-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into a dreamy world of soft hues with the Pink Haze Phone Case! This enchanting design features a beautiful blend of pink and purple watercolors, creating a mesmerizing haze that is both soothing and stylish. Perfect for adding a touch of whimsy to your everyday look. Embrace the serene vibes and let your phone reflect your unique style with the Pink Haze Phone Case. Keep it cool, keep it colorful! 📱💖✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-24T10:19:33-04:00",
+  "created_at": "2021-07-11T19:37:11-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Abstract Paint",
+    "device-collection-page:Hidden",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pink Haze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39497563373656,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16355-IP12MINI-SEASHELL-AOD:PINK-HAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6680593530968,
+      "created_at": "2021-07-11T19:37:11-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30328143609944,
+      "created_at": "2023-07-24T10:19:32-04:00",
+      "position": 1,
+      "updated_at": "2023-07-24T10:19:32-04:00",
+      "product_id": 6680593530968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IP12MINI_Seashell_29238154-d57e-43c8-964c-fb91a9aa7868.jpg?v=1690208372",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28433644847192,
+      "created_at": "2021-07-26T14:59:55-04:00",
+      "position": 2,
+      "updated_at": "2021-07-28T19:09:03-04:00",
+      "product_id": 6680593530968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed2_1_8c0df9e3-7bc4-4ad6-8f1f-2ad5f5d1c67d.jpg?v=1627513743",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433644781656,
+      "created_at": "2021-07-26T14:59:54-04:00",
+      "position": 3,
+      "updated_at": "2021-07-28T19:09:03-04:00",
+      "product_id": 6680593530968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed10_3e0b09cb-8c35-460c-b789-1a24cef24ad8.jpg?v=1627513743",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 28433644814424,
+      "created_at": "2021-07-26T14:59:55-04:00",
+      "position": 4,
+      "updated_at": "2021-07-28T19:09:03-04:00",
+      "product_id": 6680593530968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/paintfeed8_16083c26-c676-4c44-a100-aff56f594010.jpg?v=1627513743",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PINK-HAZE_IP12MINI_Seashell_29238154-d57e-43c8-964c-fb91a9aa7868.jpg?v=1690208372",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

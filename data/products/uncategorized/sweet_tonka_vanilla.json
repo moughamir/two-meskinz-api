@@ -1,0 +1,116 @@
+{
+  "id": 7625796550765,
+  "title": "Sweet Tonka & Vanilla",
+  "handle": "sweet-tonka-vanilla",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">A decadent blend of warm <strong>spices</strong> and toasted <strong>vanilla bean</strong> mingles with delicate <strong>orchid</strong> blooms, grounded by hints of golden amber and dark woods.<br></p>",
+  "published_at": "2025-04-02T09:34:31-06:00",
+  "created_at": "2025-03-24T11:27:47-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:New",
+    "Brand:Anthropologie",
+    "Group_Home",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Gourmand",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 42262282633325,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TSNH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7625796550765,
+      "created_at": "2025-03-24T11:27:48-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33970391810157,
+      "created_at": "2025-03-24T11:33:00-06:00",
+      "position": 1,
+      "updated_at": "2025-03-24T11:33:02-06:00",
+      "product_id": 7625796550765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-SweetTonkaVanilla-Prod1-1224.jpg?v=1742837582",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33970391744621,
+      "created_at": "2025-03-24T11:33:00-06:00",
+      "position": 2,
+      "updated_at": "2025-03-24T11:33:06-06:00",
+      "product_id": 7625796550765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-TonkaBean-Resized-1224.jpg?v=1742837586",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33970391711853,
+      "created_at": "2025-03-24T11:33:00-06:00",
+      "position": 3,
+      "updated_at": "2025-03-24T11:33:06-06:00",
+      "product_id": 7625796550765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SweetTonka_Vanilla-Anthropologie-Prod3-0125.jpg?v=1742837586",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33970391679085,
+      "created_at": "2025-03-24T11:33:00-06:00",
+      "position": 4,
+      "updated_at": "2025-03-24T11:33:06-06:00",
+      "product_id": 7625796550765,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-SweetTonkaVanilla-Prod4-1224.jpg?v=1742837586",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-SweetTonkaVanilla-Prod1-1224.jpg?v=1742837582",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

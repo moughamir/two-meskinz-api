@@ -1,0 +1,110 @@
+{
+  "id": 8039267008559,
+  "title": "Stranger Things Scoops Scoops Ahoy Tote Bag",
+  "handle": "stranger-things-scoops-ahoy-tote-bag",
+  "body_html": "<p>Say Ahoy! to your new go-to bag with the <em>Stranger Things</em> Scoops Ahoy Tote Bag – inspired by the iconic ice cream shop from <em>Stranger Things</em> Season 3. Featuring bold Scoops Ahoy branding and vintage nautical flair, this tote is perfect for carrying your daily essentials with a scoop of Hawkins style. </p><ul>\n<li>Made of: 100% certified organic cotton 3/1 twill</li>\n<li>Dimensions: 16\" × 14 ½\" × 5\"</li>\n<li>Weight limit: 30 lbs</li>\n</ul>",
+  "published_at": "2025-08-13T12:30:08-04:00",
+  "created_at": "2025-08-11T14:27:42-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Handbags",
+  "tags": [
+    "80057281",
+    "Accessories",
+    "EC8000",
+    "Handbags",
+    "Netflix",
+    "series_id-80057281",
+    "shop all",
+    "ST-SS-0825",
+    "Stranger Things",
+    "Tote Bags",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44420334223407,
+      "title": "Oyster / One Size",
+      "option1": "Oyster",
+      "option2": "One Size",
+      "option3": null,
+      "sku": "ST-100918-0002-ST-SS-0825-ATOTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37046520119343,
+        "product_id": 8039267008559,
+        "position": 1,
+        "created_at": "2025-08-11T14:27:53-04:00",
+        "updated_at": "2025-08-11T14:27:56-04:00",
+        "alt": "Stranger Things Scoops Ahoy Tote Bag Oyster",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-ATOTE_100918_MF.jpg?v=1754936876",
+        "variant_ids": [
+          44420334223407
+        ]
+      },
+      "available": true,
+      "price": "34.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8039267008559,
+      "created_at": "2025-08-11T14:27:42-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 37046520119343,
+      "created_at": "2025-08-11T14:27:53-04:00",
+      "position": 1,
+      "updated_at": "2025-08-11T14:27:56-04:00",
+      "product_id": 8039267008559,
+      "variant_ids": [
+        44420334223407
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-ATOTE_100918_MF.jpg?v=1754936876",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37046520086575,
+      "created_at": "2025-08-11T14:27:53-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:27:55-04:00",
+      "product_id": 8039267008559,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-ATOTE_100918_LIFE.jpg?v=1754936875",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Oyster"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 34.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-SS-0825-ATOTE_100918_MF.jpg?v=1754936876",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Handbags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

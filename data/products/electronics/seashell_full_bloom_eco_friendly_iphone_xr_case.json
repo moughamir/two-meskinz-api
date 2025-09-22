@@ -1,0 +1,119 @@
+{
+  "id": 7699252871256,
+  "title": "Seashell Full Bloom iPhone XR Case",
+  "handle": "seashell-full-bloom-eco-friendly-iphone-xr-case",
+  "body_html": "<p>Add a touch of nature to your phone with our Seashell Full Bloom Phone Case. The vibrant yellow and subtle pink flowers convey a sense of beauty that will surely make your device stand out. Plus, it's sure to bring a smile to your face every time you use it!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:34:35-04:00",
+  "created_at": "2024-04-01T12:47:24-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Full Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311483822168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:FULL-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699252871256,
+      "created_at": "2024-04-01T12:47:25-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487785594968,
+      "created_at": "2024-04-01T12:47:24-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:24-04:00",
+      "product_id": 7699252871256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_IPXR_Seashell.jpg?v=1711990044",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520637022296,
+      "created_at": "2024-04-04T16:19:05-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T16:19:07-04:00",
+      "product_id": 7699252871256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-01_f18ea8f5-9722-474a-8d18-9ffbf804edfc.jpg?v=1712261947",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520637055064,
+      "created_at": "2024-04-04T16:19:05-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T16:19:09-04:00",
+      "product_id": 7699252871256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-18_e4802575-e074-44de-b7d6-2996212d5bd7.jpg?v=1712261949",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520637087832,
+      "created_at": "2024-04-04T16:19:05-04:00",
+      "position": 4,
+      "updated_at": "2024-04-04T16:19:09-04:00",
+      "product_id": 7699252871256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-08_7fe42b53-e73e-4cae-964a-86626b749fe0.jpg?v=1712261949",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520636989528,
+      "created_at": "2024-04-04T16:19:05-04:00",
+      "position": 5,
+      "updated_at": "2024-04-04T16:19:09-04:00",
+      "product_id": 7699252871256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-17_ae086207-1073-457a-b90c-f1cb3566493a.jpg?v=1712261949",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_IPXR_Seashell.jpg?v=1711990044",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

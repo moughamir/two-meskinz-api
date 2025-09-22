@@ -1,0 +1,108 @@
+{
+  "id": 8243494912088,
+  "title": "Seashell Pasta Alchemy Google Pixel 7 Case",
+  "handle": "seashell-pasta-alchemy-eco-friendly-google-pixel-7-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a masterpiece with the Pasta Alchemy Phone Case! Featuring a vibrant medley of pasta shapes, fresh ingredients like tomatoes, garlic, olives, and cheese, this case is a feast for the eyes. It’s perfect for foodies, pasta lovers, and anyone who believes in the magic of a great meal. <meta charset=\"utf-8\">Stir up some fun and let your style simmer with this delicious design! <meta charset=\"utf-8\">🍝🍅🧄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:06:30-05:00",
+  "created_at": "2025-01-08T12:41:02-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pasta Alchemy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541139460184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14836-PX7-SEASHELL-AOD:PASTA-ALCHEMY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243494912088,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242771091544,
+      "created_at": "2025-01-08T12:41:02-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:04-05:00",
+      "product_id": 8243494912088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_PX7_Seashell.jpg?v=1736358064",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357442314328,
+      "created_at": "2025-01-23T10:41:37-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:41:39-05:00",
+      "product_id": 8243494912088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP1_8d5ead45-07c9-4eeb-acb8-6e0c8cd5524b.jpg?v=1737646899",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357442379864,
+      "created_at": "2025-01-23T10:41:37-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:41:41-05:00",
+      "product_id": 8243494912088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP3_17f4d559-997b-429c-8b50-5e531aa9bd5e.jpg?v=1737646901",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357442347096,
+      "created_at": "2025-01-23T10:41:37-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:41:41-05:00",
+      "product_id": 8243494912088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP2_3896208b-c2a8-4040-827b-d50050475639.jpg?v=1737646901",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_PX7_Seashell.jpg?v=1736358064",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

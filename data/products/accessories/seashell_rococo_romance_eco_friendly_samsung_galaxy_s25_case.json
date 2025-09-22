@@ -1,0 +1,119 @@
+{
+  "id": 8341686681688,
+  "title": "Seashell Rococo Romance Samsung Galaxy S25 Case",
+  "handle": "seashell-rococo-romance-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Fit for a royal rendezvous, the Rococo Romance Phone Case is a maximalist love letter to the lavish and the lovely. With pastel palace scenes, vintage cameos, handwritten letters, and overflowing florals, it’s like stepping into an 18th-century daydream. Baroque? More like baroquely fabulous.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T05:33:44-04:00",
+  "created_at": "2025-04-09T12:56:36-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Rococo Revival",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rococo Romance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42806300278872,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13900-S25-SEASHELL-AOD:ROCOCO-ROMANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8341686681688,
+      "created_at": "2025-04-09T12:56:36-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34809002426456,
+      "created_at": "2025-04-09T12:56:36-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T12:56:37-04:00",
+      "product_id": 8341686681688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-ROMANCE_S25_Seashell.jpg?v=1744217797",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34986587553880,
+      "created_at": "2025-05-08T05:13:36-04:00",
+      "position": 2,
+      "updated_at": "2025-05-08T05:13:42-04:00",
+      "product_id": 8341686681688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Friends_PDP_1x1_01_038c94a0-7006-459f-827e-8b96758f47fc.jpg?v=1746695622",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986587586648,
+      "created_at": "2025-05-08T05:13:36-04:00",
+      "position": 3,
+      "updated_at": "2025-05-08T05:13:42-04:00",
+      "product_id": 8341686681688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Android_PDP_1x1_03_056993f3-0772-47e3-b55e-272c608fd870.jpg?v=1746695622",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986587652184,
+      "created_at": "2025-05-08T05:13:36-04:00",
+      "position": 4,
+      "updated_at": "2025-05-08T05:13:42-04:00",
+      "product_id": 8341686681688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_IPADGrid_PDP_1x1_05_2d635232-cbf0-42ea-8326-279eaeead1cd.jpg?v=1746695622",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986587619416,
+      "created_at": "2025-05-08T05:13:36-04:00",
+      "position": 5,
+      "updated_at": "2025-05-08T05:13:42-04:00",
+      "product_id": 8341686681688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Grid_PDP_1x1_04_daf5dff9-1bc9-499e-8c4c-60f8358cfb59.jpg?v=1746695622",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-ROMANCE_S25_Seashell.jpg?v=1744217797",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

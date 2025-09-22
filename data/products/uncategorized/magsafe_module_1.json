@@ -1,0 +1,69 @@
+{
+  "id": 7371646697560,
+  "title": "MagSafe Module",
+  "handle": "magsafe-module-1",
+  "body_html": "<p> </p>\n<p data-mce-fragment=\"1\"><span>Upgrade your Pela Case with our MagSafe module for convenient, secure, and rapid wireless charging. </span></p>\n<p data-mce-fragment=\"1\"><span>This module seamlessly transforms your Pela Case into a magnetic case, perfectly compatible with MagSafe chargers and accessories.</span></p>\n<p data-mce-fragment=\"1\"><span>Designed to snugly fit into the back indent of your phone case, the MagSafe module is easily removable and recyclable. When you no longer need it, it can be sent back to us to be recycled. </span></p>\n<p data-mce-fragment=\"1\"><span>Plus, it now features an enhanced, stronger magnet for an even better user experience!</span></p>\n<p data-mce-fragment=\"1\"><span data-stringify-type=\"paragraph-break\" class=\"c-mrkdwn__br\" aria-label=\"\"></span><span>Not compatible with Clear Cases or iPhone 12 models.<br>Compatible with iPhone 16, iPhone 15, iPhone 14, and iPhone 13 series (except Clear Cases).</span></p>",
+  "published_at": "2024-01-04T11:04:36-05:00",
+  "created_at": "2023-08-11T11:22:03-04:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "MagSafe",
+  "tags": [
+    "accessory",
+    "MagSafe"
+  ],
+  "variants": [
+    {
+      "id": 40253093970008,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25122-MAGS-V3",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.00",
+      "grams": 23,
+      "compare_at_price": "12.00",
+      "position": 1,
+      "product_id": 7371646697560,
+      "created_at": "2023-08-11T11:22:03-04:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32200830386264,
+      "created_at": "2024-02-16T15:05:34-05:00",
+      "position": 1,
+      "updated_at": "2024-09-19T11:26:26-04:00",
+      "product_id": 7371646697560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/product3_magsafe.jpg?v=1726759586",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9,
+  "compare_at_price": 12,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/product3_magsafe.jpg?v=1726759586",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "MagSafe",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

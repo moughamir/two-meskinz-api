@@ -1,0 +1,67 @@
+{
+  "id": 7786279862439,
+  "title": "Brand: Williams / Part #: SDP-1-3-TH",
+  "handle": "wk504170034",
+  "body_html": "<br><strong>Item #: </strong>54366711<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>SDP-1-3-TH<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>6-1/4</td>\n</tr>\n<tr>\n<td><strong>Phillips Point Size</strong></td>\n<td>#1</td>\n</tr>\n<tr>\n<td><strong>Blade Length (Inch)</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Phillips</td>\n</tr>\n<tr>\n<td><strong>Blade Length (Decimal Inch)</strong></td>\n<td>3.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T16:52:01-06:00",
+  "created_at": "2023-12-29T16:52:01-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 43707408482471,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54366711",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "42.27",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786279862439,
+      "created_at": "2023-12-29T16:52:01-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238227366055,
+      "created_at": "2025-02-03T18:40:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:40:58-06:00",
+      "product_id": 7786279862439,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1956987AA-21_85ed10dd-5a84-4bba-8371-65c0b06667ae.jpg?v=1738629658",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 42.27,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1956987AA-21_85ed10dd-5a84-4bba-8371-65c0b06667ae.jpg?v=1738629658",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

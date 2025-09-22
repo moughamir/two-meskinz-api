@@ -1,0 +1,108 @@
+{
+  "id": 8385756921944,
+  "title": "Electric Blue Belugas Google Pixel 7 Case",
+  "handle": "electric-blue-belugas-eco-friendly-google-pixel-7-case",
+  "body_html": "<p><meta charset=\"utf-8\">Make a splash with the Belugas Phone Case—your pocket-sized pod of pure joy! With a pod of smiling, white belugas gliding across a bold blue sea, this case brings big ocean energy and even bigger charm. It's perfect for marine life lovers, ocean daydreamers, and anyone who’s not afraid to let their phone swim with personality. 🐋💙🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:25:08-04:00",
+  "created_at": "2025-05-27T09:18:36-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Belugas",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908178055256,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14840-PX7-ELEBLUE-AOD:BELUGAS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385756921944,
+      "created_at": "2025-05-27T09:18:36-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101691052120,
+      "created_at": "2025-05-27T09:18:36-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:38-04:00",
+      "product_id": 8385756921944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_PX7_ElectricBlue.jpg?v=1748351918",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102086496344,
+      "created_at": "2025-05-27T11:07:59-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:07:59-04:00",
+      "product_id": 8385756921944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/564677a2709fe2414cfa44cae64c3bb5_7f1375a0-601f-4dfe-b760-26e5bccb812a.jpg?v=1748358479",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102086758488,
+      "created_at": "2025-05-27T11:08:01-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:08:01-04:00",
+      "product_id": 8385756921944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3e2c9e947e92ed0a1b0d07af833a00e9_e715867e-88ca-40a8-84f3-b121bfe4fbdc.jpg?v=1748358481",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102087020632,
+      "created_at": "2025-05-27T11:08:03-04:00",
+      "position": 4,
+      "updated_at": "2025-05-27T11:08:03-04:00",
+      "product_id": 8385756921944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8649c140fdfef36cfaf198cdd1388b75_f6f60f86-b0fd-47cd-921c-6a6835c46d2d.jpg?v=1748358483",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_PX7_ElectricBlue.jpg?v=1748351918",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

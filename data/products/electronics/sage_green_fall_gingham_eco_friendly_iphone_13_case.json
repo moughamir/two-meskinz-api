@@ -1,0 +1,110 @@
+{
+  "id": 8127740280920,
+  "title": "Sage Green Fall Gingham iPhone 13 Case",
+  "handle": "sage-green-fall-gingham-eco-friendly-iphone-13-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in cozy fall vibes with the Fall Gingham Phone Case! 🍂🍁 This playful design features a delightful green gingham print, dotted with delicate autumn leaves and wildflowers, making it the perfect accessory for fall lovers. Whether you’re strolling through a pumpkin patch or sipping hot apple cider, this case will keep your phone snug in seasonal charm. Bring the beauty of a crisp autumn day everywhere you go! 🌾✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:09:54-04:00",
+  "created_at": "2024-09-13T10:29:28-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fall Gingham",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263345889368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16688-IP13-SAGE-AOD:FALL-GINGHAM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740280920,
+      "created_at": "2024-09-13T10:29:28-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318188120,
+      "created_at": "2024-09-13T10:29:28-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:28-04:00",
+      "product_id": 8127740280920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-GINGHAM_IP13_SageGreen.jpg?v=1726237768",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678547419224,
+      "created_at": "2024-09-25T15:21:45-04:00",
+      "position": 2,
+      "updated_at": "2024-09-25T15:21:46-04:00",
+      "product_id": 8127740280920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_FallGingham_2000x2000_a61e9a2d-4579-4eed-bf0c-c00d73bc3070.jpg?v=1727292106",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685728657496,
+      "created_at": "2024-09-26T17:37:09-04:00",
+      "position": 3,
+      "updated_at": "2024-09-26T17:37:11-04:00",
+      "product_id": 8127740280920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_FallGingham_2000x2000_96135bd1-4b9a-4e6d-8944-3c77e74b54e6.jpg?v=1727386631",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685728690264,
+      "created_at": "2024-09-26T17:37:09-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:37:11-04:00",
+      "product_id": 8127740280920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_0cecbb33-67dd-481e-9e62-cf024c040051.jpg?v=1727386631",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-GINGHAM_IP13_SageGreen.jpg?v=1726237768",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

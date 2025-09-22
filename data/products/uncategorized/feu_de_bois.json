@@ -1,0 +1,114 @@
+{
+  "id": 7051706499181,
+  "title": "Feu de Bois",
+  "handle": "feu-de-bois",
+  "body_html": "<p><strong>Pine</strong> and <strong>sandalwood</strong> blend with<strong> leather</strong> accords, <strong>frankincense</strong>, and <strong>vanilla</strong> to give you the soothing feeling you’re looking for.</p>",
+  "published_at": "2023-08-14T19:50:20-06:00",
+  "created_at": "2023-08-09T16:19:25-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Woody",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_feudebois"
+  ],
+  "variants": [
+    {
+      "id": 40702258937965,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "QIGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051706499181,
+      "created_at": "2023-08-09T16:19:25-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30974891688045,
+      "created_at": "2024-01-06T16:59:47-07:00",
+      "position": 1,
+      "updated_at": "2024-01-06T17:00:14-07:00",
+      "product_id": 7051706499181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-FeuDeBois-Vertical-Resized.jpg?v=1704585614",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30974891786349,
+      "created_at": "2024-01-06T16:59:54-07:00",
+      "position": 2,
+      "updated_at": "2024-01-06T17:00:14-07:00",
+      "product_id": 7051706499181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/leatherresized_f2d87762-29ea-49dc-8053-f269cce98d63.jpg?v=1704585614",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30440245952621,
+      "created_at": "2023-09-08T10:38:43-06:00",
+      "position": 3,
+      "updated_at": "2024-01-06T17:00:14-07:00",
+      "product_id": 7051706499181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Feu-De-Bois-Device-V4.jpg?v=1704585614",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30974891720813,
+      "created_at": "2024-01-06T16:59:47-07:00",
+      "position": 4,
+      "updated_at": "2024-01-06T17:00:14-07:00",
+      "product_id": 7051706499181,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-FeuDeBois-Overhead-Shadow-Resized.jpg?v=1704585614",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-FeuDeBois-Vertical-Resized.jpg?v=1704585614",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

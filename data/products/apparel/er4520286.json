@@ -1,0 +1,67 @@
+{
+  "id": 7785857089703,
+  "title": "Brand: USA Sealing / Part #: BULK-RR-P60-55",
+  "handle": "er4520286",
+  "body_html": "<br><strong>Item #: </strong>01950187<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>BULK-RR-P60-55<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Urethane</td>\n</tr>\n<tr>\n<td><strong>Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>3500.00</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>0.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>200.000</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>60A</td>\n</tr>\n<tr>\n<td><strong>Length</strong></td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:46:39-06:00",
+  "created_at": "2023-12-29T04:46:39-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Rubber & Foam"
+  ],
+  "variants": [
+    {
+      "id": 43705660670119,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01950187",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "69.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785857089703,
+      "created_at": "2023-12-29T04:46:39-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237434445991,
+      "created_at": "2025-02-03T18:15:59-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:00-06:00",
+      "product_id": 7785857089703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0253526-21_3cd4bb65-630a-4c5b-8927-c2a300cade9c.jpg?v=1738628160",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 69.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0253526-21_3cd4bb65-630a-4c5b-8927-c2a300cade9c.jpg?v=1738628160",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

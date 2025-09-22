@@ -1,0 +1,97 @@
+{
+  "id": 8444606251096,
+  "title": "London Fog Petite Perennials Google Pixel 10 Pro XL Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T10:50:15-04:00",
+  "created_at": "2025-08-08T11:02:35-04:00",
+  "updated_at": "2025-09-22T15:13:12-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107908911192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15820-PX10PXL-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444606251096,
+      "created_at": "2025-08-08T11:02:35-04:00",
+      "updated_at": "2025-09-22T15:13:12-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567020834904,
+      "created_at": "2025-08-08T11:02:35-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:02:37-04:00",
+      "product_id": 8444606251096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_PX10PXL_LondonFog.jpg?v=1754665357",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35097955729496,
+      "created_at": "2025-05-26T16:09:25-04:00",
+      "position": 2,
+      "updated_at": "2025-05-26T16:09:27-04:00",
+      "product_id": 8444606251096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_06b5e35b-fbc2-418b-b013-da5ebfda82aa.png?v=1748290167",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 35097955762264,
+      "created_at": "2025-05-26T16:09:25-04:00",
+      "position": 3,
+      "updated_at": "2025-05-26T16:09:27-04:00",
+      "product_id": 8444606251096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_0761d575-7681-4b63-bc4e-b4c61a5517df.png?v=1748290167",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_PX10PXL_LondonFog.jpg?v=1754665357",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

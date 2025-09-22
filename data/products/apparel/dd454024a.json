@@ -1,0 +1,67 @@
+{
+  "id": 7785463644327,
+  "title": "Brand: AcuRite / Part #: 01095M",
+  "handle": "dd454024a",
+  "body_html": "<br><strong>Item #: </strong>67733717<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>01095M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Measures</strong>\n</td>\n<td>Temperature; Humidity</td>\n</tr>\n<tr>\n<td><strong>Wifi Capability</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Lightning Detector</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Measures Indoor Temperature</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Anemometer</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Measures Indoor Humidity</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Moon Phases</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (C - 2 Decimals)</strong></td>\n<td>0.00</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature (Deg F - 3 Decimals)</strong></td>\n<td>32.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature C</strong></td>\n<td>50.00</td>\n</tr>\n<tr>\n<td><strong>Power Source</strong></td>\n<td>(3) AA Batteries</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature (F) ( - 0 Decimals)</strong></td>\n<td>122.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Humidity (Percent)</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Maximum Humidity (Percent)</strong></td>\n<td>99</td>\n</tr>\n<tr>\n<td><strong>Temperature Accuracy</strong></td>\n<td>+/- 2  F</td>\n</tr>\n<tr>\n<td><strong>Humidity Accuracy</strong></td>\n<td>+/-4% from 10-20% RH; +/-3% from 20-80% RH; +/-4% from 80-90% RH; +/-5% from 90-99% RH; +/-5% from 0-10% RH</td>\n</tr>\n<tr>\n<td><strong>Display Type</strong></td>\n<td>Digital LCD</td>\n</tr>\n<tr>\n<td><strong>Display Width (Decimal Inch)</strong></td>\n<td>3.5</td>\n</tr>\n<tr>\n<td><strong>Display Height (Decimal Inch)</strong></td>\n<td>3.1500</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Digital Display Sensor: The wireless temperature and humidity sensors can be placed inside your home and display the location?s temperature and humidity levels; Monitor the Locations You Care About Most: Monitor the temperature and humidity levels from four locations in your home right from one compact wireless display; Digital Clock: Also displays the time, the date, and day of week; Multiple Placement Options: The display features a fold-out stand for tabletop placement and an integrated keyhole for wall easy wall mounting; AcuRite Multilocation Temperature and Humidity Station with (3) Indoor Wireless Sensors; Alerts You When Conditions Exceed Your Presets: The digital display can be programmed to notify you with a visual alert and audible alarm if temperature or humidity levels exceed a preset range in any monitored area</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:46:27-06:00",
+  "created_at": "2023-12-28T21:46:27-06:00",
+  "updated_at": "2025-09-22T10:55:12-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43703925637287,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67733717",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "91.28",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785463644327,
+      "created_at": "2023-12-28T21:46:27-06:00",
+      "updated_at": "2025-09-22T10:55:12-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236978118823,
+      "created_at": "2025-02-03T18:00:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:00:12-06:00",
+      "product_id": 7785463644327,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773371AB-21.jpg?v=1738627212",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 91.28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773371AB-21.jpg?v=1738627212",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

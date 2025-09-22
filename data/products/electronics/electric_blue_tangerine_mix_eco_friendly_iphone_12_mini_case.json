@@ -1,0 +1,108 @@
+{
+  "id": 8335118893144,
+  "title": "Electric Blue Tangerine Mix iPhone 12 Mini Case",
+  "handle": "electric-blue-tangerine-mix-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a party with the Tangerine Mix Phone Case! With wavy lines, checkerboard patterns, and zesty swirls in bold blues and juicy orange, this design is serving maximalist magic. It's retro, it's modern, it’s a whole vibe—and it’s here to keep your phone safe while stealing the spotlight. 🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:12:00-04:00",
+  "created_at": "2025-04-01T11:42:20-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tangerine Mix",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788478550104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16368-IP12MINI-ELEBLUE-AOD:TANGERINE-MIX",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335118893144,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775483514968,
+      "created_at": "2025-04-01T11:42:20-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:21-04:00",
+      "product_id": 8335118893144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP12MINI_ElectricBlue.jpg?v=1743522141",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892656017496,
+      "created_at": "2025-04-23T10:05:50-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:05:56-04:00",
+      "product_id": 8335118893144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_35b40c39-69ef-40a0-9cf1-2b8e6475923c.jpg?v=1745417156",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892655984728,
+      "created_at": "2025-04-23T10:05:50-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:05:56-04:00",
+      "product_id": 8335118893144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_5291a2a5-cac9-4d9d-8699-43b9a4ff3466.jpg?v=1745417156",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892655951960,
+      "created_at": "2025-04-23T10:05:50-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:05:56-04:00",
+      "product_id": 8335118893144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_668f2a73-1359-4381-b4cd-15a9bd5a9737.jpg?v=1745417156",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TANGERINE-MIX_IP12MINI_ElectricBlue.jpg?v=1743522141",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

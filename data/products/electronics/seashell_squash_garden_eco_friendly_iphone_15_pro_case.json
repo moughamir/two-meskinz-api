@@ -1,0 +1,110 @@
+{
+  "id": 8127738282072,
+  "title": "Seashell Squash Garden iPhone 15 Pro Case",
+  "handle": "seashell-squash-garden-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p class=\"p1\">Welcome to the harvest season with the Squash Garden Phone Case! 🎃🍂 This playful design features a charming medley of colorful squashes and gourds, scattered across a soft, neutral backdrop that perfectly captures the essence of autumn. Whether you’re a farmer’s market lover or just a fan of fall decor, this phone case will keep your device cozy and stylish through the season. 🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:15:09-04:00",
+  "created_at": "2024-09-13T10:29:15-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Squash Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263343857752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17056-IP15P-SEASHELL-AOD:SQUASH-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127738282072,
+      "created_at": "2024-09-13T10:29:15-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615315959896,
+      "created_at": "2024-09-13T10:29:15-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:15-04:00",
+      "product_id": 8127738282072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP15P_Seashell.jpg?v=1726237755",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685627240536,
+      "created_at": "2024-09-26T17:19:31-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:19:33-04:00",
+      "product_id": 8127738282072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_02_59305a72-321c-4b04-a380-662fc2ab215b.jpg?v=1727385573",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678463959128,
+      "created_at": "2024-09-25T15:03:36-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:03:37-04:00",
+      "product_id": 8127738282072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_9052a7fd-2d3e-4de0-9f2d-4b243095f617.jpg?v=1727291017",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685627207768,
+      "created_at": "2024-09-26T17:19:31-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:19:33-04:00",
+      "product_id": 8127738282072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_d424c40b-3f21-49e7-b6f7-4405dcb91dda.jpg?v=1727385573",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP15P_Seashell.jpg?v=1726237755",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

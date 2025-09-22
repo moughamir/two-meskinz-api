@@ -1,0 +1,140 @@
+{
+  "id": 8444723036248,
+  "title": "Seashell Petal Burst iPhone 17 Pro Max Case",
+  "handle": "seashell-petal-burst-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:31:35-04:00",
+  "created_at": "2025-08-08T12:07:07-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184257073240,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:PETAL-BURST_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444723036248,
+      "created_at": "2025-09-03T18:52:15-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184257106008,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444723036248,
+      "created_at": "2025-09-03T18:52:15-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567386067032,
+      "created_at": "2025-08-08T12:07:07-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:09-04:00",
+      "product_id": 8444723036248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP17PMAX_Seashell.jpg?v=1754669229",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581734256728,
+      "created_at": "2025-08-11T15:00:36-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T15:00:36-04:00",
+      "product_id": 8444723036248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_35697f9e-5708-4444-b57b-d56171dc932d.jpg?v=1754938836",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581734453336,
+      "created_at": "2025-08-11T15:00:38-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T15:00:38-04:00",
+      "product_id": 8444723036248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_85cb66e7-dd31-497b-91ff-66f1298f9415.jpg?v=1754938838",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581735010392,
+      "created_at": "2025-08-11T15:00:40-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T15:00:40-04:00",
+      "product_id": 8444723036248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_b117c848-6a79-4f3e-af79-f3238bef7645.jpg?v=1754938840",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581735370840,
+      "created_at": "2025-08-11T15:00:42-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T15:00:42-04:00",
+      "product_id": 8444723036248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_a679d29e-1819-47ec-ab21-cddadaf91812.jpg?v=1754938842",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP17PMAX_Seashell.jpg?v=1754669229",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8278275457112,
+  "title": "Black Zebra Lines Samsung Galaxy S25 Case",
+  "handle": "black-zebra-lines-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into the wild with the Zebra Lines Phone Case, a fierce fusion of nature and style. Inspired by the mesmerizing stripes of the savanna’s most stylish resident, this monochrome masterpiece is all about making a statement—whether you’re roaming the city streets or exploring the great outdoors.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-25T09:16:50-05:00",
+  "created_at": "2025-02-04T10:20:59-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Prints",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Zebra Lines",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42642245681240,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13895-S25-BLACK-AOD:ZEBRA-LINES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8278275457112,
+      "created_at": "2025-02-04T10:20:59-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34454016557144,
+      "created_at": "2025-02-04T10:20:59-05:00",
+      "position": 1,
+      "updated_at": "2025-02-04T10:21:02-05:00",
+      "product_id": 8278275457112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ZEBRA-LINES_S25_Black.jpg?v=1738682462",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34572173770840,
+      "created_at": "2025-02-20T17:08:24-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T17:08:25-05:00",
+      "product_id": 8278275457112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Family_PDP_1x1_01_QuietLuxury_ddf97822-da87-4ab6-b180-16a47dcd4f17.jpg?v=1740089305",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34572173803608,
+      "created_at": "2025-02-20T17:08:24-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T17:08:25-05:00",
+      "product_id": 8278275457112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_Androids_PDP_1x1_03_QuietLuxury_53f316a7-6e27-4ab0-b72f-ff1f0a920bb4.jpg?v=1740089305",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ZEBRA-LINES_S25_Black.jpg?v=1738682462",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

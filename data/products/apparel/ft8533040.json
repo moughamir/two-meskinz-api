@@ -1,0 +1,67 @@
+{
+  "id": 7786026369191,
+  "title": "Brand: Widia / Part #: 2836511",
+  "handle": "ft8533040",
+  "body_html": "<br><strong>Item #: </strong>97595292<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2836511<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Boring Bar Type</strong>\n</td>\n<td>Micro Boring</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (Decimal Inch)</strong></td>\n<td>0.0620</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Submicron</td>\n</tr>\n<tr>\n<td><strong>Maximum Bore Depth (Decimal Inch)</strong></td>\n<td>0.1870</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>5/32</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Titanium Nitride</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>CG5</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>APD</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>CVD</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>0.02</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>0.8370</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>-3.000</td>\n</tr>\n<tr>\n<td><strong>Secondary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Steel</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T08:02:03-06:00",
+  "created_at": "2023-12-29T08:02:03-06:00",
+  "updated_at": "2025-09-22T10:54:16-05:00",
+  "vendor": "Widia",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools"
+  ],
+  "variants": [
+    {
+      "id": 43706572439719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97595292",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "60.32",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786026369191,
+      "created_at": "2023-12-29T08:02:03-06:00",
+      "updated_at": "2025-09-22T10:54:16-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237717528743,
+      "created_at": "2025-02-03T18:22:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:22:50-06:00",
+      "product_id": 7786026369191,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9759534-21_58c9228a-241a-4eea-905f-45a899261a53.jpg?v=1738628570",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 60.32,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9759534-21_58c9228a-241a-4eea-905f-45a899261a53.jpg?v=1738628570",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

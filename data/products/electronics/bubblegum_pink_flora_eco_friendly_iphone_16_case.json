@@ -1,0 +1,98 @@
+{
+  "id": 8385980006488,
+  "title": "Bubblegum Pink Flora iPhone 16 Case",
+  "handle": "bubblegum-pink-flora-eco-friendly-iphone-16-case",
+  "body_html": "<p>Dress your phone in a burst of color with our Bubblegum Pink Flora Phone Case! This beautifully designed case features an engraved floral pattern, perfect for nature lovers. Made with sustainable materials, it's both durable and compostable - a win for your phone and the environment.</p>",
+  "published_at": "2025-05-27T16:03:52-04:00",
+  "created_at": "2025-05-27T15:35:58-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Flora",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908610756696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17251-IP16-BUBPINK-AOD:FLORA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385980006488,
+      "created_at": "2025-05-27T15:35:58-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35102964318296,
+      "created_at": "2025-05-27T15:35:58-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T15:36:00-04:00",
+      "product_id": 8385980006488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLORA_IP16_BubblegumPink.jpg?v=1748374560",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103001870424,
+      "created_at": "2025-05-27T15:41:49-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T15:41:51-04:00",
+      "product_id": 8385980006488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-2_c38ec798-5edc-4929-b87a-612a84c5af81.jpg?v=1748374911",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35103001837656,
+      "created_at": "2025-05-27T15:41:49-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T15:41:51-04:00",
+      "product_id": 8385980006488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_BUBBLEGUM-1_278796e7-4697-45cd-a076-e1c14444a181.jpg?v=1748374911",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLORA_IP16_BubblegumPink.jpg?v=1748374560",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

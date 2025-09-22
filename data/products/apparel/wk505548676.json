@@ -1,0 +1,67 @@
+{
+  "id": 7786287497383,
+  "title": "Brand: Widia / Part #: 5563021",
+  "handle": "wk505548676",
+  "body_html": "<br><strong>Item #: </strong>97451645<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>5563021<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (mm)</strong>\n</td>\n<td>M2.5x0.45</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Plug</td>\n</tr>\n<tr>\n<td><strong>Thread Limit</strong></td>\n<td>D3</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6H</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Powdered Metal</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>56</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Nitride</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>14.30</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>12.40</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>46.1000</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>0.45</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>WS30MG</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>3.5800</td>\n</tr>\n<tr>\n<td><strong>Square Length (mm)</strong></td>\n<td>4.80</td>\n</tr>\n<tr>\n<td><strong>Square Size (mm)</strong></td>\n<td>2.74</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>High-Temperature Alloy</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>GT-Ti</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T17:11:10-06:00",
+  "created_at": "2023-12-29T17:11:10-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "Widia",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43707421425831,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97451645",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.62",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786287497383,
+      "created_at": "2023-12-29T17:11:11-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238243848359,
+      "created_at": "2025-02-03T18:41:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:41:34-06:00",
+      "product_id": 7786287497383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9746414-21_1b4851c2-096c-42c5-8646-65298a232a48.jpg?v=1738629694",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.62,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9746414-21_1b4851c2-096c-42c5-8646-65298a232a48.jpg?v=1738629694",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 8424097742936,
+  "title": "Lavender iPhone 17 Pro Max Case",
+  "handle": "lavender-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-09-09T14:04:13-04:00",
+  "created_at": "2025-07-09T16:24:19-04:00",
+  "updated_at": "2025-09-22T15:13:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "Classic",
+    "IP17 Series",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 43184161652824,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17577-IP17PMAX-LAV_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 36,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8424097742936,
+      "created_at": "2025-09-03T18:34:40-04:00",
+      "updated_at": "2025-09-22T15:13:05-04:00"
+    },
+    {
+      "id": 43184161685592,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "17577-IP17PMAX-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 0,
+      "compare_at_price": "55.00",
+      "position": 2,
+      "product_id": 8424097742936,
+      "created_at": "2025-09-03T18:34:40-04:00",
+      "updated_at": "2025-09-22T15:13:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35500012273752,
+      "created_at": "2025-07-29T13:59:53-04:00",
+      "position": 1,
+      "updated_at": "2025-07-29T14:00:01-04:00",
+      "product_id": 8424097742936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LAVENDER_BACK.jpg?v=1753812001",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35500012208216,
+      "created_at": "2025-07-29T13:59:53-04:00",
+      "position": 2,
+      "updated_at": "2025-07-29T14:00:01-04:00",
+      "product_id": 8424097742936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LAVENDER_BACK_45L.jpg?v=1753812001",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35500012240984,
+      "created_at": "2025-07-29T13:59:53-04:00",
+      "position": 3,
+      "updated_at": "2025-07-29T14:00:01-04:00",
+      "product_id": 8424097742936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LAVENDER_BACK_45R.jpg?v=1753812001",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP17PMAX_LAVENDER_BACK.jpg?v=1753812001",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

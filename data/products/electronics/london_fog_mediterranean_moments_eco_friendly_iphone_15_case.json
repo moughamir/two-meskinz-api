@@ -1,0 +1,110 @@
+{
+  "id": 7997844160600,
+  "title": "London Fog Mediterranean Moments iPhone 15 Case",
+  "handle": "london-fog-mediterranean-moments-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\">Capture the essence of sun-soaked beaches and leisurely afternoons with the Mediterranean Moments Phone Case! Adorned with charming line art illustrations of citrus fruits, olive branches, and refreshing martini cocktails, this case invites you to savor the laid-back vibes of the Mediterranean lifestyle. Each glance at your phone will transport you to a world of azure waters, vibrant markets, and delicious cuisine. Perfect for adding a touch of coastal elegance and wanderlust to your daily routine, the Mediterranean Moments Phone Case is your passport to paradise! 🍋🍹🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:10:02-04:00",
+  "created_at": "2024-06-24T11:14:42-04:00",
+  "updated_at": "2025-09-22T15:15:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Mediterranean Moments",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946514817112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16990-IP15-LFOG-AOD:MEDITERRANEAN-MOMENTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997844160600,
+      "created_at": "2024-06-24T11:14:42-04:00",
+      "updated_at": "2025-09-22T15:15:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144126767192,
+      "created_at": "2024-06-24T11:14:42-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:42-04:00",
+      "product_id": 7997844160600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-MOMENTS_IP15_LondonFog.jpg?v=1719242082",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161180184664,
+      "created_at": "2024-06-26T15:47:00-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:47:02-04:00",
+      "product_id": 7997844160600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_01_bf72efc5-d15a-4321-ba03-0c834c1adfe9.jpg?v=1719431222",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161180381272,
+      "created_at": "2024-06-26T15:47:00-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:47:02-04:00",
+      "product_id": 7997844160600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_d4ef7eda-f430-424f-bded-50cddeb6c09a.jpg?v=1719431222",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161180414040,
+      "created_at": "2024-06-26T15:47:00-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:47:02-04:00",
+      "product_id": 7997844160600,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_02_c69fadad-9a02-41da-a22d-0b7b6347076b.jpg?v=1719431222",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-MOMENTS_IP15_LondonFog.jpg?v=1719242082",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

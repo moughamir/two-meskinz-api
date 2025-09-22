@@ -1,0 +1,67 @@
+{
+  "id": 7786284089511,
+  "title": "Brand: Irwin / Part #: 1996704",
+  "handle": "wk544166518",
+  "body_html": "<br><strong>Item #: </strong>90930181<br><strong>Brand: </strong>Irwin<br><strong>Model #: </strong>1996704<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Holder Type</strong>\n</td>\n<td>Tool Bag</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Zipper</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>13</td>\n</tr>\n<tr>\n<td><strong>Overall Depth</strong></td>\n<td>13.25 in</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>12.125 in</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Tether Style</strong></td>\n<td>Not Tether Capable</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Tool Bag</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>10.000</td>\n</tr>\n<tr>\n<td><strong>Depth (Decimal Inch)</strong></td>\n<td>13.2500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T17:02:40-06:00",
+  "created_at": "2023-12-29T17:02:40-06:00",
+  "updated_at": "2025-09-22T10:47:00-05:00",
+  "vendor": "Irwin",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Tool Bags & Organizers"
+  ],
+  "variants": [
+    {
+      "id": 43707415527591,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90930181",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.92",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786284089511,
+      "created_at": "2023-12-29T17:02:40-06:00",
+      "updated_at": "2025-09-22T10:47:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238237032615,
+      "created_at": "2025-02-03T18:41:17-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:41:18-06:00",
+      "product_id": 7786284089511,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9093018-21.jpg?v=1738629678",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9093018-21.jpg?v=1738629678",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Irwin",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

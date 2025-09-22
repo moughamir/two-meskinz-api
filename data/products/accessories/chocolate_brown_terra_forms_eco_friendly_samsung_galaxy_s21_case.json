@@ -1,0 +1,108 @@
+{
+  "id": 8299250188376,
+  "title": "Chocolate Brown Terra Forms Samsung Galaxy S21 Case",
+  "handle": "chocolate-brown-terra-forms-eco-friendly-samsung-galaxy-s21-case",
+  "body_html": "<p><meta charset=\"utf-8\">Inspired by earth’s natural textures, <em data-start=\"1797\" data-end=\"1810\">Terra Forms</em> blends organic shapes and earthy tones into a case that feels both wild and artistic. Whether you love abstract art or just want to channel the beauty of nature, this compostable case makes a bold statement without waste.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:17:21-04:00",
+  "created_at": "2025-02-26T10:04:04-05:00",
+  "updated_at": "2025-09-22T15:14:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Terra Forms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697340125272,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13515-S21-CHOBROWN-AOD:TERRA-FORMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299250188376,
+      "created_at": "2025-02-26T10:04:04-05:00",
+      "updated_at": "2025-09-22T15:14:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599137050712,
+      "created_at": "2025-02-26T10:04:04-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:06-05:00",
+      "product_id": 8299250188376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_S21_ChocolateBrown.jpg?v=1740582246",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672194912344,
+      "created_at": "2025-03-11T16:14:12-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:14:13-04:00",
+      "product_id": 8299250188376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP2_e4d505df-4be3-4b6d-8454-b944f591b4ba.jpg?v=1741724053",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672195076184,
+      "created_at": "2025-03-11T16:14:12-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:14:14-04:00",
+      "product_id": 8299250188376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP1_2d5fc325-3e4f-4f18-9011-17e767864ceb.jpg?v=1741724054",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672195108952,
+      "created_at": "2025-03-11T16:14:12-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T16:14:14-04:00",
+      "product_id": 8299250188376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP3_cb469d84-a650-48e8-8b81-268480a04592.jpg?v=1741724054",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_S21_ChocolateBrown.jpg?v=1740582246",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

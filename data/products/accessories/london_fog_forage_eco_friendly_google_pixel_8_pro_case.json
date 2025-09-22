@@ -1,0 +1,86 @@
+{
+  "id": 7421992501336,
+  "title": "London Fog Forage Google Pixel 8 Pro Case",
+  "handle": "london-fog-forage-eco-friendly-google-pixel-8-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Explore the enchanting world of nature with the Forage Phone Case! Featuring an intricate design of delicately etched mushrooms, this case brings the serene beauty of the forest floor right to your fingertips. Perfect for nature lovers and wanderers alike, its subtle, earthy tones and detailed craftsmanship create a look that's both whimsical and sophisticated. Let your phone be your guide on a woodland adventure, where every glance transports you to a tranquil forest brimming with wonder and discovery! 🌲🍂</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T13:53:08-05:00",
+  "created_at": "2023-09-21T12:38:20-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Mushrooms",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Forage",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40593133731928,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14998-PX8P-LFOG-AOD:FORAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7421992501336,
+      "created_at": "2023-09-21T12:38:20-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116379254872,
+      "created_at": "2024-01-23T13:43:16-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:43:16-05:00",
+      "product_id": 7421992501336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FORAGE_PX8P_LondonFog_230afa02-0807-4204-b6b4-1b107be2a1a4.jpg?v=1706035396",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800560418904,
+      "created_at": "2023-10-03T14:03:56-04:00",
+      "position": 2,
+      "updated_at": "2023-10-03T14:03:58-04:00",
+      "product_id": 7421992501336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EI6A2824_90dce477-2448-4963-8639-1ed30ec4f9e9.jpg?v=1696356238",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FORAGE_PX8P_LondonFog_230afa02-0807-4204-b6b4-1b107be2a1a4.jpg?v=1706035396",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444711043160,
+  "title": "Bubblegum Pink Mermaid Cocktail iPhone 17 Pro Max Case",
+  "handle": "bubblegum-pink-mermaid-cocktail-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p data-start=\"0\" data-end=\"26\">Sip, splash, slay! 🍸🧜♀️</p>\n<p data-start=\"28\" data-end=\"245\">The Mermaid Cocktail Phone Case is serving under-the-sea glam with a twist! Drenched in bubblegum pink and sprinkled with sassy mermaids lounging in cocktail glasses, this case is your perfect happy hour plus-one.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:49:09-04:00",
+  "created_at": "2025-08-08T11:52:10-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mermaid Cocktail",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184109027416,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:MERMAID-COCKTAIL_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444711043160,
+      "created_at": "2025-09-03T18:27:18-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184109060184,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:MERMAID-COCKTAIL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444711043160,
+      "created_at": "2025-09-03T18:27:18-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567314337880,
+      "created_at": "2025-08-08T11:52:10-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:13-04:00",
+      "product_id": 8444711043160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-COCKTAIL_IP17PMAX_BubblegumPink.jpg?v=1754668333",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453382819928,
+      "created_at": "2025-07-21T16:22:58-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T10:11:55-04:00",
+      "product_id": 8444711043160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mermaid_Cocktail_1.jpg?v=1755180715",
+      "width": 3923,
+      "height": 3923
+    },
+    {
+      "id": 35453382951000,
+      "created_at": "2025-07-21T16:23:00-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T10:12:03-04:00",
+      "product_id": 8444711043160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mermaid_Cocktail_2.jpg?v=1755180723",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453383082072,
+      "created_at": "2025-07-21T16:23:02-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T10:12:13-04:00",
+      "product_id": 8444711043160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mermaid_Cocktail_3.jpg?v=1755180733",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-COCKTAIL_IP17PMAX_BubblegumPink.jpg?v=1754668333",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

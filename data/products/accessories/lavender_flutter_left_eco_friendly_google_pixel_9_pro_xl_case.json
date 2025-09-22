@@ -1,0 +1,97 @@
+{
+  "id": 8381663182936,
+  "title": "Lavender Flutter Left Google Pixel 9 Pro XL Case",
+  "handle": "lavender-flutter-left-eco-friendly-google-pixel-9-pro-xl-case",
+  "body_html": "<p>Embrace your free-spirited style with our Lavender Flutter Right Phone Case. Featuring a beautiful purple butterfly wing print, this case will make your phone pop. Match it with your bestie's Lavender Flutter Left Case for an extra dose of fun! Get ready to flutter on the go!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:08:20-04:00",
+  "created_at": "2025-05-21T09:52:22-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Flutterbies",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flutter Left",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895731064920,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15692-PX9PXL-LAV-AOD:FLUTTER-LEFT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381663182936,
+      "created_at": "2025-05-21T09:52:22-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065436667992,
+      "created_at": "2025-05-21T09:52:22-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:24-04:00",
+      "product_id": 8381663182936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUTTER-LEFT_PX9PXL_Lavender.jpg?v=1747835544",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065720176728,
+      "created_at": "2025-05-21T11:03:45-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:03:46-04:00",
+      "product_id": 8381663182936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-05_af32bd3a-980e-4531-82ea-4cbfef8939cb.jpg?v=1747839826",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065720209496,
+      "created_at": "2025-05-21T11:03:45-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:03:46-04:00",
+      "product_id": 8381663182936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-06_b5563b82-d4c4-423b-bd81-11615618089d.jpg?v=1747839826",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUTTER-LEFT_PX9PXL_Lavender.jpg?v=1747835544",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

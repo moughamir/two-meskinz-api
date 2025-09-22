@@ -1,0 +1,67 @@
+{
+  "id": 7785777234087,
+  "title": "Brand: Kent / Part #: 15120020000413",
+  "handle": "wk402343194",
+  "body_html": "<br><strong>Item #: </strong>90761289<br><strong>Brand: </strong>Kent<br><strong>Model #: </strong>15120020000413<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Work Vest</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Universal</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Retroreflective</td>\n</tr>\n<tr>\n<td><strong>Minimum Buoyancy (lbs)</strong></td>\n<td>17.5</td>\n</tr>\n<tr>\n<td><strong>USCG Rating</strong></td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:52:18-06:00",
+  "created_at": "2023-12-29T01:52:18-06:00",
+  "updated_at": "2025-09-22T10:54:45-05:00",
+  "vendor": "Kent",
+  "product_type": "Safety",
+  "tags": [
+    "Water Safety"
+  ],
+  "variants": [
+    {
+      "id": 43705482870951,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90761289",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "78.33",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785777234087,
+      "created_at": "2023-12-29T01:52:18-06:00",
+      "updated_at": "2025-09-22T10:54:45-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237246259367,
+      "created_at": "2025-02-03T18:09:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:09:42-06:00",
+      "product_id": 7785777234087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9076128-21.jpg?v=1738627782",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 78.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9076128-21.jpg?v=1738627782",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kent",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

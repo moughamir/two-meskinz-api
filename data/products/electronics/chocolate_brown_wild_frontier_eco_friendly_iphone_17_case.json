@@ -1,0 +1,118 @@
+{
+  "id": 8444697346136,
+  "title": "Chocolate Brown Wild Frontier iPhone 17 Case",
+  "handle": "chocolate-brown-wild-frontier-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—<em data-start=\"59\" data-end=\"74\">Wild Frontier Phone Case</em> is taking you straight to the dusty trails of the Old West! <meta charset=\"utf-8\">🌵🐎 Featuring vintage-style sketches of bucking broncos, cowboys, cacti, and longhorn skulls, this case is made for those who live for open ranges and untamed adventures. Whether you're a rodeo rider or just love a little western grit, this design brings classic cowboy energy right to your pocket.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:59:27-04:00",
+  "created_at": "2025-08-08T11:51:21-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Wild Frontier",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184123871320,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17472-IP17-CHOBROWN-AOD:WILD-FRONTIER_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444697346136,
+      "created_at": "2025-09-03T18:29:40-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184123904088,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17472-IP17-CHOBROWN-AOD:WILD-FRONTIER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444697346136,
+      "created_at": "2025-09-03T18:29:40-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567284289624,
+      "created_at": "2025-08-08T11:51:21-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:23-04:00",
+      "product_id": 8444697346136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FRONTIER_IP17_ChocolateBrown.jpg?v=1754668283",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34769051287640,
+      "created_at": "2025-03-31T11:37:53-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T11:37:57-04:00",
+      "product_id": 8444697346136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WildFrontier_PDP_02_113cee85-b527-460f-99d6-b1c5487688c9.jpg?v=1743435477",
+      "width": 3460,
+      "height": 4325
+    },
+    {
+      "id": 34769051189336,
+      "created_at": "2025-03-31T11:37:53-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T11:37:57-04:00",
+      "product_id": 8444697346136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WildFrontier_PDP_03_7e981965-4967-4765-976a-ca52634dfe9a.jpg?v=1743435477",
+      "width": 3280,
+      "height": 4100
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FRONTIER_IP17_ChocolateBrown.jpg?v=1754668283",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

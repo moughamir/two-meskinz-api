@@ -1,0 +1,67 @@
+{
+  "id": 8452633231527,
+  "title": "1/10 hp 115 VAC 3/8 FNPT, 3/4 MGHT Inlet Stainless Steel Utility Pump",
+  "handle": "58-605-245",
+  "body_html": "<br><strong>Item #: </strong>53335691<br><strong>Brand: </strong>Little Giant Pumps<br><strong>Model #: </strong>555110<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Voltage</strong>\n</td>\n<td>115 V</td>\n</tr>\n<tr> <td> <strong>Amperage Rating</strong>\n</td>\n<td>1.6 A</td>\n</tr>\n<tr> <td> <strong>Cord Length</strong>\n</td>\n<td>6 ft</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40151500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T12:39:28-06:00",
+  "created_at": "2025-01-23T12:39:27-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Little Giant Pumps",
+  "product_type": "Plumbing, Pumps & Filtration",
+  "tags": [
+    "Pumps"
+  ],
+  "variants": [
+    {
+      "id": 46498338701479,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "53335691",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "296.22",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452633231527,
+      "created_at": "2025-01-23T12:39:27-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38246835585191,
+      "created_at": "2025-02-03T23:53:25-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T23:53:26-06:00",
+      "product_id": 8452633231527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5333569-23.jpg?v=1738648406",
+      "width": 600,
+      "height": 521
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 296.22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5333569-23.jpg?v=1738648406",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Little Giant Pumps",
+  "category": "Plumbing, Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

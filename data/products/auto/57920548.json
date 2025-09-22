@@ -1,0 +1,67 @@
+{
+  "id": 8452501831847,
+  "title": "Helical Flute Thread Mill: 3/4-20 - 1-20, Internal, 5 Flute, 1/2\" Shank Dia, Solid Carbide",
+  "handle": "57920548",
+  "body_html": "<br><strong>Item #: </strong>02356947<br><strong>Brand: </strong>Tool-Flo<br><strong>Model #: </strong>2468775<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Carbide</td>\n</tr>\n<tr> <td> <strong>Thread Size (Inch)</strong>\n</td>\n<td>3/4-20 - 1-20</td>\n</tr>\n<tr> <td> <strong>Thread Type</strong>\n</td>\n<td>Internal</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Decimal Inch)</strong>\n</td>\n<td>0.5000</td>\n</tr>\n<tr> <td> <strong>Cutting Diameter (Decimal Inch)</strong>\n</td>\n<td>0.5000</td>\n</tr>\n<tr> <td> <strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong>\n</td>\n<td>1.0700</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>3.5000</td>\n</tr>\n<tr> <td> <strong>Thread Standard</strong>\n</td>\n<td>UN</td>\n</tr>\n<tr> <td> <strong>Flute Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Material Grade</strong>\n</td>\n<td>Micrograin</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>AlTiN</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Teeth Per Inch</strong>\n</td>\n<td>20</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23242117</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:31:16-06:00",
+  "created_at": "2025-01-23T08:31:15-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Tool-Flo",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills"
+  ],
+  "variants": [
+    {
+      "id": 46497826537639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02356947",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "256.73",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452501831847,
+      "created_at": "2025-01-23T08:31:15-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241244577959,
+      "created_at": "2025-02-03T20:51:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:51:30-06:00",
+      "product_id": 8452501831847,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0147304-21_16a1ca5f-0fff-4e3e-9c62-b49d62d5d7eb.jpg?v=1738637490",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 256.73,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0147304-21_16a1ca5f-0fff-4e3e-9c62-b49d62d5d7eb.jpg?v=1738637490",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tool-Flo",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

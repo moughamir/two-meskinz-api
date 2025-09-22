@@ -1,0 +1,140 @@
+{
+  "id": 8444705243224,
+  "title": "Electric Blue Frutti Club iPhone Air Case",
+  "handle": "electric-blue-frutti-club-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">The <em data-start=\"4\" data-end=\"17\">Frutti Club</em> Phone Case is bursting with flavor and global flair—like a fruit stand passport for your phone. Featuring juicy produce stickers from around the world, it’s a sticker party for your inner fruit nerd. Kiwi from New Zealand? Yep. Pineapple from Costa Rica? Absolutely. It's sweet, it's colorful, it's your daily dose of phone-friendly vitamin C! 🍍🍓📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:50:37-04:00",
+  "created_at": "2025-08-08T11:51:49-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Tropical Fruits",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Frutti Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184128688216,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17544-IP17AIR-ELEBLUE-AOD:FRUTTI-CLUB_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444705243224,
+      "created_at": "2025-09-03T18:30:39-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184128720984,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17544-IP17AIR-ELEBLUE-AOD:FRUTTI-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444705243224,
+      "created_at": "2025-09-03T18:30:39-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567301689432,
+      "created_at": "2025-08-08T11:51:49-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:51-04:00",
+      "product_id": 8444705243224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRUTTI-CLUB_IP17AIR_ElectricBlue.jpg?v=1754668311",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35156544454744,
+      "created_at": "2025-06-03T16:20:32-04:00",
+      "position": 2,
+      "updated_at": "2025-08-15T16:42:01-04:00",
+      "product_id": 8444705243224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Tropical_Fruits_1.jpg?v=1755290521",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35156545011800,
+      "created_at": "2025-06-03T16:20:33-04:00",
+      "position": 3,
+      "updated_at": "2025-08-15T16:42:10-04:00",
+      "product_id": 8444705243224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Tropical_Fruits_2.jpg?v=1755290530",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35156545568856,
+      "created_at": "2025-06-03T16:20:35-04:00",
+      "position": 4,
+      "updated_at": "2025-08-15T16:42:18-04:00",
+      "product_id": 8444705243224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Tropical_Fruits_3.jpg?v=1755290538",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35156546289752,
+      "created_at": "2025-06-03T16:20:36-04:00",
+      "position": 5,
+      "updated_at": "2025-08-15T16:42:24-04:00",
+      "product_id": 8444705243224,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Tropical_Fruits_4.jpg?v=1755290544",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRUTTI-CLUB_IP17AIR_ElectricBlue.jpg?v=1754668311",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

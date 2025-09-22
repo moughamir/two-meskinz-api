@@ -1,0 +1,108 @@
+{
+  "id": 8397882097752,
+  "title": "Seashell Whimsy Shapes Google Pixel 9/9 Pro Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-google-pixel-9-9-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:25:03-04:00",
+  "created_at": "2025-06-10T10:31:34-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9/9 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939097645144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15666-PX9-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397882097752,
+      "created_at": "2025-06-10T10:31:34-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200262471768,
+      "created_at": "2025-06-10T10:31:34-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:36-04:00",
+      "product_id": 8397882097752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_PX9_Seashell.jpg?v=1749565896",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288767791192,
+      "created_at": "2025-06-24T14:42:12-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:42:12-04:00",
+      "product_id": 8397882097752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_98e32cd2-9fac-4be0-b5d7-7efdbb5236c5.jpg?v=1750790532",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288767955032,
+      "created_at": "2025-06-24T14:42:13-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:42:13-04:00",
+      "product_id": 8397882097752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_c1d05cb7-a621-4343-98fb-e4f65a2447b8.jpg?v=1750790533",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288768348248,
+      "created_at": "2025-06-24T14:42:15-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:42:15-04:00",
+      "product_id": 8397882097752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_a18cf599-10e6-45b0-b0dc-c60d524a1f73.jpg?v=1750790535",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_PX9_Seashell.jpg?v=1749565896",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9/9 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

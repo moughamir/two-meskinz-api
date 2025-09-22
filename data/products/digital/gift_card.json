@@ -1,0 +1,127 @@
+{
+  "id": 6985521496173,
+  "title": "eGift Card",
+  "handle": "gift-card",
+  "body_html": "<p>Gift cards can be printed or sent via email or text, and come with instructions on how to redeem. They don’t have any processing fees, and can be used on one-time purchases or subscription products when checking out on our site. <br><br><meta charset=\"utf-8\">Please note—gift cards cannot be used for recurring, automatic subscription purchases. If you are redeeming a gift card, you can combine it with other eligible discounts. For <a href=\"https://pura.com/pages/gifting\" target=\"_blank\" title=\"gifting\" rel=\"noopener\">gifting</a>, if you’re purchasing a gift card as a gift and have other products in your cart that qualify for discounts, your order won’t be discounted. We recommend creating a separate order to receive discounts on your other items.<br></p>",
+  "published_at": "2023-11-01T14:07:30-06:00",
+  "created_at": "2023-03-08T11:30:10-07:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Gift Cards",
+  "tags": [
+    "remove-subs"
+  ],
+  "variants": [
+    {
+      "id": 40577843626093,
+      "title": "$10",
+      "option1": "$10",
+      "option2": null,
+      "option3": null,
+      "sku": "RISE-10",
+      "requires_shipping": false,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6985521496173,
+      "created_at": "2023-03-08T11:30:10-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    },
+    {
+      "id": 40577843658861,
+      "title": "$25",
+      "option1": "$25",
+      "option2": null,
+      "option3": null,
+      "sku": "RISE-25",
+      "requires_shipping": false,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "25.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 6985521496173,
+      "created_at": "2023-03-08T11:30:10-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    },
+    {
+      "id": 40577854341229,
+      "title": "$50",
+      "option1": "$50",
+      "option2": null,
+      "option3": null,
+      "sku": "RISE-50",
+      "requires_shipping": false,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "50.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 6985521496173,
+      "created_at": "2023-03-08T11:53:52-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    },
+    {
+      "id": 40577854373997,
+      "title": "$100",
+      "option1": "$100",
+      "option2": null,
+      "option3": null,
+      "sku": "RISE-100",
+      "requires_shipping": false,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 4,
+      "product_id": 6985521496173,
+      "created_at": "2023-03-08T11:53:52-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33269901164653,
+      "created_at": "2024-10-31T14:53:36-06:00",
+      "position": 1,
+      "updated_at": "2024-10-31T14:53:39-06:00",
+      "product_id": 6985521496173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/EGiftCard-Holiday-PDP-ECOM-1024.jpg?v=1730408019",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Value",
+      "position": 1,
+      "values": [
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ]
+    }
+  ],
+  "price": 10,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/EGiftCard-Holiday-PDP-ECOM-1024.jpg?v=1730408019",
+  "images_count": 1,
+  "variants_count": 4,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Gift Cards",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

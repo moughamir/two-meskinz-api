@@ -1,0 +1,109 @@
+{
+  "id": 8381664100440,
+  "title": "Seashell Merry Medley iPhone 16 Pro Case",
+  "handle": "seashell-merry-medley-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-05-21T17:06:54-04:00",
+  "created_at": "2025-05-21T09:52:39-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895732047960,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17286-IP16P-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8381664100440,
+      "created_at": "2025-05-21T09:52:39-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065438961752,
+      "created_at": "2025-05-21T09:52:39-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:41-04:00",
+      "product_id": 8381664100440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_IP16P_Seashell.jpg?v=1747835561",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065749045336,
+      "created_at": "2025-05-21T11:16:53-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:16:55-04:00",
+      "product_id": 8381664100440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_9e95dd19-5136-4f6f-914f-05cafd4c7859.jpg?v=1747840615",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065750061144,
+      "created_at": "2025-05-21T11:17:58-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:18:02-04:00",
+      "product_id": 8381664100440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_24b1cd25-f88c-4f70-8b3f-6176f2656b7a.jpg?v=1747840682",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065750028376,
+      "created_at": "2025-05-21T11:17:58-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:18:02-04:00",
+      "product_id": 8381664100440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_b788f275-46d3-4efc-b4bd-c6e0d5ed05b7.jpg?v=1747840682",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRY-MEDLEY_IP16P_Seashell.jpg?v=1747835561",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

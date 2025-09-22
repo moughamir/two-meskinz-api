@@ -1,0 +1,68 @@
+{
+  "id": 5299179913383,
+  "title": "Grooving Tool: Exterior & Interior, Left Hand, 1/4\" Shank Dia",
+  "handle": "97817316",
+  "body_html": "<br><strong>Item #: </strong>87122057<br><strong>Brand: </strong>Internal Tool<br><strong>Model #: </strong>53-4035<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Grooving Tool Type</strong>\n</td>\n<td>Grooving</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Left Hand</td>\n</tr>\n<tr> <td> <strong>Groove Width (Decimal Inch)</strong>\n</td>\n<td>0.2120</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>2.5000</td>\n</tr>\n<tr> <td> <strong>Full Radius</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Maximum Hole Depth (Decimal Inch)</strong>\n</td>\n<td>0.2120</td>\n</tr>\n<tr> <td> <strong>Projection (Decimal Inch)</strong>\n</td>\n<td>0.2120</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Interior/Exterior</strong>\n</td>\n<td>Interior; Exterior</td>\n</tr>\n<tr> <td> <strong>Undercut</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Material Grade</strong>\n</td>\n<td>Micrograin</td>\n</tr>\n<tr> <td> <strong>Shank Length (Decimal Inch)</strong>\n</td>\n<td>2.2880</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>2-1/2</td>\n</tr>\n<tr> <td> <strong>Tool Bit Adjusting Screw</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Manufacturer's Part Number</strong>\n</td>\n<td>53-4035</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23241600</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T16:59:47-06:00",
+  "created_at": "2020-06-08T06:36:24-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Internal Tool",
+  "product_type": "Turning & Boring",
+  "tags": [
+    "Boring Bars & Grooving Tools",
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 34625474789543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87122057",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "56.19",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5299179913383,
+      "created_at": "2020-06-08T06:36:24-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38252517261479,
+      "created_at": "2025-02-04T03:20:35-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:20:36-06:00",
+      "product_id": 5299179913383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7341312-21_887c2a96-68a6-4810-b57d-fdee00830c13.jpg?v=1738660836",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 56.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7341312-21_887c2a96-68a6-4810-b57d-fdee00830c13.jpg?v=1738660836",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Internal Tool",
+  "category": "Turning & Boring",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

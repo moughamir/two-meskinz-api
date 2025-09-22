@@ -1,0 +1,67 @@
+{
+  "id": 7785369338023,
+  "title": "Brand: Helical Solutions / Part #: 00570",
+  "handle": "cw8154740",
+  "body_html": "<br><strong>Item #: </strong>10461382<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>00570<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.6250</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>1-5/8</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3-1/2</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>45</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>1.6250</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.6250</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.5000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical Flute</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>End Mills for Aluminum - 2 Flute - Square - 45? Helix</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:06:51-06:00",
+  "created_at": "2023-12-28T19:06:51-06:00",
+  "updated_at": "2025-09-22T10:55:34-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703694885031,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "10461382",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.78",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785369338023,
+      "created_at": "2023-12-28T19:06:51-06:00",
+      "updated_at": "2025-09-22T10:55:34-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236800778407,
+      "created_at": "2025-02-03T17:54:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:54:28-06:00",
+      "product_id": 7785369338023,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7559777-21_f38b8796-b692-4684-b7cb-a1b26064e073.jpg?v=1738626868",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100.78,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7559777-21_f38b8796-b692-4684-b7cb-a1b26064e073.jpg?v=1738626868",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

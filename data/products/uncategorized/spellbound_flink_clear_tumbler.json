@@ -1,0 +1,97 @@
+{
+  "id": 7881104982063,
+  "title": "Spellbound Flink Clear Tumbler",
+  "handle": "spellbound-flink-clear-tumbler",
+  "body_html": "<p>Give yourself a big hug with the <em>Spellbound </em>Flink Big Hug Clear Plastic Tumbler! Whether it's water, iced tea, or smoothies, this tumbler is perfect for gifting or personal use, the <em>Spellbound </em>Flink Big Hug Clear Plastic Tumbler adds a little extra love to every sip.</p>\n<ul>\n<li>Material: Clear acrylic plastic</li>\n<li>Capacity: 16 oz. (590 ml)</li>\n<li>Height: 6.3\" (16 cm)</li>\n<li>Lid diameter: 3.9\" (10 cm)</li>\n<li>Bottom diameter: 2.6\" (6.7 cm)</li>\n<li>Double wall-insulated</li>\n<li>Comes with a plastic straw and screw-on lid</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n</ul>",
+  "published_at": "2024-12-03T13:59:22-05:00",
+  "created_at": "2024-12-03T10:20:42-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "81745658",
+    "Drinkware",
+    "Kid's",
+    "Kids and Babies",
+    "Kids and Children",
+    "kids and family",
+    "Spellbound",
+    "Tumblers",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43446766043183,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SPB-101804-0001-SPB-BIGHUG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7881104982063,
+      "created_at": "2024-12-03T10:20:42-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35112835219503,
+      "created_at": "2024-12-03T10:20:42-05:00",
+      "position": 1,
+      "updated_at": "2024-12-03T10:20:42-05:00",
+      "product_id": 7881104982063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-BIGHUG_44_101804_FT_MF.jpg?v=1733239242",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35112835285039,
+      "created_at": "2024-12-03T10:20:42-05:00",
+      "position": 2,
+      "updated_at": "2024-12-03T10:20:42-05:00",
+      "product_id": 7881104982063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-BIGHUG_44_101804_BK_MF.jpg?v=1733239242",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35112835350575,
+      "created_at": "2024-12-03T10:20:42-05:00",
+      "position": 3,
+      "updated_at": "2024-12-03T10:20:42-05:00",
+      "product_id": 7881104982063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-BIGHUG_44_101804_FT_MF2.jpg?v=1733239242",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SPB-BIGHUG_44_101804_FT_MF.jpg?v=1733239242",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

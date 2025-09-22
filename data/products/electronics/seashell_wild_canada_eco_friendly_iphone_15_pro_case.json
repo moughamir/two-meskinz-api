@@ -1,0 +1,120 @@
+{
+  "id": 8345580634200,
+  "title": "Seashell Wild Canada iPhone 15 Pro Case",
+  "handle": "seashell-wild-canada-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p data-start=\"77\" data-end=\"299\" class=\"\">Take a walk on the wild side with a phone case that’s bursting with Canadian critters—from mighty moose to curious bears, waddling ducks to salmon mid-leap. It's a full-on forest parade, and yes, the beavers are invited.</p>\n<p data-start=\"301\" data-end=\"484\" class=\"\">Made in Canada and inspired by it too, this case brings a little wilderness wherever you wander. Sturdy, sustainable, and proudly northern—what’s more Canadian than that, eh? 🇨🇦🦫📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:37:59-04:00",
+  "created_at": "2025-04-14T10:39:33-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Wild Canada",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815082168408,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17056-IP15P-SEASHELL-AOD:WILD-CANADA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345580634200,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829660455000,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:35-04:00",
+      "product_id": 8345580634200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP15P_Seashell.jpg?v=1744641575",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982844661848,
+      "created_at": "2025-05-07T16:49:21-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:49:24-04:00",
+      "product_id": 8345580634200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_2ea3b997-cb54-40c6-8b3e-7a366da71706.jpg?v=1746650964",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982844596312,
+      "created_at": "2025-05-07T16:49:21-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:49:23-04:00",
+      "product_id": 8345580634200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_3a1592b4-34e9-4e5a-9558-e192f034a584.jpg?v=1746650963",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982844694616,
+      "created_at": "2025-05-07T16:49:22-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:49:24-04:00",
+      "product_id": 8345580634200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_1eaa95e1-9341-448a-b474-43a92e42ee1f.jpg?v=1746650964",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982844629080,
+      "created_at": "2025-05-07T16:49:22-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:49:24-04:00",
+      "product_id": 8345580634200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_e9a16163-83f3-4398-850a-2685e034a0d0.jpg?v=1746650964",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP15P_Seashell.jpg?v=1744641575",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

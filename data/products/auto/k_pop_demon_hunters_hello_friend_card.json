@@ -1,0 +1,123 @@
+{
+  "id": 8011991515183,
+  "title": "KPop Demon Hunters Hello Friend Card",
+  "handle": "k-pop-demon-hunters-hello-friend-card",
+  "body_html": "<p>Send a playful greeting with the <em>KPop Demon Hunters</em> Hello Friend Card! Featuring art inspired by the series' iconic character, this card is perfect for sharing a friendly hello, a heartfelt note, or a little mischief. Blank inside for your personal message — whether cute, funny, or devilishly clever.</p>\n<ul>\n<li>Size: 4 in x 6 in</li>\n<li>Made of: Cardboard paper</li>\n<li>Blank inside</li>\n<li>Comes with a complimentary envelope<br>\n</li>\n<li>A small QR code is printed on the lower left corner of the back of the postcard. This is intended only for the production team’s use.</li>\n</ul>",
+  "published_at": "2025-09-08T12:25:25-04:00",
+  "created_at": "2025-07-18T10:36:27-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Greeting Cards",
+  "tags": [
+    "81498621",
+    "As Seen On",
+    "Cards",
+    "category stationery",
+    "Greeting Cards",
+    "Home",
+    "Home & Office",
+    "Home and Office",
+    "KPDH-5-0725",
+    "KPop Demon Hunters",
+    "movie_id- 81498621",
+    "Netflix",
+    "new",
+    "Party Supplies",
+    "Postcard",
+    "Saja Boys",
+    "Stationary",
+    "stationery",
+    "Stickers and Stationary",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44489341108271,
+      "title": "4 in x 6 in",
+      "option1": "4 in x 6 in",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-101637-0002-KPDH-5-0725-HFCRD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37653319188527,
+        "product_id": 8011991515183,
+        "position": 1,
+        "created_at": "2025-09-08T12:30:55-04:00",
+        "updated_at": "2025-09-08T12:30:57-04:00",
+        "alt": "KPop Demon Hunters Hello Friend Card",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-5-0725-HFCRD_101637_FT_MF.jpg?v=1757349057",
+        "variant_ids": [
+          44489341108271
+        ]
+      },
+      "available": true,
+      "price": "5.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8011991515183,
+      "created_at": "2025-09-08T12:20:49-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 37653319188527,
+      "created_at": "2025-09-08T12:30:55-04:00",
+      "position": 1,
+      "updated_at": "2025-09-08T12:30:57-04:00",
+      "product_id": 8011991515183,
+      "variant_ids": [
+        44489341108271
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-5-0725-HFCRD_101637_FT_MF.jpg?v=1757349057",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37653319221295,
+      "created_at": "2025-09-08T12:30:55-04:00",
+      "position": 2,
+      "updated_at": "2025-09-08T12:30:57-04:00",
+      "product_id": 8011991515183,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-5-0725-HFCRD_101637_BK_MF.jpg?v=1757349057",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37653319254063,
+      "created_at": "2025-09-08T12:30:55-04:00",
+      "position": 3,
+      "updated_at": "2025-09-08T12:30:57-04:00",
+      "product_id": 8011991515183,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-5-0725-HFCRD_101637_FT-BK_MF.jpg?v=1757349057",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "4 in x 6 in"
+      ]
+    }
+  ],
+  "price": 5.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-5-0725-HFCRD_101637_FT_MF.jpg?v=1757349057",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Greeting Cards",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

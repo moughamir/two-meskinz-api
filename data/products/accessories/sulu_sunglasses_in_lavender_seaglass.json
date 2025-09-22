@@ -1,0 +1,73 @@
+{
+  "id": 6764888162392,
+  "title": "Sulu Sunglasses in Lavender Seaglass",
+  "handle": "sulu-sunglasses-in-lavender-seaglass",
+  "body_html": "<meta charset=\"utf-8\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Eyewear for People Who Care:<span data-mce-fragment=\"1\"> </span></span><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span><span data-mce-fragment=\"1\"> These sunglasses offer full UVA/UVB protection and is durable enough for anything you want to do outside. Sustainability has never looked this cool.</span>",
+  "published_at": "2025-05-08T09:12:35-04:00",
+  "created_at": "2021-09-21T12:27:03-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Sulu"
+  ],
+  "variants": [
+    {
+      "id": 39617072660568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40144-SULU-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6764888162392,
+      "created_at": "2021-09-21T12:27:03-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 29878514450520,
+      "created_at": "2022-09-08T13:13:53-04:00",
+      "position": 1,
+      "updated_at": "2022-09-08T13:13:54-04:00",
+      "product_id": 6764888162392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_LAVENDER__1.jpg?v=1662657234",
+      "width": 4105,
+      "height": 4105
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_LAVENDER__1.jpg?v=1662657234",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

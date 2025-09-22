@@ -1,0 +1,118 @@
+{
+  "id": 7051710005357,
+  "title": "Perfume Immortelle",
+  "handle": "perfume-immortelle",
+  "body_html": "<p>The majestic Roman marble statues are beautifully represented with notes of <strong>bergamot</strong>, <strong>cypress</strong>, and the enduring <strong>immortelle flower</strong>.</p>",
+  "published_at": "2023-08-14T19:51:27-06:00",
+  "created_at": "2023-08-09T16:20:04-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "The Met",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:The Met",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Romantic",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Floral",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_perfumeimmortelle"
+  ],
+  "variants": [
+    {
+      "id": 40702262181997,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SLQH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051710005357,
+      "created_at": "2023-08-09T16:20:05-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31049608101997,
+      "created_at": "2024-01-17T20:14:53-07:00",
+      "position": 1,
+      "updated_at": "2024-01-17T20:15:10-07:00",
+      "product_id": 7051710005357,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-PerfumeImmortelle-Vertical-Resized.jpg?v=1705547710",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31049608003693,
+      "created_at": "2024-01-17T20:14:53-07:00",
+      "position": 2,
+      "updated_at": "2024-01-17T20:15:10-07:00",
+      "product_id": 7051710005357,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Cinnamon-RESIZED-2_1883aa55-cd06-445c-b610-f927f666990d.jpg?v=1705547710",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31049607970925,
+      "created_at": "2024-01-17T20:14:53-07:00",
+      "position": 3,
+      "updated_at": "2024-01-17T20:15:10-07:00",
+      "product_id": 7051710005357,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/The-Met-Perfume-Immortelle-Device-V4.jpg?v=1705547710",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31049608069229,
+      "created_at": "2024-01-17T20:14:53-07:00",
+      "position": 4,
+      "updated_at": "2024-01-17T20:15:10-07:00",
+      "product_id": 7051710005357,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-PerfumeImmortelle-Overhead-Shadow-Resized.jpg?v=1705547710",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-PerfumeImmortelle-Vertical-Resized.jpg?v=1705547710",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "The Met",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786385408167,
+  "title": "Brand: Zurn / Part #: 59517007",
+  "handle": "rj40t1240506-5t",
+  "body_html": "<br><strong>Item #: </strong>96382445<br><strong>Brand: </strong>Zurn<br><strong>Model #: </strong>59517007<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Quarter Turn Cartridge</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>AquaSpec? Manual Faucets</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Brass</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Rough Brass</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:47:28-06:00",
+  "created_at": "2023-12-29T21:47:28-06:00",
+  "updated_at": "2025-09-22T10:53:30-05:00",
+  "vendor": "Zurn",
+  "product_type": "Plumbing; Pumps & Filtration",
+  "tags": [
+    "Faucets; Sinks & Bathrooms"
+  ],
+  "variants": [
+    {
+      "id": 43707676295335,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96382445",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.41",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786385408167,
+      "created_at": "2023-12-29T21:47:29-06:00",
+      "updated_at": "2025-09-22T10:53:30-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238489313447,
+      "created_at": "2025-02-03T18:51:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:51:47-06:00",
+      "product_id": 7786385408167,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9638244-21.jpg?v=1738630307",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35.41,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9638244-21.jpg?v=1738630307",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Zurn",
+  "category": "Plumbing; Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

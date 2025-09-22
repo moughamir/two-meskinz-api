@@ -1,0 +1,110 @@
+{
+  "id": 6873671958637,
+  "title": "Ivory Woods",
+  "handle": "ivory-woods-car",
+  "body_html": "<p>Create a cool, icy escape with <strong>rock springs</strong> and iced <strong>juniper</strong> balanced by <strong>white pine</strong> and luxe <strong>cashmere</strong>.</p>",
+  "published_at": "2023-01-17T16:46:13-07:00",
+  "created_at": "2022-08-18T15:39:05-06:00",
+  "updated_at": "2025-09-22T13:12:54-06:00",
+  "vendor": "Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand:Pura",
+    "collection:Car",
+    "Group_Car",
+    "Ivory Woods Car",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "Strength_Medium",
+    "type_CarFragrance",
+    "vwpc",
+    "YCRF_carfragrances",
+    "YGroup_IvoryWoods"
+  ],
+  "variants": [
+    {
+      "id": 40274270879853,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VWPC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6873671958637,
+      "created_at": "2022-08-18T15:39:06-06:00",
+      "updated_at": "2025-09-22T13:12:54-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30006997155949,
+      "created_at": "2023-04-04T16:03:50-06:00",
+      "position": 1,
+      "updated_at": "2023-04-04T16:03:52-06:00",
+      "product_id": 6873671958637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_1_42d1092e-2c4e-41d3-80df-c7e12df73357.png?v=1680645832",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31271877673069,
+      "created_at": "2024-02-21T09:39:02-07:00",
+      "position": 2,
+      "updated_at": "2024-02-21T09:39:08-07:00",
+      "product_id": 6873671958637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Birchwood-Ingredients_3ca7aa5f-96fd-449f-aa33-bf309b3610bb.jpg?v=1708533548",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30006997188717,
+      "created_at": "2023-04-04T16:03:50-06:00",
+      "position": 3,
+      "updated_at": "2024-02-21T09:39:08-07:00",
+      "product_id": 6873671958637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_3_77ad9755-0ee5-4653-867c-89cdd7678937.png?v=1708533548",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30006997123181,
+      "created_at": "2023-04-04T16:03:50-06:00",
+      "position": 4,
+      "updated_at": "2024-02-21T09:39:08-07:00",
+      "product_id": 6873671958637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_4_601a84d3-e619-4b36-b676-82191c42e7f3.png?v=1708533548",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_1_42d1092e-2c4e-41d3-80df-c7e12df73357.png?v=1680645832",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785767927975,
+  "title": "Brand: Vestil / Part #: LC-TAS-48-66",
+  "handle": "eh5669028",
+  "body_html": "<br><strong>Item #: </strong>01391234<br><strong>Brand: </strong>Vestil<br><strong>Model #: </strong>LC-TAS-48-66<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>For Use With</strong>\n</td>\n<td>Steel Dock Boards Silver</td>\n</tr>\n<tr>\n<td><strong>Description</strong></td>\n<td>Lifting Chains - 1 Pair</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:34:36-06:00",
+  "created_at": "2023-12-29T01:34:36-06:00",
+  "updated_at": "2025-09-22T10:54:47-05:00",
+  "vendor": "Vestil",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Transport"
+  ],
+  "variants": [
+    {
+      "id": 43705462522023,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01391234",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.27",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785767927975,
+      "created_at": "2023-12-29T01:34:36-06:00",
+      "updated_at": "2025-09-22T10:54:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237225844903,
+      "created_at": "2025-02-03T18:08:59-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:09:00-06:00",
+      "product_id": 7785767927975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0139123-21.jpg?v=1738627740",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.27,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0139123-21.jpg?v=1738627740",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Vestil",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 7051706237037,
+  "title": "Egyptian Sandalwood",
+  "handle": "egyptian-sandalwood",
+  "body_html": "<p>The sandy Egyptian landscape is artfully represented with notes of <strong>cardamom</strong> and <strong>rock rose</strong> blended with <strong>cedar</strong>, <strong>sandalwood</strong>, and <strong>incense</strong>.</p>",
+  "published_at": "2023-08-14T19:50:15-06:00",
+  "created_at": "2023-08-09T16:19:22-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "The Met",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:The Met",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_egyptiansandalwood"
+  ],
+  "variants": [
+    {
+      "id": 40702258708589,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JZJH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051706237037,
+      "created_at": "2023-08-09T16:19:23-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31003362951277,
+      "created_at": "2024-01-10T15:32:22-07:00",
+      "position": 1,
+      "updated_at": "2024-01-10T15:32:46-07:00",
+      "product_id": 7051706237037,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-EgyptianSandalwood-Vertical-Resized.jpg?v=1704925966",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31003363049581,
+      "created_at": "2024-01-10T15:32:22-07:00",
+      "position": 2,
+      "updated_at": "2024-01-10T15:32:46-07:00",
+      "product_id": 7051706237037,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/sandalwoodresized_7f704ba7-402c-4375-bcc3-738bf3ef3ac8.jpg?v=1704925966",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31003362885741,
+      "created_at": "2024-01-10T15:32:22-07:00",
+      "position": 3,
+      "updated_at": "2024-01-10T15:32:46-07:00",
+      "product_id": 7051706237037,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/The-Met-Egyptian-Sandalwood-Device-V4.jpg?v=1704925966",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31003363147885,
+      "created_at": "2024-01-10T15:32:22-07:00",
+      "position": 4,
+      "updated_at": "2024-01-10T15:32:46-07:00",
+      "product_id": 7051706237037,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-EgyptianSandalwood-Overhead-Shadow-Resized.jpg?v=1704925966",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/TheMet-EgyptianSandalwood-Vertical-Resized.jpg?v=1704925966",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "The Met",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

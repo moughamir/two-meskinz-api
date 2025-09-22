@@ -1,0 +1,125 @@
+{
+  "id": 8190703272024,
+  "title": "Chocolate Brown Samsung S25+(Plus) Phone Case",
+  "handle": "chocolate-brown-samsung-s25-plus-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-01-22T09:08:09-05:00",
+  "created_at": "2024-11-19T12:08:50-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42406571442264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13935-S25PLUS-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 39,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8190703272024,
+      "created_at": "2024-11-19T12:08:50-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34089747611736,
+      "created_at": "2024-12-06T15:42:35-05:00",
+      "position": 1,
+      "updated_at": "2024-12-06T15:42:37-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_CHOCOLATE_BROWN_BACK.jpg?v=1733517757",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089747677272,
+      "created_at": "2024-12-06T15:42:35-05:00",
+      "position": 2,
+      "updated_at": "2024-12-06T15:42:37-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_CHOCOLATE_BROWN_BACK_45L.jpg?v=1733517757",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34089747644504,
+      "created_at": "2024-12-06T15:42:35-05:00",
+      "position": 3,
+      "updated_at": "2024-12-06T15:42:37-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_CHOCOLATE_BROWN_BACK_45R.jpg?v=1733517757",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569425191000,
+      "created_at": "2025-02-20T11:07:28-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:07:30-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_8187e472-f62c-4afd-aa97-9810394c3078.jpg?v=1740067650",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569425223768,
+      "created_at": "2025-02-20T11:07:28-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:07:30-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_048a5d1a-0b97-490c-9a1a-56342e704b8a.jpg?v=1740067650",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569425158232,
+      "created_at": "2025-02-20T11:07:28-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:07:30-05:00",
+      "product_id": 8190703272024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_9beba171-9310-4837-979e-d2fd5e99d478.jpg?v=1740067650",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25PLUS_CHOCOLATE_BROWN_BACK.jpg?v=1733517757",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

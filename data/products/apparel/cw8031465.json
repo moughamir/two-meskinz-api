@@ -1,0 +1,67 @@
+{
+  "id": 7785794502823,
+  "title": "Brand: Sellstrom / Part #: 24401",
+  "handle": "cw8031465",
+  "body_html": "<br><strong>Item #: </strong>76015569<br><strong>Brand: </strong>Sellstrom<br><strong>Model #: </strong>24401<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>4240</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T02:32:16-06:00",
+  "created_at": "2023-12-29T02:32:16-06:00",
+  "updated_at": "2025-09-22T10:48:01-05:00",
+  "vendor": "Sellstrom",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705535791271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "76015569",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "76.19",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785794502823,
+      "created_at": "2023-12-29T02:32:16-06:00",
+      "updated_at": "2025-09-22T10:48:01-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237288890535,
+      "created_at": "2025-02-03T18:11:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:11:02-06:00",
+      "product_id": 7785794502823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c97a70ca-b2da-49d1-baa5-e481e87370e9.png?v=1738627862",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 76.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c97a70ca-b2da-49d1-baa5-e481e87370e9.png?v=1738627862",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sellstrom",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

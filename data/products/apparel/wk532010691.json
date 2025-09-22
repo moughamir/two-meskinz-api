@@ -1,0 +1,67 @@
+{
+  "id": 7786326098087,
+  "title": "Brand: Harvey Tool / Part #: 834020",
+  "handle": "wk532010691",
+  "body_html": "<br><strong>Item #: </strong>82842949<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>834020<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cutter Diameter (Decimal Inch)</strong>\n</td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Point Shape</strong></td>\n<td>Pointed</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>11/32</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>40.00</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal; Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.5000</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Engraving Cutters - Pointed - Pyramid Point</td>\n</tr>\n<tr>\n<td><strong>Tip Diameter (Decimal Inch)</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.3430</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Cutter Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T18:19:28-06:00",
+  "created_at": "2023-12-29T18:19:28-06:00",
+  "updated_at": "2025-09-22T10:53:40-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "Engraving Cutters"
+  ],
+  "variants": [
+    {
+      "id": 43707525890215,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82842949",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "39.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786326098087,
+      "created_at": "2023-12-29T18:19:28-06:00",
+      "updated_at": "2025-09-22T10:53:40-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238306074791,
+      "created_at": "2025-02-03T18:44:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:44:14-06:00",
+      "product_id": 7786326098087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1387561-21.jpg?v=1738629854",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1387561-21.jpg?v=1738629854",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

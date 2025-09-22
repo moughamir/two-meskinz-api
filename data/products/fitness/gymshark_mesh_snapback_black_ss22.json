@@ -1,0 +1,125 @@
+{
+  "id": 6804884914378,
+  "title": "Gymshark Mesh Snapback - Black",
+  "handle": "gymshark-mesh-snapback-black-ss22",
+  "body_html": "<p><strong>GET AHEAD OF THE GAME</strong></p>\n<p><br>A partnership to get heads turning. With its classic curved peak design and subtle details, the Mesh Snapback is the perfect match for any ‘fit, whether you’re in the gym, on the track or just out and about.</p>\n<p> </p>\n<p>- Performance<br>- Focused fabric <br>- Featherweight design <br>- Solid front panel and mesh back panel <br>- Snapback adjustment <br>- Curved cap peak <br>- Rubberised wordmark logo <br>- Perforated mesh to the back <br>- Peak &amp; Front: 100% Polyester. Mesh: 100% Polyester. <br>- We’ve cut down our use of swing tags, so this product comes without one <br>- SKU: I1A7J-BBBB</p>",
+  "published_at": "2025-06-26T05:55:00-07:00",
+  "created_at": "2022-04-05T06:50:42-07:00",
+  "updated_at": "2025-09-22T08:45:32-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "aged-stock-us",
+    "akeneo_updated_at:1752486510",
+    "all-products",
+    "black-staples",
+    "build-your-wishlist",
+    "category:Headwear",
+    "created_by:product-service",
+    "filter-colour:Black",
+    "headwear",
+    "loungewear",
+    "lower-bucket",
+    "no-returns:2025-07-03T01:00:00_2025-07-07T14:00:00",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Key Items",
+    "rest-day",
+    "season:SS22",
+    "stocking-fillers",
+    "subcategory:Cap",
+    "tier:2"
+  ],
+  "variants": [
+    {
+      "id": 39786578444490,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A7J-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "28.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804884914378,
+      "created_at": "2022-04-05T06:50:42-07:00",
+      "updated_at": "2025-09-22T08:45:32-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28971682463946,
+      "created_at": "2022-04-05T06:50:43-07:00",
+      "position": 1,
+      "updated_at": "2022-04-05T06:50:44-07:00",
+      "product_id": 6804884914378,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MeshSnapbackBlackI1A7J-BBBB12_ZH_ZH.jpg?v=1649166644",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28971681939658,
+      "created_at": "2022-04-05T06:50:43-07:00",
+      "position": 2,
+      "updated_at": "2022-04-05T06:50:44-07:00",
+      "product_id": 6804884914378,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MeshSnapbackBlackI1A7J-BBBB302_ZH_ZH.jpg?v=1649166644",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28971682300106,
+      "created_at": "2022-04-05T06:50:43-07:00",
+      "position": 3,
+      "updated_at": "2022-04-05T06:50:44-07:00",
+      "product_id": 6804884914378,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MeshSnapbackBlackI1A7J-BBBB140_ZH_ZH.jpg?v=1649166644",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28971682169034,
+      "created_at": "2022-04-05T06:50:43-07:00",
+      "position": 4,
+      "updated_at": "2022-04-05T06:50:44-07:00",
+      "product_id": 6804884914378,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MeshSnapbackBlackI1A7J-BBBB141_ZH_ZH.jpg?v=1649166644",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/MeshSnapbackBlackI1A7J-BBBB12_ZH_ZH.jpg?v=1649166644",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8429097484376,
+  "title": "Black Curve and Flow Google Pixel 8 Pro Case",
+  "handle": "black-curve-and-flow-eco-friendly-google-pixel-8-pro-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:08:42-04:00",
+  "created_at": "2025-07-17T07:09:42-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063789322328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14990-PX8P-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429097484376,
+      "created_at": "2025-07-17T07:09:42-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436648104024,
+      "created_at": "2025-07-17T07:09:42-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:44-04:00",
+      "product_id": 8429097484376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_PX8P_Black.jpg?v=1752750584",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581674029144,
+      "created_at": "2025-08-11T14:53:51-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:53:51-04:00",
+      "product_id": 8429097484376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_8f281b0a-3a8a-4bc6-90a6-00f8e28b34ca.jpg?v=1754938431",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581674160216,
+      "created_at": "2025-08-11T14:53:53-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:53:53-04:00",
+      "product_id": 8429097484376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_2669cf74-9783-4afe-9391-0b7f573bf628.jpg?v=1754938433",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581674389592,
+      "created_at": "2025-08-11T14:53:55-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:53:55-04:00",
+      "product_id": 8429097484376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_aec902d3-2b91-4a55-ac7c-382f8ab7df2e.jpg?v=1754938435",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_PX8P_Black.jpg?v=1752750584",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

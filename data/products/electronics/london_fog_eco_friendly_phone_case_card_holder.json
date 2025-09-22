@@ -1,0 +1,93 @@
+{
+  "id": 6551549902936,
+  "title": "London Fog Phone Case Card Holder",
+  "handle": "london-fog-eco-friendly-phone-case-card-holder",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Two things you always have on you are your phone and your wallet - ditch the wallet and lighten your load with the the compostable Pela card holder! The Pela card holders securely stick to the back of nearly any Pela case utilizing an adhesive attachment to create a thin, durable, low profile combo! Level up your phone case while protecting your cards and the planet!</span><br></p>\n<p data-mce-fragment=\"1\"><span><meta charset=\"utf-8\"> <span style=\"color: #ff2a00;\"><strong>Phone Case is not Included.</strong></span></span></p>\n<p data-mce-fragment=\"1\"><span><meta charset=\"utf-8\"> <strong>Not compatible with Classic cases for iPhone 13 mini, iPhone 12 mini, iPhone 5/5s, Samsung S23, Samsung S20 or Google Pixel 5. Not compatible with Clear cases for iPhone 13 mini, iPhone 12 mini, iPhone 6/6s/7/8/SE, iPhone 11 Pro, iPhone X/XS, Google Pixel 6 and Google Pixel 6 Pro.</strong></span></p>",
+  "published_at": "2024-04-29T12:51:17-04:00",
+  "created_at": "2021-03-11T09:46:05-05:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Card Holder",
+  "tags": [
+    "accessory",
+    "CARDH",
+    "new accessory",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39283498090584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25565-CARDH-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 7,
+      "compare_at_price": "20.00",
+      "position": 1,
+      "product_id": 6551549902936,
+      "created_at": "2021-03-11T09:46:05-05:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640195657816,
+      "created_at": "2024-04-16T14:23:17-04:00",
+      "position": 1,
+      "updated_at": "2024-04-16T14:23:37-04:00",
+      "product_id": 6551549902936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_LONDONFOG_45L_NO_CARDS.jpg?v=1713291817",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640195625048,
+      "created_at": "2024-04-16T14:23:17-04:00",
+      "position": 2,
+      "updated_at": "2024-04-16T14:23:37-04:00",
+      "product_id": 6551549902936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_LONDONFOG_45L_CARDS_NEW.jpg?v=1713291817",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640195592280,
+      "created_at": "2024-04-16T14:23:17-04:00",
+      "position": 3,
+      "updated_at": "2024-04-16T14:23:18-04:00",
+      "product_id": 6551549902936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_LONDONFOG_ON_PHONE.jpg?v=1713291798",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "compare_at_price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_LONDONFOG_45L_NO_CARDS.jpg?v=1713291817",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Card Holder",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

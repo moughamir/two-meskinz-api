@@ -1,0 +1,86 @@
+{
+  "id": 7370306977880,
+  "title": "Black Tutti Frutti iPhone 6/6s/7/8/SE Case",
+  "handle": "black-tutti-frutti-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Dive into a deliciously vibrant jungle of flavor with the Pela Tutti Frutti Phone Case! This case is a feast for the eyes, garnished with an exquisite medley of tropical fruits—from the juicy burst of pomegranates to the tart zing of kiwis, all nestled in a lush bed of verdant leaves on a deep black backdrop. It's an Eden of taste that brings a slice of the exotic right to your fingertips, ready to refresh your day every time you pick up your phone. 🍍🍑🍉</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-24T09:24:25-04:00",
+  "created_at": "2023-07-27T12:43:41-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tutti Frutti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249061441624,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:PL-IP7-BLACK-AOD:TUTTI-FRUTTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370306977880,
+      "created_at": "2023-07-27T12:43:41-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330683719768,
+      "created_at": "2023-07-27T12:43:41-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T12:43:41-04:00",
+      "product_id": 7370306977880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/TUTTI-FRUTTI_IP7_Black.jpg?v=1690476221",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341098111064,
+      "created_at": "2023-08-11T09:54:08-04:00",
+      "position": 2,
+      "updated_at": "2023-08-11T09:54:09-04:00",
+      "product_id": 7370306977880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad9_7ed34993-0aae-401a-a8fa-8916f4ff588e.jpg?v=1691762049",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/TUTTI-FRUTTI_IP7_Black.jpg?v=1690476221",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

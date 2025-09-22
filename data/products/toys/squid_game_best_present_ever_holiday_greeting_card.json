@@ -1,0 +1,135 @@
+{
+  "id": 7865931923503,
+  "title": "Squid Game Best Present Ever Holiday Greeting Card",
+  "handle": "squid-game-best-present-ever-holiday-greeting-card",
+  "body_html": "<p>Make your holiday greetings unforgettable with the <em>Squid Game</em> Best Present Ever Holiday Greeting Card! Featuring the hauntingly iconic symbols from the games, this card adds a thrilling twist to your festive wishes. Whether you're sending a \"Happy Holidays\" or a \"Good luck, you're gonna need it\" note, this card is perfect for fans who know that the best presents come with a side of suspense and mystery. Who's ready to unwrap this holiday game?</p>\n<ul>\n<li>Made of: Cardboard paper</li>\n<li>Blank inside</li>\n<li>Comes with a complimentary envelope<br>\n</li>\n<li>A small QR code is printed on the lower left corner of the back of the postcard. This is intended only for the production team’s use.</li>\n</ul>",
+  "published_at": "2024-11-15T10:25:19-05:00",
+  "created_at": "2024-11-11T05:39:29-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Greeting Cards",
+  "tags": [
+    "81040344",
+    "Gifting",
+    "Greeting Cards",
+    "Holiday",
+    "Promo Eligible Collection",
+    "Squid Game",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43360781533231,
+      "title": "5 in x 7 in",
+      "option1": "5 in x 7 in",
+      "option2": null,
+      "option3": null,
+      "sku": "SG-101637-0001-SQG-BPEGC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34963682918447,
+        "product_id": 7865931923503,
+        "position": 1,
+        "created_at": "2024-11-11T05:39:29-05:00",
+        "updated_at": "2024-11-11T05:39:29-05:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-BPEGC_36_101637_5x7_FT_MF.jpg?v=1731321569",
+        "variant_ids": [
+          43360781533231,
+          43360781565999
+        ]
+      },
+      "available": false,
+      "price": "4.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7865931923503,
+      "created_at": "2024-11-11T05:39:29-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    },
+    {
+      "id": 43360781565999,
+      "title": "4 in x 6 in",
+      "option1": "4 in x 6 in",
+      "option2": null,
+      "option3": null,
+      "sku": "SG-101637-0002-SQG-BPEGC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34963682918447,
+        "product_id": 7865931923503,
+        "position": 1,
+        "created_at": "2024-11-11T05:39:29-05:00",
+        "updated_at": "2024-11-11T05:39:29-05:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-BPEGC_36_101637_5x7_FT_MF.jpg?v=1731321569",
+        "variant_ids": [
+          43360781533231,
+          43360781565999
+        ]
+      },
+      "available": true,
+      "price": "5.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7865931923503,
+      "created_at": "2024-11-11T05:39:29-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34963682918447,
+      "created_at": "2024-11-11T05:39:29-05:00",
+      "position": 1,
+      "updated_at": "2024-11-11T05:39:29-05:00",
+      "product_id": 7865931923503,
+      "variant_ids": [
+        43360781533231,
+        43360781565999
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-BPEGC_36_101637_5x7_FT_MF.jpg?v=1731321569",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34963682951215,
+      "created_at": "2024-11-11T05:39:29-05:00",
+      "position": 2,
+      "updated_at": "2024-11-11T05:39:29-05:00",
+      "product_id": 7865931923503,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-BPEGC_36_101637_5x7_BK_MF.jpg?v=1731321569",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "5 in x 7 in",
+        "4 in x 6 in"
+      ]
+    }
+  ],
+  "price": 4.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SQG-BPEGC_36_101637_5x7_FT_MF.jpg?v=1731321569",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Greeting Cards",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

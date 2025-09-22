@@ -1,0 +1,67 @@
+{
+  "id": 7786019094695,
+  "title": "Brand: E-Z LOK / Part #: SK31110",
+  "handle": "ft8527779",
+  "body_html": "<br><strong>Item #: </strong>48542708<br><strong>Brand: </strong>E-Z LOK<br><strong>Model #: </strong>SK31110<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Thread Repair Kit</td>\n</tr>\n<tr>\n<td><strong>Insert Thread Size (Inch)</strong></td>\n<td>7/16-20</td>\n</tr>\n<tr>\n<td><strong>Includes Drill</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Includes Tap</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Includes Installation Tool</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Includes Tang Removal Tool</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Insert Length (Decimal Inch)</strong></td>\n<td>0.4380</td>\n</tr>\n<tr>\n<td><strong>Number of Inserts for Each Size Length</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>9</td>\n</tr>\n<tr>\n<td><strong>Longest Insert Length (Decimal Inch)</strong></td>\n<td>0.44</td>\n</tr>\n<tr>\n<td><strong>Maximum Internal Thread Size (Inch)</strong></td>\n<td>7/16-20</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Internal Thread Sizes Included (Inch)</strong></td>\n<td>7/16-20</td>\n</tr>\n<tr>\n<td><strong>Drill Size (Inch)</strong></td>\n<td>29/64</td>\n</tr>\n<tr>\n<td><strong>Kit Includes</strong></td>\n<td>(1x) 29/64 Drill; (1x) Tang Break tool; (1x) 7/16-20 STI Bottoming Tap; (1x) Mandrel-style hand installation tool; Installed Length: 0.44\"; (5x) 7/16-20 inserts</td>\n</tr>\n<tr>\n<td><strong>Number Of Inserts</strong></td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:58:45-06:00",
+  "created_at": "2023-12-29T07:58:45-06:00",
+  "updated_at": "2025-09-22T10:54:16-05:00",
+  "vendor": "E-Z LOK",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Repair & Reinforcement"
+  ],
+  "variants": [
+    {
+      "id": 43706539016359,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48542708",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "60.59",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786019094695,
+      "created_at": "2023-12-29T07:58:45-06:00",
+      "updated_at": "2025-09-22T10:54:16-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237714251943,
+      "created_at": "2025-02-03T18:22:41-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:22:43-06:00",
+      "product_id": 7786019094695,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4854919-21_0d8d55f4-4f39-41e3-843a-e92f2a703a9a.jpg?v=1738628563",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 60.59,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4854919-21_0d8d55f4-4f39-41e3-843a-e92f2a703a9a.jpg?v=1738628563",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "E-Z LOK",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

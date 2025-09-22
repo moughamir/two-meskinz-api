@@ -1,0 +1,108 @@
+{
+  "id": 8127739265112,
+  "title": "Seashell Woodland Harvest Google Pixel 7 Case",
+  "handle": "seashell-woodland-harvest-eco-friendly-google-pixel-7-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Woodland Harvest Phone Case! 🍁 This charming design brings the beauty of the forest right to your fingertips, featuring playful acorns, colorful autumn leaves, and delightful mushrooms scattered across a soft, neutral background. Whether you’re an adventurer at heart or simply love the fall aesthetic, this case is the perfect accessory to complement your seasonal style. 🍂🌿 Get ready to carry a little bit of nature with you, wherever you go! 🌰</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:16:57-04:00",
+  "created_at": "2024-09-13T10:29:23-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Woodland Harvest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263344939096,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14836-PX7-SEASHELL-AOD:WOODLAND-HARVEST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127739265112,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615317041240,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:23-04:00",
+      "product_id": 8127739265112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_PX7_Seashell.jpg?v=1726237763",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685648244824,
+      "created_at": "2024-09-26T17:22:46-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:22:48-04:00",
+      "product_id": 8127739265112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_02_4f9844aa-4215-4e87-b317-1e90d5c6c409.jpg?v=1727385768",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678480113752,
+      "created_at": "2024-09-25T15:06:22-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:06:24-04:00",
+      "product_id": 8127739265112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_aefee5f6-4633-4f1d-861f-7fc96cd93b1e.jpg?v=1727291184",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685648212056,
+      "created_at": "2024-09-26T17:22:46-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:22:48-04:00",
+      "product_id": 8127739265112,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_b6e8e7ed-1cbd-4ec9-8486-6d106f839823.jpg?v=1727385768",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_PX7_Seashell.jpg?v=1726237763",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

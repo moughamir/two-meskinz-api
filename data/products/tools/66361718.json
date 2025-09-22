@@ -1,0 +1,67 @@
+{
+  "id": 8452654923943,
+  "title": "Tweezers; Tweezer Type: ESD Safe; Pattern: Solid Color; Material: Steel; Tip Type: Serrated, Angled, Fine; Tip Shape: Pointed; Overall Length (Inch): 6",
+  "handle": "66361718",
+  "body_html": "<br><strong>Item #: </strong>60867751<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>75302<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Tweezer Type</strong>\n</td>\n<td>ESD Safe</td>\n</tr>\n<tr> <td> <strong>Pattern</strong>\n</td>\n<td>Solid Color</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Tip Type</strong>\n</td>\n<td>Serrated; Angled; Fine</td>\n</tr>\n<tr> <td> <strong>Tip Shape</strong>\n</td>\n<td>Pointed</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112105</td>\n</tr>\n<tr> <td> <strong>Tweezer Type</strong>\n</td>\n<td>ESD Safe</td>\n</tr>\n<tr> <td> <strong>Pattern</strong>\n</td>\n<td>Solid Color</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Tip Type</strong>\n</td>\n<td>Serrated; Angled; Fine</td>\n</tr>\n<tr> <td> <strong>Tip Shape</strong>\n</td>\n<td>Pointed</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112105</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>60867751</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>75302</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>Germany</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:29:28-06:00",
+  "created_at": "2025-01-23T13:29:27-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Tweezers & Retrieving Tools"
+  ],
+  "variants": [
+    {
+      "id": 46498414297255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "60867751",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "74.72",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452654923943,
+      "created_at": "2025-01-23T13:29:27-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38247924662439,
+      "created_at": "2025-02-04T00:30:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:30:06-06:00",
+      "product_id": 8452654923943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6086775-21.jpg?v=1738650606",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 74.72,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6086775-21.jpg?v=1738650606",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

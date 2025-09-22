@@ -1,0 +1,116 @@
+{
+  "id": 7052695863405,
+  "title": "Blue Cypress & Snow",
+  "handle": "blue-cypress-snow",
+  "body_html": "<p>Crisp <strong>blue</strong> <strong>cypress</strong>, <strong>juniper</strong> <strong>berry</strong>, and hints of smoked <strong>vanilla</strong> create an aromatic and cheerful scent that will whisk you away to a snow-covered mountain retreat.</p>",
+  "published_at": "2023-08-14T19:52:37-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:NEST New York",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_bluecypresssnow"
+  ],
+  "variants": [
+    {
+      "id": 40703042453613,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BSNH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695863405,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525533618285,
+      "created_at": "2023-09-28T18:23:16-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:23:26-06:00",
+      "product_id": 7052695863405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-BlueCypressSnow-Vertical-Resized.jpg?v=1695947006",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525533913197,
+      "created_at": "2023-09-28T18:23:22-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T18:23:26-06:00",
+      "product_id": 7052695863405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/bluespruceresized-2_f1da4e1d-c09e-4838-9677-a5eacae62c37.jpg?v=1695947006",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30440582381677,
+      "created_at": "2023-09-08T15:39:22-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:23:26-06:00",
+      "product_id": 7052695863405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-Blue-Cypress-And-Snow-Device-V4.jpg?v=1695947006",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525533683821,
+      "created_at": "2023-09-28T18:23:16-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:23:26-06:00",
+      "product_id": 7052695863405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-BlueCypressSnow-Overhead-Shadow-Resized.jpg?v=1695947006",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-BlueCypressSnow-Vertical-Resized.jpg?v=1695947006",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

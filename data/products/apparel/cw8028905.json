@@ -1,0 +1,67 @@
+{
+  "id": 7785775530151,
+  "title": "Brand: Holemaker Technology / Part #: 112010-01",
+  "handle": "cw8028905",
+  "body_html": "<br><strong>Item #: </strong>87436861<br><strong>Brand: </strong>Holemaker Technology<br><strong>Model #: </strong>112010-01<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Accessories</td>\n</tr>\n<tr>\n<td><strong>Product Compatibility</strong></td>\n<td>VersaDrive</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:49:07-06:00",
+  "created_at": "2023-12-29T01:49:08-06:00",
+  "updated_at": "2025-09-22T10:54:47-05:00",
+  "vendor": "Holemaker Technology",
+  "product_type": "Saw Blades",
+  "tags": [
+    "Saw Blade Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43705477759143,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87436861",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "78.56",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785775530151,
+      "created_at": "2023-12-29T01:49:08-06:00",
+      "updated_at": "2025-09-22T10:54:47-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237242097831,
+      "created_at": "2025-02-03T18:09:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:09:32-06:00",
+      "product_id": 7785775530151,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8743686-21.jpg?v=1738627772",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 78.56,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8743686-21.jpg?v=1738627772",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Holemaker Technology",
+  "category": "Saw Blades",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

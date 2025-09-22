@@ -1,0 +1,118 @@
+{
+  "id": 7665509761133,
+  "title": "Canvas",
+  "handle": "canvas-1",
+  "body_html": "<p>Crisp<strong> linen</strong>, <strong>white musk</strong>, and sweet <strong>lily of the valley</strong> mingle with a dew drop accord for a clean, refreshing scent.</p>",
+  "published_at": "2025-08-20T17:03:27-06:00",
+  "created_at": "2025-06-05T15:37:54-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Apotheke",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Apotheke",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Strength_Subtle",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_canvas"
+  ],
+  "variants": [
+    {
+      "id": 42582605234285,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "DAGH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7665509761133,
+      "created_at": "2025-06-05T15:37:55-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34466348728429,
+      "created_at": "2025-06-05T15:39:47-06:00",
+      "position": 1,
+      "updated_at": "2025-06-05T15:40:20-06:00",
+      "product_id": 7665509761133,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-Canvas-Prod1-0425.jpg?v=1749159620",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30395282522221,
+      "created_at": "2023-08-23T10:33:23-06:00",
+      "position": 2,
+      "updated_at": "2025-06-05T15:40:20-06:00",
+      "product_id": 7665509761133,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linen-resized.jpg?v=1749159620",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 34466348793965,
+      "created_at": "2025-06-05T15:39:48-06:00",
+      "position": 3,
+      "updated_at": "2025-06-05T15:40:20-06:00",
+      "product_id": 7665509761133,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Canvas-Apotheke-Prod3-0425.png?v=1749159620",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 34466348531821,
+      "created_at": "2025-06-05T15:39:46-06:00",
+      "position": 4,
+      "updated_at": "2025-06-05T15:40:20-06:00",
+      "product_id": 7665509761133,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-Canvas-Prod4-0425.jpg?v=1749159620",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Apotheke-Canvas-Prod1-0425.jpg?v=1749159620",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Apotheke",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

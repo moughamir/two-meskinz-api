@@ -1,0 +1,123 @@
+{
+  "id": 8063821316143,
+  "title": "Black Rabbit Logo Coaster",
+  "handle": "black-rabbit-logo-coaster",
+  "body_html": "<p>Protect your surfaces from the secrets of the <em>Black Rabbit.</em> This coaster features the mysterious logo from the upcoming 2025 Netflix miniseries, a subtle nod to the show's dark and intriguing world. It's the perfect piece of home decor for any fan who loves a good mystery.</p><ul>\n<li>High-gloss coating on top</li>\n<li>Size: 3.74? × 3.74? × 0.16? (95 × 95 × 4 mm)</li>\n<li>Rounded cornersWater-repellent, heat-resistant, and non-slip</li>\n<li>Easy to clean</li>\n<br>\n</ul>",
+  "published_at": "2025-09-17T11:33:16-04:00",
+  "created_at": "2025-09-17T11:16:49-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Coasters",
+  "tags": [
+    "81630027",
+    "Badge: New | #FFFFFF | #000000",
+    "Black Rabbit",
+    "Coasters",
+    "Cork-Back Coaster",
+    "Coster",
+    "Drinkware Accessories",
+    "Netflix",
+    "new",
+    "New Arrivals",
+    "series_id-81630027",
+    "Shop All",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 44515372695599,
+      "title": "White / 3.74?×3.74?",
+      "option1": "White",
+      "option2": "3.74?×3.74?",
+      "option3": null,
+      "sku": "BRB-101695-0001-BR-L-0925-COAST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37710821916719,
+        "product_id": 8063821316143,
+        "position": 1,
+        "created_at": "2025-09-17T11:17:00-04:00",
+        "updated_at": "2025-09-17T11:17:02-04:00",
+        "alt": "Black Rabbit Logo Coaster White",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-L-0925-COAST_101695_FT_MF.jpg?v=1758122222",
+        "variant_ids": [
+          44515372695599
+        ]
+      },
+      "available": true,
+      "price": "12.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8063821316143,
+      "created_at": "2025-09-17T11:16:49-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 37710821916719,
+      "created_at": "2025-09-17T11:17:00-04:00",
+      "position": 1,
+      "updated_at": "2025-09-17T11:17:02-04:00",
+      "product_id": 8063821316143,
+      "variant_ids": [
+        44515372695599
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-L-0925-COAST_101695_FT_MF.jpg?v=1758122222",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37710821949487,
+      "created_at": "2025-09-17T11:17:00-04:00",
+      "position": 2,
+      "updated_at": "2025-09-17T11:17:02-04:00",
+      "product_id": 8063821316143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-L-0925-COAST_101695_LIFE.jpg?v=1758122222",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37710821982255,
+      "created_at": "2025-09-17T11:17:00-04:00",
+      "position": 3,
+      "updated_at": "2025-09-17T11:17:02-04:00",
+      "product_id": 8063821316143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-L-0925-COAST_101695_LIFE2.jpg?v=1758122222",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "3.74?×3.74?"
+      ]
+    }
+  ],
+  "price": 12.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-L-0925-COAST_101695_FT_MF.jpg?v=1758122222",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Coasters",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 8024799543343,
+  "title": "Stranger Things 2026 Day-at-a-Time Box Calendar",
+  "handle": "stranger-things-2026-day-at-a-time-box-calendar",
+  "body_html": "<p>In 1980s Hawkins, Indiana, a group of friends witnesses strange supernatural occurrences, disappearances and secret government activities. Step into their world with quotes and images from the hit TV series <em>Stranger Things</em> in this 2026 <em>Stranger Things</em> Calendar. The perfect gift for someone on your list, or for yourself. </p><ul>\n<li>Day-at-a-Time Box Calendar</li>\n<li> Day-at-a-time box calendars feature over 300 full-color, tear-off pages with unique designs for every day of the year (Saturday/Sunday combined to create weekend pages). </li>\n<li>Highlights federal holidays and moon phases to help you stay organized.</li>\n<li> Includes an eco-friendly, plastic-free easel for easy display on your desk, table or shelf at home, school or the office.</li>\n</ul>",
+  "published_at": "2025-07-25T10:28:41-04:00",
+  "created_at": "2025-07-24T16:43:56-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "trends",
+  "product_type": "Home & Office",
+  "tags": [
+    "80057281",
+    "Calendar",
+    "Collectibles",
+    "Home & Office",
+    "Home and Office",
+    "new",
+    "series_id-80057281",
+    "Shop All",
+    "Stranger Things"
+  ],
+  "variants": [
+    {
+      "id": 44101945262127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "260022",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36583142391855,
+        "product_id": 8024799543343,
+        "position": 2,
+        "created_at": "2025-07-24T16:44:06-04:00",
+        "updated_at": "2025-07-28T15:00:54-04:00",
+        "alt": "Stranger Things 2026 Day-at-a-Time Box Calendar",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022.png?v=1753729254",
+        "variant_ids": [
+          44101945262127
+        ]
+      },
+      "available": true,
+      "price": "19.99",
+      "grams": 259,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8024799543343,
+      "created_at": "2025-07-24T16:43:56-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36583142555695,
+      "created_at": "2025-07-24T16:44:06-04:00",
+      "position": 1,
+      "updated_at": "2025-07-28T15:00:54-04:00",
+      "product_id": 8024799543343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022_5_MF.png?v=1753729254",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36583142391855,
+      "created_at": "2025-07-24T16:44:06-04:00",
+      "position": 2,
+      "updated_at": "2025-07-28T15:00:54-04:00",
+      "product_id": 8024799543343,
+      "variant_ids": [
+        44101945262127
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022.png?v=1753729254",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36583142457391,
+      "created_at": "2025-07-24T16:44:06-04:00",
+      "position": 3,
+      "updated_at": "2025-07-28T15:00:54-04:00",
+      "product_id": 8024799543343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022_4.png?v=1753729254",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36583142490159,
+      "created_at": "2025-07-24T16:44:06-04:00",
+      "position": 4,
+      "updated_at": "2025-07-28T15:00:54-04:00",
+      "product_id": 8024799543343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022_2.png?v=1753729254",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36583142424623,
+      "created_at": "2025-07-24T16:44:06-04:00",
+      "position": 5,
+      "updated_at": "2025-07-28T15:00:54-04:00",
+      "product_id": 8024799543343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022_1.png?v=1753729254",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/260022_5_MF.png?v=1753729254",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "trends",
+  "category": "Home & Office",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

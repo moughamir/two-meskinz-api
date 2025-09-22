@@ -1,0 +1,67 @@
+{
+  "id": 7786126114983,
+  "title": "Brand: Widia / Part #: 6788443",
+  "handle": "eh565507329",
+  "body_html": "<br><strong>Item #: </strong>34044289<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6788443<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Clamp Type</strong>\n</td>\n<td>Insert Clamp</td>\n</tr>\n<tr>\n<td><strong>Industry Standard Number</strong></td>\n<td>WGCSUL0328K</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style Compatibility</strong></td>\n<td>206108; 206136</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Left Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>WSG</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:32:13-06:00",
+  "created_at": "2023-12-29T10:32:13-06:00",
+  "updated_at": "2025-09-22T10:54:05-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Replacement Parts & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43707024539815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "34044289",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "54.21",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786126114983,
+      "created_at": "2023-12-29T10:32:13-06:00",
+      "updated_at": "2025-09-22T10:54:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237869736103,
+      "created_at": "2025-02-03T18:27:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:27:51-06:00",
+      "product_id": 7786126114983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3404430-21.jpg?v=1738628871",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 54.21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3404430-21.jpg?v=1738628871",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

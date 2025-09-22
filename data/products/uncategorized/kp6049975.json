@@ -1,0 +1,52 @@
+{
+  "id": 8453289312423,
+  "title": "Open-End Wrench 1/2″and 9/16″ Ends",
+  "handle": "kp6049975",
+  "body_html": null,
+  "published_at": "2025-01-24T00:14:01-06:00",
+  "created_at": "2025-01-24T00:13:59-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500116398247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6049975",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.85",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453289312423,
+      "created_at": "2025-01-24T00:13:59-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.85,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

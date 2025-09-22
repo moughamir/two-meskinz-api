@@ -1,0 +1,100 @@
+{
+  "id": 7243455299631,
+  "title": "Outer Banks Flag [Light]",
+  "handle": "outer-banks-flag-light",
+  "body_html": "<p>Who doesn’t want to turn their house into a home? Brighten up your space by adding this unique flag to your wall. Your flag won’t crease or shrink thanks to the polyester material and will last a long time.</p>\n<p>Product Details:<br>• 100% polyester<br>• Knitted fabric<br>• Fabric weight: 4.42 oz/yd² (150 g/m²) <br>• Print on one side<br>• Blank reverse side<br>• 2 iron grommets<br>• Blank product components sourced from China and Israel</p>\n<p><strong class=\"size-guide-title\">Size guide</strong></p>\n<div class=\"table-responsive dynamic\" data-unit-system=\"imperial\">\n<table cellpadding=\"5\">\n<tbody>\n<tr>\n<td> </td>\n<td><strong>LENGTH (inches)</strong></td>\n<td><strong>WIDTH (inches)</strong></td>\n</tr>\n<tr>\n<td><strong>One Size</strong></td>\n<td>34 ½</td>\n<td>56</td>\n</tr>\n</tbody>\n</table>\n</div>",
+  "published_at": "2023-02-23T11:55:16-05:00",
+  "created_at": "2023-02-08T05:09:09-05:00",
+  "updated_at": "2025-09-22T11:41:13-04:00",
+  "vendor": "printful",
+  "product_type": "Flags",
+  "tags": [
+    "2023",
+    "2023 BFCM SITEWIDE SALE",
+    "2023 Q4 Sales Bypass",
+    "81354517",
+    "category home goods",
+    "collections",
+    "Home & Office",
+    "home goods",
+    "Netflix 26th Anniversary Sale - Part one",
+    "no-returns",
+    "pod",
+    "pod collection",
+    "Promo Eligible Collection",
+    "Q1",
+    "series",
+    "series_id-80236318",
+    "title",
+    "Title: Outer Banks",
+    "titles",
+    "Type: Home Goods",
+    "Vendor: Printful",
+    "View All",
+    "wall art"
+  ],
+  "variants": [
+    {
+      "id": 41574778404911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "3417345_12584",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "23.50",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7243455299631,
+      "created_at": "2023-02-08T05:09:09-05:00",
+      "updated_at": "2025-09-22T11:41:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32792348065839,
+      "created_at": "2023-02-22T14:59:17-05:00",
+      "position": 1,
+      "updated_at": "2023-02-22T14:59:19-05:00",
+      "product_id": 7243455299631,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/OuterBanksFlag_Light_image1.png?v=1677095959",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 32792348033071,
+      "created_at": "2023-02-22T14:59:17-05:00",
+      "position": 2,
+      "updated_at": "2023-02-22T14:59:18-05:00",
+      "product_id": 7243455299631,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/OuterBanksFlag_Light_image2.png?v=1677095958",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 23.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/products/OuterBanksFlag_Light_image1.png?v=1677095959",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful",
+  "category": "Flags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

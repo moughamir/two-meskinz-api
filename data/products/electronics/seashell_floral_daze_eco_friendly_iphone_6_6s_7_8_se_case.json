@@ -1,0 +1,98 @@
+{
+  "id": 7374103969880,
+  "title": "Seashell Floral Daze iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-floral-daze-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><span>Embrace the blossoming beauty of nature with our Floral Daze Phone Case, a design that marries the digital and natural world in a celebration of form and function.  This case features a tapestry of abstract floral patterns in shades of cream and spring leaf green, evoking the feel of a serene meadow.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:48:09-04:00",
+  "created_at": "2023-08-29T15:01:12-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Floral Daze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258377154648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:FLORAL-DAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374103969880,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352884858968,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:12-04:00",
+      "product_id": 7374103969880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_IP7_Seashell.jpg?v=1693335672",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356578631768,
+      "created_at": "2023-09-05T18:04:51-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:04:53-04:00",
+      "product_id": 7374103969880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams2_ce17912c-d682-4a47-b26b-f02c2b3a22d9.jpg?v=1693951493",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356578599000,
+      "created_at": "2023-09-05T18:04:51-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:04:53-04:00",
+      "product_id": 7374103969880,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_49e33191-718f-4974-b663-938eae78dd8e.jpg?v=1693951493",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_IP7_Seashell.jpg?v=1693335672",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

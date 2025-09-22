@@ -1,0 +1,67 @@
+{
+  "id": 8453224104103,
+  "title": "2PLY 2″X8' FLAT EYE PGE",
+  "handle": "kp6045485",
+  "body_html": "<br><strong>Item #: </strong>SS1010155<br><strong>Brand: </strong>Tuffy Products<br><strong>Model #: </strong>EEF2902P-08GE<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Synthetic Polyester </td>\n</tr>\n<tr>\n<td><strong>Basket Capacity</strong></td>\n<td>12,400 lbs </td>\n</tr>\n<tr>\n<td><strong>Sling Type</strong></td>\n<td>Polyester Grizzly Edge </td>\n</tr>\n<tr>\n<td><strong>Choker Capacity</strong></td>\n<td>4,960 lbs </td>\n</tr>\n<tr>\n<td><strong>Sling Type Name</strong></td>\n<td>Type 3 </td>\n</tr>\n<tr>\n<td><strong>Vertical Capacity</strong></td>\n<td>6,200 lbs </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Flat Eye </td>\n</tr>\n<tr>\n<td><strong>Width</strong></td>\n<td>2″ </td>\n</tr>\n<tr>\n<td><strong>Length</strong></td>\n<td>8' </td>\n</tr>\n<tr>\n<td><strong>Ply</strong></td>\n<td>2 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:02:07-06:00",
+  "created_at": "2025-01-23T22:02:05-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Tuffy Products",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Lifting"
+  ],
+  "variants": [
+    {
+      "id": 46499888955559,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SS1010155",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "87.93",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453224104103,
+      "created_at": "2025-01-23T22:02:06-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143843795111,
+      "created_at": "2025-01-23T22:02:13-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:02:14-06:00",
+      "product_id": 8453224104103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c38efd3a-ba18-4e8a-a106-e0b283639a0a.png?v=1737691334",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 87.93,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c38efd3a-ba18-4e8a-a106-e0b283639a0a.png?v=1737691334",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tuffy Products",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

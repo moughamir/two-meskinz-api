@@ -1,0 +1,67 @@
+{
+  "id": 7786435936423,
+  "title": "Brand: Kennametal / Part #: 7032977",
+  "handle": "mt7106504",
+  "body_html": "<br><strong>Item #: </strong>97275598<br><strong>Brand: </strong>Kennametal<br><strong>Model #: </strong>7032977<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>Hexagon</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>43</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>KC522M</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>12.00</td>\n</tr>\n<tr>\n<td><strong>Thickness Range (Decimal Inch)</strong></td>\n<td>0.1850 - 0.2000</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>1.00</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle Range (Decimal Inch)</strong></td>\n<td>0.4000 - 0.5000</td>\n</tr>\n<tr>\n<td><strong>Length Range (Decimal Inch)</strong></td>\n<td>0.0000 - 0.3200</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>0.000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Dodeka Mini</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Mm) ( - 0 Decimals)</strong></td>\n<td>5.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>3.23</td>\n</tr>\n<tr>\n<td><strong>Number Of Cutting Edges</strong></td>\n<td>12</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Hexagon</td>\n</tr>\n<tr>\n<td><strong>Rake</strong></td>\n<td>Negative</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>HNGJ43ANERGM</td>\n</tr>\n<tr>\n<td><strong>Rake Angle</strong></td>\n<td>0.000</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>HNGJ43ANERGM</td>\n</tr>\n<tr>\n<td><strong>Cutter Series Compatibility</strong></td>\n<td>Dodeka</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>GM</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Left Hand; Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Hexagon</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Thickness (mm)</strong></td>\n<td>4.7000</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Multilayer TiCN</td>\n</tr>\n<tr>\n<td><strong>Length</strong></td>\n<td>4.10</td>\n</tr>\n<tr>\n<td><strong>Width (Mm - 2 Decimals)</strong></td>\n<td>12.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T00:44:35-06:00",
+  "created_at": "2023-12-30T00:44:35-06:00",
+  "updated_at": "2025-09-22T10:53:23-05:00",
+  "vendor": "Kennametal",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43708009611431,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97275598",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786435936423,
+      "created_at": "2023-12-30T00:44:35-06:00",
+      "updated_at": "2025-09-22T10:53:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238645747879,
+      "created_at": "2025-02-03T18:58:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:58:14-06:00",
+      "product_id": 7786435936423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727670-21.jpg?v=1738630694",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727670-21.jpg?v=1738630694",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kennametal",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 7372992577624,
+  "title": "Powder Blue Rockies iPhone 15 Pro Max Case",
+  "handle": "powder-blue-rockies-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring the majestic Rockies with you wherever you go with the Rockies Phone Case! This beautifully engraved design captures the serene beauty of towering mountains, lush forests, and winding rivers, all etched in a calming powder blue backdrop. Perfect for adventurers and nature lovers alike, this case adds a touch of rugged elegance to your daily life while protecting your phone with durable style. Whether you're exploring the great outdoors or just dreaming of your next hike, the Rockies Phone Case is your perfect companion.<meta charset=\"utf-8\">🏔️<meta charset=\"utf-8\">🌲📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-12T13:58:35-04:00",
+  "created_at": "2023-08-18T10:33:10-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Engraving",
+    "bestseller",
+    "collection:Landscapes",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rockies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40256222068824,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17129-IP15PMAX-POWDERBLUE-AOD:ROCKIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7372992577624,
+      "created_at": "2023-08-18T10:33:10-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30346899095640,
+      "created_at": "2023-08-18T10:33:10-04:00",
+      "position": 1,
+      "updated_at": "2023-08-18T10:33:10-04:00",
+      "product_id": 7372992577624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROCKIES_IP15PMAX_PowderBlue.jpg?v=1692369190",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30346903322712,
+      "created_at": "2023-08-18T10:39:58-04:00",
+      "position": 2,
+      "updated_at": "2023-08-18T10:39:59-04:00",
+      "product_id": 7372992577624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINLAND2_2_0db1d0ea-6f6d-49b1-8840-bb9941e32add.jpg?v=1692369599",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/ROCKIES_IP15PMAX_PowderBlue.jpg?v=1692369190",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

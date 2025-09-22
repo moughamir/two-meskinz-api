@@ -1,0 +1,69 @@
+{
+  "id": 5335777345703,
+  "title": "Brand: Onward / Part #: 97B30R",
+  "handle": "ac75154",
+  "body_html": "<br><strong>Item #: </strong>09812660<br><strong>Brand: </strong>Onward<br><strong>Model #: </strong>97B30R<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Brace Type</strong>\n</td>\n<td>Corner Brace</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>3.00</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Brass</td>\n</tr>\n<tr>\n<td><strong>Plate Thickness</strong></td>\n<td>0.1000</td>\n</tr>\n<tr>\n<td><strong>Mounting Hardware Included</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-31T05:32:09-06:00",
+  "created_at": "2020-06-15T10:10:57-05:00",
+  "updated_at": "2025-09-22T10:53:11-05:00",
+  "vendor": "Onward",
+  "product_type": "Hardware",
+  "tags": [
+    "Braces; Brackets & Supports",
+    "Drilling",
+    "Reaming"
+  ],
+  "variants": [
+    {
+      "id": 34729328869543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09812660",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "6.60",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5335777345703,
+      "created_at": "2020-06-15T10:10:58-05:00",
+      "updated_at": "2025-09-22T10:53:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240260653223,
+      "created_at": "2025-02-03T20:15:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:15:30-06:00",
+      "product_id": 5335777345703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0981266-21.jpg?v=1738635330",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 6.6,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0981266-21.jpg?v=1738635330",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Onward",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

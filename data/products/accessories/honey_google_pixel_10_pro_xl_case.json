@@ -1,0 +1,92 @@
+{
+  "id": 8396683444312,
+  "title": "Honey Google Pixel 10 Pro XL Case",
+  "handle": "honey-google-pixel-10-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2025-08-20T10:00:05-04:00",
+  "created_at": "2025-06-09T15:23:07-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42936902189144,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "15826-PX10PXL-HONEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8396683444312,
+      "created_at": "2025-06-09T15:23:07-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35462792347736,
+      "created_at": "2025-07-23T13:58:38-04:00",
+      "position": 1,
+      "updated_at": "2025-07-23T13:58:44-04:00",
+      "product_id": 8396683444312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_HONEY_BACK.jpg?v=1753293524",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462792282200,
+      "created_at": "2025-07-23T13:58:38-04:00",
+      "position": 2,
+      "updated_at": "2025-07-23T13:58:44-04:00",
+      "product_id": 8396683444312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_HONEY_BACK_45L.jpg?v=1753293524",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35462792314968,
+      "created_at": "2025-07-23T13:58:38-04:00",
+      "position": 3,
+      "updated_at": "2025-07-23T13:58:44-04:00",
+      "product_id": 8396683444312,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_HONEY_BACK_45R.jpg?v=1753293524",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX10PXL_HONEY_BACK.jpg?v=1753293524",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 8444723429464,
+  "title": "Chocolate Brown Autumn Sweets iPhone Air Case",
+  "handle": "chocolate-brown-autumn-sweets-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Meet the phone case that’s basically dessert for your device. The Autumn Sweets Case serves up all the cozy fall cravings—pumpkin pies, steaming mugs, crunchy leaves, and a dash of cinnamon-daydream magic. Perfect for anyone who thinks “pumpkin spice season” should be a year-round holiday. Protective, deliciously stylish, and ready to pair with your favorite latte.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:47:24-04:00",
+  "created_at": "2025-08-08T12:07:12-04:00",
+  "updated_at": "2025-09-22T15:12:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Autumn Sweets",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184117481560,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17547-IP17AIR-CHOBROWN-AOD:AUTUMN-SWEETS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444723429464,
+      "created_at": "2025-09-03T18:28:26-04:00",
+      "updated_at": "2025-09-22T15:12:45-04:00"
+    },
+    {
+      "id": 43184117514328,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17547-IP17AIR-CHOBROWN-AOD:AUTUMN-SWEETS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444723429464,
+      "created_at": "2025-09-03T18:28:26-04:00",
+      "updated_at": "2025-09-22T15:12:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567386820696,
+      "created_at": "2025-08-08T12:07:12-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:07:14-04:00",
+      "product_id": 8444723429464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-SWEETS_IP17AIR_ChocolateBrown.jpg?v=1754669234",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35620902568024,
+      "created_at": "2025-08-19T13:31:12-04:00",
+      "position": 2,
+      "updated_at": "2025-08-19T13:31:12-04:00",
+      "product_id": 8444723429464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/987cc6f7b5b5370db04f81c86ae14b5d_af6243b8-0bac-4dbe-b6bf-dddb4cb29401.jpg?v=1755624672",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35620903321688,
+      "created_at": "2025-08-19T13:31:13-04:00",
+      "position": 3,
+      "updated_at": "2025-08-19T13:31:13-04:00",
+      "product_id": 8444723429464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f12f2f6696f7fb80ab9b2d7cb7a881d6_f415e5f1-d14d-4559-b2a8-218f601202bf.jpg?v=1755624673",
+      "width": 1983,
+      "height": 2048
+    },
+    {
+      "id": 35620904108120,
+      "created_at": "2025-08-19T13:31:15-04:00",
+      "position": 4,
+      "updated_at": "2025-08-19T13:31:15-04:00",
+      "product_id": 8444723429464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ed28849edc9ce504401cee3fd5741379_8a9a6e7e-e124-43b7-a372-16de40b0d153.jpg?v=1755624675",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620904599640,
+      "created_at": "2025-08-19T13:31:16-04:00",
+      "position": 5,
+      "updated_at": "2025-08-19T13:31:16-04:00",
+      "product_id": 8444723429464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/441d17278bcf83aeee93a6a82638c810_8fd192ff-39e6-4fb3-a6c2-362b98223122.jpg?v=1755624676",
+      "width": 2048,
+      "height": 2046
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-SWEETS_IP17AIR_ChocolateBrown.jpg?v=1754669234",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

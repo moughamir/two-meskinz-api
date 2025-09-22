@@ -1,0 +1,108 @@
+{
+  "id": 8142178517080,
+  "title": "Seashell Forest Gems Samsung Galaxy S24 Case",
+  "handle": "seashell-forest-gems-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:47:09-04:00",
+  "created_at": "2024-09-25T12:26:22-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294276030552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142178517080,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677679755352,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:22-04:00",
+      "product_id": 8142178517080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_S24_Seashell.jpg?v=1727281582",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749437775960,
+      "created_at": "2024-10-09T17:30:13-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:30:14-04:00",
+      "product_id": 8142178517080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_823cbfd9-6ead-425b-ac02-69992e5398b1.jpg?v=1728509414",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749437841496,
+      "created_at": "2024-10-09T17:30:13-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:30:14-04:00",
+      "product_id": 8142178517080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_57c1ba57-74a2-4e69-b111-8e3b8fb448fe.jpg?v=1728509414",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749437808728,
+      "created_at": "2024-10-09T17:30:12-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:30:14-04:00",
+      "product_id": 8142178517080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_d079c535-1ff1-423c-863f-f5a386e898eb.jpg?v=1728509414",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_S24_Seashell.jpg?v=1727281582",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

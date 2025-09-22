@@ -1,0 +1,108 @@
+{
+  "id": 7555251568728,
+  "title": "Seashell Merry Medley Google Pixel 8 Pro Case",
+  "handle": "seashell-merry-medley-eco-friendly-google-pixel-8-pro-case",
+  "body_html": "<p>Protect your phone in style with the Seashell Merry Medley Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' ducks chicks, frogs, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:04:05-05:00",
+  "created_at": "2024-02-06T13:51:37-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Merry Medley",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277238360,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14999-PX8P-SEASHELL-AOD:MERRY-MEDLEY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555251568728,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170963894360,
+      "created_at": "2024-02-06T13:51:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:37-05:00",
+      "product_id": 7555251568728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_PX8P_Seashell.jpg?v=1707245497",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109762136,
+      "created_at": "2024-02-28T17:20:14-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:20:18-05:00",
+      "product_id": 7555251568728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_2_326c28ab-19fa-4b3f-b532-46b5b1fe6eb3.jpg?v=1709158818",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109696600,
+      "created_at": "2024-02-28T17:20:14-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:20:18-05:00",
+      "product_id": 7555251568728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERRYMEADLEY_SEASHELL_1_eb1e1223-b229-47d4-aadd-b2115827fd92.jpg?v=1709158818",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241109729368,
+      "created_at": "2024-02-28T17:20:14-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:20:16-05:00",
+      "product_id": 7555251568728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_13e41f14-de14-4242-84a0-27c270cda417.jpg?v=1709158816",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MERRY-MEDLEY_PX8P_Seashell.jpg?v=1707245497",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 7052695797869,
+  "title": "Holly Berry",
+  "handle": "holly-berry",
+  "body_html": "<p>Capturing the iconic and timeless essences of a winter holiday, Holly Berry is a festive array of aromatic <strong>evergreens</strong>, sparkling <strong>red fruits</strong>, and comforting rustic <strong>woods</strong>.</p>",
+  "published_at": "2023-08-21T11:57:11-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:Pura",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Amber",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_hollyberry"
+  ],
+  "variants": [
+    {
+      "id": 40703042322541,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HBYH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "13.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695797869,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30384258842733,
+      "created_at": "2023-08-21T08:24:56-06:00",
+      "position": 1,
+      "updated_at": "2023-08-21T08:25:01-06:00",
+      "product_id": 7052695797869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/holly-berry-2-reszied.jpg?v=1692627901",
+      "width": 2400,
+      "height": 3194
+    },
+    {
+      "id": 32993655717997,
+      "created_at": "2024-09-11T10:24:12-06:00",
+      "position": 2,
+      "updated_at": "2025-01-31T13:05:20-07:00",
+      "product_id": 7052695797869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cranberryresized_a34b3ccf-ac1e-4228-99d5-6269f77c2aeb.jpg?v=1738353920",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30384258875501,
+      "created_at": "2023-08-21T08:24:56-06:00",
+      "position": 3,
+      "updated_at": "2023-08-21T08:25:01-06:00",
+      "product_id": 7052695797869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CopyofPUR23011-holly-berry-device-4resized.jpg?v=1692627901",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 30384259006573,
+      "created_at": "2023-08-21T08:24:56-06:00",
+      "position": 4,
+      "updated_at": "2023-08-21T08:25:01-06:00",
+      "product_id": 7052695797869,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/holly-berry-reszied.jpg?v=1692627901",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 13.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/holly-berry-2-reszied.jpg?v=1692627901",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

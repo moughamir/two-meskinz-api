@@ -1,0 +1,108 @@
+{
+  "id": 8243493437528,
+  "title": "Seashell Carbs Samsung Galaxy S22 Case",
+  "handle": "seashell-carbs-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate your love for all things carb-loaded with the Carbs Phone Case! Featuring a playful pattern of colorful pasta shapes—bowties, penne, fusilli, and more—it’s a deliciously fun way to accessorize your phone. Whether you’re a foodie, a pasta enthusiast, or just a carb-lover at heart, this case is <em>al dente</em> perfection.<meta charset=\"utf-8\">🍝✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:09:34-05:00",
+  "created_at": "2025-01-08T12:40:58-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Carbs",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541137920088,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13594-S22-SEASHELL-AOD:CARBS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243493437528,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242767421528,
+      "created_at": "2025-01-08T12:40:58-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:00-05:00",
+      "product_id": 8243493437528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S22_Seashell.jpg?v=1736358060",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357638070360,
+      "created_at": "2025-01-23T12:04:05-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T12:04:07-05:00",
+      "product_id": 8243493437528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP1_61599e84-8db4-4637-8910-1edcd6c544e3.jpg?v=1737651847",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357638135896,
+      "created_at": "2025-01-23T12:04:05-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T12:04:09-05:00",
+      "product_id": 8243493437528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP3_7471226b-ed0a-4770-9bcd-32da9d70284c.jpg?v=1737651849",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357638103128,
+      "created_at": "2025-01-23T12:04:05-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T12:04:09-05:00",
+      "product_id": 8243493437528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_PDP2_d466bedf-e64c-4053-876f-a741941df2fb.jpg?v=1737651849",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CARBS_S22_Seashell.jpg?v=1736358060",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

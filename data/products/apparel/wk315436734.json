@@ -1,0 +1,67 @@
+{
+  "id": 7785305505959,
+  "title": "Brand: First Aid Only / Part #: 91350",
+  "handle": "wk315436734",
+  "body_html": "<br><strong>Item #: </strong>40058778<br><strong>Brand: </strong>First Aid Only<br><strong>Model #: </strong>91350<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Kit Type</strong>\n</td>\n<td>Industrial First Aid Kit</td>\n</tr>\n<tr>\n<td><strong>Number of People</strong></td>\n<td>25</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Kit</td>\n</tr>\n<tr>\n<td><strong>Container Material</strong></td>\n<td>Metal</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Portable; None</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Tri Bandage; Guide; Bandages; Tape; Gauze Roll; Tweezers; Eye Pads, Gauze Pads; Blanket; CPR Shield; Gloves; Sunscreen; Scissors; Trauma Pads; Burn Cream; Alcohol Pads; Sanitizer; Burn Dressing; Cold Pk; Antibiotic Oint; Eyewash; WoundSeal Powder Packs</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ANSI 2021</td>\n</tr>\n<tr>\n<td><strong>Height (Decimal Inch)</strong></td>\n<td>2.750000</td>\n</tr>\n<tr>\n<td><strong>Depth (Decimal Inch)</strong></td>\n<td>2.7500</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>130</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>11.1250</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>7.7500</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:55:50-06:00",
+  "created_at": "2023-12-28T16:55:50-06:00",
+  "updated_at": "2025-09-22T10:55:49-05:00",
+  "vendor": "First Aid Only",
+  "product_type": "Safety",
+  "tags": [
+    "First Aid; Medical & Hydration"
+  ],
+  "variants": [
+    {
+      "id": 43703590486183,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40058778",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "108.90",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785305505959,
+      "created_at": "2023-12-28T16:55:50-06:00",
+      "updated_at": "2025-09-22T10:55:49-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236666724519,
+      "created_at": "2025-02-03T17:49:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:49:56-06:00",
+      "product_id": 7785305505959,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4005877-21.jpg?v=1738626596",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 108.9,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4005877-21.jpg?v=1738626596",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "First Aid Only",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

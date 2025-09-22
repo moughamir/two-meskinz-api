@@ -1,0 +1,67 @@
+{
+  "id": 7785432744103,
+  "title": "Brand: Quartet / Part #: QRTARC2414",
+  "handle": "cw8154185",
+  "body_html": "<br><strong>Item #: </strong>09150426<br><strong>Brand: </strong>Quartet<br><strong>Model #: </strong>QRTARC2414<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Board Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Frame Material</strong></td>\n<td>Aluminum</td>\n</tr>\n<tr>\n<td><strong>Height (Inch)</strong></td>\n<td>14</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Mounting Kit</td>\n</tr>\n<tr>\n<td><strong>Magnetic</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td><strong>Depth (Decimal Inch)</strong></td>\n<td>0.5200</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Painted Steel; Doubles as Bulletin Board</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:54:25-06:00",
+  "created_at": "2023-12-28T20:54:25-06:00",
+  "updated_at": "2025-09-22T10:55:17-05:00",
+  "vendor": "Quartet",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Office Supplies"
+  ],
+  "variants": [
+    {
+      "id": 43703828906151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09150426",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "93.89",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785432744103,
+      "created_at": "2023-12-28T20:54:25-06:00",
+      "updated_at": "2025-09-22T10:55:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236922249383,
+      "created_at": "2025-02-03T17:58:19-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:20-06:00",
+      "product_id": 7785432744103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0915042-21.jpg?v=1738627100",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 93.89,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0915042-21.jpg?v=1738627100",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Quartet",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

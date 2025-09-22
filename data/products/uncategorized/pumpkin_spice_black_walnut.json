@@ -1,0 +1,122 @@
+{
+  "id": 7042385051757,
+  "title": "Pumpkin Spice & Black Walnut",
+  "handle": "pumpkin-spice-black-walnut",
+  "body_html": "<p>This enticing fragrance blends freshly toasted pumpkin with a touch of cinnamon nestled in a base of <strong>sweet honey, walnut</strong>, and <strong>warm spice.</strong></p>",
+  "published_at": "2023-08-01T08:38:25-06:00",
+  "created_at": "2023-07-30T13:25:15-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Anthropologie",
+    "BWSH",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Pumpkin Spice & Black Walnut",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40694800089197,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BWSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7042385051757,
+      "created_at": "2023-07-30T13:25:16-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30271578570861,
+      "created_at": "2023-07-30T13:29:37-06:00",
+      "position": 1,
+      "updated_at": "2023-07-30T13:30:42-06:00",
+      "product_id": 7042385051757,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologiepumpkingspiceblackwalnutresizedpdp.jpg?v=1690745442",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30271578636397,
+      "created_at": "2023-07-30T13:29:37-06:00",
+      "position": 2,
+      "updated_at": "2023-07-30T13:33:08-06:00",
+      "product_id": 7042385051757,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/walnut-resized.jpg?v=1690745588",
+      "width": 4242,
+      "height": 4242
+    },
+    {
+      "id": 30350680916077,
+      "created_at": "2023-08-14T20:57:52-06:00",
+      "position": 3,
+      "updated_at": "2023-08-14T20:57:55-06:00",
+      "product_id": 7042385051757,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Pumpkin-And-Black-Walnut-Device-V4.jpg?v=1692068275",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30271578603629,
+      "created_at": "2023-07-30T13:29:37-06:00",
+      "position": 4,
+      "updated_at": "2023-08-14T20:57:55-06:00",
+      "product_id": 7042385051757,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologiepumpkingspiceblackwalnutresizedpdp-3.jpg?v=1692068275",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologiepumpkingspiceblackwalnutresizedpdp.jpg?v=1690745442",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

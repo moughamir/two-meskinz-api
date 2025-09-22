@@ -1,0 +1,99 @@
+{
+  "id": 7374105215064,
+  "title": "Sage Green Watermelon Time Warp iPhone 13 Case",
+  "handle": "sage-green-watermelon-time-warp-eco-friendly-iphone-13-case",
+  "body_html": "<p><span>Savor the essence of summer all year round with our Sage Green Watermelon Time Warp Phone Case. The refreshing design is a tribute to both the timeless fruit and the swirls of the '60s, providing a protective shell that's both earth-friendly and groovy.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:50:16-04:00",
+  "created_at": "2023-08-29T15:01:16-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Watermelon Time Warp",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258378367064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16688-IP13-SAGE-AOD:WATERMELON-TIME-WARP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374105215064,
+      "created_at": "2023-08-29T15:01:16-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352886071384,
+      "created_at": "2023-08-29T15:01:16-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:16-04:00",
+      "product_id": 7374105215064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP13_SageGreen.jpg?v=1693335676",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580335704,
+      "created_at": "2023-09-05T18:06:56-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:06:57-04:00",
+      "product_id": 7374105215064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams3_90217f8d-acdf-4030-943d-d516713683c6.jpg?v=1693951617",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580368472,
+      "created_at": "2023-09-05T18:06:56-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:06:57-04:00",
+      "product_id": 7374105215064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_39a75b33-7bee-4414-a925-d91502d1c879.jpg?v=1693951617",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP13_SageGreen.jpg?v=1693335676",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

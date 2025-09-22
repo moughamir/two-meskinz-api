@@ -1,0 +1,68 @@
+{
+  "id": 5336037195943,
+  "title": "‎3-17/32″ × 3/8″ × 1″ - HSS- Staggered Tooth Keyseat Cutter - 18T - TiN",
+  "handle": "gd1202050050500",
+  "body_html": "<br><strong>Item #: </strong>KE10952002604<br><strong>Brand: </strong>Keo<br><strong>Model #: </strong>952-002-604<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>‎3-17/32″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TiN </td>\n</tr>\n<tr>\n<td><strong>Cutting Width (CW)</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Neutral </td>\n</tr>\n<tr>\n<td><strong>Hub Diameter (DHUB)</strong></td>\n<td>1.438″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSS </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Staggered </td>\n</tr>\n<tr>\n<td><strong>Number of Teeth</strong></td>\n<td>18 </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:09:11-06:00",
+  "created_at": "2020-06-15T11:23:10-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Keo",
+  "product_type": "Milling",
+  "tags": [
+    "Drilling",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34730059137191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KE10952002604",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "216.81",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5336037195943,
+      "created_at": "2020-06-15T11:23:10-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143982764199,
+      "created_at": "2025-01-23T22:09:21-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:09:23-06:00",
+      "product_id": 5336037195943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_0afdf4b3-7a25-4d52-956e-492b0a731725.png?v=1737691763",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 216.81,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_0afdf4b3-7a25-4d52-956e-492b0a731725.png?v=1737691763",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Keo",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

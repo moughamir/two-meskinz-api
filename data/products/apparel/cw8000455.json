@@ -1,0 +1,67 @@
+{
+  "id": 7785860071591,
+  "title": "Brand: Sandvik Coromant / Part #: 8248765",
+  "handle": "cw8000455",
+  "body_html": "<br><strong>Item #: </strong>98018021<br><strong>Brand: </strong>Sandvik Coromant<br><strong>Model #: </strong>8248765<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (mm)</strong>\n</td>\n<td>M6</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Semi-Bottoming</td>\n</tr>\n<tr>\n<td><strong>Thread Limit</strong></td>\n<td>D5</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6H</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>25</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>FeN</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>13.00</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Thread Length (Decimal Inch)</strong></td>\n<td>0.5118</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>13.00</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.9370</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>100.0000</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (Decimal Inch)</strong></td>\n<td>0.5118</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>1.00</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric Fine</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>40.00</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.3543</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>9.0000</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (Decimal Inch)</strong></td>\n<td>1.6535</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (mm)</strong></td>\n<td>42.00</td>\n</tr>\n<tr>\n<td><strong>Flute Style</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>CoroTap? 300</td>\n</tr>\n<tr>\n<td><strong>Helix Angle Range</strong></td>\n<td>15-50</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:49:41-06:00",
+  "created_at": "2023-12-29T04:49:41-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Sandvik Coromant",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43705667584167,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98018021",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.90",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785860071591,
+      "created_at": "2023-12-29T04:49:41-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237437821095,
+      "created_at": "2025-02-03T18:16:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:07-06:00",
+      "product_id": 7785860071591,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_98a81504-7343-46ba-a4c3-34488b028820.png?v=1738628167",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.9,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_98a81504-7343-46ba-a4c3-34488b028820.png?v=1738628167",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sandvik Coromant",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

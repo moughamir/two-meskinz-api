@@ -1,0 +1,67 @@
+{
+  "id": 8452512219303,
+  "title": "Indexable Boring Bar: .438 MIN 5D CARB TPGB, 0.27\" Min Bore Dia, 3/8\" Shank Dia, 5 &deg; Lead Angle, Solid Carbide",
+  "handle": "86408176",
+  "body_html": "<br><strong>Item #: </strong>04103966<br><strong>Brand: </strong>Everede Tool<br><strong>Model #: </strong>00429<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Minimum Bore Diameter (Decimal Inch)</strong>\n</td>\n<td>0.2700</td>\n</tr>\n<tr> <td> <strong>Maximum Bore Depth (Decimal Inch)</strong>\n</td>\n<td>4.0000</td>\n</tr>\n<tr> <td> <strong>Tool Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Insert Compatibility</strong>\n</td>\n<td>TPGB/TPGH</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch)</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>4.0000</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Shape</strong>\n</td>\n<td>Triangle</td>\n</tr>\n<tr> <td> <strong>Rake</strong>\n</td>\n<td>Positive</td>\n</tr>\n<tr> <td> <strong>Rake Angle</strong>\n</td>\n<td>5.00</td>\n</tr>\n<tr> <td> <strong>Lead Angle</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>Multi-use Tool</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Cutting Tool Application</strong>\n</td>\n<td>Boring</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23241601</td>\n</tr>\n<tr> <td> <strong>Insert Screw</strong>\n</td>\n<td>19504/19506</td>\n</tr>\n<tr> <td> <strong>Body Diameter</strong>\n</td>\n<td>1.5000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:55:39-06:00",
+  "created_at": "2025-01-23T08:55:38-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Everede Tool",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Turning & Boring"
+  ],
+  "variants": [
+    {
+      "id": 46497937260711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04103966",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "273.16",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452512219303,
+      "created_at": "2025-01-23T08:55:38-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241803698343,
+      "created_at": "2025-02-03T21:09:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:09:35-06:00",
+      "product_id": 8452512219303,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0410340-11.jpg?v=1738638575",
+      "width": 250,
+      "height": 170
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 273.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0410340-11.jpg?v=1738638575",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Everede Tool",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

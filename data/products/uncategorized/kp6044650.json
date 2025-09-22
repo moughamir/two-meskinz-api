@@ -1,0 +1,67 @@
+{
+  "id": 8453216698535,
+  "title": "‎1/2-13 GSF Style Spiral Flute Thread Mill",
+  "handle": "kp6044650",
+  "body_html": "<br><strong>Item #: </strong>ER4516931<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>GF332101.5013<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>13 </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>HB </td>\n</tr>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Bright </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| UNC | </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>14 mm </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>26.4 mm </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>90 mm </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>A223344 </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:37:50-06:00",
+  "created_at": "2025-01-23T21:37:49-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills"
+  ],
+  "variants": [
+    {
+      "id": 46499868737703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4516931",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "654.19",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453216698535,
+      "created_at": "2025-01-23T21:37:49-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143300763815,
+      "created_at": "2025-01-23T21:37:57-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:37:58-06:00",
+      "product_id": 8453216698535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_1558_GSF2xDR30IKZHB_63cc_c56491bd-d299-4031-b683-72fb3343a6d8.jpg?v=1737689878",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 654.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_1558_GSF2xDR30IKZHB_63cc_c56491bd-d299-4031-b683-72fb3343a6d8.jpg?v=1737689878",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 7051711709293,
+  "title": "Sicilian Tangerine",
+  "handle": "sicilian-tangerine",
+  "body_html": "<p>Experience a mouthwatering aroma with this fragrance featuring juicy Sicilian tangerine blended with bergamot, exotic mango, and passionfruit.</p>",
+  "published_at": "2023-08-14T19:51:54-06:00",
+  "created_at": "2023-08-09T16:20:21-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:NEST New York",
+    "collection:Citrus",
+    "collection:NEST New York",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Fresh",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_siciliantangerine"
+  ],
+  "variants": [
+    {
+      "id": 40702265131117,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GNTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051711709293,
+      "created_at": "2023-08-09T16:20:21-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30537234317421,
+      "created_at": "2023-10-05T19:50:17-06:00",
+      "position": 1,
+      "updated_at": "2023-10-05T19:50:22-06:00",
+      "product_id": 7051711709293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/siciliantangerineresized.jpg?v=1696557022",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30537234251885,
+      "created_at": "2023-10-05T19:50:17-06:00",
+      "position": 2,
+      "updated_at": "2023-10-05T19:50:22-06:00",
+      "product_id": 7051711709293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mandarin-resized_7af4bd99-8958-42f5-a7fb-c53dc1374431.jpg?v=1696557022",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350243201133,
+      "created_at": "2023-08-14T19:49:33-06:00",
+      "position": 3,
+      "updated_at": "2023-10-05T19:50:22-06:00",
+      "product_id": 7051711709293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-Sicilian-Tangerine-Device-V4.jpg?v=1696557022",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30537234284653,
+      "created_at": "2023-10-05T19:50:17-06:00",
+      "position": 4,
+      "updated_at": "2023-10-05T19:50:22-06:00",
+      "product_id": 7051711709293,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/siciliantangerineresized-2.jpg?v=1696557022",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/siciliantangerineresized.jpg?v=1696557022",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

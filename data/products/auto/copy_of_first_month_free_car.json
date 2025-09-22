@@ -1,0 +1,86 @@
+{
+  "id": 7206841811053,
+  "title": "Influencer 2 First Month Free Car",
+  "handle": "copy-of-first-month-free-car",
+  "body_html": "",
+  "published_at": "2024-02-28T13:33:51-07:00",
+  "created_at": "2024-02-27T13:56:59-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Car Set",
+  "tags": [
+    "__label:Customize",
+    "Group_Car",
+    "Pura Car",
+    "remove sub",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "YCRF_cardevices",
+    "YGroup_PuraCar"
+  ],
+  "variants": [
+    {
+      "id": 41081570754669,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00858",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 88,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7206841811053,
+      "created_at": "2024-02-27T13:56:59-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31302176866413,
+      "created_at": "2024-02-27T13:57:02-07:00",
+      "position": 1,
+      "updated_at": "2024-02-27T13:57:02-07:00",
+      "product_id": 7206841811053,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/car-set-pdp-resized_3e92e446-cc37-416f-b26f-ffeb86b85d40.jpg?v=1709067422",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 31302176899181,
+      "created_at": "2024-02-27T13:57:02-07:00",
+      "position": 2,
+      "updated_at": "2024-02-27T13:57:02-07:00",
+      "product_id": 7206841811053,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/V4setsresized-9_2b23e6b7-d8af-4a18-9a88-058e516e3887.jpg?v=1709067422",
+      "width": 882,
+      "height": 1176
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/car-set-pdp-resized_3e92e446-cc37-416f-b26f-ffeb86b85d40.jpg?v=1709067422",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Car Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

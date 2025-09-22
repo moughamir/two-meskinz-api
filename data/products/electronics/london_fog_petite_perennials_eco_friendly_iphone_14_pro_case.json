@@ -1,0 +1,122 @@
+{
+  "id": 7536127246424,
+  "title": "London Fog Petite Perennials iPhone 14 Pro Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:18:43-05:00",
+  "created_at": "2024-01-15T11:10:07-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949022490712,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16800-IP14P-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536127246424,
+      "created_at": "2024-01-15T11:10:07-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079725101144,
+      "created_at": "2024-01-15T11:10:07-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:07-05:00",
+      "product_id": 7536127246424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP14P_LondonFog.jpg?v=1705335007",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088872747096,
+      "created_at": "2024-01-17T10:26:23-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:26:36-05:00",
+      "product_id": 7536127246424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_272aa5c1-6a7d-4aa1-b2df-2e7f0947f707.png?v=1705505196",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088872812632,
+      "created_at": "2024-01-17T10:26:23-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:26:36-05:00",
+      "product_id": 7536127246424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_c01ac896-7790-4e35-9291-189316711b6b.png?v=1705505196",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088872845400,
+      "created_at": "2024-01-17T10:26:23-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:26:36-05:00",
+      "product_id": 7536127246424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_8285fb37-8d0a-454e-955c-6797fafc127c.png?v=1705505196",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088872779864,
+      "created_at": "2024-01-17T10:26:23-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:26:36-05:00",
+      "product_id": 7536127246424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_91f5a075-d2e6-4199-957d-dc0d8a6f6046.png?v=1705505196",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_IP14P_LondonFog.jpg?v=1705335007",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

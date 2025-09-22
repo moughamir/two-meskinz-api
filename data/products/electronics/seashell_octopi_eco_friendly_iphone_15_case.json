@@ -1,0 +1,89 @@
+{
+  "id": 8088981569624,
+  "title": "Seashell Octopi iPhone 15 Case",
+  "handle": "seashell-octopi-eco-friendly-iphone-15-case",
+  "body_html": "<p class=\"p1\">Dive into a vibrant underwater celebration with the Octopi Phone Case! Bursting with color, these playful octopuses are here to bring some whimsy to your day. Each adorable sea creature is splashed in bright hues, from electric pinks to ocean blues, with quirky spots and friendly faces. This case is as fun as it is functional, offering protection while giving your phone a playful, aquatic flair. Perfect for ocean lovers, daydreamers, and anyone who loves a good splash of color! 🐙 🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-22T09:34:26-04:00",
+  "created_at": "2024-08-14T10:28:41-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Octopi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42168998461528,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16991-IP15-SEASHELL-AOD:OCTOPI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088981569624,
+      "created_at": "2024-08-14T10:28:41-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33475980361816,
+      "created_at": "2024-08-14T10:28:41-04:00",
+      "position": 1,
+      "updated_at": "2024-08-14T10:28:41-04:00",
+      "product_id": 8088981569624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IP15_Seashell.jpg?v=1723645721",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516473286744,
+      "created_at": "2024-08-22T12:38:13-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:38:15-04:00",
+      "product_id": 8088981569624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_Octopi_817544c8-58db-48bb-8fa5-89dd7fdfc812.jpg?v=1724344695",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_IP15_Seashell.jpg?v=1723645721",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

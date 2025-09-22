@@ -1,0 +1,121 @@
+{
+  "id": 7051710431341,
+  "title": "Pumpkin Dulce",
+  "handle": "pumpkin-dulce",
+  "body_html": "<p><strong>White pumpkin, gingersnap,</strong> and whipped <strong>vanilla</strong> combine to create a mix of your sweetest autumn memories.</p>",
+  "published_at": "2023-08-14T19:51:34-06:00",
+  "created_at": "2023-08-09T16:20:08-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Capri Blue",
+    "collection:Best Sellers",
+    "collection:Capri Blue",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Gourmand",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_pumpkindulce"
+  ],
+  "variants": [
+    {
+      "id": 40702262771821,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VCWH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051710431341,
+      "created_at": "2023-08-09T16:20:08-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30813777690733,
+      "created_at": "2023-12-05T12:15:40-07:00",
+      "position": 1,
+      "updated_at": "2023-12-05T12:15:44-07:00",
+      "product_id": 7051710431341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-PumpkinDulce-Vertical-Resized.jpg?v=1701803744",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30349750370413,
+      "created_at": "2023-08-14T12:54:39-06:00",
+      "position": 2,
+      "updated_at": "2023-12-05T12:15:44-07:00",
+      "product_id": 7051710431341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carmel-_1-resized_62d636bb-4e92-4526-a66e-3caa6bbed963.jpg?v=1701803744",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 30350240874605,
+      "created_at": "2023-08-14T19:42:24-06:00",
+      "position": 3,
+      "updated_at": "2023-12-05T12:15:44-07:00",
+      "product_id": 7051710431341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Pumpkin-Dulce-Device-V4.jpg?v=1701803744",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30813777723501,
+      "created_at": "2023-12-05T12:15:40-07:00",
+      "position": 4,
+      "updated_at": "2023-12-05T12:15:45-07:00",
+      "product_id": 7051710431341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-PumpkinDulce-Overhead-Shadow-Resized.jpg?v=1701803745",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-PumpkinDulce-Vertical-Resized.jpg?v=1701803744",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444711010392,
+  "title": "Powder Blue Mermaid Finds iPhone 17 Pro Max Case",
+  "handle": "powder-blue-mermaid-finds-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p data-start=\"0\" data-end=\"49\">The tide just brought in your next obsession. 🌊✨</p>\n<p data-start=\"51\" data-end=\"384\">The Mermaid Finds Phone Case is a beachcomber’s dream, decked out in a treasure trove of seashells, starfish, and ocean gems that look like they were plucked straight from a mermaid’s jewelry box. With a breezy blue background and pops of coral, gold, and seafoam, this case turns everyday protection into a coastal cutie moment.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:15:41-04:00",
+  "created_at": "2025-08-08T11:52:10-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mermaid Finds",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184203923544,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:MERMAID-FINDS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444711010392,
+      "created_at": "2025-09-03T18:42:49-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184203956312,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17583-IP17PMAX-POWDERBLUE-AOD:MERMAID-FINDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444711010392,
+      "created_at": "2025-09-03T18:42:49-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567314305112,
+      "created_at": "2025-08-08T11:52:10-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:13-04:00",
+      "product_id": 8444711010392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-FINDS_IP17PMAX_PowderBlue.jpg?v=1754668333",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453388030040,
+      "created_at": "2025-07-21T16:23:52-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T10:17:32-04:00",
+      "product_id": 8444711010392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mermaid_Finds_1.jpg?v=1755181052",
+      "width": 3859,
+      "height": 3859
+    },
+    {
+      "id": 35453388292184,
+      "created_at": "2025-07-21T16:23:53-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T10:17:42-04:00",
+      "product_id": 8444711010392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mermaid_Finds_2.jpg?v=1755181062",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MERMAID-FINDS_IP17PMAX_PowderBlue.jpg?v=1754668333",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

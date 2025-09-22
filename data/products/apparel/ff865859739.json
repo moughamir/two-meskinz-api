@@ -1,0 +1,67 @@
+{
+  "id": 8452496785575,
+  "title": "Abrasive Bur: SPG-Z6.FS.12.0.70, 12.00 mm Cut Dia, Diamond Pattern",
+  "handle": "ff865859739",
+  "body_html": "<br><strong>Item #: </strong>01013549<br><strong>Brand: </strong>WNT<br><strong>Model #: </strong>50925712<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Industry Specification</strong>\n</td>\n<td>SPG-Z6.FS.12.0.70</td>\n</tr>\n<tr> <td> <strong>Cutting Diameter (mm)</strong>\n</td>\n<td>12.00</td>\n</tr>\n<tr> <td> <strong>Tooth Style</strong>\n</td>\n<td>Diamond Pattern</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>70.0000</td>\n</tr>\n<tr> <td> <strong>Length of Cut (mm)</strong>\n</td>\n<td>25.0000</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (mm)</strong>\n</td>\n<td>6.0000</td>\n</tr>\n<tr> <td> <strong>Head Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Head Coating</strong>\n</td>\n<td>Uncoated</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112809</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:17:28-06:00",
+  "created_at": "2025-01-23T08:17:27-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "WNT",
+  "product_type": "Abrasives",
+  "tags": [
+    "Points & Burrs"
+  ],
+  "variants": [
+    {
+      "id": 46497774862503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "01013549",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.69",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452496785575,
+      "created_at": "2025-01-23T08:17:27-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38240914112679,
+      "created_at": "2025-02-03T20:40:07-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:40:09-06:00",
+      "product_id": 8452496785575,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0101354-21.jpg?v=1738636809",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0101354-21.jpg?v=1738636809",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WNT",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

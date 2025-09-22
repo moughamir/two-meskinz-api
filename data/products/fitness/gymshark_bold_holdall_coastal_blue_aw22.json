@@ -1,0 +1,109 @@
+{
+  "id": 6804991377610,
+  "title": "Gymshark Bold Gym Bag - Coastal Blue",
+  "handle": "gymshark-bold-holdall-coastal-blue-aw22",
+  "body_html": "<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">IT’S IN THE BAG</strong></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Durable materials, practical pockets and compartments, and a striking Gymshark wordmark combine to make these the only gym bags you’re ever gonna need.<br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- One main entry<br data-mce-fragment=\"1\">- Reinforced base<br data-mce-fragment=\"1\">- Slip pocket to lid and zip pocket to front<br data-mce-fragment=\"1\">- Zip ‘wet pocket’ to side<br data-mce-fragment=\"1\">- Adjustable shoulder strap and padded carry handles<br data-mce-fragment=\"1\">- YKK hardware<br data-mce-fragment=\"1\">- D-ring to side to attach keys<br data-mce-fragment=\"1\">- Matte printed Gymshark logo to side<br data-mce-fragment=\"1\">- Main: Polyester &amp; PVC. Lining: Polyester &amp; Polyurethane.<br data-mce-fragment=\"1\">- Length: 21.6\". Height: 11.8\". Width: 12.6\". Volume: 52L (approx).<br data-mce-fragment=\"1\">- SKU: I2A2C-UBPP</p>\n<p data-mce-fragment=\"1\"> </p>",
+  "published_at": "2023-05-01T15:10:14-07:00",
+  "created_at": "2022-08-31T09:02:42-07:00",
+  "updated_at": "2025-09-22T08:46:26-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "20EXTRA",
+    "4-20-23-sale",
+    "Accessories",
+    "activity: lifting",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "Bags",
+    "bf-23",
+    "bold",
+    "category:Bag",
+    "duffel-bags",
+    "filter-colour: Blue",
+    "gym-bags",
+    "lifting",
+    "member-exclusive-just-in-case",
+    "member-sale-republish",
+    "no-returns:2023-04-20T09:00:00_2023-04-26T09:00:00",
+    "no-returns:2023-04-26T09:00:00_2023-05-01T15:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Bold",
+    "spanish-dg",
+    "spanish-done",
+    "ss-2023",
+    "subcategory:Holdall",
+    "test",
+    "tier:1",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787187437770,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A2C-UBPP-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "68.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804991377610,
+      "created_at": "2022-08-31T09:02:42-07:00",
+      "updated_at": "2025-09-22T08:46:26-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28972941377738,
+      "created_at": "2022-09-01T06:47:13-07:00",
+      "position": 1,
+      "updated_at": "2022-09-01T06:47:14-07:00",
+      "product_id": 6804991377610,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/BoldHoldallCoastalBlueI2A2C-UBPP.jpg?v=1662040034",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28972941639882,
+      "created_at": "2022-09-01T06:47:13-07:00",
+      "position": 2,
+      "updated_at": "2022-09-01T06:47:15-07:00",
+      "product_id": 6804991377610,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/BoldHoldallCoastalBlueI2A2C-UBPP1.jpg?v=1662040035",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/BoldHoldallCoastalBlueI2A2C-UBPP.jpg?v=1662040034",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

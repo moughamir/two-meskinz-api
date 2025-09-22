@@ -1,0 +1,67 @@
+{
+  "id": 7786247585959,
+  "title": "Brand: Onward / Part #: 94233FBBC",
+  "handle": "wk225824716",
+  "body_html": "<br><strong>Item #: </strong>88831565<br><strong>Brand: </strong>Onward<br><strong>Model #: </strong>94233FBBC<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Hinge Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Hinge Type</strong></td>\n<td>Gate</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Screw-On</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Load Capacity (Lb. - 3 Decimals)</strong></td>\n<td>400.000</td>\n</tr>\n<tr>\n<td><strong>Number Of Mounting Holes</strong></td>\n<td>12.000</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>4.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:33:13-06:00",
+  "created_at": "2023-12-29T15:33:13-06:00",
+  "updated_at": "2025-09-22T10:53:50-05:00",
+  "vendor": "Onward",
+  "product_type": "Hardware",
+  "tags": [
+    "Door; Lid & Drawer Hardware"
+  ],
+  "variants": [
+    {
+      "id": 43707334131879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "88831565",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.33",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786247585959,
+      "created_at": "2023-12-29T15:33:13-06:00",
+      "updated_at": "2025-09-22T10:53:50-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238158061735,
+      "created_at": "2025-02-03T18:38:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:38:25-06:00",
+      "product_id": 7786247585959,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8883156-21.jpg?v=1738629505",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8883156-21.jpg?v=1738629505",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Onward",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

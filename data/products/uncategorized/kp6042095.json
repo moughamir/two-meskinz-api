@@ -1,0 +1,52 @@
+{
+  "id": 8453473927335,
+  "title": "Pulling Grip for 2 to 2.5″ Diameter, 26″",
+  "handle": "kp6042095",
+  "body_html": null,
+  "published_at": "2025-01-24T07:42:52-06:00",
+  "created_at": "2025-01-24T07:42:51-06:00",
+  "updated_at": "2025-09-22T10:51:41-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500911055015,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6042095",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "466.87",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453473927335,
+      "created_at": "2025-01-24T07:42:51-06:00",
+      "updated_at": "2025-09-22T10:51:41-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 466.87,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

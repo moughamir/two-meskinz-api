@@ -1,0 +1,122 @@
+{
+  "id": 7030776922221,
+  "title": "Sandalwood Vanilla",
+  "handle": "sandalwood-vanilla",
+  "body_html": "<p>Aromatic herbs and fresh-cut sandalwood intermingle with warm notes of creamy <strong>vanilla</strong> <strong>bean</strong>, smooth <strong>tonka</strong>, glowing <strong>white amber</strong>, and earthy <strong>patchouli</strong>.</p>",
+  "published_at": "2023-07-25T08:24:25-06:00",
+  "created_at": "2023-07-17T14:52:15-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Anthropologie",
+    "CollectionFilter_Vanilla",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Sandalwood Vanilla",
+    "Scent Type_Gourmand",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_sandalwoodvanilla"
+  ],
+  "variants": [
+    {
+      "id": 40683025006701,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SVAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7030776922221,
+      "created_at": "2023-07-17T14:52:16-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30296731746413,
+      "created_at": "2023-08-04T11:21:28-06:00",
+      "position": 1,
+      "updated_at": "2023-08-04T11:21:30-06:00",
+      "product_id": 7030776922221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologie-2023-08-v1.png?v=1691169690",
+      "width": 1024,
+      "height": 1365
+    },
+    {
+      "id": 30214031736941,
+      "created_at": "2023-07-17T14:58:02-06:00",
+      "position": 2,
+      "updated_at": "2023-08-04T11:21:30-06:00",
+      "product_id": 7030776922221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod2_Anthropologie_SandalwoodVanilla_wall.jpg?v=1691169690",
+      "width": 2166,
+      "height": 2888
+    },
+    {
+      "id": 30350242447469,
+      "created_at": "2023-08-14T19:45:59-06:00",
+      "position": 3,
+      "updated_at": "2023-08-14T19:46:01-06:00",
+      "product_id": 7030776922221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Sandalwood-Vanilla-Device-V4.jpg?v=1692063961",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30214031605869,
+      "created_at": "2023-07-17T14:57:40-06:00",
+      "position": 4,
+      "updated_at": "2023-08-14T19:46:01-06:00",
+      "product_id": 7030776922221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologiesandalwoodvanilla-6.jpg?v=1692063961",
+      "width": 2167,
+      "height": 2889
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anthropologie-2023-08-v1.png?v=1691169690",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

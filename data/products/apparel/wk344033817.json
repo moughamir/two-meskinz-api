@@ -1,0 +1,67 @@
+{
+  "id": 7786463428775,
+  "title": "Brand: OEM Tools / Part #: 24680",
+  "handle": "wk344033817",
+  "body_html": "<br><strong>Item #: </strong>11418308<br><strong>Brand: </strong>OEM Tools<br><strong>Model #: </strong>24680<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Minimum Measurement (Decimal Inch)</strong>\n</td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Measurement (Decimal Inch)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Maximum Inside Diameter Measurement (Inch)</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Maximum Inside Diameter Measurement (mm)</strong></td>\n<td>6.00</td>\n</tr>\n<tr>\n<td><strong>Nib Size (mm)</strong></td>\n<td>0.00</td>\n</tr>\n<tr>\n<td><strong>Caliper Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Jaw Material</strong></td>\n<td>Carbide-Tipped</td>\n</tr>\n<tr>\n<td><strong>Power Source</strong></td>\n<td>Battery</td>\n</tr>\n<tr>\n<td><strong>Batteries Included</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Battery Size</strong></td>\n<td>LR44</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Automotive</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>California Prop65 Warning</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T03:07:11-06:00",
+  "created_at": "2023-12-30T03:07:11-06:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "OEM Tools",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Dimensional Measuring Tools"
+  ],
+  "variants": [
+    {
+      "id": 43708139765927,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "11418308",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "28.54",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786463428775,
+      "created_at": "2023-12-30T03:07:11-06:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238775771303,
+      "created_at": "2025-02-03T19:04:07-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:04:09-06:00",
+      "product_id": 7786463428775,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1141830-21.jpg?v=1738631049",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 28.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1141830-21.jpg?v=1738631049",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OEM Tools",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

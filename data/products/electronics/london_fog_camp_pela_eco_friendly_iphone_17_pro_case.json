@@ -1,0 +1,96 @@
+{
+  "id": 8444676505688,
+  "title": "London Fog Camp Pela iPhone 17 Pro Case",
+  "handle": "london-fog-camp-pela-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p class=\"p1\">Bring a little wilderness to your phone with the Camp Pela Phone Case! 🌲🏕️ Whether you’re roasting marshmallows, hiking mountains, or just daydreaming about your next adventure, this case has got you covered with adorable illustrations of all things camping—tents, campfires, cozy sweaters, and even some cheeky critters. It’s the perfect accessory for nature lovers who want to carry a bit of the great outdoors wherever they go, all while keeping their phone safe and stylish. 🔥🍂🐿️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:24:57-04:00",
+  "created_at": "2025-08-08T11:50:05-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Camping",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Camp Pela",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184164765784,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:CAMP-PELA_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444676505688,
+      "created_at": "2025-09-03T18:35:20-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184164798552,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:CAMP-PELA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444676505688,
+      "created_at": "2025-09-03T18:35:20-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567238381656,
+      "created_at": "2025-08-08T11:50:05-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:07-04:00",
+      "product_id": 8444676505688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMP-PELA_IP17P_LondonFog.jpg?v=1754668207",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMP-PELA_IP17P_LondonFog.jpg?v=1754668207",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

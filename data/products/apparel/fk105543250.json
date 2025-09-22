@@ -1,0 +1,67 @@
+{
+  "id": 7785825730727,
+  "title": "Brand: Helical Solutions / Part #: 82668",
+  "handle": "fk105543250",
+  "body_html": "<br><strong>Item #: </strong>99228553<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>82668<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Decimal Inch)</strong>\n</td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Program Radius (Decimal Inch)</strong></td>\n<td>0.0235</td>\n</tr>\n<tr>\n<td><strong>Number of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Tplus</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Reach Length (Decimal Inch)</strong></td>\n<td>1.1250</td>\n</tr>\n<tr>\n<td><strong>Reach Length (Inch)</strong></td>\n<td>1-1/8</td>\n</tr>\n<tr>\n<td><strong>Single or Double End</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>High Feed End Mills - Steels up to 45 Rc - Variable Pitch - Reduced Neck</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:40:07-06:00",
+  "created_at": "2023-12-29T03:40:07-06:00",
+  "updated_at": "2025-09-22T10:54:35-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43705601523879,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99228553",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "73.06",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785825730727,
+      "created_at": "2023-12-29T03:40:07-06:00",
+      "updated_at": "2025-09-22T10:54:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237363142823,
+      "created_at": "2025-02-03T18:13:26-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:13:27-06:00",
+      "product_id": 7785825730727,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9921471-21_475bca3c-09f9-45a5-a584-e6e6fc238491.jpg?v=1738628007",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 73.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9921471-21_475bca3c-09f9-45a5-a584-e6e6fc238491.jpg?v=1738628007",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

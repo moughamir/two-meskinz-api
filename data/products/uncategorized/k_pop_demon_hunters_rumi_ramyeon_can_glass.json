@@ -1,0 +1,124 @@
+{
+  "id": 8011972182063,
+  "title": "KPop Demon Hunters Rumi Ramyeon Can Glass",
+  "handle": "k-pop-demon-hunters-rumi-ramyeon-can-glass",
+  "body_html": "<p>Bring a touch of Rumi's playful vibe to your everyday routine with the <em>KPop Demon Hunters </em>Rumi Ramyeon Can Glass. Styled with bold artwork inspired by the iconic ramyeon scene, this can-shaped glass is perfect for casual sipping — and a must-have for every fan.</p>\n<ul>\n<li>Glass material</li>\n<li>Comes with a lid and straw</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>",
+  "published_at": "2025-07-18T12:47:10-04:00",
+  "created_at": "2025-07-18T10:10:19-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "81498621",
+    "Badge: Exclusive | #E50815 | #FFFFFF",
+    "Can Shaped Glass",
+    "Drinking Glasses",
+    "Drinkware",
+    "Glasses",
+    "Glasseware",
+    "glassware",
+    "Home",
+    "Home & Office",
+    "home and office",
+    "home goods",
+    "homegoods",
+    "Huntrix",
+    "KPDH-5-0725",
+    "KPop Demon Hunters",
+    "movie_id- 81498621",
+    "Netflix",
+    "new",
+    "Rumi",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43981109166127,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-101797-0001-KPDH-3-0725-RMRCG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36420695490607,
+        "product_id": 8011972182063,
+        "position": 1,
+        "created_at": "2025-07-18T10:10:30-04:00",
+        "updated_at": "2025-07-18T10:10:31-04:00",
+        "alt": "KPop Demon Hunters Rumi Ramyeon Can Glass",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-3-0725-RMRCG_101797_FT_MF.jpg?v=1752847831",
+        "variant_ids": [
+          43981109166127
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8011972182063,
+      "created_at": "2025-07-18T10:10:19-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36420695490607,
+      "created_at": "2025-07-18T10:10:30-04:00",
+      "position": 1,
+      "updated_at": "2025-07-18T10:10:31-04:00",
+      "product_id": 8011972182063,
+      "variant_ids": [
+        43981109166127
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-3-0725-RMRCG_101797_FT_MF.jpg?v=1752847831",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 37126409846831,
+      "created_at": "2025-08-14T12:42:28-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T12:43:36-04:00",
+      "product_id": 8011972182063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/Untitled_3_d5921532-dfa3-4984-a854-0f0e64424f79.png?v=1755189816",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36420695588911,
+      "created_at": "2025-07-18T10:10:30-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T12:43:36-04:00",
+      "product_id": 8011972182063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-3-0725-RMRCG_101797_BK_MF.jpg?v=1755189816",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-3-0725-RMRCG_101797_FT_MF.jpg?v=1752847831",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

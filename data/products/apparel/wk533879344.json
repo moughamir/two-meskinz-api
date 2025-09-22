@@ -1,0 +1,67 @@
+{
+  "id": 7786329964711,
+  "title": "Brand: DeWALT / Part #: DXMF03051XL",
+  "handle": "wk533879344",
+  "body_html": "<br><strong>Item #: </strong>04121133<br><strong>Brand: </strong>DeWALT<br><strong>Model #: </strong>DXMF03051XL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Primary Material</strong>\n</td>\n<td>Kevlar; Leather</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>X-Large</td>\n</tr>\n<tr>\n<td><strong>Lining</strong></td>\n<td>Unlined</td>\n</tr>\n<tr>\n<td><strong>Back Material</strong></td>\n<td>Kevlar; Leather</td>\n</tr>\n<tr>\n<td><strong>Aluminized Coverage</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>High Visibility</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>14.6000</td>\n</tr>\n<tr>\n<td><strong>Fda Approved</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T18:29:37-06:00",
+  "created_at": "2023-12-29T18:29:38-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "DeWALT",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707533230247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04121133",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "39.58",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786329964711,
+      "created_at": "2023-12-29T18:29:38-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238315839655,
+      "created_at": "2025-02-03T18:44:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:44:40-06:00",
+      "product_id": 7786329964711,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0412113-21.jpg?v=1738629880",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 39.58,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0412113-21.jpg?v=1738629880",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "DeWALT",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

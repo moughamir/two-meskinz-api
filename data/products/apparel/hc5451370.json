@@ -1,0 +1,67 @@
+{
+  "id": 7785508307111,
+  "title": "Brand: Sumitomo / Part #: 16V9FJT",
+  "handle": "hc5451370",
+  "body_html": "<br><strong>Item #: </strong>14581292<br><strong>Brand: </strong>Sumitomo<br><strong>Model #: </strong>16V9FJT<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>CCGA</td>\n</tr>\n<tr>\n<td><strong>Insert Shape Code</strong></td>\n<td>C</td>\n</tr>\n<tr>\n<td><strong>Insert Size Code</strong></td>\n<td>21.51</td>\n</tr>\n<tr>\n<td><strong>Insert Shape</strong></td>\n<td>Diamond</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>BN7115</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.40</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Cubic Boron Nitride (CBN)</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Mm) ( - 0 Decimals)</strong></td>\n<td>2.8000</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (mm)</strong></td>\n<td>0.50</td>\n</tr>\n<tr>\n<td><strong>Inscribed Circle (mm)</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Screw</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Insert Thickness</strong></td>\n<td>2.38</td>\n</tr>\n<tr>\n<td><strong>Clearance Code</strong></td>\n<td>C</td>\n</tr>\n<tr>\n<td><strong>Tolerance Code</strong></td>\n<td>G</td>\n</tr>\n<tr>\n<td><strong>Relief Angle</strong></td>\n<td>7.000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>BN7115</td>\n</tr>\n<tr>\n<td><strong>Manufacturers Catalog Number</strong></td>\n<td>2NUCCGA21.51-BN7115</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td><strong>Chip Breaker</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Width (Mm - 2 Decimals)</strong></td>\n<td>6.40</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:18:08-06:00",
+  "created_at": "2023-12-28T22:18:08-06:00",
+  "updated_at": "2025-09-22T10:48:29-05:00",
+  "vendor": "Sumitomo",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43704176672935,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14581292",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "89.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785508307111,
+      "created_at": "2023-12-28T22:18:08-06:00",
+      "updated_at": "2025-09-22T10:48:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237019013287,
+      "created_at": "2025-02-03T18:01:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:01:34-06:00",
+      "product_id": 7785508307111,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9192249-21_cce5d420-dd5d-4e10-9aed-2a3de289e56f.jpg?v=1738627294",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 89.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9192249-21_cce5d420-dd5d-4e10-9aed-2a3de289e56f.jpg?v=1738627294",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sumitomo",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

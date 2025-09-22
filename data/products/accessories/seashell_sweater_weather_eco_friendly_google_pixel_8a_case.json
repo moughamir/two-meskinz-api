@@ -1,0 +1,75 @@
+{
+  "id": 8159013666904,
+  "title": "Seashell Sweater Weather Google Pixel 8a Case",
+  "handle": "seashell-sweater-weather-eco-friendly-google-pixel-8a-case",
+  "body_html": "<p><span>Snuggle up with our Sweater Weather Phone Case, a warm addition to your phone from the Winter Wishlist Collection that encapsulates the cozy essence of the season.  Deck your device with an assortment of knitted sweaters, each lovingly illustrated to represent the comforting warmth of a winter wardrobe. 🧣❄️🌿</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:30:26-04:00",
+  "created_at": "2024-10-15T13:31:55-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8a",
+  "tags": [
+    "art-type:Print",
+    "collection:Winter Wishlist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sweater Weather",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42331978629208,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15027-PX8a-SEASHELL-AOD:SWEATER-WEATHER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159013666904,
+      "created_at": "2024-10-15T13:31:55-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33794341797976,
+      "created_at": "2024-10-15T13:31:55-04:00",
+      "position": 1,
+      "updated_at": "2024-10-15T13:31:55-04:00",
+      "product_id": 8159013666904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEATER-WEATHER_PX8A_Seashell.jpg?v=1729013515",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEATER-WEATHER_PX8A_Seashell.jpg?v=1729013515",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5304416895143,
+  "title": "Strapping Sealers, Crimpers & Tensioners; 2\" STRAP WIDTH STEEL STRAPPING CUTTER",
+  "handle": "36114270",
+  "body_html": "<br><strong>Item #: </strong>81776049<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>10127<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody><tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>44102305</td>\n</tr></tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T15:54:18-06:00",
+  "created_at": "2020-06-09T04:50:21-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Packaging & Shipping Supplies",
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34640742416551,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81776049",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "370.83",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5304416895143,
+      "created_at": "2020-06-09T04:50:21-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38251084120231,
+      "created_at": "2025-02-04T02:31:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:31:23-06:00",
+      "product_id": 5304416895143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/noimageavailable_517fe1fd-a8c0-41b9-9c6c-d9279975b0d9.jpg?v=1738657883",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 370.83,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/noimageavailable_517fe1fd-a8c0-41b9-9c6c-d9279975b0d9.jpg?v=1738657883",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

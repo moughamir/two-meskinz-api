@@ -1,0 +1,118 @@
+{
+  "id": 6805104132298,
+  "title": "Gymshark Everyday Waist Pack - Ink Teal",
+  "handle": "gymshark-everyday-waist-pack-ink-teal-ss23",
+  "body_html": "<meta charset=\"utf-8\">\n<p><strong>EVERYDAY FOR ANY DAY</strong></p>\n<p><br data-mce-fragment=\"1\">Your work-to-gym hybrid. The Everyday Waist Pack is specifically designed for those small essentials you need to carry hands-free. With an adjustable strap and front pocket, you can store keys, headphones and all those smaller items in comfort and style.</p>\n<p><br></p>\n<p>- Adjustable strap<br data-mce-fragment=\"1\">- Small front pocket<br data-mce-fragment=\"1\">- Small rope loop<br data-mce-fragment=\"1\">- Embossed front logo<br data-mce-fragment=\"1\">- Side release clip<br data-mce-fragment=\"1\">- Matte PVC material<br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">- Length: 8.6in. Height: 5.1in. Depth: 1.96in.</span><br data-mce-fragment=\"1\">- Airmesh back panel for added comfort<br data-mce-fragment=\"1\">- SKU: I2A5O-TBGF</p>",
+  "published_at": "2023-03-30T15:31:04-07:00",
+  "created_at": "2023-01-12T01:12:29-08:00",
+  "updated_at": "2025-09-22T08:46:29-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "2023-03-30T22:22:53Z",
+    "2023-03-30T22:25:54Z",
+    "2023-03-30T22:30:43Z",
+    "20EXTRA",
+    "3/30/acc",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "Bags",
+    "bf-23",
+    "category:Bag",
+    "conditioning",
+    "filter-colour: Blue",
+    "nosizeguide",
+    "not-cyber-deals",
+    "small-bags",
+    "spanish-dg",
+    "spanish-done",
+    "SS23",
+    "ss23-accessories",
+    "ss23-bag",
+    "subcategory:Crossbody",
+    "Sync App Draft",
+    "Teal",
+    "test",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787843125450,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A5O-TBGF-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805104132298,
+      "created_at": "2023-01-12T01:12:29-08:00",
+      "updated_at": "2025-09-22T08:46:29-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28974935343306,
+      "created_at": "2023-04-04T14:35:44-07:00",
+      "position": 1,
+      "updated_at": "2023-04-04T14:35:46-07:00",
+      "product_id": 6805104132298,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWaistPackInkTealI2A5O-TBGF.140_050b8460-8b26-4b3e-a48b-325e1918b3f3.jpg?v=1680644146",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974935736522,
+      "created_at": "2023-04-04T14:35:44-07:00",
+      "position": 2,
+      "updated_at": "2023-04-04T14:35:46-07:00",
+      "product_id": 6805104132298,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWaistPackInkTeal_I2A5O-TBGF-507.jpg?v=1680644146",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974935048394,
+      "created_at": "2023-04-04T14:35:44-07:00",
+      "position": 3,
+      "updated_at": "2023-04-04T14:35:45-07:00",
+      "product_id": 6805104132298,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWaistPackInkTeal_I2A5O-TBGF-502.jpg?v=1680644145",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWaistPackInkTealI2A5O-TBGF.140_050b8460-8b26-4b3e-a48b-325e1918b3f3.jpg?v=1680644146",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

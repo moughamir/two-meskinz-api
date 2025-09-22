@@ -1,0 +1,67 @@
+{
+  "id": 7785349546151,
+  "title": "Brand: CompuCablePlusUSA / Part #: MRJ-L6U-100BLK",
+  "handle": "eh4445153",
+  "body_html": "<br><strong>Item #: </strong>90223520<br><strong>Brand: </strong>CompuCablePlusUSA<br><strong>Model #: </strong>MRJ-L6U-100BLK<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wire Type</strong>\n</td>\n<td>Cat6</td>\n</tr>\n<tr>\n<td><strong>Wire Size</strong></td>\n<td>24.000</td>\n</tr>\n<tr>\n<td><strong>Shield Type</strong></td>\n<td>Unshielded</td>\n</tr>\n<tr>\n<td><strong>Transmission Speed</strong></td>\n<td>550 MHz</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Feet)</strong></td>\n<td>100</td>\n</tr>\n<tr>\n<td><strong>Insulation Material</strong></td>\n<td>PVC</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter</strong></td>\n<td>6.1000</td>\n</tr>\n<tr>\n<td><strong>Number Of Wires</strong></td>\n<td>8.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Operating Temperature C</strong></td>\n<td>-20.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Operating Temperature C</strong></td>\n<td>60.00</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:23:41-06:00",
+  "created_at": "2023-12-28T18:23:41-06:00",
+  "updated_at": "2025-09-22T10:55:39-05:00",
+  "vendor": "CompuCablePlusUSA",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Wire & Cable"
+  ],
+  "variants": [
+    {
+      "id": 43703657562279,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90223520",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "103.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785349546151,
+      "created_at": "2023-12-28T18:23:42-06:00",
+      "updated_at": "2025-09-22T10:55:39-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236757721255,
+      "created_at": "2025-02-03T17:52:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:59-06:00",
+      "product_id": 7785349546151,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9022648-21_a1eb5d18-2364-4a1a-b2dc-3ed2607e06b3.jpg?v=1738626779",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 103.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9022648-21_a1eb5d18-2364-4a1a-b2dc-3ed2607e06b3.jpg?v=1738626779",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "CompuCablePlusUSA",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

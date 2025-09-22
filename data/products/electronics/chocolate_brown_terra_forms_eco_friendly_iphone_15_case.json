@@ -1,0 +1,109 @@
+{
+  "id": 8299249664088,
+  "title": "Chocolate Brown Terra Forms iPhone 15 Case",
+  "handle": "chocolate-brown-terra-forms-eco-friendly-iphone-15-case",
+  "body_html": "<p><meta charset=\"utf-8\">Inspired by earth’s natural textures, <em data-start=\"1797\" data-end=\"1810\">Terra Forms</em> blends organic shapes and earthy tones into a case that feels both wild and artistic. Whether you love abstract art or just want to channel the beauty of nature, this compostable case makes a bold statement without waste.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:18:08-04:00",
+  "created_at": "2025-02-26T10:04:02-05:00",
+  "updated_at": "2025-09-22T15:14:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Terra Forms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697339502680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16999-IP15-CHOBROWN-AOD:TERRA-FORMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299249664088,
+      "created_at": "2025-02-26T10:04:02-05:00",
+      "updated_at": "2025-09-22T15:14:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599136231512,
+      "created_at": "2025-02-26T10:04:02-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:04-05:00",
+      "product_id": 8299249664088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_IP15_ChocolateBrown.jpg?v=1740582244",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672189767768,
+      "created_at": "2025-03-11T16:12:53-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:12:55-04:00",
+      "product_id": 8299249664088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP2_d0aa5089-27af-4fbf-8240-d3690f369a99.jpg?v=1741723975",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672189833304,
+      "created_at": "2025-03-11T16:12:53-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T16:12:55-04:00",
+      "product_id": 8299249664088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP1_bec82816-35d5-4dea-8a8e-d801f01e190c.jpg?v=1741723975",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34672189735000,
+      "created_at": "2025-03-11T16:12:53-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T16:12:55-04:00",
+      "product_id": 8299249664088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TerraForms_PDP3_e7def8eb-d2bf-428a-b99b-96004e9104d9.jpg?v=1741723975",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TERRA-FORMS_IP15_ChocolateBrown.jpg?v=1740582244",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

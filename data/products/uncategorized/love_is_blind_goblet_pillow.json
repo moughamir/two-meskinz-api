@@ -1,0 +1,89 @@
+{
+  "id": 7839490146351,
+  "title": "Love is Blind Goblet Pillow",
+  "handle": "love-is-blind-goblet-pillow",
+  "body_html": "<p>Celebrate romance with the <em>Love is Blind</em> Goblet Pillow! This unique pillow features a whimsical design inspired by the show's iconic goblet, making it a perfect addition for fans of the series. Ideal for cozy nights in or as a fun accent piece in your living space, it's a charming way to showcase your love for the journey of finding connection!</p><ul>\n<li>100% soft polyester</li>\n<li>Thickness 3\"–5\" (7.6–12.7 cm)</li>\n<li>Sealed without zipper</li>\n<li>Spot wash with warm water</li>\n</ul>",
+  "published_at": "2024-10-30T12:56:36-04:00",
+  "created_at": "2024-09-24T04:16:35-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Pillows",
+  "tags": [
+    "80996601",
+    "CSP",
+    "Home & Office",
+    "home and office",
+    "Love is Blind",
+    "new",
+    "NF-20-0924",
+    "Pillows",
+    "Promo Eligible Collection",
+    "unisex",
+    "us only",
+    "Valentines Day"
+  ],
+  "variants": [
+    {
+      "id": 43260992782383,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LIB-101791-0003-LB-GLSP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7839490146351,
+      "created_at": "2024-09-24T04:16:35-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34895844409391,
+      "created_at": "2024-10-30T12:54:03-04:00",
+      "position": 1,
+      "updated_at": "2024-10-30T12:54:04-04:00",
+      "product_id": 7839490146351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-Pillow1.png?v=1730307244",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34895844376623,
+      "created_at": "2024-10-30T12:54:03-04:00",
+      "position": 2,
+      "updated_at": "2024-10-30T12:54:04-04:00",
+      "product_id": 7839490146351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-Pillow3.png?v=1730307244",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/LIB-Pillow1.png?v=1730307244",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pillows",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

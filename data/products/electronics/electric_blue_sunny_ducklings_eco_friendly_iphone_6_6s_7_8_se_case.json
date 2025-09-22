@@ -1,0 +1,108 @@
+{
+  "id": 8320082772056,
+  "title": "Electric Blue Sunny Ducklings iPhone 6/6s/7/8/SE Case",
+  "handle": "electric-blue-sunny-ducklings-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Quack open a smile every time you pick up your phone! The <em data-start=\"100\" data-end=\"117\">Sunny Ducklings</em> Phone Case is covered in bright yellow duckies paddling across a cheerful blue background, bringing major feel-good, pond-side vibes. It’s playful, punchy, and guaranteed to add a splash of joy to your day. <meta charset=\"utf-8\">🦆<meta charset=\"utf-8\">💙</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:24:44-04:00",
+  "created_at": "2025-03-20T10:50:44-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunny Ducklings",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756161831000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32515-IP7-ELEBLUE-AOD:SUNNY-DUCKLINGS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320082772056,
+      "created_at": "2025-03-20T10:50:44-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722016821336,
+      "created_at": "2025-03-20T10:50:44-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:46-04:00",
+      "product_id": 8320082772056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_IP7_ElectricBlue.jpg?v=1742482246",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34813934731352,
+      "created_at": "2025-04-10T09:27:58-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T09:28:01-04:00",
+      "product_id": 8320082772056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_c6bb6fa1-ba60-4d61-9ce1-e56622b1baef.jpg?v=1744291681",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813934698584,
+      "created_at": "2025-04-10T09:27:58-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T09:28:01-04:00",
+      "product_id": 8320082772056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_8ba20dd7-5754-473c-a2cc-4299cdd6b93a.jpg?v=1744291681",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813934665816,
+      "created_at": "2025-04-10T09:27:58-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T09:28:01-04:00",
+      "product_id": 8320082772056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_39fe88fc-1f89-4743-837a-896f6828098e.jpg?v=1744291681",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_IP7_ElectricBlue.jpg?v=1742482246",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

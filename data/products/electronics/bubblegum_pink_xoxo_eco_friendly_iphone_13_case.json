@@ -1,0 +1,120 @@
+{
+  "id": 8216569053272,
+  "title": "Bubblegum Pink XOXO iPhone 13 Case",
+  "handle": "bubblegum-pink-xoxo-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Pucker up for style with the XOXO Phone Case from our <em>Amour Collection</em>! Covered in bold red and pink lips, this case is the ultimate love note for your phone. Playful, flirty, and irresistibly cute, it’s perfect for spreading kisses and good vibes everywhere you go. <meta charset=\"utf-8\">💋❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:17:11-05:00",
+  "created_at": "2024-12-16T10:52:36-05:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:XOXO",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469061722200,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16699-IP13-BUBPINK-AOD:XOXO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216569053272,
+      "created_at": "2024-12-16T10:52:36-05:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130698600536,
+      "created_at": "2024-12-16T10:52:36-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:38-05:00",
+      "product_id": 8216569053272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_IP13_BubblegumPink.jpg?v=1734364358",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34214792200280,
+      "created_at": "2025-01-03T10:20:56-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T10:20:58-05:00",
+      "product_id": 8216569053272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP1_bdf8af0e-ed96-4873-a3b9-da2da0202926.jpg?v=1735917658",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214792101976,
+      "created_at": "2025-01-03T10:20:56-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T10:20:57-05:00",
+      "product_id": 8216569053272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP2_68a505a9-e53f-4798-882b-331551be1650.jpg?v=1735917657",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214792134744,
+      "created_at": "2025-01-03T10:20:56-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T10:20:58-05:00",
+      "product_id": 8216569053272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP3_97f4ce51-e5a4-4183-91e2-acfda6b127a9.jpg?v=1735917658",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34214792167512,
+      "created_at": "2025-01-03T10:20:56-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T10:20:58-05:00",
+      "product_id": 8216569053272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_PDP4_df975f8f-4c5b-4403-8350-3611cb3336fd.jpg?v=1735917658",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/XOXO_IP13_BubblegumPink.jpg?v=1734364358",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

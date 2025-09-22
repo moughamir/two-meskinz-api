@@ -1,0 +1,87 @@
+{
+  "id": 8422858064100,
+  "title": "APlusLift 4-Post Car Lift Power Unit Contactor",
+  "handle": "apluslift-4-post-car-lift-power-unit-contactor",
+  "body_html": "<h3>One power unit contactor for 4-post car lifts, 110V or 220V. Please check the voltage of your product and choose the corresponding contactor.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2024-06-20T17:35:25-07:00",
+  "created_at": "2024-06-20T17:33:30-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "4-Post Lifts and Jacks Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330143084772,
+      "title": "110V Contactor",
+      "option1": "110V Contactor",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "60.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8422858064100,
+      "created_at": "2024-06-20T17:33:30-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330152718564,
+      "title": "220V Contactor",
+      "option1": "220V Contactor",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "60.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 8422858064100,
+      "created_at": "2024-06-20T17:37:13-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891443204254,
+      "created_at": "2020-11-01T16:19:29-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:19:49-08:00",
+      "product_id": 8422858064100,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-power-unit-contractor.jpg?v=1604276389",
+      "width": 1080,
+      "height": 1440
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "110V Contactor",
+        "220V Contactor"
+      ]
+    }
+  ],
+  "price": 60,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-power-unit-contractor.jpg?v=1604276389",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

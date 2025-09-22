@@ -1,0 +1,67 @@
+{
+  "id": 7786170351783,
+  "title": "Brand: Norgren / Part #: ASJ-FNGRTP-10",
+  "handle": "eh2800183",
+  "body_html": "<br><strong>Item #: </strong>20626610<br><strong>Brand: </strong>Norgren<br><strong>Model #: </strong>ASJ-FNGRTP-10<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Step Height/Clearance (mm)</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr>\n<td><strong>Weight (Oz)</strong></td>\n<td>1.216</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Annealed AISI 4140 Alloy Steel</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T12:46:30-06:00",
+  "created_at": "2023-12-29T12:46:30-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "Norgren",
+  "product_type": "Clamping; Workholding & Positioning",
+  "tags": [
+    "Adaptive Workholding Systems & Components"
+  ],
+  "variants": [
+    {
+      "id": 43707123138727,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "20626610",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786170351783,
+      "created_at": "2023-12-29T12:46:30-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238002479271,
+      "created_at": "2025-02-03T18:32:24-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:32:26-06:00",
+      "product_id": 7786170351783,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2062661-21.jpg?v=1738629146",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/2062661-21.jpg?v=1738629146",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norgren",
+  "category": "Clamping; Workholding & Positioning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 8444700524632,
+  "title": "Seashell Rococo Romance iPhone 17 Case",
+  "handle": "seashell-rococo-romance-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\">Fit for a royal rendezvous, the Rococo Romance Phone Case is a maximalist love letter to the lavish and the lovely. With pastel palace scenes, vintage cameos, handwritten letters, and overflowing florals, it’s like stepping into an 18th-century daydream. Baroque? More like baroquely fabulous.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:32:01-04:00",
+  "created_at": "2025-08-08T11:51:32-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Rococo Revival",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Rococo Romance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184261529688,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:ROCOCO-ROMANCE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444700524632,
+      "created_at": "2025-09-03T18:53:05-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184261562456,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:ROCOCO-ROMANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444700524632,
+      "created_at": "2025-09-03T18:53:05-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567291334744,
+      "created_at": "2025-08-08T11:51:33-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:35-04:00",
+      "product_id": 8444700524632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-ROMANCE_IP17_Seashell.jpg?v=1754668295",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34986589814872,
+      "created_at": "2025-05-08T05:13:50-04:00",
+      "position": 2,
+      "updated_at": "2025-05-08T05:13:57-04:00",
+      "product_id": 8444700524632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Friends_PDP_1x1_01_96199643-a36f-4288-9e69-2d9b743d46af.jpg?v=1746695637",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986589978712,
+      "created_at": "2025-05-08T05:13:50-04:00",
+      "position": 3,
+      "updated_at": "2025-05-08T05:13:57-04:00",
+      "product_id": 8444700524632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Android_PDP_1x1_03_c0e2d441-9e8a-435d-94da-c9cb6a36c29a.jpg?v=1746695637",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986589945944,
+      "created_at": "2025-05-08T05:13:50-04:00",
+      "position": 4,
+      "updated_at": "2025-05-08T05:13:57-04:00",
+      "product_id": 8444700524632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_Grid_PDP_1x1_04_56b9ecbf-86e9-401f-b1e6-a55a2dd2a513.jpg?v=1746695637",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34986590011480,
+      "created_at": "2025-05-08T05:13:50-04:00",
+      "position": 5,
+      "updated_at": "2025-05-08T05:13:57-04:00",
+      "product_id": 8444700524632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RococoRevival_Render_Group_IPADGrid_PDP_1x1_05_1b4c6e3a-e8bb-4105-bd36-a358aba8907e.jpg?v=1746695637",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ROCOCO-ROMANCE_IP17_Seashell.jpg?v=1754668295",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

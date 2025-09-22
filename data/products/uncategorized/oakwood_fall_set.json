@@ -1,0 +1,94 @@
+{
+  "id": 7531119149165,
+  "title": "Oakwood Fall Set",
+  "handle": "oakwood-fall-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">This set includes two premium scents, Anthropologie’s Honeycrisp Oakwood and Aromatique’s Sparkling Currant, and a Pura 4TM smart fragrance diffuser.</p>",
+  "published_at": "2024-09-03T16:27:35-06:00",
+  "created_at": "2024-09-03T15:50:35-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Box",
+  "tags": [
+    "900-02857",
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Anthropologie",
+    "Brand:Aromatique",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Pura 4",
+    "remove-klevu",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_honeycrispoakwood"
+  ],
+  "variants": [
+    {
+      "id": 41810132500589,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02857",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "84.98",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7531119149165,
+      "created_at": "2024-09-03T15:50:35-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32922297860205,
+      "created_at": "2024-09-03T15:58:51-06:00",
+      "position": 1,
+      "updated_at": "2024-09-03T15:58:53-06:00",
+      "product_id": 7531119149165,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BlackBox-OakwoodFallSet-HoneycrispOakwood-SparklingCurrant-Prod1-0724.jpg?v=1725400733",
+      "width": 3674,
+      "height": 4898
+    },
+    {
+      "id": 32922297827437,
+      "created_at": "2024-09-03T15:58:51-06:00",
+      "position": 2,
+      "updated_at": "2024-09-03T15:58:53-06:00",
+      "product_id": 7531119149165,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BlackBox-OakwoodFallSet-HoneycrispOakwood-SparklingCurrant-Prod2-0724.jpg?v=1725400733",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 84.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BlackBox-OakwoodFallSet-HoneycrispOakwood-SparklingCurrant-Prod1-0724.jpg?v=1725400733",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

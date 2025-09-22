@@ -1,0 +1,109 @@
+{
+  "id": 8397884751960,
+  "title": "Seashell Whimsy Shapes iPhone 14/16e Case",
+  "handle": "seashell-whimsy-shapes-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Let your imagination run wild with the Whimsy Shapes Phone Case—a fruity, funky playground for your phone! 🎨✨ This design is a burst of carefree creativity, filled with smiling strawberries, polka-dot cherries, juicy watermelon slices, and groovy blobs that look like they just jumped off a crayon-colored page.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:23:23-04:00",
+  "created_at": "2025-06-10T10:31:37-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Whimsy Shapes",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939110916184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:WHIMSY-SHAPES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397884751960,
+      "created_at": "2025-06-10T10:31:37-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200270303320,
+      "created_at": "2025-06-10T10:31:37-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:39-04:00",
+      "product_id": 8397884751960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_IP14_Seashell.jpg?v=1749565899",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288784371800,
+      "created_at": "2025-06-24T14:43:30-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:43:30-04:00",
+      "product_id": 8397884751960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f58901c1e1fb02fc71a6ee78eed8ce98_052dbf05-e142-4b61-ad76-bf6405c2e649.jpg?v=1750790610",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288784699480,
+      "created_at": "2025-06-24T14:43:32-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:43:32-04:00",
+      "product_id": 8397884751960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/60e5886697f117a4a4b6288d9eace679_774fd4af-4416-43b0-bc37-b5a6970ee9cf.jpg?v=1750790612",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35288784994392,
+      "created_at": "2025-06-24T14:43:33-04:00",
+      "position": 4,
+      "updated_at": "2025-06-24T14:43:33-04:00",
+      "product_id": 8397884751960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70e0d083a0a3cecbb933febe04f6c5e9_1debaa1e-8976-4589-a91f-8ccf86c4bb1e.jpg?v=1750790613",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WHIMSY-SHAPES_IP14_Seashell.jpg?v=1749565899",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

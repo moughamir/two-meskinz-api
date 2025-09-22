@@ -1,0 +1,98 @@
+{
+  "id": 8385758724184,
+  "title": "London Fog Magical Narwhal iPhone 13 Mini Case",
+  "handle": "london-fog-magical-narwhal-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to your new favorite unicorns of the sea! The Magical Narwhal Phone Case features a pod of majestic, tusk-twirling narwhals swimming across a soft neutral background in striking ocean blue. It’s a playful nod to nature’s most mysterious marine marvel—perfect for dreamers, deep-sea fans, and anyone who believes a little magic belongs in everyday life. 🐋🦄💫</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:26:03-04:00",
+  "created_at": "2025-05-27T09:18:43-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Magical Narwhal",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908179923032,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16625-IP13MINI-LFOG-AOD:MAGICAL-NARWHAL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385758724184,
+      "created_at": "2025-05-27T09:18:43-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101694951512,
+      "created_at": "2025-05-27T09:18:43-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:45-04:00",
+      "product_id": 8385758724184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAGICAL-NARWHAL_IP13MINI_LondonFog.jpg?v=1748351925",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102101176408,
+      "created_at": "2025-05-27T11:09:09-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:09:09-04:00",
+      "product_id": 8385758724184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/73cfee776d09c93b9279a681f8938af6_da40dc9d-8e7f-47b8-ad13-d48f5b06efdb.jpg?v=1748358549",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102101864536,
+      "created_at": "2025-05-27T11:09:11-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:09:11-04:00",
+      "product_id": 8385758724184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/724ee9e9da084e454809069eff2a37ec_6ca2ff17-a368-4254-b785-1b82e8c86cc3.jpg?v=1748358551",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAGICAL-NARWHAL_IP13MINI_LondonFog.jpg?v=1748351925",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

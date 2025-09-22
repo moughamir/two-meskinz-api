@@ -1,0 +1,127 @@
+{
+  "id": 6572752207960,
+  "title": "London Fog Samsung S21 Phone Case",
+  "handle": "london-fog-samsung-s21-eco-friendly-phone-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T09:53:33-04:00",
+  "created_at": "2021-04-01T11:15:04-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39331235037272,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13500-S21-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6572752207960,
+      "created_at": "2021-04-01T11:15:05-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28163712188504,
+      "created_at": "2021-05-03T16:13:45-04:00",
+      "position": 1,
+      "updated_at": "2021-05-03T16:13:46-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/S21_LONDONFOG_BACK.jpg?v=1620072826",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163712155736,
+      "created_at": "2021-05-03T16:13:45-04:00",
+      "position": 2,
+      "updated_at": "2021-05-03T16:13:46-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/S21_LONDONFOG_45L.jpg?v=1620072826",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163712221272,
+      "created_at": "2021-05-03T16:13:45-04:00",
+      "position": 3,
+      "updated_at": "2021-05-03T16:13:47-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/S21_LONDONFOG_45R.jpg?v=1620072827",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28346226114648,
+      "created_at": "2021-06-28T15:18:00-04:00",
+      "position": 4,
+      "updated_at": "2021-06-28T15:18:01-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog1_039b1e5d-839c-4211-ae0e-2ffe22be747b.jpg?v=1624907881",
+      "width": 1108,
+      "height": 1100
+    },
+    {
+      "id": 28346226081880,
+      "created_at": "2021-06-28T15:18:00-04:00",
+      "position": 5,
+      "updated_at": "2021-06-28T15:18:01-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog2_c9283e2e-dd47-4c99-b4b1-e539849f769f.jpg?v=1624907881",
+      "width": 884,
+      "height": 884
+    },
+    {
+      "id": 28346226147416,
+      "created_at": "2021-06-28T15:18:00-04:00",
+      "position": 6,
+      "updated_at": "2021-06-28T15:18:02-04:00",
+      "product_id": 6572752207960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog3_e4349780-8909-4150-af91-ff92906e7414.jpg?v=1624907882",
+      "width": 948,
+      "height": 948
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/S21_LONDONFOG_BACK.jpg?v=1620072826",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

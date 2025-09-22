@@ -1,0 +1,108 @@
+{
+  "id": 8159693078616,
+  "title": "Seashell Holiday Bows iPhone 12/ iPhone 12 Pro Case",
+  "handle": "seashell-holiday-bows-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:17:52-04:00",
+  "created_at": "2024-10-16T10:40:36-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333271556184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16461-IP12-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159693078616,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799054590040,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:36-04:00",
+      "product_id": 8159693078616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP12_Seashell.jpg?v=1729089636",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838764064856,
+      "created_at": "2024-10-22T11:43:45-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T11:43:46-04:00",
+      "product_id": 8159693078616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_71a974ab-ae5a-4b46-af09-456d7ab9edc0.jpg?v=1729611826",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838764130392,
+      "created_at": "2024-10-22T11:43:45-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T11:43:46-04:00",
+      "product_id": 8159693078616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_7b84474c-093b-4453-88a8-59a8e4faea71.jpg?v=1729611826",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838764097624,
+      "created_at": "2024-10-22T11:43:45-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:43:46-04:00",
+      "product_id": 8159693078616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_98d335b9-7a24-4189-bb19-5f0fbcb23b77.jpg?v=1729611826",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP12_Seashell.jpg?v=1729089636",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

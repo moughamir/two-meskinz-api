@@ -1,0 +1,87 @@
+{
+  "id": 8267596955736,
+  "title": "London Fog Crimson Veil iPhone 13 Mini Case",
+  "handle": "london-fog-crimson-veil-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Elegance meets a touch of mystery with the <strong>Crimson Veil Phone Case</strong>. Featuring an intricate floral lace pattern in deep crimson, this design is all about romance, drama, and vintage charm. Whether you're feeling bold or just love a little extra flair, this case makes every text and call feel like a love letter. 🌹📱<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-20T09:20:31-05:00",
+  "created_at": "2025-01-27T13:58:37-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Noir Romance",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Crimson Veil",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42597365055576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16625-IP13MINI-LFOG-AOD:CRIMSON-VEIL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8267596955736,
+      "created_at": "2025-01-27T13:58:37-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34373306679384,
+      "created_at": "2025-01-27T13:58:37-05:00",
+      "position": 1,
+      "updated_at": "2025-01-27T13:58:39-05:00",
+      "product_id": 8267596955736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-VEIL_IP13MINI_LondonFog.jpg?v=1738004319",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34537502998616,
+      "created_at": "2025-02-18T15:15:19-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T15:15:20-05:00",
+      "product_id": 8267596955736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSONVEIL_PDP1_f894ab9e-6885-4c4a-b802-67b0c1295f19.jpg?v=1739909720",
+      "width": 4466,
+      "height": 4466
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CRIMSON-VEIL_IP13MINI_LondonFog.jpg?v=1738004319",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

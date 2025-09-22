@@ -1,0 +1,110 @@
+{
+  "id": 6873675759725,
+  "title": "White Tea No. 1",
+  "handle": "white-tea-no-1-car",
+  "body_html": "<div class=\"shogun-root\" data-shogun-id=\"6499fe220d804000f42447f3\" data-shogun-site-id=\"5ff7a6a1-dcbb-430f-99fa-5e7636e2e3a7\" data-shogun-page-id=\"6499fe220d804000f42447f3\" data-shogun-page-version-id=\"6499fe220d804000f42447f2\" data-shogun-platform-type=\"shopify\" data-shogun-variant-id=\"6499fe220d804000f42447f4\" data-shogun-page-type=\"product\" data-shogun-power-up-type=\"\" data-shogun-power-up-id=\"\" data-region=\"main\"> <div id=\"s-cdf9373b-875b-439d-a624-8abe7a4b793f\" class=\"shg-c \"> <div class=\"shogun-root\" data-shogun-id=\"600f40b8d986a30077ace878\" data-shogun-site-id=\"5ff7a6a1-dcbb-430f-99fa-5e7636e2e3a7\" data-shogun-page-id=\"600f40b8d986a30077ace878\" data-shogun-page-version-id=\"6160c04b306f2100d803a06f\" data-shogun-platform-type=\"shopify\" data-shogun-variant-id=\"6160c04b306f2100d803a1c5\" data-region=\"main\"> <script defer src=\"https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js\" type=\"text/javascript\"></script><div class=\"shg-box-vertical-align-wrapper\"><div class=\"shg-box shg-c\" id=\"s-4a0d6aea-24e1-49aa-b753-a0669ab37be6\"> <div class=\"shg-box-overlay\"></div> <div class=\"shg-box-content\"> <div id=\"s-4fec3aa5-db91-455f-adc3-2cba8edaac4b\" class=\"shg-c shg-align-center\"><div class=\"shogun-heading-component\"><h4></h4></div></div> <div id=\"s-fb5cb3f6-1a23-44ca-bbfc-5408d4f09f23\" class=\"shg-c\"><div class=\"shogun-accordion-wrapper\" data-multi=\"\"><div class=\"shogun-accordion\"><div class=\"shogun-accordion-body\"><div id=\"s-e984986f-a57f-4722-b49c-33d9f284a8fa\" class=\"shg-c\"><div class=\"shg-rich-text shg-theme-text-content\"></div></div></div></div></div></div> </div> </div></div> </div> </div> </div>",
+  "published_at": "2024-03-29T15:10:10-06:00",
+  "created_at": "2022-08-18T15:44:53-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "collection:Car",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Clean",
+    "Scent Type_Citrus",
+    "Strength_Subtle",
+    "type_CarFragrance",
+    "White Tea No. 1 Car",
+    "YCRF_carfragrances",
+    "YGroup_WhiteTeaCar"
+  ],
+  "variants": [
+    {
+      "id": 40274275795053,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WHTC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "14.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6873675759725,
+      "created_at": "2022-08-18T15:44:54-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30007271063661,
+      "created_at": "2023-04-04T17:06:20-06:00",
+      "position": 1,
+      "updated_at": "2023-04-04T17:06:22-06:00",
+      "product_id": 6873675759725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_1_4ce959b0-8912-474f-92d8-43b28d8e0996.png?v=1680649582",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33462752510061,
+      "created_at": "2024-12-16T11:26:41-07:00",
+      "position": 2,
+      "updated_at": "2024-12-16T11:26:53-07:00",
+      "product_id": 6873675759725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/jasmine-resized_8dcf23d6-7918-4834-b259-a2316cd11609.jpg?v=1734373613",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33463182065773,
+      "created_at": "2024-12-16T14:27:41-07:00",
+      "position": 3,
+      "updated_at": "2024-12-16T14:27:44-07:00",
+      "product_id": 6873675759725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WhiteTea-Car-Pura-LaunchImages-PDP-2.png?v=1734384464",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33463182098541,
+      "created_at": "2024-12-16T14:27:41-07:00",
+      "position": 4,
+      "updated_at": "2024-12-16T14:27:43-07:00",
+      "product_id": 6873675759725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WhiteTea-Car-Pura-LaunchImages-PDP.png?v=1734384463",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 14.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/products/Prod_1_4ce959b0-8912-474f-92d8-43b28d8e0996.png?v=1680649582",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

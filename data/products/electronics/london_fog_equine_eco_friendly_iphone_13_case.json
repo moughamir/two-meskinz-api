@@ -1,0 +1,99 @@
+{
+  "id": 7938733604952,
+  "title": "London Fog Equine iPhone 13 Case",
+  "handle": "london-fog-equine-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Gallop into style with the Equine Phone Case by Pela! Adorned with elegant sketches of majestic horses, this case brings the spirit of the stables right to your fingertips. Perfect for horse lovers and equestrian enthusiasts alike, this case adds a touch of equine charm and sustainability to your everyday adventures. 🐎📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-13T09:14:40-04:00",
+  "created_at": "2024-05-31T12:29:37-04:00",
+  "updated_at": "2025-09-22T15:16:04-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Equine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41779597770840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16690-IP13-LFOG-AOD:EQUINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7938733604952,
+      "created_at": "2024-05-31T12:29:37-04:00",
+      "updated_at": "2025-09-22T15:16:04-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33010138579032,
+      "created_at": "2024-05-31T12:29:37-04:00",
+      "position": 1,
+      "updated_at": "2024-05-31T12:29:37-04:00",
+      "product_id": 7938733604952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_IP13_LondonFog.jpg?v=1717172977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079163060312,
+      "created_at": "2024-06-11T13:53:49-04:00",
+      "position": 2,
+      "updated_at": "2024-06-11T13:53:50-04:00",
+      "product_id": 7938733604952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_LFOG-1-1_eb365e58-0e30-42cb-953e-40dbaf94ca44.jpg?v=1718128430",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079163093080,
+      "created_at": "2024-06-11T13:53:49-04:00",
+      "position": 3,
+      "updated_at": "2024-06-11T13:53:50-04:00",
+      "product_id": 7938733604952,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_LFOG-1-2_0e72f1e9-98b5-4c82-a7dc-7823e01e7f8e.jpg?v=1718128430",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUINE_IP13_LondonFog.jpg?v=1717172977",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

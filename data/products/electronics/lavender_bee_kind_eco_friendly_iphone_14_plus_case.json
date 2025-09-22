@@ -1,0 +1,76 @@
+{
+  "id": 7364915134552,
+  "title": "Lavender Bee Kind iPhone 14 Plus Case",
+  "handle": "lavender-bee-kind-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Spread a little love and a lot of kindness with the Bee Kind Phone Case! <meta charset=\"utf-8\">🐝 This charming case in a soothing lavender hue features a simple yet powerful message: \"bee kind.\" Perfect for those who believe in the power of positivity and gentle reminders, this case not only protects your phone but also brightens your day with every glance. Let this adorable design inspire you and others to cultivate compassion and empathy. Show off your sweet side and buzz into a world of kindness with the Bee Kind Phone Case! 🌸💜</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T06:57:15-04:00",
+  "created_at": "2023-06-08T14:13:40-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Quotes",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bee Kind",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40236288999512,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16942-IP14PLUS-LAV-AOD:BEE-KIND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7364915134552,
+      "created_at": "2023-06-08T14:13:40-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30284967936088,
+      "created_at": "2023-06-08T14:13:40-04:00",
+      "position": 1,
+      "updated_at": "2023-06-08T14:13:40-04:00",
+      "product_id": 7364915134552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BEE-KIND_IP14PLUS_Lavender.jpg?v=1686248020",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/BEE-KIND_IP14PLUS_Lavender.jpg?v=1686248020",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

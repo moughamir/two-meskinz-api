@@ -1,0 +1,101 @@
+{
+  "id": 7838953439279,
+  "title": "Stranger Things Hawkins High School 20 oz. Stainless Steel Tumbler",
+  "handle": "stranger-things-hawkins-high-school-20-oz-stainless-steel-tumbler",
+  "body_html": "<p>Stay refreshed and channel your inner student at Hawkins High with the Stranger Things Hawkins High School 20 oz. Stainless Steel Tumbler! Designed with a sleek silhouette and the iconic school logo, this insulated tumbler features an easy-to-sip straw, perfect for on-the-go adventures. Hydrate like a true resident of Hawkins while celebrating your favorite show—it's the ultimate accessory for fans ready to take on any challenge!</p><p><br></p><ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz (600 ml)</li>\n<li>Straw and lid included with the tumbler</li>\n<li>Glossy finish</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n<br>\n</ul>",
+  "published_at": "2024-10-08T09:56:07-04:00",
+  "created_at": "2024-09-23T04:39:36-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "80057281",
+    "Drinkware",
+    "Home & Office",
+    "home and office",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Tumblers"
+  ],
+  "variants": [
+    {
+      "id": 43259045445679,
+      "title": "20 oz",
+      "option1": "20 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101668-0001-ST-HWK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34806539059247,
+        "product_id": 7838953439279,
+        "position": 1,
+        "created_at": "2024-10-11T05:17:11-04:00",
+        "updated_at": "2024-10-11T05:17:11-04:00",
+        "alt": "Stranger Things Tumbler Cup",
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWK_101688_FT_MF_5bf21aaf-30d6-47e1-96cc-5f636f23ed97.jpg?v=1728638231",
+        "variant_ids": [
+          43259045445679
+        ]
+      },
+      "available": true,
+      "price": "36.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838953439279,
+      "created_at": "2024-09-23T04:39:37-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34806539059247,
+      "created_at": "2024-10-11T05:17:11-04:00",
+      "position": 1,
+      "updated_at": "2024-10-11T05:17:11-04:00",
+      "product_id": 7838953439279,
+      "variant_ids": [
+        43259045445679
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWK_101688_FT_MF_5bf21aaf-30d6-47e1-96cc-5f636f23ed97.jpg?v=1728638231",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34806539747375,
+      "created_at": "2024-10-11T05:17:19-04:00",
+      "position": 2,
+      "updated_at": "2024-10-11T05:17:19-04:00",
+      "product_id": 7838953439279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWK_101688_FT_MF2.jpg?v=1728638239",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "20 oz"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HWK_101688_FT_MF_5bf21aaf-30d6-47e1-96cc-5f636f23ed97.jpg?v=1728638231",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8299237015640,
+  "title": "London Fog Leaf Camo iPhone 11 Pro Case",
+  "handle": "london-fog-leaf-camo-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Disappear into the beauty of the wild with <em data-start=\"82\" data-end=\"93\">Leaf Camo Phone Case</em>! Featuring a lush, layered pattern of greenery, this case is perfect for those who feel most alive when they’re hiking through the trees, exploring forest trails, or simply bringing a touch of nature everywhere they go. Whether you're blending in or standing out, this design keeps your love for the outdoors right at your fingertips.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-20T09:14:00-04:00",
+  "created_at": "2025-02-26T09:57:28-05:00",
+  "updated_at": "2025-09-22T15:14:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Leaf Camo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697313124440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16032-IP11P-LFOG-AOD:LEAF-CAMO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299237015640,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "updated_at": "2025-09-22T15:14:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599088488536,
+      "created_at": "2025-02-26T09:57:28-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T09:57:30-05:00",
+      "product_id": 8299237015640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP11P_LondonFog.jpg?v=1740581850",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705939267672,
+      "created_at": "2025-03-17T14:28:01-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T14:28:02-04:00",
+      "product_id": 8299237015640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP1_8b77ff64-10ea-40ec-a77e-9c7712072e3a.jpg?v=1742236082",
+      "width": 3673,
+      "height": 3673
+    },
+    {
+      "id": 34705939136600,
+      "created_at": "2025-03-17T14:28:01-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T14:28:02-04:00",
+      "product_id": 8299237015640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP2_ce11ac58-41d8-45c8-ad0e-e1c2215ba2c5.jpg?v=1742236082",
+      "width": 3780,
+      "height": 3780
+    },
+    {
+      "id": 34705939103832,
+      "created_at": "2025-03-17T14:28:01-04:00",
+      "position": 4,
+      "updated_at": "2025-03-17T14:28:02-04:00",
+      "product_id": 8299237015640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LeafCamo_PDP3_e7d5fc5d-aadb-47d5-923b-2661d3058efb.jpg?v=1742236082",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-CAMO_IP11P_LondonFog.jpg?v=1740581850",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

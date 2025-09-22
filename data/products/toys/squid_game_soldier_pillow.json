@@ -1,0 +1,86 @@
+{
+  "id": 7839490900015,
+  "title": "Squid Game Soldier Pillow",
+  "handle": "squid-game-soldier-pillow",
+  "body_html": "<p>Add a unique twist to your decor with the<em> Squid Game</em> Worker Pillow! This plush pillow features the distinct design of the Soldier's Mask, making it a striking piece for fans of the series. Perfect for cozying up during a binge-watch session or displaying as a fun accent in your space, it's a must-have for anyone looking to celebrate the intense world of <em>Squid Game</em>!</p>\n<ul>\n<li>100% soft polyester</li>\n<li>Thickness 3\"–5\" (7.6–12.7 cm)</li>\n<li>Sealed without zipper</li>\n<li>Spot wash with warm water</li>\n</ul>",
+  "published_at": "2024-10-30T15:01:19-04:00",
+  "created_at": "2024-09-24T04:19:08-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Pillows",
+  "tags": [
+    "81040344",
+    "CSP",
+    "Home & Office",
+    "NF-20-0924",
+    "Pillows",
+    "Promo Eligible Collection",
+    "Squid Game",
+    "unisex",
+    "us only"
+  ],
+  "variants": [
+    {
+      "id": 43260993568815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "SG-101791-0002-SQG-TRNG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7839490900015,
+      "created_at": "2024-09-24T04:19:09-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34896247717935,
+      "created_at": "2024-10-30T14:46:31-04:00",
+      "position": 1,
+      "updated_at": "2024-10-30T14:46:33-04:00",
+      "product_id": 7839490900015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SquidgameE1500x2000DSC_4225.jpg?v=1730313993",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34895321563183,
+      "created_at": "2024-10-30T09:51:57-04:00",
+      "position": 2,
+      "updated_at": "2024-10-30T09:51:58-04:00",
+      "product_id": 7839490900015,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SG-Pillow18.png?v=1730296318",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SquidgameE1500x2000DSC_4225.jpg?v=1730313993",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Pillows",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

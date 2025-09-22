@@ -1,0 +1,118 @@
+{
+  "id": 7051712659565,
+  "title": "Texas",
+  "handle": "texas",
+  "body_html": "<p><strong>Leather</strong>, <strong>pine</strong>, and <strong>citrus</strong> combine to bring the big energy of the beautiful Lone Star State to your space.</p>",
+  "published_at": "2023-08-14T19:52:12-06:00",
+  "created_at": "2023-08-09T16:20:30-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Homesick",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Homesick",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_texas"
+  ],
+  "variants": [
+    {
+      "id": 40702266015853,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HTXH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712659565,
+      "created_at": "2023-08-09T16:20:30-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30573445644397,
+      "created_at": "2023-10-16T18:52:34-06:00",
+      "position": 1,
+      "updated_at": "2023-10-16T18:52:37-06:00",
+      "product_id": 7051712659565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HomesickTexas-resized_-3.jpg?v=1697503957",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30573445611629,
+      "created_at": "2023-10-16T18:52:34-06:00",
+      "position": 2,
+      "updated_at": "2023-10-16T18:52:42-06:00",
+      "product_id": 7051712659565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/leatherresized_fd312aa7-f8ed-483d-9312-db5b404c46e5.jpg?v=1697503962",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30573445578861,
+      "created_at": "2023-10-16T18:52:34-06:00",
+      "position": 3,
+      "updated_at": "2023-10-16T18:52:42-06:00",
+      "product_id": 7051712659565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Texas-Device-V4.jpg?v=1697503962",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30573445677165,
+      "created_at": "2023-10-16T18:52:34-06:00",
+      "position": 4,
+      "updated_at": "2023-10-16T18:52:42-06:00",
+      "product_id": 7051712659565,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HomesickTexas-resized.jpg?v=1697503962",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HomesickTexas-resized_-3.jpg?v=1697503957",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Homesick",
+  "category": "Fragrance",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5248136970407,
+  "title": "DNA32 Shrinkfit Collet Nut",
+  "handle": "00532390",
+  "body_html": "<br><strong>Item #: </strong>05968326<br><strong>Brand: </strong>Techniks<br><strong>Model #: </strong>05992<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Product Type</strong>\n</td>\n<td>Collet Nut</td>\n</tr>\n<tr> <td> <strong>Collet Series</strong>\n</td>\n<td>DNA32</td>\n</tr>\n<tr> <td> <strong>Thread Size</strong>\n</td>\n<td>M40x1.5</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23291900</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:41:06-06:00",
+  "created_at": "2020-05-27T18:51:15-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Techniks",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Points & Burrs",
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 34482919145639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05968326",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "77.22",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5248136970407,
+      "created_at": "2020-05-27T18:51:16-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242763899047,
+      "created_at": "2025-02-03T21:44:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:44:07-06:00",
+      "product_id": 5248136970407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0596832-21.jpg?v=1738640647",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 77.22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0596832-21.jpg?v=1738640647",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Techniks",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

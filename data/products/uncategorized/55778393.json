@@ -1,0 +1,67 @@
+{
+  "id": 8452502061223,
+  "title": "Air-Operated Diaphragm Pumps; Maximum Flow Rate (Gpm",
+  "handle": "55778393",
+  "body_html": "<br><strong>Item #: </strong>02367274<br><strong>Brand: </strong>SandPIPER<br><strong>Model #: </strong>S05B2P1TPNI000.<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Maximum Flow Rate (Gpm - 2 Decimals)</strong>\n</td>\n<td>14.00</td>\n</tr>\n<tr> <td> <strong>Maximum Working Pressure</strong>\n</td>\n<td>100.000</td>\n</tr>\n<tr> <td> <strong>Thread Type</strong>\n</td>\n<td>NPT</td>\n</tr>\n<tr> <td> <strong>Inlet Size</strong>\n</td>\n<td>0.5 in</td>\n</tr>\n<tr> <td> <strong>Cubic Feet Per Minute</strong>\n</td>\n<td>16 SCFM</td>\n</tr>\n<tr> <td> <strong>Diaphragm Material</strong>\n</td>\n<td>Santoprene</td>\n</tr>\n<tr> <td> <strong>Ball Material</strong>\n</td>\n<td>Santoprene</td>\n</tr>\n<tr> <td> <strong>Check Seat Material</strong>\n</td>\n<td>PTFE</td>\n</tr>\n<tr> <td> <strong>Height (Inch)</strong>\n</td>\n<td>10.62</td>\n</tr>\n<tr> <td> <strong>Width (Inch)</strong>\n</td>\n<td>11.76</td>\n</tr>\n<tr> <td> <strong>Length (Inch)</strong>\n</td>\n<td>7.13</td>\n</tr>\n<tr> <td> <strong>Port Type</strong>\n</td>\n<td>NPT</td>\n</tr>\n<tr> <td> <strong>Body Material</strong>\n</td>\n<td>Polypropylene</td>\n</tr>\n<tr> <td> <strong>Maximum Temperature (F) ( - 0 Decimals)</strong>\n</td>\n<td>180.000</td>\n</tr>\n<tr> <td> <strong>Maximum Solid Size (Inch)</strong>\n</td>\n<td>1/2</td>\n</tr>\n<tr> <td> <strong>Air Inlet Size (Inch)</strong>\n</td>\n<td>1/4</td>\n</tr>\n<tr> <td> <strong>Maximum Cubic Feet Per Minute (CFM)</strong>\n</td>\n<td>16.00</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40151548</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:31:36-06:00",
+  "created_at": "2025-01-23T08:31:35-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "SandPIPER",
+  "product_type": "Plumbing, Pumps & Filtration",
+  "tags": [
+    "Pumps"
+  ],
+  "variants": [
+    {
+      "id": 46497827291303,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02367274",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "3124.86",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452502061223,
+      "created_at": "2025-01-23T08:31:35-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241252016295,
+      "created_at": "2025-02-03T20:51:43-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T20:51:45-06:00",
+      "product_id": 8452502061223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0236539-21_8430cce0-f5d1-49c6-ad4f-0885d607aceb.jpg?v=1738637505",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 3124.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0236539-21_8430cce0-f5d1-49c6-ad4f-0885d607aceb.jpg?v=1738637505",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SandPIPER",
+  "category": "Plumbing, Pumps & Filtration",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

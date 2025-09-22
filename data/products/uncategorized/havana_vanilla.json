@@ -1,0 +1,121 @@
+{
+  "id": 7051707089005,
+  "title": "Havana Vanilla",
+  "handle": "havana-vanilla",
+  "body_html": "<p>Spice things up with Havana Vanilla! This delicious fragrance is filled with notes of <strong>vanilla</strong> and a hint of smoky <strong>tobacco</strong>, <strong>bergamot</strong>, and <strong>sandalwood</strong>.</p>",
+  "published_at": "2023-08-14T19:50:31-06:00",
+  "created_at": "2023-08-09T16:19:31-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Capri Blue",
+    "collection:Best Sellers",
+    "collection:Capri Blue",
+    "CollectionFilter_Vanilla",
+    "CollectionFilter_Warm & Cozy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Gourmand",
+    "Strength_Subtle",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_havanavanilla"
+  ],
+  "variants": [
+    {
+      "id": 40702259495021,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KAJH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707089005,
+      "created_at": "2023-08-09T16:19:32-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30813942677613,
+      "created_at": "2023-12-05T13:32:54-07:00",
+      "position": 1,
+      "updated_at": "2023-12-05T13:33:14-07:00",
+      "product_id": 7051707089005,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HavanaVanilla-Vertical-Resized.jpg?v=1701808394",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30813942710381,
+      "created_at": "2023-12-05T13:32:54-07:00",
+      "position": 2,
+      "updated_at": "2023-12-05T13:33:14-07:00",
+      "product_id": 7051707089005,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/VANILLA-RESIZED_26bbed06-efb2-42ff-a9e2-bff0733ff89a.jpg?v=1701808394",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30813942448237,
+      "created_at": "2023-12-05T13:32:54-07:00",
+      "position": 3,
+      "updated_at": "2023-12-05T13:33:14-07:00",
+      "product_id": 7051707089005,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Havana-Vanilla-Device-V4.jpg?v=1701808394",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30813942481005,
+      "created_at": "2023-12-05T13:32:54-07:00",
+      "position": 4,
+      "updated_at": "2023-12-05T13:33:14-07:00",
+      "product_id": 7051707089005,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HavanaVanilla-Overhead-Shadow-Resized.jpg?v=1701808394",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HavanaVanilla-Vertical-Resized.jpg?v=1701808394",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

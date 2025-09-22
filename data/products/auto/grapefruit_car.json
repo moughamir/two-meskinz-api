@@ -1,0 +1,111 @@
+{
+  "id": 7343733112941,
+  "title": "Grapefruit",
+  "handle": "grapefruit-car",
+  "body_html": "<p>Scent your drive with this iconic fragrance, featuring an exhilarating blend of <strong>pink pomelo</strong> <strong>grapefruit</strong> and <strong>watery green </strong>notes with lily of the valley and <strong>coriander blossom</strong>.</p>",
+  "published_at": "2024-05-15T10:27:36-06:00",
+  "created_at": "2024-04-23T14:14:01-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:NEST New York",
+    "collection:Car",
+    "collection:NEST New York",
+    "Group_Car",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_CarFragrance",
+    "YCRF_carfragrances",
+    "YCRF_grapefruitcar"
+  ],
+  "variants": [
+    {
+      "id": 41401761988717,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MXVC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7343733112941,
+      "created_at": "2024-04-23T14:14:01-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31745288110189,
+      "created_at": "2024-04-23T14:34:34-06:00",
+      "position": 1,
+      "updated_at": "2024-04-23T14:34:43-06:00",
+      "product_id": 7343733112941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestgrapefruit-resized-2.jpg?v=1713904483",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31745251311725,
+      "created_at": "2024-04-23T14:30:44-06:00",
+      "position": 2,
+      "updated_at": "2024-04-23T14:34:43-06:00",
+      "product_id": 7343733112941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/grapefruit-resized_f4718406-560e-4bea-bbfd-8ded3e3ed8fc.jpg?v=1713904483",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31745251606637,
+      "created_at": "2024-04-23T14:30:44-06:00",
+      "position": 3,
+      "updated_at": "2024-04-23T14:34:43-06:00",
+      "product_id": 7343733112941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Grapefruit-Nest-Car-Prod3-Mockup-0424.png?v=1713904483",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31745251278957,
+      "created_at": "2024-04-23T14:30:44-06:00",
+      "position": 4,
+      "updated_at": "2024-04-23T14:34:43-06:00",
+      "product_id": 7343733112941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestgrapefruit-resized-3.jpg?v=1713904483",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carnestgrapefruit-resized-2.jpg?v=1713904483",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

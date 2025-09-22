@@ -1,0 +1,68 @@
+{
+  "id": 5305612107943,
+  "title": "Brand: Race Sport / Part #: 1006709",
+  "handle": "77374973",
+  "body_html": "<br><strong>Item #: </strong>89798086<br><strong>Brand: </strong>Race Sport<br><strong>Model #: </strong>1006709<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>LED Headlight Conversion Kit</td>\n</tr>\n<tr>\n<td><strong>Base Type</strong></td>\n<td>880</td>\n</tr>\n<tr>\n<td><strong>Lumens per Pair</strong></td>\n<td>4748</td>\n</tr>\n<tr>\n<td><strong>Kelvin Scale/Color</strong></td>\n<td>6000K</td>\n</tr>\n<tr>\n<td><strong>Beam Type</strong></td>\n<td>Directional</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>12V DC</td>\n</tr>\n<tr>\n<td><strong>High Beam Wattage</strong></td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Low Beam Wattage</strong></td>\n<td>40</td>\n</tr>\n<tr>\n<td><strong>Chip Type</strong></td>\n<td>PHILIPS</td>\n</tr>\n<tr>\n<td><strong>Cooling Type</strong></td>\n<td>Fanless</td>\n</tr>\n<tr>\n<td><strong>Average Life Hours High</strong></td>\n<td>50000</td>\n</tr>\n<tr>\n<td><strong>DOT Certified</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Series: Terminator; LUX: 5614 RAW lx; Current Draw: 3.6 A; Feature: With Pin Point Projection Optical Aim</td>\n</tr>\n<tr>\n<td><strong>Ip Rating</strong></td>\n<td>IP67</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:57:44-06:00",
+  "created_at": "2020-06-09T08:10:38-05:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "Race Sport",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Electrical & Lighting",
+    "Band Saw Blades"
+  ],
+  "variants": [
+    {
+      "id": 34643668959399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "89798086",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5305612107943,
+      "created_at": "2020-06-09T08:10:39-05:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38111593267367,
+      "created_at": "2025-01-22T09:57:54-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:57:56-06:00",
+      "product_id": 5305612107943,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8980387-21_0ec2600f-7c58-4b52-8a58-874567e13cf1.jpg?v=1737561476",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8980387-21_0ec2600f-7c58-4b52-8a58-874567e13cf1.jpg?v=1737561476",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Race Sport",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

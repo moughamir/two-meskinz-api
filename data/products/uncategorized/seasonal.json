@@ -1,0 +1,154 @@
+{
+  "id": 7113545711725,
+  "title": "Seasonal",
+  "handle": "seasonal",
+  "body_html": "<p>Seasonal fragrances are part of our fall, winter, spring, and summer collections, flowing with the changing seasons as some of our most popular scents.</p>",
+  "published_at": "2023-12-01T10:21:57-07:00",
+  "created_at": "2023-10-23T13:20:56-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Gift",
+  "tags": [
+    "3 Month",
+    "900-02427",
+    "__automation:disable",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_holiday",
+    "YGroup_holiday"
+  ],
+  "variants": [
+    {
+      "id": 40778604445805,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02427",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "47.40",
+      "grams": 91,
+      "compare_at_price": "59.25",
+      "position": 1,
+      "product_id": 7113545711725,
+      "created_at": "2023-10-23T13:20:56-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805824434285,
+      "created_at": "2024-04-29T15:35:50-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SpringHome-CuratedSub-Prod1-0424-2.png?v=1714426552",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798297530477,
+      "created_at": "2023-12-01T15:27:29-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Seasonal-Hover-11-23_f5dbad98-02a4-4db5-b9de-3966b3b2b55c.png?v=1714426552",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744924651629,
+      "created_at": "2023-11-20T15:33:16-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/moodcast-festival-1-resized_9277a5c9-9e8a-40b8-97e6-23a3d669484b.jpg?v=1714426552",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30784996900973,
+      "created_at": "2023-11-29T13:28:19-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purajuicyacai-resized_9d6faccf-bd1b-4dff-afeb-6d1e5440abe4.jpg?v=1714426552",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31519096635501,
+      "created_at": "2024-03-29T13:17:09-06:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BrooklynCandleStudio-LovePotion-Vertical-Resized_ff6f43bc-a847-420a-a5fb-4ba4c0da58b0.jpg?v=1714426552",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31519101517933,
+      "created_at": "2024-03-29T13:18:36-06:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-RoseNoirandOud-Vertical-Resized2_c57c7fb5-5585-4720-974e-9880f562e00e.jpg?v=1714426552",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744924487789,
+      "created_at": "2023-11-20T15:33:11-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Champagne-Vertical-Resized_7c4c3764-140c-41a9-a13b-902b0ab759c7.jpg?v=1714426552",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744924553325,
+      "created_at": "2023-11-20T15:33:11-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:35:52-06:00",
+      "product_id": 7113545711725,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-Holiday-Vertical-Resized_c222f0c3-54d4-484e-8f07-4aad324ea6fe.jpg?v=1714426552",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 47.4,
+  "compare_at_price": 59.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SpringHome-CuratedSub-Prod1-0424-2.png?v=1714426552",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

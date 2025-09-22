@@ -1,0 +1,116 @@
+{
+  "id": 7052695961709,
+  "title": "Winter White",
+  "handle": "winter-white",
+  "body_html": "<p>Aromatic evergreen and frosted cypress are dusted with <strong>white peppercorn</strong>, spicy-cool <strong>cardamom</strong>, and a sparkling <strong>citrus</strong> nuance.</p>",
+  "published_at": "2023-08-14T19:52:39-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "ILLUME",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:ILLUME",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Romantic",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_winterwhite"
+  ],
+  "variants": [
+    {
+      "id": 40703042486381,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WTWH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695961709,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525508616301,
+      "created_at": "2023-09-28T17:58:55-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T18:00:17-06:00",
+      "product_id": 7052695961709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-WinterWhite-Vertical-Resized.jpg?v=1695945617",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525508911213,
+      "created_at": "2023-09-28T17:59:11-06:00",
+      "position": 2,
+      "updated_at": "2025-09-22T08:23:05-06:00",
+      "product_id": 7052695961709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/blond-woods-ingredients-2-RESIZED.jpg?v=1758550985",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525510320237,
+      "created_at": "2023-09-28T18:00:12-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T18:00:17-06:00",
+      "product_id": 7052695961709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-Winter-White-Device-V4_c5459489-6a40-4a10-ab5c-198e3564f51c.jpg?v=1695945617",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525508583533,
+      "created_at": "2023-09-28T17:58:55-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T18:00:17-06:00",
+      "product_id": 7052695961709,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-WinterWhite-Overhead-Shadow-Resized.jpg?v=1695945617",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-WinterWhite-Vertical-Resized.jpg?v=1695945617",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ILLUME",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

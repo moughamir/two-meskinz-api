@@ -1,0 +1,67 @@
+{
+  "id": 7785315303591,
+  "title": "Brand: Durham / Part #: 362-95",
+  "handle": "wk315690790",
+  "body_html": "<br><strong>Item #: </strong>64387517<br><strong>Brand: </strong>Durham<br><strong>Model #: </strong>362-95<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Drawer Cabinet Base</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Durham Cabinets: 032-95,034-95,035-95 &amp; 033-95</td>\n</tr>\n<tr>\n<td><strong>Overall Depth</strong></td>\n<td>34 in</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>5.25 in</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>18</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:17:41-06:00",
+  "created_at": "2023-12-28T17:17:41-06:00",
+  "updated_at": "2025-09-22T10:55:46-05:00",
+  "vendor": "Durham",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 43703603626151,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "64387517",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "107.49",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785315303591,
+      "created_at": "2023-12-28T17:17:42-06:00",
+      "updated_at": "2025-09-22T10:55:46-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236688318631,
+      "created_at": "2025-02-03T17:50:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:50:39-06:00",
+      "product_id": 7785315303591,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6438751-21.jpg?v=1738626639",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 107.49,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6438751-21.jpg?v=1738626639",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Durham",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8444678406232,
+  "title": "Seashell Pumpkin Spice iPhone 17 Case",
+  "handle": "seashell-pumpkin-spice-eco-friendly-iphone-17-case",
+  "body_html": "<p class=\"p1\">Get ready to fall in love with your phone all over again with the Pumpkin Spice Phone Case! 🎃🍂 This charming design is a tribute to all things cozy—steaming mugs of coffee, cinnamon sticks, pumpkin pie, and a sprinkle of autumn magic. It’s like wrapping your phone in a warm blanket of fall vibes, perfect for pumpkin spice lovers and autumn enthusiasts alike. Sip your latte, cozy up, and let your phone bask in the sweet, spicy goodness of the season! ☕🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:31:49-04:00",
+  "created_at": "2025-08-08T11:50:12-04:00",
+  "updated_at": "2025-09-22T15:12:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pumpkin Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184259301464,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PUMPKIN-SPICE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444678406232,
+      "created_at": "2025-09-03T18:52:37-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    },
+    {
+      "id": 43184259334232,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17466-IP17-SEASHELL-AOD:PUMPKIN-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444678406232,
+      "created_at": "2025-09-03T18:52:37-04:00",
+      "updated_at": "2025-09-22T15:12:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567242608728,
+      "created_at": "2025-08-08T11:50:12-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:14-04:00",
+      "product_id": 8444678406232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP17_Seashell.jpg?v=1754668214",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677687058520,
+      "created_at": "2025-03-12T12:52:08-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:52:12-04:00",
+      "product_id": 8444678406232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_02_1_065057fb-1e4e-4461-b8db-5acaf42bbd70.jpg?v=1741798332",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677687025752,
+      "created_at": "2025-03-12T12:52:08-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T12:52:12-04:00",
+      "product_id": 8444678406232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_d1fefbe9-8d5d-4709-8e88-d11fdab26859.jpg?v=1741798332",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP17_Seashell.jpg?v=1754668214",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 7052695928941,
+  "title": "Balsam & Cedar",
+  "handle": "balsam-cedar",
+  "body_html": "<p><strong>Balsam</strong> and <strong>oak moss</strong> mingle with aromatic <strong>cedar wood</strong>, <strong>cinnamon</strong>, and <strong>eucalyptus</strong> in this quintessential holiday fragrance.</p>",
+  "published_at": "2023-08-14T19:52:38-06:00",
+  "created_at": "2023-08-10T20:02:49-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "ILLUME",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:ILLUME",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Clean",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_balsamcedar"
+  ],
+  "variants": [
+    {
+      "id": 40703042420845,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BMCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052695928941,
+      "created_at": "2023-08-10T20:02:49-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30525506846829,
+      "created_at": "2023-09-28T17:55:20-06:00",
+      "position": 1,
+      "updated_at": "2023-09-28T17:55:28-06:00",
+      "product_id": 7052695928941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-BalsamCedar-Vertical-Resized.jpg?v=1695945328",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30525506945133,
+      "created_at": "2023-09-28T17:55:20-06:00",
+      "position": 2,
+      "updated_at": "2023-09-28T17:55:28-06:00",
+      "product_id": 7052695928941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineingredients_32d5549a-9bbf-4763-8a03-22b6bb44122d.jpg?v=1695945328",
+      "width": 3000,
+      "height": 4500
+    },
+    {
+      "id": 30525506912365,
+      "created_at": "2023-09-28T17:55:20-06:00",
+      "position": 3,
+      "updated_at": "2023-09-28T17:55:28-06:00",
+      "product_id": 7052695928941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-Balsam-And-Cedar-Device-V4.jpg?v=1695945328",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30525506879597,
+      "created_at": "2023-09-28T17:55:20-06:00",
+      "position": 4,
+      "updated_at": "2023-09-28T17:55:27-06:00",
+      "product_id": 7052695928941,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-BalsamCedar-Overhead-Shadow-Resized.jpg?v=1695945327",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Illume-BalsamCedar-Vertical-Resized.jpg?v=1695945328",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ILLUME",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

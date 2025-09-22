@@ -1,0 +1,67 @@
+{
+  "id": 7786354278567,
+  "title": "Brand: Helical Solutions / Part #: 84044",
+  "handle": "er4516823",
+  "body_html": "<br><strong>Item #: </strong>90059742<br><strong>Brand: </strong>Helical Solutions<br><strong>Model #: </strong>84044<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>1/16</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.0625</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>Tplus</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.1870</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.5000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical Flute</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>End Mills for Stainless &amp; High Temp - 4 Flute - Square - Variable Pitch</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:25:49-06:00",
+  "created_at": "2023-12-29T20:25:49-06:00",
+  "updated_at": "2025-09-22T10:53:35-05:00",
+  "vendor": "Helical Solutions",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43707613118631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90059742",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.52",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786354278567,
+      "created_at": "2023-12-29T20:25:49-06:00",
+      "updated_at": "2025-09-22T10:53:35-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238415618215,
+      "created_at": "2025-02-03T18:48:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:48:50-06:00",
+      "product_id": 7786354278567,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9005974-21_cb61c3da-cfe9-4522-a397-9d22499e3a13.jpg?v=1738630130",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.52,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9005974-21_cb61c3da-cfe9-4522-a397-9d22499e3a13.jpg?v=1738630130",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Helical Solutions",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

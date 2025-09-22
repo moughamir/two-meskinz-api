@@ -1,0 +1,96 @@
+{
+  "id": 8444683714648,
+  "title": "London Fog Frosted Flock iPhone 17 Pro Case",
+  "handle": "london-fog-frosted-flock-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p class=\"p1\">Let your phone take flight with the Frosted Flock Phone Case! Adorned with a charming collection of colorful birds, this case is a delightful ode to nature’s beauty and the joy of birdwatching. From cardinals to blue jays, each feathered friend pops against the frosty background, making your phone a stylish sanctuary for these winged wonders. <b>🐦❄️</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:15:30-04:00",
+  "created_at": "2025-08-08T11:50:32-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Winter Birds",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Frosted Flock",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184171745368,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:FROSTED-FLOCK_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444683714648,
+      "created_at": "2025-09-03T18:36:52-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184171778136,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17500-IP17P-LFOG-AOD:FROSTED-FLOCK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444683714648,
+      "created_at": "2025-09-03T18:36:52-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567254503512,
+      "created_at": "2025-08-08T11:50:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:34-04:00",
+      "product_id": 8444683714648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FROSTED-FLOCK_IP17P_LondonFog.jpg?v=1754668234",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FROSTED-FLOCK_IP17P_LondonFog.jpg?v=1754668234",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

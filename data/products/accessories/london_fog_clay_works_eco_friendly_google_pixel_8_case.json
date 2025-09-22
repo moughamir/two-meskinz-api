@@ -1,0 +1,75 @@
+{
+  "id": 8261729124440,
+  "title": "London Fog Clay Works Google Pixel 8 Case",
+  "handle": "london-fog-clay-works-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Celebrate the beauty of handmade pottery with the Clay Works Phone Case! Featuring a stylish sketch design of textured vases and organic patterns, this case brings earthy elegance to your everyday.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-13T09:35:57-05:00",
+  "created_at": "2025-01-22T13:39:37-05:00",
+  "updated_at": "2025-09-22T15:15:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Quiet Luxury",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Clay Works",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42583489445976,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14953-PX8-LFOG-AOD:CLAY-WORKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8261729124440,
+      "created_at": "2025-01-22T13:39:37-05:00",
+      "updated_at": "2025-09-22T15:15:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34354105352280,
+      "created_at": "2025-01-22T13:39:37-05:00",
+      "position": 1,
+      "updated_at": "2025-01-22T13:39:39-05:00",
+      "product_id": 8261729124440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CLAY-WORKS_PX8_LondonFog.jpg?v=1737571179",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CLAY-WORKS_PX8_LondonFog.jpg?v=1737571179",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5397300281511,
+  "title": "Brand: Professional Plastics / Part #: SPCAR2CL.125MSC63405633",
+  "handle": "eh7065015",
+  "body_html": "<br><strong>Item #: </strong>32970352<br><strong>Brand: </strong>Professional Plastics<br><strong>Model #: </strong>SPCAR2CL.125MSC63405633<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Polycarbonate</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Semi-Clear</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Film</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Hard</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>R118</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Manufacturing, Barriers, Table Tops, Picture Framing</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>24.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:43:39-06:00",
+  "created_at": "2020-06-29T13:27:22-05:00",
+  "updated_at": "2025-09-22T10:53:50-05:00",
+  "vendor": "Professional Plastics",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Indexable Replacement Parts > Shim Seats",
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 34977156399271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "32970352",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.02",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5397300281511,
+      "created_at": "2020-06-29T13:27:22-05:00",
+      "updated_at": "2025-09-22T10:53:50-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238167892135,
+      "created_at": "2025-02-03T18:38:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:38:46-06:00",
+      "product_id": 5397300281511,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9938488-21_2dbda76e-c242-4b99-a6b0-2f353245dbb4.jpg?v=1738629526",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44.02,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9938488-21_2dbda76e-c242-4b99-a6b0-2f353245dbb4.jpg?v=1738629526",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Professional Plastics",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

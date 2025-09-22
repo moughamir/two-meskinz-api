@@ -1,0 +1,97 @@
+{
+  "id": 7370307666008,
+  "title": "Black Go Bananas Google Pixel 7a Case",
+  "handle": "black-go-bananas-eco-friendly-google-pixel-7a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Go totally bananas with the Pela Go Bananas Phone Case! It's a bunch of fun with its bold banana prints tumbling across a sleek black background, perfect for the fruit lover or the fun-loving spirit in you. Each bright yellow banana adds a pop of playful whimsy, making every call and text a peel-good moment. This case isn't just a bunch of laughs—it's also about bunches of protection for your phone. So let your style go wild with a case that's ripe for the picking and ready to split to wherever the day takes you! 🍌🖤✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-08-24T09:25:31-04:00",
+  "created_at": "2023-07-27T12:43:45-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7a",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Go Bananas",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40249062129752,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14900-PX7a-BLACK-AOD:GO-BANANAS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7370307666008,
+      "created_at": "2023-07-27T12:43:45-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30330684506200,
+      "created_at": "2023-07-27T12:43:45-04:00",
+      "position": 1,
+      "updated_at": "2023-07-27T12:43:45-04:00",
+      "product_id": 7370307666008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GO-BANANAS_PX7A_Black.jpg?v=1690476225",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341098405976,
+      "created_at": "2023-08-11T09:55:10-04:00",
+      "position": 2,
+      "updated_at": "2023-08-11T09:55:11-04:00",
+      "product_id": 7370307666008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad4_d24921aa-c933-4348-9d76-fc9e47b9057d.jpg?v=1691762111",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30341098438744,
+      "created_at": "2023-08-11T09:55:10-04:00",
+      "position": 3,
+      "updated_at": "2023-08-11T09:55:11-04:00",
+      "product_id": 7370307666008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad6_f04ba633-b5ff-42e3-af38-5947d3e30206.jpg?v=1691762111",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GO-BANANAS_PX7A_Black.jpg?v=1690476225",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

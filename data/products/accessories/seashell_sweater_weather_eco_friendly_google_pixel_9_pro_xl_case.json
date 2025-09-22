@@ -1,0 +1,75 @@
+{
+  "id": 8150521708632,
+  "title": "Seashell Sweater Weather Google Pixel 9 Pro XL Case",
+  "handle": "seashell-sweater-weather-eco-friendly-google-pixel-9-pro-xl-case",
+  "body_html": "<p><span>Snuggle up with our Sweater Weather Phone Case, a warm addition to your phone from the Winter Wishlist Collection that encapsulates the cozy essence of the season.  Deck your device with an assortment of knitted sweaters, each lovingly illustrated to represent the comforting warmth of a winter wardrobe. 🧣❄️🌿</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:30:26-04:00",
+  "created_at": "2024-10-07T11:44:06-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Winter Wishlist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sweater Weather",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42315024302168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15696-PX9PXL-SEASHELL-AOD:SWEATER-WEATHER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8150521708632,
+      "created_at": "2024-10-07T11:44:06-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33737736093784,
+      "created_at": "2024-10-07T11:44:06-04:00",
+      "position": 1,
+      "updated_at": "2024-10-07T11:44:06-04:00",
+      "product_id": 8150521708632,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEATER-WEATHER_PX9PXL_Seashell.jpg?v=1728315846",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SWEATER-WEATHER_PX9PXL_Seashell.jpg?v=1728315846",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 8429102104664,
+  "title": "Seashell Petal Burst iPhone 11 Pro Case",
+  "handle": "seashell-petal-burst-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:21:16-04:00",
+  "created_at": "2025-07-17T07:09:58-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petal Burst",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063793877080,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:PETAL-BURST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429102104664,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436658950232,
+      "created_at": "2025-07-17T07:09:58-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:10:01-04:00",
+      "product_id": 8429102104664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP11P_Seashell.jpg?v=1752750601",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581693198424,
+      "created_at": "2025-08-11T14:56:01-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:56:01-04:00",
+      "product_id": 8429102104664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0e5a48cbad62efedefd29809652da666_d99f9235-3305-46d5-9bd8-70d37a70011b.jpg?v=1754938561",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581693460568,
+      "created_at": "2025-08-11T14:56:02-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:56:02-04:00",
+      "product_id": 8429102104664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd38bfbd46922f63774293d94cec86ef_0363cf51-0f5e-45e5-aa8f-0ef913242268.jpg?v=1754938562",
+      "width": 1536,
+      "height": 1536
+    },
+    {
+      "id": 35581693657176,
+      "created_at": "2025-08-11T14:56:04-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:56:04-04:00",
+      "product_id": 8429102104664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2b4acc3ed4f9602c6b2b3ae327a74949_dfb71d53-202f-4702-9c0e-c167ad84526e.jpg?v=1754938564",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581693952088,
+      "created_at": "2025-08-11T14:56:06-04:00",
+      "position": 5,
+      "updated_at": "2025-08-11T14:56:06-04:00",
+      "product_id": 8429102104664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9fa5534f99a70d99f3e7e0de771c80b_683a62fe-77e8-4113-9e7d-e373b95996f5.jpg?v=1754938566",
+      "width": 4246,
+      "height": 4246
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-BURST_IP11P_Seashell.jpg?v=1752750601",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

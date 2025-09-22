@@ -1,0 +1,91 @@
+{
+  "id": 8150595862616,
+  "title": "Black USB-C to USB-C Cable",
+  "handle": "black-usb-c-to-usb-c-cable",
+  "body_html": "<p class=\"p1\">Meet the Pela USB-C to USB-C, where sustainability meets performance. Designed in a sleek Black finish with a Clay Green Pela logo, this 1-meter (3ft) cable is MFi certified, ensuring seamless compatibility with Apple devices. Made from 100% post-consumer recycled plastic, it delivers eco-conscious charging at 60W power, fast and efficient. Durability tested to withstand over 7,000 bends, this cable is built to last while reducing plastic waste. Charge your devices sustainably with Pela!</p>",
+  "published_at": "2024-11-07T09:15:06-05:00",
+  "created_at": "2024-10-07T14:22:21-04:00",
+  "updated_at": "2025-09-22T15:15:30-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Charging Cables",
+  "tags": [
+    "accessory",
+    "Charging Cables"
+  ],
+  "variants": [
+    {
+      "id": 42315190960216,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25180-USB-C-BLACK-C",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 22,
+      "compare_at_price": "30.00",
+      "position": 1,
+      "product_id": 8150595862616,
+      "created_at": "2024-10-07T14:22:21-04:00",
+      "updated_at": "2025-09-22T15:15:30-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34783375982680,
+      "created_at": "2025-04-03T10:21:04-04:00",
+      "position": 1,
+      "updated_at": "2025-04-03T10:21:10-04:00",
+      "product_id": 8150595862616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_3.png?v=1743690070",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": 33929077588056,
+      "created_at": "2024-11-05T13:37:24-05:00",
+      "position": 2,
+      "updated_at": "2025-04-03T10:21:10-04:00",
+      "product_id": 8150595862616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/USBC_BLACK_PDP2_6c672d95-1add-493a-b844-89b191df10a1.jpg?v=1743690070",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 33929077522520,
+      "created_at": "2024-11-05T13:37:24-05:00",
+      "position": 3,
+      "updated_at": "2025-04-03T10:21:10-04:00",
+      "product_id": 8150595862616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/USBC_BLACK_PDP3_e3657797-ef97-41cc-8715-95e3a024a5e2.jpg?v=1743690070",
+      "width": 1458,
+      "height": 1468
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/image_3.png?v=1743690070",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Charging Cables",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8453216501927,
+  "title": "‎10-32 UNF 2B IF1-GAL-SN TICN",
+  "handle": "kp6051065",
+  "body_html": "<br><strong>Item #: </strong>ER4511165<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>BU37Q200.5041<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Modified Bottoming Form Tap </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TiCN </td>\n</tr>\n<tr>\n<td><strong>Thread Diameter Size (TDZ)</strong></td>\n<td>#10 </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>2.756″ </td>\n</tr>\n<tr>\n<td><strong>Threads per Inch (TPI)</strong></td>\n<td>32 </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>25 mm </td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>‎2P-3P </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.194″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>HSSE-PM </td>\n</tr>\n<tr>\n<td><strong>Thread Tolerance Class (TCTR)</strong></td>\n<td>| 2BX | </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>| UNF | </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>U37Q200 </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Through Hole | Blind Hole </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>‎#10 - 32 </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:37:17-06:00",
+  "created_at": "2025-01-23T21:37:15-06:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 46499868311719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER4511165",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "64.58",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453216501927,
+      "created_at": "2025-01-23T21:37:16-06:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143290081447,
+      "created_at": "2025-01-23T21:37:24-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:37:25-06:00",
+      "product_id": 8453216501927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_61798609-baad-4b65-bcd1-dca0fff2d16b.png?v=1737689845",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 64.58,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_61798609-baad-4b65-bcd1-dca0fff2d16b.png?v=1737689845",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

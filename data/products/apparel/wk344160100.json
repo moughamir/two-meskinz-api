@@ -1,0 +1,67 @@
+{
+  "id": 7786431053991,
+  "title": "Brand: Merit Abrasives / Part #: 08834195006",
+  "handle": "wk344160100",
+  "body_html": "<br><strong>Item #: </strong>72397300<br><strong>Brand: </strong>Merit Abrasives<br><strong>Model #: </strong>08834195006<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Pad Diameter (Inch)</strong>\n</td>\n<td>4-1/2 in</td>\n</tr>\n<tr>\n<td><strong>Backing Pad Type</strong></td>\n<td>Disc Backing Pad</td>\n</tr>\n<tr>\n<td><strong>Maximum Rpm</strong></td>\n<td>11000.000</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Quick-Change</td>\n</tr>\n<tr>\n<td><strong>Center Hole Size (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Density</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Disc Diameter (Decimal Inch)</strong></td>\n<td>4-1/2 in</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Quick-Change Resin Fiber Sanding Discs</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Plastic</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T00:22:38-06:00",
+  "created_at": "2023-12-30T00:22:38-06:00",
+  "updated_at": "2025-09-22T10:53:23-05:00",
+  "vendor": "Merit Abrasives",
+  "product_type": "Abrasives",
+  "tags": [
+    "Coated & Non-Woven Abrasives"
+  ],
+  "variants": [
+    {
+      "id": 43707972649127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "72397300",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786431053991,
+      "created_at": "2023-12-30T00:22:38-06:00",
+      "updated_at": "2025-09-22T10:53:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238627594407,
+      "created_at": "2025-02-03T18:57:26-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:57:27-06:00",
+      "product_id": 7786431053991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7239730-21.jpg?v=1738630647",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 32.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7239730-21.jpg?v=1738630647",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Merit Abrasives",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

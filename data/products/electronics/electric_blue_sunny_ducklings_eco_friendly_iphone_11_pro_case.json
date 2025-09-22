@@ -1,0 +1,108 @@
+{
+  "id": 8320081854552,
+  "title": "Electric Blue Sunny Ducklings iPhone 11 Pro Case",
+  "handle": "electric-blue-sunny-ducklings-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Quack open a smile every time you pick up your phone! The <em data-start=\"100\" data-end=\"117\">Sunny Ducklings</em> Phone Case is covered in bright yellow duckies paddling across a cheerful blue background, bringing major feel-good, pond-side vibes. It’s playful, punchy, and guaranteed to add a splash of joy to your day. <meta charset=\"utf-8\">🦆<meta charset=\"utf-8\">💙</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:25:56-04:00",
+  "created_at": "2025-03-20T10:50:41-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunny Ducklings",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756160979032,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16022-IP11P-ELEBLUE-AOD:SUNNY-DUCKLINGS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320081854552,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722014953560,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:43-04:00",
+      "product_id": 8320081854552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_IP11P_ElectricBlue.jpg?v=1742482243",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34813927882840,
+      "created_at": "2025-04-10T09:24:42-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T09:24:45-04:00",
+      "product_id": 8320081854552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_4bbc2c25-18ec-41fc-b79e-2943eda3e613.jpg?v=1744291485",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813927948376,
+      "created_at": "2025-04-10T09:24:42-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T09:24:45-04:00",
+      "product_id": 8320081854552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_16162fa7-dac0-4451-a73f-5a53be7e0107.jpg?v=1744291485",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813927915608,
+      "created_at": "2025-04-10T09:24:42-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T09:24:45-04:00",
+      "product_id": 8320081854552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_0130e132-8350-4cdb-b9c9-8fcf5f097692.jpg?v=1744291485",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_IP11P_ElectricBlue.jpg?v=1742482243",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8453331615911,
+  "title": "1/2″ Power Nut Driver 5″ Length",
+  "handle": "kp6042495",
+  "body_html": null,
+  "published_at": "2025-01-24T01:24:55-06:00",
+  "created_at": "2025-01-24T01:24:53-06:00",
+  "updated_at": "2025-09-22T10:44:36-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500339417255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6042495",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.27",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453331615911,
+      "created_at": "2025-01-24T01:24:53-06:00",
+      "updated_at": "2025-09-22T10:44:36-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.27,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

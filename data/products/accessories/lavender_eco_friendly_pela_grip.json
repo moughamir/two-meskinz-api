@@ -1,0 +1,91 @@
+{
+  "id": 4581482332248,
+  "title": "Lavender Pela Grip",
+  "handle": "lavender-eco-friendly-pela-grip",
+  "body_html": "<meta charset=\"utf-8\">\n<p><span>Never lose grip on your iPhone again with our compostable and plant-based, Pela Grip. With a comfortable and adjustable loop, this little lifesaver secures firmly to your Pela Case and protects your phone from accidental drops. It also does double-duty as a stand for horizontal viewing on the go. Now you can grip and stabilize your device with ease - no more shaky selfies!</span></p>\n<meta charset=\"utf-8\"><span></span>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><strong>Not compatible with Wallet Cases or Card Holder. Not compatible with Classic cases for Google Pixel 5 or Google Pixel 4a .</strong></p>",
+  "published_at": "2023-08-02T19:58:16-04:00",
+  "created_at": "2020-04-23T12:31:53-04:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Pela Grip",
+  "tags": [
+    "accessory",
+    "Griply"
+  ],
+  "variants": [
+    {
+      "id": 32704544276568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25282-GRIPLY-LAV",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.00",
+      "grams": 23,
+      "compare_at_price": "15.00",
+      "position": 1,
+      "product_id": 4581482332248,
+      "created_at": "2020-04-23T12:31:53-04:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30246363594840,
+      "created_at": "2023-04-18T16:55:43-04:00",
+      "position": 1,
+      "updated_at": "2023-09-20T09:11:34-04:00",
+      "product_id": 4581482332248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRIP_CLOSE_LAVENDER.jpg?v=1695215494",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246363562072,
+      "created_at": "2023-04-18T16:55:43-04:00",
+      "position": 2,
+      "updated_at": "2023-09-20T09:11:34-04:00",
+      "product_id": 4581482332248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRIP_PHONE_LAVENDER.jpg?v=1695215494",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32561025253464,
+      "created_at": "2024-04-09T12:38:55-04:00",
+      "position": 3,
+      "updated_at": "2024-04-09T12:39:02-04:00",
+      "product_id": 4581482332248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PelaGrip-Lavender.png?v=1712680742",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15,
+  "compare_at_price": 15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GRIP_CLOSE_LAVENDER.jpg?v=1695215494",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Pela Grip",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5328117072039,
+  "title": "KPC3 KGDL 220503T10 Quick Change, Polygon Shank Indexable Grooving Toolholder",
+  "handle": "we102162",
+  "body_html": "<br><strong>Item #: </strong>KY96THT05443<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THT05443<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Width Minimum (CWN)</strong></td>\n<td>3 mm </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Left Hand </td>\n</tr>\n<tr>\n<td><strong>Cutting Width Maximum (CWX)</strong></td>\n<td>4 mm </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Cutting Depth Maximum (CDX)</strong></td>\n<td>10 mm </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| Cut-Off | Ext. Grooving | </td>\n</tr>\n<tr>\n<td><strong>Functional Width (WF)</strong></td>\n<td>22 mm </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Steel </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>50 mm </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>KPC </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>50 mm </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Metric </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:06:24-06:00",
+  "created_at": "2020-06-13T22:17:06-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Turning",
+  "tags": [
+    "Groove/Turn & Parting Off",
+    "MIG Welding Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34711031972007,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THT05443",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "518.30",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5328117072039,
+      "created_at": "2020-06-13T22:17:06-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143929417895,
+      "created_at": "2025-01-23T22:06:34-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:06:35-06:00",
+      "product_id": 5328117072039,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_KPC_KGDL_ac3a_ab7d8f6d-5055-45db-ae23-fafc0df0ec7e.jpg?v=1737691595",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 518.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_KPC_KGDL_ac3a_ab7d8f6d-5055-45db-ae23-fafc0df0ec7e.jpg?v=1737691595",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

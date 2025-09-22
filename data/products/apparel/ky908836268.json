@@ -1,0 +1,67 @@
+{
+  "id": 7786442784935,
+  "title": "Brand: Widia / Part #: 3636566",
+  "handle": "ky908836268",
+  "body_html": "<br><strong>Item #: </strong>97265987<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>3636566<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Insert Style</strong>\n</td>\n<td>NA</td>\n</tr>\n<tr>\n<td><strong>Insert Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>TN6025</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal &amp; External</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>TN6025</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Acme</td>\n</tr>\n<tr>\n<td><strong>Insert Hand</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Internal Pitch</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>External Pitch</strong></td>\n<td>6.35</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>29.00</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>FLAT</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>NA</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.00</td>\n</tr>\n<tr>\n<td><strong>Ansi Code</strong></td>\n<td>NA4R4</td>\n</tr>\n<tr>\n<td><strong>Iso Code</strong></td>\n<td>NA4R4</td>\n</tr>\n<tr>\n<td><strong>Maximum Corner Radius (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Width of Cutting Tip (mm)</strong></td>\n<td>2.22</td>\n</tr>\n<tr>\n<td><strong>Width of Cutting Tip (Decimal Inch)</strong></td>\n<td>0.0875</td>\n</tr>\n<tr>\n<td><strong>Maximum Depth of Cut (Decimal Inch)</strong></td>\n<td>0.1570</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Shape</strong></td>\n<td>Irregular</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Clamp</td>\n</tr>\n<tr>\n<td><strong>Insert Size</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Thickness (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.4530</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Mm) ( - 0 Decimals)</strong></td>\n<td>0.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:27:42-06:00",
+  "created_at": "2023-12-30T01:27:42-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Widia",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43708024553639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97265987",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.91",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786442784935,
+      "created_at": "2023-12-30T01:27:42-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238684086439,
+      "created_at": "2025-02-03T18:59:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:59:49-06:00",
+      "product_id": 7786442784935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727274-21_68b18504-2dec-45c9-942a-1f04ee1b9533.jpg?v=1738630789",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.91,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9727274-21_68b18504-2dec-45c9-942a-1f04ee1b9533.jpg?v=1738630789",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

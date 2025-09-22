@@ -1,0 +1,118 @@
+{
+  "id": 7082350641261,
+  "title": "Ember Berry",
+  "handle": "ember-berry",
+  "body_html": "<p>The cruel Underworld is ruled by Hades’ fiery temper as iced blackcurrant and <strong>grapefruit</strong> mingle with sinister scents of dark <strong>leather</strong>, <strong>charcoal</strong>, and <strong>musk</strong>.</p>",
+  "published_at": "2023-09-29T09:20:03-06:00",
+  "created_at": "2023-09-13T14:36:37-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Disney",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Disney",
+    "CollectionFilter_Fall Fruit",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_emberberry"
+  ],
+  "variants": [
+    {
+      "id": 40728223973485,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HDSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7082350641261,
+      "created_at": "2023-09-13T14:36:37-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30466114551917,
+      "created_at": "2023-09-13T14:41:46-06:00",
+      "position": 1,
+      "updated_at": "2023-09-13T14:41:48-06:00",
+      "product_id": 7082350641261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyemberberry-4resized.jpg?v=1694637708",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30489088426093,
+      "created_at": "2023-09-18T10:49:17-06:00",
+      "position": 2,
+      "updated_at": "2023-09-18T10:49:20-06:00",
+      "product_id": 7082350641261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/blackcurrantresized_-7.jpg?v=1695055760",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30466114420845,
+      "created_at": "2023-09-13T14:41:46-06:00",
+      "position": 3,
+      "updated_at": "2023-09-18T10:49:20-06:00",
+      "product_id": 7082350641261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disney-ember-berry-device-resized.jpg?v=1695055760",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30466114453613,
+      "created_at": "2023-09-13T14:41:46-06:00",
+      "position": 4,
+      "updated_at": "2023-09-18T10:49:20-06:00",
+      "product_id": 7082350641261,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyemberberry-6resized.jpg?v=1695055760",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/disneyemberberry-4resized.jpg?v=1694637708",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Disney",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

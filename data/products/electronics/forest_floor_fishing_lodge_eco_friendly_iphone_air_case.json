@@ -1,0 +1,129 @@
+{
+  "id": 8444712616024,
+  "title": "Forest Floor Fishing Lodge iPhone Air Case",
+  "handle": "forest-floor-fishing-lodge-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Cast a line into laid-back vibes with the Fishing Lodge Phone Case. Featuring hand-drawn illustrations of freshwater catches and crustacean companions, this case is perfect for anglers, outdoorsy types, and anyone who appreciates a good fish tale. Whether you're lakeside, streamside, or just poolside, this earthy green design reels in rustic charm—no bait required. 🎣🐟🌲</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:49:44-04:00",
+  "created_at": "2025-08-08T11:52:16-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fishing Lodge",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184138485848,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17542-IP17AIR-FOREST-AOD:FISHING-LODGE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444712616024,
+      "created_at": "2025-09-03T18:32:27-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184138518616,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17542-IP17AIR-FOREST-AOD:FISHING-LODGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444712616024,
+      "created_at": "2025-09-03T18:32:27-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567317418072,
+      "created_at": "2025-08-08T11:52:16-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:18-04:00",
+      "product_id": 8444712616024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FISHING-LODGE_IP17AIR_ForestFloor.jpg?v=1754668338",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35630429536344,
+      "created_at": "2025-08-20T13:49:10-04:00",
+      "position": 2,
+      "updated_at": "2025-08-20T13:49:13-04:00",
+      "product_id": 8444712616024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_01_53f4316d-aa52-44af-8c4f-e57154daf9bb.jpg?v=1755712153",
+      "width": 4136,
+      "height": 4136
+    },
+    {
+      "id": 35630429569112,
+      "created_at": "2025-08-20T13:49:10-04:00",
+      "position": 3,
+      "updated_at": "2025-08-20T13:49:12-04:00",
+      "product_id": 8444712616024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_02_89a9757c-1b00-46b8-8f45-af1c199d2219.jpg?v=1755712152",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35630429601880,
+      "created_at": "2025-08-20T13:49:10-04:00",
+      "position": 4,
+      "updated_at": "2025-08-20T13:49:12-04:00",
+      "product_id": 8444712616024,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FishingLodge_PDP_03_e5b081e4-ef1d-485d-93fa-6aebe0153281.jpg?v=1755712152",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FISHING-LODGE_IP17AIR_ForestFloor.jpg?v=1754668338",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

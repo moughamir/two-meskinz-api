@@ -1,0 +1,67 @@
+{
+  "id": 7785880289447,
+  "title": "Brand: Race Sport / Part #: 1003689",
+  "handle": "hc4833090",
+  "body_html": "<br><strong>Item #: </strong>85280485<br><strong>Brand: </strong>Race Sport<br><strong>Model #: </strong>1003689<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Truck and Trailer LED</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>2-1/4</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Red</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>24V; 12V</td>\n</tr>\n<tr>\n<td><strong>Description</strong></td>\n<td>Truck and Trailer LED 4\" Round Red (With 3 Hole Mount)</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Retail Packaging</td>\n</tr>\n<tr>\n<td><strong>Specifications</strong></td>\n<td>SAE &amp; DOT Approved</td>\n</tr>\n<tr>\n<td><strong>Diameter (Inch)</strong></td>\n<td>4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:41:02-06:00",
+  "created_at": "2023-12-29T05:41:02-06:00",
+  "updated_at": "2025-09-22T10:54:23-05:00",
+  "vendor": "Race Sport",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Electrical & Lighting"
+  ],
+  "variants": [
+    {
+      "id": 43705744359591,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "85280485",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "66.54",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785880289447,
+      "created_at": "2023-12-29T05:41:02-06:00",
+      "updated_at": "2025-09-22T10:54:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237523247271,
+      "created_at": "2025-02-03T18:17:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:18:00-06:00",
+      "product_id": 7785880289447,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8528048-21.jpg?v=1738628280",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 66.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8528048-21.jpg?v=1738628280",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Race Sport",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

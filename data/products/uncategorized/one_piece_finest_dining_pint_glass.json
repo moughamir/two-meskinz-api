@@ -1,0 +1,105 @@
+{
+  "id": 7838954618927,
+  "title": "One Piece Finest Dining Pint Glass",
+  "handle": "one-piece-finest-dining-pint-glass",
+  "body_html": "<p>Elevate your drinkware collection with the <em>One Piece</em> Finest Dining Pint Glass! Perfect for fans of the Straw Hat Pirates, this glass features a striking design that pays homage to the crew's unforgettable culinary adventures. Whether you're raising a toast to your favorite moments or enjoying a drink while watching the latest episodes, this pint glass is a delightful addition for any <em>One Piece</em> aficionado!</p>\n<ul>\n<li>Glass material</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>\n<p><br></p>",
+  "published_at": "2024-10-14T13:40:36-04:00",
+  "created_at": "2024-09-23T04:41:05-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "80217863",
+    "Drinking Glasses",
+    "Drinkware",
+    "Father's Day",
+    "glass",
+    "Glasseware",
+    "glassware",
+    "Home & Office",
+    "home and office",
+    "new",
+    "NF-19-0924",
+    "One Piece",
+    "Promo Eligible Collection"
+  ],
+  "variants": [
+    {
+      "id": 43259046625327,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "OP-101667-0001-OP-FDOEB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34696913256495,
+        "product_id": 7838954618927,
+        "position": 1,
+        "created_at": "2024-09-23T04:41:05-04:00",
+        "updated_at": "2024-09-23T04:41:05-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-FDOEB_101667_R_MF.jpg?v=1727080865",
+        "variant_ids": [
+          43259046625327
+        ]
+      },
+      "available": true,
+      "price": "26.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838954618927,
+      "created_at": "2024-09-23T04:41:05-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34696913256495,
+      "created_at": "2024-09-23T04:41:05-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T04:41:05-04:00",
+      "product_id": 7838954618927,
+      "variant_ids": [
+        43259046625327
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-FDOEB_101667_R_MF.jpg?v=1727080865",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696913354799,
+      "created_at": "2024-09-23T04:41:05-04:00",
+      "position": 2,
+      "updated_at": "2024-09-23T04:41:05-04:00",
+      "product_id": 7838954618927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-FDOEB_101667_L_MF.jpg?v=1727080865",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 26.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/OP-FDOEB_101667_R_MF.jpg?v=1727080865",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

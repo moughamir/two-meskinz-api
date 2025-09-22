@@ -1,0 +1,67 @@
+{
+  "id": 7785966370983,
+  "title": "Brand: PowerSmith / Part #: PNLR300M",
+  "handle": "ft8527305",
+  "body_html": "<br><strong>Item #: </strong>95507232<br><strong>Brand: </strong>PowerSmith<br><strong>Model #: </strong>PNLR300M<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bulb Type</strong>\n</td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Beam Intensity</strong></td>\n<td>300 cd</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Plastic</td>\n</tr>\n<tr>\n<td><strong>Run Time</strong></td>\n<td>8 h</td>\n</tr>\n<tr>\n<td><strong>Lumens</strong></td>\n<td>300</td>\n</tr>\n<tr>\n<td><strong>Number Of Light Modes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Batteries Included</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Battery Chemistry</strong></td>\n<td>Lithium</td>\n</tr>\n<tr>\n<td><strong>Rechargeable</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Dual USB-C Splitter Charging Cable; Rechargeable Lithium-Ion Battery; Battery Charge Indicator</td>\n</tr>\n<tr>\n<td><strong>Number Of Batteries</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Additional Bulb Information</strong></td>\n<td>3 Brightness Settings on Each Light: 150/75/30 lumens</td>\n</tr>\n<tr>\n<td><strong>Length (Fractional Inch)</strong></td>\n<td>7 in</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T07:29:56-06:00",
+  "created_at": "2023-12-29T07:29:56-06:00",
+  "updated_at": "2025-09-22T10:47:36-05:00",
+  "vendor": "PowerSmith",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43706250723495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95507232",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "62.04",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785966370983,
+      "created_at": "2023-12-29T07:29:56-06:00",
+      "updated_at": "2025-09-22T10:47:36-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237682925735,
+      "created_at": "2025-02-03T18:21:40-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:21:42-06:00",
+      "product_id": 7785966370983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9550723-21.jpg?v=1738628502",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 62.04,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9550723-21.jpg?v=1738628502",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PowerSmith",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

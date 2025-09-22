@@ -1,0 +1,108 @@
+{
+  "id": 8335120138328,
+  "title": "Sage Green Fresh Picnic Google Pixel 8 Case",
+  "handle": "sage-green-fresh-picnic-eco-friendly-google-pixel-8-case",
+  "body_html": "<p><meta charset=\"utf-8\">Serving major summer snack energy, the Fresh Picnic Phone Case is bursting with fruity flair! Juicy strawberries, cheerful cherries, zesty kiwi, and a pop of playful pattern give your phone that just-packed-a-picnic look. It’s sweet, bold, and ready to tag along on all your sunny adventures—no ants invited. 🍓🍒🍊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:11:00-04:00",
+  "created_at": "2025-04-01T11:42:22-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fresh Picnic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788480090200,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14948-PX8-SAGE-AOD:FRESH-PICNIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335120138328,
+      "created_at": "2025-04-01T11:42:22-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775485153368,
+      "created_at": "2025-04-01T11:42:22-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:24-04:00",
+      "product_id": 8335120138328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRESH-PICNIC_PX8_SageGreen.jpg?v=1743522144",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892686426200,
+      "created_at": "2025-04-23T10:13:02-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:13:08-04:00",
+      "product_id": 8335120138328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_96156928-a854-4e64-8c7c-1734bcb43324.jpg?v=1745417588",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892686360664,
+      "created_at": "2025-04-23T10:13:02-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:13:08-04:00",
+      "product_id": 8335120138328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_13ecb9a1-47f2-4ea1-8b5c-7df061734adc.jpg?v=1745417588",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892686393432,
+      "created_at": "2025-04-23T10:13:02-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:13:08-04:00",
+      "product_id": 8335120138328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_e0949254-084e-450c-bff8-4253ccb2eb2e.jpg?v=1745417588",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRESH-PICNIC_PX8_SageGreen.jpg?v=1743522144",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8254961909848,
+  "title": "Black Evergreen Samsung Galaxy S25 Ultra Case",
+  "handle": "black-evergreen-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌿✨ Immerse yourself in nature’s tranquility with the Evergreen Phone Case! This case features a lush, botanical pattern of green leaves against a deep black background, evoking the serene beauty of a forest in full bloom. Perfect for nature enthusiasts and those who appreciate a touch of elegance, this case turns your device into a mini oasis. Carry the essence of evergreen forests with you and let your phone flourish in style! 🍃📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:26:17-05:00",
+  "created_at": "2025-01-15T11:45:09-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Evergreen",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567878508632,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13960-S25ULTRA-BLACK-AOD:EVERGREEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254961909848,
+      "created_at": "2025-01-15T11:45:10-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303575490648,
+      "created_at": "2025-01-15T11:45:09-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:12-05:00",
+      "product_id": 8254961909848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EVERGREEN_S25ULTRA_Black.jpg?v=1736959512",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678439182424,
+      "created_at": "2025-03-12T15:39:58-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T15:40:00-04:00",
+      "product_id": 8254961909848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9094_1_6e636c95-10d6-4617-8171-f43c67237ca4.jpg?v=1741808400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678439215192,
+      "created_at": "2025-03-12T15:39:58-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T15:40:01-04:00",
+      "product_id": 8254961909848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SecretGarden4_c94fb591-e1b5-4714-b8ab-47f3d1175f07.png?v=1741808401",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EVERGREEN_S25ULTRA_Black.jpg?v=1736959512",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

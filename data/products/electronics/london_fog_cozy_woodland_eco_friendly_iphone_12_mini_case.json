@@ -1,0 +1,119 @@
+{
+  "id": 8159694782552,
+  "title": "London Fog Cozy Woodland iPhone 12 Mini Case",
+  "handle": "london-fog-cozy-woodland-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p class=\"p1\">Step into a winter wonderland with the Pela Cozy Woodland Phone Case! 🌲❄️ Featuring charming green sketches of woodland creatures, stars, bows, reindeer, and holiday treats, this case brings cozy vibes straight to your phone. Lightweight, durable, and full of holiday magic, this case will keep your phone safe while spreading seasonal cheer!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:20:45-04:00",
+  "created_at": "2024-10-16T10:40:45-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cozy Woodland",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333273260120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:COZY-WOODLAND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159694782552,
+      "created_at": "2024-10-16T10:40:45-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799056326744,
+      "created_at": "2024-10-16T10:40:45-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:45-04:00",
+      "product_id": 8159694782552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP12MINI_LondonFog.jpg?v=1729089645",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838830157912,
+      "created_at": "2024-10-22T12:06:55-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T12:06:56-04:00",
+      "product_id": 8159694782552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP1_5c95f959-1e55-4856-b7b9-e0366e155073.jpg?v=1729613216",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838830125144,
+      "created_at": "2024-10-22T12:06:55-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T12:06:56-04:00",
+      "product_id": 8159694782552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP2_237949f8-fea5-44c9-8c38-c6a5444ab3a2.jpg?v=1729613216",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838830092376,
+      "created_at": "2024-10-22T12:06:55-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T12:06:56-04:00",
+      "product_id": 8159694782552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP3_b0e121cd-c03d-4c2c-a602-f57279d26b56.jpg?v=1729613216",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838830190680,
+      "created_at": "2024-10-22T12:06:55-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T12:06:56-04:00",
+      "product_id": 8159694782552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZYWOODLAND_PDP4_4a48b7f3-2869-4642-98e1-f135838e057b.jpg?v=1729613216",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COZY-WOODLAND_IP12MINI_LondonFog.jpg?v=1729089645",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

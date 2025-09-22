@@ -1,0 +1,67 @@
+{
+  "id": 8452543185063,
+  "title": "Manual Drain Kit",
+  "handle": "66344367",
+  "body_html": "<br><strong>Item #: </strong>05416466<br><strong>Brand: </strong>Domnick Hunter<br><strong>Model #: </strong>605006160<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Manual Drain Kit</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>0009G through 0145G Oil-X PLUS filters</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40161526</td>\n</tr>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Manual Drain Kit</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>0009G through 0145G Oil-X PLUS filters</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>40161526</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>05416466</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>605006160</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>United Kingdom</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:25:35-06:00",
+  "created_at": "2025-01-23T09:25:33-06:00",
+  "updated_at": "2025-09-22T10:52:20-05:00",
+  "vendor": "Domnick Hunter",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Pneumatics"
+  ],
+  "variants": [
+    {
+      "id": 46498026389671,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05416466",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "138.79",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452543185063,
+      "created_at": "2025-01-23T09:25:33-06:00",
+      "updated_at": "2025-09-22T10:52:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242459353255,
+      "created_at": "2025-02-03T21:33:10-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:33:12-06:00",
+      "product_id": 8452543185063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0541646-11.jpg?v=1738639992",
+      "width": 167,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 138.79,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0541646-11.jpg?v=1738639992",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Domnick Hunter",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

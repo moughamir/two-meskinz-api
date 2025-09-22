@@ -1,0 +1,67 @@
+{
+  "id": 7785534095527,
+  "title": "Brand: Value Collection / Part #: BD-KP150567",
+  "handle": "ft8532722",
+  "body_html": "<br><strong>Item #: </strong>43586882<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>BD-KP150567<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cord Length</strong>\n</td>\n<td>50</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>6210</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:37:26-06:00",
+  "created_at": "2023-12-28T22:37:26-06:00",
+  "updated_at": "2025-09-22T10:55:07-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Garage Equipment & Lifting"
+  ],
+  "variants": [
+    {
+      "id": 43704355848359,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43586882",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "88.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785534095527,
+      "created_at": "2023-12-28T22:37:26-06:00",
+      "updated_at": "2025-09-22T10:55:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237041459367,
+      "created_at": "2025-02-03T18:02:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:02:30-06:00",
+      "product_id": 7785534095527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_a998bc9a-1989-4708-8498-5b0f397ac6e0.png?v=1738627350",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 88.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_a998bc9a-1989-4708-8498-5b0f397ac6e0.png?v=1738627350",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

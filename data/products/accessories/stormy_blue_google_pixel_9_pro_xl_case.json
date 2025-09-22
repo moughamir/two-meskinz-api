@@ -1,0 +1,93 @@
+{
+  "id": 8026641694808,
+  "title": "Stormy Blue Google Pixel 9 Pro XL Case",
+  "handle": "stormy-blue-google-pixel-9-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<!---->",
+  "published_at": "2024-08-13T08:14:10-04:00",
+  "created_at": "2024-07-08T10:07:19-04:00",
+  "updated_at": "2025-09-22T15:15:51-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9 Pro XL",
+  "tags": [
+    "Classic",
+    "Clearance",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42003519995992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "15694-PX9PXL-STORMBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "27.00",
+      "grams": 42,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8026641694808,
+      "created_at": "2024-07-08T10:07:19-04:00",
+      "updated_at": "2025-09-22T15:15:51-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33401746522200,
+      "created_at": "2024-07-29T14:09:17-04:00",
+      "position": 1,
+      "updated_at": "2024-07-29T14:09:19-04:00",
+      "product_id": 8026641694808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pixel_9PRO_XL__STORMYBLUE_BACK.jpg?v=1722276559",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33401746456664,
+      "created_at": "2024-07-29T14:09:17-04:00",
+      "position": 2,
+      "updated_at": "2024-07-29T14:09:19-04:00",
+      "product_id": 8026641694808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pixel_9PRO_XL__STORMYBLUE_BACK_45L.jpg?v=1722276559",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33401746489432,
+      "created_at": "2024-07-29T14:09:17-04:00",
+      "position": 3,
+      "updated_at": "2024-07-29T14:09:19-04:00",
+      "product_id": 8026641694808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pixel_9PRO_XL__STORMYBLUE_BACK_45R.jpg?v=1722276559",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 27,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pixel_9PRO_XL__STORMYBLUE_BACK.jpg?v=1722276559",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

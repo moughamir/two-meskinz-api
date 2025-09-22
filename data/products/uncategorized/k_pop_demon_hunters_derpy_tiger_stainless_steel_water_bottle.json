@@ -1,0 +1,121 @@
+{
+  "id": 8038370902063,
+  "title": "KPop Demon Hunters Derpy Tiger Stainless Steel Water Bottle",
+  "handle": "k-pop-demon-hunters-derpy-tiger-stainless-steel-water-bottle",
+  "body_html": "<p>Stay hydrated and eco-friendly with the <em>KPop Demon Hunters</em> Derpy Tiger Stainless Steel Water Bottle. This durable bottle features a vibrant graphic of the Derpy Tiger, a loyal ally to Jinu and Rumi. Its double-walled insulation keeps your drinks at the perfect temperature, whether you're at school, the gym, or out on a demon hunt.</p><ul>\n<li>High-grade stainless steel</li>\n<li>Vacuum flask</li>\n<li>Double-wall construction</li>\n<li>Odorless and leak-proof cap</li>\n<li>Insulated and suitable for hot and cold liquids (keeps the liquid hot or cold for 6 h)</li>\n<li>Hand-wash only (dishwasher not recommended due to vacuum seal)</li>\n</ul>",
+  "published_at": "2025-08-08T12:04:47-04:00",
+  "created_at": "2025-08-08T11:47:43-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Water Bottles",
+  "tags": [
+    "81498621",
+    "Derpy",
+    "Derpy Tiger",
+    "Drinkware",
+    "K-pop Demon Hunters",
+    "KPop Demon Hunter",
+    "Kpop Demon Hunters",
+    "New Arrivals",
+    "Shop All",
+    "unisex",
+    "Water Bottles"
+  ],
+  "variants": [
+    {
+      "id": 44415226609711,
+      "title": "Black / 17 oz",
+      "option1": "Black",
+      "option2": "17 oz",
+      "option3": null,
+      "sku": "KPDH-100960-0003-KPDH-8-0825-DRPY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36994816213039,
+        "product_id": 8038370902063,
+        "position": 1,
+        "created_at": "2025-08-08T12:00:32-04:00",
+        "updated_at": "2025-08-08T12:00:34-04:00",
+        "alt": "K-Pop Demon Hunters Derpy Tiger Stainless Steel Water Bottle Black",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-8-0825-DRPY_100960_FT_MF.jpg?v=1754668834",
+        "variant_ids": [
+          44415226609711
+        ]
+      },
+      "available": true,
+      "price": "32.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8038370902063,
+      "created_at": "2025-08-08T11:47:43-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36994816213039,
+      "created_at": "2025-08-08T12:00:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T12:00:34-04:00",
+      "product_id": 8038370902063,
+      "variant_ids": [
+        44415226609711
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-8-0825-DRPY_100960_FT_MF.jpg?v=1754668834",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36994816147503,
+      "created_at": "2025-08-08T12:00:32-04:00",
+      "position": 2,
+      "updated_at": "2025-08-08T12:00:34-04:00",
+      "product_id": 8038370902063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-8-0825-DRPY_100960_BK_MF.jpg?v=1754668834",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36994816114735,
+      "created_at": "2025-08-08T12:00:32-04:00",
+      "position": 3,
+      "updated_at": "2025-08-08T12:00:34-04:00",
+      "product_id": 8038370902063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-8-0825-DRPY_100960_LIFE.jpg?v=1754668834",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "17 oz"
+      ]
+    }
+  ],
+  "price": 32.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-8-0825-DRPY_100960_FT_MF.jpg?v=1754668834",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Water Bottles",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

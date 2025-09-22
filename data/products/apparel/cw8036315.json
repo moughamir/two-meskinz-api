@@ -1,0 +1,67 @@
+{
+  "id": 7785777627303,
+  "title": "Brand: Wiha / Part #: 30291",
+  "handle": "cw8036315",
+  "body_html": "<br><strong>Item #: </strong>08138919<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>30291<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Screwdriver Types Included</strong>\n</td>\n<td>Slotted; Phillips; Square</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Phillips Point Size</strong></td>\n<td>#1, #2</td>\n</tr>\n<tr>\n<td><strong>Slotted Point Size</strong></td>\n<td>6.5 mm; 4.5 mm</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>9-3/8; 10-1/2; 7-1/2; 8-5/8; 10-5/8; 8-1/4</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Wiha 30225 - SoftFinish Slotted Screwdriver 6.5mm x 150mm (OAL 10.6?); Wiha 35801 - SoftFinish Square Screwdriver #1 x 100mm (OAL 8.2?); Wiha 31115 - SoftFinish Phillips Screwdriver #2 x 100mm (OAL 8.6?); Wiha 35802 - SoftFinish Square Screwdriver #2 x 150mm (OAL 10.5?); Wiha 30211 - SoftFinish Slotted Screwdriver 4.5mm x 125mm (OAL 9.3?); Wiha 31110 - SoftFinish Phillips Screwdriver #1 x 80mm (OAL 7.5?)</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>10-5/8</td>\n</tr>\n<tr>\n<td><strong>Blade Width (mm)</strong></td>\n<td>4.5, 6.5</td>\n</tr>\n<tr>\n<td><strong>Handle Style</strong></td>\n<td>Cushion Grip</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:53:09-06:00",
+  "created_at": "2023-12-29T01:53:09-06:00",
+  "updated_at": "2025-09-22T10:54:45-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 43705483264167,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08138919",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "78.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785777627303,
+      "created_at": "2023-12-29T01:53:09-06:00",
+      "updated_at": "2025-09-22T10:54:45-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237247340711,
+      "created_at": "2025-02-03T18:09:41-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:09:43-06:00",
+      "product_id": 7785777627303,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0813891-21.jpg?v=1738627783",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 78.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0813891-21.jpg?v=1738627783",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

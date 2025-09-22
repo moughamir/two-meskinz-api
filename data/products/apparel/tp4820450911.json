@@ -1,0 +1,67 @@
+{
+  "id": 7785818849447,
+  "title": "Brand: Widia / Part #: 4154673",
+  "handle": "tp4820450911",
+  "body_html": "<br><strong>Item #: </strong>99320814<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>4154673<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (mm)</strong>\n</td>\n<td>M5x0.8</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>70.0000</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Semi-Bottoming</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>DLC</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>0.80</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Thread Depth</strong></td>\n<td>25.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Neck Length</strong></td>\n<td>17.00</td>\n</tr>\n<tr>\n<td><strong>Square Length (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Metal</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>GT22</td>\n</tr>\n<tr>\n<td><strong>Tap Type</strong></td>\n<td>Blind</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (mm)</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>45.000</td>\n</tr>\n<tr>\n<td><strong>Square Size (mm)</strong></td>\n<td>4.90</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>32</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6HX</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T03:22:27-06:00",
+  "created_at": "2023-12-29T03:22:27-06:00",
+  "updated_at": "2025-09-22T10:54:38-05:00",
+  "vendor": "Widia",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43705589825703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99320814",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "73.76",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785818849447,
+      "created_at": "2023-12-29T03:22:27-06:00",
+      "updated_at": "2025-09-22T10:54:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237345120423,
+      "created_at": "2025-02-03T18:12:49-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:12:51-06:00",
+      "product_id": 7785818849447,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9897705-21_b56c60fc-3e82-4f4f-a022-a8104221124d.jpg?v=1738627971",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 73.76,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9897705-21_b56c60fc-3e82-4f4f-a022-a8104221124d.jpg?v=1738627971",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

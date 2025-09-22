@@ -1,0 +1,120 @@
+{
+  "id": 7184766697581,
+  "title": "Valencia Orange",
+  "handle": "valencia-orange",
+  "body_html": "<p>Bright notes of <strong>citrus</strong>, <strong>red berries</strong>, and <strong>pineapple</strong> add energy and zest to any space.</p>",
+  "published_at": "2024-02-28T09:17:30-07:00",
+  "created_at": "2024-01-18T12:06:09-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Aromatique",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Aromatique",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "VOSH",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41000717516909,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "VOSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7184766697581,
+      "created_at": "2024-01-18T12:06:09-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31052310380653,
+      "created_at": "2024-01-18T12:18:11-07:00",
+      "position": 1,
+      "updated_at": "2024-01-18T12:18:35-07:00",
+      "product_id": 7184766697581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-ValenciaOrange-Vertical-Resized.jpg?v=1705605515",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31052310216813,
+      "created_at": "2024-01-18T12:18:11-07:00",
+      "position": 2,
+      "updated_at": "2024-01-18T12:18:35-07:00",
+      "product_id": 7184766697581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/mandarin-resized_406a16c4-4a23-4d6f-a1e3-47bd74393e80.jpg?v=1705605515",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31052310315117,
+      "created_at": "2024-01-18T12:18:12-07:00",
+      "position": 3,
+      "updated_at": "2024-01-18T12:18:35-07:00",
+      "product_id": 7184766697581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ValenciaOrange-Aromatique-Prod3-01-24.png?v=1705605515",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 31052310249581,
+      "created_at": "2024-01-18T12:18:11-07:00",
+      "position": 4,
+      "updated_at": "2024-01-18T12:18:35-07:00",
+      "product_id": 7184766697581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-ValenciaOrange-Overhead-Shadow-Resized.jpg?v=1705605515",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Aromatique-ValenciaOrange-Vertical-Resized.jpg?v=1705605515",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Aromatique",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

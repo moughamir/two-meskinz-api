@@ -1,0 +1,77 @@
+{
+  "id": 8133938348120,
+  "title": "Powder Blue Coastal Rodeo iPhone 16 Case",
+  "handle": "powder-blue-coastal-rodeo-eco-friendly-iphone-16-case",
+  "body_html": "<p><span>Embrace the seaside serenade with the Powder Blue Coastal Rodeo Phone Case, from Pela's Coastal Cowgirl Collection.  Drift into the deep blue with a symphony of seashells, starfish, and cacti, all dancing in a powdery blue hue that whispers of the ocean's calm and the desert's mystery. 🌊🌵🌟</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-19T13:40:12-04:00",
+  "created_at": "2024-09-19T12:00:06-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Cowgirl",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Coastal Rodeo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42275453567064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17249-IP16-POWDERBLUE-AOD:COASTAL-RODEO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8133938348120,
+      "created_at": "2024-09-19T12:00:06-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33639934197848,
+      "created_at": "2024-09-19T12:00:06-04:00",
+      "position": 1,
+      "updated_at": "2024-09-19T12:00:06-04:00",
+      "product_id": 8133938348120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_IP16_PowderBlue.jpg?v=1726761606",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_IP16_PowderBlue.jpg?v=1726761606",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

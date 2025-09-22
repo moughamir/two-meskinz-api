@@ -1,0 +1,119 @@
+{
+  "id": 5002623582341,
+  "title": "APlusLift 1 3/8\", 1 1/2\", and 2\" Diameter Adjustable Screw Pads- 4 Pieces",
+  "handle": "apluslift-2-post-car-lift-adjustable-screw-pads",
+  "body_html": "<h3>One set of four adjustable screw (screw-in) pads in 1 3/8\", 1 1/2\", and 2\" diameter.</h3>\n<h3>The 1 3/8 inch diameter pads fit car lift models such as TR-10C and TR-10CX car lifts.</h3>\n<ul>\n<li>\n<h4>Pin Diameter: 1 3/8\"</h4>\n</li>\n<li>\n<h4>Pad Diameter: 4 5/8\"</h4>\n</li>\n</ul>\n<h3>The 1 1/2 inch diameter pads fit car lift models such as HW-9KFL, HW-9KOH, HW-10KBP (the model before 2020), and HW-10KOH (the model before 2020).</h3>\n<ul>\n<li>\n<h4>Pin Diameter: 1 1/2\"</h4>\n</li>\n<li>\n<h4>Pad Diameter: 4 5/8\"</h4>\n</li>\n</ul>\n<h3>The 2 inch diameter pads fit car lift models such as APlusLift AP-10SR, AP-12SR, HW-10KBP-A and HW-10KOH-A car lifts.</h3>\n<ul>\n<li>\n<h4>Pin Diameter: 2\"</h4>\n</li>\n<li>\n<h4>Pad Diameter: 4 5/8\"</h4>\n</li>\n</ul>\n<h3><span style=\"color: red;\">Please measure the arm holes of your lift before making the purchase. For parts purchased by mistake, a minimum 25% restocking fee and return shipping charges apply.</span></h3>",
+  "published_at": "2024-01-15T23:30:02-08:00",
+  "created_at": "2020-05-04T00:48:10-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45135106605284,
+      "title": "1 3/8 Inch Diameter",
+      "option1": "1 3/8 Inch Diameter",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "150.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 5002623582341,
+      "created_at": "2024-05-17T23:38:50-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45135092318436,
+      "title": "1 1/2 Inch Diameter",
+      "option1": "1 1/2 Inch Diameter",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "160.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 2,
+      "product_id": 5002623582341,
+      "created_at": "2024-05-17T23:23:16-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45135092285668,
+      "title": "2 Inch Diameter",
+      "option1": "2 Inch Diameter",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "170.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 3,
+      "product_id": 5002623582341,
+      "created_at": "2024-05-17T23:23:16-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 75975466385636,
+      "created_at": "2025-05-15T17:37:38-07:00",
+      "position": 1,
+      "updated_at": "2025-05-15T17:37:39-07:00",
+      "product_id": 5002623582341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-adjustable-screw-pads.jpg?v=1747355859",
+      "width": 2400,
+      "height": 2400
+    },
+    {
+      "id": 77293574783204,
+      "created_at": "2025-07-16T15:36:38-07:00",
+      "position": 2,
+      "updated_at": "2025-07-16T15:36:39-07:00",
+      "product_id": 5002623582341,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/Adjustable-screw-pad-back.jpg?v=1752705399",
+      "width": 1280,
+      "height": 1280
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "1 3/8 Inch Diameter",
+        "1 1/2 Inch Diameter",
+        "2 Inch Diameter"
+      ]
+    }
+  ],
+  "price": 150,
+  "compare_at_price": 90,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-adjustable-screw-pads.jpg?v=1747355859",
+  "images_count": 2,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

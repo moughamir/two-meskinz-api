@@ -1,0 +1,68 @@
+{
+  "id": 5326357201063,
+  "title": "DMP0441 AH725",
+  "handle": "jr507405m",
+  "body_html": "<br><strong>Item #: </strong>TG436863027<br><strong>Brand: </strong>Tungaloy<br><strong>Model #: </strong>6863027<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>0.4409″ </td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size Code (SSC)</strong></td>\n<td>11 </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Cast Iron | Super-Alloys / Titanium | </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>| General Drilling | </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>AH725 </td>\n</tr>\n<tr>\n<td><strong>Point Length (PL)</strong></td>\n<td>0.067″ </td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Drilling Heads </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>TiAlN </td>\n</tr>\n<tr>\n<td><strong>Protruding Length (LPR)</strong></td>\n<td>0.254″ </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Carbide </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:14:54-06:00",
+  "created_at": "2020-06-13T12:45:50-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Tungaloy",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34706800804007,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TG436863027",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "104.13",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5326357201063,
+      "created_at": "2020-06-13T12:45:50-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144102236327,
+      "created_at": "2025-01-23T22:15:07-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:15:08-06:00",
+      "product_id": 5326357201063,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/tun_1340_b574_cbcaab20-9401-465b-8d42-127683dfdf71.jpg?v=1737692108",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 104.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/tun_1340_b574_cbcaab20-9401-465b-8d42-127683dfdf71.jpg?v=1737692108",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tungaloy",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

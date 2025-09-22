@@ -1,0 +1,69 @@
+{
+  "id": 5321188835495,
+  "title": "Brand: Value Collection / Part #: PLFLR2159011",
+  "handle": "tm1280773",
+  "body_html": "<br><strong>Item #: </strong>97032866<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>PLFLR2159011<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Polycarbonate</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Clear</td>\n</tr>\n<tr>\n<td><strong>Performance Properties</strong></td>\n<td>High Strength; Impact-Resistant; Multipurpose</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Film Masking - 2 Sides</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Hard</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>Rockwell R-118</td>\n</tr>\n<tr>\n<td><strong>Tensile Strength (psi)</strong></td>\n<td>9700</td>\n</tr>\n<tr>\n<td><strong>Width (Feet)</strong></td>\n<td>2.00</td>\n</tr>\n<tr>\n<td><strong>Length Ft.</strong></td>\n<td>2.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T11:23:39-06:00",
+  "created_at": "2020-06-12T08:24:07-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Coated Abrasives",
+    "Plastics",
+    "Tool Holders"
+  ],
+  "variants": [
+    {
+      "id": 34692198891687,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97032866",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321188835495,
+      "created_at": "2020-06-12T08:24:07-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239229214887,
+      "created_at": "2025-02-03T19:25:35-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:25:36-06:00",
+      "product_id": 5321188835495,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9703327-21_561e3958-06fa-4ac0-a9f2-bbcde8b3ccb9.jpg?v=1738632336",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9703327-21_561e3958-06fa-4ac0-a9f2-bbcde8b3ccb9.jpg?v=1738632336",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

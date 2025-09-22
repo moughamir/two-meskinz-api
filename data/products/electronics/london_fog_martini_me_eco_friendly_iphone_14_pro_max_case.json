@@ -1,0 +1,99 @@
+{
+  "id": 8174772715608,
+  "title": "London Fog Martini Me iPhone 14 Pro Max Case",
+  "handle": "london-fog-martini-me-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p class=\"p1\">For those who appreciate a good cocktail and a dash of elegance, the Martini Me Phone Case is here to serve. Featuring a playful pattern of martini glasses adorned with a twist of ribbon and olives, this case is as classy as it is fun. Slip it on and let every day feel like a happy hour for your style! Cheers to that!<b>🍸✨</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-11-14T09:20:26-05:00",
+  "created_at": "2024-10-31T14:21:53-04:00",
+  "updated_at": "2025-09-22T15:15:30-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Martini Me",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42368966590552,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16875-IP14PMAX-LFOG-AOD:MARTINI-ME",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8174772715608,
+      "created_at": "2024-10-31T14:21:53-04:00",
+      "updated_at": "2025-09-22T15:15:30-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33906124488792,
+      "created_at": "2024-10-31T14:21:53-04:00",
+      "position": 1,
+      "updated_at": "2024-10-31T14:21:55-04:00",
+      "product_id": 8174772715608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINI-ME_IP14PMAX_LondonFog.jpg?v=1730398915",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33950466768984,
+      "created_at": "2024-11-08T11:07:19-05:00",
+      "position": 2,
+      "updated_at": "2024-11-08T11:07:21-05:00",
+      "product_id": 8174772715608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINIME_PDP1_dca70008-5168-4621-b6b4-accb503c384f.jpg?v=1731082041",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33950466801752,
+      "created_at": "2024-11-08T11:07:19-05:00",
+      "position": 3,
+      "updated_at": "2024-11-08T11:07:21-05:00",
+      "product_id": 8174772715608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINIME_PDP2_f9a1e0f7-43c5-44a1-a0f3-c668aff4faa0.jpg?v=1731082041",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINI-ME_IP14PMAX_LondonFog.jpg?v=1730398915",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

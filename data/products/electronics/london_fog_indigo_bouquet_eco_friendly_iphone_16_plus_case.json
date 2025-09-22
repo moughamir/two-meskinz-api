@@ -1,0 +1,111 @@
+{
+  "id": 8098673623128,
+  "title": "London Fog Indigo Bouquet iPhone 16 Plus Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-09T14:30:52-04:00",
+  "created_at": "2024-08-19T11:31:36-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42206555537496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17360-IP16PLUS-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8098673623128,
+      "created_at": "2024-08-19T11:31:36-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33498976649304,
+      "created_at": "2024-08-19T11:31:36-04:00",
+      "position": 1,
+      "updated_at": "2024-08-19T11:31:36-04:00",
+      "product_id": 8098673623128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/INDIGO-BOUQUET_IP16PLUS_LondonFog.jpg?v=1724081496",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671629303896,
+      "created_at": "2025-03-11T14:11:41-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:11:46-04:00",
+      "product_id": 8098673623128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_06f161a9-b6d1-495b-8437-cdcffdf9c9f2.png?v=1741716706",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671629238360,
+      "created_at": "2025-03-11T14:11:41-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:11:46-04:00",
+      "product_id": 8098673623128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_d7e9e3c5-acc2-434d-aa02-091051ad6181.png?v=1741716706",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671629271128,
+      "created_at": "2025-03-11T14:11:41-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T14:11:46-04:00",
+      "product_id": 8098673623128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_2fc1be96-25e5-4df3-852c-f78109a69628.png?v=1741716706",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/INDIGO-BOUQUET_IP16PLUS_LondonFog.jpg?v=1724081496",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

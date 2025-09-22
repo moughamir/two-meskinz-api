@@ -1,0 +1,77 @@
+{
+  "id": 8038567182424,
+  "title": "London Fog Retro Car iPhone 14/16e Case",
+  "handle": "london-fog-retro-car-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><meta charset=\"utf-8\">Rev up your style with the Retro Car Phone Case! This sleek London Fog case is a nostalgic nod to the golden age of automobiles, showcasing a colorful parade of vintage cars that capture the spirit of classic road trips and timeless adventures. Perfect for car enthusiasts and lovers of all things retro, this case adds a dash of old-school charm to your everyday essentials. Protect your phone while cruising down memory lane, and let your device shine with the elegance and excitement of yesteryear! 🚙✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-07-30T09:20:27-04:00",
+  "created_at": "2024-07-16T13:11:05-04:00",
+  "updated_at": "2025-09-22T15:15:54-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:50s",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Retro Car",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42025239511128,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16735-IP14-LFOG-AOD:RETRO-CAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8038567182424,
+      "created_at": "2024-07-16T13:11:05-04:00",
+      "updated_at": "2025-09-22T15:15:54-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33327233826904,
+      "created_at": "2024-07-16T13:11:05-04:00",
+      "position": 1,
+      "updated_at": "2024-07-16T13:11:05-04:00",
+      "product_id": 8038567182424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CAR_IP14_LondonFog.jpg?v=1721149865",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CAR_IP14_LondonFog.jpg?v=1721149865",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

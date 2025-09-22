@@ -1,0 +1,129 @@
+{
+  "id": 6805504622794,
+  "title": "Gymshark Sharkhead Backpack - Terrace Blue",
+  "handle": "gymshark-sharkhead-backpack-terrace-blue-aw23",
+  "body_html": "<p>This bag means business. Take functionality even further in the Sharkhead backpack, with enough pockets to carry work essentials, workout kit and meals for the day all at the same time.</p>\n<p><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- Light mesh pockets<br data-mce-fragment=\"1\">- Recycled thick airmesh covered foam back<br data-mce-fragment=\"1\">- Bucket opening<br data-mce-fragment=\"1\">- Not machine washable, wipe clean only<br data-mce-fragment=\"1\">- 100% Polyester<br data-mce-fragment=\"1\">- Height: 12.2 in. Width: 7.1 in. Depth: 18.9 in.<br data-mce-fragment=\"1\">- SKU: I2A1K-UB9V</p>",
+  "published_at": "2023-09-29T08:50:01-07:00",
+  "created_at": "2023-09-27T02:48:11-07:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "20EXTRA",
+    "Accessories",
+    "activity: rest day",
+    "algolia",
+    "AW23",
+    "backpacks",
+    "Bags",
+    "bf-23",
+    "bfcm24",
+    "NAM-28/09/23",
+    "NAM-28/09/23NPD",
+    "not-cyber-deals",
+    "rest-day",
+    "spanish-dg",
+    "spanish-done",
+    "test",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39790339817674,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A1K-UB9V-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "36.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805504622794,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976233906378,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "position": 1,
+      "updated_at": "2023-09-27T02:48:13-07:00",
+      "product_id": 6805504622794,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-0373.jpg?v=1695808093",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976234365130,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "position": 2,
+      "updated_at": "2023-09-27T02:48:13-07:00",
+      "product_id": 6805504622794,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-0380.jpg?v=1695808093",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976234102986,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "position": 3,
+      "updated_at": "2023-09-27T02:48:13-07:00",
+      "product_id": 6805504622794,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-0995.jpg?v=1695808093",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976233939146,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "position": 4,
+      "updated_at": "2023-09-27T02:48:13-07:00",
+      "product_id": 6805504622794,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-1001.jpg?v=1695808093",
+      "width": 1691,
+      "height": 2018
+    },
+    {
+      "id": 28976234266826,
+      "created_at": "2023-09-27T02:48:11-07:00",
+      "position": 5,
+      "updated_at": "2023-09-27T02:48:13-07:00",
+      "product_id": 6805504622794,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-0376.jpg?v=1695808093",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/SharkheadBackpack-GSTerraceBlue-I2A1K-UB9V-0373.jpg?v=1695808093",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

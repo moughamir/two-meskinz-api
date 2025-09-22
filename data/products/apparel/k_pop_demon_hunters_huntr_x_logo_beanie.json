@@ -1,0 +1,140 @@
+{
+  "id": 8024808587311,
+  "title": "KPop Demon Hunters HUNTR/X Logo Beanie",
+  "handle": "k-pop-demon-hunters-huntr-x-logo-beanie",
+  "body_html": "<p>Show off your devotion to the HUNTR/X with this stylish HUNTR/X Logo Beanie from <em>K-Pop Demon Hunters</em>! Crafted for comfort and boldness, this beanie features the sleek and iconic HUNTR/X logo embroidered on the front — perfect for fans who want to keep warm and look sharp.</p>\n<ul>\n<li>Made of: 100% Turbo acrylic fabric</li>\n<li>Size: 12\" (30 cm) in length</li>\n<li>Hypoallergenic</li>\n<li>Care: Hand washable<meta charset=\"utf-8\">\n<br>\n</li>\n</ul>",
+  "published_at": "2025-07-25T09:58:58-04:00",
+  "created_at": "2025-07-24T17:06:10-04:00",
+  "updated_at": "2025-09-22T11:40:42-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "81498621",
+    "Beanies",
+    "Embroidered",
+    "Hats",
+    "Headwear",
+    "Huntrix",
+    "KPDH-6-0725",
+    "KPop Demon Hunters",
+    "Men",
+    "movie_id- 81498621",
+    "Netflix",
+    "Women",
+    "Y1501KC"
+  ],
+  "variants": [
+    {
+      "id": 44102433112111,
+      "title": "Black",
+      "option1": "Black",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-100934-0001-KPDH-6-0725-HUNTB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36583645675567,
+        "product_id": 8024808587311,
+        "position": 1,
+        "created_at": "2025-07-24T17:06:20-04:00",
+        "updated_at": "2025-07-24T17:06:23-04:00",
+        "alt": "K-Pop Demon Hunters Huntr/x Logo Beanie Black",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTB_100934_BLACK_MF.jpg?v=1753391183",
+        "variant_ids": [
+          44102433112111
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8024808587311,
+      "created_at": "2025-07-24T17:06:10-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    },
+    {
+      "id": 44102433144879,
+      "title": "Heather Grey",
+      "option1": "Heather Grey",
+      "option2": null,
+      "option3": null,
+      "sku": "KPDH-100934-0005-KPDH-6-0725-HUNTB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36583645708335,
+        "product_id": 8024808587311,
+        "position": 2,
+        "created_at": "2025-07-24T17:06:20-04:00",
+        "updated_at": "2025-07-24T17:06:23-04:00",
+        "alt": "K-Pop Demon Hunters Huntr/x Logo Beanie Heather Grey",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTB_100934_GREY_MF.jpg?v=1753391183",
+        "variant_ids": [
+          44102433144879
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 8024808587311,
+      "created_at": "2025-07-24T17:06:10-04:00",
+      "updated_at": "2025-09-22T11:40:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36583645675567,
+      "created_at": "2025-07-24T17:06:20-04:00",
+      "position": 1,
+      "updated_at": "2025-07-24T17:06:23-04:00",
+      "product_id": 8024808587311,
+      "variant_ids": [
+        44102433112111
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTB_100934_BLACK_MF.jpg?v=1753391183",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36583645708335,
+      "created_at": "2025-07-24T17:06:20-04:00",
+      "position": 2,
+      "updated_at": "2025-07-24T17:06:23-04:00",
+      "product_id": 8024808587311,
+      "variant_ids": [
+        44102433144879
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTB_100934_GREY_MF.jpg?v=1753391183",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Heather Grey"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/KPDH-6-0725-HUNTB_100934_BLACK_MF.jpg?v=1753391183",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

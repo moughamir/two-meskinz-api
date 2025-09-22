@@ -1,0 +1,99 @@
+{
+  "id": 8174777466968,
+  "title": "Electric Blue Blue Groove iPhone 13 Mini Case",
+  "handle": "electric-blue-blue-groove-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p class=\"p1\">Get ready to dance the night away with the Blue Groove Phone Case! Featuring a dazzling display of disco balls and sparkling stars, this case is all about bringing that retro groove wherever you go. Perfect for anyone who loves a touch of vintage flair and a lot of sparkle, it’s sure to make your phone the life of the party. <b>🎶✨</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-11-14T09:30:14-05:00",
+  "created_at": "2024-10-31T14:22:10-04:00",
+  "updated_at": "2025-09-22T15:15:30-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Blue Groove",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42368970981464,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16633-IP13MINI-ELEBLUE-AOD:BLUE-GROOVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8174777466968,
+      "created_at": "2024-10-31T14:22:10-04:00",
+      "updated_at": "2025-09-22T15:15:30-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33906132746328,
+      "created_at": "2024-10-31T14:22:10-04:00",
+      "position": 1,
+      "updated_at": "2024-10-31T14:22:12-04:00",
+      "product_id": 8174777466968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-GROOVE_IP13MINI_ElectricBlue.jpg?v=1730398932",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33950570152024,
+      "created_at": "2024-11-08T11:26:25-05:00",
+      "position": 2,
+      "updated_at": "2024-11-08T11:26:27-05:00",
+      "product_id": 8174777466968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUEGROOVE_PDP1_7480b62c-7346-4065-b112-6f9ae6630546.jpg?v=1731083187",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33950570119256,
+      "created_at": "2024-11-08T11:26:25-05:00",
+      "position": 3,
+      "updated_at": "2024-11-08T11:26:27-05:00",
+      "product_id": 8174777466968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUEGROOVE_PDP2_c03d88e3-4c95-4883-839d-c338b6c0825a.jpg?v=1731083187",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-GROOVE_IP13MINI_ElectricBlue.jpg?v=1730398932",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

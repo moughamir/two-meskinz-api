@@ -1,0 +1,67 @@
+{
+  "id": 7786438262951,
+  "title": "Brand: Euri Lighting / Part #: LIS-DLC1000E",
+  "handle": "mt7106382",
+  "body_html": "<br><strong>Item #: </strong>18319889<br><strong>Brand: </strong>Euri Lighting<br><strong>Model #: </strong>LIS-DLC1000E<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Overall Width/Diameter (Decimal Inch)</strong>\n</td>\n<td>7.48</td>\n</tr>\n<tr>\n<td><strong>Housing Type</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Insulation Contact Rating</strong></td>\n<td>NonIC Rated</td>\n</tr>\n<tr>\n<td><strong>Lamp Type</strong></td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>120V</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3.6</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Inch)</strong></td>\n<td>3.61</td>\n</tr>\n<tr>\n<td><strong>Housing Material</strong></td>\n<td>Aluminum; Polycarbonate</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T00:57:40-06:00",
+  "created_at": "2023-12-30T00:57:40-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Euri Lighting",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Lighting"
+  ],
+  "variants": [
+    {
+      "id": 43708013314215,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "18319889",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "31.54",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786438262951,
+      "created_at": "2023-12-30T00:57:40-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238657118375,
+      "created_at": "2025-02-03T18:58:41-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:58:42-06:00",
+      "product_id": 7786438262951,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1831988-21.jpg?v=1738630722",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 31.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1831988-21.jpg?v=1738630722",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Euri Lighting",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 8335117320280,
+  "title": "Seashell Pup Bloom iPhone 15 Plus Case",
+  "handle": "seashell-pup-bloom-eco-friendly-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to your daily dose of pawsitivity! The Pup Bloom Phone Case is bursting with colorful canines, playful flowers, and heart-melting charm. Whether you’re a proud pup parent or just really into dogs in sweaters (same), this case is the cutest way to protect your phone from drops, scratches, and bad vibes. 🐶🌼📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-22T09:14:14-04:00",
+  "created_at": "2025-04-01T11:42:14-04:00",
+  "updated_at": "2025-09-22T15:14:29-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Mix and Maximalist",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Pup Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42788476911704,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17191-IP15PLUS-SEASHELL-AOD:PUP-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8335117320280,
+      "created_at": "2025-04-01T11:42:14-04:00",
+      "updated_at": "2025-09-22T15:14:29-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34775479713880,
+      "created_at": "2025-04-01T11:42:14-04:00",
+      "position": 1,
+      "updated_at": "2025-04-01T11:42:16-04:00",
+      "product_id": 8335117320280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IP15PLUS_Seashell.jpg?v=1743522136",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34892766281816,
+      "created_at": "2025-04-23T10:51:46-04:00",
+      "position": 2,
+      "updated_at": "2025-04-23T10:51:52-04:00",
+      "product_id": 8335117320280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Friends_PDP_1x1_01_36c7c0f9-d3f1-42d5-8fbe-7648f5f8d839.jpg?v=1745419912",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892766314584,
+      "created_at": "2025-04-23T10:51:46-04:00",
+      "position": 3,
+      "updated_at": "2025-04-23T10:51:52-04:00",
+      "product_id": 8335117320280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_Androids_PDP_1x1_03_c91e4e45-cb5a-4422-917e-231864054ae6.jpg?v=1745419912",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34892766347352,
+      "created_at": "2025-04-23T10:51:46-04:00",
+      "position": 4,
+      "updated_at": "2025-04-23T10:51:52-04:00",
+      "product_id": 8335117320280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MixMax_Render_Group_IPGrid_PDP_1x1_05_a8737a71-6087-4563-a932-b05ebdcd1927.jpg?v=1745419912",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUP-BLOOM_IP15PLUS_Seashell.jpg?v=1743522136",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

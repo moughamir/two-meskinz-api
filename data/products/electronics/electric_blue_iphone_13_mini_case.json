@@ -1,0 +1,104 @@
+{
+  "id": 7361819312216,
+  "title": "Electric Blue iPhone 13 Mini Case",
+  "handle": "electric-blue-iphone-13-mini-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:16:14-04:00",
+  "created_at": "2023-05-12T10:16:11-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230007734360,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16633-IP13MINI-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 29,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819312216,
+      "created_at": "2023-05-12T10:16:11-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30269180837976,
+      "created_at": "2023-05-23T18:23:59-04:00",
+      "position": 1,
+      "updated_at": "2023-05-23T18:24:01-04:00",
+      "product_id": 7361819312216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_MINI_ELECTRIC_BLUE_BACK.jpg?v=1684880641",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180805208,
+      "created_at": "2023-05-23T18:23:59-04:00",
+      "position": 2,
+      "updated_at": "2023-05-23T18:24:01-04:00",
+      "product_id": 7361819312216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_MINI_ELECTRIC_BLUE_BACK_45L.jpg?v=1684880641",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180772440,
+      "created_at": "2023-05-23T18:23:59-04:00",
+      "position": 3,
+      "updated_at": "2023-05-23T18:24:01-04:00",
+      "product_id": 7361819312216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_MINI_ELECTRIC_BLUE_BACK_45R.jpg?v=1684880641",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826947342424,
+      "created_at": "2023-10-16T14:29:27-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:29:29-04:00",
+      "product_id": 7361819312216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_4ab30687-6dcd-4c90-acf5-af458658515d.jpg?v=1697480969",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_MINI_ELECTRIC_BLUE_BACK.jpg?v=1684880641",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

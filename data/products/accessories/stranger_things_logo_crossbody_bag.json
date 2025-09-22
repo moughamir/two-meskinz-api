@@ -1,0 +1,123 @@
+{
+  "id": 7927958798383,
+  "title": "Stranger Things Logo Crossbody Bag",
+  "handle": "stranger-things-logo-crossbody-bag",
+  "body_html": "<p>Carry the vibe of Hawkins with you wherever you go in the <em>Stranger Things</em> Logo Crossbody Bag. With the iconic <em>Stranger Things</em> logo front and center, this bag brings that retro, 80s-inspired charm to your everyday look. Compact yet spacious enough for your essentials, it's perfect for running errands, going on mini adventures, or just showing off your fandom. Get ready for some serious style with a side of mystery—because who knows what's lurking around the corner?</p><p>Designed for those who love to explore the great outdoors or dance the night away at festivals, this versatile bag will become the ideal companion for all your daily adventures.</p><ul>\n<li>100% polyester</li>\n<li>Bag size: 5.7\" × 7.7\" × 2\" (14.5 cm × 19.5 cm × 5 cm)</li>\n<li>Water-resistant and durable</li>\n<li>Sturdy fabric with fusible backing to add firmness</li>\n<li>Inside and outside pockets</li>\n<li>Adjustable strap</li>\n<li>Two-way zipper</li>\n<li>Machine-wash cold with like colors, without bleach. Don’t dry-clean or tumble-dry</li>\n</ul><p><br></p>",
+  "published_at": "2025-03-10T10:11:07-04:00",
+  "created_at": "2025-02-17T08:32:41-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Bags",
+  "tags": [
+    "8005728",
+    "Accessories",
+    "AOP-UCB",
+    "Bags",
+    "ST-02-0225",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Type: Bags",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43603998277679,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101757-0001-ST-DEMOB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35545219727407,
+        "product_id": 7927958798383,
+        "position": 1,
+        "created_at": "2025-02-17T08:32:41-05:00",
+        "updated_at": "2025-02-17T08:32:41-05:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_FT_MF.jpg?v=1739799161",
+        "variant_ids": [
+          43603998277679
+        ]
+      },
+      "available": true,
+      "price": "34.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7927958798383,
+      "created_at": "2025-02-17T08:32:42-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35545219727407,
+      "created_at": "2025-02-17T08:32:41-05:00",
+      "position": 1,
+      "updated_at": "2025-02-17T08:32:41-05:00",
+      "product_id": 7927958798383,
+      "variant_ids": [
+        43603998277679
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_FT_MF.jpg?v=1739799161",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35545219760175,
+      "created_at": "2025-02-17T08:32:41-05:00",
+      "position": 2,
+      "updated_at": "2025-02-17T08:32:41-05:00",
+      "product_id": 7927958798383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_BK_MF.jpg?v=1739799161",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35545219792943,
+      "created_at": "2025-02-17T08:32:41-05:00",
+      "position": 3,
+      "updated_at": "2025-02-17T08:32:41-05:00",
+      "product_id": 7927958798383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_FT_LIFE.jpg?v=1739799161",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35545219825711,
+      "created_at": "2025-02-17T08:32:41-05:00",
+      "position": 4,
+      "updated_at": "2025-02-17T08:32:41-05:00",
+      "product_id": 7927958798383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_BK_LIFE.jpg?v=1739799161",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 34.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-DEMOB_54_101757_FT_MF.jpg?v=1739799161",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Bags",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

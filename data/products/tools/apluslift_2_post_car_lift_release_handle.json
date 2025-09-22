@@ -1,0 +1,68 @@
+{
+  "id": 8423056015588,
+  "title": "APlusLift 2-Post Car Lift Release Handle",
+  "handle": "apluslift-2-post-car-lift-release-handle",
+  "body_html": "<h3>A replacement release handle for TR-10C and TR-10CX 2-post car lift.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2024-06-20T21:24:49-07:00",
+  "created_at": "2024-06-20T21:24:49-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330908184804,
+      "title": "TR-10C and TR-10CX",
+      "option1": "TR-10C and TR-10CX",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.00",
+      "grams": 2268,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8423056015588,
+      "created_at": "2024-06-20T21:24:49-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 67957621588196,
+      "created_at": "2024-06-20T21:24:59-07:00",
+      "position": 1,
+      "updated_at": "2024-06-20T21:25:00-07:00",
+      "product_id": 8423056015588,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/11.jpg?v=1718943900",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "TR-10C and TR-10CX"
+      ]
+    }
+  ],
+  "price": 35,
+  "compare_at_price": 90,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/11.jpg?v=1718943900",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

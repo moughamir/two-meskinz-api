@@ -1,0 +1,119 @@
+{
+  "id": 8216565514328,
+  "title": "Seashell Love Pack iPhone 11 Case",
+  "handle": "seashell-love-pack-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Wrap your phone in all things love with the Love Pack Phone Case from our <em>Amour Collection</em>! Featuring love letters, roses, cherries, and sweet heart-shaped candies, this case is bursting with Valentine’s charm and romantic vibes. <meta charset=\"utf-8\">💌❤️</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:23:05-05:00",
+  "created_at": "2024-12-16T10:52:26-05:00",
+  "updated_at": "2025-09-22T15:15:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Pack",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42469058117720,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:LOVE-PACK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8216565514328,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "updated_at": "2025-09-22T15:15:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34130692571224,
+      "created_at": "2024-12-16T10:52:26-05:00",
+      "position": 1,
+      "updated_at": "2024-12-16T10:52:28-05:00",
+      "product_id": 8216565514328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP11_Seashell.jpg?v=1734364348",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34215472660568,
+      "created_at": "2025-01-03T12:44:23-05:00",
+      "position": 2,
+      "updated_at": "2025-01-03T12:44:24-05:00",
+      "product_id": 8216565514328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP1_45cc68ba-d357-462b-b4f5-a01bb172a6ec.jpg?v=1735926264",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215472627800,
+      "created_at": "2025-01-03T12:44:23-05:00",
+      "position": 3,
+      "updated_at": "2025-01-03T12:44:24-05:00",
+      "product_id": 8216565514328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP2_47fb7576-4e07-4407-8713-34dd2a333312.jpg?v=1735926264",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215472693336,
+      "created_at": "2025-01-03T12:44:23-05:00",
+      "position": 4,
+      "updated_at": "2025-01-03T12:44:25-05:00",
+      "product_id": 8216565514328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP3_5e19bd69-9d5e-4d58-9841-54499b8c8734.jpg?v=1735926265",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34215472726104,
+      "created_at": "2025-01-03T12:44:23-05:00",
+      "position": 5,
+      "updated_at": "2025-01-03T12:44:25-05:00",
+      "product_id": 8216565514328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVEPACK_PDP4_48eb860f-a82f-4565-bdf7-9dad6f4c0611.jpg?v=1735926265",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-PACK_IP11_Seashell.jpg?v=1734364348",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 7997844947032,
+  "title": "Powder Blue Mediterranean Summers iPhone 6/6s/7/8/SE Case",
+  "handle": "powder-blue-mediterranean-summers-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the vibrant and sun-kissed world of Mediterranean Summers with this lively phone case! Bursting with colorful illustrations of juicy citrus fruits, refreshing cocktails, and delectable seafood, this design captures the essence of a perfect summer day by the coast. Whether you're dreaming of a seaside escape or simply want to brighten up your everyday life, the Mediterranean Summers Phone Case is your ideal companion. Let the vivid imagery of fresh produce, aromatic blossoms, and tantalizing treats transport you to a Mediterranean paradise every time you reach for your phone. 🍋🦞🌸</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:12:16-04:00",
+  "created_at": "2024-06-24T11:14:46-04:00",
+  "updated_at": "2025-09-22T15:15:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mediterranean Summers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946516095064,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32758-IP7-POWDERBLUE-AOD:MEDITERRANEAN-SUMMERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997844947032,
+      "created_at": "2024-06-24T11:14:46-04:00",
+      "updated_at": "2025-09-22T15:15:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144127717464,
+      "created_at": "2024-06-24T11:14:46-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:46-04:00",
+      "product_id": 7997844947032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-SUMMERS_IP7_PowderBlue.jpg?v=1719242086",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161210593368,
+      "created_at": "2024-06-26T15:53:34-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:53:35-04:00",
+      "product_id": 7997844947032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_06_e3a6a2a1-74f4-47de-be0d-364b34105f56.jpg?v=1719431615",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161210658904,
+      "created_at": "2024-06-26T15:53:34-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:53:35-04:00",
+      "product_id": 7997844947032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_07_d94a30ce-e410-42e8-a4e0-20fb8f06f953.jpg?v=1719431615",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161211379800,
+      "created_at": "2024-06-26T15:53:34-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:53:51-04:00",
+      "product_id": 7997844947032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_8b12c5c1-03be-4f29-96fd-2cba1fb10c0a.jpg?v=1719431631",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-SUMMERS_IP7_PowderBlue.jpg?v=1719242086",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

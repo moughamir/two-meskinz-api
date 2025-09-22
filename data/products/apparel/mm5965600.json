@@ -1,0 +1,68 @@
+{
+  "id": 5321697493159,
+  "title": "‎M36x1.5 - 6h Ring Gage - Go",
+  "handle": "mm5965600",
+  "body_html": "<br><strong>Item #: </strong>ER45L2005010532<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>L0200501.0532<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Thread Ring Gage </td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Metric </td>\n</tr>\n<tr>\n<td><strong>Go / No Go</strong></td>\n<td>Go </td>\n</tr>\n<tr>\n<td><strong>Certification</strong></td>\n<td>Short form certification included </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>M36x1.5 </td>\n</tr>\n<tr>\n<td><strong>Pitch</strong></td>\n<td>1.5 </td>\n</tr>\n<tr>\n<td><strong>Classification</strong></td>\n<td>6H </td>\n</tr>\n<tr>\n<td><strong>Dimension Standards</strong></td>\n<td>DIN ISO 1502 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:30:56-06:00",
+  "created_at": "2020-06-12T10:57:50-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Testing, Measuring & Inspection",
+  "tags": [
+    "Coated Abrasives",
+    "Reference & Thread Gages"
+  ],
+  "variants": [
+    {
+      "id": 34693529993383,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER45L2005010532",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "304.87",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321697493159,
+      "created_at": "2020-06-12T10:57:50-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143148327079,
+      "created_at": "2025-01-23T21:31:05-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:31:06-06:00",
+      "product_id": 5321697493159,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_3DGGUTLR3_4740_c0a5a258-ef4b-4d89-83b2-7e224a1cc56c.jpg?v=1737689466",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 304.87,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/emg_3DGGUTLR3_4740_c0a5a258-ef4b-4d89-83b2-7e224a1cc56c.jpg?v=1737689466",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Testing, Measuring & Inspection",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

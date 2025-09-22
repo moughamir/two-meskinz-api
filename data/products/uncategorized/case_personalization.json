@@ -1,0 +1,71 @@
+{
+  "id": 7413399912536,
+  "title": "Hand-Crafted Service Fee (Text)",
+  "handle": "case-personalization",
+  "body_html": null,
+  "published_at": "2023-09-07T16:29:26-04:00",
+  "created_at": "2023-09-06T14:06:04-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Personalization Fee",
+  "tags": [
+    "exclude_bundle",
+    "exclude_rebuy",
+    "exclude_SS",
+    "Personalization"
+  ],
+  "variants": [
+    {
+      "id": 40261092704344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "Case Personalization",
+      "requires_shipping": false,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "10.00",
+      "grams": 5,
+      "compare_at_price": "10.00",
+      "position": 1,
+      "product_id": 7413399912536,
+      "created_at": "2023-09-06T14:06:04-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31837926752344,
+      "created_at": "2023-10-20T11:18:53-04:00",
+      "position": 1,
+      "updated_at": "2023-10-20T11:18:55-04:00",
+      "product_id": 7413399912536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/personalization-pencil-edit.jpg?v=1697815135",
+      "width": 2970,
+      "height": 2970
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 10,
+  "compare_at_price": 10,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/personalization-pencil-edit.jpg?v=1697815135",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Personalization Fee",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

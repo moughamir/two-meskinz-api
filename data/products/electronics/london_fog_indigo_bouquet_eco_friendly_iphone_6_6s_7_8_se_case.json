@@ -1,0 +1,110 @@
+{
+  "id": 7536125542488,
+  "title": "London Fog Indigo Bouquet iPhone 6/6s/7/8/SE Case",
+  "handle": "london-fog-indigo-bouquet-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><span>Step into a world of timeless floral elegance with the Indigo Bouquet Phone Case. Its delicate blueprint of florals harkens back to classic botanical illustrations, making every glance at your phone a tranquil escape to a serene indigo-tinted garden. 🌼📘📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:16:20-05:00",
+  "created_at": "2024-01-15T11:10:00-05:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Indigo Bouquet",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949020622936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32753-IP7-LFOG-AOD:INDIGO-BOUQUET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536125542488,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079723397208,
+      "created_at": "2024-01-15T11:10:00-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:00-05:00",
+      "product_id": 7536125542488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP7_LondonFog.jpg?v=1705335000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088843223128,
+      "created_at": "2024-01-17T10:16:15-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:16:16-05:00",
+      "product_id": 7536125542488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP2_28468d4e-4500-48bc-bc15-51d452a30685.png?v=1705504576",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088843288664,
+      "created_at": "2024-01-17T10:16:15-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:16:17-05:00",
+      "product_id": 7536125542488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IndigoBouquet_PDP1_97aadaf3-2d41-4047-bcf2-937994d3b9a8.png?v=1705504577",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088843255896,
+      "created_at": "2024-01-17T10:16:15-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:16:17-05:00",
+      "product_id": 7536125542488,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_a1601544-6660-4527-9aac-78a50e61f5f9.png?v=1705504577",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/INDIGO-BOUQUET_IP7_LondonFog.jpg?v=1705335000",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

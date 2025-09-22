@@ -1,0 +1,121 @@
+{
+  "id": 7179902746733,
+  "title": "Lemon",
+  "handle": "lemon",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">The tangy, slightly sweet scent of fresh <strong>lemon</strong> shines in this citrusy fragrance, bringing a refreshing feeling to any space.</p>",
+  "published_at": "2024-01-24T09:19:50-07:00",
+  "created_at": "2024-01-08T14:24:19-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Simplicity by Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand: Simplicity by Pura",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Citrus",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart13",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40967898824813,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LMVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7179902746733,
+      "created_at": "2024-01-08T14:24:19-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30985576087661,
+      "created_at": "2024-01-08T14:32:34-07:00",
+      "position": 1,
+      "updated_at": "2024-01-08T14:33:03-07:00",
+      "product_id": 7179902746733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Simplicity-Lemon-Vertical-Resized.jpg?v=1704749583",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30985576480877,
+      "created_at": "2024-01-08T14:32:34-07:00",
+      "position": 2,
+      "updated_at": "2024-01-08T14:33:03-07:00",
+      "product_id": 7179902746733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lemonresizedcopy_c4757b4a-37ac-4031-8fbc-32de6bf298cf.jpg?v=1704749583",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30985575989357,
+      "created_at": "2024-01-08T14:32:34-07:00",
+      "position": 3,
+      "updated_at": "2024-01-08T14:33:03-07:00",
+      "product_id": 7179902746733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lemon-Simplicity-Prod3-0124.jpg?v=1704749583",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30985576022125,
+      "created_at": "2024-01-08T14:32:34-07:00",
+      "position": 4,
+      "updated_at": "2024-01-08T14:33:01-07:00",
+      "product_id": 7179902746733,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Simplicity-Lemon-Overhead-Shadow-Resized.jpg?v=1704749581",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Simplicity-Lemon-Vertical-Resized.jpg?v=1704749583",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Simplicity by Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

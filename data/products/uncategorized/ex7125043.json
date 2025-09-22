@@ -1,0 +1,68 @@
+{
+  "id": 5330223464615,
+  "title": "‎5/16-18 BSW -  Ring Gage - Go",
+  "handle": "ex7125043",
+  "body_html": "<br><strong>Item #: </strong>ER45L2005003051<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>L0200500.3051<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Go Ring Gage </td>\n</tr>\n<tr>\n<td><strong>Certification</strong></td>\n<td>Short form certificate included </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>‎5/16″-18 </td>\n</tr>\n<tr>\n<td><strong>Dimension Standards</strong></td>\n<td>DIN 2285 </td>\n</tr>\n<tr>\n<td><strong>Classification</strong></td>\n<td>MED.CL </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:35:51-06:00",
+  "created_at": "2020-06-14T11:22:41-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Testing, Measuring & Inspection",
+  "tags": [
+    "Reference & Thread Gages",
+    "Threaded Inserts"
+  ],
+  "variants": [
+    {
+      "id": 34716134047911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER45L2005003051",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "112.56",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5330223464615,
+      "created_at": "2020-06-14T11:22:42-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143255019687,
+      "created_at": "2025-01-23T21:36:00-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:36:02-06:00",
+      "product_id": 5330223464615,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_64fdb885-bac8-4f0e-a488-86651d921892.png?v=1737689762",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 112.56,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_64fdb885-bac8-4f0e-a488-86651d921892.png?v=1737689762",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Testing, Measuring & Inspection",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

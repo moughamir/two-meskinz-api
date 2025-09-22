@@ -1,0 +1,67 @@
+{
+  "id": 7786448978087,
+  "title": "Brand: Williams / Part #: 32827-TH",
+  "handle": "wk344033787",
+  "body_html": "<br><strong>Item #: </strong>54363049<br><strong>Brand: </strong>Williams<br><strong>Model #: </strong>32827-TH<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drive Size</strong>\n</td>\n<td>1/2 in</td>\n</tr>\n<tr>\n<td><strong>Socket Size (mm)</strong></td>\n<td>27.00</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Deep Socket</td>\n</tr>\n<tr>\n<td><strong>Tool Type</strong></td>\n<td>Tethered Hand Socket</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-7/16</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Supertorque Lobular Openings for Greater Turning Power Without Deforming the Fastener, Designed for Quick Engagement on Both 6 &amp; 12 Point Fasteners</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Polished Chrome</td>\n</tr>\n<tr>\n<td><strong>Number Of Points</strong></td>\n<td>12</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T02:04:11-06:00",
+  "created_at": "2023-12-30T02:04:11-06:00",
+  "updated_at": "2025-09-22T10:53:17-05:00",
+  "vendor": "Williams",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43708038840487,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "54363049",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.07",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786448978087,
+      "created_at": "2023-12-30T02:04:11-06:00",
+      "updated_at": "2025-09-22T10:53:17-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238720950439,
+      "created_at": "2025-02-03T19:01:23-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:01:24-06:00",
+      "product_id": 7786448978087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5436307-21_c4eb33b0-19f5-4bca-84c6-53d55d0a0a08.jpg?v=1738630884",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.07,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5436307-21_c4eb33b0-19f5-4bca-84c6-53d55d0a0a08.jpg?v=1738630884",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Williams",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

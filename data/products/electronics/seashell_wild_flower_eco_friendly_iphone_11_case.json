@@ -1,0 +1,97 @@
+{
+  "id": 8262513590360,
+  "title": "Seashell Wild Flower iPhone 11 Case",
+  "handle": "seashell-wild-flower-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Bring the beauty of nature to your everyday with the Wild Flower Phone Case, part of the <em>Pela x Ollie Smither Artist Series Collection</em>! Featuring Ollie Smither's delicate black-line illustrations of wildflowers, this case is a tribute to untamed beauty and effortless charm.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-06T09:10:52-05:00",
+  "created_at": "2025-01-23T13:39:27-05:00",
+  "updated_at": "2025-09-22T15:15:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Ollie Smither",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Wild Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42584702025816,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:WILD-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8262513590360,
+      "created_at": "2025-01-23T13:39:27-05:00",
+      "updated_at": "2025-09-22T15:15:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34357796962392,
+      "created_at": "2025-01-23T13:39:27-05:00",
+      "position": 1,
+      "updated_at": "2025-01-23T13:54:50-05:00",
+      "product_id": 8262513590360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FLOWER_IP11_Seashell.jpg?v=1737658490",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34529443283032,
+      "created_at": "2025-02-16T12:18:11-05:00",
+      "position": 2,
+      "updated_at": "2025-02-16T12:18:14-05:00",
+      "product_id": 8262513590360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9561_a6ba7ade-5acc-4334-8ca3-d4620901de27.jpg?v=1739726294",
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "id": 34529443250264,
+      "created_at": "2025-02-16T12:18:11-05:00",
+      "position": 3,
+      "updated_at": "2025-02-16T12:18:14-05:00",
+      "product_id": 8262513590360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9748_jpg_fabec755-15e1-4caf-a12b-f74edafcba03.jpg?v=1739726294",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-FLOWER_IP11_Seashell.jpg?v=1737658490",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 7555684401240,
+  "title": "Black Mobile iPhone 15 Case",
+  "handle": "black-mobile-eco-friendly-iphone-15-case",
+  "body_html": "<p>Transform your phone into a statement piece with the Black Mobile Phone Case. Made from compostable materials, this durable phone case not only protects your phone, but also helps reduce waste. The retro design adds a touch of nostalgia to your phone, making it stand out from the crowd.</p>",
+  "published_at": "2024-02-14T08:22:08-05:00",
+  "created_at": "2024-02-07T15:23:17-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "collection:Y2K",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Mobile",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41036786991192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16985-IP15-BLACK-AOD:MOBILE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7555684401240,
+      "created_at": "2024-02-07T15:23:17-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32174784118872,
+      "created_at": "2024-02-07T15:23:17-05:00",
+      "position": 1,
+      "updated_at": "2024-02-07T15:23:17-05:00",
+      "product_id": 7555684401240,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MOBILE_IP15_Black.jpg?v=1707337397",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MOBILE_IP15_Black.jpg?v=1707337397",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8451822944423,
+  "title": "Brand: OSG / Part #: 9910225",
+  "handle": "94723566",
+  "body_html": "<br><strong>Item #: </strong>81184830<br><strong>Brand: </strong>OSG<br><strong>Model #: </strong>9910225<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Adapter</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Shrink-Fit Toolholders</td>\n</tr>\n<tr>\n<td><strong>Compatible Shrink-Fit Unit</strong></td>\n<td>HR-B Handy Unit</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>For Use With HSK32 Toolholders</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:38:53-06:00",
+  "created_at": "2025-01-22T09:38:52-06:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "OSG",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46493930881191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81184830",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451822944423,
+      "created_at": "2025-01-22T09:38:52-06:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38111176065191,
+      "created_at": "2025-01-22T09:39:03-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:39:04-06:00",
+      "product_id": 8451822944423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f0f2c6ec-aa91-42e8-8717-14ec8dd67d33.png?v=1737560344",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f0f2c6ec-aa91-42e8-8717-14ec8dd67d33.png?v=1737560344",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OSG",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

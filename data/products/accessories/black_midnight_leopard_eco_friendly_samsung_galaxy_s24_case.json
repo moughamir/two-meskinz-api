@@ -1,0 +1,74 @@
+{
+  "id": 7539149144152,
+  "title": "Black Midnight Leopard Samsung Galaxy S24 Case",
+  "handle": "black-midnight-leopard-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T11:31:01-05:00",
+  "created_at": "2024-01-18T17:01:01-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Midnight Leopard",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40961814528088,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13780-S24-BLACK-AOD:MIDNIGHT-LEOPARD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7539149144152,
+      "created_at": "2024-01-18T17:01:01-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32115858964568,
+      "created_at": "2024-01-23T11:28:57-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T11:28:57-05:00",
+      "product_id": 7539149144152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MIDNIGHT-LEOPARD_S24_Black_36ed6b1c-7783-4ebb-8f4e-984cb6263e11.jpg?v=1706027337",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MIDNIGHT-LEOPARD_S24_Black_36ed6b1c-7783-4ebb-8f4e-984cb6263e11.jpg?v=1706027337",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

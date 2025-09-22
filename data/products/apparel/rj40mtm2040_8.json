@@ -1,0 +1,67 @@
+{
+  "id": 7786385539239,
+  "title": "Brand: Emuge / Part #: 6665.030",
+  "handle": "rj40mtm2040-8",
+  "body_html": "<br><strong>Item #: </strong>47932082<br><strong>Brand: </strong>Emuge<br><strong>Model #: </strong>6665.030<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Taper Cleaner</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:48:53-06:00",
+  "created_at": "2023-12-29T21:48:53-06:00",
+  "updated_at": "2025-09-22T10:53:28-05:00",
+  "vendor": "Emuge",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Rotary Tool Holders & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43707676426407,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "47932082",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.36",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786385539239,
+      "created_at": "2023-12-29T21:48:54-06:00",
+      "updated_at": "2025-09-22T10:53:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238490296487,
+      "created_at": "2025-02-03T18:51:48-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:51:50-06:00",
+      "product_id": 7786385539239,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3741030-21_736ea654-889c-4737-a2b3-becb150d930c.jpg?v=1738630310",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35.36,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3741030-21_736ea654-889c-4737-a2b3-becb150d930c.jpg?v=1738630310",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Emuge",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 6567165558872,
+  "title": "London Fog iPhone 6/6s/7/8/SE Case",
+  "handle": "london-fog-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T11:18:37-04:00",
+  "created_at": "2021-03-26T11:59:16-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "protection-level:2",
+    "Solid Color",
+    "SSC2021"
+  ],
+  "variants": [
+    {
+      "id": 39314940133464,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "32753-IP7-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.00",
+      "grams": 33,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 6567165558872,
+      "created_at": "2021-03-26T11:59:17-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28163179839576,
+      "created_at": "2021-05-03T11:09:50-04:00",
+      "position": 1,
+      "updated_at": "2021-05-03T11:09:52-04:00",
+      "product_id": 6567165558872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP7_LONDONFOG_BACK.jpg?v=1620054592",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163179905112,
+      "created_at": "2021-05-03T11:09:50-04:00",
+      "position": 2,
+      "updated_at": "2021-05-03T11:09:52-04:00",
+      "product_id": 6567165558872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP7_LONDONFOG_45L.jpg?v=1620054592",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28163179741272,
+      "created_at": "2021-05-03T11:09:50-04:00",
+      "position": 3,
+      "updated_at": "2021-05-03T11:09:52-04:00",
+      "product_id": 6567165558872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP7_LONDONFOG_45R.jpg?v=1620054592",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28346209370200,
+      "created_at": "2021-06-28T15:13:32-04:00",
+      "position": 4,
+      "updated_at": "2021-06-28T15:13:35-04:00",
+      "product_id": 6567165558872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog2_0809cbcd-5b4b-4600-8110-b0a731c823d3.jpg?v=1624907615",
+      "width": 884,
+      "height": 884
+    },
+    {
+      "id": 28346209402968,
+      "created_at": "2021-06-28T15:13:33-04:00",
+      "position": 5,
+      "updated_at": "2021-06-28T15:13:35-04:00",
+      "product_id": 6567165558872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SolidColourLondonFog3_11171f17-4cc8-41b4-a6a1-c48c8d022657.jpg?v=1624907615",
+      "width": 948,
+      "height": 948
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP7_LONDONFOG_BACK.jpg?v=1620054592",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 8444697706584,
+  "title": "Seashell Surreal Soiree iPhone 17 Pro Max Case",
+  "handle": "seashell-surreal-soiree-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dinner is served—<em data-start=\"58\" data-end=\"83\">but not as you know it!</em> The <em data-start=\"88\" data-end=\"104\">Surreal Soirée</em> Phone Case turns the traditional tablescape into a dreamlike masterpiece, featuring floating forks, stacked strawberries, sculptural baguettes, and fish adorned with leafy greens. Inspired by modern surrealism and Salvador Dalí-esque elegance, this case is perfect for those who love a bold, artistic twist on everyday moments.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:33:53-04:00",
+  "created_at": "2025-08-08T11:51:23-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Surreal Soiree",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Surreal Soiree",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184267821144,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SURREAL-SOIREE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444697706584,
+      "created_at": "2025-09-03T18:54:15-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184267853912,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SURREAL-SOIREE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444697706584,
+      "created_at": "2025-09-03T18:54:15-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567285272664,
+      "created_at": "2025-08-08T11:51:23-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:25-04:00",
+      "product_id": 8444697706584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SURREAL-SOIREE_IP17PMAX_Seashell.jpg?v=1754668285",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34800771137624,
+      "created_at": "2025-04-07T18:55:53-04:00",
+      "position": 2,
+      "updated_at": "2025-04-07T18:55:56-04:00",
+      "product_id": 8444697706584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Friends_PDP_1x1_01_12963f27-80d6-4f4d-a9e2-7b40843b0939.jpg?v=1744066556",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800771072088,
+      "created_at": "2025-04-07T18:55:53-04:00",
+      "position": 3,
+      "updated_at": "2025-04-07T18:55:56-04:00",
+      "product_id": 8444697706584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Grid_PDP_1x1_04_90295da2-42a1-4f8e-896d-21efd804956d.jpg?v=1744066556",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800771104856,
+      "created_at": "2025-04-07T18:55:53-04:00",
+      "position": 4,
+      "updated_at": "2025-04-07T18:55:56-04:00",
+      "product_id": 8444697706584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Androids_PDP_1x1_03_d7c1bb3e-9fae-4222-93cf-10c6d03646aa.jpg?v=1744066556",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SURREAL-SOIREE_IP17PMAX_Seashell.jpg?v=1754668285",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

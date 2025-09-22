@@ -1,0 +1,107 @@
+{
+  "id": 7431439908973,
+  "title": "Masala Rose",
+  "handle": "masala-rose",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Rose petals, clove, and cardamom create a scent that feels soft and warm.</p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Available exclusively at Target and on Target.com. <span style=\"text-decoration: underline;\"><strong></strong></span><br><strong></strong></p>\n<p><meta charset=\"utf-8\">Shop other fragrances by Studio McGee <a href=\"https://pura.com/collections/fragrances/brand-studio-mcgee\"><span style=\"text-decoration: underline;\">here</span></a>.</p>\n<!---->",
+  "published_at": "2024-06-26T12:00:15-06:00",
+  "created_at": "2024-06-04T11:15:46-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Threshold™ designed with Studio McGee",
+  "product_type": "Test",
+  "tags": [
+    "__automation:disable",
+    "display_Search",
+    "Group_Home",
+    "hide_Reviews",
+    "MSRH",
+    "remove-subs",
+    "type_Smartvial",
+    "vial type_Smartvial"
+  ],
+  "variants": [
+    {
+      "id": 41583339176045,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MSRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "11.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7431439908973,
+      "created_at": "2024-06-04T11:15:47-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32258758180973,
+      "created_at": "2024-06-20T10:04:42-06:00",
+      "position": 1,
+      "updated_at": "2024-06-20T10:04:44-06:00",
+      "product_id": 7431439908973,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/MasalaRose-Threshold-StudioMcGee-TargetTag-Prod1-0624.png?v=1718899484",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32258822307949,
+      "created_at": "2024-06-20T10:11:41-06:00",
+      "position": 2,
+      "updated_at": "2024-06-20T10:11:43-06:00",
+      "product_id": 7431439908973,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/rose-resized_e1b4d046-af3c-4a30-989d-44b3bf511862.jpg?v=1718899903",
+      "width": 2400,
+      "height": 3600
+    },
+    {
+      "id": 32258822340717,
+      "created_at": "2024-06-20T10:12:08-06:00",
+      "position": 3,
+      "updated_at": "2024-06-20T10:12:10-06:00",
+      "product_id": 7431439908973,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/MasalaRose-Threshold-StudioMcGee-Prod3-0624.png?v=1718899930",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 32258827157613,
+      "created_at": "2024-06-20T10:12:54-06:00",
+      "position": 4,
+      "updated_at": "2024-06-20T10:12:56-06:00",
+      "product_id": 7431439908973,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Threshold_StudioMcgee-MasalaRose-PDP3.jpg?v=1718899976",
+      "width": 2112,
+      "height": 2816
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 11.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/MasalaRose-Threshold-StudioMcGee-TargetTag-Prod1-0624.png?v=1718899484",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Threshold™ designed with Studio McGee",
+  "category": "Test",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

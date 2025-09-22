@@ -1,0 +1,68 @@
+{
+  "id": 5364795146407,
+  "title": "E10XSDUCR2A Right-Hand, Positive Rake, Coolant-Through Boring Bar",
+  "handle": "pt6447233686",
+  "body_html": "<br><strong>Item #: </strong>KY96THC89073<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THC89073<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.6252″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>8.7″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>8.7″ </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Axial (GAMP)</strong></td>\n<td>3 Degrees </td>\n</tr>\n<tr>\n<td><strong>Head Length (LH)</strong></td>\n<td>1.091″ </td>\n</tr>\n<tr>\n<td><strong>Rake Angle Radial (GAMF)</strong></td>\n<td>-5 Degrees </td>\n</tr>\n<tr>\n<td><strong>Shank Height (H)</strong></td>\n<td>0.5858″ </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>DYNB </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>7.6091″ </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>E...SDUC-A </td>\n</tr>\n<tr>\n<td><strong>Functional Width (WF)</strong></td>\n<td>0.459″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Master Insert Identification (MIID)</strong></td>\n<td>| DCGT215 | DCMX215 | DCMT215 | DCET215 | DCMW215 | </td>\n</tr>\n<tr>\n<td><strong>Weight of Item (WT)</strong></td>\n<td>1.306 </td>\n</tr>\n<tr>\n<td><strong>Minimum Bore Diameter (DMIN)</strong></td>\n<td>0.7874″ </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:32:19-06:00",
+  "created_at": "2020-06-22T10:51:00-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Turning",
+  "tags": [
+    "Drilling",
+    "Internal Turning"
+  ],
+  "variants": [
+    {
+      "id": 34854337806503,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THC89073",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "710.54",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5364795146407,
+      "created_at": "2020-06-22T10:51:00-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38140332441767,
+      "created_at": "2025-01-23T20:32:28-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:32:29-06:00",
+      "product_id": 5364795146407,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_ESDUCRA_14ae_4553a092-c75d-477c-970c-55ebe76f6bc6.jpg?v=1737685949",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 710.54,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_ESDUCRA_14ae_4553a092-c75d-477c-970c-55ebe76f6bc6.jpg?v=1737685949",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Turning",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5254619365543,
+  "title": "Tapered End Mill: 3 deg Angle per Side, 4.50 mm Small Dia, 30.00 mm LOC, 6 Flute",
+  "handle": "68431394",
+  "body_html": "<br><strong>Item #: </strong>03680766<br><strong>Brand: </strong>WNT<br><strong>Model #: </strong>52291512<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Mill Diameter (mm)</strong>\n</td>\n<td>4.50</td>\n</tr>\n<tr> <td> <strong>Length of Cut (mm)</strong>\n</td>\n<td>30.00</td>\n</tr>\n<tr> <td> <strong>Taper Angle Per Side</strong>\n</td>\n<td>3.00</td>\n</tr>\n<tr> <td> <strong>End Mill Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr> <td> <strong>Flute Type</strong>\n</td>\n<td>Spiral</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>80.00</td>\n</tr>\n<tr> <td> <strong>Centercutting</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (mm)</strong>\n</td>\n<td>10.00</td>\n</tr>\n<tr> <td> <strong>Small End Diameter (mm)</strong>\n</td>\n<td>4.50</td>\n</tr>\n<tr> <td> <strong>Helix Angle</strong>\n</td>\n<td>30</td>\n</tr>\n<tr> <td> <strong>Flute Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>52291</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Coating/Finish</strong>\n</td>\n<td>Ti1000</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>Included Angle Degree</strong>\n</td>\n<td>10</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112803</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:48:56-06:00",
+  "created_at": "2020-05-29T13:01:24-05:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "WNT",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills",
+    "Hammers Striking & Demolition Tools"
+  ],
+  "variants": [
+    {
+      "id": 34501880119463,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "03680766",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "212.88",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5254619365543,
+      "created_at": "2020-05-29T13:01:24-05:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241652277415,
+      "created_at": "2025-02-03T21:04:27-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:04:29-06:00",
+      "product_id": 5254619365543,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0368076-21.jpg?v=1738638269",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 212.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0368076-21.jpg?v=1738638269",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "WNT",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

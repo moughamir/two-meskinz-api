@@ -1,0 +1,121 @@
+{
+  "id": 7555252420696,
+  "title": "Powder Blue Fluffy Flower iPhone 13 Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-13-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:06:27-05:00",
+  "created_at": "2024-02-06T13:51:40-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035278090328,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16695-IP13-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555252420696,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170964844632,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:40-05:00",
+      "product_id": 7555252420696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP13_PowderBlue.jpg?v=1707245500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120903256,
+      "created_at": "2024-02-28T17:26:17-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:26:20-05:00",
+      "product_id": 7555252420696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_041b32c8-b497-4e2c-b52a-4db860f78da7.jpg?v=1709159180",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241121034328,
+      "created_at": "2024-02-28T17:26:17-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:26:20-05:00",
+      "product_id": 7555252420696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_97d7287a-e855-439c-bfc2-638fc91f3ee1.jpg?v=1709159180",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120936024,
+      "created_at": "2024-02-28T17:26:17-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:26:19-05:00",
+      "product_id": 7555252420696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_907b0fbb-712b-4bfe-bf47-31bc37d38dba.jpg?v=1709159179",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241120870488,
+      "created_at": "2024-02-28T17:26:17-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:26:18-05:00",
+      "product_id": 7555252420696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_ad035c4a-c7ee-4a47-a303-c6bf10d1c7dd.jpg?v=1709159178",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP13_PowderBlue.jpg?v=1707245500",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

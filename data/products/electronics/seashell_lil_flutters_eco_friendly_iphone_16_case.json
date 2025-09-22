@@ -1,0 +1,109 @@
+{
+  "id": 8381663674456,
+  "title": "Seashell Lil Flutters iPhone 16 Case",
+  "handle": "seashell-lil-flutters-eco-friendly-iphone-16-case",
+  "body_html": "<p>Flutter your way through the day with the Seashell Lil Flutters Phone Case! This playful case features a charming print of little pink butterflies that will transform your phone into a whimsical accessory. Embrace the fun with this unique case!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:08:23-04:00",
+  "created_at": "2025-05-21T09:52:31-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Flutterbies",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Lil Flutters",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895731621976,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17246-IP16-SEASHELL-AOD:LIL-FLUTTERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381663674456,
+      "created_at": "2025-05-21T09:52:31-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065438142552,
+      "created_at": "2025-05-21T09:52:31-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:33-04:00",
+      "product_id": 8381663674456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_IP16_Seashell.jpg?v=1747835553",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065740623960,
+      "created_at": "2025-05-21T11:10:42-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:10:44-04:00",
+      "product_id": 8381663674456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-03_a28946e4-1665-4962-84dd-88b1c43ef0b3.jpg?v=1747840244",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065740656728,
+      "created_at": "2025-05-21T11:10:42-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:10:44-04:00",
+      "product_id": 8381663674456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-10_22d8ee72-c63c-4f17-8939-1947443b99dc.jpg?v=1747840244",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065740591192,
+      "created_at": "2025-05-21T11:10:42-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:10:44-04:00",
+      "product_id": 8381663674456,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-37_502b2345-5872-4948-b3e9-5f47d92a3b07.jpg?v=1747840244",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_IP16_Seashell.jpg?v=1747835553",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 7957985230936,
+  "title": "Electric Blue Petal Pop iPhone 13 Case",
+  "handle": "electric-blue-petal-pop-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step back into the swinging 60s with the Petal Pop Phone Case from our 60s collection! 🌸✨ This case features a delightful grid of vibrant flowers in every color of the rainbow, set against a bold electric blue background. Each petal pops with retro charm, making your phone not just a device, but a statement piece. Perfect for those who love a touch of vintage whimsy, this case offers both style and protection. Let your phone blossom with personality and bring a pop of color to your daily life with the Petal Pop Phone Case! 📱🌼🌈</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-18T09:12:27-04:00",
+  "created_at": "2024-06-06T11:48:57-04:00",
+  "updated_at": "2025-09-22T15:16:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:60s",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Petal Pop",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41814865510488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16698-IP13-ELEBLUE-AOD:PETAL-POP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7957985230936,
+      "created_at": "2024-06-06T11:48:57-04:00",
+      "updated_at": "2025-09-22T15:16:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33050763821144,
+      "created_at": "2024-06-06T11:48:57-04:00",
+      "position": 1,
+      "updated_at": "2024-06-06T11:48:57-04:00",
+      "product_id": 7957985230936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-POP_IP13_ElectricBlue.jpg?v=1717688937",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETAL-POP_IP13_ElectricBlue.jpg?v=1717688937",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

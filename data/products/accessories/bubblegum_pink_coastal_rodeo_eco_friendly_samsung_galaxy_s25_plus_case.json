@@ -1,0 +1,86 @@
+{
+  "id": 8254950015064,
+  "title": "Bubblegum Pink Coastal Rodeo Samsung Galaxy S25+(Plus) Case",
+  "handle": "bubblegum-pink-coastal-rodeo-eco-friendly-samsung-galaxy-s25-plus-case",
+  "body_html": "<p>Protect your phone in a sustainable and stylish way with our compostable Bubblegum Pink Coastal Rodeo Phone Case. With a durable design and fun cowboy-themed print including cowboy boots, snakes, cactus, seashells and horse shoes, you'll stand out from the crowd while also being environmentally friendly.  Yeehaw!</p>",
+  "published_at": "2025-01-22T09:49:43-05:00",
+  "created_at": "2025-01-15T11:24:00-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Rodeo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567850066008,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13933-S25PLUS-BUBPINK-AOD:COASTAL-RODEO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254950015064,
+      "created_at": "2025-01-15T11:24:00-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303445532760,
+      "created_at": "2025-01-15T11:24:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:24:01-05:00",
+      "product_id": 8254950015064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_S25PLUS_BubblegumPink.jpg?v=1736958241",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672031531096,
+      "created_at": "2025-03-11T15:27:40-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T15:27:41-04:00",
+      "product_id": 8254950015064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_BUBBLEGUM_1_2b16bce8-26d2-418d-b778-0025165ea529.jpg?v=1741721261",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-RODEO_S25PLUS_BubblegumPink.jpg?v=1736958241",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

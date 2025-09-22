@@ -1,0 +1,103 @@
+{
+  "id": 4473798393944,
+  "title": "Clear iPhone 11 Pro Max Case with Lavender Ridge",
+  "handle": "clear-lavender-eco-friendly-iphone-11-pro-max-case",
+  "body_html": "<meta charset=\"utf-8\">\n<p><span>We’ve revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world’s first compostable, transparent iPhone case! It’s rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span><br></p>",
+  "published_at": "2025-05-08T10:02:28-04:00",
+  "created_at": "2020-01-16T12:15:39-05:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro Max",
+  "tags": [
+    "Clear Case With Ridge",
+    "Phone Case",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 32180708376664,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28182-IP11PMAX-LAV-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "55.00",
+      "grams": 55,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 4473798393944,
+      "created_at": "2020-01-16T12:15:39-05:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 15227018739800,
+      "created_at": "2020-07-20T14:26:36-04:00",
+      "position": 1,
+      "updated_at": "2020-07-20T14:26:37-04:00",
+      "product_id": 4473798393944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP_11PROMAX_CLEAR_LAVENDER_BACK.jpg?v=1595269597",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 15227018707032,
+      "created_at": "2020-07-20T14:26:36-04:00",
+      "position": 2,
+      "updated_at": "2020-07-20T14:26:37-04:00",
+      "product_id": 4473798393944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP_11PROMAX_CLEAR_LAVENDER_BACK45.jpg?v=1595269597",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 15227018772568,
+      "created_at": "2020-07-20T14:26:36-04:00",
+      "position": 3,
+      "updated_at": "2020-07-20T14:26:37-04:00",
+      "product_id": 4473798393944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP_11PROMAX_CLEAR_LAVENDER_CORNER_2.jpg?v=1595269597",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 15227018936408,
+      "created_at": "2020-07-20T14:26:36-04:00",
+      "position": 4,
+      "updated_at": "2020-07-20T14:26:38-04:00",
+      "product_id": 4473798393944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP_11PROMAX_CLEAR_LAVENDER_FLATLAY_2.jpg?v=1595269598",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/IP_11PROMAX_CLEAR_LAVENDER_BACK.jpg?v=1595269597",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro Max",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

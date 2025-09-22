@@ -1,0 +1,97 @@
+{
+  "id": 8444638429272,
+  "title": "London Fog Sandy Shells Google Pixel 10 Pro XL Case",
+  "handle": "london-fog-sandy-shells-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p data-start=\"0\" data-end=\"61\">Meet your beachy bestie: the Sandy Shells Phone Case 🐚🌞</p>\n<p data-start=\"63\" data-end=\"328\">Inspired by long walks on the shore and perfectly sun-warmed treasures, this case is packed with pastel shells, sun-kissed corals, and soft neutrals that give major laid-back coastal vibes. It’s like your phone went on a seaside vacation and brought back souvenirs.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T10:53:29-04:00",
+  "created_at": "2025-08-08T11:04:35-04:00",
+  "updated_at": "2025-09-22T15:13:12-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sandy Shells",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107942760536,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15820-PX10PXL-LFOG-AOD:SANDY-SHELLS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444638429272,
+      "created_at": "2025-08-08T11:04:35-04:00",
+      "updated_at": "2025-09-22T15:13:12-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567085813848,
+      "created_at": "2025-08-08T11:04:35-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:04:37-04:00",
+      "product_id": 8444638429272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SANDY-SHELLS_PX10PXL_LondonFog.jpg?v=1754665477",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453397303384,
+      "created_at": "2025-07-21T16:24:43-04:00",
+      "position": 2,
+      "updated_at": "2025-08-08T13:08:16-04:00",
+      "product_id": 8444638429272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Sandy_Shells_2.jpg?v=1754672896",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453396910168,
+      "created_at": "2025-07-21T16:24:41-04:00",
+      "position": 3,
+      "updated_at": "2025-08-08T13:08:06-04:00",
+      "product_id": 8444638429272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Sandy_Shells_1.jpg?v=1754672886",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SANDY-SHELLS_PX10PXL_LondonFog.jpg?v=1754665477",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

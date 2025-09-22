@@ -1,0 +1,120 @@
+{
+  "id": 8381664198744,
+  "title": "Powder Blue Fluffy Flower iPhone 16 Pro Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-05-21T17:06:54-04:00",
+  "created_at": "2025-05-21T09:52:43-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895732179032,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17289-IP16P-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8381664198744,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065439256664,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:45-04:00",
+      "product_id": 8381664198744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16P_PowderBlue.jpg?v=1747835565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763627096,
+      "created_at": "2025-05-21T11:28:22-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:28:24-04:00",
+      "product_id": 8381664198744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_70eaaba8-069e-4426-ba7a-bbfa5740b25f.jpg?v=1747841304",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763594328,
+      "created_at": "2025-05-21T11:28:22-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:28:23-04:00",
+      "product_id": 8381664198744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_74268269-0f9d-45b8-8c95-1f153085fe2c.jpg?v=1747841303",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065763561560,
+      "created_at": "2025-05-21T11:28:22-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:28:23-04:00",
+      "product_id": 8381664198744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_a4cc4b4f-f712-44bb-98e7-dbf69d78db90.jpg?v=1747841303",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065764249688,
+      "created_at": "2025-05-21T11:29:14-04:00",
+      "position": 5,
+      "updated_at": "2025-05-21T11:29:15-04:00",
+      "product_id": 8381664198744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_68143563-c963-4448-962f-4ce1e7ee3752.jpg?v=1747841355",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16P_PowderBlue.jpg?v=1747835565",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

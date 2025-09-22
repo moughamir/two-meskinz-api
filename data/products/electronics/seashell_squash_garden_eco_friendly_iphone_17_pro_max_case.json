@@ -1,0 +1,118 @@
+{
+  "id": 8444677914712,
+  "title": "Seashell Squash Garden iPhone 17 Pro Max Case",
+  "handle": "seashell-squash-garden-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p class=\"p1\">Welcome to the harvest season with the Squash Garden Phone Case! 🎃🍂 This playful design features a charming medley of colorful squashes and gourds, scattered across a soft, neutral backdrop that perfectly captures the essence of autumn. Whether you’re a farmer’s market lover or just a fan of fall decor, this phone case will keep your device cozy and stylish through the season. 🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:33:05-04:00",
+  "created_at": "2025-08-08T11:50:10-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Squash Garden",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184265658456,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SQUASH-GARDEN_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444677914712,
+      "created_at": "2025-09-03T18:53:50-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184265691224,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SQUASH-GARDEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444677914712,
+      "created_at": "2025-09-03T18:53:50-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567241232472,
+      "created_at": "2025-08-08T11:50:10-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:12-04:00",
+      "product_id": 8444677914712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP17PMAX_Seashell.jpg?v=1754668212",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677689516120,
+      "created_at": "2025-03-12T12:53:10-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:53:13-04:00",
+      "product_id": 8444677914712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_02_1_31617705-ce5b-4250-a8fc-d424056d6794.jpg?v=1741798393",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677689483352,
+      "created_at": "2025-03-12T12:53:10-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T12:53:13-04:00",
+      "product_id": 8444677914712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_SquashGarden_2000x2000_fb223429-e357-45b7-be63-2f853464cf87.jpg?v=1741798393",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SQUASH-GARDEN_IP17PMAX_Seashell.jpg?v=1754668212",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

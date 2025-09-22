@@ -1,0 +1,129 @@
+{
+  "id": 8444710518872,
+  "title": "Sage Green Green Fields iPhone 17 Pro Case",
+  "handle": "sage-green-green-fields-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p data-start=\"0\" data-end=\"132\">Meet your pocket-sized patch of peace: the Green Fields Phone Case from the Pela x Katie Waiyu Artist Series Collection 🌼💚</p>\n<p data-start=\"134\" data-end=\"380\">Soft, dreamy greens with tiny pops of delicate yellow and blue wildflowers make this case feel like a lazy afternoon spent cloud-gazing in your favorite meadow. It's whimsical, calming, and quietly magical—just like Katie Waiyu’s signature style.</p>\n<p data-start=\"382\" data-end=\"455\" data-is-last-node=\"\" data-is-only-node=\"\">Slip this on and take a little sunshine with you, wherever you go. ☁️🌸🍃</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:18:28-04:00",
+  "created_at": "2025-08-08T11:52:08-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Green Fields",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184218603608,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17498-IP17P-SAGE-AOD:GREEN-FIELDS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 0,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444710518872,
+      "created_at": "2025-09-03T18:44:29-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184218636376,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17498-IP17P-SAGE-AOD:GREEN-FIELDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444710518872,
+      "created_at": "2025-09-03T18:44:29-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567312797784,
+      "created_at": "2025-08-08T11:52:08-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:10-04:00",
+      "product_id": 8444710518872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GREEN-FIELDS_IP17P_SageGreen.jpg?v=1754668330",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506869502040,
+      "created_at": "2025-07-30T12:15:28-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T12:43:09-04:00",
+      "product_id": 8444710518872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_1.jpg?v=1755189789",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869567576,
+      "created_at": "2025-07-30T12:15:30-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T12:43:17-04:00",
+      "product_id": 8444710518872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_2.jpg?v=1755189797",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869633112,
+      "created_at": "2025-07-30T12:15:31-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T12:43:24-04:00",
+      "product_id": 8444710518872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_3.jpg?v=1755189804",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GREEN-FIELDS_IP17P_SageGreen.jpg?v=1754668330",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

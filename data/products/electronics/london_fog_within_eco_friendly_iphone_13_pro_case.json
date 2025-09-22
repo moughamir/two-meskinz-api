@@ -1,0 +1,97 @@
+{
+  "id": 7360059375704,
+  "title": "London Fog Within iPhone 13 Pro Case",
+  "handle": "london-fog-within-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Embrace the art of subtle communication with the Pela Within Phone Case. This earth-friendly case features a whimsical, continuous line drawing of abstract human figures in a vibrant green, set against a soft, neutral background. Perfect for those who appreciate minimalist art and sustainable style, this case not only protects your phone but also expresses a connection to the human form in its simplest essence. Ideal for everyday use, let your phone cover speak to your artistic side while keeping it shielded in an environmentally-conscious way. 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-19T09:10:15-04:00",
+  "created_at": "2023-04-17T09:56:45-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Earth Month",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Within",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40224716095576,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16760-IP13P-LFOG-AOD:WITHIN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7360059375704,
+      "created_at": "2023-04-17T09:56:45-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30245249450072,
+      "created_at": "2023-04-17T09:56:45-04:00",
+      "position": 1,
+      "updated_at": "2023-04-17T09:56:45-04:00",
+      "product_id": 7360059375704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WITHIN_IP13P_LondonFog.jpg?v=1681739805",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30245367578712,
+      "created_at": "2023-04-17T11:20:19-04:00",
+      "position": 2,
+      "updated_at": "2023-04-17T11:20:20-04:00",
+      "product_id": 7360059375704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/earthmonth2_2177cf44-285b-4270-bace-56a4f883dcc8.png?v=1681744820",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30245367545944,
+      "created_at": "2023-04-17T11:20:19-04:00",
+      "position": 3,
+      "updated_at": "2023-04-17T11:20:20-04:00",
+      "product_id": 7360059375704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/earthmonth4_1_91ec97d5-8db2-4b42-97ff-922db64e354d.png?v=1681744820",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WITHIN_IP13P_LondonFog.jpg?v=1681739805",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8301524549720,
+  "title": "Seashell In a Pickle iPhone 13 Case",
+  "handle": "seashell-in-a-pickle-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dill-ightfully quirky and totally unexpected—<em data-start=\"82\" data-end=\"95\">In a Pickle</em> is the perfect case for anyone who loves a good crunch! Featuring a playful pattern of whole and sliced pickles, this design is as fresh as it gets. Whether you're a die-hard pickle fan or just appreciate a good conversation starter, this case is sure to pickle your fancy.<meta charset=\"utf-8\">🥒</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-25T09:15:47-04:00",
+  "created_at": "2025-02-28T13:40:13-05:00",
+  "updated_at": "2025-09-22T15:14:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Pickles",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:In a Pickle",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42702163935320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:IN-A-PICKLE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8301524549720,
+      "created_at": "2025-02-28T13:40:13-05:00",
+      "updated_at": "2025-09-22T15:14:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34616691851352,
+      "created_at": "2025-02-28T13:40:13-05:00",
+      "position": 1,
+      "updated_at": "2025-02-28T13:40:15-05:00",
+      "product_id": 8301524549720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IN-A-PICKLE_IP13_Seashell.jpg?v=1740768015",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34739205472344,
+      "created_at": "2025-03-24T11:02:05-04:00",
+      "position": 2,
+      "updated_at": "2025-03-24T11:02:15-04:00",
+      "product_id": 8301524549720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Friends_PDP_1x1_01_c2ff3794-e61d-45f5-93ed-f8b96042d982.jpg?v=1742828535",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739205406808,
+      "created_at": "2025-03-24T11:02:05-04:00",
+      "position": 3,
+      "updated_at": "2025-03-24T11:02:15-04:00",
+      "product_id": 8301524549720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Androids_PDP_1x1_03_76b34e2d-272f-40da-b1f8-740e0616f883.jpg?v=1742828535",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": 34739205374040,
+      "created_at": "2025-03-24T11:02:05-04:00",
+      "position": 4,
+      "updated_at": "2025-03-24T11:02:15-04:00",
+      "product_id": 8301524549720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_IPGrid_PDP_1x1_05_f26f11c6-688f-4161-9487-dea17e73270a.jpg?v=1742828535",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34739205439576,
+      "created_at": "2025-03-24T11:02:05-04:00",
+      "position": 5,
+      "updated_at": "2025-03-24T11:02:15-04:00",
+      "product_id": 8301524549720,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pickles_Render_Group_Pile_PDP_1x1_02_3737e6c1-188c-4e64-b6b9-bdae590c8c50.jpg?v=1742828535",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IN-A-PICKLE_IP13_Seashell.jpg?v=1740768015",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

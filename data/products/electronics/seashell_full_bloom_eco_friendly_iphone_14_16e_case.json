@@ -1,0 +1,121 @@
+{
+  "id": 7699253887064,
+  "title": "Seashell Full Bloom iPhone 14/16e Case",
+  "handle": "seashell-full-bloom-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p>Add a touch of nature to your phone with our Seashell Full Bloom Phone Case. The vibrant yellow and subtle pink flowers convey a sense of beauty that will surely make your device stand out. Plus, it's sure to bring a smile to your face every time you use it!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-04-11T08:35:32-04:00",
+  "created_at": "2024-04-01T12:47:28-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Delicate Spring",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Full Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41311484936280,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:FULL-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7699253887064,
+      "created_at": "2024-04-01T12:47:28-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32487786971224,
+      "created_at": "2024-04-01T12:47:28-04:00",
+      "position": 1,
+      "updated_at": "2024-04-01T12:47:28-04:00",
+      "product_id": 7699253887064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_IP14_Seashell.jpg?v=1711990048",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520629911640,
+      "created_at": "2024-04-04T16:16:42-04:00",
+      "position": 2,
+      "updated_at": "2024-04-04T16:16:44-04:00",
+      "product_id": 7699253887064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-01_963bc55e-5be2-4d61-9a83-5c7bb853279b.jpg?v=1712261804",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520630337624,
+      "created_at": "2024-04-04T16:16:42-04:00",
+      "position": 3,
+      "updated_at": "2024-04-04T16:16:46-04:00",
+      "product_id": 7699253887064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-18_47287043-cfa2-4204-9d16-8b42478f9cc7.jpg?v=1712261806",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520630075480,
+      "created_at": "2024-04-04T16:16:42-04:00",
+      "position": 4,
+      "updated_at": "2024-04-04T16:16:46-04:00",
+      "product_id": 7699253887064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-08_b6e182c9-a73f-4017-b7de-f08828cda8f9.jpg?v=1712261806",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32520629878872,
+      "created_at": "2024-04-04T16:16:42-04:00",
+      "position": 5,
+      "updated_at": "2024-04-04T16:16:46-04:00",
+      "product_id": 7699253887064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULLBLOOM_SEASHELL_-17_1ea8335d-9a1c-41ff-a62f-22abc1dc6895.jpg?v=1712261806",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FULL-BLOOM_IP14_Seashell.jpg?v=1711990048",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

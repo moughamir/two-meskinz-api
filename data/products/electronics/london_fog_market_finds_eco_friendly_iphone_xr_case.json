@@ -1,0 +1,76 @@
+{
+  "id": 8104842690648,
+  "title": "London Fog Market Finds iPhone XR Case",
+  "handle": "london-fog-market-finds-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step into the vibrant world of a bustling farmer's market with the Market Finds Phone Case! This delightful design features a colorful array of fresh produce, from juicy strawberries and ripe tomatoes to crunchy carrots and sweet honey jars. Each element is hand-drawn with love, capturing the essence of a sunny morning spent picking the best local goods. Carry a piece of the farmer's market magic with you and let every glance at your phone bring a smile to your face. <meta charset=\"utf-8\">🍏<meta charset=\"utf-8\">🍓<meta charset=\"utf-8\">🌽</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-08-23T14:16:25-04:00",
+  "created_at": "2024-08-23T13:57:36-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Farmer’s Market",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Market Finds",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42217791553624,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13181-IPXR-LFOG-AOD:MARKET-FINDS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8104842690648,
+      "created_at": "2024-08-23T13:57:36-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33520926326872,
+      "created_at": "2024-08-23T13:57:36-04:00",
+      "position": 1,
+      "updated_at": "2024-08-23T13:57:36-04:00",
+      "product_id": 8104842690648,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARKET-FINDS_IPXR_LondonFog.jpg?v=1724435856",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARKET-FINDS_IPXR_LondonFog.jpg?v=1724435856",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

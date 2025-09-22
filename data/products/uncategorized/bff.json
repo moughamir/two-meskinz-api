@@ -1,0 +1,115 @@
+{
+  "id": 7577253970029,
+  "title": "BFF",
+  "handle": "bff",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><strong>White gardenia,</strong> creamy <strong>tuberose</strong>, and crisp <strong>peppermint</strong> create a cheerful and familiar fragrance you’ll always want to keep close.</p>",
+  "published_at": "2025-01-08T09:09:54-07:00",
+  "created_at": "2024-12-03T12:59:13-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Moodcast",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Moodcast",
+    "collection:New Arrivals",
+    "Group_Home",
+    "Mood_Clean",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41941437153389,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BFFH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7577253970029,
+      "created_at": "2024-12-03T12:59:14-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33408005111917,
+      "created_at": "2024-12-03T13:04:34-07:00",
+      "position": 1,
+      "updated_at": "2024-12-03T13:04:36-07:00",
+      "product_id": 7577253970029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-BFF-Prod1-0724.jpg?v=1733256276",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33408003571821,
+      "created_at": "2024-12-03T13:03:17-07:00",
+      "position": 2,
+      "updated_at": "2024-12-03T13:03:19-07:00",
+      "product_id": 7577253970029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/gardenia-10-resized_50996aba-845b-480b-9e3e-20ed4d8caf54.jpg?v=1733256199",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33407998066797,
+      "created_at": "2024-12-03T13:02:54-07:00",
+      "position": 3,
+      "updated_at": "2024-12-03T13:02:56-07:00",
+      "product_id": 7577253970029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BFF-Moodcast-Prod3-0224.png?v=1733256176",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 33407998034029,
+      "created_at": "2024-12-03T13:02:54-07:00",
+      "position": 4,
+      "updated_at": "2024-12-03T13:02:56-07:00",
+      "product_id": 7577253970029,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-BFF-Prod4-0724.jpg?v=1733256176",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Moodcast-BFF-Prod1-0724.jpg?v=1733256276",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Moodcast",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

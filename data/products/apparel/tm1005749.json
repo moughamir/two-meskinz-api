@@ -1,0 +1,67 @@
+{
+  "id": 7786347659431,
+  "title": "Brand: Widia / Part #: 1977549",
+  "handle": "tm1005749",
+  "body_html": "<br><strong>Item #: </strong>97571590<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>1977549<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Head Diameter (mm)</strong>\n</td>\n<td>12.70 mm</td>\n</tr>\n<tr>\n<td><strong>Head Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Head Shape</strong></td>\n<td>Cylinder with Radius</td>\n</tr>\n<tr>\n<td><strong>Tooth Style</strong></td>\n<td>Double Cut</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>6.00</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>25.40</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>69.9000</td>\n</tr>\n<tr>\n<td><strong>Head Coating</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>12.70</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Stainless Steel; Cast Iron; Steel; Super Alloys &amp; Titanium</td>\n</tr>\n<tr>\n<td><strong>End Style</strong></td>\n<td>Radius</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Deburring; Cleaning; Finishing</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T20:07:45-06:00",
+  "created_at": "2023-12-29T20:07:45-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "Widia",
+  "product_type": "Abrasives",
+  "tags": [
+    "Points & Burrs"
+  ],
+  "variants": [
+    {
+      "id": 43707603058855,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97571590",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "37.86",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786347659431,
+      "created_at": "2023-12-29T20:07:45-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238398087335,
+      "created_at": "2025-02-03T18:48:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:48:04-06:00",
+      "product_id": 7786347659431,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9747694-21_cab39d83-6063-454c-ad28-cb28326410e7.jpg?v=1738630084",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 37.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9747694-21_cab39d83-6063-454c-ad28-cb28326410e7.jpg?v=1738630084",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

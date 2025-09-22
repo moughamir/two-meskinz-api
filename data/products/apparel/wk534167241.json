@@ -1,0 +1,67 @@
+{
+  "id": 7785390702759,
+  "title": "Brand: Echo / Part #: LC-56V2AAB",
+  "handle": "wk534167241",
+  "body_html": "<br><strong>Item #: </strong>08138356<br><strong>Brand: </strong>Echo<br><strong>Model #: </strong>LC-56V2AAB<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Charger</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>all ECHO eFORCE 56V Battery System</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>56v Lithium-Ion Standard Charger</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:49:13-06:00",
+  "created_at": "2023-12-28T19:49:13-06:00",
+  "updated_at": "2025-09-22T10:55:27-05:00",
+  "vendor": "Echo",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Lawn; Garden & Outdoor Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43703735812263,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08138356",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "98.16",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785390702759,
+      "created_at": "2023-12-28T19:49:13-06:00",
+      "updated_at": "2025-09-22T10:55:27-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236847210663,
+      "created_at": "2025-02-03T17:55:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:55:57-06:00",
+      "product_id": 7785390702759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0813835-21.jpg?v=1738626957",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 98.16,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0813835-21.jpg?v=1738626957",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Echo",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

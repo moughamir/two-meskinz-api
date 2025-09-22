@@ -1,0 +1,119 @@
+{
+  "id": 7169295122541,
+  "title": "Saltaire",
+  "handle": "saltaire",
+  "body_html": "<p>The combination of <strong>jasmine</strong>, <strong>citrus</strong>, <strong>sweet</strong> <strong>wood</strong> and a hint of bamboo delivers a fresh, mineral scent reminiscent of a day at the sea.</p>",
+  "published_at": "2023-12-13T12:56:37-07:00",
+  "created_at": "2023-12-11T09:41:19-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "MERSEA",
+  "product_type": "Fragrance",
+  "tags": [
+    "brand:MERSEA",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Energizing",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Scent Type_Marine",
+    "Strength_Strong",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40930235777133,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ALRH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "17.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7169295122541,
+      "created_at": "2023-12-11T09:41:19-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30846162108525,
+      "created_at": "2023-12-11T10:03:36-07:00",
+      "position": 1,
+      "updated_at": "2023-12-11T10:04:59-07:00",
+      "product_id": 7169295122541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/merseasaltaire-resized.jpg?v=1702314299",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30846162075757,
+      "created_at": "2023-12-11T10:03:36-07:00",
+      "position": 2,
+      "updated_at": "2023-12-11T10:04:59-07:00",
+      "product_id": 7169295122541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/jasmine-resized_69c5c436-f685-4bb1-baa3-ecf3ba833b74.jpg?v=1702314299",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30846162141293,
+      "created_at": "2023-12-11T10:03:36-07:00",
+      "position": 3,
+      "updated_at": "2023-12-11T10:04:59-07:00",
+      "product_id": 7169295122541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/SaltAire-Mersea-Prod3-2023-11.png?v=1702314299",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30846162174061,
+      "created_at": "2023-12-11T10:03:36-07:00",
+      "position": 4,
+      "updated_at": "2023-12-11T10:04:59-07:00",
+      "product_id": 7169295122541,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/merseasaltaire-resized-2.jpg?v=1702314299",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 17,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/merseasaltaire-resized.jpg?v=1702314299",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "MERSEA",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

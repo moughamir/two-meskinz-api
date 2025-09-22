@@ -1,0 +1,116 @@
+{
+  "id": 7520481935469,
+  "title": "Paper White",
+  "handle": "paper-white",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Paper White brings both modernity and elegance to your space with notes of <strong>cotton</strong>, <strong>mimosa</strong>, and <strong>amber</strong>.</p>",
+  "published_at": "2024-08-30T14:47:57-06:00",
+  "created_at": "2024-08-15T14:30:25-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Studio McGee",
+    "Group_Home",
+    "Mood_Clean",
+    "Mood_Relaxing",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41782887645293,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PRWH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7520481935469,
+      "created_at": "2024-08-15T14:30:25-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32787095158893,
+      "created_at": "2024-08-15T14:34:49-06:00",
+      "position": 1,
+      "updated_at": "2024-08-15T14:34:51-06:00",
+      "product_id": 7520481935469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-PaperWhite-Prod1-0724.jpg?v=1723754091",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 32787095224429,
+      "created_at": "2024-08-15T14:34:49-06:00",
+      "position": 2,
+      "updated_at": "2024-08-15T14:34:51-06:00",
+      "product_id": 7520481935469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/linen-resized_8ce720b6-5718-496d-a110-d8c3322dd35d.jpg?v=1723754091",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 32787095289965,
+      "created_at": "2024-08-15T14:34:49-06:00",
+      "position": 3,
+      "updated_at": "2024-08-15T14:34:52-06:00",
+      "product_id": 7520481935469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PaperWhite-StudioMcGee-Prod3-0824.png?v=1723754092",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 32787095257197,
+      "created_at": "2024-08-15T14:34:49-06:00",
+      "position": 4,
+      "updated_at": "2024-08-15T14:34:52-06:00",
+      "product_id": 7520481935469,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-PaperWhite-Prod4-0724.jpg?v=1723754092",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGee-PaperWhite-Prod1-0724.jpg?v=1723754091",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

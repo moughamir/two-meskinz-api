@@ -1,0 +1,109 @@
+{
+  "id": 8299235704920,
+  "title": "London Fog Foliage Camo iPhone 13 Case",
+  "handle": "london-fog-foliage-camo-eco-friendly-iphone-13-case",
+  "body_html": "<p><meta charset=\"utf-8\">Blend in or stand out—<em data-start=\"60\" data-end=\"74\">Foliage Camo Phone Case</em> is designed for adventurers, nature lovers, and anyone who feels most at home in the great outdoors. With a watercolor-inspired camouflage pattern in earthy greens, this case is perfect for those who love hiking, camping, or just bringing a little wilderness into their everyday life.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-20T09:16:03-04:00",
+  "created_at": "2025-02-26T09:57:24-05:00",
+  "updated_at": "2025-09-22T15:14:45-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Foliage Camo",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697311223896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16690-IP13-LFOG-AOD:FOLIAGE-CAMO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299235704920,
+      "created_at": "2025-02-26T09:57:24-05:00",
+      "updated_at": "2025-09-22T15:14:45-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599085572184,
+      "created_at": "2025-02-26T09:57:24-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T09:57:26-05:00",
+      "product_id": 8299235704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOLIAGE-CAMO_IP13_LondonFog.jpg?v=1740581846",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705814487128,
+      "created_at": "2025-03-17T13:23:04-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T13:23:06-04:00",
+      "product_id": 8299235704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FoliageCamo_PDP1_5fa1558b-1fbc-4b3c-9047-2b82861e4871.jpg?v=1742232186",
+      "width": 3547,
+      "height": 3547
+    },
+    {
+      "id": 34705814454360,
+      "created_at": "2025-03-17T13:23:04-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T13:23:06-04:00",
+      "product_id": 8299235704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FoliageCamo_PDP2_1b3bd997-22a4-4502-aebd-48a001781f47.jpg?v=1742232186",
+      "width": 3780,
+      "height": 3780
+    },
+    {
+      "id": 34705814519896,
+      "created_at": "2025-03-17T13:23:04-04:00",
+      "position": 4,
+      "updated_at": "2025-03-17T13:23:06-04:00",
+      "product_id": 8299235704920,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FoliageCamo_PDP3_153c6452-738b-4075-9465-e2093a6ae017.jpg?v=1742232186",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOLIAGE-CAMO_IP13_LondonFog.jpg?v=1740581846",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

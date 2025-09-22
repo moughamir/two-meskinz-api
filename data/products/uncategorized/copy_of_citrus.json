@@ -1,0 +1,154 @@
+{
+  "id": 7113546268781,
+  "title": "Citrus",
+  "handle": "copy-of-citrus",
+  "body_html": "<p>These fragrances are part of a scent category that is made up of refreshing and energetic fragrances from ingredients like lemon, bergamot, mandarin, and grapefruit.\n<br>Included Fragrances:\n<br>Wild Citron by Capri Blue\n<br>Grapefruit by NEST New York\n<br>Signature Citrus by Dae\n<br>Sugared Lemon by Pura\n<br>White Bergamot by Studio McGee\n<br>Lemon Leaf by Thymes</p>",
+  "published_at": "2023-12-01T10:21:15-07:00",
+  "created_at": "2023-10-23T13:22:01-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Gift",
+  "tags": [
+    "3 Month",
+    "900-02428",
+    "__automation:disable",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_amalfilemonmint",
+    "YGroup_amalfilemonmint"
+  ],
+  "variants": [
+    {
+      "id": 40778605068397,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02428",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "47.40",
+      "grams": 91,
+      "compare_at_price": "59.25",
+      "position": 1,
+      "product_id": 7113546268781,
+      "created_at": "2023-10-23T13:22:01-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805811687533,
+      "created_at": "2024-04-29T15:32:41-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:32:43-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CitrusHome-CuratedSub-Prod1-0424_011a14ed-08a4-4ee5-82ba-3821a7b271dc.png?v=1714426363",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798286520429,
+      "created_at": "2023-12-01T15:23:54-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Citrus-Hover-11-23.png?v=1714426362",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798052491373,
+      "created_at": "2023-12-01T14:25:12-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlueWildCitron-resized_c0d013ef-533b-4382-87fc-1fabec928d3f.jpg?v=1714426362",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744916164717,
+      "created_at": "2023-11-20T15:28:06-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestgrapefruitresized_03add849-087c-4dda-b293-8867f0436b85.jpg?v=1714426362",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744916295789,
+      "created_at": "2023-11-20T15:28:06-07:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/daesignaturecitrusresized_-3_100eb5ed-3201-42bd-b5ed-141b3f9a1ac0.jpg?v=1714426362",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30744916328557,
+      "created_at": "2023-11-20T15:28:06-07:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_a4730c14-384f-4122-8ca7-dd594f7ae90d.png?v=1714426362",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744916230253,
+      "created_at": "2023-11-20T15:28:06-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/white_bergamot_resize-2_82fcb7f3-a7d3-4d91-9f30-36a0b1ae0ccd_1.jpg?v=1714426362",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30744916197485,
+      "created_at": "2023-11-20T15:28:06-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:32:42-06:00",
+      "product_id": 7113546268781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/thymeslemonleafresized-3_b3db9eaa-35de-4d9e-b4bc-a06885f99a59.jpg?v=1714426362",
+      "width": 1125,
+      "height": 1500
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 47.4,
+  "compare_at_price": 59.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CitrusHome-CuratedSub-Prod1-0424_011a14ed-08a4-4ee5-82ba-3821a7b271dc.png?v=1714426363",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

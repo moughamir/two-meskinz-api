@@ -1,0 +1,109 @@
+{
+  "id": 8381663477848,
+  "title": "London Fog Delicate Flutters iPhone 16 Case",
+  "handle": "london-fog-delicate-flutters-eco-friendly-iphone-16-case",
+  "body_html": "<p>Transform your phone into a fluttering fashion statement with the London Fog Delicate Flutters case, featuring a beautiful print of brown butterflies. Fly away with style!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:08:23-04:00",
+  "created_at": "2025-05-21T09:52:29-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Flutterbies",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Delicate Flutters",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895731392600,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17245-IP16-LFOG-AOD:DELICATE-FLUTTERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381663477848,
+      "created_at": "2025-05-21T09:52:29-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065437749336,
+      "created_at": "2025-05-21T09:52:29-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:30-04:00",
+      "product_id": 8381663477848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DELICATE-FLUTTERS_IP16_LondonFog.jpg?v=1747835550",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065735905368,
+      "created_at": "2025-05-21T11:08:07-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:08:09-04:00",
+      "product_id": 8381663477848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-04_34c92a0e-4b63-427d-87c4-32c4493a68e6.jpg?v=1747840089",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065735872600,
+      "created_at": "2025-05-21T11:08:07-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:08:09-04:00",
+      "product_id": 8381663477848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-11_78dff4de-6178-4270-a649-3ed8b561400a.jpg?v=1747840089",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065735839832,
+      "created_at": "2025-05-21T11:08:08-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:08:09-04:00",
+      "product_id": 8381663477848,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-38_3e0ea9b6-dd00-4a0c-902a-a5adc9976f53.jpg?v=1747840089",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DELICATE-FLUTTERS_IP16_LondonFog.jpg?v=1747835550",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

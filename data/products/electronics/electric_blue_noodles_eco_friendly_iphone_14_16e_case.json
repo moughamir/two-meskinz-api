@@ -1,0 +1,110 @@
+{
+  "id": 8142180548696,
+  "title": "Electric Blue Noodles iPhone 14/16e Case",
+  "handle": "electric-blue-noodles-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p class=\"p1\">Introducing the Noodles Phone Case – the wavy, whimsical design that will have you craving your next pasta night! 🍜 With its bold blue and creamy noodle-like pattern, this case is a playful take on comfort food, adding a dash of fun to your everyday style. Perfect for foodies and lovers of quirky, abstract designs, this case makes your phone look good enough to eat!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:42:26-04:00",
+  "created_at": "2024-09-25T12:26:31-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Noodles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294278258776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16741-IP14-ELEBLUE-AOD:NOODLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142180548696,
+      "created_at": "2024-09-25T12:26:31-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677681950808,
+      "created_at": "2024-09-25T12:26:31-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:31-04:00",
+      "product_id": 8142180548696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_IP14_ElectricBlue.jpg?v=1727281591",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749368766552,
+      "created_at": "2024-10-09T17:01:40-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:01:42-04:00",
+      "product_id": 8142180548696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_PDP2_41cf621e-49e8-41a4-bdd5-e706a8aceb3e.jpg?v=1728507702",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749368668248,
+      "created_at": "2024-10-09T17:01:40-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:01:42-04:00",
+      "product_id": 8142180548696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_PDP1_77fd2ff4-ebe6-47fb-81ff-c5644bf62d84.jpg?v=1728507702",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749368733784,
+      "created_at": "2024-10-09T17:01:40-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:01:42-04:00",
+      "product_id": 8142180548696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_4eb94272-477d-4805-861d-b8d6ebd31296.jpg?v=1728507702",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_IP14_ElectricBlue.jpg?v=1727281591",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

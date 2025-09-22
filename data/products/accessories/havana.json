@@ -1,0 +1,115 @@
+{
+  "id": 7051707121773,
+  "title": "Havana",
+  "handle": "havana",
+  "body_html": "<p>Inspired by the sites and sounds of Havana, Archipelago's best-selling fragrance envelops any room with its beautifully complex blend of <strong>bergamot</strong>, <strong>ylang ylang</strong>, and <strong>tobacco</strong> <strong>flower</strong>.</p>",
+  "published_at": "2023-08-14T19:50:33-06:00",
+  "created_at": "2023-08-09T16:19:32-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Archipelago",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Archipelago",
+    "Group_Home",
+    "Mood_Energizing",
+    "Mood_Romantic",
+    "Scent Type_Amber",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_havana"
+  ],
+  "variants": [
+    {
+      "id": 40702259527789,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HAVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707121773,
+      "created_at": "2023-08-09T16:19:32-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977011974253,
+      "created_at": "2024-01-07T14:32:50-07:00",
+      "position": 1,
+      "updated_at": "2024-01-07T14:33:08-07:00",
+      "product_id": 7051707121773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-Havana-Vertical-Resized.jpg?v=1704663188",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30977012039789,
+      "created_at": "2024-01-07T14:32:51-07:00",
+      "position": 2,
+      "updated_at": "2024-01-07T14:33:08-07:00",
+      "product_id": 7051707121773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/cardamomingredientsresized-2_52d6269e-9e36-4006-8fa3-53dc14e86547.jpg?v=1704663188",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30440256241773,
+      "created_at": "2023-09-08T10:50:45-06:00",
+      "position": 3,
+      "updated_at": "2024-01-07T14:33:08-07:00",
+      "product_id": 7051707121773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-Havana-Device-V4.jpg?v=1704663188",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977012007021,
+      "created_at": "2024-01-07T14:32:50-07:00",
+      "position": 4,
+      "updated_at": "2024-01-07T14:33:08-07:00",
+      "product_id": 7051707121773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-Havana-Overhead-Shadow-Resized.jpg?v=1704663188",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Archipelago-Havana-Vertical-Resized.jpg?v=1704663188",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Archipelago",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 7869305782360,
+  "title": "Black Hexclad iPhone 11 Case",
+  "handle": "black-hexclad-eco-friendly-iphone-11-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-05-13T09:44:08-04:00",
+  "created_at": "2024-05-06T15:02:23-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Hexclad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hexclad",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41636280598616,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16200-IP11-BLACK-AOD:HEXCLAD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7869305782360,
+      "created_at": "2024-05-06T15:02:24-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32812128239704,
+      "created_at": "2024-05-06T15:02:24-04:00",
+      "position": 1,
+      "updated_at": "2024-05-06T15:02:24-04:00",
+      "product_id": 7869305782360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEXCLAD_IP11_Black.jpg?v=1715022144",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 45,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEXCLAD_IP11_Black.jpg?v=1715022144",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

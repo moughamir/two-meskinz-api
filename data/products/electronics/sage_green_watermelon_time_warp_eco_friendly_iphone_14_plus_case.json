@@ -1,0 +1,99 @@
+{
+  "id": 7374105313368,
+  "title": "Sage Green Watermelon Time Warp iPhone 14 Plus Case",
+  "handle": "sage-green-watermelon-time-warp-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p><span>Savor the essence of summer all year round with our Sage Green Watermelon Time Warp Phone Case. The refreshing design is a tribute to both the timeless fruit and the swirls of the '60s, providing a protective shell that's both earth-friendly and groovy.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:50:26-04:00",
+  "created_at": "2023-08-29T15:01:19-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Watermelon Time Warp",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258378465368,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16943-IP14PLUS-SAGE-AOD:WATERMELON-TIME-WARP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374105313368,
+      "created_at": "2023-08-29T15:01:19-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352886169688,
+      "created_at": "2023-08-29T15:01:19-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:19-04:00",
+      "product_id": 7374105313368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP14PLUS_SageGreen.jpg?v=1693335679",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580139096,
+      "created_at": "2023-09-05T18:06:44-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:06:45-04:00",
+      "product_id": 7374105313368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams3_cb8ff8c8-523d-4aef-85fb-0a90fdee1497.jpg?v=1693951605",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356580106328,
+      "created_at": "2023-09-05T18:06:44-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:06:45-04:00",
+      "product_id": 7374105313368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_f4f8040a-6d5e-4a72-8e1c-df9fd1e11a6e.jpg?v=1693951605",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/WATERMELON-TIME-WARP_IP14PLUS_SageGreen.jpg?v=1693335679",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

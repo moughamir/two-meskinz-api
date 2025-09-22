@@ -1,0 +1,86 @@
+{
+  "id": 7361506246744,
+  "title": "Powder Blue Misty Mountains iPhone 6/6s/7/8/SE Case",
+  "handle": "powder-blue-misty-mountains-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Drift into the serenity of the Pela Misty Mountains Phone Case, where soft hues of blue and gray evoke the calm of a foggy dawn. This case captures the peaceful essence of a distant mountain range, enveloped in morning mist, with a subtle yellow sun peering through the haze, casting a gentle glow over the scene. Silhouetted birds in flight add a touch of life and motion, making it more than just a phone case—it’s a portal to tranquil moments in nature. Perfect for those who cherish peace and quiet, this case offers protection while carrying the spirit of the mountains wherever you go. 🌄✨📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-11T09:35:38-04:00",
+  "created_at": "2023-05-09T10:10:34-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Mountains",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Misty Mountains",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40229239226456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32758-IP7-POWDERBLUE-AOD:MISTY-MOUNTAINS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7361506246744,
+      "created_at": "2023-05-09T10:10:34-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30259891535960,
+      "created_at": "2023-05-09T10:10:34-04:00",
+      "position": 1,
+      "updated_at": "2023-05-09T10:10:34-04:00",
+      "product_id": 7361506246744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MISTY-MOUNTAINS_IP7_PowderBlue.jpg?v=1683641434",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30259912343640,
+      "created_at": "2023-05-09T10:58:32-04:00",
+      "position": 2,
+      "updated_at": "2023-05-09T10:58:33-04:00",
+      "product_id": 7361506246744,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_0019_d01f5857-830c-4acc-8dce-48120cf34b0d.jpg?v=1683644313",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MISTY-MOUNTAINS_IP7_PowderBlue.jpg?v=1683641434",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

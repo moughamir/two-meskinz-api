@@ -1,0 +1,67 @@
+{
+  "id": 7785594519719,
+  "title": "Brand: Harvey Tool / Part #: 962760",
+  "handle": "ft8591332",
+  "body_html": "<br><strong>Item #: </strong>82844457<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>962760<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Decimal Inch)</strong>\n</td>\n<td>0.0600</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/8</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>CVD</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.0900</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Upcut</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Diamond End Mills for Non-Ferrous Materials - CVD Diamond - Square</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:16:00-06:00",
+  "created_at": "2023-12-28T23:16:00-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43704668225703,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82844457",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "86.63",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785594519719,
+      "created_at": "2023-12-28T23:16:00-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237080027303,
+      "created_at": "2025-02-03T18:03:52-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:03:53-06:00",
+      "product_id": 7785594519719,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4812956-21_a0680ca5-1e51-44d0-af4e-af1bf1059a88.jpg?v=1738627433",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 86.63,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4812956-21_a0680ca5-1e51-44d0-af4e-af1bf1059a88.jpg?v=1738627433",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

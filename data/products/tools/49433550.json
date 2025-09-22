@@ -1,0 +1,67 @@
+{
+  "id": 8452522573991,
+  "title": "Male Pipe Plug Socket: 0.281\", 3/8\" Drive, 9/32\" Hex",
+  "handle": "49433550",
+  "body_html": "<br><strong>Item #: </strong>04837837<br><strong>Brand: </strong>SK<br><strong>Model #: </strong>41449<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Socket Type</strong>\n</td>\n<td>Male Pipe Plug</td>\n</tr>\n<tr> <td> <strong>Drive Size</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr> <td> <strong>Socket Size</strong>\n</td>\n<td>0.2810 in</td>\n</tr>\n<tr> <td> <strong>Hex Size (Inch)</strong>\n</td>\n<td>9/32</td>\n</tr>\n<tr> <td> <strong>Features</strong>\n</td>\n<td>Long Life &amp; Maximum Corrosion Resistance</td>\n</tr>\n<tr> <td> <strong>Number Of Points</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Product Service Code</strong>\n</td>\n<td>5120</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111704</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:12:16-06:00",
+  "created_at": "2025-01-23T09:12:15-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "SK",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46497988313255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04837837",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.71",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452522573991,
+      "created_at": "2025-01-23T09:12:15-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242172534951,
+      "created_at": "2025-02-03T21:22:12-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:22:13-06:00",
+      "product_id": 8452522573991,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0483783-24.jpg?v=1738639333",
+      "width": 304,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.71,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0483783-24.jpg?v=1738639333",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "SK",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

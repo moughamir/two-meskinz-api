@@ -1,0 +1,89 @@
+{
+  "id": 8088983961688,
+  "title": "Electric Blue Sea Cows iPhone 13 Case",
+  "handle": "electric-blue-sea-cows-eco-friendly-iphone-13-case",
+  "body_html": "<p class=\"p1\">Make a splash with the adorable Sea Cows Phone Case! Featuring a pod of playful manatees in bright colors— from coral pink to teal blue— these gentle giants bring a delightful dose of cuteness wherever you go. Perfect for ocean lovers and those who enjoy a bit of aquatic fun. Let these sweet sea cows keep your device safe while swimming through your day in style! 🐋 🌊</p>\n<p class=\"p1\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-03T13:42:16-04:00",
+  "created_at": "2024-08-14T10:28:54-04:00",
+  "updated_at": "2025-09-22T15:15:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Sea Cows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42169001082968,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16698-IP13-ELEBLUE-AOD:SEA-COWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8088983961688,
+      "created_at": "2024-08-14T10:28:54-04:00",
+      "updated_at": "2025-09-22T15:15:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33574807339096,
+      "created_at": "2024-09-03T13:38:41-04:00",
+      "position": 1,
+      "updated_at": "2024-09-03T13:38:41-04:00",
+      "product_id": 8088983961688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEA-COWS_IP13_ElectricBlue_c339f1ef-f3a9-439b-baf4-e8a5e93caae9.jpg?v=1725385121",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516502909016,
+      "created_at": "2024-08-22T12:42:58-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:43:01-04:00",
+      "product_id": 8088983961688,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_SeaCows_870ec53e-aa12-4262-b6e5-779455b5a075.jpg?v=1724344981",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SEA-COWS_IP13_ElectricBlue_c339f1ef-f3a9-439b-baf4-e8a5e93caae9.jpg?v=1725385121",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

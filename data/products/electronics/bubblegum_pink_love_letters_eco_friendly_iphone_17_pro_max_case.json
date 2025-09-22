@@ -1,0 +1,129 @@
+{
+  "id": 8444652683352,
+  "title": "Bubblegum Pink Love Letters iPhone 17 Pro Max Case",
+  "handle": "bubblegum-pink-love-letters-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><span>Envelope your phone in the sweetness of heartfelt messages with the Love Letters Phone Case, a charming member of our With Love Collection.  The design features an array of stamps and envelopes, each element is a token of affection, ranging from blush-toned tulips to frosted cakes, symbolizing the diverse expressions of love. 💕✉️🌷</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:02:56-04:00",
+  "created_at": "2025-08-08T11:48:40-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:With Love",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Love Letters",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184108503128,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:LOVE-LETTERS_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444652683352,
+      "created_at": "2025-09-03T18:27:11-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184108535896,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:LOVE-LETTERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444652683352,
+      "created_at": "2025-09-03T18:27:11-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567187066968,
+      "created_at": "2025-08-08T11:48:40-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:42-04:00",
+      "product_id": 8444652683352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-LETTERS_IP17PMAX_BubblegumPink.jpg?v=1754668122",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065669976152,
+      "created_at": "2025-05-21T10:53:59-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:54:00-04:00",
+      "product_id": 8444652683352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Withlove-loveletters3_8bfb5a39-f558-49c0-872e-a87d469f56d0.jpg?v=1747839240",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065670041688,
+      "created_at": "2025-05-21T10:53:59-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T10:54:01-04:00",
+      "product_id": 8444652683352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Withlove-loveletters1_a374133f-5313-49c3-95a4-55d2bd5c9ed5.jpg?v=1747839241",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32038085787736,
+      "created_at": "2024-01-02T12:59:47-05:00",
+      "position": 4,
+      "updated_at": "2024-01-02T12:59:49-05:00",
+      "product_id": 8444652683352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Withlove-loveletters2_32fefe5a-fa35-4499-a6f2-f68e5d3fe94f.jpg?v=1704218389",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LOVE-LETTERS_IP17PMAX_BubblegumPink.jpg?v=1754668122",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

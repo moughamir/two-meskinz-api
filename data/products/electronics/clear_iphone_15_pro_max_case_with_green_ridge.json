@@ -1,0 +1,92 @@
+{
+  "id": 7371664097368,
+  "title": "Clear iPhone 15 Pro Max Case with Green Ridge",
+  "handle": "clear-iphone-15-pro-max-case-with-green-ridge",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We've revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world's first compostable, transparent iPhone case! It's rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span>",
+  "published_at": "2023-10-25T14:00:43-04:00",
+  "created_at": "2023-08-11T16:15:48-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 40253142073432,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28596-IP15PMAX-GREEN-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7371664097368,
+      "created_at": "2023-08-11T16:15:48-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30342971326552,
+      "created_at": "2023-08-15T15:57:25-04:00",
+      "position": 1,
+      "updated_at": "2023-08-15T15:57:26-04:00",
+      "product_id": 7371664097368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_MAX_GREEN_BACK.jpg?v=1692129446",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342971293784,
+      "created_at": "2023-08-15T15:57:25-04:00",
+      "position": 2,
+      "updated_at": "2023-08-15T15:57:26-04:00",
+      "product_id": 7371664097368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_MAX_GREEN_BACK_45L.jpg?v=1692129446",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342971359320,
+      "created_at": "2023-08-15T15:57:25-04:00",
+      "position": 3,
+      "updated_at": "2023-08-15T15:57:27-04:00",
+      "product_id": 7371664097368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_MAX_GREEN_BACK_45R.jpg?v=1692129447",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_MAX_GREEN_BACK.jpg?v=1692129446",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

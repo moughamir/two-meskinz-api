@@ -1,0 +1,116 @@
+{
+  "id": 7051710103661,
+  "title": "Pineapple Flower",
+  "handle": "pineapple-flower",
+  "body_html": "<p>Sweet and sparkling notes of <strong>pineapple</strong>, <strong>lemon flower</strong>, and <strong>sugar cane</strong> create the perfect blend of paradise.</p>",
+  "published_at": "2023-08-14T19:51:28-06:00",
+  "created_at": "2023-08-09T16:20:05-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_pineappleflower"
+  ],
+  "variants": [
+    {
+      "id": 40702262247533,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "YMDH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051710103661,
+      "created_at": "2023-08-09T16:20:05-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30345399926893,
+      "created_at": "2023-08-13T15:03:17-06:00",
+      "position": 1,
+      "updated_at": "2023-08-13T15:04:11-06:00",
+      "product_id": 7051710103661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineappleflowerresized-3.jpg?v=1691960651",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345400287341,
+      "created_at": "2023-08-13T15:03:27-06:00",
+      "position": 2,
+      "updated_at": "2023-08-13T15:04:11-06:00",
+      "product_id": 7051710103661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineapple-resized_2186710c-ae61-4507-b514-fb881786b413.jpg?v=1691960651",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345399992429,
+      "created_at": "2023-08-13T15:03:17-06:00",
+      "position": 3,
+      "updated_at": "2023-08-13T15:04:11-06:00",
+      "product_id": 7051710103661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Pineapple-Flower-Device-V4.jpg?v=1691960651",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345399959661,
+      "created_at": "2023-08-13T15:03:17-06:00",
+      "position": 4,
+      "updated_at": "2023-08-13T15:04:11-06:00",
+      "product_id": 7051710103661,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineappleflowerresized.jpg?v=1691960651",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineappleflowerresized-3.jpg?v=1691960651",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

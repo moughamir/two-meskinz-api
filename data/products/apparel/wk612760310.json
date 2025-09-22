@@ -1,0 +1,67 @@
+{
+  "id": 7786158588071,
+  "title": "Brand: AcuRite / Part #: 00592A4",
+  "handle": "wk612760310",
+  "body_html": "<br><strong>Item #: </strong>67734772<br><strong>Brand: </strong>AcuRite<br><strong>Model #: </strong>00592A4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thermometer Type</strong>\n</td>\n<td>Digital Thermometer</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature</strong></td>\n<td>-40</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>158 ?F; 70 ?C</td>\n</tr>\n<tr>\n<td><strong>Temperature Accuracy</strong></td>\n<td>+/- 2 F</td>\n</tr>\n<tr>\n<td><strong>Graduation</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Housing Material</strong></td>\n<td>Plastic</td>\n</tr>\n<tr>\n<td><strong>Lens Material</strong></td>\n<td>Glass</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Wall</td>\n</tr>\n<tr>\n<td><strong>Meter Type</strong></td>\n<td>Remote Reading; Direct Reading</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Daily high and low temperature and humidity records; Display dimensions: 8.8? H x 3.8? W x 1? D; Bright blue momentary backlight; Frost icon indicates when temperatures are below freezing; Outdoor temperature range: -40 ?F to 158 ?F (-40 ?C to 70 ?C); Indoor and outdoor humidity (%RH); Totally wireless tabletop or wall-mountable design; Automatically adjusts for daylight saving time; Intelli-Time clock &amp; date (month/day/day of week); Moon phase; Indoor temperature range: 32 ?F to 122 ?F (0 ?C to 50 ?C); Indicator for wireless sensor signal strength; Indoor/outdoor humidity range: 1% to 99% RH</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:55:31-06:00",
+  "created_at": "2023-12-29T11:55:31-06:00",
+  "updated_at": "2025-09-22T10:54:00-05:00",
+  "vendor": "AcuRite",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Pressure & Temperature Measuring Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43707097252007,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67734772",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.32",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786158588071,
+      "created_at": "2023-12-29T11:55:31-06:00",
+      "updated_at": "2025-09-22T10:54:00-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237950541991,
+      "created_at": "2025-02-03T18:30:32-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:33-06:00",
+      "product_id": 7786158588071,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773477-21.jpg?v=1738629033",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.32,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6773477-21.jpg?v=1738629033",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "AcuRite",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

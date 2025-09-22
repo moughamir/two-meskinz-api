@@ -1,0 +1,132 @@
+{
+  "id": 7830928425007,
+  "title": "Queue Issue Seventeen - Will & Harper Cover",
+  "handle": "queue-issue-seventeen-will-harper-cover",
+  "body_html": "<p>Queue's Issue 17 cover features Will Ferrell and Harper Steele photographed by Carter Smith.</p>\n<p><strong>The story behind the story</strong>. Queue's print journal celebrates the people, the ideas, and the process of creating great entertainment on Netflix and beyond.</p>\n<p><strong>Read and enjoy </strong>revelatory and intimate conversations with the directors, actors, and industry influencers whose boundless creativity and ceaseless innovation yield the unforgettable content you love to watch.</p>\n<p>The journal features original photography, exclusive interviews, profiles, behind-the-scenes looks on sets of series and films; it's a place for creators to further share not only their projects but also their passions and interests. It is where talent is most themselves.</p>\n<p>The Queue journal is made to live on your coffee table or your bookshelf forever.</p>\n<p> </p>\n<ul>\n<li>150+ pages per issue, designed by award-winning firm, Pentagram.</li>\n<li>Printed on eco-friendly paper using soy-based inks.</li>\n<li>Size: 9.125\" X 11.75\"</li>\n</ul>\n<p><br></p>",
+  "published_at": "2024-09-17T10:38:39-04:00",
+  "created_at": "2024-09-13T06:04:09-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "netflix",
+  "product_type": "Books",
+  "tags": [
+    "Netflix",
+    "Netflix Branded",
+    "Netflix Queue",
+    "Promo Eligible Collection",
+    "queue journal",
+    "title netflix branded",
+    "View All"
+  ],
+  "variants": [
+    {
+      "id": 43240568029231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NQ-R7009074-3-NFX-QUE17WH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34634620829743,
+        "product_id": 7830928425007,
+        "position": 1,
+        "created_at": "2024-09-13T06:04:09-04:00",
+        "updated_at": "2024-09-13T06:04:09-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF1.png?v=1726221849",
+        "variant_ids": [
+          43240568029231
+        ]
+      },
+      "available": true,
+      "price": "15.00",
+      "grams": 705,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7830928425007,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34634620829743,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T06:04:09-04:00",
+      "product_id": 7830928425007,
+      "variant_ids": [
+        43240568029231
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF1.png?v=1726221849",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34634620862511,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "position": 2,
+      "updated_at": "2024-09-13T06:04:09-04:00",
+      "product_id": 7830928425007,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF2.png?v=1726221849",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34634620895279,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "position": 3,
+      "updated_at": "2024-09-13T06:04:09-04:00",
+      "product_id": 7830928425007,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF3.png?v=1726221849",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34634620928047,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "position": 4,
+      "updated_at": "2024-09-13T06:04:09-04:00",
+      "product_id": 7830928425007,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF4.png?v=1726221849",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34634620960815,
+      "created_at": "2024-09-13T06:04:09-04:00",
+      "position": 5,
+      "updated_at": "2024-09-13T06:04:09-04:00",
+      "product_id": 7830928425007,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF5.png?v=1726221849",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/NFX-QUE17WH_MF1.png?v=1726221849",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "netflix",
+  "category": "Books",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

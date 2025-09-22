@@ -1,0 +1,67 @@
+{
+  "id": 7786108027047,
+  "title": "Brand: Kidde / Part #: BD-C441062",
+  "handle": "eh565505987",
+  "body_html": "<br><strong>Item #: </strong>53597738<br><strong>Brand: </strong>Kidde<br><strong>Model #: </strong>BD-C441062<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>UL Rating</strong>\n</td>\n<td>1A:10-B:C</td>\n</tr>\n<tr>\n<td><strong>Mount Type</strong></td>\n<td>Portable</td>\n</tr>\n<tr>\n<td><strong>Capacity</strong></td>\n<td>2-1/2 lb</td>\n</tr>\n<tr>\n<td><strong>Capacity</strong></td>\n<td>2.50 lb</td>\n</tr>\n<tr>\n<td><strong>Rechargeable</strong></td>\n<td>Disposable</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>1-A:10-B:C</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>4210</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:04:20-06:00",
+  "created_at": "2023-12-29T10:04:20-06:00",
+  "updated_at": "2025-09-22T10:47:23-05:00",
+  "vendor": "Kidde",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43706963886247,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "53597738",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.40",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786108027047,
+      "created_at": "2023-12-29T10:04:20-06:00",
+      "updated_at": "2025-09-22T10:47:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237841195175,
+      "created_at": "2025-02-03T18:26:55-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:56-06:00",
+      "product_id": 7786108027047,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c8d0d271-12d7-4414-af97-688db6e9a08e.png?v=1738628816",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.4,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_c8d0d271-12d7-4414-af97-688db6e9a08e.png?v=1738628816",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kidde",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

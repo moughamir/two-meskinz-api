@@ -1,0 +1,67 @@
+{
+  "id": 7785372614823,
+  "title": "Brand: RH Preyda / Part #: 30956",
+  "handle": "wk534142819",
+  "body_html": "<br><strong>Item #: </strong>75521161<br><strong>Brand: </strong>RH Preyda<br><strong>Model #: </strong>30956<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Abrasive Material</strong>\n</td>\n<td>Novaculite</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Coarse; Medium</td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>600</td>\n</tr>\n<tr>\n<td><strong>Stone Shape</strong></td>\n<td>Rectangle</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>8</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>203.2000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>8.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Thickness (Decimal Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Overall Thickness (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Small End Width</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Large End Width</strong></td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:14:38-06:00",
+  "created_at": "2023-12-28T19:14:38-06:00",
+  "updated_at": "2025-09-22T10:55:29-05:00",
+  "vendor": "RH Preyda",
+  "product_type": "Abrasives",
+  "tags": [
+    "Files; Sticks & Stones"
+  ],
+  "variants": [
+    {
+      "id": 43703698522279,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "75521161",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.20",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785372614823,
+      "created_at": "2023-12-28T19:14:38-06:00",
+      "updated_at": "2025-09-22T10:55:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236810641575,
+      "created_at": "2025-02-03T17:54:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:54:46-06:00",
+      "product_id": 7785372614823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7552613-21_b4dc1d1c-7d9c-4af3-82f7-6c97e57da72a.jpg?v=1738626886",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100.2,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7552613-21_b4dc1d1c-7d9c-4af3-82f7-6c97e57da72a.jpg?v=1738626886",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "RH Preyda",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

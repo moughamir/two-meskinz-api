@@ -1,0 +1,125 @@
+{
+  "id": 8278278176856,
+  "title": "Chocolate Brown Google Pixel 8 Phone Case",
+  "handle": "chocolate-brown-google-pixel-8-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:17:23-05:00",
+  "created_at": "2025-02-04T10:23:49-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642249351256,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14958-PX8-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 39,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278278176856,
+      "created_at": "2025-02-04T10:23:49-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569286975576,
+      "created_at": "2025-02-20T10:47:50-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:47:52-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX8_CHOCOLATE_BROWN_BACK.jpg?v=1740066472",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569286942808,
+      "created_at": "2025-02-20T10:47:51-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:47:52-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX8_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066472",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569286910040,
+      "created_at": "2025-02-20T10:47:51-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:47:52-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX8_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066472",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569393438808,
+      "created_at": "2025-02-20T11:04:04-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:04:05-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_24546c9a-6ff0-4fbc-9dd7-d32584c6fb93.jpg?v=1740067445",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569393406040,
+      "created_at": "2025-02-20T11:04:04-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:04:05-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_3d5fb22e-556e-4efc-91e6-fbb3c624da07.jpg?v=1740067445",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569393373272,
+      "created_at": "2025-02-20T11:04:04-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:04:05-05:00",
+      "product_id": 8278278176856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_31793333-509a-416a-a541-ccc9c97336a8.jpg?v=1740067445",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX8_CHOCOLATE_BROWN_BACK.jpg?v=1740066472",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

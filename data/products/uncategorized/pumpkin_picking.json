@@ -1,0 +1,119 @@
+{
+  "id": 7052696354925,
+  "title": "Pumpkin Picking",
+  "handle": "pumpkin-picking",
+  "body_html": "<p>The search for the perfect pumpkin is over—this sweet take on pumpkin spice delivers warmth to your space with notes of nutmeg, tonka bean, and sugar.</p>",
+  "published_at": "2023-08-14T19:52:47-06:00",
+  "created_at": "2023-08-10T20:02:50-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Homesick",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Homesick",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_pumpkinpicking"
+  ],
+  "variants": [
+    {
+      "id": 40703042879597,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PMPH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7052696354925,
+      "created_at": "2023-08-10T20:02:50-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31049613246573,
+      "created_at": "2024-01-17T20:19:50-07:00",
+      "position": 1,
+      "updated_at": "2024-01-17T20:20:09-07:00",
+      "product_id": 7052696354925,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-PumpkinPicking-Vertical-Resized.jpg?v=1705548009",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31049613213805,
+      "created_at": "2024-01-17T20:19:50-07:00",
+      "position": 2,
+      "updated_at": "2024-01-17T20:20:09-07:00",
+      "product_id": 7052696354925,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pumpkinreszied.jpg?v=1705548009",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31049613181037,
+      "created_at": "2024-01-17T20:19:50-07:00",
+      "position": 3,
+      "updated_at": "2024-01-17T20:20:09-07:00",
+      "product_id": 7052696354925,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Pumpkin-Picking-Device-V4.jpg?v=1705548009",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31049613279341,
+      "created_at": "2024-01-17T20:19:50-07:00",
+      "position": 4,
+      "updated_at": "2024-01-17T20:20:09-07:00",
+      "product_id": 7052696354925,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HOMESICKPUMPKINPICKING-RESIZED.jpg?v=1705548009",
+      "width": 3571,
+      "height": 4762
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-PumpkinPicking-Vertical-Resized.jpg?v=1705548009",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Homesick",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

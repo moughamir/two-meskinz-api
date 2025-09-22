@@ -1,0 +1,121 @@
+{
+  "id": 7555252060248,
+  "title": "Powder Blue Fluffy Flower iPhone 14 Pro Max Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2024-02-29T08:05:50-05:00",
+  "created_at": "2024-02-06T13:51:40-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41035277697112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16879-IP14PMAX-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 7555252060248,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32170964353112,
+      "created_at": "2024-02-06T13:51:40-05:00",
+      "position": 1,
+      "updated_at": "2024-02-06T13:51:40-05:00",
+      "product_id": 7555252060248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP14PMAX_PowderBlue.jpg?v=1707245500",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241123819608,
+      "created_at": "2024-02-28T17:27:18-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T17:27:20-05:00",
+      "product_id": 7555252060248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_c19fb7f7-b347-4a42-9e40-59793fc5eda7.jpg?v=1709159240",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241123786840,
+      "created_at": "2024-02-28T17:27:18-05:00",
+      "position": 3,
+      "updated_at": "2024-02-28T17:27:20-05:00",
+      "product_id": 7555252060248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_b9141415-f87f-4de4-aeca-b7ed6a265bef.jpg?v=1709159240",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241123852376,
+      "created_at": "2024-02-28T17:27:18-05:00",
+      "position": 4,
+      "updated_at": "2024-02-28T17:27:20-05:00",
+      "product_id": 7555252060248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_2af2ca06-3788-4bf0-ae01-e89c92fd6131.jpg?v=1709159240",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241123950680,
+      "created_at": "2024-02-28T17:27:18-05:00",
+      "position": 5,
+      "updated_at": "2024-02-28T17:27:21-05:00",
+      "product_id": 7555252060248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_4ee28cdf-0070-42f9-8c4b-86fab1a7ef79.jpg?v=1709159241",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLUFFY-FLOWER_IP14PMAX_PowderBlue.jpg?v=1707245500",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

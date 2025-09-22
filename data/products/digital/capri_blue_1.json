@@ -1,0 +1,94 @@
+{
+  "id": 7221662810221,
+  "title": "Capri Blue",
+  "handle": "capri-blue-1",
+  "body_html": "<p>The Capri Blue Collection features bold, iconic, and unapologetic fragrances created for every space.</p>",
+  "published_at": "2024-03-18T10:35:52-06:00",
+  "created_at": "2024-03-05T13:58:11-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "900-02425",
+    "__automation:disable",
+    "Brand:Capri Blue",
+    "collection:Curated subscription",
+    "CollectionFilter_Curated Subscriptions",
+    "Group_Home",
+    "type_smart13",
+    "type_smart14",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41115161198701,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02425",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7221662810221,
+      "created_at": "2024-03-05T13:58:12-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31348298612845,
+      "created_at": "2024-03-05T13:58:26-07:00",
+      "position": 1,
+      "updated_at": "2024-03-05T13:58:28-07:00",
+      "product_id": 7221662810221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/capriblue_8b8885fd-74b3-4754-be00-d637885fb3cd.jpg?v=1709672308",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31805856088173,
+      "created_at": "2024-04-29T15:43:53-06:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:43:55-06:00",
+      "product_id": 7221662810221,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlueHome-CuratedSub-Prod2-0424.png?v=1714427035",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/capriblue_8b8885fd-74b3-4754-be00-d637885fb3cd.jpg?v=1709672308",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

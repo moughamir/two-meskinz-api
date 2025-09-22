@@ -1,0 +1,110 @@
+{
+  "id": 8127740805208,
+  "title": "Sage Green Fall Gingham iPhone 16 Case",
+  "handle": "sage-green-fall-gingham-eco-friendly-iphone-16-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in cozy fall vibes with the Fall Gingham Phone Case! 🍂🍁 This playful design features a delightful green gingham print, dotted with delicate autumn leaves and wildflowers, making it the perfect accessory for fall lovers. Whether you’re strolling through a pumpkin patch or sipping hot apple cider, this case will keep your phone snug in seasonal charm. Bring the beauty of a crisp autumn day everywhere you go! 🌾✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:10:00-04:00",
+  "created_at": "2024-09-13T10:29:32-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fall Gingham",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346479192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17243-IP16-SAGE-AOD:FALL-GINGHAM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740805208,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318777944,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:32-04:00",
+      "product_id": 8127740805208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-GINGHAM_IP16_SageGreen.jpg?v=1726237772",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678552006744,
+      "created_at": "2024-09-25T15:23:04-04:00",
+      "position": 2,
+      "updated_at": "2024-09-25T15:23:05-04:00",
+      "product_id": 8127740805208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_FallGingham_2000x2000_2bd1fccb-a0f8-43ac-b5f9-93157ae67228.jpg?v=1727292185",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685736915032,
+      "created_at": "2024-09-26T17:38:50-04:00",
+      "position": 3,
+      "updated_at": "2024-09-26T17:38:52-04:00",
+      "product_id": 8127740805208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_FallGingham_2000x2000_55f35b60-114a-4133-a286-b899c0062e1e.jpg?v=1727386732",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685736947800,
+      "created_at": "2024-09-26T17:38:50-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:38:52-04:00",
+      "product_id": 8127740805208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_88b8a19e-7c2b-4ee1-8560-f8ab04188f42.jpg?v=1727386732",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-GINGHAM_IP16_SageGreen.jpg?v=1726237772",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

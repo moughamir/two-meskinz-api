@@ -1,0 +1,186 @@
+{
+  "id": 7057370415213,
+  "title": "Pura 4",
+  "handle": "device",
+  "body_html": "<p>The Pura 4™ smart fragrance diffuser uses innovative smart features paired with premium, clean scents to give you the most modern, customized, and high-end scenting experience possible.</p>",
+  "published_at": "2023-08-16T13:34:57-06:00",
+  "created_at": "2023-08-16T11:21:54-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Device",
+  "tags": [
+    "Group_Home",
+    "Pura 4",
+    "YCRF_homedevices",
+    "YGroup_device"
+  ],
+  "variants": [
+    {
+      "id": 43232040616045,
+      "title": "White",
+      "option1": "White",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 33116711190637,
+        "product_id": 7057370415213,
+        "position": 1,
+        "created_at": "2024-10-01T19:02:27-06:00",
+        "updated_at": "2024-10-01T19:02:29-06:00",
+        "alt": "White",
+        "width": 2400,
+        "height": 3200,
+        "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura4group.jpg?v=1727830949",
+        "variant_ids": [
+          43232040616045
+        ]
+      },
+      "available": true,
+      "price": "49.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7057370415213,
+      "created_at": "2025-08-26T15:15:38-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    },
+    {
+      "id": 43232040648813,
+      "title": "Mocha Mousse",
+      "option1": "Mocha Mousse",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02829",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35182679687277,
+        "product_id": 7057370415213,
+        "position": 5,
+        "created_at": "2025-08-26T15:10:54-06:00",
+        "updated_at": "2025-08-26T15:16:57-06:00",
+        "alt": "Mocha Mousse",
+        "width": 1376,
+        "height": 2062,
+        "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Set-PDP-1024-5_38d99a4b-9f6f-4ec1-a144-4348569a9aff.jpg?v=1756243017",
+        "variant_ids": [
+          43232040648813
+        ]
+      },
+      "available": true,
+      "price": "49.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 7057370415213,
+      "created_at": "2025-08-26T15:15:38-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33116711190637,
+      "created_at": "2024-10-01T19:02:27-06:00",
+      "position": 1,
+      "updated_at": "2024-10-01T19:02:29-06:00",
+      "product_id": 7057370415213,
+      "variant_ids": [
+        43232040616045
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura4group.jpg?v=1727830949",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30361049038957,
+      "created_at": "2023-08-16T11:22:06-06:00",
+      "position": 2,
+      "updated_at": "2023-12-13T13:16:26-07:00",
+      "product_id": 7057370415213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/2_b1ef1767-d08b-4817-ab7d-86a4124e3d16.jpg?v=1702498586",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33263059697773,
+      "created_at": "2024-10-29T13:54:17-06:00",
+      "position": 3,
+      "updated_at": "2024-10-29T13:54:19-06:00",
+      "product_id": 7057370415213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura4-Phone-1024.png?v=1730231659",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": 30361049104493,
+      "created_at": "2023-08-16T11:22:06-06:00",
+      "position": 4,
+      "updated_at": "2023-12-13T13:16:26-07:00",
+      "product_id": 7057370415213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/4_b0a4c0f9-eb45-49d1-b9e1-828f1b92ae71.jpg?v=1702498586",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35182679687277,
+      "created_at": "2025-08-26T15:10:54-06:00",
+      "position": 5,
+      "updated_at": "2025-08-26T15:16:57-06:00",
+      "product_id": 7057370415213,
+      "variant_ids": [
+        43232040648813
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Set-PDP-1024-5_38d99a4b-9f6f-4ec1-a144-4348569a9aff.jpg?v=1756243017",
+      "width": 1376,
+      "height": 2062
+    },
+    {
+      "id": 35182722089069,
+      "created_at": "2025-08-26T15:14:33-06:00",
+      "position": 6,
+      "updated_at": "2025-08-26T15:16:57-06:00",
+      "product_id": 7057370415213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Ecomm-PluggedIn-2400x3200_0f4e771c-7c45-4142-af8f-296c3fece507.png?v=1756243017",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 35182750105709,
+      "created_at": "2025-08-26T15:16:32-06:00",
+      "position": 7,
+      "updated_at": "2025-08-26T15:16:35-06:00",
+      "product_id": 7057370415213,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pantone-Prod3-0325_1_e08fbc6b-b758-4a26-ba39-ef174516224f.png?v=1756242995",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "White",
+        "Mocha Mousse"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Pura4group.jpg?v=1727830949",
+  "images_count": 7,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Device",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 7361819410520,
+  "title": "Electric Blue iPhone 13 Case",
+  "handle": "electric-blue-iphone-13-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:16:16-04:00",
+  "created_at": "2023-05-12T10:16:14-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "Classic",
+    "fathers day",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230007963736,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16698-IP13-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819410520,
+      "created_at": "2023-05-12T10:16:14-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30269180346456,
+      "created_at": "2023-05-23T18:23:19-04:00",
+      "position": 1,
+      "updated_at": "2023-05-23T18:23:21-04:00",
+      "product_id": 7361819410520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_ELECTRIC_BLUE_BACK_NEW.jpg?v=1684880601",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180379224,
+      "created_at": "2023-05-23T18:23:19-04:00",
+      "position": 2,
+      "updated_at": "2023-05-23T18:23:22-04:00",
+      "product_id": 7361819410520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_ELECTRIC_BLUE_BACK_45L_NEW.jpg?v=1684880602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30269180411992,
+      "created_at": "2023-05-23T18:23:19-04:00",
+      "position": 3,
+      "updated_at": "2023-05-23T18:23:22-04:00",
+      "product_id": 7361819410520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_ELECTRIC_BLUE_BACK_45R_NEW.jpg?v=1684880602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31826946130008,
+      "created_at": "2023-10-16T14:28:57-04:00",
+      "position": 4,
+      "updated_at": "2023-10-16T14:28:59-04:00",
+      "product_id": 7361819410520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2447_978c16cd-f1f5-44f9-a011-8b84b8c7db13.jpg?v=1697480939",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_13_ELECTRIC_BLUE_BACK_NEW.jpg?v=1684880601",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

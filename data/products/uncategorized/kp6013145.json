@@ -1,0 +1,52 @@
+{
+  "id": 8453337907367,
+  "title": "4 PCKT POUCH 6 1/2X8 1/2",
+  "handle": "kp6013145",
+  "body_html": null,
+  "published_at": "2025-01-24T01:45:21-06:00",
+  "created_at": "2025-01-24T01:45:19-06:00",
+  "updated_at": "2025-09-22T10:44:36-05:00",
+  "vendor": "ET02 New 2021",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500377886887,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6013145",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.94",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453337907367,
+      "created_at": "2025-01-24T01:45:20-06:00",
+      "updated_at": "2025-09-22T10:44:36-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35.94,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2021",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

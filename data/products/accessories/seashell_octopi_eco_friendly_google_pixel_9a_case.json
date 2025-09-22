@@ -1,0 +1,75 @@
+{
+  "id": 8310739239000,
+  "title": "Seashell Octopi Google Pixel 9a Case",
+  "handle": "seashell-octopi-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p class=\"p1\">Dive into a vibrant underwater celebration with the Octopi Phone Case! Bursting with color, these playful octopuses are here to bring some whimsy to your day. Each adorable sea creature is splashed in bright hues, from electric pinks to ocean blues, with quirky spots and friendly faces. This case is as fun as it is functional, offering protection while giving your phone a playful, aquatic flair. Perfect for ocean lovers, daydreamers, and anyone who loves a good splash of color! 🐙 🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T08:45:31-04:00",
+  "created_at": "2025-03-11T12:32:21-04:00",
+  "updated_at": "2025-09-22T15:14:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Octopi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726131040344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:OCTOPI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310739239000,
+      "created_at": "2025-03-11T12:32:21-04:00",
+      "updated_at": "2025-09-22T15:14:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671296610392,
+      "created_at": "2025-03-11T12:32:21-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:32:23-04:00",
+      "product_id": 8310739239000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_PX9A_Seashell.jpg?v=1741710743",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_PX9A_Seashell.jpg?v=1741710743",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

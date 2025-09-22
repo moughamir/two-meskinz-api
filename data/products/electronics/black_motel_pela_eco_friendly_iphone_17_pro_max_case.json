@@ -1,0 +1,129 @@
+{
+  "id": 8444662218840,
+  "title": "Black Motel Pela iPhone 17 Pro Max Case",
+  "handle": "black-motel-pela-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">✨🏨 Welcome to Motel Pela, a captivating phone case from the exclusive Pela x Cam Miller Artist Series Collection! Inspired by the nostalgic charm of vintage motels, this design features a retro signboard and a starry night sky, transporting you to a dreamy roadside escape. This case captures the essence of endless adventures and cozy stays under the stars. Perfect for wanderlust-filled souls and design enthusiasts alike, the Motel Pela Phone Case adds a touch of classic Americana to your tech gear. Check in and carry a piece of art wherever you go! 🌟📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:47:22-04:00",
+  "created_at": "2025-08-08T11:49:15-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Cam Miller",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Motel Pela",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184095920216,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17575-IP17PMAX-BLACK-AOD:MOTEL-PELA_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 0,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444662218840,
+      "created_at": "2025-09-03T18:24:27-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184095952984,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17575-IP17PMAX-BLACK-AOD:MOTEL-PELA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444662218840,
+      "created_at": "2025-09-03T18:24:27-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567208005720,
+      "created_at": "2025-08-08T11:49:15-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:17-04:00",
+      "product_id": 8444662218840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTEL-PELA_IP17PMAX_Black.jpg?v=1754668157",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081040003160,
+      "created_at": "2025-05-23T13:52:17-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T13:52:22-04:00",
+      "product_id": 8444662218840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTELPELA_BLACK_bfc0174b-3e18-4ac1-960e-d081a4e326cc.jpg?v=1748022742",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081131524184,
+      "created_at": "2025-05-23T14:06:36-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T14:06:39-04:00",
+      "product_id": 8444662218840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--2_a926f351-406b-42e7-8787-9d22ff61902b.jpg?v=1748023599",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35081039839320,
+      "created_at": "2025-05-23T13:52:08-04:00",
+      "position": 4,
+      "updated_at": "2025-05-23T13:52:13-04:00",
+      "product_id": 8444662218840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CAMMILLER_MULTI--3_e6cb716f-0efc-4b22-8594-123d75a1a7d1.jpg?v=1748022733",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOTEL-PELA_IP17PMAX_Black.jpg?v=1754668157",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

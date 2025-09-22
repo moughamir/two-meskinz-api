@@ -1,0 +1,67 @@
+{
+  "id": 7786105274535,
+  "title": "Brand: Scientific Cutting Tools / Part #: HC50003-120A",
+  "handle": "tg436751994",
+  "body_html": "<br><strong>Item #: </strong>90877549<br><strong>Brand: </strong>Scientific Cutting Tools<br><strong>Model #: </strong>HC50003-120A<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Cutter Head Diameter (Decimal Inch)</strong>\n</td>\n<td>0.0800</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Included Centerline Angle</strong></td>\n<td>120</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Chamfering</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Style</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Body Diameter (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Chamfer Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>High-Temperature Alloy; Stainless Steel; Steel; Titanium Alloy</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.1210</td>\n</tr>\n<tr>\n<td><strong>Body Diameter (Decimal Inch)</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Single Or Double End</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Additional Information</strong></td>\n<td>Tip Diameter 0.080; Tip to Theoretical Sharp 0.0240</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T10:01:27-06:00",
+  "created_at": "2023-12-29T10:01:27-06:00",
+  "updated_at": "2025-09-22T10:47:23-05:00",
+  "vendor": "Scientific Cutting Tools",
+  "product_type": "Holemaking",
+  "tags": [
+    "Countersinks; Chamfer Mills & Back Chamfers"
+  ],
+  "variants": [
+    {
+      "id": 43706951532711,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90877549",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.45",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786105274535,
+      "created_at": "2023-12-29T10:01:27-06:00",
+      "updated_at": "2025-09-22T10:47:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237838246055,
+      "created_at": "2025-02-03T18:26:50-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:52-06:00",
+      "product_id": 7786105274535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9087915-21_25800312-b2f7-4902-ac2e-9daf47d4dc09.jpg?v=1738628812",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.45,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9087915-21_25800312-b2f7-4902-ac2e-9daf47d4dc09.jpg?v=1738628812",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Scientific Cutting Tools",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

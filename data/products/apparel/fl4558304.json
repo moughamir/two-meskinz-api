@@ -1,0 +1,67 @@
+{
+  "id": 7786073587879,
+  "title": "Brand: PRO-SAFE / Part #: KM-LC0-WE-NW-MD",
+  "handle": "fl4558304",
+  "body_html": "<br><strong>Item #: </strong>87495990<br><strong>Brand: </strong>PRO-SAFE<br><strong>Model #: </strong>KM-LC0-WE-NW-MD<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Style</strong>\n</td>\n<td>Lab Coat</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Cuff Style</strong></td>\n<td>Elastic</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polypropylene</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Snaps</td>\n</tr>\n<tr>\n<td><strong>Material Weight</strong></td>\n<td>1.41 oz</td>\n</tr>\n<tr>\n<td><strong>ISO Class</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Latex Free; Single Collar</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>0.0</td>\n</tr>\n<tr>\n<td><strong>Product Service Code</strong></td>\n<td>4240</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:05:25-06:00",
+  "created_at": "2023-12-29T09:05:25-06:00",
+  "updated_at": "2025-09-22T10:47:28-05:00",
+  "vendor": "PRO-SAFE",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43706825048231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87495990",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "57.92",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786073587879,
+      "created_at": "2023-12-29T09:05:25-06:00",
+      "updated_at": "2025-09-22T10:47:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237780312231,
+      "created_at": "2025-02-03T18:25:01-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:25:02-06:00",
+      "product_id": 7786073587879,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8749599-24.jpg?v=1738628702",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 57.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8749599-24.jpg?v=1738628702",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PRO-SAFE",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

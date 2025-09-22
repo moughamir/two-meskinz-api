@@ -1,0 +1,68 @@
+{
+  "id": 5478403211431,
+  "title": "Linear Motion Systems; Linear Motion Type: Linear Slide Way; Thread Size: M4; Width (Decimal Inch): 18.0000; Height (Inch): 8",
+  "handle": "52-001-003",
+  "body_html": "<br><strong>Item #: </strong>05918602<br><strong>Brand: </strong>NB<br><strong>Model #: </strong>SVS 3125<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Linear Motion Type</strong>\n</td>\n<td>Linear Slide Way</td>\n</tr>\n<tr> <td> <strong>Thread Size</strong>\n</td>\n<td>M4</td>\n</tr>\n<tr> <td> <strong>Width (Decimal Inch)</strong>\n</td>\n<td>18.0000</td>\n</tr>\n<tr> <td> <strong>Height (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr> <td> <strong>Number Of Hole Sizes</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23153030</td>\n</tr>\n<tr> <td> <strong>Linear Motion Type</strong>\n</td>\n<td>Linear Slide Way</td>\n</tr>\n<tr> <td> <strong>Thread Size</strong>\n</td>\n<td>M4</td>\n</tr>\n<tr> <td> <strong>Width (Decimal Inch)</strong>\n</td>\n<td>18.0000</td>\n</tr>\n<tr> <td> <strong>Height (Inch)</strong>\n</td>\n<td>8</td>\n</tr>\n<tr> <td> <strong>Number Of Hole Sizes</strong>\n</td>\n<td>5</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>23153030</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>05918602</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>SVS 3125</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>Japan</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:39:25-06:00",
+  "created_at": "2020-07-14T00:43:19-05:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "NB",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Fittings & Couplings",
+    "Linear Motion"
+  ],
+  "variants": [
+    {
+      "id": 35207239958695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05918602",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "245.46",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5478403211431,
+      "created_at": "2020-07-14T00:43:19-05:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242723758247,
+      "created_at": "2025-02-03T21:42:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:42:44-06:00",
+      "product_id": 5478403211431,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0591808-11_22b23b19-7c91-4366-a3b7-c37c6592f21c.jpg?v=1738640564",
+      "width": 250,
+      "height": 148
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 245.46,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0591808-11_22b23b19-7c91-4366-a3b7-c37c6592f21c.jpg?v=1738640564",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NB",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

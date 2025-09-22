@@ -1,0 +1,67 @@
+{
+  "id": 8452545151143,
+  "title": "Storage Racks; Rack Type: Bulk Rack Add-On; Overall Width (Inch): 72; Overall Height (Inch): 87; Overall Depth (Inch): 24; Material: Steel; Color: Marine Blue, Light Gray; Finish: Powder Coated",
+  "handle": "35008572",
+  "body_html": "<br><strong>Item #: </strong>05453147<br><strong>Brand: </strong>Hallowell<br><strong>Model #: </strong>HBR722487-3A-S-PB<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Rack Type</strong>\n</td>\n<td>Bulk Rack Add-On</td>\n</tr>\n<tr> <td> <strong>Overall Width (Inch)</strong>\n</td>\n<td>72</td>\n</tr>\n<tr> <td> <strong>Overall Height (Inch)</strong>\n</td>\n<td>87</td>\n</tr>\n<tr> <td> <strong>Overall Depth (Inch)</strong>\n</td>\n<td>24</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Marine Blue; Light Gray</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Powder Coated</td>\n</tr>\n<tr> <td> <strong>Number Of Shelves</strong>\n</td>\n<td>3</td>\n</tr>\n<tr> <td> <strong>Shelf Capacity</strong>\n</td>\n<td>3800</td>\n</tr>\n<tr> <td> <strong>Gauge</strong>\n</td>\n<td>14</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Steel Shelf Deck</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>24102004</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:26:09-06:00",
+  "created_at": "2025-01-23T09:26:08-06:00",
+  "updated_at": "2025-09-22T10:52:20-05:00",
+  "vendor": "Hallowell",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 46498029732007,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05453147",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "717.65",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452545151143,
+      "created_at": "2025-01-23T09:26:08-06:00",
+      "updated_at": "2025-09-22T10:52:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242471051431,
+      "created_at": "2025-02-03T21:33:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:33:37-06:00",
+      "product_id": 8452545151143,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0415922-21_dbfa2441-b116-4d96-81d4-ee7f9fee761f.jpg?v=1738640017",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 717.65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0415922-21_dbfa2441-b116-4d96-81d4-ee7f9fee761f.jpg?v=1738640017",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Hallowell",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

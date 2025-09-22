@@ -1,0 +1,75 @@
+{
+  "id": 8444609429592,
+  "title": "Black Mobile Google Pixel 10 Pro XL Case",
+  "handle": "black-mobile-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p>Transform your phone into a statement piece with the Black Mobile Phone Case. Made from compostable materials, this durable phone case not only protects your phone, but also helps reduce waste. The retro design adds a touch of nostalgia to your phone, making it stand out from the crowd.</p>",
+  "published_at": "2025-08-20T10:08:06-04:00",
+  "created_at": "2025-08-08T11:02:48-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Y2K",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mobile",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107912122456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15815-PX10PXL-BLACK-AOD:MOBILE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444609429592,
+      "created_at": "2025-08-08T11:02:48-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567027224664,
+      "created_at": "2025-08-08T11:02:48-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:02:50-04:00",
+      "product_id": 8444609429592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOBILE_PX10PXL_Black.jpg?v=1754665370",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MOBILE_PX10PXL_Black.jpg?v=1754665370",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

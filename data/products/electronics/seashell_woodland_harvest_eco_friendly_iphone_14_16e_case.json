@@ -1,0 +1,110 @@
+{
+  "id": 8127739396184,
+  "title": "Seashell Woodland Harvest iPhone 14/16e Case",
+  "handle": "seashell-woodland-harvest-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Woodland Harvest Phone Case! 🍁 This charming design brings the beauty of the forest right to your fingertips, featuring playful acorns, colorful autumn leaves, and delightful mushrooms scattered across a soft, neutral background. Whether you’re an adventurer at heart or simply love the fall aesthetic, this case is the perfect accessory to complement your seasonal style. 🍂🌿 Get ready to carry a little bit of nature with you, wherever you go! 🌰</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:17:06-04:00",
+  "created_at": "2024-09-13T10:29:23-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Woodland Harvest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263344971864,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:WOODLAND-HARVEST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127739396184,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615317074008,
+      "created_at": "2024-09-13T10:29:23-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:23-04:00",
+      "product_id": 8127739396184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP14_Seashell.jpg?v=1726237763",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685671805016,
+      "created_at": "2024-09-26T17:27:34-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:27:36-04:00",
+      "product_id": 8127739396184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_02_6e18290a-b988-4660-80e8-1c13fe1ebeca.jpg?v=1727386056",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678500429912,
+      "created_at": "2024-09-25T15:12:09-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:12:10-04:00",
+      "product_id": 8127739396184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_WoodlandHarvest_2000x2000_7f073d8d-0210-40ef-8ad2-cb32f00879df.jpg?v=1727291530",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685671772248,
+      "created_at": "2024-09-26T17:27:34-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:27:36-04:00",
+      "product_id": 8127739396184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_685324f7-6205-4b45-95cd-cebc124e59f8.jpg?v=1727386056",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WOODLAND-HARVEST_IP14_Seashell.jpg?v=1726237763",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

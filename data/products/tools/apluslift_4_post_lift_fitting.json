@@ -1,0 +1,128 @@
+{
+  "id": 8422925402340,
+  "title": "APlusLift 4-Post Lift Fitting",
+  "handle": "apluslift-4-post-lift-fitting",
+  "body_html": "<h3>One 4-post lift fitting.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2024-06-20T18:51:10-07:00",
+  "created_at": "2024-06-20T18:51:11-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "4-Post Lifts and Jacks Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330480955620,
+      "title": "Short Fitting (HW-8S HW-8SXLT Models to Power Unit)",
+      "option1": "Short Fitting (HW-8S HW-8SXLT Models to Power Unit)",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 65756638314724,
+        "product_id": 8422925402340,
+        "position": 1,
+        "created_at": "2024-03-01T12:56:44-08:00",
+        "updated_at": "2024-03-01T12:56:45-08:00",
+        "alt": "APlusLift Car Lift Short Fitting",
+        "width": 1080,
+        "height": 1440,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+        "variant_ids": [
+          45330480955620
+        ]
+      },
+      "available": true,
+      "price": "18.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8422925402340,
+      "created_at": "2024-06-20T18:51:11-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330480988388,
+      "title": "90 Degree Fitting (HW-8S HW-8SXLT Models on Runway)",
+      "option1": "90 Degree Fitting (HW-8S HW-8SXLT Models on Runway)",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 67957692924132,
+        "product_id": 8422925402340,
+        "position": 2,
+        "created_at": "2024-06-20T21:33:52-07:00",
+        "updated_at": "2024-06-20T21:33:53-07:00",
+        "alt": null,
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/19.jpg?v=1718944433",
+        "variant_ids": [
+          45330480988388
+        ]
+      },
+      "available": true,
+      "price": "20.00",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 8422925402340,
+      "created_at": "2024-06-20T18:51:11-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 65756638314724,
+      "created_at": "2024-03-01T12:56:44-08:00",
+      "position": 1,
+      "updated_at": "2024-03-01T12:56:45-08:00",
+      "product_id": 8422925402340,
+      "variant_ids": [
+        45330480955620
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": 67957692924132,
+      "created_at": "2024-06-20T21:33:52-07:00",
+      "position": 2,
+      "updated_at": "2024-06-20T21:33:53-07:00",
+      "product_id": 8422925402340,
+      "variant_ids": [
+        45330480988388
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/19.jpg?v=1718944433",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "Short Fitting (HW-8S HW-8SXLT Models to Power Unit)",
+        "90 Degree Fitting (HW-8S HW-8SXLT Models on Runway)"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-fitting-short.jpg?v=1709326605",
+  "images_count": 2,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

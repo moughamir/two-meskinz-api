@@ -1,0 +1,124 @@
+{
+  "id": 7156602568813,
+  "title": "Juicy Acai",
+  "handle": "juicy-acai",
+  "body_html": "<p>Most effective at removing pet odors, this <a href=\"https://pura.com/pages/open-air-technology\" style=\"text-decoration: underline; color: #000;\" target=\"_blank\">Open Air</a> scent combines crisp <strong>apple</strong>, plump <strong>acai</strong> berry, and juicy <strong>red fruits</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> with a blend of dewy <strong>florals</strong> and <strong>orchard woods</strong> for a cheerful, mouthwatering scent.</span></p>",
+  "published_at": "2023-12-04T09:45:24-07:00",
+  "created_at": "2023-11-26T10:40:17-07:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Pura",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Pura",
+    "collection:New Arrivals",
+    "Collection:Open Air Tech™",
+    "CollectionFilter_Open Air Tech",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Openairtech_pet",
+    "Scent Type_Fresh",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart15",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_juicyacai"
+  ],
+  "variants": [
+    {
+      "id": 40872015036525,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "PETH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7156602568813,
+      "created_at": "2023-11-26T10:40:17-07:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30768818094189,
+      "created_at": "2023-11-26T10:43:24-07:00",
+      "position": 1,
+      "updated_at": "2023-11-26T10:44:05-07:00",
+      "product_id": 7156602568813,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purajuicyacai-resized.jpg?v=1701020645",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30768818061421,
+      "created_at": "2023-11-26T10:43:24-07:00",
+      "position": 2,
+      "updated_at": "2023-11-26T10:44:05-07:00",
+      "product_id": 7156602568813,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/blackcurrantresized_-6.jpg?v=1701020645",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30768818126957,
+      "created_at": "2023-11-26T10:43:24-07:00",
+      "position": 3,
+      "updated_at": "2023-11-26T10:44:05-07:00",
+      "product_id": 7156602568813,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/JuicyAcai-Pura-Prod3-2023-11.png?v=1701020645",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 30768818356333,
+      "created_at": "2023-11-26T10:44:27-07:00",
+      "position": 4,
+      "updated_at": "2023-11-26T10:44:28-07:00",
+      "product_id": 7156602568813,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purajuicyacai-resized-2.jpg?v=1701020668",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/purajuicyacai-resized.jpg?v=1701020645",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 8139580244056,
+  "title": "Seashell Scary Cherry iPhone 14 Plus Case",
+  "handle": "seashell-scary-cherry-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p class=\"p1\">Get ready to rock some spooky-sweet vibes with the Scary Cherry Phone Case! 🍒💀 These cherries aren’t your usual fruit—they come with a twist of fright, featuring skulls in the middle of each juicy red delight. Perfect for those who love a dash of dark humor with their style, this case is sure to turn heads (and maybe spook a few friends). Whether you’re embracing the eerie or just love a quirky design, the Scary Cherry Phone Case is the perfect blend of fun and fright! 🍒👻</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-12-11T12:19:40-05:00",
+  "created_at": "2024-09-23T15:03:55-04:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Scary Cherry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42288733749336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:SCARY-CHERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8139580244056,
+      "created_at": "2024-09-23T15:03:55-04:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33665091043416,
+      "created_at": "2024-09-23T15:03:55-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T15:03:55-04:00",
+      "product_id": 8139580244056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SCARY-CHERRY_IP14PLUS_Seashell.jpg?v=1727118235",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SCARY-CHERRY_IP14PLUS_Seashell.jpg?v=1727118235",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

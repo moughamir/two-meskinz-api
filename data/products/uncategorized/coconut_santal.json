@@ -1,0 +1,120 @@
+{
+  "id": 7051705778285,
+  "title": "Coconut Santal",
+  "handle": "coconut-santal",
+  "body_html": "<p>With flowering <strong>hibiscus</strong>, <strong>lime</strong>, <strong>coconut</strong>, and hints of <strong>amber</strong>, this fragrance gives you ultimate smooth sailing vibes.</p>",
+  "published_at": "2023-08-14T19:50:05-06:00",
+  "created_at": "2023-08-09T16:19:16-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Notify me",
+    "__label:Sold out",
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "CSTH",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Scent Type_Amber",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_coconutsantal"
+  ],
+  "variants": [
+    {
+      "id": 40702258282605,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CSTH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051705778285,
+      "created_at": "2023-08-09T16:19:16-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977002995821,
+      "created_at": "2024-01-07T14:27:09-07:00",
+      "position": 1,
+      "updated_at": "2024-01-07T14:27:34-07:00",
+      "product_id": 7051705778285,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-CoconutSantal-Vertical-Resized.jpg?v=1704662854",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30977003028589,
+      "created_at": "2024-01-07T14:27:09-07:00",
+      "position": 2,
+      "updated_at": "2024-01-07T14:27:34-07:00",
+      "product_id": 7051705778285,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/coconut-2-resized_8126d0b4-ac5d-450d-a11d-0e6f7694c309.jpg?v=1704662854",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30440147615853,
+      "created_at": "2023-09-08T09:54:12-06:00",
+      "position": 3,
+      "updated_at": "2024-01-07T14:27:34-07:00",
+      "product_id": 7051705778285,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Capri-Blue-Coconut-Santal-Device-V4.jpg?v=1704662854",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977003257965,
+      "created_at": "2024-01-07T14:27:09-07:00",
+      "position": 4,
+      "updated_at": "2024-01-07T14:27:34-07:00",
+      "product_id": 7051705778285,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-CoconutSantal-Overhead-Shadow-Resized.jpg?v=1704662854",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-CoconutSantal-Vertical-Resized.jpg?v=1704662854",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

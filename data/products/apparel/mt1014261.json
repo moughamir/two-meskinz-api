@@ -1,0 +1,67 @@
+{
+  "id": 7786443997351,
+  "title": "Brand: Merit Brass / Part #: MB22700",
+  "handle": "mt1014261",
+  "body_html": "<br><strong>Item #: </strong>48534309<br><strong>Brand: </strong>Merit Brass<br><strong>Model #: </strong>MB22700<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Fitting Type</strong>\n</td>\n<td>Female Adapter</td>\n</tr>\n<tr>\n<td><strong>Fitting Size</strong></td>\n<td>1-1/4</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Press Fitting</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Push to Connect; Thread</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Copper</td>\n</tr>\n<tr>\n<td><strong>End Connection</strong></td>\n<td>Press x Thread</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter (Inch)</strong></td>\n<td>1.764</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Pressure (Psi - 3 Decimals)</strong></td>\n<td>300.000</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temperature (F)</strong></td>\n<td>250.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Working Temperature (Deg C)</strong></td>\n<td>-17</td>\n</tr>\n<tr>\n<td><strong>Minimum Working Temperature (Deg F)</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Lead Free</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>IAPMO PS117; NSF-61/372</td>\n</tr>\n<tr>\n<td><strong>Maximum Working Temprature (Deg C)</strong></td>\n<td>121</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T01:36:05-06:00",
+  "created_at": "2023-12-30T01:36:05-06:00",
+  "updated_at": "2025-09-22T10:53:20-05:00",
+  "vendor": "Merit Brass",
+  "product_type": "Hose; Tube; Fittings & Valves",
+  "tags": [
+    "Fittings & Couplings"
+  ],
+  "variants": [
+    {
+      "id": 43708027797671,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48534309",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.79",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786443997351,
+      "created_at": "2023-12-30T01:36:05-06:00",
+      "updated_at": "2025-09-22T10:53:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238690607271,
+      "created_at": "2025-02-03T19:00:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:00:06-06:00",
+      "product_id": 7786443997351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4853439-21_9432e2bd-b048-454c-969e-5d84b9bfe940.jpg?v=1738630806",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.79,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4853439-21_9432e2bd-b048-454c-969e-5d84b9bfe940.jpg?v=1738630806",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Merit Brass",
+  "category": "Hose; Tube; Fittings & Valves",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

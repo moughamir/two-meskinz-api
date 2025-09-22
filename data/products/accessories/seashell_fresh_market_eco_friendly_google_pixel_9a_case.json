@@ -1,0 +1,108 @@
+{
+  "id": 8341661679704,
+  "title": "Seashell Fresh Market Google Pixel 9a Case",
+  "handle": "seashell-fresh-market-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Grab your tote—this phone case is serving full farmers market fantasy! <meta charset=\"utf-8\">🍓<meta charset=\"utf-8\">🥕 The <em data-start=\"114\" data-end=\"128\">Fresh Market</em> Phone Case is bursting with hand-painted produce, from bananas and berries to juicy tomatoes, crisp carrots, and more veggie cuties than you can carry. It’s bold, colorful, and basically the <em data-start=\"320\" data-end=\"358\">cutest grocery run you’ll ever take.</em></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-01T09:00:14-04:00",
+  "created_at": "2025-04-09T12:45:01-04:00",
+  "updated_at": "2025-09-22T15:14:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Farm Life",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fresh Market",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42806269476952,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15741-PX9a-SEASHELL-AOD:FRESH-MARKET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8341661679704,
+      "created_at": "2025-04-09T12:45:01-04:00",
+      "updated_at": "2025-09-22T15:14:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34808817877080,
+      "created_at": "2025-04-09T12:45:01-04:00",
+      "position": 1,
+      "updated_at": "2025-04-09T12:45:03-04:00",
+      "product_id": 8341661679704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRESH-MARKET_PX9A_Seashell.jpg?v=1744217103",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34902081896536,
+      "created_at": "2025-04-25T17:27:15-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T17:27:17-04:00",
+      "product_id": 8341661679704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FreshMarket_PDP_01_3227491f-870a-4dbf-af64-5870f2dbdb1b.jpg?v=1745616437",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34902081962072,
+      "created_at": "2025-04-25T17:27:15-04:00",
+      "position": 3,
+      "updated_at": "2025-04-25T17:27:17-04:00",
+      "product_id": 8341661679704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FreshMarket_PDP_02_9036c6f9-df3b-45af-aa01-9563b124c3b4.jpg?v=1745616437",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34902081929304,
+      "created_at": "2025-04-25T17:27:15-04:00",
+      "position": 4,
+      "updated_at": "2025-04-25T17:27:17-04:00",
+      "product_id": 8341661679704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_FreshMarket_PDP_03_1_923efe87-8c25-4c6b-a1d3-bd7ffdb4e95a.jpg?v=1745616437",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRESH-MARKET_PX9A_Seashell.jpg?v=1744217103",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

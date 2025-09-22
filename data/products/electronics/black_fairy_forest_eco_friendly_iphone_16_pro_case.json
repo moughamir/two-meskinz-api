@@ -1,0 +1,98 @@
+{
+  "id": 8381661413464,
+  "title": "Black Fairy Forest iPhone 16 Pro Case",
+  "handle": "black-fairy-forest-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🧚‍♂️ Step into a magical realm with our Fairy Forest Phone Case by Pela! This enchanting design showcases a vibrant tapestry of delicate flowers and lush greenery against a midnight black background, reminiscent of a fairy-tale woodland in full bloom. Perfect for those who adore a touch of whimsy and elegance, this case transforms your device into a delightful garden that's always in bloom. Let your phone be the gateway to your own enchanted forest adventure! 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T17:13:55-04:00",
+  "created_at": "2025-05-21T09:51:53-04:00",
+  "updated_at": "2025-09-22T15:14:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fairy Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895728607320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17280-IP16P-BLACK-AOD:FAIRY-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381661413464,
+      "created_at": "2025-05-21T09:51:53-04:00",
+      "updated_at": "2025-09-22T15:14:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065430179928,
+      "created_at": "2025-05-21T09:51:53-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:51:55-04:00",
+      "product_id": 8381661413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FAIRY-FOREST_IP16P_Black.jpg?v=1747835515",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065607094360,
+      "created_at": "2025-05-21T10:40:19-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T10:40:23-04:00",
+      "product_id": 8381661413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SecretGarden3_715a4d5e-0dee-460d-bd3e-897586546fd2.png?v=1747838423",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065607127128,
+      "created_at": "2025-05-21T10:40:19-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T10:40:23-04:00",
+      "product_id": 8381661413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9064_bfe969cd-afe5-404f-8087-13c6247cd094.png?v=1747838423",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FAIRY-FOREST_IP16P_Black.jpg?v=1747835515",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

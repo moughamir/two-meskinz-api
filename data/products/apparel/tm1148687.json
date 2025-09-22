@@ -1,0 +1,67 @@
+{
+  "id": 7786383048871,
+  "title": "Brand: Belkin / Part #: BLKF4U042BT",
+  "handle": "tm1148687",
+  "body_html": "<br><strong>Item #: </strong>09045394<br><strong>Brand: </strong>Belkin<br><strong>Model #: </strong>BLKF4U042BT<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Hubs-4 Port</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>USB Enabled Devices</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>USB 2.0</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>White; Nightshade</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T21:40:58-06:00",
+  "created_at": "2023-12-29T21:40:59-06:00",
+  "updated_at": "2025-09-22T10:53:30-05:00",
+  "vendor": "Belkin",
+  "product_type": "Shipping & Office Supplies",
+  "tags": [
+    "Office Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707672854695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09045394",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "35.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786383048871,
+      "created_at": "2023-12-29T21:40:59-06:00",
+      "updated_at": "2025-09-22T10:53:30-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238483153063,
+      "created_at": "2025-02-03T18:51:30-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:51:31-06:00",
+      "product_id": 7786383048871,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0904539-21.jpg?v=1738630291",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 35.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0904539-21.jpg?v=1738630291",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Belkin",
+  "category": "Shipping & Office Supplies",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

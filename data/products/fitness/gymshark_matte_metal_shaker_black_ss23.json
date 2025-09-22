@@ -1,0 +1,122 @@
+{
+  "id": 6805098627274,
+  "title": "Gymshark Matte Metal Shaker Bottle - Black",
+  "handle": "gymshark-matte-metal-shaker-black-ss23",
+  "body_html": "<p><strong>WHAT'S SHAKIN'?</strong></p>\n<p><br>Whether you're shakin' or hydratin', you can always count on the Metal Shaker.</p>\n<p><br>• Mixer built in to the lid means no fussing around with a loose mixing ball<br>• Double wall insulation to keep your shakes at the temperature you want them<br>• Sleek, matte coated finish.</p>\n<p><br><strong>SIZE &amp; FIT</strong><br>• 20oz<br>• Height: 8.7 in. Width: 3.9 in.</p>\n<p><br><strong>MATERIALS &amp; CARE</strong><br>• Not dishwasher safe<br>• Do not microwave<br>• For hygiene reasons, all our bottles &amp; shakers are non-refundable</p>\n<p><br>SKU: I3A2U-BBBB</p>",
+  "published_at": "2023-05-25T07:50:05-07:00",
+  "created_at": "2023-01-12T01:12:12-08:00",
+  "updated_at": "2025-09-22T08:46:20-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "2023-03-16T14:43:11Z",
+    "20EXTRA",
+    "25/05/23",
+    "3-15-accessories",
+    "4-4-ml",
+    "Accessories",
+    "activity: lifting",
+    "algolia",
+    "all-products",
+    "bf-23",
+    "Bottles",
+    "category:Bottles",
+    "division:Accessories",
+    "equipment",
+    "filter-colour: Black",
+    "lifting",
+    "lifting-acc",
+    "no-returns",
+    "no-returns:2024-04-04T10:00:00_2032-04-04T010:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Lifting Goods",
+    "seamtype:Accessories",
+    "segmentation:Lifting",
+    "spanish-done",
+    "spanish-ss23-dg",
+    "SS23",
+    "ss23-accessories",
+    "subcategory:Shaker",
+    "Sync App Draft",
+    "test",
+    "tier:2",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39787835195594,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A2U-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "28.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805098627274,
+      "created_at": "2023-01-12T01:12:12-08:00",
+      "updated_at": "2025-09-22T08:46:20-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28974654292170,
+      "created_at": "2023-03-14T01:11:18-07:00",
+      "position": 1,
+      "updated_at": "2023-03-14T01:11:20-07:00",
+      "product_id": 6805098627274,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MatteMetalShakerBlackI3A2U-BBBB159.jpg?v=1678781480",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974653997258,
+      "created_at": "2023-03-14T01:11:18-07:00",
+      "position": 2,
+      "updated_at": "2023-03-14T01:11:19-07:00",
+      "product_id": 6805098627274,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MatteMetalShakerBlackI3A2U-BBBB158.jpg?v=1678781479",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28974654423242,
+      "created_at": "2023-03-14T01:11:18-07:00",
+      "position": 3,
+      "updated_at": "2023-03-14T01:11:20-07:00",
+      "product_id": 6805098627274,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/MatteMetalShakerBlackI3A2U-BBBB157.jpg?v=1678781480",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/MatteMetalShakerBlackI3A2U-BBBB159.jpg?v=1678781480",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

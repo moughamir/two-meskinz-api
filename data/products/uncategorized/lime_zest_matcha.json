@@ -1,0 +1,123 @@
+{
+  "id": 7051708268653,
+  "title": "Lime Zest & Matcha",
+  "handle": "lime-zest-matcha",
+  "body_html": "<p>Boost your energy and brighten your mood with invigorating notes of <strong>lime zest</strong>, <strong>green tea</strong>, <strong>clary sage</strong>, and <strong>bergamot</strong>.</p>",
+  "published_at": "2023-08-14T19:50:54-06:00",
+  "created_at": "2023-08-09T16:19:44-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "NEST New York",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:20% off",
+    "__label:Final sale",
+    "Brand:NEST New York",
+    "collection:Citrus",
+    "collection:NEST New York",
+    "CollectionFilter_Well-being",
+    "discount_20",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "remove-klevu",
+    "remove-subs",
+    "Scent Type_Citrus",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_limezestmatcha"
+  ],
+  "variants": [
+    {
+      "id": 40702260543597,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LZMH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051708268653,
+      "created_at": "2023-08-09T16:19:44-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31086803845229,
+      "created_at": "2024-01-24T12:23:05-07:00",
+      "position": 1,
+      "updated_at": "2024-01-24T12:25:02-07:00",
+      "product_id": 7051708268653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestLIMEZESTANDMATCHA-resized.jpg?v=1706124302",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31086806138989,
+      "created_at": "2024-01-24T12:23:54-07:00",
+      "position": 2,
+      "updated_at": "2024-01-24T12:25:02-07:00",
+      "product_id": 7051708268653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/limes-resized_b1a39859-944f-4cd3-8e98-e50dc4e0f076.jpg?v=1706124302",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30440405925997,
+      "created_at": "2023-09-08T12:26:38-06:00",
+      "position": 3,
+      "updated_at": "2024-01-24T12:25:02-07:00",
+      "product_id": 7051708268653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-Lime-Zest-And-Matcha-Device-V4.jpg?v=1706124302",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31086803877997,
+      "created_at": "2024-01-24T12:23:05-07:00",
+      "position": 4,
+      "updated_at": "2024-01-24T12:25:02-07:00",
+      "product_id": 7051708268653,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Nest-LimeZestandMatcha-Overhead-Shadow-Resized.jpg?v=1706124302",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestLIMEZESTANDMATCHA-resized.jpg?v=1706124302",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NEST New York",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 8452725768359,
+  "title": "Microemulsion Fluid: TRIM 270 gal Tote",
+  "handle": "04582763",
+  "body_html": "<br><strong>Item #: </strong>81579716<br><strong>Brand: </strong>Master Fluid Solutions<br><strong>Model #: </strong>MS555-270G<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Product Type</strong>\n</td>\n<td>Microemulsion</td>\n</tr>\n<tr> <td> <strong>Container Type</strong>\n</td>\n<td>Tote</td>\n</tr>\n<tr> <td> <strong>Container Size</strong>\n</td>\n<td>270 gal</td>\n</tr>\n<tr> <td> <strong>Net Fill</strong>\n</td>\n<td>270 gal</td>\n</tr>\n<tr> <td> <strong>Material Application</strong>\n</td>\n<td>Composite; Aluminum; Exotic Alloy; Plastic; Steel; Cast Aluminum; Non-Ferrous Metal; Magnesium Alloy; Ferrous Metal; Stainless Steel; Cast Iron; Copper Alloy; Wrought Aluminum</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>White</td>\n</tr>\n<tr> <td> <strong>Maximum Temperature (F) ( - 0 Decimals)</strong>\n</td>\n<td>77</td>\n</tr>\n<tr> <td> <strong>Minimum Temperature (Deg F - 3 Decimals)</strong>\n</td>\n<td>59</td>\n</tr>\n<tr> <td> <strong>Composition</strong>\n</td>\n<td>Water-Based; Semi-Synthetic</td>\n</tr>\n<tr> <td> <strong>Additional Material Applications</strong>\n</td>\n<td>Aluminum; Non Ferrous; Ferrous; Magnesium; Plastics</td>\n</tr>\n<tr> <td> <strong>Additional Applications</strong>\n</td>\n<td>Reaming; Form-Grinding; Tapping; Thread Rolling; Turning; Band Sawing</td>\n</tr>\n<tr> <td> <strong>Specific Gravity</strong>\n</td>\n<td>0.985/1.005</td>\n</tr>\n<tr> <td> <strong>Flash Point (Deg F)</strong>\n</td>\n<td>216.00</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>15121500</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>UNITED STATES</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T15:53:53-06:00",
+  "created_at": "2025-01-23T15:53:51-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Master Fluid Solutions",
+  "product_type": "Lubricants, Coolants & Fluids",
+  "tags": [
+    "Coolants & Equipment",
+    "Metalworking Fluids"
+  ],
+  "variants": [
+    {
+      "id": 46498696986791,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "81579716",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9117.61",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452725768359,
+      "created_at": "2025-01-23T15:53:51-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38251076485287,
+      "created_at": "2025-02-04T02:31:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T02:31:05-06:00",
+      "product_id": 8452725768359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8157971-21.jpg?v=1738657865",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9117.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8157971-21.jpg?v=1738657865",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Master Fluid Solutions",
+  "category": "Lubricants, Coolants & Fluids",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

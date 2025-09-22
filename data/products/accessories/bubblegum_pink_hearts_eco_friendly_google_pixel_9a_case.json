@@ -1,0 +1,86 @@
+{
+  "id": 8307859521624,
+  "title": "Bubblegum Pink Hearts Google Pixel 9a Case",
+  "handle": "bubblegum-pink-hearts-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p>Add some sweetness to your phone with our engraved Bubblegum Pink Hearts Phone Case. Not only is it beautifully designed with tiny pink hearts, but it's also sustainable and compostable - making it a durable and earth-friendly choice for your phone. Love your phone and the planet with this unique case!</p>",
+  "published_at": "2025-03-19T09:33:37-04:00",
+  "created_at": "2025-03-07T10:00:52-05:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hearts",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718224810072,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15746-PX9a-BUBPINK-AOD:HEARTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307859521624,
+      "created_at": "2025-03-07T10:00:52-05:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655034703960,
+      "created_at": "2025-03-07T10:00:52-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T10:00:54-05:00",
+      "product_id": 8307859521624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEARTS_PX9A_BubblegumPink.jpg?v=1741359654",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34655060459608,
+      "created_at": "2025-03-07T10:08:01-05:00",
+      "position": 2,
+      "updated_at": "2025-03-07T10:08:03-05:00",
+      "product_id": 8307859521624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEARTS_BUBBLEGGUM_1_b567954d-127d-4480-94de-d1d6130c834e.jpg?v=1741360083",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEARTS_PX9A_BubblegumPink.jpg?v=1741359654",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

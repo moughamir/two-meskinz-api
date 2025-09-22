@@ -1,0 +1,105 @@
+{
+  "id": 6805417689290,
+  "title": "Gymshark Script Cap - Soft Brown",
+  "handle": "gymshark-script-cap-soft-brown-aw23",
+  "body_html": "<p><strong>IT’S IN THE DETAILS</strong></p>\n<p><br data-mce-fragment=\"1\">The Script collection’s designed to add a little extra flair to your training or rest day fit.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">• Classic baseball cap shape<br data-mce-fragment=\"1\">• Embroidered handwriting to front<br data-mce-fragment=\"1\">• Metal adjuster to the back</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• One size<br data-mce-fragment=\"1\">• Wear it on your head</p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• 69% Cotton, 27% Nylon, 4% Elastane<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">SKU: I2A9X-NBZV</p>",
+  "published_at": "2023-10-26T07:30:08-07:00",
+  "created_at": "2023-07-20T07:13:24-07:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Rest Day",
+    "akeneo_updated_at:1758186881",
+    "all-products",
+    "build-your-wishlist",
+    "caps",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Brown",
+    "headwear",
+    "loungewear",
+    "lower-bucket",
+    "outlet-accessories-over-40",
+    "outlet-accessories-over-50",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Key Items",
+    "rest-day",
+    "season:AW23",
+    "segmentation:Rest Day",
+    "stocking-fillers",
+    "subcategory:Cap",
+    "tier:1"
+  ],
+  "variants": [
+    {
+      "id": 39789805142218,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A9X-NBZV-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "26.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805417689290,
+      "created_at": "2023-07-20T07:13:24-07:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976450601162,
+      "created_at": "2023-10-24T08:48:41-07:00",
+      "position": 1,
+      "updated_at": "2023-10-24T08:48:43-07:00",
+      "product_id": 6805417689290,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/ScriptCapGSSoftBrownI2A9X-NBZV-0290.jpg?v=1698162523",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976450765002,
+      "created_at": "2023-10-24T08:48:41-07:00",
+      "position": 2,
+      "updated_at": "2023-10-24T08:48:43-07:00",
+      "product_id": 6805417689290,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/ScriptCapGSSoftBrownI2A9X-NBZV-0292.jpg?v=1698162523",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 26,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/ScriptCapGSSoftBrownI2A9X-NBZV-0290.jpg?v=1698162523",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

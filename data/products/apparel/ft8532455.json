@@ -1,0 +1,67 @@
+{
+  "id": 7785734242471,
+  "title": "Brand: Wilkerson / Part #: GRP-96-636",
+  "handle": "ft8532455",
+  "body_html": "<br><strong>Item #: </strong>67556811<br><strong>Brand: </strong>Wilkerson<br><strong>Model #: </strong>GRP-96-636<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Metal Bowl/Sight Gauge/Man.Drain</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>18 Series</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Decimal Inch)</strong></td>\n<td>6.2500</td>\n</tr>\n<tr>\n<td><strong>Overall Height (Inch)</strong></td>\n<td>6-1/4</td>\n</tr>\n<tr>\n<td><strong>Overall Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>2.3600</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:41:07-06:00",
+  "created_at": "2023-12-29T00:41:07-06:00",
+  "updated_at": "2025-09-22T10:54:55-05:00",
+  "vendor": "Wilkerson",
+  "product_type": "Motion Control & Fluid Power",
+  "tags": [
+    "Pneumatics"
+  ],
+  "variants": [
+    {
+      "id": 43705363103911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "67556811",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "82.03",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785734242471,
+      "created_at": "2023-12-29T00:41:07-06:00",
+      "updated_at": "2025-09-22T10:54:55-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237169254567,
+      "created_at": "2025-02-03T18:06:56-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:06:58-06:00",
+      "product_id": 7785734242471,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_6b37afa3-a919-4e0a-a8ae-bca594a6ee35.jpg?v=1738627618",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 82.03,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_6b37afa3-a919-4e0a-a8ae-bca594a6ee35.jpg?v=1738627618",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wilkerson",
+  "category": "Motion Control & Fluid Power",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

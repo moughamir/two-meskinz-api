@@ -1,0 +1,67 @@
+{
+  "id": 7785868820647,
+  "title": "Brand: Dickies / Part #: WS10CH-RG-4XL",
+  "handle": "cw8031900",
+  "body_html": "<br><strong>Item #: </strong>98994528<br><strong>Brand: </strong>Dickies<br><strong>Model #: </strong>WS10CH-RG-4XL<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Garment Style</strong>\n</td>\n<td>Long Sleeve Regular</td>\n</tr>\n<tr>\n<td><strong>Garment Type</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>4X-Large</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Charcoal</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Polyester; Cotton</td>\n</tr>\n<tr>\n<td><strong>Closure Type</strong></td>\n<td>Button</td>\n</tr>\n<tr>\n<td><strong>Chest Size (Inch)</strong></td>\n<td>58-60</td>\n</tr>\n<tr>\n<td><strong>Material Weight (oz.)</strong></td>\n<td>5.2500</td>\n</tr>\n<tr>\n<td><strong>Seam Style</strong></td>\n<td>Double-Stitched</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Double-Needle Stitching; Full Seamless Underarm Gusset; Two-Double Needle, Button-Thru Hex Style Pockets With Left Pocket External Pencil Stall; Back Side Pleats; Straight Bottom Hem With Side Vents; Soil Release; Moisture Wicking; Wrinkle Resistant</td>\n</tr>\n<tr>\n<td><strong>Number Of Pockets</strong></td>\n<td>2.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:02:21-06:00",
+  "created_at": "2023-12-29T05:02:21-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "Dickies",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705691603111,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98994528",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.31",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785868820647,
+      "created_at": "2023-12-29T05:02:21-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237464035495,
+      "created_at": "2025-02-03T18:16:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:35-06:00",
+      "product_id": 7785868820647,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9899452-21.jpg?v=1738628195",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.31,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9899452-21.jpg?v=1738628195",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Dickies",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 8159690063960,
+  "title": "Seashell Pomegranate Cheer iPhone 13 Pro Case",
+  "handle": "seashell-pomegranate-cheer-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p class=\"p1\">Bring a pop of juicy cheer to your phone with the Pela Pomegranate Cheer Phone Case! Bursting with vibrant pomegranates and lush greenery, this case is a festive treat for the eyes. Perfect for those who love bold, fruity designs, it offers earth-friendly protection with a playful twist. Lightweight, durable, and made from plants, it’s the ultimate accessory for adding a splash of color to your everyday adventures. Stay fresh, stay fun, and keep your phone looking sweet!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:12:03-04:00",
+  "created_at": "2024-10-16T10:40:13-04:00",
+  "updated_at": "2025-09-22T15:15:37-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Pomegranate Cheer",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333268541528,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16761-IP13P-SEASHELL-AOD:POMEGRANATE-CHEER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159690063960,
+      "created_at": "2024-10-16T10:40:13-04:00",
+      "updated_at": "2025-09-22T15:15:37-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799049674840,
+      "created_at": "2024-10-16T10:40:13-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:13-04:00",
+      "product_id": 8159690063960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_IP13P_Seashell.jpg?v=1729089613",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33833251012696,
+      "created_at": "2024-10-21T17:24:16-04:00",
+      "position": 2,
+      "updated_at": "2024-10-21T17:24:18-04:00",
+      "product_id": 8159690063960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP1_014d804e-3661-4e0d-b6b5-fab31dd1c194.jpg?v=1729545858",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33833251045464,
+      "created_at": "2024-10-21T17:24:16-04:00",
+      "position": 3,
+      "updated_at": "2024-10-21T17:24:18-04:00",
+      "product_id": 8159690063960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP2_61a7ea68-ed42-406e-b1dc-06b1cd26c15f.jpg?v=1729545858",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33833250947160,
+      "created_at": "2024-10-21T17:24:16-04:00",
+      "position": 4,
+      "updated_at": "2024-10-21T17:24:18-04:00",
+      "product_id": 8159690063960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP3_98e3204e-0be6-4ee4-af52-4e680dbf4027.jpg?v=1729545858",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33833250979928,
+      "created_at": "2024-10-21T17:24:16-04:00",
+      "position": 5,
+      "updated_at": "2024-10-21T17:24:18-04:00",
+      "product_id": 8159690063960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATECHEER_PDP4_213e6ffa-afd2-4ae6-933e-f1cc2d59b23a.jpg?v=1729545858",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/POMEGRANATE-CHEER_IP13P_Seashell.jpg?v=1729089613",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

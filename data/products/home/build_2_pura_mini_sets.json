@@ -1,0 +1,83 @@
+{
+  "id": 7633387323501,
+  "title": "Build Two Pura Mini Sets",
+  "handle": "build-2-pura-mini-sets",
+  "body_html": "",
+  "published_at": "2025-04-14T09:37:38-06:00",
+  "created_at": "2025-04-03T19:20:11-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Mini Set",
+  "tags": [
+    "__label:Customize",
+    "Group_Home",
+    "type_Smartvial",
+    "YCRF_device",
+    "YCRF_homedevices",
+    "YGroup_device"
+  ],
+  "variants": [
+    {
+      "id": 42323917963373,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02160",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7633387323501,
+      "created_at": "2025-04-03T19:20:11-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34038391930989,
+      "created_at": "2025-04-03T19:20:14-06:00",
+      "position": 1,
+      "updated_at": "2025-04-03T19:20:16-06:00",
+      "product_id": 7633387323501,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BYS-2xMini-2xFrangrance-Bundle-PDP-Resized-0225.jpg?v=1743729616",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 34085380522093,
+      "created_at": "2025-04-11T14:07:14-06:00",
+      "position": 2,
+      "updated_at": "2025-04-11T14:07:16-06:00",
+      "product_id": 7633387323501,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini-PDP-Nightlight-ImageScroll-0525-2400x2400_bc8fa16d-acb4-4bec-9dd9-1ed667d7b85c.png?v=1744402036",
+      "width": 2400,
+      "height": 2400
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BYS-2xMini-2xFrangrance-Bundle-PDP-Resized-0225.jpg?v=1743729616",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Mini Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 8388536139864,
+  "title": "Seashell Hello Sunshine Google Pixel 6a Case",
+  "handle": "seashell-hello-sunshine-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say “ciao” to gloomy days—the Hello Sunshine Phone Case is here to turn up the brightness! Packed with cheerful palms, juicy fruits, and a whole lotta sunshine, this design brings Mediterranean vibes to your fingertips. It’s bold, it’s artsy, and it’s basically a summer vacation wrapped around your phone. ☀️🍊🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:09:30-04:00",
+  "created_at": "2025-05-30T12:37:38-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Hello Sunshine",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918166691928,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:HELLO-SUNSHINE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388536139864,
+      "created_at": "2025-05-30T12:37:38-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125638299736,
+      "created_at": "2025-05-30T12:37:38-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:40-04:00",
+      "product_id": 8388536139864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_PX6A_Seashell.jpg?v=1748623060",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195818442840,
+      "created_at": "2025-06-09T17:06:34-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:06:34-04:00",
+      "product_id": 8388536139864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d9f5e2a335630ed39413bd8190a2e378_8cb194e3-47be-46ec-95c7-fead27ab7667.jpg?v=1749503194",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195819032664,
+      "created_at": "2025-06-09T17:06:36-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:06:36-04:00",
+      "product_id": 8388536139864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3bf30d5079dea0f88344305643166d7b_3fa6f747-0a5d-465b-9d39-2151f7c2cc2d.jpg?v=1749503196",
+      "width": 4422,
+      "height": 4422
+    },
+    {
+      "id": 35195819556952,
+      "created_at": "2025-06-09T17:06:38-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:06:38-04:00",
+      "product_id": 8388536139864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/25a66dfb68f98606ad73f85050450769_dd46060d-6229-40ca-b562-4ac0d58bead7.jpg?v=1749503198",
+      "width": 4047,
+      "height": 4047
+    },
+    {
+      "id": 35195819819096,
+      "created_at": "2025-06-09T17:06:40-04:00",
+      "position": 5,
+      "updated_at": "2025-06-09T17:06:40-04:00",
+      "product_id": 8388536139864,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2802678dcc8c29ddec8f932ea7cb8a32_50601e4c-e733-4ffe-8904-ee66348febec.jpg?v=1749503200",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HELLO-SUNSHINE_PX6A_Seashell.jpg?v=1748623060",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

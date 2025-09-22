@@ -1,0 +1,67 @@
+{
+  "id": 7786463625383,
+  "title": "Brand: Harvey Tool / Part #: 752608",
+  "handle": "mt7106165",
+  "body_html": "<br><strong>Item #: </strong>82841784<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>752608<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drill Point Angle</strong>\n</td>\n<td>142</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (Decimal Inch)</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Single/Double Ended</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Miniature Drills - Spotting Drills</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter</strong></td>\n<td>0.1250</td>\n</tr>\n<tr>\n<td><strong>Flute Length (Decimal Inch)</strong></td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.125</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Number of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Harvey Type I</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>142.00</td>\n</tr>\n<tr>\n<td><strong>Tool Performance</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Spotting</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Web Thickness</strong></td>\n<td>0.0100000000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T03:09:11-06:00",
+  "created_at": "2023-12-30T03:09:11-06:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Holemaking",
+  "tags": [
+    "Center Drills (Combination Drill & Countersinks) & Spotting Drills"
+  ],
+  "variants": [
+    {
+      "id": 43708140454055,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82841784",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "28.51",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786463625383,
+      "created_at": "2023-12-30T03:09:11-06:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238777311399,
+      "created_at": "2025-02-03T19:04:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:04:12-06:00",
+      "product_id": 7786463625383,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0768726-21_f32ff228-fd5a-4822-8a68-23ce143307a7.jpg?v=1738631052",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 28.51,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0768726-21_f32ff228-fd5a-4822-8a68-23ce143307a7.jpg?v=1738631052",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

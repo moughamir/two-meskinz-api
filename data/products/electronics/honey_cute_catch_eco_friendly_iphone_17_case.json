@@ -1,0 +1,96 @@
+{
+  "id": 8444662415448,
+  "title": "Honey Cute Catch iPhone 17 Case",
+  "handle": "honey-cute-catch-eco-friendly-iphone-17-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Brighten up your day with the Pela Cute Catch Phone Case!  Adorned with whimsical fishing lures in a palette of joyful oranges and pinks against a honey yellow background, this case brings a splash of fun to your device. Perfect for anglers and color enthusiasts alike, its compostable material offers robust protection without harming the planet. Every glance at your phone will reel in smiles and compliments, making this the ultimate catch for anyone looking to combine style, function, and sustainability.  <meta charset=\"utf-8\">🐠<meta charset=\"utf-8\">🌟📱 </span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:47:01-04:00",
+  "created_at": "2025-08-08T11:49:15-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Fish",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cute Catch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184143827032,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17471-IP17-HONEY-AOD:CUTE-CATCH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444662415448,
+      "created_at": "2025-09-03T18:33:27-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184143859800,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17471-IP17-HONEY-AOD:CUTE-CATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444662415448,
+      "created_at": "2025-09-03T18:33:27-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567208333400,
+      "created_at": "2025-08-08T11:49:15-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:18-04:00",
+      "product_id": 8444662415448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CUTE-CATCH_IP17_Honey.jpg?v=1754668158",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CUTE-CATCH_IP17_Honey.jpg?v=1754668158",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

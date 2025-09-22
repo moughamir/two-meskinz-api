@@ -1,0 +1,129 @@
+{
+  "id": 8444691611736,
+  "title": "Bubblegum Pink Heatwave iPhone 17 Pro Max Case",
+  "handle": "bubblegum-pink-heatwave-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p>Feeling bold? The Heatwave Phone Case is bringing the fire!<meta charset=\"utf-8\">🌶️🔥 Covered in sizzling red chili peppers on a playful pink background, this case is a must-have for anyone who loves a little extra heat in their life. Whether you're a spice enthusiast, a trendsetter, or just looking to add some flavor to your phone, this design is too hot to handle (but don’t worry, it’s totally safe to touch <meta charset=\"utf-8\">😉).</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:06:39-04:00",
+  "created_at": "2025-08-08T11:51:02-04:00",
+  "updated_at": "2025-09-22T15:13:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Heatwave",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184107552856,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:HEATWAVE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444691611736,
+      "created_at": "2025-09-03T18:27:00-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    },
+    {
+      "id": 43184107585624,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17585-IP17PMAX-BUBPINK-AOD:HEATWAVE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444691611736,
+      "created_at": "2025-09-03T18:27:00-04:00",
+      "updated_at": "2025-09-22T15:13:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567271706712,
+      "created_at": "2025-08-08T11:51:02-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:04-04:00",
+      "product_id": 8444691611736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEATWAVE_IP17PMAX_BubblegumPink.jpg?v=1754668264",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34600736620632,
+      "created_at": "2025-02-26T15:37:05-05:00",
+      "position": 2,
+      "updated_at": "2025-08-14T15:03:34-04:00",
+      "product_id": 8444691611736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Heatwave_1.jpg?v=1755198214",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600736587864,
+      "created_at": "2025-02-26T15:37:05-05:00",
+      "position": 3,
+      "updated_at": "2025-08-14T15:03:46-04:00",
+      "product_id": 8444691611736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Heatwave_2.jpg?v=1755198226",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600736718936,
+      "created_at": "2025-02-26T15:37:05-05:00",
+      "position": 4,
+      "updated_at": "2025-08-14T15:03:54-04:00",
+      "product_id": 8444691611736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Heatwave_3.jpg?v=1755198234",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HEATWAVE_IP17PMAX_BubblegumPink.jpg?v=1754668264",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

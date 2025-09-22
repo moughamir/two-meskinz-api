@@ -1,0 +1,97 @@
+{
+  "id": 8397879017560,
+  "title": "Seashell Pencil Doodles Google Pixel 8 Case",
+  "handle": "seashell-pencil-doodles-eco-friendly-google-pixel-8-case",
+  "body_html": "<p data-start=\"0\" data-end=\"242\">Meet the Pencil Doodles Phone Case—your phone’s ticket to recess all day long! 🍓🧡✏️ Like a notebook sketch come to life, this playful case features smiley fruits and colorful designs that feel straight out of your childhood pencil case.</p>\n<p data-start=\"244\" data-end=\"564\" data-is-last-node=\"\" data-is-only-node=\"\">With cheerful doodles of strawberries, cherries, oranges, grapes, and blueberries, plus fun shapes like hearts, stars, and flowers, this case is bursting with character.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-26T09:28:36-04:00",
+  "created_at": "2025-06-10T10:31:29-04:00",
+  "updated_at": "2025-09-22T15:13:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pencil Doodles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42939087355992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14954-PX8-SEASHELL-AOD:PENCIL-DOODLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8397879017560,
+      "created_at": "2025-06-10T10:31:29-04:00",
+      "updated_at": "2025-09-22T15:13:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35200255098968,
+      "created_at": "2025-06-10T10:31:29-04:00",
+      "position": 1,
+      "updated_at": "2025-06-10T10:31:31-04:00",
+      "product_id": 8397879017560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PENCIL-DOODLES_PX8_Seashell.jpg?v=1749565891",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288758616152,
+      "created_at": "2025-06-24T14:41:19-04:00",
+      "position": 2,
+      "updated_at": "2025-06-24T14:41:19-04:00",
+      "product_id": 8397879017560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1870bdb84f0a4821444c87ca0d13d780_2039900f-190f-44ee-935b-f8b6c610acca.jpg?v=1750790479",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288759173208,
+      "created_at": "2025-06-24T14:41:20-04:00",
+      "position": 3,
+      "updated_at": "2025-06-24T14:41:20-04:00",
+      "product_id": 8397879017560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/91ed9025f76b9c2743c879eeafef4987_5e9fa196-55b4-4e12-80a4-530b944d1d97.jpg?v=1750790480",
+      "width": 4375,
+      "height": 4375
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PENCIL-DOODLES_PX8_Seashell.jpg?v=1749565891",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

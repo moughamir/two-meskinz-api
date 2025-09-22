@@ -1,0 +1,67 @@
+{
+  "id": 7785703014567,
+  "title": "Brand: Norton / Part #: 07660705414",
+  "handle": "ft8531690",
+  "body_html": "<br><strong>Item #: </strong>33339045<br><strong>Brand: </strong>Norton<br><strong>Model #: </strong>07660705414<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Wheel Diameter (Inch)</strong>\n</td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Wheel Thickness (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Grit</strong></td>\n<td>80</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Abrasive Material</strong></td>\n<td>Ceramic Alumina</td>\n</tr>\n<tr>\n<td><strong>Wheel Type</strong></td>\n<td>Type 1</td>\n</tr>\n<tr>\n<td><strong>Maximum Rpm</strong></td>\n<td>5410.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T00:17:44-06:00",
+  "created_at": "2023-12-29T00:17:44-06:00",
+  "updated_at": "2025-09-22T10:54:57-05:00",
+  "vendor": "Norton",
+  "product_type": "Abrasives",
+  "tags": [
+    "Grinding & Cutoff"
+  ],
+  "variants": [
+    {
+      "id": 43705221677223,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "33339045",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "83.10",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785703014567,
+      "created_at": "2023-12-29T00:17:44-06:00",
+      "updated_at": "2025-09-22T10:54:57-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237144744103,
+      "created_at": "2025-02-03T18:06:03-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:06:05-06:00",
+      "product_id": 7785703014567,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3333904-21.jpg?v=1738627565",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 83.1,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3333904-21.jpg?v=1738627565",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norton",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

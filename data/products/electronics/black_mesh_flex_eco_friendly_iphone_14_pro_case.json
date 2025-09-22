@@ -1,0 +1,97 @@
+{
+  "id": 7363999367256,
+  "title": "Black Mesh Flex iPhone 14 Pro Case",
+  "handle": "black-mesh-flex-eco-friendly-iphone-14-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">Step into sleek sophistication with the Pela Mesh Flex Phone Case, featuring an elegantly engraved mesh design that intricately weaves across a durable, dark backdrop sprinkled with subtle gold highlights.  <meta charset=\"utf-8\">Ideal for the minimalist who delights in a hint of understated glamour, this case ensures your phone is protected in style, making it a perfect companion for both professional settings and stylish nights out. ✨📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:12:00-04:00",
+  "created_at": "2023-05-30T14:51:21-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Retrospin",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Mesh Flex",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234199154776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16795-IP14P-BLACK-AOD:MESH-FLEX",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363999367256,
+      "created_at": "2023-05-30T14:51:21-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275021602904,
+      "created_at": "2023-05-30T14:51:21-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:51:21-04:00",
+      "product_id": 7363999367256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/MESH-FLEX_IP14P_Black.jpg?v=1685472681",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275907813464,
+      "created_at": "2023-05-31T12:01:18-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T12:01:19-04:00",
+      "product_id": 7363999367256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN4_6510c4dd-7199-4d2b-b8e4-f27c477665dc.png?v=1685548879",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275907846232,
+      "created_at": "2023-05-31T12:01:18-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T12:01:19-04:00",
+      "product_id": 7363999367256,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_1552d14a-615f-4a14-b8ee-206a027d8aaf.png?v=1685548879",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/MESH-FLEX_IP14P_Black.jpg?v=1685472681",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

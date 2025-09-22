@@ -1,0 +1,109 @@
+{
+  "id": 8385757413464,
+  "title": "Electric Blue Belugas iPhone 13 Pro Case",
+  "handle": "electric-blue-belugas-eco-friendly-iphone-13-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Make a splash with the Belugas Phone Case—your pocket-sized pod of pure joy! With a pod of smiling, white belugas gliding across a bold blue sea, this case brings big ocean energy and even bigger charm. It's perfect for marine life lovers, ocean daydreamers, and anyone who’s not afraid to let their phone swim with personality. 🐋💙🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:25:17-04:00",
+  "created_at": "2025-05-27T09:18:38-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Belugas",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908178382936,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16768-IP13P-ELEBLUE-AOD:BELUGAS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385757413464,
+      "created_at": "2025-05-27T09:18:38-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101692199000,
+      "created_at": "2025-05-27T09:18:38-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:40-04:00",
+      "product_id": 8385757413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_IP13P_ElectricBlue.jpg?v=1748351920",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102105501784,
+      "created_at": "2025-05-27T11:09:29-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:09:29-04:00",
+      "product_id": 8385757413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/564677a2709fe2414cfa44cae64c3bb5_1892a8b4-3cdd-43f2-95b0-2359193af1ed.jpg?v=1748358569",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102106222680,
+      "created_at": "2025-05-27T11:09:31-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:09:31-04:00",
+      "product_id": 8385757413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3e2c9e947e92ed0a1b0d07af833a00e9_88ba8326-4187-4ef9-8a66-fd4cb11ea4fd.jpg?v=1748358571",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35102106615896,
+      "created_at": "2025-05-27T11:09:32-04:00",
+      "position": 4,
+      "updated_at": "2025-05-27T11:09:32-04:00",
+      "product_id": 8385757413464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8649c140fdfef36cfaf198cdd1388b75_7439366c-48cc-4e98-9da8-fcda39eb5ec4.jpg?v=1748358572",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BELUGAS_IP13P_ElectricBlue.jpg?v=1748351920",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785921904807,
+  "title": "Brand: Widia / Part #: 2748179",
+  "handle": "hc5230145",
+  "body_html": "<br><strong>Item #: </strong>90228677<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2748179<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Standard</strong>\n</td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.1300</td>\n</tr>\n<tr>\n<td><strong>Threads per Inch</strong></td>\n<td>14</td>\n</tr>\n<tr>\n<td><strong>Thread Size (Inch)</strong></td>\n<td>1/2-14</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Metal</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Non-Ferrous Metal; Stainless Steel; Cast Iron; Steel</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.6880</td>\n</tr>\n<tr>\n<td><strong>Square Size (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Standard</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>5820</td>\n</tr>\n<tr>\n<td><strong>Thread Length (Decimal Inch)</strong></td>\n<td>1.6560</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (Decimal Inch)</strong></td>\n<td>0.0714</td>\n</tr>\n<tr>\n<td><strong>Square Length (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (Decimal Inch)</strong></td>\n<td>1.6560</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T06:58:20-06:00",
+  "created_at": "2023-12-29T06:58:20-06:00",
+  "updated_at": "2025-09-22T10:47:38-05:00",
+  "vendor": "Widia",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43705992609959,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "90228677",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "63.40",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785921904807,
+      "created_at": "2023-12-29T06:58:20-06:00",
+      "updated_at": "2025-09-22T10:47:38-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237652189351,
+      "created_at": "2025-02-03T18:20:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:20:35-06:00",
+      "product_id": 7785921904807,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9022797-21_42aa23d9-1fa7-4fe1-9653-75248397cb9c.jpg?v=1738628435",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 63.4,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9022797-21_42aa23d9-1fa7-4fe1-9653-75248397cb9c.jpg?v=1738628435",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

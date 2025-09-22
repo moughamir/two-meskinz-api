@@ -1,0 +1,96 @@
+{
+  "id": 8444676898904,
+  "title": "London Fog Spooky Dinner Party iPhone 17 Case",
+  "handle": "london-fog-spooky-dinner-party-eco-friendly-iphone-17-case",
+  "body_html": "<p class=\"p1\">Get ready to “eat, drink, and be spooky” with the Spooky Dinner Party Phone Case! 🎃🍴 This playful design brings all the Halloween essentials to your phone, from jack-o’-lanterns to witchy brews and tasty treats! Whether you’re a fan of devilishly good snacks or just love a fun, this case is your perfect dinner party accessory. It’s a feast for the eyes (minus the ghostly guests)! 👻🎉 Keep your phone stylishly protected while you celebrate the spookiest time of the year!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:24:25-04:00",
+  "created_at": "2025-08-08T11:50:07-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Spooky Dinner Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184190586968,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SPOOKY-DINNER-PARTY_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444676898904,
+      "created_at": "2025-09-03T18:40:26-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184190619736,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17465-IP17-LFOG-AOD:SPOOKY-DINNER-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444676898904,
+      "created_at": "2025-09-03T18:40:26-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567239266392,
+      "created_at": "2025-08-08T11:50:07-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:09-04:00",
+      "product_id": 8444676898904,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPOOKY-DINNER-PARTY_IP17_LondonFog.jpg?v=1754668209",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SPOOKY-DINNER-PARTY_IP17_LondonFog.jpg?v=1754668209",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

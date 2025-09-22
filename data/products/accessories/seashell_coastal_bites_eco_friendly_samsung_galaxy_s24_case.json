@@ -1,0 +1,108 @@
+{
+  "id": 8388535287896,
+  "title": "Seashell Coastal Bites Samsung Galaxy S24 Case",
+  "handle": "seashell-coastal-bites-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sunshine, seafood, and sips — the Coastal Bites Phone Case is serving Mediterranean vacation energy 24/7. With sardines, shrimp, olives, and wine all making an appearance, it’s basically a charcuterie board you can call your own. Perfect for snack lovers, beach dreamers, and anyone who believes life is better al fresco. ☀️🍷🍤📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-06-12T09:09:25-04:00",
+  "created_at": "2025-05-30T12:37:36-04:00",
+  "updated_at": "2025-09-22T15:13:53-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Vacation Moments",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coastal Bites",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42918165872728,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:COASTAL-BITES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8388535287896,
+      "created_at": "2025-05-30T12:37:36-04:00",
+      "updated_at": "2025-09-22T15:13:53-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35125636792408,
+      "created_at": "2025-05-30T12:37:36-04:00",
+      "position": 1,
+      "updated_at": "2025-05-30T12:37:38-04:00",
+      "product_id": 8388535287896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_S24_Seashell.jpg?v=1748623058",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35195851505752,
+      "created_at": "2025-06-09T17:08:49-04:00",
+      "position": 2,
+      "updated_at": "2025-06-09T17:08:49-04:00",
+      "product_id": 8388535287896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/50176f46403a607ec189a5955511319f_03d1bbae-0f8d-4f5a-bc94-285e4ab3d338.jpg?v=1749503329",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35195851898968,
+      "created_at": "2025-06-09T17:08:51-04:00",
+      "position": 3,
+      "updated_at": "2025-06-09T17:08:51-04:00",
+      "product_id": 8388535287896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/2c8fd9ff78236ffb82d740b0d52bc957_b65ffa4e-3aa4-4d32-ab03-9cb44d7edd15.jpg?v=1749503331",
+      "width": 3835,
+      "height": 3835
+    },
+    {
+      "id": 35195852685400,
+      "created_at": "2025-06-09T17:08:53-04:00",
+      "position": 4,
+      "updated_at": "2025-06-09T17:08:53-04:00",
+      "product_id": 8388535287896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/7d736efaa0741b7b66cc849cc916f501_be289dbc-3665-47cc-90dd-c68c0cd33002.jpg?v=1749503333",
+      "width": 4336,
+      "height": 4336
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COASTAL-BITES_S24_Seashell.jpg?v=1748623058",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

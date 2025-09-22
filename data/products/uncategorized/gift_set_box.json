@@ -1,0 +1,52 @@
+{
+  "id": 8131238428760,
+  "title": "Gift Set Box",
+  "handle": "gift-set-box",
+  "body_html": null,
+  "published_at": "2025-05-08T05:59:15-04:00",
+  "created_at": "2024-09-17T13:21:10-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Accessories",
+  "tags": [],
+  "variants": [
+    {
+      "id": 42269375496280,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25041-BOX-GIFT-BUNDLE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8131238428760,
+      "created_at": "2024-09-17T13:21:10-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

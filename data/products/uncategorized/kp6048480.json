@@ -1,0 +1,52 @@
+{
+  "id": 8453292490919,
+  "title": "Nut Driver, 1/2″ Magnetic Tip, 3″ Shaft",
+  "handle": "kp6048480",
+  "body_html": null,
+  "published_at": "2025-01-24T00:21:17-06:00",
+  "created_at": "2025-01-24T00:21:15-06:00",
+  "updated_at": "2025-09-22T10:52:00-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500131176615,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6048480",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.46",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453292490919,
+      "created_at": "2025-01-24T00:21:15-06:00",
+      "updated_at": "2025-09-22T10:52:00-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21.46,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

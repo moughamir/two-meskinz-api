@@ -1,0 +1,108 @@
+{
+  "id": 8286014996568,
+  "title": "Seashell Tomato Tango Samsung Galaxy S23+(Plus) Case",
+  "handle": "seashell-tomato-tango-eco-friendly-samsung-galaxy-s23-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Vine &amp; Dandy! 🍅💃 <meta charset=\"utf-8\">Brighten up your phone with juicy tomatoes dancing across this playful case! The Tomato Tango Phone Case is ripe for the picking, featuring a fun, fresh-from-the-vine design that’ll make you smile every time you reach for your phone. Made from Pela’s earth-friendly, compostable materials, it's style that's deliciously sustainable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:51:53-05:00",
+  "created_at": "2025-02-12T10:14:56-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tomato Tango",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658630434904,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13755-S23PLUS-SEASHELL-AOD:TOMATO-TANGO",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286014996568,
+      "created_at": "2025-02-12T10:14:56-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505577824344,
+      "created_at": "2025-02-12T10:14:56-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:14:59-05:00",
+      "product_id": 8286014996568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_S23PLUS_Seashell.jpg?v=1739373299",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34601078128728,
+      "created_at": "2025-02-26T16:10:40-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T16:10:44-05:00",
+      "product_id": 8286014996568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_07_a88badf6-1d5f-4ca7-908d-839af6485892.jpg?v=1740604244",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601078095960,
+      "created_at": "2025-02-26T16:10:40-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T16:10:44-05:00",
+      "product_id": 8286014996568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Product_PDP_1x1_09_24307a91-5b2a-41f2-b8a4-2a3813ad5242.jpg?v=1740604244",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34601078063192,
+      "created_at": "2025-02-26T16:10:40-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T16:10:44-05:00",
+      "product_id": 8286014996568,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AnimalPrints_Render_Group_IPGrid_PDP_1x1_05_be90e9aa-885b-4206-be7f-65f93c585f6c.jpg?v=1740604244",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TOMATO-TANGO_S23PLUS_Seashell.jpg?v=1739373299",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

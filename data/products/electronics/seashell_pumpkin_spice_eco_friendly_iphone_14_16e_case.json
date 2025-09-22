@@ -1,0 +1,110 @@
+{
+  "id": 8127740936280,
+  "title": "Seashell Pumpkin Spice iPhone 14/16e Case",
+  "handle": "seashell-pumpkin-spice-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p class=\"p1\">Get ready to fall in love with your phone all over again with the Pumpkin Spice Phone Case! 🎃🍂 This charming design is a tribute to all things cozy—steaming mugs of coffee, cinnamon sticks, pumpkin pie, and a sprinkle of autumn magic. It’s like wrapping your phone in a warm blanket of fall vibes, perfect for pumpkin spice lovers and autumn enthusiasts alike. Sip your latte, cozy up, and let your phone bask in the sweet, spicy goodness of the season! ☕🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:08:18-04:00",
+  "created_at": "2024-09-13T10:29:32-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Pumpkin Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346577496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:PUMPKIN-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740936280,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318941784,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:32-04:00",
+      "product_id": 8127740936280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP14_Seashell.jpg?v=1726237772",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685758967896,
+      "created_at": "2024-09-26T17:43:46-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:43:48-04:00",
+      "product_id": 8127740936280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_02_f6b16273-c8e9-4026-8a12-5f48783c224b.jpg?v=1727387028",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678560854104,
+      "created_at": "2024-09-25T15:25:37-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:25:39-04:00",
+      "product_id": 8127740936280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_b5316cd5-be84-4879-ab78-1ca70860ff38.jpg?v=1727292339",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685759000664,
+      "created_at": "2024-09-26T17:43:46-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:43:48-04:00",
+      "product_id": 8127740936280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_fbd94e53-ce72-4808-ab32-772a4d12f45f.jpg?v=1727387028",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_IP14_Seashell.jpg?v=1726237772",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

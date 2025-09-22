@@ -1,0 +1,110 @@
+{
+  "id": 8142178975832,
+  "title": "Seashell Forest Gems iPhone 14 Plus Case",
+  "handle": "seashell-forest-gems-eco-friendly-iphone-14-plus-case",
+  "body_html": "<p class=\"p1\">Discover nature’s hidden treasures with the Forest Gems Phone Case! 🍂✨ Featuring playful illustrations of acorns, mushrooms, and swirling leaves, this case brings the cozy charm of the forest floor right to your fingertips. Perfect for outdoor lovers and autumn enthusiasts, its earthy tones and whimsical designs will make you feel like you’re taking a stroll through a woodland wonderland every time you reach for your phone. 🍁🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-12-11T12:23:15-05:00",
+  "created_at": "2024-09-25T12:26:22-04:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Forest Gems",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294276522072,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16946-IP14PLUS-SEASHELL-AOD:FOREST-GEMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142178975832,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677680214104,
+      "created_at": "2024-09-25T12:26:22-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:22-04:00",
+      "product_id": 8142178975832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP14PLUS_Seashell.jpg?v=1727281582",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749430861912,
+      "created_at": "2024-10-09T17:27:37-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:27:38-04:00",
+      "product_id": 8142178975832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP2_733b2215-ee04-4493-bcd1-35b281f636c0.jpg?v=1728509258",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749430894680,
+      "created_at": "2024-10-09T17:27:37-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:27:38-04:00",
+      "product_id": 8142178975832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FORESTGEMS_PDP1_860605c2-379a-4115-b331-62d111944464.jpg?v=1728509258",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749430829144,
+      "created_at": "2024-10-09T17:27:37-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:27:38-04:00",
+      "product_id": 8142178975832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_06ce6c0e-511a-4eef-b241-db8136c40680.jpg?v=1728509258",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FOREST-GEMS_IP14PLUS_Seashell.jpg?v=1727281582",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

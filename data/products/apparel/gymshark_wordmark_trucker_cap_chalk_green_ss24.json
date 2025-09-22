@@ -1,0 +1,116 @@
+{
+  "id": 6805539651786,
+  "title": "Gymshark Wordmark Trucker Cap - Chalk Green",
+  "handle": "gymshark-wordmark-trucker-cap-chalk-green-ss24",
+  "body_html": "<p><strong>YOU CAN LEAVE YOUR HAT ON</strong></p>\n<p><br data-mce-fragment=\"1\">The finishing touch to any gym or rest day ‘fit. ‘Cause nothing says hats off to your outfit like, um, a hat.</p>\n<p> </p>\n<p>• Mesh panel at back to keep your head cool <br data-mce-fragment=\"1\">• Durable embroidered logo on the front</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• One size<br data-mce-fragment=\"1\">• 56cm diameter<br data-mce-fragment=\"1\">• Wear it on your head</p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• 100% Cotton</p>\n<p><br data-mce-fragment=\"1\">SKU: I3A6X-ECH9</p>",
+  "published_at": "2024-04-26T15:06:01-07:00",
+  "created_at": "2023-10-26T07:01:10-07:00",
+  "updated_at": "2025-09-22T08:45:53-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1.9.25-unpublish",
+    "25/04/24",
+    "acc-graphic-collection",
+    "Accessories",
+    "activity: rest day",
+    "all-products",
+    "bfcm24",
+    "caps",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Green",
+    "hats",
+    "headwear",
+    "INTL-25/04/24",
+    "NAM-25/04/24",
+    "NAM-25/04/24NPD",
+    "percentageInStockV2",
+    "range:Gfx Core",
+    "rest-day",
+    "seamtype:Accessories",
+    "segmentation:Rest Day",
+    "SS24",
+    "subcategory:Cap",
+    "test",
+    "tier:2",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39790548287690,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A6X-ECH9-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805539651786,
+      "created_at": "2023-10-26T07:01:10-07:00",
+      "updated_at": "2025-09-22T08:45:53-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28981104705738,
+      "created_at": "2024-04-23T07:11:26-07:00",
+      "position": 1,
+      "updated_at": "2024-04-23T07:11:28-07:00",
+      "product_id": 6805539651786,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/WordmarkTruckerCapGSChalkGreenI3A6X-ECH9-0070_bc538033-ecfb-4e40-8d88-81dc0d89820f.jpg?v=1713881488",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981104640202,
+      "created_at": "2024-04-23T07:11:26-07:00",
+      "position": 2,
+      "updated_at": "2024-04-23T07:11:28-07:00",
+      "product_id": 6805539651786,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/WordmarkTruckerCapGSChalkGreenI3A6X-ECH9-0068_3d89cc42-5728-4402-995b-2243c0e5c7cd.jpg?v=1713881488",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981104804042,
+      "created_at": "2024-04-23T07:11:26-07:00",
+      "position": 3,
+      "updated_at": "2024-04-23T07:11:28-07:00",
+      "product_id": 6805539651786,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/WordmarkTruckerCapGSChalkGreenI3A6X-ECH9-0071.jpg?v=1713881488",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/WordmarkTruckerCapGSChalkGreenI3A6X-ECH9-0070_bc538033-ecfb-4e40-8d88-81dc0d89820f.jpg?v=1713881488",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

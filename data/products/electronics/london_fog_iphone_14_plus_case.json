@@ -1,0 +1,94 @@
+{
+  "id": 7420684861528,
+  "title": "London Fog iPhone 14 Plus Case",
+  "handle": "london-fog-iphone-14-plus-case",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-10-05T11:05:13-04:00",
+  "created_at": "2023-09-15T12:37:17-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Plus",
+  "tags": [
+    "Classic",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40265854943320,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16945-IP14PLUS-LFOG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7420684861528,
+      "created_at": "2023-09-15T12:37:17-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31781459689560,
+      "created_at": "2023-09-28T11:31:47-04:00",
+      "position": 1,
+      "updated_at": "2023-09-28T11:31:49-04:00",
+      "product_id": 7420684861528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PLUS_LONDONFOG_BACK.jpg?v=1695915109",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781459755096,
+      "created_at": "2023-09-28T11:31:47-04:00",
+      "position": 2,
+      "updated_at": "2023-09-28T11:31:49-04:00",
+      "product_id": 7420684861528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PLUS_LONDONFOG_BACK45L.jpg?v=1695915109",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31781459722328,
+      "created_at": "2023-09-28T11:31:47-04:00",
+      "position": 3,
+      "updated_at": "2023-09-28T11:31:49-04:00",
+      "product_id": 7420684861528,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PLUS_LONDONFOG_BACK45R.jpg?v=1695915109",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_14_PLUS_LONDONFOG_BACK.jpg?v=1695915109",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 8444671721560,
+  "title": "London Fog Baseball iPhone Air Case",
+  "handle": "london-fog-baseball-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hit a grand slam in style with the Baseball Phone Case! Perfect for fans of America's pastime, this London Fog-colored case is sprinkled with classic baseballs, bringing the excitement of the diamond to your everyday life. Whether you're at the ballpark or just dreaming of the big leagues, this case keeps your phone protected and shows off your love for the game. Slide into home with a case that's as stylish as it is durable. Play ball! 📱⚾🥎</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:13:22-04:00",
+  "created_at": "2025-08-08T11:49:48-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Baseball",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Baseball",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184163127384,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:BASEBALL_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444671721560,
+      "created_at": "2025-09-03T18:34:59-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184163160152,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:BASEBALL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444671721560,
+      "created_at": "2025-09-03T18:34:59-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567228223576,
+      "created_at": "2025-08-08T11:49:48-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:51-04:00",
+      "product_id": 8444671721560,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BASEBALL_IP17AIR_LondonFog.jpg?v=1754668191",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BASEBALL_IP17AIR_LondonFog.jpg?v=1754668191",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

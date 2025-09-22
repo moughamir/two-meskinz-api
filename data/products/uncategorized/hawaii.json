@@ -1,0 +1,120 @@
+{
+  "id": 7049660760173,
+  "title": "Hawaii",
+  "handle": "hawaii",
+  "body_html": "<p>Juicy <strong>pineapple</strong> and <strong>coconut</strong> combine with sandy shore breezes, ocean tides, <strong>cyclamen</strong> <strong>flowers</strong>, and just a hint of <strong>sugar cane</strong>. Aloha, Hawaii!</p>",
+  "published_at": "2023-08-07T15:58:29-06:00",
+  "created_at": "2023-08-07T15:56:14-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Homesick",
+  "product_type": "Fragrance",
+  "tags": [
+    "__label:Best seller",
+    "Brand:Homesick",
+    "collection:Best Sellers",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Scent Type_Fresh",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_hawaii"
+  ],
+  "variants": [
+    {
+      "id": 40700721430637,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GWOH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7049660760173,
+      "created_at": "2023-08-07T15:56:14-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30813948018797,
+      "created_at": "2023-12-05T13:35:00-07:00",
+      "position": 1,
+      "updated_at": "2023-12-05T13:35:22-07:00",
+      "product_id": 7049660760173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Hawaii-Vertical-Resized.jpg?v=1701808522",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30813948051565,
+      "created_at": "2023-12-05T13:35:00-07:00",
+      "position": 2,
+      "updated_at": "2023-12-05T13:35:22-07:00",
+      "product_id": 7049660760173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pineapple-resized_b5af341f-261d-4b70-8e5f-a50414b0912f.jpg?v=1701808522",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30350236516461,
+      "created_at": "2023-08-14T19:21:39-06:00",
+      "position": 3,
+      "updated_at": "2023-12-05T13:35:22-07:00",
+      "product_id": 7049660760173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Hawaii-Device-V4.jpg?v=1701808522",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30813947986029,
+      "created_at": "2023-12-05T13:35:00-07:00",
+      "position": 4,
+      "updated_at": "2023-12-05T13:35:22-07:00",
+      "product_id": 7049660760173,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Hawaii-Overhead-Shadow-Resized.jpg?v=1701808522",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Homesick-Hawaii-Vertical-Resized.jpg?v=1701808522",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Homesick",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

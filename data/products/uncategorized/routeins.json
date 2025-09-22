@@ -1,0 +1,68 @@
+{
+  "id": 4508552921176,
+  "title": "Route Package Protection",
+  "handle": "routeins",
+  "body_html": "\n  Route provides protection for shipments that are lost, broken, or stolen. \n  Add Route to your cart at checkout to enable protection.  \n  <p>Visit <a href=\"https://routeapp.io\">routeapp.io</a> to learn more.</p>\n",
+  "published_at": "2025-05-08T10:01:48-04:00",
+  "created_at": "2020-02-19T18:34:49-05:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Route",
+  "product_type": "Insurance",
+  "tags": [
+    "Insurance",
+    "product_notice_1"
+  ],
+  "variants": [
+    {
+      "id": 40249784926296,
+      "title": "$0.98",
+      "option1": "$0.98",
+      "option2": null,
+      "option3": null,
+      "sku": "ROUTEINS",
+      "requires_shipping": false,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "price": "0.98",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 4508552921176,
+      "created_at": "2023-07-31T20:03:40-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 15567078948952,
+      "created_at": "2020-09-09T18:50:46-04:00",
+      "position": 1,
+      "updated_at": "2020-09-09T18:50:46-04:00",
+      "product_id": 4508552921176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/RouteShopifyProductV6.png?v=1599691846",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "$0.98"
+      ]
+    }
+  ],
+  "price": 0.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/RouteShopifyProductV6.png?v=1599691846",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Route",
+  "category": "Insurance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

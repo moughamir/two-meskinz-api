@@ -1,0 +1,119 @@
+{
+  "id": 7357281796184,
+  "title": "Seashell Seashore Samsung Galaxy S23 Case",
+  "handle": "seashell-seashore-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into the serenity of the beach with the Seashore Phone Case! Adorned with an intricate pattern of seashells in soothing tones, this case captures the essence of a peaceful seaside stroll. Perfect for ocean lovers and beachcombers, it’s like having a bit of the shore right in your hand. Feel the sand between your toes and hear the waves with every call you take. Bring the coastal charm to your phone and let your device reflect your love for the sea! <meta charset=\"utf-8\">🐚 🌊📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-07-13T08:03:42-04:00",
+  "created_at": "2023-03-16T14:47:01-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Engraving",
+    "collection:Beach Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Seashore",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40217531908184,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:SEASHORE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7357281796184,
+      "created_at": "2023-03-16T14:47:01-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30222941225048,
+      "created_at": "2023-03-16T14:47:01-04:00",
+      "position": 1,
+      "updated_at": "2023-03-16T14:47:01-04:00",
+      "product_id": 7357281796184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_S23_Seashell.jpg?v=1678992421",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30228846837848,
+      "created_at": "2023-03-24T17:37:45-04:00",
+      "position": 2,
+      "updated_at": "2023-03-24T17:37:46-04:00",
+      "product_id": 7357281796184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FullSizeRender_2_Large_c43fffef-d19f-41dd-9eb0-6d9047760210.jpg?v=1679693866",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "id": 30246358089816,
+      "created_at": "2023-04-18T16:22:28-04:00",
+      "position": 3,
+      "updated_at": "2023-04-18T16:22:29-04:00",
+      "product_id": 7357281796184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays4_4bd9b140-77b1-4020-9c5d-48486ff80bfc.png?v=1681849349",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246358122584,
+      "created_at": "2023-04-18T16:22:28-04:00",
+      "position": 4,
+      "updated_at": "2023-04-18T16:22:29-04:00",
+      "product_id": 7357281796184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays2wide_b733083c-2d8a-4847-b5b8-b065bd81db0b.png?v=1681849349",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30246358155352,
+      "created_at": "2023-04-18T16:22:28-04:00",
+      "position": 5,
+      "updated_at": "2023-04-18T16:22:29-04:00",
+      "product_id": 7357281796184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Beachdays1wide_05906ba7-9c6f-4d69-a14c-9f5d3f40c9ce.png?v=1681849349",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SEASHORE_S23_Seashell.jpg?v=1678992421",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

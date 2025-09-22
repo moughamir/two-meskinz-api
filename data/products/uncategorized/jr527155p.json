@@ -1,0 +1,68 @@
+{
+  "id": 5326961672359,
+  "title": "‎1-3FL-SE-42° AVAL-CR XL w/.250R (3-1/4x6)",
+  "handle": "jr527155p",
+  "body_html": "<br><strong>Item #: </strong>MW21283913254<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>283-913254<br><br>",
+  "published_at": "2025-01-23T22:16:20-06:00",
+  "created_at": "2020-06-13T15:27:19-05:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Milling",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34708378779815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW21283913254",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "428.86",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5326961672359,
+      "created_at": "2020-06-13T15:27:19-05:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38144131203239,
+      "created_at": "2025-01-23T22:16:33-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:16:34-06:00",
+      "product_id": 5326961672359,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_655f9881-70c8-4e2a-92e3-0f3a91f5fdb5.png?v=1737692194",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 428.86,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_655f9881-70c8-4e2a-92e3-0f3a91f5fdb5.png?v=1737692194",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

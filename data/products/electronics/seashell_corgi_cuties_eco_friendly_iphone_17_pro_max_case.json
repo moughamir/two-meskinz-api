@@ -1,0 +1,96 @@
+{
+  "id": 8444658745432,
+  "title": "Seashell Corgi Cuties iPhone 17 Pro Max Case",
+  "handle": "seashell-corgi-cuties-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span data-mce-fragment=\"1\">Let your phone join in on the frolic with the Corgi Cuties Phone Case, featuring the adorable, fluffy facade of everyone's favorite royal pup. This case is a tribute to the playful spirit and stout heart of the beloved Corgi, designed for those who adore these affectionate companions.</span></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span data-mce-fragment=\"1\"> 📱💚✨</span></span></p>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span><br></p>",
+  "published_at": "2025-09-09T15:52:45-04:00",
+  "created_at": "2025-08-08T11:49:03-04:00",
+  "updated_at": "2025-09-22T15:12:50-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Dogs",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Corgi Cuties",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184232857688,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CORGI-CUTIES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444658745432,
+      "created_at": "2025-09-03T18:47:20-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    },
+    {
+      "id": 43184232890456,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:CORGI-CUTIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444658745432,
+      "created_at": "2025-09-03T18:47:20-04:00",
+      "updated_at": "2025-09-22T15:12:50-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567200370776,
+      "created_at": "2025-08-08T11:49:03-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:49:05-04:00",
+      "product_id": 8444658745432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORGI-CUTIES_IP17PMAX_Seashell.jpg?v=1754668145",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORGI-CUTIES_IP17PMAX_Seashell.jpg?v=1754668145",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

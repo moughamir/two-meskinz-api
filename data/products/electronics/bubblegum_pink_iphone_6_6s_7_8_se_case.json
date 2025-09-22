@@ -1,0 +1,92 @@
+{
+  "id": 7361819705432,
+  "title": "Bubblegum Pink iPhone 6/6s/7/8/SE Case",
+  "handle": "bubblegum-pink-iphone-6-6s-7-8-se-case",
+  "body_html": "<meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2023-05-25T08:17:50-04:00",
+  "created_at": "2023-05-12T10:16:25-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 40230008258648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "32516-IP7-BUBPINK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.00",
+      "grams": 33,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7361819705432,
+      "created_at": "2023-05-12T10:16:25-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30266072629336,
+      "created_at": "2023-05-19T13:05:53-04:00",
+      "position": 1,
+      "updated_at": "2023-05-19T13:05:57-04:00",
+      "product_id": 7361819705432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_7_BUBBLEGUM_PINK_BACK.jpg?v=1684515957",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30266072596568,
+      "created_at": "2023-05-19T13:05:53-04:00",
+      "position": 2,
+      "updated_at": "2023-05-19T13:05:57-04:00",
+      "product_id": 7361819705432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_7_BUBBLEGUM_PINK_BACK_45L.jpg?v=1684515957",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30266072662104,
+      "created_at": "2023-05-19T13:05:53-04:00",
+      "position": 3,
+      "updated_at": "2023-05-19T13:05:56-04:00",
+      "product_id": 7361819705432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_7_BUBBLEGUM_PINK_BACK_45R.jpg?v=1684515956",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_7_BUBBLEGUM_PINK_BACK.jpg?v=1684515957",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

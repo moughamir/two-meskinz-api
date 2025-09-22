@@ -1,0 +1,67 @@
+{
+  "id": 8451787948199,
+  "title": "Brand: Vargus / Part #: 165-00030",
+  "handle": "00150573",
+  "body_html": "<br><strong>Item #: </strong>97490510<br><strong>Brand: </strong>Vargus<br><strong>Model #: </strong>165-00030<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Thread Size (mm)</strong></td>\n<td>M6x1</td>\n</tr>\n<tr>\n<td><strong>Thread Depth</strong></td>\n<td>3.0000</td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Internal</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (mm)</strong></td>\n<td>4.80</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>18.5000</td>\n</tr>\n<tr>\n<td><strong>Minimum Nominal Diameter (mm)</strong></td>\n<td>M6</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>1.3580</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>34.500</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>60.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.3620</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>VTH</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiCN</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.7283</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:22:40-06:00",
+  "created_at": "2025-01-22T09:22:38-06:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "Vargus",
+  "product_type": "Threading",
+  "tags": [
+    "Thread Mills"
+  ],
+  "variants": [
+    {
+      "id": 46493877600423,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97490510",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451787948199,
+      "created_at": "2025-01-22T09:22:38-06:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38110799888551,
+      "created_at": "2025-01-22T09:22:49-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:22:50-06:00",
+      "product_id": 8451787948199,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9749219-21_6179ffaa-6e83-484c-90c0-9d4c58e671d5.jpg?v=1737559370",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9749219-21_6179ffaa-6e83-484c-90c0-9d4c58e671d5.jpg?v=1737559370",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Vargus",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

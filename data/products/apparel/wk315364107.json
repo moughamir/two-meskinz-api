@@ -1,0 +1,67 @@
+{
+  "id": 7785306914983,
+  "title": "Brand: Tuff N Lite / Part #: SL JSY 082  MD",
+  "handle": "wk315364107",
+  "body_html": "<br><strong>Item #: </strong>94115367<br><strong>Brand: </strong>Tuff N Lite<br><strong>Model #: </strong>SL JSY 082  MD<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Size</strong>\n</td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Product Type</strong></td>\n<td>Cut-Resistant Sleeves</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td><strong>Thumb Hole</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Seam Style</strong></td>\n<td>Sewn</td>\n</tr>\n<tr>\n<td><strong>Ansi/Isea Cut Resistance Level</strong></td>\n<td>A5</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T16:59:12-06:00",
+  "created_at": "2023-12-28T16:59:12-06:00",
+  "updated_at": "2025-09-22T10:55:46-05:00",
+  "vendor": "Tuff N Lite",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43703592091815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94115367",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "108.88",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785306914983,
+      "created_at": "2023-12-28T16:59:12-06:00",
+      "updated_at": "2025-09-22T10:55:46-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236669608103,
+      "created_at": "2025-02-03T17:49:59-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:50:00-06:00",
+      "product_id": 7785306914983,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9411538-21_31d5fb9d-d96f-4936-9c46-b4dd646024ee.jpg?v=1738626600",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 108.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9411538-21_31d5fb9d-d96f-4936-9c46-b4dd646024ee.jpg?v=1738626600",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Tuff N Lite",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

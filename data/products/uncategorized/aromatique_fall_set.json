@@ -1,0 +1,91 @@
+{
+  "id": 7516599025773,
+  "title": "Aromatique Fall Set",
+  "handle": "aromatique-fall-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">This set includes two premium Aromatique scents, Cinnamon Cider and Pumpkin Spice, and a Pura 4TM smart fragrance diffuser.</p>",
+  "published_at": "2025-08-07T10:57:20-06:00",
+  "created_at": "2024-08-08T13:45:26-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Aromatique",
+  "product_type": "Box",
+  "tags": [
+    "900-00761",
+    "Brand:Aromatique",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Pura 4",
+    "Scent Type_Fruity",
+    "Scent Type_Gourmand",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_cinnamoncider"
+  ],
+  "variants": [
+    {
+      "id": 41772085510253,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-00761",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.99",
+      "grams": 590,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7516599025773,
+      "created_at": "2024-08-08T13:45:26-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32730187366509,
+      "created_at": "2024-08-08T13:52:11-06:00",
+      "position": 1,
+      "updated_at": "2024-08-08T13:52:13-06:00",
+      "product_id": 7516599025773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CinnamonCider-PumpkinSpice-0724-2.png?v=1723146733",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 32730187464813,
+      "created_at": "2024-08-08T13:52:11-06:00",
+      "position": 2,
+      "updated_at": "2024-08-08T13:52:16-06:00",
+      "product_id": 7516599025773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CinnamonCider-PumpkinSpice-0724-1.png?v=1723146736",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CinnamonCider-PumpkinSpice-0724-2.png?v=1723146733",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Aromatique",
+  "category": "Box",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

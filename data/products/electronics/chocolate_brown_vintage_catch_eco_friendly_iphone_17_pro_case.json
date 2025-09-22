@@ -1,0 +1,118 @@
+{
+  "id": 8444695806040,
+  "title": "Chocolate Brown Vintage Catch iPhone 17 Pro Case",
+  "handle": "chocolate-brown-vintage-catch-eco-friendly-iphone-17-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">A throwback to old-school fishing guides, <em data-start=\"513\" data-end=\"528\">Vintage Catch</em> features hand-drawn illustrations of fish species. Whether you're a seasoned angler or a weekend warrior, this case is a timeless tribute to the art of the catch.<meta charset=\"utf-8\">🐠</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:01:07-04:00",
+  "created_at": "2025-08-08T11:51:16-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Fisherman Core",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Vintage Catch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184123674712,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17507-IP17P-CHOBROWN-AOD:VINTAGE-CATCH_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444695806040,
+      "created_at": "2025-09-03T18:29:37-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184123707480,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17507-IP17P-CHOBROWN-AOD:VINTAGE-CATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444695806040,
+      "created_at": "2025-09-03T18:29:37-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567281504344,
+      "created_at": "2025-08-08T11:51:16-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:19-04:00",
+      "product_id": 8444695806040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-CATCH_IP17P_ChocolateBrown.jpg?v=1754668279",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34742986932312,
+      "created_at": "2025-03-25T11:05:35-04:00",
+      "position": 2,
+      "updated_at": "2025-08-13T11:13:53-04:00",
+      "product_id": 8444695806040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Vintage_Catch.jpg?v=1755098033",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34742986965080,
+      "created_at": "2025-03-25T11:05:35-04:00",
+      "position": 3,
+      "updated_at": "2025-08-13T11:14:03-04:00",
+      "product_id": 8444695806040,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Vintage_Catch_2.jpg?v=1755098043",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-CATCH_IP17P_ChocolateBrown.jpg?v=1754668279",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

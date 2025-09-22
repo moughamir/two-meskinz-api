@@ -1,0 +1,108 @@
+{
+  "id": 8320053215320,
+  "title": "Seashell Berry Bloom Samsung Galaxy S24 Case",
+  "handle": "seashell-berry-bloom-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p><meta charset=\"utf-8\">A little sweet, a little surreal—<em data-start=\"70\" data-end=\"83\">Berry Bloom Phone Case</em> turns the ordinary into a work of art. Part of the <em data-start=\"139\" data-end=\"155\">Surreal Soirée</em> Collection, this design features ripe strawberries stacked like a sculpture, with delicate pink blooms sprouting from the top. It’s a playful mix of fresh fruit, florals, and a touch of the unexpected, perfect for those who love a dreamy twist on everyday beauty.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-08T09:12:40-04:00",
+  "created_at": "2025-03-20T10:16:56-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Surreal Soiree",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Berry Bloom",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756131323992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13786-S24-SEASHELL-AOD:BERRY-BLOOM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320053215320,
+      "created_at": "2025-03-20T10:16:56-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34721976123480,
+      "created_at": "2025-03-20T10:16:56-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:16:58-04:00",
+      "product_id": 8320053215320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BERRY-BLOOM_S24_Seashell.jpg?v=1742480218",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34800692920408,
+      "created_at": "2025-04-07T18:48:34-04:00",
+      "position": 2,
+      "updated_at": "2025-04-07T18:48:38-04:00",
+      "product_id": 8320053215320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Friends_PDP_1x1_01_e7b2e63c-a76e-41dc-bf95-b31598b1d268.jpg?v=1744066118",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800692953176,
+      "created_at": "2025-04-07T18:48:34-04:00",
+      "position": 3,
+      "updated_at": "2025-04-07T18:48:38-04:00",
+      "product_id": 8320053215320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Androids_PDP_1x1_03_d92176f2-7846-4723-b26b-c30cfc721bbd.jpg?v=1744066118",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800692985944,
+      "created_at": "2025-04-07T18:48:34-04:00",
+      "position": 4,
+      "updated_at": "2025-04-07T18:48:38-04:00",
+      "product_id": 8320053215320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Grid_PDP_1x1_04_4172327d-aa45-434a-967c-45bc3a0b03c5.jpg?v=1744066118",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BERRY-BLOOM_S24_Seashell.jpg?v=1742480218",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

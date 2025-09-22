@@ -1,0 +1,119 @@
+{
+  "id": 7051707646061,
+  "title": "Jack the Pumpkin King",
+  "handle": "jack-the-pumpkin-king",
+  "body_html": "<p>Forest <strong>pumpkin</strong>, <strong>marshmallow fluff</strong>, and <strong>clove</strong> bud combine with <strong>pumpkin pie</strong>, glowing <strong>amber</strong>, and <strong>sugar musk </strong>to create a fragrance that haunts Jack’s most delicious dreams.</p>",
+  "published_at": "2023-08-14T19:50:42-06:00",
+  "created_at": "2023-08-09T16:19:37-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Disney",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Disney",
+    "CollectionFilter_Fall Essentials",
+    "CollectionFilter_Pumpkin",
+    "Group_Home",
+    "Mood_Bold",
+    "Scent Type_Amber",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart16",
+    "type_smart17",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_jackthepumpkinking"
+  ],
+  "variants": [
+    {
+      "id": 40702259986541,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "JPKH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "16.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051707646061,
+      "created_at": "2023-08-09T16:19:37-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30977014333549,
+      "created_at": "2024-01-07T14:34:54-07:00",
+      "position": 1,
+      "updated_at": "2024-01-07T14:35:14-07:00",
+      "product_id": 7051707646061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Disney-Jack-Vertical-Resized.jpg?v=1704663314",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30977014300781,
+      "created_at": "2024-01-07T14:34:54-07:00",
+      "position": 2,
+      "updated_at": "2024-01-07T14:35:14-07:00",
+      "product_id": 7051707646061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/pumpkin-seeds-2_99ebc488-b66f-4343-8220-98e407bf64db.jpg?v=1704663314",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977014431853,
+      "created_at": "2024-01-07T14:34:54-07:00",
+      "position": 3,
+      "updated_at": "2024-01-07T14:35:14-07:00",
+      "product_id": 7051707646061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Disney-Jack-The-Pumpkin-King-Device-V4.jpg?v=1704663314",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30977014366317,
+      "created_at": "2024-01-07T14:34:54-07:00",
+      "position": 4,
+      "updated_at": "2024-01-07T14:35:14-07:00",
+      "product_id": 7051707646061,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Disney-Jack-Overhead-Shadow-Resized.jpg?v=1704663314",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 16.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Disney-Jack-Vertical-Resized.jpg?v=1704663314",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Disney",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

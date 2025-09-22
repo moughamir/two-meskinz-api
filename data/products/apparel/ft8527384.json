@@ -1,0 +1,67 @@
+{
+  "id": 7785520070823,
+  "title": "Brand: Wiha / Part #: 38050",
+  "handle": "ft8527384",
+  "body_html": "<br><strong>Item #: </strong>95674016<br><strong>Brand: </strong>Wiha<br><strong>Model #: </strong>38050<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>14 in 1 Screwdriver</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Philips?, Slotted; Posidriv; Square</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Phillips Point Size</strong></td>\n<td>#0, #1, #2, #3</td>\n</tr>\n<tr>\n<td><strong>Slotted Point Size</strong></td>\n<td>4.5 mm, 5.5 mm</td>\n</tr>\n<tr>\n<td><strong>Shaft Length</strong></td>\n<td>4.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>12-1/4</td>\n</tr>\n<tr>\n<td><strong>Handle Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>8.5000</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Posidriv Point Size</strong></td>\n<td>#3; #1; #2</td>\n</tr>\n<tr>\n<td><strong>SquareSize</strong></td>\n<td>#3; #1; #2</td>\n</tr>\n<tr>\n<td><strong>Contents</strong></td>\n<td>Wiha 71102 - Phillips Bit #2 - 25mm (OAL 1?); Wiha 71803 - Square Bit #3 - 25mm (OAL 1?); Wiha 71100 - Phillips Bit #0 - 25mm  (OAL 1?); Wiha 71004 - Slotted Bit 5.5mm - 25mm (7/32)  (OAL 1?); Wiha 71801 - Square Bit #1 - 25mm  (OAL 1?); Wiha 71103 - Phillips Bit #3 - 25mm  (OAL 1?); Wiha 71203 - PoziDriv Bit #3 - 25mm  (OAL 1?); Wiha 71101 - Phillips Bit #1 - 25mm  (OAL 1?); Wiha 71001 - Slotted Bit 4.5mm - 25mm (3/16) (OAL 1?); Wiha 71201 - PoziDriv Bit #1 - 25mm  (OAL 1?); Wiha 71202 - PoziDriv Bit #2 - 25mm (OAL 1?); Wiha 71802 - Square Bit #2 - 25mm (OAL 1?)</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Electricians</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel Alloy; Composite</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>14.000</td>\n</tr>\n<tr>\n<td><strong>Blade Length (Inch)</strong></td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:27:00-06:00",
+  "created_at": "2023-12-28T22:27:00-06:00",
+  "updated_at": "2025-09-22T10:55:07-05:00",
+  "vendor": "Wiha",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Screwdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 43704260001959,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95674016",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "88.96",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785520070823,
+      "created_at": "2023-12-28T22:27:00-06:00",
+      "updated_at": "2025-09-22T10:55:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237028516007,
+      "created_at": "2025-02-03T18:01:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:01:58-06:00",
+      "product_id": 7785520070823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9567401-21.jpg?v=1738627318",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 88.96,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9567401-21.jpg?v=1738627318",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Wiha",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

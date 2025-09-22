@@ -1,0 +1,108 @@
+{
+  "id": 8320081526872,
+  "title": "Seashell Flourish Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-flourish-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p><meta charset=\"utf-8\">Spring has officially sprung—on your phone! The <em data-start=\"83\" data-end=\"93\">Flourish</em> Phone Case is a bloom-filled wonderland sprinkled with bunnies, ducklings, bees, blossoms, and even the occasional hedgehog. It's like a storybook meadow that fits in the palm of your hand, perfect for anyone who loves sunny days, fresh flowers, and all things adorable.<meta charset=\"utf-8\">🐇🌷</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:26:26-04:00",
+  "created_at": "2025-03-20T10:50:41-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756161208408,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320081526872,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722015379544,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:43-04:00",
+      "product_id": 8320081526872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_S25ULTRA_Seashell.jpg?v=1742482243",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814171512920,
+      "created_at": "2025-04-10T10:27:34-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:27:38-04:00",
+      "product_id": 8320081526872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_1162bdeb-d430-42d3-87a6-72ef33d8faf8.jpg?v=1744295258",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814171447384,
+      "created_at": "2025-04-10T10:27:34-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:27:38-04:00",
+      "product_id": 8320081526872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_659833b8-f066-4170-8c53-d93073380e67.jpg?v=1744295258",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814171480152,
+      "created_at": "2025-04-10T10:27:33-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:27:38-04:00",
+      "product_id": 8320081526872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_4668c7da-45c3-4a15-88f4-75a213bbaa29.jpg?v=1744295258",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_S25ULTRA_Seashell.jpg?v=1742482243",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

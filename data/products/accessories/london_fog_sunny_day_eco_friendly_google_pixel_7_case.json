@@ -1,0 +1,86 @@
+{
+  "id": 7357280813144,
+  "title": "London Fog Sunny Day Google Pixel 7 Case",
+  "handle": "london-fog-sunny-day-eco-friendly-google-pixel-7-case",
+  "body_html": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><meta charset=\"utf-8\">Bring the warmth of a perfect beach day with you wherever you go with the Sunny Days Phone Case! Featuring a vibrant and cheerful landscape of palm trees, sunlit waves, and golden sands, this case is a mini-vacation for your phone. Ideal for those who live for summer vibes and tropical dreams, it’s like having a slice of paradise in your pocket. Let your phone bask in the sunshine and spread those sunny vibes all year round! 🌴🌅📱</span></span></p>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></span></p>",
+  "published_at": "2023-07-13T08:07:10-04:00",
+  "created_at": "2023-03-16T14:46:51-04:00",
+  "updated_at": "2025-09-22T15:16:41-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Beach Day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunny Day",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40217530892376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14837-PX7-LFOG-AOD:SUNNY-DAY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7357280813144,
+      "created_at": "2023-03-16T14:46:51-04:00",
+      "updated_at": "2025-09-22T15:16:41-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30222940242008,
+      "created_at": "2023-03-16T14:46:51-04:00",
+      "position": 1,
+      "updated_at": "2023-03-16T14:46:51-04:00",
+      "product_id": 7357280813144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUNNY-DAY_PX7_LondonFog.jpg?v=1678992411",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30228837728344,
+      "created_at": "2023-03-24T16:38:21-04:00",
+      "position": 2,
+      "updated_at": "2023-03-24T16:38:22-04:00",
+      "product_id": 7357280813144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FullSizeRenderLarge_8416e0c7-0f32-42a3-9f2f-068584e5c065.jpg?v=1679690302",
+      "width": 1280,
+      "height": 1280
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUNNY-DAY_PX7_LondonFog.jpg?v=1678992411",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

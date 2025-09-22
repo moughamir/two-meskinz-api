@@ -1,0 +1,117 @@
+{
+  "id": 7184772792429,
+  "title": "Honeydew Crush",
+  "handle": "honeydew-crush",
+  "body_html": "<p>Refreshing notes of ripe <strong>grapefruit</strong>, <strong>lemon</strong>, and juicy <strong>honeydew</strong> mingle with <strong>apple</strong> <strong>blossom</strong>, <strong>cactus</strong> <strong>flower</strong>, and wild <strong>bamboo</strong>.</p>",
+  "published_at": "2024-02-07T10:49:59-07:00",
+  "created_at": "2024-01-18T12:53:52-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Capri Blue",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Capri Blue",
+    "collection:Capri Blue",
+    "collection:Citrus",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Clean",
+    "Mood_Energizing",
+    "Scent Type_Citrus",
+    "Scent Type_Fruity",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41000740290669,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CBLH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7184772792429,
+      "created_at": "2024-01-18T12:53:52-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31052490702957,
+      "created_at": "2024-01-18T13:00:17-07:00",
+      "position": 1,
+      "updated_at": "2024-01-18T13:00:34-07:00",
+      "product_id": 7184772792429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneydewCrush-Vertical-Resized.jpg?v=1705608034",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33853532340333,
+      "created_at": "2025-03-05T15:51:13-07:00",
+      "position": 2,
+      "updated_at": "2025-03-05T15:51:21-07:00",
+      "product_id": 7184772792429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/honeydew_resized-3.jpg?v=1741215081",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31052490735725,
+      "created_at": "2024-01-18T13:00:17-07:00",
+      "position": 3,
+      "updated_at": "2025-03-05T15:51:21-07:00",
+      "product_id": 7184772792429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HoneydewCrush-CapriBlue-Prod3-1224.png?v=1741215081",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 31052490801261,
+      "created_at": "2024-01-18T13:00:17-07:00",
+      "position": 4,
+      "updated_at": "2025-03-05T15:51:21-07:00",
+      "product_id": 7184772792429,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneydewCrush-Overhead-Shadow-Resized.jpg?v=1741215081",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/CapriBlue-HoneydewCrush-Vertical-Resized.jpg?v=1705608034",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Capri Blue",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

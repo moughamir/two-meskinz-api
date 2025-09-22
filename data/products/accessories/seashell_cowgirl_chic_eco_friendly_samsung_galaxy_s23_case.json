@@ -1,0 +1,108 @@
+{
+  "id": 8307894550616,
+  "title": "Seashell Cowgirl Chic Samsung Galaxy S23 Case",
+  "handle": "seashell-cowgirl-chic-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up, sweetheart—<em data-start=\"60\" data-end=\"74\">Cowgirl Chic Phone Case</em> is bringing western charm with a flirty twist! <meta charset=\"utf-8\">🌵<meta charset=\"utf-8\">🎲 This doodle-style design is packed with cowgirl hats, boots, lucky dice, cherries, bows, and all the rodeo-ready details you need to show off your wild side. Whether you’re a rodeo queen, country concert regular, or just love a little yeehaw energy, this case is the perfect mix of western and whimsy.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-03T09:12:22-04:00",
+  "created_at": "2025-03-07T11:10:57-05:00",
+  "updated_at": "2025-09-22T15:14:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Western",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cowgirl Chic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42718292475992,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13706-S23-SEASHELL-AOD:COWGIRL-CHIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8307894550616,
+      "created_at": "2025-03-07T11:10:57-05:00",
+      "updated_at": "2025-09-22T15:14:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34655143133272,
+      "created_at": "2025-03-07T11:10:57-05:00",
+      "position": 1,
+      "updated_at": "2025-03-07T11:10:59-05:00",
+      "product_id": 8307894550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COWGIRL-CHIC_S23_Seashell.jpg?v=1741363859",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34769197826136,
+      "created_at": "2025-03-31T12:08:29-04:00",
+      "position": 2,
+      "updated_at": "2025-03-31T12:08:30-04:00",
+      "product_id": 8307894550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_03Large_db64e9ef-3733-499b-9a13-87bb7475bd8d.jpg?v=1743437310",
+      "width": 1024,
+      "height": 1280
+    },
+    {
+      "id": 34769197924440,
+      "created_at": "2025-03-31T12:08:29-04:00",
+      "position": 3,
+      "updated_at": "2025-03-31T12:08:31-04:00",
+      "product_id": 8307894550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_01_bf81fb9c-85a5-438f-98b0-58654385950a.jpg?v=1743437311",
+      "width": 4262,
+      "height": 5327
+    },
+    {
+      "id": 34769197891672,
+      "created_at": "2025-03-31T12:08:29-04:00",
+      "position": 4,
+      "updated_at": "2025-03-31T12:08:31-04:00",
+      "product_id": 8307894550616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CowgirlChic_PDP_02_0db78160-4ee0-41ea-96d9-a806bbefe551.jpg?v=1743437311",
+      "width": 4335,
+      "height": 5419
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COWGIRL-CHIC_S23_Seashell.jpg?v=1741363859",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

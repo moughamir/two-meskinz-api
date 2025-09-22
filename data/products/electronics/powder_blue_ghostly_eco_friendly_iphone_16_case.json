@@ -1,0 +1,77 @@
+{
+  "id": 8118304243800,
+  "title": "Powder Blue Ghostly iPhone 16 Case",
+  "handle": "powder-blue-ghostly-eco-friendly-iphone-16-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get into the spirit with the Ghostly Phone Case! 👻✨ Featuring an adorable parade of friendly ghosts floating across a serene powder blue background, this case is perfect for those who love a playful and whimsical touch. Whether it's Halloween or you just love all things ghostly, this phone case is sure to make you smile every time you pick up your phone. Embrace the cute and spooky vibes with the Ghostly Phone Case! 🎃🦇</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-09T14:24:55-04:00",
+  "created_at": "2024-09-04T14:24:23-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Ghostly",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42245732597848,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17249-IP16-POWDERBLUE-AOD:GHOSTLY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8118304243800,
+      "created_at": "2024-09-04T14:24:23-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33579583275096,
+      "created_at": "2024-09-04T14:24:23-04:00",
+      "position": 1,
+      "updated_at": "2024-09-04T14:24:23-04:00",
+      "product_id": 8118304243800,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GHOSTLY_IP16_PowderBlue.jpg?v=1725474263",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GHOSTLY_IP16_PowderBlue.jpg?v=1725474263",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

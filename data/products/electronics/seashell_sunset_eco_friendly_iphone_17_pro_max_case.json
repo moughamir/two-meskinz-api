@@ -1,0 +1,129 @@
+{
+  "id": 8444710617176,
+  "title": "Seashell Sunset iPhone 17 Pro Max Case",
+  "handle": "seashell-sunset-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p data-start=\"0\" data-end=\"126\">Say hello to golden hour, on repeat 🌞💗 — the Sunset Phone Case from the Pela x Katie Waiyu Artist Series Collection.</p>\n<p data-start=\"128\" data-end=\"352\">With soft pastel skies, a glowing sun, and a peaceful rolling hill, this dreamy design captures that perfect moment just before the stars come out. It’s calm, cozy, and totally nostalgic—like a watercolor hug for your phone.</p>\n<p data-start=\"354\" data-end=\"464\" data-is-last-node=\"\" data-is-only-node=\"\">Whether you're a sunset chaser or just vibing with the calm, this case brings the chill wherever you go.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:33:49-04:00",
+  "created_at": "2025-08-08T11:52:08-04:00",
+  "updated_at": "2025-09-22T15:12:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunset",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184267264088,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SUNSET_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 0,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444710617176,
+      "created_at": "2025-09-03T18:54:07-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    },
+    {
+      "id": 43184267296856,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:SUNSET",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444710617176,
+      "created_at": "2025-09-03T18:54:07-04:00",
+      "updated_at": "2025-09-22T15:12:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567312896088,
+      "created_at": "2025-08-08T11:52:08-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:10-04:00",
+      "product_id": 8444710617176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP17PMAX_Seashell.jpg?v=1754668330",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506869502040,
+      "created_at": "2025-07-30T12:15:28-04:00",
+      "position": 2,
+      "updated_at": "2025-08-14T12:43:09-04:00",
+      "product_id": 8444710617176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_1.jpg?v=1755189789",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869567576,
+      "created_at": "2025-07-30T12:15:30-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T12:43:17-04:00",
+      "product_id": 8444710617176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_2.jpg?v=1755189797",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506869633112,
+      "created_at": "2025-07-30T12:15:31-04:00",
+      "position": 4,
+      "updated_at": "2025-08-14T12:43:24-04:00",
+      "product_id": 8444710617176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Katie_Waiyu_3.jpg?v=1755189804",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNSET_IP17PMAX_Seashell.jpg?v=1754668330",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

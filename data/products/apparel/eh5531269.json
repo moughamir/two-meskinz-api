@@ -1,0 +1,67 @@
+{
+  "id": 7785440510119,
+  "title": "Brand: USA Sealing / Part #: ZTRIM-285",
+  "handle": "eh5531269",
+  "body_html": "<br><strong>Item #: </strong>96419783<br><strong>Brand: </strong>USA Sealing<br><strong>Model #: </strong>ZTRIM-285<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Seal Type</strong>\n</td>\n<td>Edge Trim</td>\n</tr>\n<tr>\n<td><strong>Cell Type</strong></td>\n<td>Closed</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Neoprene</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>25.00</td>\n</tr>\n<tr>\n<td><strong>Overall Thickness</strong></td>\n<td>0.3125 in</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium Hard</td>\n</tr>\n<tr>\n<td><strong>Minimum Temperature</strong></td>\n<td>-20 ?F</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>150 ?F</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>ASTM D2000 BC</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:06:41-06:00",
+  "created_at": "2023-12-28T21:06:41-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "USA Sealing",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Rubber & Foam"
+  ],
+  "variants": [
+    {
+      "id": 43703865704615,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "96419783",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "93.47",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785440510119,
+      "created_at": "2023-12-28T21:06:41-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236935717031,
+      "created_at": "2025-02-03T17:58:45-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:58:46-06:00",
+      "product_id": 7785440510119,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9936040-21_efcbc98e-0e84-4aca-9fb0-8e3f961d6d18.jpg?v=1738627126",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 93.47,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9936040-21_efcbc98e-0e84-4aca-9fb0-8e3f961d6d18.jpg?v=1738627126",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "USA Sealing",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

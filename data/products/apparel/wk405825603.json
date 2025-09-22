@@ -1,0 +1,67 @@
+{
+  "id": 7785758589095,
+  "title": "Brand: Sandvik Coromant / Part #: 8248295",
+  "handle": "wk405825603",
+  "body_html": "<br><strong>Item #: </strong>02481174<br><strong>Brand: </strong>Sandvik Coromant<br><strong>Model #: </strong>8248295<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Thread Size (mm)</strong>\n</td>\n<td>M1.7x0.35</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>40.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>1.5748</td>\n</tr>\n<tr>\n<td><strong>Chamfer</strong></td>\n<td>Semi-Bottoming</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (Decimal Inch)</strong></td>\n<td>0.0138</td>\n</tr>\n<tr>\n<td><strong>Thread Pitch (mm)</strong></td>\n<td>0.35</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>Metric</td>\n</tr>\n<tr>\n<td><strong>Thread Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>High Speed Steel</td>\n</tr>\n<tr>\n<td><strong>Thread Length (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Thread Length (Decimal Inch)</strong></td>\n<td>0.3150</td>\n</tr>\n<tr>\n<td><strong>Thread Depth (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.0984</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>2.5000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>CoroTap? 400</td>\n</tr>\n<tr>\n<td><strong>Tap Type</strong></td>\n<td>Thread Forming</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (mm)</strong></td>\n<td>8.00</td>\n</tr>\n<tr>\n<td><strong>Tapping Depth (Decimal Inch)</strong></td>\n<td>0.3150</td>\n</tr>\n<tr>\n<td><strong>Class Of Fit</strong></td>\n<td>6HX</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:17:14-06:00",
+  "created_at": "2023-12-29T01:17:14-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "Sandvik Coromant",
+  "product_type": "Threading",
+  "tags": [
+    "Taps"
+  ],
+  "variants": [
+    {
+      "id": 43705448267943,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "02481174",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.09",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785758589095,
+      "created_at": "2023-12-29T01:17:14-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237205692583,
+      "created_at": "2025-02-03T18:08:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:19-06:00",
+      "product_id": 7785758589095,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_377797d3-f84a-4d4c-8c9f-53ec0f8956c2.png?v=1738627699",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80.09,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_377797d3-f84a-4d4c-8c9f-53ec0f8956c2.png?v=1738627699",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sandvik Coromant",
+  "category": "Threading",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

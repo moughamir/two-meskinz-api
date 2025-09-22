@@ -1,0 +1,108 @@
+{
+  "id": 8418753282136,
+  "title": "Seashell Coral Dreams iPhone 11 Pro Case",
+  "handle": "seashell-coral-dreams-eco-friendly-iphone-11-pro-case",
+  "body_html": "<p data-start=\"0\" data-end=\"68\">Dive into a reef of color with the Coral Dreams Phone Case! 🪸💫</p>\n<p data-start=\"70\" data-end=\"318\">This ocean-inspired beauty brings a vibrant tangle of hand-drawn coral and sea flora straight to your fingertips. With hues of golden mustard, seafoam green, coral orange, and deep-sea blues, it's basically an underwater dance party for your phone.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-24T08:38:29-04:00",
+  "created_at": "2025-07-02T13:46:52-04:00",
+  "updated_at": "2025-09-22T15:13:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coral Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43031089643608,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16010-IP11P-SEASHELL-AOD:CORAL-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8418753282136,
+      "created_at": "2025-07-02T13:46:52-04:00",
+      "updated_at": "2025-09-22T15:13:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35348394606680,
+      "created_at": "2025-07-02T13:46:52-04:00",
+      "position": 1,
+      "updated_at": "2025-07-02T13:46:54-04:00",
+      "product_id": 8418753282136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_IP11P_Seashell.jpg?v=1751478414",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453388619864,
+      "created_at": "2025-07-21T16:23:55-04:00",
+      "position": 2,
+      "updated_at": "2025-07-21T16:23:55-04:00",
+      "product_id": 8418753282136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0169a25fc356b10efd71c821c9b6af21_debec2af-2492-45f6-bd7a-ac939ca1fde0.jpg?v=1753129435",
+      "width": 3650,
+      "height": 3650
+    },
+    {
+      "id": 35453389013080,
+      "created_at": "2025-07-21T16:23:57-04:00",
+      "position": 3,
+      "updated_at": "2025-07-21T16:23:57-04:00",
+      "product_id": 8418753282136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b7c940d51dae60d7ddb93d59f55dd636_84f3cee2-6a6b-4ce1-8ea2-94317e623995.jpg?v=1753129437",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453389275224,
+      "created_at": "2025-07-21T16:23:59-04:00",
+      "position": 4,
+      "updated_at": "2025-07-21T16:23:59-04:00",
+      "product_id": 8418753282136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/611371256a2faaae6d55a6a7c3721d66_199aa909-06f9-431e-be53-6038b3bbc179.jpg?v=1753129439",
+      "width": 3642,
+      "height": 3642
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CORAL-DREAMS_IP11P_Seashell.jpg?v=1751478414",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

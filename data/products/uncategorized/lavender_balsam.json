@@ -1,0 +1,120 @@
+{
+  "id": 7030703947885,
+  "title": "Lavender Balsam",
+  "handle": "lavender-balsam",
+  "body_html": "<p>An aromatic herbal blend of <strong>green</strong> <strong>lavender</strong> layered with <strong>fir balsam</strong>, <strong>citrus</strong>, and <strong>warm woods</strong>.</p>",
+  "published_at": "2023-07-25T08:19:55-06:00",
+  "created_at": "2023-07-17T12:53:22-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Anthropologie",
+    "Group_Home",
+    "Lavender & Balsam",
+    "Mood_Bold",
+    "Mood_Cozy",
+    "Mood_Energizing",
+    "Scent Type_Amber",
+    "Scent Type_Aromatic Herbal",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCFR_lavenderbalsam",
+    "YCRF_homefragrances",
+    "YGroup_lavenderbalsam"
+  ],
+  "variants": [
+    {
+      "id": 40682982867053,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LBAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7030703947885,
+      "created_at": "2023-07-17T12:53:23-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30213931270253,
+      "created_at": "2023-07-17T12:56:17-06:00",
+      "position": 1,
+      "updated_at": "2023-07-17T14:22:41-06:00",
+      "product_id": 7030703947885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_474c4dff-1906-4f82-a65d-749050582db3.png?v=1689625361",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30213931368557,
+      "created_at": "2023-07-17T12:56:17-06:00",
+      "position": 2,
+      "updated_at": "2023-07-17T14:22:41-06:00",
+      "product_id": 7030703947885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_2_c7bc8a57-3e22-4801-a0c0-c39ed81e7fe5.png?v=1689625361",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30345392783469,
+      "created_at": "2023-08-13T14:51:01-06:00",
+      "position": 3,
+      "updated_at": "2024-01-23T14:47:55-07:00",
+      "product_id": 7030703947885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Lavender-Balsam-Device-V4.jpg?v=1706046475",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30213931204717,
+      "created_at": "2023-07-17T12:56:17-06:00",
+      "position": 4,
+      "updated_at": "2024-01-23T14:47:55-07:00",
+      "product_id": 7030703947885,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_1425d4b2-ee8c-40a7-ad48-08a85bd70204.png?v=1706046475",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_4_474c4dff-1906-4f82-a65d-749050582db3.png?v=1689625361",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

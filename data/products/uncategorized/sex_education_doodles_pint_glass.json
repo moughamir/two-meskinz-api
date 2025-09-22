@@ -1,0 +1,105 @@
+{
+  "id": 7838931517487,
+  "title": "Sex Education Doodles Pint Glass",
+  "handle": "sex-education-doodles-pint-glass",
+  "body_html": "<p>Celebrate the quirky charm of <em>Sex Education </em>with this Doodles Pint Glass! Adorned with playful illustrations that capture the show's humor and heart, this pint glass is perfect for enjoying your favorite beverage while reminiscing about memorable moments from the series. Whether you're hosting a watch party or just unwinding after a long day, this glass is a fun way to show off your love for Otis, Maeve, and the rest of the gang!</p>\n<ul>\n<li>Glass material</li>\n<li>Volume: 16 oz (473 ml)</li>\n<li>Not dishwasher or microwave safe</li>\n</ul>\n<p><br></p>",
+  "published_at": "2024-10-14T13:40:11-04:00",
+  "created_at": "2024-09-23T04:15:04-04:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "printful2",
+  "product_type": "Drinking Glasses",
+  "tags": [
+    "80197526",
+    "Drinking Glasses",
+    "Drinkware",
+    "Father's Day",
+    "glass",
+    "Glasseware",
+    "glassware",
+    "Home & Office",
+    "home and office",
+    "new",
+    "NF-19-0924",
+    "Promo Eligible Collection",
+    "Sex Education"
+  ],
+  "variants": [
+    {
+      "id": 43259014316079,
+      "title": "16 oz",
+      "option1": "16 oz",
+      "option2": null,
+      "option3": null,
+      "sku": "SE-101667-0001-SE-DDPG",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 34696897396783,
+        "product_id": 7838931517487,
+        "position": 1,
+        "created_at": "2024-09-23T04:35:46-04:00",
+        "updated_at": "2024-09-23T04:35:46-04:00",
+        "alt": null,
+        "width": 750,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SE-DDPG_101667_R_MF_b0e7223d-5568-4b25-ad8c-ece8ddc097b5.jpg?v=1727080546",
+        "variant_ids": [
+          43259014316079
+        ]
+      },
+      "available": true,
+      "price": "26.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7838931517487,
+      "created_at": "2024-09-23T04:15:05-04:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34696897396783,
+      "created_at": "2024-09-23T04:35:46-04:00",
+      "position": 1,
+      "updated_at": "2024-09-23T04:35:46-04:00",
+      "product_id": 7838931517487,
+      "variant_ids": [
+        43259014316079
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SE-DDPG_101667_R_MF_b0e7223d-5568-4b25-ad8c-ece8ddc097b5.jpg?v=1727080546",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34696897495087,
+      "created_at": "2024-09-23T04:35:47-04:00",
+      "position": 2,
+      "updated_at": "2024-09-23T04:35:47-04:00",
+      "product_id": 7838931517487,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SE-DDPG_101667_L_MF_2d67525c-0bb8-4ae5-ac06-9c59839b7aa6.jpg?v=1727080547",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "16 oz"
+      ]
+    }
+  ],
+  "price": 26.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/SE-DDPG_101667_R_MF_b0e7223d-5568-4b25-ad8c-ece8ddc097b5.jpg?v=1727080546",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Drinking Glasses",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

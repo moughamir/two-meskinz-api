@@ -1,0 +1,98 @@
+{
+  "id": 7938730885208,
+  "title": "London Fog Equestrian iPhone 12 Mini Case",
+  "handle": "london-fog-equestrian-eco-friendly-iphone-12-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Saddle up your style with the Equestrian Phone Case by Pela! Featuring charming horse-themed illustrations, this case captures the essence of a day at the stables. Perfect for horse lovers and equestrian enthusiasts, this case is your trusty companion, bringing a touch of playful charm and sustainability to your daily adventures. 🐴<meta charset=\"utf-8\">🍎📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-13T09:19:50-04:00",
+  "created_at": "2024-05-31T12:29:26-04:00",
+  "updated_at": "2025-09-22T15:16:04-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Equestrian",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2",
+    "sport"
+  ],
+  "variants": [
+    {
+      "id": 41779585679448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16357-IP12MINI-LFOG-AOD:EQUESTRIAN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7938730885208,
+      "created_at": "2024-05-31T12:29:26-04:00",
+      "updated_at": "2025-09-22T15:16:04-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33010133565528,
+      "created_at": "2024-05-31T12:29:26-04:00",
+      "position": 1,
+      "updated_at": "2024-05-31T12:29:26-04:00",
+      "product_id": 7938730885208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_IP12MINI_LondonFog.jpg?v=1717172966",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079144349784,
+      "created_at": "2024-06-11T13:49:41-04:00",
+      "position": 2,
+      "updated_at": "2024-06-11T13:49:43-04:00",
+      "product_id": 7938730885208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-1_a158a4aa-76c2-487b-95a6-2b45ab4177fc.jpg?v=1718128183",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079144317016,
+      "created_at": "2024-06-11T13:49:41-04:00",
+      "position": 3,
+      "updated_at": "2024-06-11T13:49:42-04:00",
+      "product_id": 7938730885208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_LFOG-1-2_f2b9744a-3e6e-4b4d-a80f-12716167b9ab.jpg?v=1718128182",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/EQUESTRIAN_IP12MINI_LondonFog.jpg?v=1717172966",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

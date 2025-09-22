@@ -1,0 +1,97 @@
+{
+  "id": 7938733965400,
+  "title": "London Fog Vintage Gallop Google Pixel 8a Case",
+  "handle": "london-fog-vintage-gallop-eco-friendly-google-pixel-8a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Step back in time with the Vintage Gallop Phone Case by Pela! This timeless design features elegant sketches of horses in various poses, evoking a sense of classic equestrian charm. Perfect for horse lovers and vintage enthusiasts alike, this case not only protects your phone but also adds a touch of historical grace to your everyday style. Trot through your day with a dash of nostalgia and sophistication with the Vintage Gallop Phone Case! 🐴📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-13T09:13:47-04:00",
+  "created_at": "2024-05-31T12:29:37-04:00",
+  "updated_at": "2025-09-22T15:16:04-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 8a",
+  "tags": [
+    "art-type:Print",
+    "collection:Horsing Around",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Vintage Gallop",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41779598131288,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15026-PX8a-LFOG-AOD:VINTAGE-GALLOP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7938733965400,
+      "created_at": "2024-05-31T12:29:37-04:00",
+      "updated_at": "2025-09-22T15:16:04-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33010138939480,
+      "created_at": "2024-05-31T12:29:37-04:00",
+      "position": 1,
+      "updated_at": "2024-05-31T12:29:37-04:00",
+      "product_id": 7938733965400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-GALLOP_PX8A_LondonFog.jpg?v=1717172977",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079230890072,
+      "created_at": "2024-06-11T14:08:54-04:00",
+      "position": 2,
+      "updated_at": "2024-06-11T14:08:56-04:00",
+      "product_id": 7938733965400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGEGALLOP_LFOG-1_a422d316-731b-4b9c-b9d3-03be2dbd0eaa.jpg?v=1718129336",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33079230857304,
+      "created_at": "2024-06-11T14:08:54-04:00",
+      "position": 3,
+      "updated_at": "2024-06-11T14:08:56-04:00",
+      "product_id": 7938733965400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGEGALLOP_LFOG-2_73da3844-87d7-4c86-8a85-483044f734c2.jpg?v=1718129336",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/VINTAGE-GALLOP_PX8A_LondonFog.jpg?v=1717172977",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 8a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

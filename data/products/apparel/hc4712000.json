@@ -1,0 +1,67 @@
+{
+  "id": 7785876914343,
+  "title": "Brand: Key-Bak Pro / Part #: 0KB6-8FA03",
+  "handle": "hc4712000",
+  "body_html": "<br><strong>Item #: </strong>63804751<br><strong>Brand: </strong>Key-Bak Pro<br><strong>Model #: </strong>0KB6-8FA03<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Tethered Tape Holder</td>\n</tr>\n<tr>\n<td><strong>Load Capacity</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Tape Measure</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Carabiner</td>\n</tr>\n<tr>\n<td><strong>Extended Length</strong></td>\n<td>42.00</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Blue; Black</td>\n</tr>\n<tr>\n<td><strong>Insulated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Tether Style</strong></td>\n<td>Tether Ready</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Retractable Tool Tether; Measuring Tape Holder</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T05:22:22-06:00",
+  "created_at": "2023-12-29T05:22:22-06:00",
+  "updated_at": "2025-09-22T10:54:26-05:00",
+  "vendor": "Key-Bak Pro",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Tool Holding Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43705720340647,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "63804751",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "67.37",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785876914343,
+      "created_at": "2023-12-29T05:22:22-06:00",
+      "updated_at": "2025-09-22T10:54:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237492936871,
+      "created_at": "2025-02-03T18:17:16-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:17:18-06:00",
+      "product_id": 7785876914343,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6380475-21.jpg?v=1738628238",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 67.37,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6380475-21.jpg?v=1738628238",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Key-Bak Pro",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

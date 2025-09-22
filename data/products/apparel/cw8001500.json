@@ -1,0 +1,67 @@
+{
+  "id": 7785834512551,
+  "title": "Brand: Lindstrom Tool / Part #: 5B-SA",
+  "handle": "cw8001500",
+  "body_html": "<br><strong>Item #: </strong>99739849<br><strong>Brand: </strong>Lindstrom Tool<br><strong>Model #: </strong>5B-SA<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Tweezer Type</strong>\n</td>\n<td>Precision</td>\n</tr>\n<tr>\n<td><strong>Pattern</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Tip Type</strong></td>\n<td>Bent</td>\n</tr>\n<tr>\n<td><strong>Tip Shape</strong></td>\n<td>Pointed</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>4.3300</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>Non-Glare</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:01:09-06:00",
+  "created_at": "2023-12-29T04:01:09-06:00",
+  "updated_at": "2025-09-22T10:54:33-05:00",
+  "vendor": "Lindstrom Tool",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Tweezers & Retrieving Tools"
+  ],
+  "variants": [
+    {
+      "id": 43705616662695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99739849",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "71.65",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785834512551,
+      "created_at": "2023-12-29T04:01:10-06:00",
+      "updated_at": "2025-09-22T10:54:33-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237386408103,
+      "created_at": "2025-02-03T18:14:13-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:14:14-06:00",
+      "product_id": 7785834512551,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9973984-21.jpg?v=1738628054",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 71.65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9973984-21.jpg?v=1738628054",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lindstrom Tool",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

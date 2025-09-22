@@ -1,0 +1,152 @@
+{
+  "id": 7113559375981,
+  "title": "Fragrance of the Month",
+  "handle": "fragrance-of-the-month-2",
+  "body_html": "<p>Our fragrances of the month are picked by our team from our Fragrance Marketplace, creating a wide variety of the best scents for our customers.\n<br>Included Fragrances: \n<br>Volcano by Capri Blue\n<br>Chamomile Lavender by LAFCO\n<br>Bamboo by NEST New York\n<br>Del Mar by GUY FOX\n<br>Fresh Sea Salt by Illume\n<br>Lemon, Verbena &amp; Cedar by Antica Farmacista</p>",
+  "published_at": "2023-12-01T14:42:16-07:00",
+  "created_at": "2023-10-23T13:31:21-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Car Gift",
+  "tags": [
+    "3 Month",
+    "900-02431",
+    "Group_Car",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "YCRF_lemonverbenacar",
+    "YGroup_lemonverbenacar"
+  ],
+  "variants": [
+    {
+      "id": 40778632167533,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02431",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "49.80",
+      "grams": 91,
+      "compare_at_price": "62.25",
+      "position": 1,
+      "product_id": 7113559375981,
+      "created_at": "2023-10-23T13:31:21-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805764665453,
+      "created_at": "2024-04-29T15:21:37-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FOTMCar-CuratedSub-Prod1-0424.png?v=1714425699",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30748894560365,
+      "created_at": "2023-11-21T14:42:11-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Car-HoverImage-3-11-23.png?v=1714425699",
+      "width": 1499,
+      "height": 2000
+    },
+    {
+      "id": 30747436056685,
+      "created_at": "2023-11-21T11:18:46-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Volcano-CapriBlue-V3-PDP-2023-10_603ce3c1-84d8-4241-9719-acdfd4b9f50d.png?v=1714425699",
+      "width": 3072,
+      "height": 4096
+    },
+    {
+      "id": 30747435958381,
+      "created_at": "2023-11-21T11:18:46-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/lafco-chamomile-and-lavender-resized_d8dc1071-abe6-452e-8367-0af52ccc73ae.jpg?v=1714425699",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30748868411501,
+      "created_at": "2023-11-21T14:38:08-07:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/NestGrapefruitCar-resized-2_91499294-3898-4394-a468-29b35fd647d5.jpg?v=1714425699",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30747435925613,
+      "created_at": "2023-11-21T11:18:46-07:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/guy-fox-del-mar-car-resized-3_78eff0e7-e27e-47fc-ade0-66899e8fcfe0.jpg?v=1714425699",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747435991149,
+      "created_at": "2023-11-21T11:18:46-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/illume-fresh-sea-salt-car-resized-3_af354d1b-96d5-4157-84d1-f590e69423c1.jpg?v=1714425699",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30747436023917,
+      "created_at": "2023-11-21T11:18:46-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:21:39-06:00",
+      "product_id": 7113559375981,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/anticafarmacistalemonverbinacarresized-2_9b118326-60d7-4536-8df7-1be786fd53d6.jpg?v=1714425699",
+      "width": 2359,
+      "height": 3145
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 49.8,
+  "compare_at_price": 62.25,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/FOTMCar-CuratedSub-Prod1-0424.png?v=1714425699",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Car Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

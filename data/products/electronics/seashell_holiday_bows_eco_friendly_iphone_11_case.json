@@ -1,0 +1,108 @@
+{
+  "id": 8159693144152,
+  "title": "Seashell Holiday Bows iPhone 11 Case",
+  "handle": "seashell-holiday-bows-eco-friendly-iphone-11-case",
+  "body_html": "<p class=\"p1\">Wrap your phone in festive cheer with the Holiday Bows Phone Case! 🎀✨ Featuring rows of adorable red, green, and pink bows, this case is like a perfectly wrapped gift for your phone. Made from plants and designed for earth-friendly protection, it adds a charming touch of holiday spirit to your everyday style. Lightweight, durable, and full of holiday vibes, it’s the perfect accessory for anyone who loves the joy of unwrapping something special!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:17:51-04:00",
+  "created_at": "2024-10-16T10:40:36-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Holiday Bows",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333271490648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:HOLIDAY-BOWS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159693144152,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799054622808,
+      "created_at": "2024-10-16T10:40:36-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:36-04:00",
+      "product_id": 8159693144152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP11_Seashell.jpg?v=1729089636",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33838760329304,
+      "created_at": "2024-10-22T11:43:14-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T11:43:16-04:00",
+      "product_id": 8159693144152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP1_0ac0b0e6-497b-453c-8470-f15a03fd3a70.jpg?v=1729611796",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838760296536,
+      "created_at": "2024-10-22T11:43:14-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T11:43:16-04:00",
+      "product_id": 8159693144152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP2_e4a0f372-0b5e-4b70-b573-1be3c981ff6e.jpg?v=1729611796",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33838760263768,
+      "created_at": "2024-10-22T11:43:14-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T11:43:16-04:00",
+      "product_id": 8159693144152,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAYBOWS_PDP3_77f3f513-418f-48fd-87ff-b12af3b1403f.jpg?v=1729611796",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HOLIDAY-BOWS_IP11_Seashell.jpg?v=1729089636",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

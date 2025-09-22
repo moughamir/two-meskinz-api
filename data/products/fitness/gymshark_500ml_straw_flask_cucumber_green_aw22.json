@@ -1,0 +1,111 @@
+{
+  "id": 6804953301194,
+  "title": "Gymshark Flip Straw Water Bottle - Cucumber Green",
+  "handle": "gymshark-500ml-straw-flask-cucumber-green-aw22",
+  "body_html": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">H2O ON THE GO</strong></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">When you make an ice-cold pre-workout, you want it to stay that way, right? With the Gymshark Flip Straw Water Bottle, whatever temperature you make your refreshment of choice is the heat you’ll drink it at.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Note:</strong><span data-mce-fragment=\"1\"> </span>for hygiene reasons, all our bottles and shakers are non-refundable.<br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">- Volume: 16.9 oz<br data-mce-fragment=\"1\">- Double-insulated water bottle<br data-mce-fragment=\"1\">- Heavy-duty screw lid with easy-use straw<br data-mce-fragment=\"1\">- Durable and stable rubberised base- Stainless steel material (BPA free)<br data-mce-fragment=\"1\">- SKU: I1A2Y-EBF2</p>",
+  "published_at": "2023-11-15T14:53:06-08:00",
+  "created_at": "2022-08-03T07:57:01-07:00",
+  "updated_at": "2025-09-22T08:46:07-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "01/08/22",
+    "1-30-spanish",
+    "20EXTRA",
+    "3-15-remove",
+    "4-4-ml",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "bf-23",
+    "BFCM24-Republish",
+    "Bottles",
+    "category:Bottles",
+    "conditioning",
+    "division:Accessories",
+    "equipment",
+    "filter-colour: Green",
+    "no-return: 2024-03-11T08:00:00_2024-03-21T08:00:01",
+    "no-returns",
+    "no-returns:2024-03-19T12:10:00_2024-03-19T08:00:00",
+    "no-returns:2024-04-04T10:00:00_2032-04-04T010:00:00",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Conditioning Goods",
+    "seamtype:Accessories",
+    "segmentation:Conditioning",
+    "spanish-dg-ss24-rebuy",
+    "spanish-done",
+    "subcategory:Insulated",
+    "tier:2",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39786975494346,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A2Y-EBF2-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "22.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804953301194,
+      "created_at": "2022-08-03T07:57:01-07:00",
+      "updated_at": "2025-09-22T08:46:07-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28973642088650,
+      "created_at": "2022-10-19T03:26:37-07:00",
+      "position": 1,
+      "updated_at": "2022-10-19T03:26:38-07:00",
+      "product_id": 6804953301194,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/500MlStrawFlaskCucumberGreenI1A2Y-EBF22.jpg?v=1666175198",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28973642940618,
+      "created_at": "2022-10-19T03:26:37-07:00",
+      "position": 2,
+      "updated_at": "2022-10-19T03:26:39-07:00",
+      "product_id": 6804953301194,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/500MlStrawFlaskCucumberGreenI1A2Y-EBF2.jpg?v=1666175199",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 22,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/500MlStrawFlaskCucumberGreenI1A2Y-EBF22.jpg?v=1666175198",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

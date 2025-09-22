@@ -1,0 +1,68 @@
+{
+  "id": 8452516839591,
+  "title": "Vertical Bars; Type: Concealed Vertical Rod; Rating: Non Rated; Hand: Reversible; Minimum Door Width: 2.33; Maximum Door Width: 3.000; Grade: 1",
+  "handle": "49420227",
+  "body_html": "<br><strong>Item #: </strong>04542189<br><strong>Brand: </strong>Von Duprin<br><strong>Model #: </strong>QEL9947EO 3 26D<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Type</strong>\n</td>\n<td>Concealed Vertical Rod</td>\n</tr>\n<tr> <td> <strong>Rating</strong>\n</td>\n<td>Non Rated</td>\n</tr>\n<tr> <td> <strong>Hand</strong>\n</td>\n<td>Reversible</td>\n</tr>\n<tr> <td> <strong>Minimum Door Width</strong>\n</td>\n<td>2.33</td>\n</tr>\n<tr> <td> <strong>Maximum Door Width</strong>\n</td>\n<td>3.000</td>\n</tr>\n<tr> <td> <strong>Grade</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Finish Coating</strong>\n</td>\n<td>Satin Chrome</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31162800</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:04:11-06:00",
+  "created_at": "2025-01-23T09:04:10-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Von Duprin",
+  "product_type": "Hardware",
+  "tags": [
+    "Door",
+    "Lid & Drawer Hardware"
+  ],
+  "variants": [
+    {
+      "id": 46497965310119,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04542189",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "3292.81",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452516839591,
+      "created_at": "2025-01-23T09:04:10-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241991393447,
+      "created_at": "2025-02-03T21:15:59-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:16:00-06:00",
+      "product_id": 8452516839591,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0454218-21.jpg?v=1738638960",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 3292.81,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0454218-21.jpg?v=1738638960",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Von Duprin",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

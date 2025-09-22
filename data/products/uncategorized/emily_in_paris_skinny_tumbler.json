@@ -1,0 +1,94 @@
+{
+  "id": 7773422190639,
+  "title": "Emily in Paris Skinny Tumbler",
+  "handle": "emily-in-paris-skinny-tumbler",
+  "body_html": "<p>Introducing the \"<em>Emily in Paris</em> Skinny Tumbler\" – where functionality meets Parisian panache in a slender and sophisticated design. Inspired by the fashionable escapades of Emily, this tumbler is the epitome of style for those who believe in sipping their beverages with a touch of glamour.</p><ul>\n<li>High-grade stainless steel tumbler</li>\n<li>20 oz (600 ml)</li>\n<li>Straw and lid included with the tumbler</li>\n<li>Glossy finish</li>\n<li>Not dishwasher or microwave safe. Hand-wash only.</li>\n<br>\n</ul>",
+  "published_at": "2024-07-25T16:46:15-04:00",
+  "created_at": "2024-07-17T05:40:39-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Tumblers",
+  "tags": [
+    "81037371",
+    "Emily in Paris",
+    "Home & Office",
+    "home and office",
+    "Promo Eligible Collection",
+    "Tumblers"
+  ],
+  "variants": [
+    {
+      "id": 43103179112495,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "EIP-101668-0002-EIP-EIFL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "36.95",
+      "grams": 1814,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7773422190639,
+      "created_at": "2024-07-17T05:40:39-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34341739429935,
+      "created_at": "2024-07-25T10:34:33-04:00",
+      "position": 1,
+      "updated_at": "2024-07-25T10:34:35-04:00",
+      "product_id": 7773422190639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EIFL_152_101688_CEN_NETFLIX_MF.png?v=1721918075",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34341739495471,
+      "created_at": "2024-07-25T10:34:33-04:00",
+      "position": 2,
+      "updated_at": "2024-07-25T10:34:35-04:00",
+      "product_id": 7773422190639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EIFL_152_101688_BK_NETFLIX_MF.png?v=1721918075",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34341739528239,
+      "created_at": "2024-07-25T10:34:33-04:00",
+      "position": 3,
+      "updated_at": "2024-07-25T10:34:36-04:00",
+      "product_id": 7773422190639,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EIFL_152_101688_NETFLIX_LIFE.png?v=1721918076",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 36.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/EIP-EIFL_152_101688_CEN_NETFLIX_MF.png?v=1721918075",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Tumblers",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

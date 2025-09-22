@@ -1,0 +1,67 @@
+{
+  "id": 7785606086823,
+  "title": "Brand: Sper Scientific / Part #: 300006",
+  "handle": "wk405873534",
+  "body_html": "<br><strong>Item #: </strong>65267171<br><strong>Brand: </strong>Sper Scientific<br><strong>Model #: </strong>300006<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Refractometer Type</strong>\n</td>\n<td>Hand-Held Refractometer</td>\n</tr>\n<tr>\n<td><strong>Scale Type</strong></td>\n<td>Salinity Tester</td>\n</tr>\n<tr>\n<td><strong>Measuring Range</strong></td>\n<td>0.0-0.28</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:23:03-06:00",
+  "created_at": "2023-12-28T23:23:03-06:00",
+  "updated_at": "2025-09-22T10:55:02-05:00",
+  "vendor": "Sper Scientific",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43704732352679,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "65267171",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "86.15",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785606086823,
+      "created_at": "2023-12-28T23:23:04-06:00",
+      "updated_at": "2025-09-22T10:55:02-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237086908583,
+      "created_at": "2025-02-03T18:04:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:04:08-06:00",
+      "product_id": 7785606086823,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6528617-21_bed2004a-acb1-4f86-a1b3-83cbc22f54b6.jpg?v=1738627448",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 86.15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6528617-21_bed2004a-acb1-4f86-a1b3-83cbc22f54b6.jpg?v=1738627448",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sper Scientific",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

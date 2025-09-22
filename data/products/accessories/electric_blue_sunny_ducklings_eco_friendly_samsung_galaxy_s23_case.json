@@ -1,0 +1,108 @@
+{
+  "id": 8320083066968,
+  "title": "Electric Blue Sunny Ducklings Samsung Galaxy S23 Case",
+  "handle": "electric-blue-sunny-ducklings-eco-friendly-samsung-galaxy-s23-case",
+  "body_html": "<p><meta charset=\"utf-8\">Quack open a smile every time you pick up your phone! The <em data-start=\"100\" data-end=\"117\">Sunny Ducklings</em> Phone Case is covered in bright yellow duckies paddling across a cheerful blue background, bringing major feel-good, pond-side vibes. It’s playful, punchy, and guaranteed to add a splash of joy to your day. <meta charset=\"utf-8\">🦆<meta charset=\"utf-8\">💙</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:24:26-04:00",
+  "created_at": "2025-03-20T10:50:46-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Sunny Ducklings",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756162256984,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13709-S23-ELEBLUE-AOD:SUNNY-DUCKLINGS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320083066968,
+      "created_at": "2025-03-20T10:50:46-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722017771608,
+      "created_at": "2025-03-20T10:50:46-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:48-04:00",
+      "product_id": 8320083066968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_S23_ElectricBlue.jpg?v=1742482248",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34813936074840,
+      "created_at": "2025-04-10T09:28:37-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T09:28:41-04:00",
+      "product_id": 8320083066968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_1973af45-7456-4f6a-8ef9-5cad3b4fa49b.jpg?v=1744291721",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813936107608,
+      "created_at": "2025-04-10T09:28:37-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T09:28:41-04:00",
+      "product_id": 8320083066968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_76bad32b-db25-44c6-b7bc-4f464d21df95.jpg?v=1744291721",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34813936140376,
+      "created_at": "2025-04-10T09:28:37-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T09:28:41-04:00",
+      "product_id": 8320083066968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_00782be6-edc6-4464-a0f9-eab5d5b69928.jpg?v=1744291721",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUNNY-DUCKLINGS_S23_ElectricBlue.jpg?v=1742482248",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

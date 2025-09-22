@@ -1,0 +1,115 @@
+{
+  "id": 7371866996845,
+  "title": "Neroli Basil",
+  "handle": "neroli-basil",
+  "body_html": "<p>Neroli Basil brings a cheerful, energizing feel to your space with notes of <strong>mandarin</strong>, <strong>lemon basil</strong>, and <strong>oakmoss</strong>.</p>",
+  "published_at": "2024-05-29T08:39:06-06:00",
+  "created_at": "2024-05-02T09:54:20-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Studio McGee",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Studio McGee",
+    "collection:New Arrivals",
+    "Group_Home",
+    "Mood_Cheerful",
+    "Mood_Energizing",
+    "Strength_Medium",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41452392546413,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "NBVH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7371866996845,
+      "created_at": "2024-05-02T09:54:21-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31833786810477,
+      "created_at": "2024-05-02T09:58:26-06:00",
+      "position": 1,
+      "updated_at": "2024-05-02T10:00:25-06:00",
+      "product_id": 7371866996845,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGeeNeroliBasil-Prod1-0324.jpg?v=1714665625",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 31833786777709,
+      "created_at": "2024-05-02T09:58:26-06:00",
+      "position": 2,
+      "updated_at": "2024-05-02T10:00:25-06:00",
+      "product_id": 7371866996845,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BASIL-RESIZED_cc7a91fc-eb26-41f3-8d9b-074fb0a5a79c.jpg?v=1714665625",
+      "width": 2400,
+      "height": 3201
+    },
+    {
+      "id": 31833788612717,
+      "created_at": "2024-05-02T10:00:23-06:00",
+      "position": 3,
+      "updated_at": "2024-05-02T10:00:25-06:00",
+      "product_id": 7371866996845,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/NeroliBasil-StudioMcGee-Prod3-0424.jpg?v=1714665625",
+      "width": 3401,
+      "height": 4534
+    },
+    {
+      "id": 31833804931181,
+      "created_at": "2024-05-02T10:02:35-06:00",
+      "position": 4,
+      "updated_at": "2024-05-02T10:02:37-06:00",
+      "product_id": 7371866996845,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGeeNeroliBasil-Prod4-0324.jpg?v=1714665757",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StudioMcGeeNeroliBasil-Prod1-0324.jpg?v=1714665625",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Studio McGee",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

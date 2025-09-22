@@ -1,0 +1,67 @@
+{
+  "id": 7785859252391,
+  "title": "Brand: Harvey Tool / Part #: 898412-C3",
+  "handle": "er471828a0750",
+  "body_html": "<br><strong>Item #: </strong>82821398<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>898412-C3<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connection Type</strong>\n</td>\n<td>Shank</td>\n</tr>\n<tr>\n<td><strong>Cutter Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Included Angle</strong></td>\n<td>90.00</td>\n</tr>\n<tr>\n<td><strong>Cutter Diameter (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Cutting Width (Decimal Inch)</strong></td>\n<td>0.0990</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (Inch)</strong></td>\n<td>3/32</td>\n</tr>\n<tr>\n<td><strong>Neck Length (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Number Of Teeth</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>AlTiN</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:48:14-06:00",
+  "created_at": "2023-12-29T04:48:14-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "Milling Cutters"
+  ],
+  "variants": [
+    {
+      "id": 43705666470055,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82821398",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "69.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785859252391,
+      "created_at": "2023-12-29T04:48:14-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237436969127,
+      "created_at": "2025-02-03T18:16:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:05-06:00",
+      "product_id": 7785859252391,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6280367-21_017ac7d0-2a12-45fc-a732-e485204b42e0.jpg?v=1738628165",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 69,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6280367-21_017ac7d0-2a12-45fc-a732-e485204b42e0.jpg?v=1738628165",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

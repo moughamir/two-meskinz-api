@@ -1,0 +1,67 @@
+{
+  "id": 8452571398311,
+  "title": "Socket Set Socket Set: 22 Pc,",
+  "handle": "61437042",
+  "body_html": "<br><strong>Item #: </strong>09110644<br><strong>Brand: </strong>Proto<br><strong>Model #: </strong>J52134HTCKV<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Set Type</strong>\n</td>\n<td>Socket Set</td>\n</tr>\n<tr> <td> <strong>Drive Size</strong>\n</td>\n<td>3/8</td>\n</tr>\n<tr> <td> <strong>Tool Type</strong>\n</td>\n<td>Socket Set</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Number Of Pieces</strong>\n</td>\n<td>22</td>\n</tr>\n<tr> <td> <strong>Number Of Points</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>Finish Coating</strong>\n</td>\n<td>Chrome</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111703</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:33:22-06:00",
+  "created_at": "2025-01-23T10:33:21-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Proto",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46498125381799,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09110644",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "446.08",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452571398311,
+      "created_at": "2025-01-23T10:33:21-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244001153191,
+      "created_at": "2025-02-03T22:22:06-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:22:08-06:00",
+      "product_id": 8452571398311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0911064-21.jpg?v=1738642928",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 446.08,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0911064-21.jpg?v=1738642928",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Proto",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

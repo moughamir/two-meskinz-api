@@ -1,0 +1,67 @@
+{
+  "id": 7786397794471,
+  "title": "Brand: Ability One / Part #: 6260012308601",
+  "handle": "mt7106620",
+  "body_html": "<br><strong>Item #: </strong>49008311<br><strong>Brand: </strong>Ability One<br><strong>Model #: </strong>6260012308601<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Illumination Time (Minutes)</strong>\n</td>\n<td>30</td>\n</tr>\n<tr>\n<td><strong>Activation Method</strong></td>\n<td>Snap &amp; Shake</td>\n</tr>\n<tr>\n<td><strong>Number of Lightsticks</strong></td>\n<td>10</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:45:23-06:00",
+  "created_at": "2023-12-29T22:45:23-06:00",
+  "updated_at": "2025-09-22T10:53:28-05:00",
+  "vendor": "Ability One",
+  "product_type": "Safety",
+  "tags": [
+    "Facility Safety"
+  ],
+  "variants": [
+    {
+      "id": 43707719647399,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "49008311",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786397794471,
+      "created_at": "2023-12-29T22:45:23-06:00",
+      "updated_at": "2025-09-22T10:53:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238541775015,
+      "created_at": "2025-02-03T18:53:47-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:53:49-06:00",
+      "product_id": 7786397794471,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4900831-21.jpg?v=1738630429",
+      "width": 600,
+      "height": 381
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4900831-21.jpg?v=1738630429",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ability One",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

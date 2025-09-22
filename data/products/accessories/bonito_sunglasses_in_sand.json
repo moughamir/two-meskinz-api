@@ -1,0 +1,105 @@
+{
+  "id": 6818142847064,
+  "title": "Bonito Sunglasses in Sand",
+  "handle": "bonito-sunglasses-in-sand",
+  "body_html": "<meta charset=\"utf-8\"><span><meta charset=\"utf-8\"> <span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Eyewear for People Who Care: </span><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span> These sunglasses offer full UVA/UVB protection and is durable enough for anything you want to do outside.<meta charset=\"utf-8\"> Sustainability has never looked this cool.</span>",
+  "published_at": "2025-05-08T09:08:10-04:00",
+  "created_at": "2021-10-13T12:41:22-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Bonito",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS"
+  ],
+  "variants": [
+    {
+      "id": 39673017139288,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40123-BONITO-SAND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6818142847064,
+      "created_at": "2021-10-13T12:41:22-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28798555258968,
+      "created_at": "2021-10-13T14:33:08-04:00",
+      "position": 1,
+      "updated_at": "2021-10-13T14:33:08-04:00",
+      "product_id": 6818142847064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_SAND__1_1.png?v=1634149988",
+      "width": 1962,
+      "height": 2000
+    },
+    {
+      "id": 28798555291736,
+      "created_at": "2021-10-13T14:33:08-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T14:33:08-04:00",
+      "product_id": 6818142847064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO-SAND-ANGLE-FRONT-swway.jpg?v=1634149988",
+      "width": 2456,
+      "height": 2456
+    },
+    {
+      "id": 28798555324504,
+      "created_at": "2021-10-13T14:33:08-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T14:33:08-04:00",
+      "product_id": 6818142847064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO-SAND-ANGLE-BACK-swway.jpg?v=1634149988",
+      "width": 2755,
+      "height": 2755
+    },
+    {
+      "id": 28798555357272,
+      "created_at": "2021-10-13T14:33:08-04:00",
+      "position": 4,
+      "updated_at": "2021-10-13T14:33:08-04:00",
+      "product_id": 6818142847064,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_SAND_MALESWWAY_SQUARE-1591.jpg?v=1634149988",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/BONITO_SAND__1_1.png?v=1634149988",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

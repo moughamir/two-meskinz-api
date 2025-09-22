@@ -1,0 +1,108 @@
+{
+  "id": 8243494289496,
+  "title": "Seashell Pasta Alchemy iPhone 12 Pro Max Case",
+  "handle": "seashell-pasta-alchemy-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Transform your phone into a masterpiece with the Pasta Alchemy Phone Case! Featuring a vibrant medley of pasta shapes, fresh ingredients like tomatoes, garlic, olives, and cheese, this case is a feast for the eyes. It’s perfect for foodies, pasta lovers, and anyone who believes in the magic of a great meal. <meta charset=\"utf-8\">Stir up some fun and let your style simmer with this delicious design! <meta charset=\"utf-8\">🍝🍅🧄</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-30T09:07:55-05:00",
+  "created_at": "2025-01-08T12:41:00-05:00",
+  "updated_at": "2025-09-22T15:15:13-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Pasta",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pasta Alchemy",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42541138804824,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16539-IP12PMAX-SEASHELL-AOD:PASTA-ALCHEMY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8243494289496,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "updated_at": "2025-09-22T15:15:13-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34242768699480,
+      "created_at": "2025-01-08T12:41:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-08T12:41:02-05:00",
+      "product_id": 8243494289496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP12PMAX_Seashell.jpg?v=1736358062",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34357448114264,
+      "created_at": "2025-01-23T10:45:06-05:00",
+      "position": 2,
+      "updated_at": "2025-01-23T10:45:07-05:00",
+      "product_id": 8243494289496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP1_36a6c947-2cea-4ab4-8ddd-475838797b3a.jpg?v=1737647107",
+      "width": 3566,
+      "height": 3566
+    },
+    {
+      "id": 34357448147032,
+      "created_at": "2025-01-23T10:45:06-05:00",
+      "position": 3,
+      "updated_at": "2025-01-23T10:45:11-05:00",
+      "product_id": 8243494289496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP3_2905a4e1-27ce-4207-b423-fca9a0410d69.jpg?v=1737647111",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34357448179800,
+      "created_at": "2025-01-23T10:45:06-05:00",
+      "position": 4,
+      "updated_at": "2025-01-23T10:45:11-05:00",
+      "product_id": 8243494289496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTAALCHEMY_PDP2_23529b8b-7385-446e-96c6-146cb38a5e27.jpg?v=1737647111",
+      "width": 3566,
+      "height": 3566
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PASTA-ALCHEMY_IP12PMAX_Seashell.jpg?v=1736358062",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

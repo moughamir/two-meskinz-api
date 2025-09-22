@@ -1,0 +1,120 @@
+{
+  "id": 7358872748120,
+  "title": "Black Fairy Forest Samsung Galaxy S21 Case",
+  "handle": "black-fairy-forest-eco-friendly-samsung-galaxy-s21-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌸🧚‍♂️ Step into a magical realm with our Fairy Forest Phone Case by Pela! This enchanting design showcases a vibrant tapestry of delicate flowers and lush greenery against a midnight black background, reminiscent of a fairy-tale woodland in full bloom. Perfect for those who adore a touch of whimsy and elegance, this case transforms your device into a delightful garden that's always in bloom. Let your phone be the gateway to your own enchanted forest adventure! 🌿✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-04-06T09:13:14-04:00",
+  "created_at": "2023-03-31T13:55:36-04:00",
+  "updated_at": "2025-09-22T15:16:52-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fairy Forest",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40221306519640,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13495-S21-BLACK-AOD:FAIRY-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7358872748120,
+      "created_at": "2023-03-31T13:55:36-04:00",
+      "updated_at": "2025-09-22T15:16:52-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30233612320856,
+      "created_at": "2023-03-31T13:55:36-04:00",
+      "position": 1,
+      "updated_at": "2023-03-31T13:55:36-04:00",
+      "product_id": 7358872748120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_S21_Black.jpg?v=1680285336",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241103839320,
+      "created_at": "2023-04-12T14:40:58-04:00",
+      "position": 2,
+      "updated_at": "2023-04-12T14:41:01-04:00",
+      "product_id": 7358872748120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden3_23002625-2ae2-4bc4-98cd-4b075db451ca.png?v=1681324861",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241103806552,
+      "created_at": "2023-04-12T14:40:58-04:00",
+      "position": 3,
+      "updated_at": "2023-04-12T14:41:02-04:00",
+      "product_id": 7358872748120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden2_df54d562-171b-421c-bc5f-8ead12b5300d.png?v=1681324862",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30241103773784,
+      "created_at": "2023-04-12T14:40:58-04:00",
+      "position": 4,
+      "updated_at": "2023-04-12T14:41:02-04:00",
+      "product_id": 7358872748120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SecretGarden_e86e8c63-43bf-4a02-b946-5d44ae6f1c37.png?v=1681324862",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30236634611800,
+      "created_at": "2023-04-05T18:20:38-04:00",
+      "position": 5,
+      "updated_at": "2023-04-12T14:41:02-04:00",
+      "product_id": 7358872748120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/IMG_9064_2b763e26-6031-4e85-9a27-4985f0b93fb8.png?v=1681324862",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FAIRY-FOREST_S21_Black.jpg?v=1680285336",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 8383676219480,
+  "title": "Electric Blue Mixed Up iPhone 16 Plus Case",
+  "handle": "electric-blue-mixed-up-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🔹🌈 Add a dash of eclectic charm to your phone with our Mixed Up Phone Case by Pela! This design is a vibrant collage of patterns, merging classic checks, sleek stripes, and wavy lines in an array of blues, greens and pinks. It's the perfect case for those who embrace a mix-and-match aesthetic and appreciate sustainability. Let your phone be an expression of your unique style with this visually captivating accessory! 🌍💖</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-23T18:21:34-04:00",
+  "created_at": "2025-05-23T11:24:52-04:00",
+  "updated_at": "2025-09-22T15:14:01-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Bold and Bright",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Mixed Up",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42902418587736,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17365-IP16PLUS-ELEBLUE-AOD:MIXED-UP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8383676219480,
+      "created_at": "2025-05-23T11:24:52-04:00",
+      "updated_at": "2025-09-22T15:14:01-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35080344535128,
+      "created_at": "2025-05-23T11:24:52-04:00",
+      "position": 1,
+      "updated_at": "2025-05-23T11:24:54-04:00",
+      "product_id": 8383676219480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIXED-UP_IP16PLUS_ElectricBlue.jpg?v=1748013894",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35080963719256,
+      "created_at": "2025-05-23T13:28:45-04:00",
+      "position": 2,
+      "updated_at": "2025-05-23T13:28:46-04:00",
+      "product_id": 8383676219480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIXEDUP_ELECTRICBLUE-1_0ed3dc42-b7ff-43af-af36-7fd10ed28824.jpg?v=1748021326",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35080963686488,
+      "created_at": "2025-05-23T13:28:45-04:00",
+      "position": 3,
+      "updated_at": "2025-05-23T13:28:46-04:00",
+      "product_id": 8383676219480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIXEDUP_ELECTRICBLUE-3_73633778-6a6b-4ab4-9ac4-d62e5cc60f3f.jpg?v=1748021326",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MIXED-UP_IP16PLUS_ElectricBlue.jpg?v=1748013894",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

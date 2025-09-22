@@ -1,0 +1,136 @@
+{
+  "id": 6804812824778,
+  "title": "Gymshark Everyday Mini Backpack - Light Grey",
+  "handle": "gymshark-everyday-mini-backpack-light-grey-aw21",
+  "body_html": "<p><strong>EVERYDAY FOR ANY DAY</strong></p>\n<p><br data-mce-fragment=\"1\">Redefining big-city accessorising. The Everyday Mini Backpack is a mini take on an enduring design. With simple, side split pockets and a main entry compartment, its minimalistic approach ensures a sleek silhouette. With an ultralight build for total comfort throughout the day, patterned straps are adjustable and webbed for enhanced grip and comfort.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- Complete with an internal zip pocket. <br data-mce-fragment=\"1\">- 65% Polyester, 35% PVC Outer<br data-mce-fragment=\"1\">- <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Dimensions: Length- 13 in, Height- 10 in, Width- 4 in, Volume 10.5 L</span><br data-mce-fragment=\"1\">- SKU: I1A1M-GBCM</p>",
+  "published_at": "2022-02-21T08:30:06-08:00",
+  "created_at": "2022-01-21T01:55:44-08:00",
+  "updated_at": "2025-09-22T08:46:40-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "1-30-spanish",
+    "20EXTRA",
+    "27/01/22",
+    "Accessories",
+    "activity: conditioning",
+    "algolia",
+    "all-products",
+    "AW21",
+    "backpacks",
+    "Bags",
+    "bf-23",
+    "category:Bag",
+    "complete-the-fit-acc",
+    "conditioning",
+    "filter-colour: Grey",
+    "NAM-12/10/23NPD",
+    "new-inventory",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Everyday",
+    "spanish-dg",
+    "spanish-done",
+    "subcategory:Backpack",
+    "tier:3",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39786161897674,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I1A1M-GBCM-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6804812824778,
+      "created_at": "2022-01-21T01:55:44-08:00",
+      "updated_at": "2025-09-22T08:46:40-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28972408176842,
+      "created_at": "2022-05-25T01:50:49-07:00",
+      "position": 1,
+      "updated_at": "2022-05-25T01:50:50-07:00",
+      "product_id": 6804812824778,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM10_ZH_ZH_5f71b7fe-7944-45a6-a918-1b95b853465f.jpg?v=1653468650",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28972407816394,
+      "created_at": "2022-05-25T01:50:49-07:00",
+      "position": 2,
+      "updated_at": "2022-05-25T01:50:50-07:00",
+      "product_id": 6804812824778,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM5_ZH_ZH_340738fa-eade-45ff-b82d-5803ecdee796.jpg?v=1653468650",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28972408013002,
+      "created_at": "2022-05-25T01:50:49-07:00",
+      "position": 3,
+      "updated_at": "2022-05-25T01:50:50-07:00",
+      "product_id": 6804812824778,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM7_ZH_ZH_fd9dbb19-62de-4b08-9795-e8bcf60de616.jpg?v=1653468650",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28972407455946,
+      "created_at": "2022-05-25T01:50:49-07:00",
+      "position": 4,
+      "updated_at": "2022-05-25T01:50:50-07:00",
+      "product_id": 6804812824778,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM8_ZH_ZH_cd026d27-5580-4e07-b692-327eace8c37c.jpg?v=1653468650",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28972407554250,
+      "created_at": "2022-05-25T01:50:49-07:00",
+      "position": 5,
+      "updated_at": "2022-05-25T01:50:50-07:00",
+      "product_id": 6804812824778,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM_ZH_ZH_7e41534c-8a18-40c0-8d62-7a31e44713e9.jpg?v=1653468650",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayMiniBackpackLightGreyI1A1M-GBCM10_ZH_ZH_5f71b7fe-7944-45a6-a918-1b95b853465f.jpg?v=1653468650",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

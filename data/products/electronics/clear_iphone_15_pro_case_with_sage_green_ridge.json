@@ -1,0 +1,92 @@
+{
+  "id": 7371664031832,
+  "title": "Clear iPhone 15 Pro Case with Sage Green Ridge",
+  "handle": "clear-iphone-15-pro-case-with-sage-green-ridge",
+  "body_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">We've revolutionized phone cases once again. The Pela Clear case is made from plant-based material and is the world's first compostable, transparent iPhone case! It's rigid back and impact-absorbent edges make it durable enough to protect your iPhone against impacts, drops, and scratches.</span>",
+  "published_at": "2023-10-16T12:30:25-04:00",
+  "created_at": "2023-08-11T16:15:46-04:00",
+  "updated_at": "2025-09-22T15:16:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "Clear Case With Ridge",
+    "Clearance",
+    "Phone Case"
+  ],
+  "variants": [
+    {
+      "id": 40253142007896,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "28583-IP15P-SAGE-CLEAR",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.00",
+      "grams": 30,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 7371664031832,
+      "created_at": "2023-08-11T16:15:46-04:00",
+      "updated_at": "2025-09-22T15:16:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30342970245208,
+      "created_at": "2023-08-15T15:53:10-04:00",
+      "position": 1,
+      "updated_at": "2023-08-15T15:53:13-04:00",
+      "product_id": 7371664031832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_SAGEGREEN_BACK.jpg?v=1692129193",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342970179672,
+      "created_at": "2023-08-15T15:53:10-04:00",
+      "position": 2,
+      "updated_at": "2023-08-15T15:53:13-04:00",
+      "product_id": 7371664031832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_SAGEGREEN_BACK_45L.jpg?v=1692129193",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30342970212440,
+      "created_at": "2023-08-15T15:53:10-04:00",
+      "position": 3,
+      "updated_at": "2023-08-15T15:53:13-04:00",
+      "product_id": 7371664031832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_SAGEGREEN_BACK_45R.jpg?v=1692129193",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP_15_PRO_SAGEGREEN_BACK.jpg?v=1692129193",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

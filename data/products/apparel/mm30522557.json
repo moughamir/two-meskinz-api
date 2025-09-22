@@ -1,0 +1,69 @@
+{
+  "id": 5321973661863,
+  "title": "Brand: Widia / Part #: 2628043",
+  "handle": "mm30522557",
+  "body_html": "<br><strong>Item #: </strong>98804412<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>2628043<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (mm)</strong>\n</td>\n<td>3.00</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>5.0000</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>TiAlN</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>30</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>38.0000</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Straight-Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>TiAlN</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Regular</td>\n</tr>\n<tr>\n<td><strong>Through Coolant</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>423002</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T10:31:00-06:00",
+  "created_at": "2020-06-12T12:25:10-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Widia",
+  "product_type": "Milling",
+  "tags": [
+    "Coated Abrasives",
+    "End Mills",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34694502023335,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "98804412",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.13",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321973661863,
+      "created_at": "2020-06-12T12:25:10-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239180652711,
+      "created_at": "2025-02-03T19:23:29-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:23:31-06:00",
+      "product_id": 5321973661863,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9880395-21_34d56381-3e1d-42c0-a0cf-0471543939c6.jpg?v=1738632211",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.13,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9880395-21_34d56381-3e1d-42c0-a0cf-0471543939c6.jpg?v=1738632211",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

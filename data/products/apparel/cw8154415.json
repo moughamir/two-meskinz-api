@@ -1,0 +1,67 @@
+{
+  "id": 7785445752999,
+  "title": "Brand: Widia / Part #: 6126881",
+  "handle": "cw8154415",
+  "body_html": "<br><strong>Item #: </strong>34044545<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6126881<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Decimal Inch)</strong>\n</td>\n<td>0.3750</td>\n</tr>\n<tr>\n<td><strong>Connection Type</strong></td>\n<td>Duo-Lock 10</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Corner Radius</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Carbide</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>33.9000</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.38</td>\n</tr>\n<tr>\n<td><strong>Coolant Induced</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>WS15PE</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>45.00</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>High</td>\n</tr>\n<tr>\n<td><strong>Series/List</strong></td>\n<td>4UC4</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>9/16</td>\n</tr>\n<tr>\n<td><strong>Length Of Cut (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.5625</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Finish Coating</strong></td>\n<td>AlTiN</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Fractional Inch)</strong></td>\n<td>3/8</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T21:16:02-06:00",
+  "created_at": "2023-12-28T21:16:02-06:00",
+  "updated_at": "2025-09-22T10:55:14-05:00",
+  "vendor": "Widia",
+  "product_type": "Milling",
+  "tags": [
+    "End Mill Heads"
+  ],
+  "variants": [
+    {
+      "id": 43703873929383,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "34044545",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "92.87",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785445752999,
+      "created_at": "2023-12-28T21:16:02-06:00",
+      "updated_at": "2025-09-22T10:55:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236945809575,
+      "created_at": "2025-02-03T17:59:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:59:07-06:00",
+      "product_id": 7785445752999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3404453-21_67498cc4-2eff-4766-96a8-3a1b0b723488.jpg?v=1738627147",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 92.87,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3404453-21_67498cc4-2eff-4766-96a8-3a1b0b723488.jpg?v=1738627147",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

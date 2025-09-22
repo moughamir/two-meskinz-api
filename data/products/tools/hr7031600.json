@@ -1,0 +1,67 @@
+{
+  "id": 8452513890471,
+  "title": "Rotary & Multi-Tools; Product Type: Oscillating Tool Kit; Batteries Included: Yes; Speed (RPM): Variable; Oscillation Per Minute: 10,000-19,500; Battery Chemistry: Lithium-ion",
+  "handle": "hr7031600",
+  "body_html": "<br><strong>Item #: </strong>04347183<br><strong>Brand: </strong>Fein<br><strong>Model #: </strong>71293762090<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Product Type</strong>\n</td>\n<td>Oscillating Tool Kit</td>\n</tr>\n<tr> <td> <strong>Batteries Included</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Speed (RPM)</strong>\n</td>\n<td>Variable</td>\n</tr>\n<tr> <td> <strong>Oscillation Per Minute</strong>\n</td>\n<td>10,000-19,500</td>\n</tr>\n<tr> <td> <strong>Battery Chemistry</strong>\n</td>\n<td>Lithium-ion</td>\n</tr>\n<tr> <td> <strong>Voltage</strong>\n</td>\n<td>18.00</td>\n</tr>\n<tr> <td> <strong>Handle Type</strong>\n</td>\n<td>Inline</td>\n</tr>\n<tr> <td> <strong>Overall Length (Decimal Inch)</strong>\n</td>\n<td>14.0940</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Cordless Multimaster Amm 700 1.7 Q Autoglas As, 1 Protective Cover For Accessory Changes, 1 Straight Cutting Blade, Offset, Serrated (Type 081), 2 U-Shaped Cutting Blades, Reinforced Model (Types 157 And 111), 1 L-Shaped Cutting Blade, Serrated (Type 209), 2 L-Shaped Cutting Blades, Toothed (Type 208), 2 U-Shaped Cutting Blades, Reinforced Model, Serrated (Type 212), 3 L-Shaped Cutting Blades, Serrated (Type 207), 1 Straight Cutting Blade, Offset, With Adjustable Roller Stop (Type 143), 1 Whetstone (63719010014), 1 Rapid Charger Gal 1880 Cv As, 2 Li-Ion Battery Packs (18 V / 4 Ah), 1 Tool Case (L-Boxx 136)</td>\n</tr>\n<tr> <td> <strong>Number Of Speeds</strong>\n</td>\n<td>Variable Speed</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>CSA Listed</td>\n</tr>\n<tr> <td> <strong>Battery Included</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Backing Pad Type</strong>\n</td>\n<td>Hook &amp; Loop</td>\n</tr>\n<tr> <td> <strong>Number Of Batteries</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Collet Size (Decimal Inch)</strong>\n</td>\n<td>Universal</td>\n</tr>\n<tr> <td> <strong>Number Of Pieces</strong>\n</td>\n<td>19</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112700</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T08:59:39-06:00",
+  "created_at": "2025-01-23T08:59:38-06:00",
+  "updated_at": "2025-09-22T10:52:26-05:00",
+  "vendor": "Fein",
+  "product_type": "Power Tools",
+  "tags": [
+    "Rotary & Multi-Tools & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46497950793895,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "04347183",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "742.01",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452513890471,
+      "created_at": "2025-01-23T08:59:38-06:00",
+      "updated_at": "2025-09-22T10:52:26-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38241892040871,
+      "created_at": "2025-02-03T21:12:38-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:12:40-06:00",
+      "product_id": 8452513890471,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0434718-21.jpg?v=1738638760",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 742.01,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0434718-21.jpg?v=1738638760",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Fein",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

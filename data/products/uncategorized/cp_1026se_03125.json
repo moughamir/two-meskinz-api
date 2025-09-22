@@ -1,0 +1,67 @@
+{
+  "id": 8184000053415,
+  "title": "Collet Pad for Gisholt Machine #5, 5-AR, 1-L Master Collet 11X-6762 (3 Split) - 5/16\" Square Serrated - Part #  CP-1026SE-03125",
+  "handle": "cp-1026se-03125",
+  "body_html": "<p>Used On Gisholt Machine #5, 5-AR, 1-L Master Collet 11X-6762 (3 Split). Inventory In Stock - Fast Online Checkout - Same Day Shipping.</p><p><strong><a href=\"https://benchmarktooling.com/pages/colletpads\">Click here</a></strong> to see our full line of Gisholt Machine Collet Pads with product charts with critical dimensions.</p>",
+  "published_at": "2024-05-24T09:34:12-05:00",
+  "created_at": "2024-05-24T09:34:13-05:00",
+  "updated_at": "2025-09-22T10:46:06-05:00",
+  "vendor": "Exact Tooling",
+  "product_type": "Collet Pads",
+  "tags": [
+    "Gisholt Machine"
+  ],
+  "variants": [
+    {
+      "id": 45491231260839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CP-1026SE-03125",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.00",
+      "grams": 2726,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8184000053415,
+      "created_at": "2024-05-24T09:34:13-05:00",
+      "updated_at": "2025-09-22T10:46:06-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36345595953319,
+      "created_at": "2024-05-24T09:34:14-05:00",
+      "position": 1,
+      "updated_at": "2024-05-24T09:34:16-05:00",
+      "product_id": 8184000053415,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ws_collet_pad_main_b247e78b-4dbb-4630-8a30-7fc476905467.jpg?v=1716561256",
+      "width": 390,
+      "height": 398
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/ws_collet_pad_main_b247e78b-4dbb-4630-8a30-7fc476905467.jpg?v=1716561256",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Exact Tooling",
+  "category": "Collet Pads",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5335345528999,
+  "title": "1/2″ Diameter × 1/4″ Shank Diameter × 7/8″ Trim Length, 0.006″ Crimped Bristle, Carbon Steel, Solid End - Banded Brush",
+  "handle": "pt1118355",
+  "body_html": "<br><strong>Item #: </strong>MJ74BNS4T06<br><strong>Brand: </strong>Brush Research<br><strong>Model #: </strong>BNS4T06<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Diameter</strong></td>\n<td>1/2″ </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>Solid End - Banded </td>\n</tr>\n<tr>\n<td><strong>Shank Diameter</strong></td>\n<td>1/4″ </td>\n</tr>\n<tr>\n<td><strong>Bristle Diameter</strong></td>\n<td>0.006″ </td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Carbon Steel </td>\n</tr>\n<tr>\n<td><strong>Trim Length</strong></td>\n<td>7/8″ </td>\n</tr>\n<tr>\n<td><strong>Bristle Type</strong></td>\n<td>Crimped </td>\n</tr>\n<tr>\n<td><strong>Maximum RPM</strong></td>\n<td>20,000 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:55:16-06:00",
+  "created_at": "2020-06-15T07:47:32-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Brush Research",
+  "product_type": "Abrasives & Finishing",
+  "tags": [
+    "Drilling",
+    "Rotating Brushes"
+  ],
+  "variants": [
+    {
+      "id": 34728245887143,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MJ74BNS4T06",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.61",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5335345528999,
+      "created_at": "2020-06-15T07:47:32-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143686279335,
+      "created_at": "2025-01-23T21:55:23-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:55:25-06:00",
+      "product_id": 5335345528999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_bns_t_banded_cp_69fd_3cc5f20f-e490-4fd9-9709-67ea18414232.jpg?v=1737690925",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.61,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/bre_bns_t_banded_cp_69fd_3cc5f20f-e490-4fd9-9709-67ea18414232.jpg?v=1737690925",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Brush Research",
+  "category": "Abrasives & Finishing",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

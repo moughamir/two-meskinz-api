@@ -1,0 +1,52 @@
+{
+  "id": 8453241012391,
+  "title": "1/8″ Cabinet Screwdriver 4″ Round Shank",
+  "handle": "kp6040065",
+  "body_html": null,
+  "published_at": "2025-01-23T22:43:34-06:00",
+  "created_at": "2025-01-23T22:43:32-06:00",
+  "updated_at": "2025-09-22T10:52:05-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46499937812647,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6040065",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "9.37",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453241012391,
+      "created_at": "2025-01-23T22:43:32-06:00",
+      "updated_at": "2025-09-22T10:52:05-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 9.37,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

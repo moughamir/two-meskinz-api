@@ -1,0 +1,140 @@
+{
+  "id": 8453548539992,
+  "title": "Seashell Strawboories iPhone Air Case",
+  "handle": "seashell-strawboories-eco-friendly-iphone-air-case",
+  "body_html": "<p><meta charset=\"utf-8\">Berry cute, berry creepy 🍓👻—the Strawboories Phone Case is serving up fruit with a frightful twist! These strawberries aren’t just sweet; they’re spooked, with little ghostly faces that make your phone look hauntingly adorable.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T16:57:31-04:00",
+  "created_at": "2025-08-21T14:15:56-04:00",
+  "updated_at": "2025-09-22T15:12:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Halloween (2025)",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Strawboories",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184266018904,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:STRAWBOORIES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8453548539992,
+      "created_at": "2025-09-03T18:53:53-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    },
+    {
+      "id": 43184266051672,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17541-IP17AIR-SEASHELL-AOD:STRAWBOORIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8453548539992,
+      "created_at": "2025-09-03T18:53:54-04:00",
+      "updated_at": "2025-09-22T15:12:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35638778167384,
+      "created_at": "2025-08-21T14:15:56-04:00",
+      "position": 1,
+      "updated_at": "2025-08-21T14:15:59-04:00",
+      "product_id": 8453548539992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_IP17AIR_Seashell.jpg?v=1755800159",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35736284430424,
+      "created_at": "2025-09-03T10:42:46-04:00",
+      "position": 2,
+      "updated_at": "2025-09-03T10:42:46-04:00",
+      "product_id": 8453548539992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/70bae47684d0823f356b9e55c918731a_674ad5e8-b6fc-4f81-a8f8-b0c35a566b40.jpg?v=1756910566",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736284495960,
+      "created_at": "2025-09-03T10:42:47-04:00",
+      "position": 3,
+      "updated_at": "2025-09-03T10:42:47-04:00",
+      "product_id": 8453548539992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d5187f2a3596b91601ec83ed7502ac4_469a610b-f23e-4bd8-8dca-914b8f3be62f.jpg?v=1756910567",
+      "width": 2048,
+      "height": 2039
+    },
+    {
+      "id": 35736284561496,
+      "created_at": "2025-09-03T10:42:48-04:00",
+      "position": 4,
+      "updated_at": "2025-09-03T10:42:48-04:00",
+      "product_id": 8453548539992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/771a45ddc4671ca5861316cd18f45778_9c82b655-dfc0-4943-ac70-195a2f237e5f.jpg?v=1756910568",
+      "width": 2047,
+      "height": 2048
+    },
+    {
+      "id": 35736284921944,
+      "created_at": "2025-09-03T10:42:50-04:00",
+      "position": 5,
+      "updated_at": "2025-09-03T10:42:50-04:00",
+      "product_id": 8453548539992,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/952a4fe7db645654d39f94f4aa82ec86_2c3fa0c0-fed9-4537-9a23-bcec8a42f95a.jpg?v=1756910570",
+      "width": 3373,
+      "height": 3373
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STRAWBOORIES_IP17AIR_Seashell.jpg?v=1755800159",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

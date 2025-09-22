@@ -1,0 +1,106 @@
+{
+  "id": 7986359140399,
+  "title": "Stranger Things Fire Logo Dad Hat",
+  "handle": "stranger-things-fire-logo-dad-hat",
+  "body_html": "<p>Add a spark to your outfit with the <em>Stranger Things</em> Fire Logo Dad Hat, featuring the iconic series logo in a fiery design. Perfect for casual days or <em>Stranger Things</em> marathons, this hat lets fans rep their favorite show in effortless style. Whether you're venturing into <em>Hawkins</em> or just soaking up the sun, this dad hat brings the heat. </p><ul>\n<li>Made of: 100% chino cotton twill/Green Camo color is 35% chino cotton twill, 65% polyester</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2025-08-21T11:30:51-04:00",
+  "created_at": "2025-06-12T12:08:30-04:00",
+  "updated_at": "2025-09-22T11:40:34-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "80057281",
+    "accessories",
+    "Badge: New | #FFFFFF | #000000",
+    "Hats",
+    "Headwear",
+    "Netflix",
+    "new",
+    "series_id-80057281",
+    "ST-PP-1025",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Type: Accessories",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43874937110575,
+      "title": "Black",
+      "option1": "Black",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101082-0001-ST-STF",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 36196477370415,
+        "product_id": 7986359140399,
+        "position": 1,
+        "created_at": "2025-06-12T12:08:43-04:00",
+        "updated_at": "2025-06-12T12:08:44-04:00",
+        "alt": "Stranger Things Fire Logo Dad Hat Black",
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-STF_ST-PP-1025_101082_LIFE2.png?v=1749744524",
+        "variant_ids": [
+          43874937110575
+        ]
+      },
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7986359140399,
+      "created_at": "2025-06-12T12:08:30-04:00",
+      "updated_at": "2025-09-22T11:40:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 36196477370415,
+      "created_at": "2025-06-12T12:08:43-04:00",
+      "position": 1,
+      "updated_at": "2025-06-12T12:08:44-04:00",
+      "product_id": 7986359140399,
+      "variant_ids": [
+        43874937110575
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-STF_ST-PP-1025_101082_LIFE2.png?v=1749744524",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 36196477468719,
+      "created_at": "2025-06-12T12:08:43-04:00",
+      "position": 2,
+      "updated_at": "2025-06-12T12:08:45-04:00",
+      "product_id": 7986359140399,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-STF_ST-PP-1025_101082_LIFE5.png?v=1749744525",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-STF_ST-PP-1025_101082_LIFE2.png?v=1749744524",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

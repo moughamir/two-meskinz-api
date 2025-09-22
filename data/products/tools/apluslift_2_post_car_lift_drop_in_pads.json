@@ -1,0 +1,88 @@
+{
+  "id": 5002621878405,
+  "title": "APlusLift 1 3/8\" and 1 1/2\" Diameter Drop-in Pads - 4 Pieces",
+  "handle": "apluslift-2-post-car-lift-drop-in-pads",
+  "body_html": "<h3>One set of four drop-in pads</h3>\n<ul>\n<li>\n<h4>Pin Diameter: 1 3/8\" for TR-10C and TR-10CX Models</h4>\n</li>\n<li>\n<h4>Pin Diameter: 1 1/2\". Pad Diameter: 4 5/8\" for old HW-10KBP (with symmetric arms) and HW-10KOH (with symmetric arms)</h4>\n</li>\n</ul>\n<h3><span style=\"color: red;\">Please measure the arm holes of your lift before making the purchase. For parts purchased by mistake, a minimum 25% restocking fee and return shipping charges apply.</span></h3>",
+  "published_at": "2020-05-04T00:46:08-07:00",
+  "created_at": "2020-05-04T00:46:08-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 45330857525476,
+      "title": "1 3/8\" Diameter",
+      "option1": "1 3/8\" Diameter",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.00",
+      "grams": 2268,
+      "compare_at_price": "70.00",
+      "position": 2,
+      "product_id": 5002621878405,
+      "created_at": "2024-06-20T21:11:26-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 45330857558244,
+      "title": "1 1/2\" Diameter",
+      "option1": "1 1/2\" Diameter",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 2268,
+      "compare_at_price": "70.00",
+      "position": 3,
+      "product_id": 5002621878405,
+      "created_at": "2024-06-20T21:11:26-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 67987636584676,
+      "created_at": "2024-06-24T11:37:04-07:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:37:05-07:00",
+      "product_id": 5002621878405,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-drop-in-pads.jpg?v=1719254225",
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "1 3/8\" Diameter",
+        "1 1/2\" Diameter"
+      ]
+    }
+  ],
+  "price": 90,
+  "compare_at_price": 70,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/car-lift-2-post-drop-in-pads.jpg?v=1719254225",
+  "images_count": 1,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

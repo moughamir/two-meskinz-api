@@ -1,0 +1,110 @@
+{
+  "id": 8127737135192,
+  "title": "London Fog Chestnut Checkers iPhone 13 Mini Case",
+  "handle": "london-fog-chestnut-checkers-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Chestnut Checkers Phone Case! 🍂 With its rich chestnut brown and cream checkered pattern, this case perfectly captures the essence of fall. It’s like wrapping your phone in your favorite fall sweater – stylish, warm, and oh-so-inviting. Whether you’re sipping on a pumpkin spice latte or crunching through autumn leaves, this case is the perfect accessory to complement all your fall adventures! 🌰🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:11:59-04:00",
+  "created_at": "2024-09-13T10:29:06-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Chestnut Checkers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263342678104,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16625-IP13MINI-LFOG-AOD:CHESTNUT-CHECKERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127737135192,
+      "created_at": "2024-09-13T10:29:06-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615314813016,
+      "created_at": "2024-09-13T10:29:06-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:06-04:00",
+      "product_id": 8127737135192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IP13MINI_LondonFog.jpg?v=1726237746",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685568094296,
+      "created_at": "2024-09-26T17:09:45-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:09:47-04:00",
+      "product_id": 8127737135192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_02_426f499d-00ea-4468-af6c-5c7c687bd426.jpg?v=1727384987",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678306410584,
+      "created_at": "2024-09-25T14:29:00-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T14:29:01-04:00",
+      "product_id": 8127737135192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_ChestnutCheckers_2000x2000_1677b70c-b6aa-41c0-b485-ec10603b30ce.jpg?v=1727288941",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685568127064,
+      "created_at": "2024-09-26T17:09:45-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:09:47-04:00",
+      "product_id": 8127737135192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_5ed55427-b492-4923-833c-742b862ca95d.jpg?v=1727384987",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHESTNUT-CHECKERS_IP13MINI_LondonFog.jpg?v=1726237746",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5325900120231,
+  "title": "5/32″ Dia. × 0.133″ LOC × 3/16″ Shank Size × 2″ OAL, Flute, Carbide, Uncoated, Ballnose Endmill",
+  "handle": "jr52110mmm",
+  "body_html": "<br><strong>Item #: </strong>GE90926510<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>926510<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>5/32″ </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>0.633″ </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>3/16″ </td>\n</tr>\n<tr>\n<td><strong>Corner Radius (RE)</strong></td>\n<td>0.078″ </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>0.133″ </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Ball Nose </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>2″ </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.1563″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Uncoated </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Flute Helix Angle (FHA)</strong></td>\n<td>30 Degrees </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round </td>\n</tr>\n<tr>\n<td><strong>Tool Cutting Edge Angle (KAPR)</strong></td>\n<td>270 Degrees </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:12:40-06:00",
+  "created_at": "2020-06-13T09:58:26-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "Inside Diameter Measurement Equipment",
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 34705579671719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "GE90926510",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "71.88",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5325900120231,
+      "created_at": "2020-06-13T09:58:26-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38142128226471,
+      "created_at": "2025-01-23T21:12:47-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:12:48-06:00",
+      "product_id": 5325900120231,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/hvt_undercut003_un_rep_9a9f_f58af4d5-fe11-450e-bd06-d77e8e9c89e3.jpg?v=1737688368",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 71.88,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/hvt_undercut003_un_rep_9a9f_f58af4d5-fe11-450e-bd06-d77e8e9c89e3.jpg?v=1737688368",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

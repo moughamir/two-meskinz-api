@@ -1,0 +1,52 @@
+{
+  "id": 8453306941607,
+  "title": "‎Tradesman Pro™ Shoe Covers, Large: Men's Boot 10.5-13 or Women's Boot 11 and Up",
+  "handle": "kp6047265",
+  "body_html": null,
+  "published_at": "2025-01-24T00:45:21-06:00",
+  "created_at": "2025-01-24T00:45:19-06:00",
+  "updated_at": "2025-09-22T10:51:57-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500219912359,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6047265",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453306941607,
+      "created_at": "2025-01-24T00:45:19-06:00",
+      "updated_at": "2025-09-22T10:51:57-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8419731538008,
+  "title": "Forest Floor Trailbound iPhone 11 Case",
+  "handle": "forest-floor-trailbound-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">For the ones who chase the winding path and crave the wild unknown, the Trailbound Phone Case is your ride-or-die. With a hand-illustrated mountain road and a lone cyclist carving through towering pines, it’s a tribute to two-wheeled freedom and forest-filled escapes. Rugged, artistic, and always ready to go off the grid—just like you. 🚵🌲</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:10:37-04:00",
+  "created_at": "2025-07-03T14:11:37-04:00",
+  "updated_at": "2025-09-22T15:13:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Trailbound",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033227395160,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16224-IP11-FOREST-AOD:TRAILBOUND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419731538008,
+      "created_at": "2025-07-03T14:11:38-04:00",
+      "updated_at": "2025-09-22T15:13:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354070253656,
+      "created_at": "2025-07-03T14:11:38-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:11:39-04:00",
+      "product_id": 8419731538008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAILBOUND_IP11_ForestFloor.jpg?v=1751566299",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547429404760,
+      "created_at": "2025-08-05T10:05:05-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T10:05:05-04:00",
+      "product_id": 8419731538008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d9c26db41819943f3b2c0e9aaa636c_c26b50f5-f8f2-4566-af65-09df2a532a9b.jpg?v=1754402705",
+      "width": 4306,
+      "height": 4306
+    },
+    {
+      "id": 35547429863512,
+      "created_at": "2025-08-05T10:05:07-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T10:05:07-04:00",
+      "product_id": 8419731538008,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1dcd8faedce8a743e95d357520db81c9_680b1e7f-fe71-4729-8c5a-5e3e4ccd5b10.jpg?v=1754402707",
+      "width": 4192,
+      "height": 4192
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TRAILBOUND_IP11_ForestFloor.jpg?v=1751566299",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

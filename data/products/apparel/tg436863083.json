@@ -1,0 +1,67 @@
+{
+  "id": 7786100654247,
+  "title": "Brand: Professional Plastics / Part #: STFE.500VMSC13282116",
+  "handle": "tg436863083",
+  "body_html": "<br><strong>Item #: </strong>51804615<br><strong>Brand: </strong>Professional Plastics<br><strong>Model #: </strong>STFE.500VMSC13282116<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Material</strong>\n</td>\n<td>PTFE</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>1-1/4</td>\n</tr>\n<tr>\n<td><strong>Clarity</strong></td>\n<td>Opaque</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Natural</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>24</td>\n</tr>\n<tr>\n<td><strong>Backing Type</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>Hardness Rating</strong></td>\n<td>Medium Soft</td>\n</tr>\n<tr>\n<td><strong>Hardness</strong></td>\n<td>52D-55D</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Manufacturing, Maching</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:55:38-06:00",
+  "created_at": "2023-12-29T09:55:38-06:00",
+  "updated_at": "2025-09-22T10:54:10-05:00",
+  "vendor": "Professional Plastics",
+  "product_type": "Raw Materials",
+  "tags": [
+    "Plastics"
+  ],
+  "variants": [
+    {
+      "id": 43706937606311,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "51804615",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.71",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786100654247,
+      "created_at": "2023-12-29T09:55:38-06:00",
+      "updated_at": "2025-09-22T10:54:10-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237831200935,
+      "created_at": "2025-02-03T18:26:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:38-06:00",
+      "product_id": 7786100654247,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9939627-21_85568ce7-aef3-4c1f-84e0-093f4151497c.jpg?v=1738628798",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.71,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9939627-21_85568ce7-aef3-4c1f-84e0-093f4151497c.jpg?v=1738628798",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Professional Plastics",
+  "category": "Raw Materials",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

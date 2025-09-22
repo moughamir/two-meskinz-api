@@ -1,0 +1,112 @@
+{
+  "id": 7179851235437,
+  "title": "Coconut Calm",
+  "handle": "coconut-calm-car",
+  "body_html": "<p>Welcome endless summer sensations to every drive with cool <strong>ocean</strong> breezes, dreamy island <strong>coconut</strong>, and sensuous <strong>vanilla bourbon</strong>.</p>",
+  "published_at": "2024-01-17T10:05:09-07:00",
+  "created_at": "2024-01-08T12:25:47-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Becki Owens",
+  "product_type": "Car Fragrance",
+  "tags": [
+    "Brand:Becki Owens",
+    "collection:Car",
+    "collection:New Arrivals",
+    "Group_Car",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Floral",
+    "Scent Type_Gourmand",
+    "Strength_Subtle",
+    "type_CarFragrance",
+    "YCRF_carfragrances",
+    "YGroup_coconutcalmcar"
+  ],
+  "variants": [
+    {
+      "id": 40967789641837,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MZXC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7179851235437,
+      "created_at": "2024-01-08T12:25:47-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30984705376365,
+      "created_at": "2024-01-08T12:34:22-07:00",
+      "position": 1,
+      "updated_at": "2024-01-08T12:34:32-07:00",
+      "product_id": 7179851235437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carbeckiowenscoconutcalm-resized.jpg?v=1704742472",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30984705245293,
+      "created_at": "2024-01-08T12:34:22-07:00",
+      "position": 2,
+      "updated_at": "2024-01-08T12:34:32-07:00",
+      "product_id": 7179851235437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/coconut-2-sq-esized.jpg?v=1704742472",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": 34306982248557,
+      "created_at": "2025-05-16T14:19:22-06:00",
+      "position": 3,
+      "updated_at": "2025-05-16T14:19:24-06:00",
+      "product_id": 7179851235437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-CoconutCalm-CarPro-Prod3-0525.jpg?v=1747426764",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 34306982445165,
+      "created_at": "2025-05-16T14:19:23-06:00",
+      "position": 4,
+      "updated_at": "2025-05-16T14:19:24-06:00",
+      "product_id": 7179851235437,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/BeckiOwens-CoconutCalm-CarPro-Prod4-0525.jpg?v=1747426764",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/carbeckiowenscoconutcalm-resized.jpg?v=1704742472",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Becki Owens",
+  "category": "Car Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

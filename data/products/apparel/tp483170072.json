@@ -1,0 +1,67 @@
+{
+  "id": 7785763078311,
+  "title": "Brand: Mitutoyo / Part #: 148-360-10",
+  "handle": "tp483170072",
+  "body_html": "<br><strong>Item #: </strong>09529132<br><strong>Brand: </strong>Mitutoyo<br><strong>Model #: </strong>148-360-10<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Minimum Measurement</strong>\n</td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Maximum Measurement</strong></td>\n<td>0.50</td>\n</tr>\n<tr>\n<td><strong>Accuracy</strong></td>\n<td>?0.0001</td>\n</tr>\n<tr>\n<td><strong>Graduation</strong></td>\n<td>0.0010</td>\n</tr>\n<tr>\n<td><strong>Thimble Type</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td><strong>Spindle Shape</strong></td>\n<td>Spherical</td>\n</tr>\n<tr>\n<td><strong>Measuring Face Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Digital Counter</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Rotating Spindle</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Calibrated</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Reverse Reading</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Clamp Nut Supplied</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Number of Extension Rods</strong></td>\n<td>0</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:25:25-06:00",
+  "created_at": "2023-12-29T01:25:25-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "Mitutoyo",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Dimensional Measuring Tools"
+  ],
+  "variants": [
+    {
+      "id": 43705455444135,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09529132",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.74",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785763078311,
+      "created_at": "2023-12-29T01:25:25-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237215522983,
+      "created_at": "2025-02-03T18:08:39-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:40-06:00",
+      "product_id": 7785763078311,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0952913-21.jpg?v=1738627720",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.74,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0952913-21.jpg?v=1738627720",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mitutoyo",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

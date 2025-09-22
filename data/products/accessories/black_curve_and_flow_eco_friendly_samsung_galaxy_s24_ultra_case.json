@@ -1,0 +1,108 @@
+{
+  "id": 8429098041432,
+  "title": "Black Curve and Flow Samsung Galaxy S24 Ultra Case",
+  "handle": "black-curve-and-flow-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-14T09:09:49-04:00",
+  "created_at": "2025-07-17T07:09:44-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Transitional Graphics",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Curve and Flow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43063789879384,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13870-S24ULTRA-BLACK-AOD:CURVE-AND-FLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8429098041432,
+      "created_at": "2025-07-17T07:09:44-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35436649578584,
+      "created_at": "2025-07-17T07:09:44-04:00",
+      "position": 1,
+      "updated_at": "2025-07-17T07:09:46-04:00",
+      "product_id": 8429098041432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_S24ULTRA_Black.jpg?v=1752750586",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35581701816408,
+      "created_at": "2025-08-11T14:56:55-04:00",
+      "position": 2,
+      "updated_at": "2025-08-11T14:56:55-04:00",
+      "product_id": 8429098041432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d6e9b27429630dacefcd6fc06c61beb6_6ca68e01-11d5-4e88-9330-89e6344bd251.jpg?v=1754938615",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581702045784,
+      "created_at": "2025-08-11T14:56:57-04:00",
+      "position": 3,
+      "updated_at": "2025-08-11T14:56:57-04:00",
+      "product_id": 8429098041432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/86d725c5142cf2e80ab2c3d435231876_1cadc917-8c26-42ae-8bc0-4243cf6d18fe.jpg?v=1754938617",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35581702307928,
+      "created_at": "2025-08-11T14:56:59-04:00",
+      "position": 4,
+      "updated_at": "2025-08-11T14:56:59-04:00",
+      "product_id": 8429098041432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2e32a108f635a4b8de195762ce65b69_15c16bb3-370f-4af6-8fa4-18a52fd54a20.jpg?v=1754938619",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/CURVE-AND-FLOW_S24ULTRA_Black.jpg?v=1752750586",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

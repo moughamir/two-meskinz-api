@@ -1,0 +1,98 @@
+{
+  "id": 8267604426840,
+  "title": "London Fog Dark Romance iPhone 14 Pro Max Case",
+  "handle": "london-fog-dark-romance-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Where vintage charm meets moody elegance, the <strong>Dark Romance Phone Case</strong> is for those who adore a little mystery with their romance. Featuring delicate roses tied with whimsical bows, this design whispers of timeless love letters, candlelit poetry, and a touch of gothic glamour. <meta charset=\"utf-8\">🖤🌹 Perfect for hopeless romantics, dark academia lovers, and anyone who believes love should always have a little edge. </p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-20T09:10:12-05:00",
+  "created_at": "2025-01-27T13:59:00-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Noir Romance",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Dark Romance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42597374066776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16875-IP14PMAX-LFOG-AOD:DARK-ROMANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8267604426840,
+      "created_at": "2025-01-27T13:59:00-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34373321916504,
+      "created_at": "2025-01-27T13:59:00-05:00",
+      "position": 1,
+      "updated_at": "2025-01-27T13:59:02-05:00",
+      "product_id": 8267604426840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARK-ROMANCE_IP14PMAX_LondonFog.jpg?v=1738004342",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34537536553048,
+      "created_at": "2025-02-18T15:22:58-05:00",
+      "position": 2,
+      "updated_at": "2025-02-18T15:23:00-05:00",
+      "product_id": 8267604426840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARKROMANCE_PDP1_70d71674-0385-4176-84fb-525786641116.jpg?v=1739910180",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34537536585816,
+      "created_at": "2025-02-18T15:22:58-05:00",
+      "position": 3,
+      "updated_at": "2025-02-18T15:23:00-05:00",
+      "product_id": 8267604426840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARKROMANCE_PDP2_4ca62575-44b1-40ef-85a0-f10223db0a86.jpg?v=1739910180",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/DARK-ROMANCE_IP14PMAX_LondonFog.jpg?v=1738004342",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

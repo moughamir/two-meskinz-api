@@ -1,0 +1,108 @@
+{
+  "id": 8412248735832,
+  "title": "London Fog Yellow Flowers Samsung Galaxy S24 Case",
+  "handle": "london-fog-yellow-flowers-eco-friendly-samsung-galaxy-s24-case",
+  "body_html": "<p data-start=\"0\" data-end=\"121\">Let the sunshine in ☀️🌼—with the Yellow Flowers Phone Case from the Pela x Katie Waiyu Artist Series Collection.</p>\n<p data-start=\"123\" data-end=\"327\">Big, bold, and beautifully bloomy, this case brings a splash of joy to your everyday carry. Soft watercolor textures meet cheerful pops of yellow and sky blue for a look that’s both playful and painterly.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-31T09:20:45-04:00",
+  "created_at": "2025-06-24T12:48:40-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x Katie Waiyu",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Yellow Flowers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43010273476696,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13787-S24-LFOG-AOD:YELLOW-FLOWERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8412248735832,
+      "created_at": "2025-06-24T12:48:40-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35288240586840,
+      "created_at": "2025-06-24T12:48:40-04:00",
+      "position": 1,
+      "updated_at": "2025-06-24T12:48:42-04:00",
+      "product_id": 8412248735832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YELLOW-FLOWERS_S24_LondonFog.jpg?v=1750783722",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35506899746904,
+      "created_at": "2025-07-30T12:18:49-04:00",
+      "position": 2,
+      "updated_at": "2025-07-30T12:18:49-04:00",
+      "product_id": 8412248735832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/f8599c1bfbd8c6bce42794356e079c0e_8d6129ea-8948-47f5-8b96-f6fbcb77e705.jpg?v=1753892329",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506899910744,
+      "created_at": "2025-07-30T12:18:50-04:00",
+      "position": 3,
+      "updated_at": "2025-07-30T12:18:50-04:00",
+      "product_id": 8412248735832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/8d954948745f3ab9aa360c5bc81880de_5b506d16-4f13-4126-ae58-68c83061c520.jpg?v=1753892330",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 35506900238424,
+      "created_at": "2025-07-30T12:18:51-04:00",
+      "position": 4,
+      "updated_at": "2025-07-30T12:18:51-04:00",
+      "product_id": 8412248735832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/bd19231a2c886c223c75ce5004beaf58_3ba9980c-8b57-480c-bb43-e75e4048e1a3.jpg?v=1753892331",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/YELLOW-FLOWERS_S24_LondonFog.jpg?v=1750783722",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

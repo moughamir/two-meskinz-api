@@ -1,0 +1,110 @@
+{
+  "id": 8142180417624,
+  "title": "Electric Blue Noodles iPhone 13 Mini Case",
+  "handle": "electric-blue-noodles-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p class=\"p1\">Introducing the Noodles Phone Case – the wavy, whimsical design that will have you craving your next pasta night! 🍜 With its bold blue and creamy noodle-like pattern, this case is a playful take on comfort food, adding a dash of fun to your everyday style. Perfect for foodies and lovers of quirky, abstract designs, this case makes your phone look good enough to eat!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:42:23-04:00",
+  "created_at": "2024-09-25T12:26:31-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Noodles",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294278160472,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16633-IP13MINI-ELEBLUE-AOD:NOODLES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142180417624,
+      "created_at": "2024-09-25T12:26:31-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677681721432,
+      "created_at": "2024-09-25T12:26:31-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:31-04:00",
+      "product_id": 8142180417624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_IP13MINI_ElectricBlue.jpg?v=1727281591",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749364736088,
+      "created_at": "2024-10-09T17:01:05-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:01:07-04:00",
+      "product_id": 8142180417624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_PDP2_b3efcfa6-351b-48f9-8018-b9ee2b282f58.jpg?v=1728507667",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749364768856,
+      "created_at": "2024-10-09T17:01:05-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:01:07-04:00",
+      "product_id": 8142180417624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_PDP1_35e54214-db88-4377-9f59-aff8ce56cb5f.jpg?v=1728507667",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749364703320,
+      "created_at": "2024-10-09T17:01:05-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:01:07-04:00",
+      "product_id": 8142180417624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_e9b58f2d-fd75-4765-b10f-402a32a2c74a.jpg?v=1728507667",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/NOODLES_IP13MINI_ElectricBlue.jpg?v=1727281591",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8345578864728,
+  "title": "Seashell Maple Leaf iPhone 13 Pro Max Case",
+  "handle": "seashell-maple-leaf-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Oh Canada, you’ve never looked so good on a phone case. With a flurry of fiery red leaves, this design brings all the cozy, crunchy charm of a crisp fall day—plus a little national pride. Whether you're a true north local or just maple-obsessed, this case says “eh” in the cutest way possible. <meta charset=\"utf-8\">🇨🇦📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:41:04-04:00",
+  "created_at": "2025-04-14T10:39:24-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Maple Leaf",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815080333400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16831-IP13PMAX-SEASHELL-AOD:MAPLE-LEAF",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345578864728,
+      "created_at": "2025-04-14T10:39:25-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829656588376,
+      "created_at": "2025-04-14T10:39:24-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:26-04:00",
+      "product_id": 8345578864728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP13PMAX_Seashell.jpg?v=1744641566",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982673121368,
+      "created_at": "2025-05-07T16:16:18-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:16:25-04:00",
+      "product_id": 8345578864728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_eb218c53-ecc9-439d-9b90-58dd332dcca8.jpg?v=1746648985",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982673186904,
+      "created_at": "2025-05-07T16:16:18-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:16:25-04:00",
+      "product_id": 8345578864728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_1d51cc17-7138-4a44-8026-7b7dbb21b1ed.jpg?v=1746648985",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982673154136,
+      "created_at": "2025-05-07T16:16:18-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:16:25-04:00",
+      "product_id": 8345578864728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_a20927d8-bebb-46b9-a332-a7e09471a42d.jpg?v=1746648985",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982673219672,
+      "created_at": "2025-05-07T16:16:18-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:16:25-04:00",
+      "product_id": 8345578864728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_034510ac-7a23-412e-99cf-98655c974db4.jpg?v=1746648985",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP13PMAX_Seashell.jpg?v=1744641566",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

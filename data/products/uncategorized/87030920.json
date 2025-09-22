@@ -1,0 +1,68 @@
+{
+  "id": 8452559896743,
+  "title": "Aluminum Cover",
+  "handle": "87030920",
+  "body_html": "<br><strong>Item #: </strong>07171523<br><strong>Brand: </strong>Sargent<br><strong>Model #: </strong>1431C-EN<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Cover</td>\n</tr>\n<tr> <td> <strong>For Use With</strong>\n</td>\n<td>1431 Series</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Aluminum</td>\n</tr>\n<tr> <td> <strong>Overall Length</strong>\n</td>\n<td>12.00</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31162800</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T10:05:41-06:00",
+  "created_at": "2025-01-23T10:05:40-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Sargent",
+  "product_type": "Hardware",
+  "tags": [
+    "Door",
+    "Lid & Drawer Hardware"
+  ],
+  "variants": [
+    {
+      "id": 46498090844327,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "07171523",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "41.44",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452559896743,
+      "created_at": "2025-01-23T10:05:40-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38243369582759,
+      "created_at": "2025-02-03T22:02:02-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:02:03-06:00",
+      "product_id": 8452559896743,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0717152-21.jpg?v=1738641723",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 41.44,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0717152-21.jpg?v=1738641723",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Sargent",
+  "category": "Hardware",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

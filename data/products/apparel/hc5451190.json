@@ -1,0 +1,67 @@
+{
+  "id": 7785483141287,
+  "title": "Brand: Metro / Part #: 1836NK4",
+  "handle": "hc5451190",
+  "body_html": "<br><strong>Item #: </strong>87409629<br><strong>Brand: </strong>Metro<br><strong>Model #: </strong>1836NK4<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Shelving Type</strong>\n</td>\n<td>Wire Shelf</td>\n</tr>\n<tr>\n<td><strong>Shelf Type</strong></td>\n<td>Split Sleeve</td>\n</tr>\n<tr>\n<td><strong>Adjustment Type</strong></td>\n<td>Split Sleeve</td>\n</tr>\n<tr>\n<td><strong>Shelf Capacity</strong></td>\n<td>800 lb</td>\n</tr>\n<tr>\n<td><strong>Mobility</strong></td>\n<td>Stationary</td>\n</tr>\n<tr>\n<td><strong>Height (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Wire Shelving Material</strong></td>\n<td>Rust-Resistant Epoxy Coated Steel</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>1.5 in</td>\n</tr>\n<tr>\n<td><strong>Overall Depth</strong></td>\n<td>18.125 in</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Epoxy</td>\n</tr>\n<tr>\n<td><strong>Assembled</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Width (Inch)</strong></td>\n<td>35-7/8</td>\n</tr>\n<tr>\n<td><strong>Depth (Inch)</strong></td>\n<td>18-1/8</td>\n</tr>\n<tr>\n<td><strong>Number Of Shelves</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Load Capacity (Lb. - 3 Decimals)</strong></td>\n<td>800.000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T22:01:42-06:00",
+  "created_at": "2023-12-28T22:01:42-06:00",
+  "updated_at": "2025-09-22T10:48:29-05:00",
+  "vendor": "Metro",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 43704023220391,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87409629",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.44",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785483141287,
+      "created_at": "2023-12-28T22:01:42-06:00",
+      "updated_at": "2025-09-22T10:48:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236996436135,
+      "created_at": "2025-02-03T18:00:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:00:44-06:00",
+      "product_id": 7785483141287,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8741164-21_6444c9d6-44e2-4586-97d4-4335097beb29.jpg?v=1738627244",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 90.44,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8741164-21_6444c9d6-44e2-4586-97d4-4335097beb29.jpg?v=1738627244",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Metro",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

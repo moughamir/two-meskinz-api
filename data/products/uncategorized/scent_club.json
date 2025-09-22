@@ -1,0 +1,153 @@
+{
+  "id": 7113521692781,
+  "title": "Scent Club",
+  "handle": "scent-club",
+  "body_html": "<p>Pura is passionate about bringing the power of fragrance into your home with fragrances that are safe, beautiful, and make life better. These scents are selected monthly and flow with the seasons.\n<br>Included Fragrances:\n<br>Winter Noir by Pura\n<br>Let’s Toast by Homesick\n<br>Havana Vanilla by Capri Blue\n<br>Morning Mint by Archipelago\n<br>Grapefruit by NEST New York\n<br>Palm Beach by Archipelago</p>",
+  "published_at": "2023-12-04T17:51:02-07:00",
+  "created_at": "2023-10-23T13:00:36-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Picked by Pura",
+  "product_type": "Gift",
+  "tags": [
+    "6 Month",
+    "900-02422",
+    "Group_Home",
+    "remove-klevu",
+    "remove-search",
+    "remove-subs",
+    "type_Smartvial",
+    "YCRF_bluecypresssnow",
+    "YGroup_bluecypresssnow"
+  ],
+  "variants": [
+    {
+      "id": 40778568695917,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02422",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "82.95",
+      "grams": 91,
+      "compare_at_price": "118.50",
+      "position": 1,
+      "product_id": 7113521692781,
+      "created_at": "2023-10-23T13:00:36-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31805823254637,
+      "created_at": "2024-04-29T15:35:09-06:00",
+      "position": 1,
+      "updated_at": "2024-04-29T15:35:11-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentClubHome-CuratedSub-Prod1-0424.png?v=1714426511",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30798305427565,
+      "created_at": "2023-12-01T15:29:59-07:00",
+      "position": 2,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentClub-Hover-11-23_9a54f3af-d287-4533-8413-2dac5e6427a1.png?v=1714426510",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745162743917,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 3,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PUR23004-winter-noirresize_73dc06d9-229a-46f4-bf6f-17b27bfe9f13.jpg?v=1714426510",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745162842221,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 4,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/HomesickLet_sToast-resized_e3b36b2a-c72b-466f-9132-101784a15a42.jpg?v=1714426510",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30745162678381,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 5,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LovePotion_Prod_4_ab5b171c-4be0-40e3-9d9b-f716ee2a7b8b.jpg?v=1714426510",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 30745162874989,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 6,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_archipelago_MorningMint_wall_8a31cd4d-8fdb-46aa-82da-a9b7023bbcfd.jpg?v=1714426510",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30745162711149,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 7,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/nestgrapefruitresized_7cb9739b-f705-4639-87f7-482be47a59d3.jpg?v=1714426510",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30745162776685,
+      "created_at": "2023-11-20T17:42:50-07:00",
+      "position": 8,
+      "updated_at": "2024-04-29T15:35:10-06:00",
+      "product_id": 7113521692781,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Prod_1_Archipelago_PalmBeach_Wall_c5127958-4f30-4bbe-abbe-7413fc531d43.jpg?v=1714426510",
+      "width": 2400,
+      "height": 3200
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 82.95,
+  "compare_at_price": 118.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/ScentClubHome-CuratedSub-Prod1-0424.png?v=1714426511",
+  "images_count": 8,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Picked by Pura",
+  "category": "Gift",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 8381667213400,
+  "title": "Seashell Garden Party iPhone 16 Plus Case",
+  "handle": "seashell-garden-party-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p><span>The Garden Party Phone Case from Pela is an enchanting celebration of springtime festivity, featuring frolicking bunnies and blooming roses wrapped up in pretty bows. It’s perfect for anyone who delights in the playful side of nature and cherishes gatherings in the garden. <meta charset=\"utf-8\">📱🎉✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-21T16:59:57-04:00",
+  "created_at": "2025-05-21T09:53:20-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Garden Tea Party",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Garden Party",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895735980120,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17361-IP16PLUS-SEASHELL-AOD:GARDEN-PARTY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381667213400,
+      "created_at": "2025-05-21T09:53:20-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065446662232,
+      "created_at": "2025-05-21T09:53:20-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:53:22-04:00",
+      "product_id": 8381667213400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDEN-PARTY_IP16PLUS_Seashell.jpg?v=1747835602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066261930072,
+      "created_at": "2025-05-21T14:36:28-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T14:36:30-04:00",
+      "product_id": 8381667213400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-1_f1483527-d8fc-43be-876b-2d8b28c97823.jpg?v=1747852590",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35066261962840,
+      "created_at": "2025-05-21T14:36:28-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T14:36:30-04:00",
+      "product_id": 8381667213400,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDENPARTY_SEASHELL-2_51f6ae69-8bb7-4b44-85bd-56a5c78decd0.jpg?v=1747852590",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GARDEN-PARTY_IP16PLUS_Seashell.jpg?v=1747835602",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

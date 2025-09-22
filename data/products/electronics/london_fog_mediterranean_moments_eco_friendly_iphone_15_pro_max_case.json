@@ -1,0 +1,110 @@
+{
+  "id": 7997844226136,
+  "title": "London Fog Mediterranean Moments iPhone 15 Pro Max Case",
+  "handle": "london-fog-mediterranean-moments-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Capture the essence of sun-soaked beaches and leisurely afternoons with the Mediterranean Moments Phone Case! Adorned with charming line art illustrations of citrus fruits, olive branches, and refreshing martini cocktails, this case invites you to savor the laid-back vibes of the Mediterranean lifestyle. Each glance at your phone will transport you to a world of azure waters, vibrant markets, and delicious cuisine. Perfect for adding a touch of coastal elegance and wanderlust to your daily routine, the Mediterranean Moments Phone Case is your passport to paradise! 🍋🍹🌿</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-06-27T09:10:09-04:00",
+  "created_at": "2024-06-24T11:14:42-04:00",
+  "updated_at": "2025-09-22T15:15:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Mediterranean Moments",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41946514882648,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17125-IP15PMAX-LFOG-AOD:MEDITERRANEAN-MOMENTS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7997844226136,
+      "created_at": "2024-06-24T11:14:42-04:00",
+      "updated_at": "2025-09-22T15:15:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33144126832728,
+      "created_at": "2024-06-24T11:14:42-04:00",
+      "position": 1,
+      "updated_at": "2024-06-24T11:14:42-04:00",
+      "product_id": 7997844226136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-MOMENTS_IP15PMAX_LondonFog.jpg?v=1719242082",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161182216280,
+      "created_at": "2024-06-26T15:47:29-04:00",
+      "position": 2,
+      "updated_at": "2024-06-26T15:47:31-04:00",
+      "product_id": 7997844226136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_01_a3cc38a7-627a-4096-99e5-5ee23ac85b33.jpg?v=1719431251",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161182150744,
+      "created_at": "2024-06-26T15:47:29-04:00",
+      "position": 3,
+      "updated_at": "2024-06-26T15:47:31-04:00",
+      "product_id": 7997844226136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_02_99e74ad0-18dc-4606-a7e7-5824419df99f.jpg?v=1719431251",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33161182117976,
+      "created_at": "2024-06-26T15:47:29-04:00",
+      "position": 4,
+      "updated_at": "2024-06-26T15:47:31-04:00",
+      "product_id": 7997844226136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_11_f0e70b33-8ca9-4e6d-8d7a-369e44d6c78f.jpg?v=1719431251",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MEDITERRANEAN-MOMENTS_IP15PMAX_LondonFog.jpg?v=1719242082",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

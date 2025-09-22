@@ -1,0 +1,67 @@
+{
+  "id": 8452861984935,
+  "title": "‎3/8″ Dia. × 1-1/4″ LOC × 3/8″ Shank Dia. × 2-1/2″ OAL, 4 Flute, Carbide, AlCrN, Corner Radius End Mill",
+  "handle": "jr50555mmp",
+  "body_html": "<br><strong>Item #: </strong>KE11976000178<br><strong>Brand: </strong>Keo<br><strong>Model #: </strong>976-000-178<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Round </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>3/8″ </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>Corner Radius </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>Standard </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>‎2-1/2″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>External </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Carbide </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>AlCrN </td>\n</tr>\n<tr>\n<td><strong>Center Cutting</strong></td>\n<td>Yes </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:36:04-06:00",
+  "created_at": "2025-01-23T20:36:03-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Keo",
+  "product_type": "Milling",
+  "tags": [
+    "Solid"
+  ],
+  "variants": [
+    {
+      "id": 46499439607975,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KE11976000178",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "59.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452861984935,
+      "created_at": "2025-01-23T20:36:03-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38140436316327,
+      "created_at": "2025-01-23T20:36:11-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:36:13-06:00",
+      "product_id": 8452861984935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_19703c89-7fa0-4ec9-91fd-bf552a09748e.png?v=1737686173",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 59.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_19703c89-7fa0-4ec9-91fd-bf552a09748e.png?v=1737686173",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Keo",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

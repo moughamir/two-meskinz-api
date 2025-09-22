@@ -1,0 +1,80 @@
+{
+  "id": 4690843795544,
+  "title": "Connector Set for the 44/42mm Watch",
+  "handle": "connector-set-for-the-44mm-apple-watch",
+  "body_html": "<meta charset=\"utf-8\"><span>Need to change your band? We’ve got you covered. Our patent-pending quick-release magnetic metal clasp makes it simple, without any tools. Join the revolution taking action against plastic. With Pela Vine, you can wear your values on your wrist.</span>",
+  "published_at": "2025-05-08T09:54:37-04:00",
+  "created_at": "2020-07-17T15:45:43-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Accessories",
+  "tags": [
+    "Vine44mm_Connector",
+    "vine_connector"
+  ],
+  "variants": [
+    {
+      "id": 33157029625944,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25321-VINE-CONNECT44m",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.00",
+      "grams": 39,
+      "compare_at_price": "19.00",
+      "position": 1,
+      "product_id": 4690843795544,
+      "created_at": "2020-07-17T15:45:43-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 15717253644376,
+      "created_at": "2020-10-06T11:27:37-04:00",
+      "position": 1,
+      "updated_at": "2020-10-06T11:27:39-04:00",
+      "product_id": 4690843795544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE44_CONNECTORS.jpg?v=1601998059",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 15717253677144,
+      "created_at": "2020-10-06T11:27:37-04:00",
+      "position": 2,
+      "updated_at": "2020-10-06T11:27:39-04:00",
+      "product_id": 4690843795544,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE44_CONNECTOR_ON-GREEN.jpg?v=1601998059",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19,
+  "compare_at_price": 19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE44_CONNECTORS.jpg?v=1601998059",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Accessories",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

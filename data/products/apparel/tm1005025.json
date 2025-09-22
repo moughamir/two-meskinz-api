@@ -1,0 +1,69 @@
+{
+  "id": 5342397956263,
+  "title": "Brand: Deltronic / Part #: 0.1164 CLASS X",
+  "handle": "tm1005025",
+  "body_html": "<br><strong>Item #: </strong>89561419<br><strong>Brand: </strong>Deltronic<br><strong>Model #: </strong>0.1164 CLASS X<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Diameter of Measurement (Decimal Inch)</strong>\n</td>\n<td>0.1164</td>\n</tr>\n<tr>\n<td><strong>Tolerance (Decimal Inch)</strong></td>\n<td>0.00004</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Tool Steel</td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>For Production Inspection Requirements</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Certificate of Accuracy with NIST Traceability</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>2-1/2</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Micro</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T13:43:46-06:00",
+  "created_at": "2020-06-16T16:00:03-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "Deltronic",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Coated Abrasives",
+    "Collets",
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 34752648446119,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "89561419",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.85",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5342397956263,
+      "created_at": "2020-06-16T16:00:03-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239346786471,
+      "created_at": "2025-02-03T19:31:26-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:31:27-06:00",
+      "product_id": 5342397956263,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7268281-21_eff57e11-5680-49cf-92fc-4330e5d07a66.jpg?v=1738632687",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.85,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7268281-21_eff57e11-5680-49cf-92fc-4330e5d07a66.jpg?v=1738632687",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Deltronic",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

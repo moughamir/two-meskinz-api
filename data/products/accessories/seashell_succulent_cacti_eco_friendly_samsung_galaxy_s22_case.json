@@ -1,0 +1,130 @@
+{
+  "id": 7420521709656,
+  "title": "Seashell Succulent Cacti Samsung Galaxy S22 Case",
+  "handle": "seashell-succulent-cacti-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><span>Introducing the Succulent Cacti Phone Case, a vibrant tribute to the resilient beauty of the desert, from the Coastal Cowgirl Collection by Pela.  The intricate design, featuring a variety of cacti, brings a piece of the arid desert to your daily life, adding a touch of nature's artistry to your tech. 🌵🌿🌊</span></p>\n<p><span>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>",
+  "published_at": "2023-09-21T09:11:58-04:00",
+  "created_at": "2023-09-13T16:33:11-04:00",
+  "updated_at": "2025-09-22T15:16:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Coastal Cowgirl",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Succulent Cacti",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40265508454488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13594-S22-SEASHELL-AOD:SUCCULENT-CACTI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7420521709656,
+      "created_at": "2023-09-13T16:33:11-04:00",
+      "updated_at": "2025-09-22T15:16:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30362322731096,
+      "created_at": "2023-09-13T16:33:11-04:00",
+      "position": 1,
+      "updated_at": "2023-09-13T16:33:11-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUCCULENT-CACTI_S22_Seashell.jpg?v=1694637191",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31774688575576,
+      "created_at": "2023-09-18T17:32:16-04:00",
+      "position": 2,
+      "updated_at": "2023-09-18T17:32:17-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoastalCowgirl5_95304125-af28-4533-aecc-9a250f9ebded.jpg?v=1695072737",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776392183896,
+      "created_at": "2023-09-20T13:46:56-04:00",
+      "position": 3,
+      "updated_at": "2023-09-20T13:46:59-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2135_8f08e043-c9ff-4a84-a37f-a365efd4592b.jpg?v=1695232019",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776392118360,
+      "created_at": "2023-09-20T13:46:56-04:00",
+      "position": 4,
+      "updated_at": "2023-09-20T13:46:59-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_1939_406e6723-1b04-4eeb-bbc0-ee6760d4d97b.jpg?v=1695232019",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776392151128,
+      "created_at": "2023-09-20T13:46:56-04:00",
+      "position": 5,
+      "updated_at": "2023-09-20T13:46:59-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2065_b597ed74-9b2f-4729-965e-2a963c4129a5.jpg?v=1695232019",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31776392085592,
+      "created_at": "2023-09-20T13:46:56-04:00",
+      "position": 6,
+      "updated_at": "2023-09-20T13:46:59-04:00",
+      "product_id": 7420521709656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_2025_dfba0065-d9f5-46d7-8e2e-e0286a6785b4.jpg?v=1695232019",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SUCCULENT-CACTI_S22_Seashell.jpg?v=1694637191",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

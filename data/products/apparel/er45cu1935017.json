@@ -1,0 +1,67 @@
+{
+  "id": 7785337389223,
+  "title": "Brand: Micro World Corp / Part #: AB11048",
+  "handle": "er45cu1935017",
+  "body_html": "<br><strong>Item #: </strong>08565616<br><strong>Brand: </strong>Micro World Corp<br><strong>Model #: </strong>AB11048<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Binocular Type</strong>\n</td>\n<td>Porro</td>\n</tr>\n<tr>\n<td><strong>Prism Type</strong></td>\n<td>Porro; BK-7</td>\n</tr>\n<tr>\n<td><strong>Field Of View</strong></td>\n<td>294.000</td>\n</tr>\n<tr>\n<td><strong>Waterproof</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Anti-fog</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Minimum Magnification</strong></td>\n<td>7x</td>\n</tr>\n<tr>\n<td><strong>Maximum Magnification</strong></td>\n<td>20x</td>\n</tr>\n<tr>\n<td><strong>Lens Diameter</strong></td>\n<td>35 mm</td>\n</tr>\n<tr>\n<td><strong>Optical Lens Coating</strong></td>\n<td>Multi-Coated</td>\n</tr>\n<tr>\n<td><strong>Tripod Mountable</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Minimum Distance</strong></td>\n<td>32 ft</td>\n</tr>\n<tr>\n<td><strong>Overall Height</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>6.50</td>\n</tr>\n<tr>\n<td><strong>Construction</strong></td>\n<td>Rubber Armored</td>\n</tr>\n<tr>\n<td><strong>Overall Width</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>Magnification 7x; Waterproof &amp; Fogproof; Focusing System Individual; Exit Pupil 7.1mm; Compass Reticle; Objective Lens 50mm; Prism type Porro; Internal Rangefinder; Individual Focus; Field of View 396/132; Shockproof Rubber Armor; Optical Coating Fully Multi-Coated; Fully Multicoated Optics; Eye Relief 22.8 mm; Prism Glass BAK-4; Close Focus (ft/m) 16.04/5</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>Neck Strap and Lens Cloth; Lens Covers; Carrying Case</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:57:23-06:00",
+  "created_at": "2023-12-28T17:57:23-06:00",
+  "updated_at": "2025-09-22T10:55:42-05:00",
+  "vendor": "Micro World Corp",
+  "product_type": "Measuring & Inspecting",
+  "tags": [
+    "Inspecting; Detecting & Testing Instruments"
+  ],
+  "variants": [
+    {
+      "id": 43703641211047,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "08565616",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "104.84",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785337389223,
+      "created_at": "2023-12-28T17:57:23-06:00",
+      "updated_at": "2025-09-22T10:55:42-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236730687655,
+      "created_at": "2025-02-03T17:52:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:52:06-06:00",
+      "product_id": 7785337389223,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0856561-21.jpg?v=1738626726",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 104.84,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0856561-21.jpg?v=1738626726",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Micro World Corp",
+  "category": "Measuring & Inspecting",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

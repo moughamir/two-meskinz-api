@@ -1,0 +1,67 @@
+{
+  "id": 7786399826087,
+  "title": "Brand: Mechanix Wear / Part #: S85CJ-06-008",
+  "handle": "mt7106577",
+  "body_html": "<br><strong>Item #: </strong>95300158<br><strong>Brand: </strong>Mechanix Wear<br><strong>Model #: </strong>S85CJ-06-008<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Primary Material</strong>\n</td>\n<td>Nitrile; Aramid; TPR; Neoprene</td>\n</tr>\n<tr>\n<td><strong>Coating Material</strong></td>\n<td>Nitrile; Neoprene</td>\n</tr>\n<tr>\n<td><strong>Coating Coverage</strong></td>\n<td>Palm &amp; Fingers</td>\n</tr>\n<tr>\n<td><strong>Lining Material</strong></td>\n<td>Unlined</td>\n</tr>\n<tr>\n<td><strong>Back Material</strong></td>\n<td>Aramid; TPR</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Green</td>\n</tr>\n<tr>\n<td><strong>Maximum Arc Flash Protection Rating</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Grip Surface</strong></td>\n<td>Sandy</td>\n</tr>\n<tr>\n<td><strong>Men's Size</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td><strong>Women's Size</strong></td>\n<td>Large</td>\n</tr>\n<tr>\n<td><strong>Cuff Style</strong></td>\n<td>Knit</td>\n</tr>\n<tr>\n<td><strong>High Visibility</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Glove Material</strong></td>\n<td>Nitrile; Aramid; TPR; Neoprene</td>\n</tr>\n<tr>\n<td><strong>ANSI/ISEA Abrasion Resistance Level</strong></td>\n<td>3</td>\n</tr>\n<tr>\n<td><strong>Hand</strong></td>\n<td>Paired</td>\n</tr>\n<tr>\n<td><strong>Static Dissipative</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>SpeedKnit? Flame and Arc Resistant M-Pact? S85CJ06</td>\n</tr>\n<tr>\n<td><strong>Features</strong></td>\n<td>13-gauge aramid blended shell meets an ANSI A5 cut resistance standard. Machine knit shell meets EN 407 Level 4 Thermal Resistance and Level 2 arch flash (12 cals). Anatomical designed flame-resistant TPR knuckle protection meets ANSI 138 Level 2 impact standard. Sandy neoprene and nitrile coating provide grip and abrasion resistance at an ANSI level 3 rating.</td>\n</tr>\n<tr>\n<td><strong>Ansi/Isea Cut Resistance Level</strong></td>\n<td>A5</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T22:48:35-06:00",
+  "created_at": "2023-12-29T22:48:35-06:00",
+  "updated_at": "2025-09-22T10:53:28-05:00",
+  "vendor": "Mechanix Wear",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707724267687,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "95300158",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.15",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786399826087,
+      "created_at": "2023-12-29T22:48:35-06:00",
+      "updated_at": "2025-09-22T10:53:28-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238544658599,
+      "created_at": "2025-02-03T18:53:54-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:53:56-06:00",
+      "product_id": 7786399826087,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9530015-21_86f40fa4-2dfe-4d3a-90de-eee3dc71d847.jpg?v=1738630436",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9530015-21_86f40fa4-2dfe-4d3a-90de-eee3dc71d847.jpg?v=1738630436",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mechanix Wear",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

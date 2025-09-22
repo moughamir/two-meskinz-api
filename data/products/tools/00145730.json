@@ -1,0 +1,68 @@
+{
+  "id": 8452662493351,
+  "title": "Corded Orbital Sander: 5\" Pad, 12000 OPM",
+  "handle": "00145730",
+  "body_html": "<br><strong>Item #: </strong>64944291<br><strong>Brand: </strong>CAT<br><strong>Model #: </strong>DX46U<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Pad Shape</strong>\n</td>\n<td>Round</td>\n</tr>\n<tr> <td> <strong>Sander Type</strong>\n</td>\n<td>Random Orbital</td>\n</tr>\n<tr> <td> <strong>Random Orbital</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Round Pad Size</strong>\n</td>\n<td>5 in</td>\n</tr>\n<tr> <td> <strong>Amperage</strong>\n</td>\n<td>3.0000</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Cyclone Bin; Vacuum Adaptor; 80 Grit Sand Paper</td>\n</tr>\n<tr> <td> <strong>Orbits per Minute</strong>\n</td>\n<td>12000</td>\n</tr>\n<tr> <td> <strong>Backing Pad Type</strong>\n</td>\n<td>Hook &amp; Loop</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112737</td>\n</tr>\n<tr> <td> <strong>Pad Shape</strong>\n</td>\n<td>Round</td>\n</tr>\n<tr> <td> <strong>Sander Type</strong>\n</td>\n<td>Random Orbital</td>\n</tr>\n<tr> <td> <strong>Random Orbital</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Round Pad Size</strong>\n</td>\n<td>5 in</td>\n</tr>\n<tr> <td> <strong>Amperage</strong>\n</td>\n<td>3.0000</td>\n</tr>\n<tr> <td> <strong>Includes</strong>\n</td>\n<td>Cyclone Bin; Vacuum Adaptor; 80 Grit Sand Paper</td>\n</tr>\n<tr> <td> <strong>Orbits per Minute</strong>\n</td>\n<td>12000</td>\n</tr>\n<tr> <td> <strong>Backing Pad Type</strong>\n</td>\n<td>Hook &amp; Loop</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112737</td>\n</tr>\n<tr> <td> <strong>MSC Part #</strong>\n</td>\n<td>64944291</td>\n</tr>\n<tr> <td> <strong>Mfr Part #</strong>\n</td>\n<td>DX46U</td>\n</tr>\n<tr> <td> <strong>Country of Origin              Country of   Origin is subject to change</strong>\n</td>\n<td>China</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T13:52:55-06:00",
+  "created_at": "2025-01-23T13:52:54-06:00",
+  "updated_at": "2025-09-22T10:52:14-05:00",
+  "vendor": "CAT",
+  "product_type": "Power Tools",
+  "tags": [
+    "Buffers & Sanders",
+    "Power Grinders"
+  ],
+  "variants": [
+    {
+      "id": 46498437398695,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "64944291",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "73.23",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452662493351,
+      "created_at": "2025-01-23T13:52:54-06:00",
+      "updated_at": "2025-09-22T10:52:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38248433746087,
+      "created_at": "2025-02-04T00:48:02-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T00:48:04-06:00",
+      "product_id": 8452662493351,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6494429-21.jpg?v=1738651684",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 73.23,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6494429-21.jpg?v=1738651684",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "CAT",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

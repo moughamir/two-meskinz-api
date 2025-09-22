@@ -1,0 +1,94 @@
+{
+  "id": 8735046926564,
+  "title": "APlusLift MT2200X Motorcycle Lift Table Side Ramp",
+  "handle": "apluslift-mt2200x-motorcycle-lift-table-side-ramp",
+  "body_html": "<h3>Side ramp for MT2200 and MT2200X motorcycle lift tables. </h3>\n<h3>Size: 24\"L x 12\"W</h3>\n",
+  "published_at": "2025-09-13T22:55:55-07:00",
+  "created_at": "2025-09-13T22:55:55-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "MOTORCYCLE LIFT PARTS",
+  "tags": [
+    "MOTORCYCLE LIFT PARTS"
+  ],
+  "variants": [
+    {
+      "id": 46739252969700,
+      "title": "MT2200 and MT2200X",
+      "option1": "MT2200 and MT2200X",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 78459426734308,
+        "product_id": 8735046926564,
+        "position": 1,
+        "created_at": "2025-09-13T22:57:56-07:00",
+        "updated_at": "2025-09-13T22:57:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/APlusLift_MT2200X_Ramps_Front_56efbadc-0f63-4744-aba5-4bfeb72ed8be.jpg?v=1757829477",
+        "variant_ids": [
+          46739252969700
+        ]
+      },
+      "available": true,
+      "price": "100.00",
+      "grams": 22680,
+      "compare_at_price": "260.00",
+      "position": 1,
+      "product_id": 8735046926564,
+      "created_at": "2025-09-13T22:55:55-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 78459426734308,
+      "created_at": "2025-09-13T22:57:56-07:00",
+      "position": 1,
+      "updated_at": "2025-09-13T22:57:57-07:00",
+      "product_id": 8735046926564,
+      "variant_ids": [
+        46739252969700
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/APlusLift_MT2200X_Ramps_Front_56efbadc-0f63-4744-aba5-4bfeb72ed8be.jpg?v=1757829477",
+      "width": 2400,
+      "height": 2400
+    },
+    {
+      "id": 78459426472164,
+      "created_at": "2025-09-13T22:57:05-07:00",
+      "position": 2,
+      "updated_at": "2025-09-13T22:57:07-07:00",
+      "product_id": 8735046926564,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/files/APlusLift_MT2200X_Ramps_Back.jpg?v=1757829427",
+      "width": 2400,
+      "height": 2400
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "MT2200 and MT2200X"
+      ]
+    }
+  ],
+  "price": 100,
+  "compare_at_price": 260,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/files/APlusLift_MT2200X_Ramps_Front_56efbadc-0f63-4744-aba5-4bfeb72ed8be.jpg?v=1757829477",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "MOTORCYCLE LIFT PARTS",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 8135343865944,
+  "title": "London Fog Happy Farmyard iPhone 15 Pro Max Case",
+  "handle": "london-fog-happy-farmyard-eco-friendly-iphone-15-pro-max-case",
+  "body_html": "<p class=\"p1\">Welcome to the Happy Farmyard Phone Case, where all your favorite farm animals come to life! 🐮🐷🐑 This adorable case features a playful cast of cows, pigs, sheep, and more, all doodled in a charming, fun-loving style. Whether you’re dreaming of peaceful pastures or just love the cozy vibes of country living, this farmyard crew is here to brighten up your day.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-01T09:22:02-04:00",
+  "created_at": "2024-09-20T09:35:19-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Farm Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Happy Farmyard",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42278867402840,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17125-IP15PMAX-LFOG-AOD:HAPPY-FARMYARD",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8135343865944,
+      "created_at": "2024-09-20T09:35:19-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33646285160536,
+      "created_at": "2024-09-20T09:35:19-04:00",
+      "position": 1,
+      "updated_at": "2024-09-20T09:35:19-04:00",
+      "product_id": 8135343865944,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/HAPPY-FARMYARD_IP15PMAX_LondonFog.jpg?v=1726839319",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/HAPPY-FARMYARD_IP15PMAX_LondonFog.jpg?v=1726839319",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

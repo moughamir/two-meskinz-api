@@ -1,0 +1,67 @@
+{
+  "id": 7785748725927,
+  "title": "Brand: Value Collection / Part #: SC48484521",
+  "handle": "cw8032735",
+  "body_html": "<br><strong>Item #: </strong>94949740<br><strong>Brand: </strong>Value Collection<br><strong>Model #: </strong>SC48484521<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Coolant Hose Kit</td>\n</tr>\n<tr>\n<td><strong>Nozzle Diameter (Inch)</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Hose Inside Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Hose Material</strong></td>\n<td>Polyoxymethylene</td>\n</tr>\n<tr>\n<td><strong>Hose Length (Inch)</strong></td>\n<td>13</td>\n</tr>\n<tr>\n<td><strong>Thread Standard</strong></td>\n<td>NPT</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>1/4 in</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(3) 13 in x 1/4 in Hose Sections with Plastic Nozzles; Permanent Magnetic Base with On-Off Switch; (3) 1/4 Male NPT Valve</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Snap Flow Modular Hose System</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:06:20-06:00",
+  "created_at": "2023-12-29T01:06:20-06:00",
+  "updated_at": "2025-09-22T10:54:52-05:00",
+  "vendor": "Value Collection",
+  "product_type": "Lubricants; Coolants & Fluids",
+  "tags": [
+    "Metalworking Fluids; Coolants & Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43705426968743,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94949740",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.82",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785748725927,
+      "created_at": "2023-12-29T01:06:20-06:00",
+      "updated_at": "2025-09-22T10:54:52-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237194059943,
+      "created_at": "2025-02-03T18:07:52-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:07:53-06:00",
+      "product_id": 7785748725927,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9494974-21.jpg?v=1738627673",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80.82,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9494974-21.jpg?v=1738627673",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Value Collection",
+  "category": "Lubricants; Coolants & Fluids",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

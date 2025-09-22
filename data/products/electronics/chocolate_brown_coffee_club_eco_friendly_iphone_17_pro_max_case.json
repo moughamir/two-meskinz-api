@@ -1,0 +1,118 @@
+{
+  "id": 8444694364248,
+  "title": "Chocolate Brown Coffee Club iPhone 17 Pro Max Case",
+  "handle": "chocolate-brown-coffee-club-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Calling all coffee lovers—this phone case was made for you! <meta charset=\"utf-8\">☕📖<em data-start=\"4436\" data-end=\"4449\">Coffee Club</em> features hand-drawn doodles of lattes, French presses, and cozy café vibes, perfect for those who never start their day without a good brew. Sustainable, stylish, and caffeine-approved.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:02:59-04:00",
+  "created_at": "2025-08-08T11:51:11-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Coffee Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184119152728,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17587-IP17PMAX-CHOBROWN-AOD:COFFEE-CLUB_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444694364248,
+      "created_at": "2025-09-03T18:28:48-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184119185496,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17587-IP17PMAX-CHOBROWN-AOD:COFFEE-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444694364248,
+      "created_at": "2025-09-03T18:28:48-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567277441112,
+      "created_at": "2025-08-08T11:51:11-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:14-04:00",
+      "product_id": 8444694364248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COFFEE-CLUB_IP17PMAX_ChocolateBrown.jpg?v=1754668274",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34682997080152,
+      "created_at": "2025-03-13T08:30:56-04:00",
+      "position": 2,
+      "updated_at": "2025-03-13T08:30:58-04:00",
+      "product_id": 8444694364248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoffeeClub_PDP1_f21bff97-0835-4a71-af06-8ce7605b02dc.jpg?v=1741869058",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34682997112920,
+      "created_at": "2025-03-13T08:30:56-04:00",
+      "position": 3,
+      "updated_at": "2025-03-13T08:30:58-04:00",
+      "product_id": 8444694364248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoffeeClub_PDP2_a2b934dc-97b1-4e3e-925b-664560a66d02.jpg?v=1741869058",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COFFEE-CLUB_IP17PMAX_ChocolateBrown.jpg?v=1754668274",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

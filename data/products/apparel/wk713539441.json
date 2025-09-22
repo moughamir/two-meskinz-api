@@ -1,0 +1,67 @@
+{
+  "id": 7786088464551,
+  "title": "Brand: Farecla / Part #: 78072700164",
+  "handle": "wk713539441",
+  "body_html": "<br><strong>Item #: </strong>40052391<br><strong>Brand: </strong>Farecla<br><strong>Model #: </strong>78072700164<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Compound Type</strong>\n</td>\n<td>Liquid Finish Compound</td>\n</tr>\n<tr>\n<td><strong>Container Type</strong></td>\n<td>Bottle</td>\n</tr>\n<tr>\n<td><strong>Material Application</strong></td>\n<td>Automotive</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T09:38:09-06:00",
+  "created_at": "2023-12-29T09:38:09-06:00",
+  "updated_at": "2025-09-22T10:54:10-05:00",
+  "vendor": "Farecla",
+  "product_type": "Abrasives",
+  "tags": [
+    "Buffing & Polishing"
+  ],
+  "variants": [
+    {
+      "id": 43706887471271,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40052391",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "56.58",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786088464551,
+      "created_at": "2023-12-29T09:38:09-06:00",
+      "updated_at": "2025-09-22T10:54:10-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237813506215,
+      "created_at": "2025-02-03T18:26:04-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:26:05-06:00",
+      "product_id": 7786088464551,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4005239-21.jpg?v=1738628765",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 56.58,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4005239-21.jpg?v=1738628765",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Farecla",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

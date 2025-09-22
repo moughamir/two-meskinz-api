@@ -1,0 +1,108 @@
+{
+  "id": 8237175013464,
+  "title": "Seashell Gummy Bears iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-gummy-bears-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">A Sweet Treat for Your Tech! 🍬🐻 <meta charset=\"utf-8\">Get ready to indulge in a sugar-free, totally adorable phone case! The Gummy Bear Phone Case is bursting with nostalgic charm, featuring a playful mix of colorful, candy-coated bears that’ll make your phone look good enough to snack on.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-09T09:14:13-05:00",
+  "created_at": "2025-01-03T09:29:13-05:00",
+  "updated_at": "2025-09-22T15:15:27-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Amour",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Gummy Bears",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42530548088920,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:GUMMY-BEARS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8237175013464,
+      "created_at": "2025-01-03T09:29:13-05:00",
+      "updated_at": "2025-09-22T15:15:27-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34214617055320,
+      "created_at": "2025-01-03T09:29:13-05:00",
+      "position": 1,
+      "updated_at": "2025-01-06T09:08:45-05:00",
+      "product_id": 8237175013464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMY-BEARS_IP7_Seashell.jpg?v=1736172525",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34227073089624,
+      "created_at": "2025-01-06T09:46:21-05:00",
+      "position": 2,
+      "updated_at": "2025-01-06T09:46:23-05:00",
+      "product_id": 8237175013464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP1_4041ea03-1603-4581-b30d-371d3d695839.jpg?v=1736174783",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34227073122392,
+      "created_at": "2025-01-06T09:46:21-05:00",
+      "position": 3,
+      "updated_at": "2025-01-06T09:46:23-05:00",
+      "product_id": 8237175013464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP2_44b8dd35-e98b-40ab-9db5-b2fd86bd5680.jpg?v=1736174783",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34227073155160,
+      "created_at": "2025-01-06T09:46:21-05:00",
+      "position": 4,
+      "updated_at": "2025-01-06T09:46:23-05:00",
+      "product_id": 8237175013464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMYBEARS_PDP3_81f6ecaa-62d0-4139-a9d0-6fa768dac4f2.jpg?v=1736174783",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/GUMMY-BEARS_IP7_Seashell.jpg?v=1736172525",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

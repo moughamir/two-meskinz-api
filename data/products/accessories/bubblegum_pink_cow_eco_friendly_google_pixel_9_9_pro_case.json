@@ -1,0 +1,86 @@
+{
+  "id": 8381665476696,
+  "title": "Bubblegum Pink Cow Google Pixel 9/9 Pro Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-google-pixel-9-9-pro-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2025-05-21T17:04:37-04:00",
+  "created_at": "2025-05-21T09:53:00-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9/9 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895733456984,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15671-PX9-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8381665476696,
+      "created_at": "2025-05-21T09:53:00-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065441583192,
+      "created_at": "2025-05-21T09:53:00-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:53:02-04:00",
+      "product_id": 8381665476696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_PX9_BubblegumPink.jpg?v=1747835582",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065878052952,
+      "created_at": "2025-05-21T12:41:51-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T12:41:53-04:00",
+      "product_id": 8381665476696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_a4bf2e3a-55ac-48ad-8a35-21f94936aedb.jpg?v=1747845713",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_PX9_BubblegumPink.jpg?v=1747835582",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9/9 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

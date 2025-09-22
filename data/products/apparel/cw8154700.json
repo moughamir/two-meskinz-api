@@ -1,0 +1,67 @@
+{
+  "id": 7785367470247,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 5120158",
+  "handle": "cw8154700",
+  "body_html": "<br><strong>Item #: </strong>10480838<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>5120158<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Drill Diameter (mm)</strong>\n</td>\n<td>15.70</td>\n</tr>\n<tr>\n<td><strong>Point Angle</strong></td>\n<td>140.00</td>\n</tr>\n<tr>\n<td><strong>Diameter (mm)</strong></td>\n<td>15.7000</td>\n</tr>\n<tr>\n<td><strong>Tip Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Manufacturer Grade</strong></td>\n<td>IN2505</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>TMA</td>\n</tr>\n<tr>\n<td><strong>Coating Process</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Insert Geometry</strong></td>\n<td>M</td>\n</tr>\n<tr>\n<td><strong>Insert Seat Size</strong></td>\n<td>15</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Hi-Temp Alloys; Stainless Steel</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>S; M</td>\n</tr>\n<tr>\n<td><strong>Height (mm)</strong></td>\n<td>8.7400</td>\n</tr>\n<tr>\n<td><strong>Head Length (mm)</strong></td>\n<td>8.74</td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (mm)</strong></td>\n<td>15.70</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Insert Holding Method</strong></td>\n<td>Twist</td>\n</tr>\n<tr>\n<td><strong>ISO Number</strong></td>\n<td>TMA1570R01 IN2505</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Flute Length (mm)</strong></td>\n<td>6.32</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Spiral Point</td>\n</tr>\n<tr>\n<td><strong>Overall Length/Projection (mm)</strong></td>\n<td>8.74</td>\n</tr>\n<tr>\n<td><strong>Spiral Type</strong></td>\n<td>Regular</td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>TMA</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>PVD</td>\n</tr>\n<tr>\n<td><strong>Applications</strong></td>\n<td>Drilling</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiN; TiAlN</td>\n</tr>\n<tr>\n<td><strong>Included Angle Degree</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T19:04:21-06:00",
+  "created_at": "2023-12-28T19:04:21-06:00",
+  "updated_at": "2025-09-22T10:55:34-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Inserts"
+  ],
+  "variants": [
+    {
+      "id": 43703690395815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "10480838",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.98",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785367470247,
+      "created_at": "2023-12-28T19:04:21-06:00",
+      "updated_at": "2025-09-22T10:55:34-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236798091431,
+      "created_at": "2025-02-03T17:54:21-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:54:22-06:00",
+      "product_id": 7785367470247,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1048083-21.jpg?v=1738626862",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100.98,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1048083-21.jpg?v=1738626862",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

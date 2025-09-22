@@ -1,0 +1,67 @@
+{
+  "id": 7786185326759,
+  "title": "Brand: MCR Safety / Part #: 6010PS",
+  "handle": "ff8747432",
+  "body_html": "<br><strong>Item #: </strong>43815364<br><strong>Brand: </strong>MCR Safety<br><strong>Model #: </strong>6010PS<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Primary Material</strong>\n</td>\n<td>Nitrile</td>\n</tr>\n<tr>\n<td><strong>Length (Inch)</strong></td>\n<td>9-1/2</td>\n</tr>\n<tr>\n<td><strong>Powdered</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Textured</td>\n</tr>\n<tr>\n<td><strong>Thickness Range</strong></td>\n<td>Less than 5 mil</td>\n</tr>\n<tr>\n<td><strong>Thickness (mil)</strong></td>\n<td>4.00</td>\n</tr>\n<tr>\n<td><strong>Glove Size</strong></td>\n<td>Small</td>\n</tr>\n<tr>\n<td><strong>Cuff Style</strong></td>\n<td>Rolled</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Medical</td>\n</tr>\n<tr>\n<td><strong>Static Dissipative</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Sterility</strong></td>\n<td>Non-Sterile</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>9.5000</td>\n</tr>\n<tr>\n<td><strong>Length</strong></td>\n<td>241.30</td>\n</tr>\n<tr>\n<td><strong>Fda Approved</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T13:31:48-06:00",
+  "created_at": "2023-12-29T13:31:48-06:00",
+  "updated_at": "2025-09-22T10:53:58-05:00",
+  "vendor": "MCR Safety",
+  "product_type": "Safety",
+  "tags": [
+    "Personal Protective Equipment"
+  ],
+  "variants": [
+    {
+      "id": 43707158462631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "43815364",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "48.06",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786185326759,
+      "created_at": "2023-12-29T13:31:48-06:00",
+      "updated_at": "2025-09-22T10:53:58-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238048125095,
+      "created_at": "2025-02-03T18:34:16-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:34:17-06:00",
+      "product_id": 7786185326759,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4381538-21_c3cad607-9ac6-4919-af2a-c3b20c3af38c.jpg?v=1738629257",
+      "width": 600,
+      "height": 544
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 48.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4381538-21_c3cad607-9ac6-4919-af2a-c3b20c3af38c.jpg?v=1738629257",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "MCR Safety",
+  "category": "Safety",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8254961156184,
+  "title": "London Fog Lil Fruity Samsung Galaxy S25 Case",
+  "handle": "london-fog-lil-fruity-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Squeeze the day with the Pela Lil Fruity Phone Case, a zesty cocktail of summer's sweetest delights that's ripe for the picking. This case, with its London Fog base, is sprinkled with an array of handpicked watermelon slices, tangy lemons, and succulent berries, promising to keep your phone as fresh as a just-picked fruit salad. Each cheerful fruit sketch is a burst of happiness, ready to infuse your daily texts and calls with a dose of vitamin C(uteness). Go on, let your phone bask in a splash of nature's candy—your daily tech just got a whole lot juicier! 🍉🍋🍒</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:10:25-05:00",
+  "created_at": "2025-01-15T11:45:05-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Fruit Salad",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Fruity",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567877689432,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13901-S25-LFOG-AOD:LIL-FRUITY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254961156184,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303573327960,
+      "created_at": "2025-01-15T11:45:05-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:45:07-05:00",
+      "product_id": 8254961156184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_S25_LondonFog.jpg?v=1736959507",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34354876448856,
+      "created_at": "2025-01-22T16:22:19-05:00",
+      "position": 2,
+      "updated_at": "2025-01-22T16:22:24-05:00",
+      "product_id": 8254961156184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP4.jpg?v=1737580944",
+      "width": 3497,
+      "height": 3497
+    },
+    {
+      "id": 34354876481624,
+      "created_at": "2025-01-22T16:22:18-05:00",
+      "position": 3,
+      "updated_at": "2025-01-22T16:22:24-05:00",
+      "product_id": 8254961156184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S25_PDP3.jpg?v=1737580944",
+      "width": 3648,
+      "height": 3648
+    },
+    {
+      "id": 34677469937752,
+      "created_at": "2025-03-12T12:06:49-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T12:06:50-04:00",
+      "product_id": 8254961156184,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FruitSalad7_6087e994-ffa0-4700-8f12-da09cff12130.jpg?v=1741795610",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FRUITY_S25_LondonFog.jpg?v=1736959507",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

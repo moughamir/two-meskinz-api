@@ -1,0 +1,107 @@
+{
+  "id": 5006233403525,
+  "title": "APlusLift 2-Post Car Lift Cylinder Sealing Kit",
+  "handle": "apluslift-2-post-lift-cylinder-sealing-kit",
+  "body_html": "<h3>One car lift cylinder sealing kit for APlusLift and Falcon models.</h3>\n<h3><span style=\"color: red;\">This part is for our customers only. Refunds will not be provided if the part is incompatible with non-our products.</span></h3>",
+  "published_at": "2020-05-05T01:15:09-07:00",
+  "created_at": "2020-05-05T01:15:09-07:00",
+  "updated_at": "2025-09-22T08:43:43-07:00",
+  "vendor": "APlusLift",
+  "product_type": "Car Lift Parts",
+  "tags": [
+    "2-Post Lift Parts"
+  ],
+  "variants": [
+    {
+      "id": 42705742168292,
+      "title": "For HW-10KBP and HW-10KOH",
+      "option1": "For HW-10KBP and HW-10KOH",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 6,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5006233403525,
+      "created_at": "2022-04-01T16:45:49-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 42705742233828,
+      "title": "For HW-10ASY and AP-10SR",
+      "option1": "For HW-10ASY and AP-10SR",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 6,
+      "compare_at_price": null,
+      "position": 2,
+      "product_id": 5006233403525,
+      "created_at": "2022-04-01T16:45:50-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    },
+    {
+      "id": 42705742364900,
+      "title": "For TR-10C and TR-10CX",
+      "option1": "For TR-10C and TR-10CX",
+      "option2": null,
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "45.00",
+      "grams": 6,
+      "compare_at_price": null,
+      "position": 3,
+      "product_id": 5006233403525,
+      "created_at": "2022-04-01T16:45:50-07:00",
+      "updated_at": "2025-09-22T08:43:43-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 19891496911006,
+      "created_at": "2020-11-01T16:25:46-08:00",
+      "position": 1,
+      "updated_at": "2020-11-01T16:25:56-08:00",
+      "product_id": 5006233403525,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-cylinder-sealing-kit.jpg?v=1604276756",
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "options": [
+    {
+      "name": "Model",
+      "position": 1,
+      "values": [
+        "For HW-10KBP and HW-10KOH",
+        "For HW-10ASY and AP-10SR",
+        "For TR-10C and TR-10CX"
+      ]
+    }
+  ],
+  "price": 45,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/1751/1741/products/car-lift-2-post-cylinder-sealing-kit.jpg?v=1604276756",
+  "images_count": 1,
+  "variants_count": 3,
+  "status": "active",
+  "brand": "APlusLift",
+  "category": "Car Lift Parts",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

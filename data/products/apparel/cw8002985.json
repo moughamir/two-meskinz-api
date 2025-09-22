@@ -1,0 +1,67 @@
+{
+  "id": 7785864298663,
+  "title": "Brand: Norton / Part #: 66261009851",
+  "handle": "cw8002985",
+  "body_html": "<br><strong>Item #: </strong>46839056<br><strong>Brand: </strong>Norton<br><strong>Model #: </strong>66261009851<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Maximum Wheel Width (Inch)</strong>\n</td>\n<td>0.5 in</td>\n</tr>\n<tr>\n<td><strong>For Hole Size</strong></td>\n<td>3/8</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>0.2500</td>\n</tr>\n<tr>\n<td><strong>Maximum Wheel Width</strong></td>\n<td>0.5 in</td>\n</tr>\n<tr>\n<td><strong>Connector Type</strong></td>\n<td>Screw-Type Cut-Off Wheel Mandrel</td>\n</tr>\n<tr>\n<td><strong>Minimum Wheel Diameter (Decimal Inch)</strong></td>\n<td>2 in</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T04:56:03-06:00",
+  "created_at": "2023-12-29T04:56:03-06:00",
+  "updated_at": "2025-09-22T10:54:29-05:00",
+  "vendor": "Norton",
+  "product_type": "Abrasives",
+  "tags": [
+    "Grinding & Cutoff"
+  ],
+  "variants": [
+    {
+      "id": 43705679577255,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "46839056",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "68.50",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785864298663,
+      "created_at": "2023-12-29T04:56:03-06:00",
+      "updated_at": "2025-09-22T10:54:29-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237444931751,
+      "created_at": "2025-02-03T18:16:20-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:16:21-06:00",
+      "product_id": 7785864298663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4683905-21.jpg?v=1738628181",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 68.5,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4683905-21.jpg?v=1738628181",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Norton",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

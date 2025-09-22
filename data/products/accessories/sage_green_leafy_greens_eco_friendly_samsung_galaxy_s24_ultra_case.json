@@ -1,0 +1,108 @@
+{
+  "id": 8286011850840,
+  "title": "Sage Green Leafy Greens Samsung Galaxy S24 Ultra Case",
+  "handle": "sage-green-leafy-greens-eco-friendly-samsung-galaxy-s24-ultra-case",
+  "body_html": "<p data-start=\"69\" data-end=\"353\"><meta charset=\"utf-8\">Give your phone the freshest fit around! <meta charset=\"utf-8\">🌿🥬 The Leafy Greens Phone Case is here to add a playful twist of vibrant kale and leafy goodness to your everyday style. This fun, garden-inspired case is perfect for green thumbs, salad enthusiasts, or anyone craving a splash of nature in their pocket.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:55:15-05:00",
+  "created_at": "2025-02-12T10:14:48-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Leafy Greens",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658627846232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13874-S24ULTRA-SAGE-AOD:LEAFY-GREENS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286011850840,
+      "created_at": "2025-02-12T10:14:48-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505571926104,
+      "created_at": "2025-02-12T10:14:48-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:14:50-05:00",
+      "product_id": 8286011850840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_S24ULTRA_SageGreen.jpg?v=1739373290",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34600958197848,
+      "created_at": "2025-02-26T16:01:49-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T16:01:50-05:00",
+      "product_id": 8286011850840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_06_855e860d-a0a5-4a15-a6db-f144e0ab06c8.jpg?v=1740603710",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600958230616,
+      "created_at": "2025-02-26T16:01:49-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T16:01:50-05:00",
+      "product_id": 8286011850840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_2433c669-a40a-430b-a2a3-347c5efddeef.jpg?v=1740603710",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600958263384,
+      "created_at": "2025-02-26T16:01:49-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T16:01:50-05:00",
+      "product_id": 8286011850840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Androids_PDP_1x1_03_32becea1-a6f7-4c5f-b87d-3083dd016b73.jpg?v=1740603710",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_S24ULTRA_SageGreen.jpg?v=1739373290",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

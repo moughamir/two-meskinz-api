@@ -1,0 +1,121 @@
+{
+  "id": 8133938085976,
+  "title": "London Fog Petite Perennials iPhone 16 Pro Max Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-iphone-16-pro-max-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-19T13:40:10-04:00",
+  "created_at": "2024-09-19T12:00:02-04:00",
+  "updated_at": "2025-09-22T15:15:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42275452256344,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17320-IP16PMAX-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8133938085976,
+      "created_at": "2024-09-19T12:00:02-04:00",
+      "updated_at": "2025-09-22T15:15:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33639929774168,
+      "created_at": "2024-09-19T12:00:02-04:00",
+      "position": 1,
+      "updated_at": "2024-09-19T12:00:02-04:00",
+      "product_id": 8133938085976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP16PMAX_LondonFog.jpg?v=1726761602",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671643230296,
+      "created_at": "2025-03-11T14:15:18-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:15:25-04:00",
+      "product_id": 8133938085976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_e7d0b988-5297-4b62-9569-70d4d34d17d8.png?v=1741716925",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671643164760,
+      "created_at": "2025-03-11T14:15:18-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:15:25-04:00",
+      "product_id": 8133938085976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_eb290ed1-12c6-4698-b15b-7386be0dd537.png?v=1741716925",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 34671643197528,
+      "created_at": "2025-03-11T14:15:18-04:00",
+      "position": 4,
+      "updated_at": "2025-03-11T14:15:25-04:00",
+      "product_id": 8133938085976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_830d2312-8dfc-4be2-a364-43a967fd12fe.png?v=1741716925",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 34671643263064,
+      "created_at": "2025-03-11T14:15:18-04:00",
+      "position": 5,
+      "updated_at": "2025-03-11T14:15:25-04:00",
+      "product_id": 8133938085976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_0ebfdf96-cd0c-468f-8e44-8282855ae293.png?v=1741716925",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PETITE-PERENNIALS_IP16PMAX_LondonFog.jpg?v=1726761602",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

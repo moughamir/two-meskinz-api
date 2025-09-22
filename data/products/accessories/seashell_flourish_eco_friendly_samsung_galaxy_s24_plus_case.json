@@ -1,0 +1,108 @@
+{
+  "id": 8320081494104,
+  "title": "Seashell Flourish Samsung Galaxy S24+(Plus) Case",
+  "handle": "seashell-flourish-eco-friendly-samsung-galaxy-s24-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\">Spring has officially sprung—on your phone! The <em data-start=\"83\" data-end=\"93\">Flourish</em> Phone Case is a bloom-filled wonderland sprinkled with bunnies, ducklings, bees, blossoms, and even the occasional hedgehog. It's like a storybook meadow that fits in the palm of your hand, perfect for anyone who loves sunny days, fresh flowers, and all things adorable.<meta charset=\"utf-8\">🐇🌷</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:26:29-04:00",
+  "created_at": "2025-03-20T10:50:41-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756160716888,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13830-S24PLUS-SEASHELL-AOD:FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320081494104,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722015248472,
+      "created_at": "2025-03-20T10:50:41-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:43-04:00",
+      "product_id": 8320081494104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_S24PLUS_Seashell.jpg?v=1742482243",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814170366040,
+      "created_at": "2025-04-10T10:27:13-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:27:17-04:00",
+      "product_id": 8320081494104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_f80dd7c4-6036-4fb7-991e-5b9710193999.jpg?v=1744295237",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814170300504,
+      "created_at": "2025-04-10T10:27:13-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:27:17-04:00",
+      "product_id": 8320081494104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_9ff49789-2e7d-4778-a285-917dabeff3f3.jpg?v=1744295237",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814170333272,
+      "created_at": "2025-04-10T10:27:12-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:27:17-04:00",
+      "product_id": 8320081494104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_cba3e447-7176-487f-ad05-4169e7d3d05d.jpg?v=1744295237",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_S24PLUS_Seashell.jpg?v=1742482243",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 8254919901272,
+  "title": "Honey Summer Paradise Samsung Galaxy S25 Case",
+  "handle": "honey-summer-paradise-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\">Welcome to your own pocket-sized vacation with the Summer Paradise Phone Case! Adorned with delightful, retro-style travel stickers featuring tropical icons like juicy lemons, lush palm trees, and refreshing cocktails, this vibrant design will transport you to a sunny getaway. Perfect for bringing a bit of warmth and fun to your everyday routine, this phone case is the ideal companion for dreamers and adventurers alike. Let the cheerful colors and playful illustrations brighten your day and keep the summer vibes alive all year round. 🍍🍋🌞</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:03:51-05:00",
+  "created_at": "2025-01-15T10:45:08-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Summer Travel",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Summer Paradise",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567771062360,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13902-S25-HONEY-AOD:SUMMER-PARADISE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254919901272,
+      "created_at": "2025-01-15T10:45:08-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303315050584,
+      "created_at": "2025-01-15T10:45:08-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:45:10-05:00",
+      "product_id": 8254919901272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_S25_Honey.jpg?v=1736955910",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678522380376,
+      "created_at": "2025-03-12T16:05:41-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T16:05:42-04:00",
+      "product_id": 8254919901272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_14_b1af9eb8-5b5c-425d-88bc-884a3bfa7e8a.jpg?v=1741809942",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678522347608,
+      "created_at": "2025-03-12T16:05:41-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T16:05:42-04:00",
+      "product_id": 8254919901272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SummerTravel_WebImage_2000x2000_10_d155e18c-6069-4f34-a851-4cbf1bd48853.jpg?v=1741809942",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SUMMER-PARADISE_S25_Honey.jpg?v=1736955910",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

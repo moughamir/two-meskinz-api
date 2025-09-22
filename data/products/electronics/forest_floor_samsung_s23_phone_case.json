@@ -1,0 +1,92 @@
+{
+  "id": 8396682264664,
+  "title": "Forest Floor Samsung S23 Phone Case",
+  "handle": "forest-floor-samsung-s23-phone-case",
+  "body_html": "<span data-mce-fragment=\"1\">Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span>",
+  "published_at": "2025-08-07T09:48:49-04:00",
+  "created_at": "2025-06-09T15:21:39-04:00",
+  "updated_at": "2025-09-22T15:13:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S23",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42936901009496,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "13712-S23-FOREST",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 41,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8396682264664,
+      "created_at": "2025-06-09T15:21:39-04:00",
+      "updated_at": "2025-09-22T15:13:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35240474804312,
+      "created_at": "2025-06-17T09:42:59-04:00",
+      "position": 1,
+      "updated_at": "2025-06-17T09:43:01-04:00",
+      "product_id": 8396682264664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S23_FORESTFLOOR_BACK.jpg?v=1750167781",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35240474935384,
+      "created_at": "2025-06-17T09:42:59-04:00",
+      "position": 2,
+      "updated_at": "2025-06-17T09:43:01-04:00",
+      "product_id": 8396682264664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S23_FORESTFLOOR_BACK45L.jpg?v=1750167781",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35240474771544,
+      "created_at": "2025-06-17T09:42:59-04:00",
+      "position": 3,
+      "updated_at": "2025-06-17T09:43:01-04:00",
+      "product_id": 8396682264664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/S23_FORESTFLOOR_BACK45R.jpg?v=1750167781",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/S23_FORESTFLOOR_BACK.jpg?v=1750167781",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S23",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

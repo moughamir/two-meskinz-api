@@ -1,0 +1,108 @@
+{
+  "id": 8320054591576,
+  "title": "Seashell Surreal Soiree iPhone XR Case",
+  "handle": "seashell-surreal-soiree-eco-friendly-iphone-xr-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dinner is served—<em data-start=\"58\" data-end=\"83\">but not as you know it!</em> The <em data-start=\"88\" data-end=\"104\">Surreal Soirée</em> Phone Case turns the traditional tablescape into a dreamlike masterpiece, featuring floating forks, stacked strawberries, sculptural baguettes, and fish adorned with leafy greens. Inspired by modern surrealism and Salvador Dalí-esque elegance, this case is perfect for those who love a bold, artistic twist on everyday moments.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-08T09:12:57-04:00",
+  "created_at": "2025-03-20T10:17:02-04:00",
+  "updated_at": "2025-09-22T15:14:34-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Surreal Soiree",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Surreal Soiree",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756132700248,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:SURREAL-SOIREE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320054591576,
+      "created_at": "2025-03-20T10:17:02-04:00",
+      "updated_at": "2025-09-22T15:14:34-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34721978548312,
+      "created_at": "2025-03-20T10:17:02-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:17:04-04:00",
+      "product_id": 8320054591576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SURREAL-SOIREE_IPXR_Seashell.jpg?v=1742480224",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34800768811096,
+      "created_at": "2025-04-07T18:54:28-04:00",
+      "position": 2,
+      "updated_at": "2025-04-07T18:54:32-04:00",
+      "product_id": 8320054591576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Friends_PDP_1x1_01_9f9ac5f3-238b-4b2f-8768-b2fad0d358c2.jpg?v=1744066472",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800768843864,
+      "created_at": "2025-04-07T18:54:28-04:00",
+      "position": 3,
+      "updated_at": "2025-04-07T18:54:32-04:00",
+      "product_id": 8320054591576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Androids_PDP_1x1_03_de6dc14f-dde1-4970-8046-446ac32b2355.jpg?v=1744066472",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34800768876632,
+      "created_at": "2025-04-07T18:54:28-04:00",
+      "position": 4,
+      "updated_at": "2025-04-07T18:54:32-04:00",
+      "product_id": 8320054591576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SurrealSoiree_Render_Group_Grid_PDP_1x1_04_52427437-9689-4044-8a8d-58582e13adfb.jpg?v=1744066472",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/SURREAL-SOIREE_IPXR_Seashell.jpg?v=1742480224",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

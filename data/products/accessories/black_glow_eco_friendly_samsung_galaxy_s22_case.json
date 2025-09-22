@@ -1,0 +1,109 @@
+{
+  "id": 7133258973272,
+  "title": "Black Glow Samsung Galaxy S22 Case",
+  "handle": "black-glow-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Light up your world with the Glow Phone Case! 🌌📱 This captivating design features a mesmerizing aurora borealis, with vibrant ribbons of color dancing across a dark, starry sky over a geometric mountain landscape. Perfect for night owls and dreamers who love a bit of magic, the Glow Phone Case will make your device shine bright and stand out from the crowd. Embrace the glow and let your phone be your beacon of style! 🌠✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-09T14:24:11-04:00",
+  "created_at": "2022-05-30T09:50:20-04:00",
+  "updated_at": "2025-09-22T15:16:44-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Pride",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Glow",
+    "Phone Case",
+    "pride",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39954052808792,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13590-S22-BLACK-AOD:GLOW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7133258973272,
+      "created_at": "2022-05-30T09:50:21-04:00",
+      "updated_at": "2025-09-22T15:16:44-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30285610025048,
+      "created_at": "2023-06-09T14:12:23-04:00",
+      "position": 1,
+      "updated_at": "2023-06-09T14:12:23-04:00",
+      "product_id": 7133258973272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_S22_Black_8d4c0280-8340-49a5-8323-cd164524a18f.jpg?v=1686334343",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287721267288,
+      "created_at": "2023-06-13T14:29:41-04:00",
+      "position": 2,
+      "updated_at": "2023-06-13T14:29:42-04:00",
+      "product_id": 7133258973272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/1X5A0588_1_6a69d237-58e3-48be-91ee-63f64c121ee6.jpg?v=1686680982",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287721234520,
+      "created_at": "2023-06-13T14:29:41-04:00",
+      "position": 3,
+      "updated_at": "2023-06-13T14:29:42-04:00",
+      "product_id": 7133258973272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE1_2_e6b60b94-81c8-48c9-aefb-34c996aa99bc.png?v=1686680982",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30287721300056,
+      "created_at": "2023-06-13T14:29:41-04:00",
+      "position": 4,
+      "updated_at": "2023-06-13T14:29:43-04:00",
+      "product_id": 7133258973272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRIDE2_2_66e160d3-bb5b-489b-8f92-9afdd7795e09.png?v=1686680983",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/GLOW_S22_Black_8d4c0280-8340-49a5-8323-cd164524a18f.jpg?v=1686334343",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

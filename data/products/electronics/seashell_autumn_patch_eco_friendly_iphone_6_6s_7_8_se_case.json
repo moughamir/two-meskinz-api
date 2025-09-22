@@ -1,0 +1,119 @@
+{
+  "id": 8439430807640,
+  "title": "Seashell Autumn Patch iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-autumn-patch-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\">Your phone just found its coziest sweater. <meta charset=\"utf-8\">🍂 The Autumn Patch Phone Case is a harvest festival in your hand—complete with pumpkins, acorns, crunchy leaves, and a sprinkle of woodland charm. Whether you’re sipping cider, picking apples, or just pretending it’s sweater weather all year long, this case wraps your phone in peak fall vibes. Durable, protective, and oh-so-seasonal, it’s basically PSL-approved.<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T08:48:31-04:00",
+  "created_at": "2025-07-31T10:16:53-04:00",
+  "updated_at": "2025-09-22T15:13:23-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Autumn Patch",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43090810994776,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:AUTUMN-PATCH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8439430807640,
+      "created_at": "2025-07-31T10:16:53-04:00",
+      "updated_at": "2025-09-22T15:13:23-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35513807011928,
+      "created_at": "2025-07-31T10:16:53-04:00",
+      "position": 1,
+      "updated_at": "2025-07-31T10:16:56-04:00",
+      "product_id": 8439430807640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-PATCH_IP7_Seashell.jpg?v=1753971416",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35620848795736,
+      "created_at": "2025-08-19T13:29:11-04:00",
+      "position": 2,
+      "updated_at": "2025-08-19T13:29:11-04:00",
+      "product_id": 8439430807640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a67d7cc50b678c3431c927e0e0c7be50_9b3d37af-9ad7-4efa-a024-6f250a321e50.jpg?v=1755624551",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620849287256,
+      "created_at": "2025-08-19T13:29:12-04:00",
+      "position": 3,
+      "updated_at": "2025-08-19T13:29:12-04:00",
+      "product_id": 8439430807640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/54d9a8e95555c8373c590e059dc1929c_d1b4978d-5b65-4c85-a0b2-487efd22f27a.jpg?v=1755624552",
+      "width": 2044,
+      "height": 2048
+    },
+    {
+      "id": 35620849680472,
+      "created_at": "2025-08-19T13:29:14-04:00",
+      "position": 4,
+      "updated_at": "2025-08-19T13:29:14-04:00",
+      "product_id": 8439430807640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/716d192d62b6bf4c27daad66ff99d683_75a47902-cae3-4835-b17a-1fe69f142e8f.jpg?v=1755624554",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 35620850139224,
+      "created_at": "2025-08-19T13:29:15-04:00",
+      "position": 5,
+      "updated_at": "2025-08-19T13:29:15-04:00",
+      "product_id": 8439430807640,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b3fceaba98b549fd1ed5199f45ac77e9_e80622ea-1ad3-4949-9ac8-a7d804b14c86.jpg?v=1755624555",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AUTUMN-PATCH_IP7_Seashell.jpg?v=1753971416",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

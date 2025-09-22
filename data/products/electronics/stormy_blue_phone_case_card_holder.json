@@ -1,0 +1,92 @@
+{
+  "id": 7744139133016,
+  "title": "Stormy Blue Phone Case Card Holder",
+  "handle": "stormy-blue-phone-case-card-holder",
+  "body_html": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Two things you always have on you are your phone and your wallet - ditch the wallet and lighten your load with the the compostable Pela card holder! The Pela card holders securely stick to the back of nearly any Pela case utilizing an adhesive attachment to create a thin, durable, low profile combo! Level up your phone case while protecting your cards and the planet!</span><br data-mce-fragment=\"1\"></p>\n<p data-mce-fragment=\"1\"><span style=\"color: #ff2a00;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Phone Case is not Included.</strong></span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Not compatible with Classic cases for iPhone 13 mini, iPhone 12 mini, iPhone 5/5s, Samsung S23, Samsung S20 or Google Pixel 5. Not compatible with Clear cases for iPhone 13 mini, iPhone 12 mini, iPhone 6/6s/7/8/SE, iPhone 11 Pro, iPhone X/XS, Google Pixel 6 and Google Pixel 6 Pro.</strong></span></p>",
+  "published_at": "2024-05-27T15:47:08-04:00",
+  "created_at": "2024-04-10T10:22:49-04:00",
+  "updated_at": "2025-09-22T15:16:06-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Card Holder",
+  "tags": [
+    "accessory",
+    "CARDH",
+    "new accessory"
+  ],
+  "variants": [
+    {
+      "id": 41416045822040,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25573-CARDH-STORMBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "20.00",
+      "grams": 7,
+      "compare_at_price": "20.00",
+      "position": 1,
+      "product_id": 7744139133016,
+      "created_at": "2024-04-10T10:22:49-04:00",
+      "updated_at": "2025-09-22T15:16:06-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640200343640,
+      "created_at": "2024-04-16T14:24:58-04:00",
+      "position": 1,
+      "updated_at": "2024-04-16T14:25:02-04:00",
+      "product_id": 7744139133016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_STORMYBLUE_45L_NO_CARDS.jpg?v=1713291902",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640200310872,
+      "created_at": "2024-04-16T14:24:58-04:00",
+      "position": 2,
+      "updated_at": "2024-04-16T14:25:02-04:00",
+      "product_id": 7744139133016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_STORMYBLUE_45L_CARDS_NEW.jpg?v=1713291902",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640200278104,
+      "created_at": "2024-04-16T14:24:58-04:00",
+      "position": 3,
+      "updated_at": "2024-04-16T14:25:00-04:00",
+      "product_id": 7744139133016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_STORMYBLUE_ON_PHONE.jpg?v=1713291900",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "compare_at_price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Card_Holder_STORMYBLUE_45L_NO_CARDS.jpg?v=1713291902",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Card Holder",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

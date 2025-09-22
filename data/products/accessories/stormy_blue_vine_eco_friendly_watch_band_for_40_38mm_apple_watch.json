@@ -1,0 +1,92 @@
+{
+  "id": 6551550623832,
+  "title": "Stormy Blue - Vine - Watch Band for 40/38mm Apple Watch",
+  "handle": "stormy-blue-vine-eco-friendly-watch-band-for-40-38mm-apple-watch",
+  "body_html": "Stormy Blue - Vine - Watch Band for 40/38mm Apple Watch",
+  "published_at": "2023-07-27T16:22:30-04:00",
+  "created_at": "2021-03-11T09:46:19-05:00",
+  "updated_at": "2025-09-22T15:16:38-04:00",
+  "vendor": "Pela Case",
+  "product_type": "40/38mm Apple Watch",
+  "tags": [
+    "accessory",
+    "Apple Watch",
+    "Vine40mm"
+  ],
+  "variants": [
+    {
+      "id": 39283499728984,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25337-VINE40m-STORMBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "50.00",
+      "grams": 23,
+      "compare_at_price": "50.00",
+      "position": 1,
+      "product_id": 6551550623832,
+      "created_at": "2021-03-11T09:46:19-05:00",
+      "updated_at": "2025-09-22T15:16:38-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28179438469208,
+      "created_at": "2021-05-10T10:33:00-04:00",
+      "position": 1,
+      "updated_at": "2021-05-10T10:33:01-04:00",
+      "product_id": 6551550623832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE_40_38_STORMYBLUE_3.jpg?v=1620657181",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28179438501976,
+      "created_at": "2021-05-10T10:33:00-04:00",
+      "position": 2,
+      "updated_at": "2021-05-10T10:33:01-04:00",
+      "product_id": 6551550623832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE_40_38_STORMYBLUE_1.jpg?v=1620657181",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28179438534744,
+      "created_at": "2021-05-10T10:33:00-04:00",
+      "position": 3,
+      "updated_at": "2021-05-10T10:33:01-04:00",
+      "product_id": 6551550623832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE_40_38_STORMYBLUE_2.jpg?v=1620657181",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 50,
+  "compare_at_price": 50,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/VINE_40_38_STORMYBLUE_3.jpg?v=1620657181",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "40/38mm Apple Watch",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

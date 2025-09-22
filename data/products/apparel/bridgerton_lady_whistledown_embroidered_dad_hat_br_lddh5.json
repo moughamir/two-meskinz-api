@@ -1,0 +1,94 @@
+{
+  "id": 7919063597103,
+  "title": "Bridgerton Lady Whistledown Embroidered Dad Hat",
+  "handle": "bridgerton-lady-whistledown-embroidered-dad-hat-br-lddh5",
+  "body_html": "<p>Step into the scandalous charm of the Ton with the <em>Bridgerton </em>Lady Whistledown Embroidered Dad Hat. Perfect for keeping your secrets under wraps—or spreading a few. Stylish, timeless, and delightfully gossipy, it's the ultimate accessory for those who dare to make headlines.</p>\n<ul>\n<li>Made of: 100% chino cotton twill</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2025-02-10T17:38:22-05:00",
+  "created_at": "2025-01-30T06:56:12-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "Accessories",
+    "Bridgerton",
+    "Hats",
+    "SNOW-01-0125",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43572391772207,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BRDGTN-101082-0004-BR-LDDH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "24.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7919063597103,
+      "created_at": "2025-01-30T06:56:12-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35970688909359,
+      "created_at": "2025-04-23T20:27:15-04:00",
+      "position": 1,
+      "updated_at": "2025-04-23T20:28:07-04:00",
+      "product_id": 7919063597103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-LDDH_52_101082_FT_MF_fd1ed8b4-5fdd-4194-9ac5-9bd54c9a9fe9.png?v=1745454487",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427634118703,
+      "created_at": "2025-01-30T06:56:12-05:00",
+      "position": 2,
+      "updated_at": "2025-04-23T20:28:07-04:00",
+      "product_id": 7919063597103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-LDDH_52_101082_LIFE.png?v=1745454487",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35427634085935,
+      "created_at": "2025-01-30T06:56:12-05:00",
+      "position": 3,
+      "updated_at": "2025-04-23T20:28:07-04:00",
+      "product_id": 7919063597103,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-LDDH_52_101082_FT_MF2.png?v=1745454487",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 24.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-LDDH_52_101082_FT_MF_fd1ed8b4-5fdd-4194-9ac5-9bd54c9a9fe9.png?v=1745454487",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

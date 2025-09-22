@@ -1,0 +1,114 @@
+{
+  "id": 7051712069741,
+  "title": "Star Magnolia",
+  "handle": "star-magnolia",
+  "body_html": "<p><strong>Muguet</strong>, <strong>magnolia</strong>, and <strong>bergamot</strong> are enhanced by <strong>yuzu</strong>, <strong>neroli</strong>, and <strong>amber</strong> to create an intriguing blend you haven’t smelled before.</p>",
+  "published_at": "2023-08-14T19:52:00-06:00",
+  "created_at": "2023-08-09T16:20:24-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Relaxing",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances",
+    "YGroup_starmagnolia"
+  ],
+  "variants": [
+    {
+      "id": 40702265491565,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KPEH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7051712069741,
+      "created_at": "2023-08-09T16:20:25-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30340883284077,
+      "created_at": "2023-08-11T20:06:57-06:00",
+      "position": 1,
+      "updated_at": "2023-08-11T20:07:03-06:00",
+      "product_id": 7051712069741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCOStarMagnoliaresized.jpg?v=1691806023",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30329807765613,
+      "created_at": "2023-08-09T16:20:32-06:00",
+      "position": 2,
+      "updated_at": "2023-08-11T20:07:03-06:00",
+      "product_id": 7051712069741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/StarMagnolia_Prod_2_a131371a-be71-49a6-9e2d-a8d82e98c49d.jpg?v=1691806023",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": 30340883218541,
+      "created_at": "2023-08-11T20:06:57-06:00",
+      "position": 3,
+      "updated_at": "2023-08-11T20:07:03-06:00",
+      "product_id": 7051712069741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Lafco-Star-Magnolia-Device-V4.jpg?v=1691806023",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30340883415149,
+      "created_at": "2023-08-11T20:06:57-06:00",
+      "position": 4,
+      "updated_at": "2023-08-11T20:07:03-06:00",
+      "product_id": 7051712069741,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCOStarMagnoliaresized-2.jpg?v=1691806023",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCOStarMagnoliaresized.jpg?v=1691806023",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

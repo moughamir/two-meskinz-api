@@ -1,0 +1,67 @@
+{
+  "id": 8452540792999,
+  "title": "Triangle & Triangle, Type 2 Web Sling: 4' Long, 2\" Wide, 3200 lb Vertical Capacity, Polyester",
+  "handle": "35006261",
+  "body_html": "<br><strong>Item #: </strong>05297338<br><strong>Brand: </strong>Liftex<br><strong>Model #: </strong>BHS192X4PD<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Sling Type</strong>\n</td>\n<td>Triangle &amp; Triangle, Type 2</td>\n</tr>\n<tr> <td> <strong>Sling Material</strong>\n</td>\n<td>Polyester</td>\n</tr>\n<tr> <td> <strong>Sling Length (Feet)</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Sling Width (Inch)</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Number of Legs</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Leg Length (Inch)</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Vertical Capacity (Lb.)</strong>\n</td>\n<td>3200</td>\n</tr>\n<tr> <td> <strong>Basket Capacity (Lbs)</strong>\n</td>\n<td>6400</td>\n</tr>\n<tr> <td> <strong>Number Of Plies</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Hardware Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Color</strong>\n</td>\n<td>Yellow</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:23:22-06:00",
+  "created_at": "2025-01-23T09:23:21-06:00",
+  "updated_at": "2025-09-22T10:52:20-05:00",
+  "vendor": "Liftex",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Material Lifting"
+  ],
+  "variants": [
+    {
+      "id": 46498021376167,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05297338",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "148.31",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452540792999,
+      "created_at": "2025-01-23T09:23:21-06:00",
+      "updated_at": "2025-09-22T10:52:20-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242413150375,
+      "created_at": "2025-02-03T21:31:28-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:31:30-06:00",
+      "product_id": 8452540792999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0597946-21_32f8e822-bb44-4bc5-ae7f-7881496a02ec.jpg?v=1738639890",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 148.31,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0597946-21_32f8e822-bb44-4bc5-ae7f-7881496a02ec.jpg?v=1738639890",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Liftex",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

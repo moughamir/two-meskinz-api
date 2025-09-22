@@ -1,0 +1,76 @@
+{
+  "id": 7207103561816,
+  "title": "Powder Blue Spiral iPhone 11 Case",
+  "handle": "powder-blue-spiral-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Dive into a vortex of color with the Spiral Phone Case! Featuring a mesmerizing swirl of blues and purples, this case creates a stunning optical illusion that captivates the eye. Whether you're looking to add a pop of fun to your day or hypnotize your friends with its trippy design, the Spiral Phone Case is the perfect blend of style and environmental consciousness. 🌌📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-08T08:22:16-04:00",
+  "created_at": "2022-08-08T09:51:07-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Festival",
+    "excludeFromCollection",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Spiral",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40020444250200,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16227-IP11-POWDERBLUE-AOD:SPIRAL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7207103561816,
+      "created_at": "2022-08-08T09:51:08-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30232759271512,
+      "created_at": "2023-03-30T10:27:05-04:00",
+      "position": 1,
+      "updated_at": "2023-03-30T10:27:05-04:00",
+      "product_id": 7207103561816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SPIRAL_IP11_PowderBlue_e8d62b51-0bbe-4543-b33f-3a68acd3e155.jpg?v=1680186425",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SPIRAL_IP11_PowderBlue_e8d62b51-0bbe-4543-b33f-3a68acd3e155.jpg?v=1680186425",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

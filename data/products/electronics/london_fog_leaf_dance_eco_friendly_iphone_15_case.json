@@ -1,0 +1,111 @@
+{
+  "id": 8142177468504,
+  "title": "London Fog Leaf Dance iPhone 15 Case",
+  "handle": "london-fog-leaf-dance-eco-friendly-iphone-15-case",
+  "body_html": "<p class=\"p1\">Get ready for a swirl of fun with the Leaf Dance Phone Case! 🍂💃 This bold and artistic design features abstract leaves and playful shapes in earthy reds, blues, and greens, creating a flowy, whimsical vibe. Perfect for those who love to twirl through life with a touch of nature’s flair, this case adds a dash of artistic expression while keeping your phone safe and stylish.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:45:49-04:00",
+  "created_at": "2024-09-25T12:26:15-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Leaf Dance",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294274883672,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16990-IP15-LFOG-AOD:LEAF-DANCE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142177468504,
+      "created_at": "2024-09-25T12:26:15-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677678280792,
+      "created_at": "2024-09-25T12:26:15-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:15-04:00",
+      "product_id": 8142177468504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-DANCE_IP15_LondonFog.jpg?v=1727281575",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749413920856,
+      "created_at": "2024-10-09T17:19:43-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:19:44-04:00",
+      "product_id": 8142177468504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFDANCE_PDP2_8347f639-8ee4-4b2b-9b10-a6993d78535d.jpg?v=1728508784",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749413953624,
+      "created_at": "2024-10-09T17:19:43-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:19:44-04:00",
+      "product_id": 8142177468504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFDANCE_PDP1_50d8cd4e-a7d4-4655-ae72-77f2b166c15a.jpg?v=1728508784",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749413986392,
+      "created_at": "2024-10-09T17:19:43-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:19:44-04:00",
+      "product_id": 8142177468504,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_9e1adc84-389e-46a9-8beb-dbf11c0fa63d.jpg?v=1728508784",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAF-DANCE_IP15_LondonFog.jpg?v=1727281575",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

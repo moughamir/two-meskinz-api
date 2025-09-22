@@ -1,0 +1,140 @@
+{
+  "id": 8444707897432,
+  "title": "Seashell Fruity Cutie iPhone 17 Pro Max Case",
+  "handle": "seashell-fruity-cutie-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Get ready to turn up the charm with the Fruity Cutie Phone Case! 🍓🍒🍋 This case is a cheerful celebration of all things sweet and sunny, featuring a delightful mix of smiling strawberries, cherries, lemons, and apples—plus playful flowers and a mushroom or two, because why not?</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T15:25:07-04:00",
+  "created_at": "2025-08-08T11:51:59-04:00",
+  "updated_at": "2025-09-22T15:12:57-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Kidult",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fruity Cutie",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184240001112,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:FRUITY-CUTIE_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444707897432,
+      "created_at": "2025-09-03T18:48:32-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    },
+    {
+      "id": 43184240033880,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17581-IP17PMAX-SEASHELL-AOD:FRUITY-CUTIE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444707897432,
+      "created_at": "2025-09-03T18:48:32-04:00",
+      "updated_at": "2025-09-22T15:12:57-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567307391064,
+      "created_at": "2025-08-08T11:51:59-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:52:01-04:00",
+      "product_id": 8444707897432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRUITY-CUTIE_IP17PMAX_Seashell.jpg?v=1754668321",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35288763990104,
+      "created_at": "2025-06-24T14:41:51-04:00",
+      "position": 2,
+      "updated_at": "2025-08-13T15:42:59-04:00",
+      "product_id": 8444707897432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Fruity_Cutie_1.jpg?v=1755114179",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35288764252248,
+      "created_at": "2025-06-24T14:41:53-04:00",
+      "position": 3,
+      "updated_at": "2025-08-13T15:43:12-04:00",
+      "product_id": 8444707897432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Fruity_Cutie_2.jpg?v=1755114192",
+      "width": 4290,
+      "height": 4290
+    },
+    {
+      "id": 35288764579928,
+      "created_at": "2025-06-24T14:41:54-04:00",
+      "position": 4,
+      "updated_at": "2025-08-13T15:43:28-04:00",
+      "product_id": 8444707897432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Fruity_Cutie_3.jpg?v=1755114208",
+      "width": 4224,
+      "height": 4224
+    },
+    {
+      "id": 35288764842072,
+      "created_at": "2025-06-24T14:41:56-04:00",
+      "position": 5,
+      "updated_at": "2025-08-13T15:43:39-04:00",
+      "product_id": 8444707897432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Fruity_Cutie_4.jpg?v=1755114219",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FRUITY-CUTIE_IP17PMAX_Seashell.jpg?v=1754668321",
+  "images_count": 5,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

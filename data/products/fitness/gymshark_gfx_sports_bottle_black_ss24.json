@@ -1,0 +1,117 @@
+{
+  "id": 6805543125194,
+  "title": "Gymshark GFX Sports Bottle - Black",
+  "handle": "gymshark-gfx-sports-bottle-black-ss24",
+  "body_html": "<p><strong>H2O ON THE GO</strong></p>\n<p><br data-mce-fragment=\"1\">Keep track of how much you’re drinking throughout the day with the Sports Bottle. Stay hydrated folks.</p>\n<p> </p>\n<p>• Wrist strap for easy carrying<br data-mce-fragment=\"1\">• Flip lock on the lid to keep it secure<br data-mce-fragment=\"1\">• ml/oz markings on the side to keep track of how much you’re drinking<br data-mce-fragment=\"1\">• Graphic design</p>\n<p><br data-mce-fragment=\"1\"><strong>SIZE &amp; FIT</strong><br data-mce-fragment=\"1\">• Volume: 1 litre<br data-mce-fragment=\"1\">• Size: 28cm x 7.5cm</p>\n<p><br data-mce-fragment=\"1\"><strong>MATERIALS &amp; CARE</strong><br data-mce-fragment=\"1\">• BPA FREE<br data-mce-fragment=\"1\">• Not dishwasher safe<br data-mce-fragment=\"1\">• Do not microwave</p>\n<p><br data-mce-fragment=\"1\"><strong>*Note:for hygiene reasons, all our bottles and shakers are non-refundable.</strong></p>\n<p><br data-mce-fragment=\"1\">SKU:  I3A7U-BB2J<br data-mce-fragment=\"1\"></p>",
+  "published_at": "2024-04-18T09:12:50-07:00",
+  "created_at": "2023-10-26T08:01:30-07:00",
+  "updated_at": "2025-09-22T08:45:53-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "acc-lower-bucket",
+    "accessories",
+    "activity:Conditioning",
+    "akeneo_updated_at:1752486564",
+    "all-products",
+    "black-staples",
+    "bottles",
+    "build-your-wishlist",
+    "category:Bottles",
+    "conditioning",
+    "created_by:product-service",
+    "division:Accessories",
+    "filter-colour:Black",
+    "functional-fitness",
+    "hiit",
+    "lower-bucket",
+    "no-returns",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Conditioning Goods",
+    "seamtype:Accessories",
+    "season:SS24",
+    "segmentation:Conditioning",
+    "stocking-fillers",
+    "subcategory:Small Plastic",
+    "tier:1"
+  ],
+  "variants": [
+    {
+      "id": 39790552940746,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A7U-BB2J-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "20.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805543125194,
+      "created_at": "2023-10-26T08:01:30-07:00",
+      "updated_at": "2025-09-22T08:45:53-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28981103395018,
+      "created_at": "2024-04-23T07:11:21-07:00",
+      "position": 1,
+      "updated_at": "2024-04-23T07:11:25-07:00",
+      "product_id": 6805543125194,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXSportsBottleGSBlackI3A7U-BB2J-0055.jpg?v=1713881485",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981103132874,
+      "created_at": "2024-04-23T07:11:21-07:00",
+      "position": 2,
+      "updated_at": "2024-04-23T07:11:24-07:00",
+      "product_id": 6805543125194,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXSportsBottleGSBlackI3A7U-BB2J-0057.jpg?v=1713881484",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28981102739658,
+      "created_at": "2024-04-23T07:11:21-07:00",
+      "position": 3,
+      "updated_at": "2024-04-23T07:11:23-07:00",
+      "product_id": 6805543125194,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXSportsBottleGSBlackI3A7U-BB2J-0059.jpg?v=1713881483",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 20,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/GFXSportsBottleGSBlackI3A7U-BB2J-0055.jpg?v=1713881485",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

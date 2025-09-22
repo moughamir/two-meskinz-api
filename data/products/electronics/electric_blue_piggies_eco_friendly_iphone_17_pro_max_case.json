@@ -1,0 +1,118 @@
+{
+  "id": 8444700622936,
+  "title": "Electric Blue Piggies iPhone 17 Pro Max Case",
+  "handle": "electric-blue-piggies-eco-friendly-iphone-17-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\">Oink oink—your phone just got a whole lot cuter! <meta charset=\"utf-8\">🐷<meta charset=\"utf-8\">💙 The <em data-start=\"86\" data-end=\"95\">Piggies</em> Phone Case is packed with plump, pink pigs playfully prancing across a bold blue background. It’s giving barnyard chic, curly tail energy, and undeniable charm in every scroll. Whether you're a piglet enthusiast or just love a design that makes you smile, this one’s a total squeal.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T14:58:42-04:00",
+  "created_at": "2025-08-08T11:51:32-04:00",
+  "updated_at": "2025-09-22T15:13:02-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 17 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Farm Life",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Piggies",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184133472344,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17584-IP17PMAX-ELEBLUE-AOD:PIGGIES_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444700622936,
+      "created_at": "2025-09-03T18:31:27-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    },
+    {
+      "id": 43184133505112,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17584-IP17PMAX-ELEBLUE-AOD:PIGGIES",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444700622936,
+      "created_at": "2025-09-03T18:31:27-04:00",
+      "updated_at": "2025-09-22T15:13:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567291269208,
+      "created_at": "2025-08-08T11:51:33-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:51:35-04:00",
+      "product_id": 8444700622936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIGGIES_IP17PMAX_ElectricBlue.jpg?v=1754668295",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34902103294040,
+      "created_at": "2025-04-25T17:36:54-04:00",
+      "position": 2,
+      "updated_at": "2025-04-25T17:36:56-04:00",
+      "product_id": 8444700622936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_Piggies_PDP_01_41c22f6c-3815-459f-918a-2d751e5fd9f4.jpg?v=1745617016",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34902103261272,
+      "created_at": "2025-04-25T17:36:54-04:00",
+      "position": 3,
+      "updated_at": "2025-04-25T17:36:55-04:00",
+      "product_id": 8444700622936,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FarmLife_Piggies_PDP_02_da5a32c5-b338-4d24-bc0e-337adede7c3b.jpg?v=1745617015",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PIGGIES_IP17PMAX_ElectricBlue.jpg?v=1754668295",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 17 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

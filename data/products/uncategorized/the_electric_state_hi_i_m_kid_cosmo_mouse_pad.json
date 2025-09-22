@@ -1,0 +1,101 @@
+{
+  "id": 7942885834799,
+  "title": "The Electric State Hi, I'm Kid Cosmo Mouse Pad",
+  "handle": "the-electric-state-hi-i-m-kid-cosmo-mouse-pad",
+  "body_html": "<p>Add a playful touch to your desk with <em>The Electric State </em>Hi, I'm Kid Cosmo Mouse Pad! Featuring the iconic Kid Cosmo along with his signature greeting, \"Hi, I'm Kid Cosmo\", this mouse pad brings the futuristic charm of <em>The Electric State </em>right to your workspace. With a smooth, durable surface for easy navigation and a vibrant design, it's perfect for fans looking to infuse their environment with some extra personality.</p><ul>\n<li>Made of: Soft 100% polyester surface</li>\n<li>Natural rubber base</li>\n<li>Rounded edges</li>\n<li>Size: 8.7\" × 7.1\" × 0.12\"</li>\n</ul>",
+  "published_at": "2025-03-14T13:44:59-04:00",
+  "created_at": "2025-03-14T12:18:36-04:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "printful2",
+  "product_type": "Mouse Pads",
+  "tags": [
+    "81601562",
+    "All-Over Print",
+    "Home  Office",
+    "Mouse Pad",
+    "Mouse Pads",
+    "new",
+    "Tech Accessories",
+    "The Electric State",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43664751263791,
+      "title": "One Size",
+      "option1": "One Size",
+      "option2": null,
+      "option3": null,
+      "sku": "ES-101630-0001-ES-KCSMPT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35714180874287,
+        "product_id": 7942885834799,
+        "position": 1,
+        "created_at": "2025-03-14T12:18:36-04:00",
+        "updated_at": "2025-03-14T12:18:36-04:00",
+        "alt": null,
+        "width": 1500,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-KCSMPT_59_101691_MF.jpg?v=1741969116",
+        "variant_ids": [
+          43664751263791
+        ]
+      },
+      "available": true,
+      "price": "19.95",
+      "grams": 907,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7942885834799,
+      "created_at": "2025-03-14T12:18:36-04:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35714180874287,
+      "created_at": "2025-03-14T12:18:36-04:00",
+      "position": 1,
+      "updated_at": "2025-03-14T12:18:36-04:00",
+      "product_id": 7942885834799,
+      "variant_ids": [
+        43664751263791
+      ],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-KCSMPT_59_101691_MF.jpg?v=1741969116",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 35714180907055,
+      "created_at": "2025-03-14T12:18:36-04:00",
+      "position": 2,
+      "updated_at": "2025-03-14T12:18:36-04:00",
+      "product_id": 7942885834799,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-KCSMPT_59_101691_LIFE.jpg?v=1741969116",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "One Size"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ES-KCSMPT_59_101691_MF.jpg?v=1741969116",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Mouse Pads",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 8142175535192,
+  "title": "Seashell Fall Flourish iPhone 13 Case",
+  "handle": "seashell-fall-flourish-eco-friendly-iphone-13-case",
+  "body_html": "<p class=\"p1\">Embrace the cozy vibes of the season with the Fall Flourish Phone Case! 🍂🍄 Bursting with autumn-inspired blooms, earthy mushrooms, and whimsical shapes in rich, warm tones, this case will have you feeling all the fall feels. Whether you’re sipping on pumpkin spice or taking a stroll through colorful leaves, this case will keep your phone stylish and protected with a flourish of nature’s charm. Perfect for autumn lovers who want to bring the beauty of the season wherever they go! 🌻🍁📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:44:19-04:00",
+  "created_at": "2024-09-25T12:26:06-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Fall Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294272524376,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16691-IP13-SEASHELL-AOD:FALL-FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142175535192,
+      "created_at": "2024-09-25T12:26:06-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677676052568,
+      "created_at": "2024-09-25T12:26:06-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:06-04:00",
+      "product_id": 8142175535192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP13_Seashell.jpg?v=1727281566",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749446951000,
+      "created_at": "2024-10-09T17:33:22-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:33:24-04:00",
+      "product_id": 8142175535192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP2_149d2353-bed6-4a0e-87b0-73b5c478a5f4.jpg?v=1728509604",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749446885464,
+      "created_at": "2024-10-09T17:33:22-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:33:23-04:00",
+      "product_id": 8142175535192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALLFLOURISH_PDP1_ddea06a8-028e-48d6-a4ff-698c306da47d.jpg?v=1728509603",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749446918232,
+      "created_at": "2024-10-09T17:33:22-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:33:24-04:00",
+      "product_id": 8142175535192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_b7f5fd02-4925-418b-9457-6a494d4f3d68.jpg?v=1728509604",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FALL-FLOURISH_IP13_Seashell.jpg?v=1727281566",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

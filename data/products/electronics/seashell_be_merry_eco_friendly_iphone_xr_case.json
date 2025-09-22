@@ -1,0 +1,130 @@
+{
+  "id": 8159691866200,
+  "title": "Seashell Be Merry iPhone XR Case",
+  "handle": "seashell-be-merry-eco-friendly-iphone-xr-case",
+  "body_html": "<p class=\"p1\">Spread the holiday cheer with the Be Merry Phone Case! 🌲✨ Adorned with festive gingerbread cookies, holly, bows, and sprigs of mistletoe, this case brings all the cozy vibes of the season right to your phone. It’s the perfect holiday accessory for keeping your phone safe while adding a touch of merry magic to your everyday. Lightweight, durable, and full of seasonal spirit—this case is a must-have for spreading joy all winter long! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:16:03-04:00",
+  "created_at": "2024-10-16T10:40:27-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone XR",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Be Merry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333270311000,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13095-IPXR-SEASHELL-AOD:BE-MERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159691866200,
+      "created_at": "2024-10-16T10:40:27-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799053443160,
+      "created_at": "2024-10-16T10:40:27-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:27-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IPXR_Seashell.jpg?v=1729089627",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33839150694488,
+      "created_at": "2024-10-22T13:19:33-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T13:19:35-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP1_6352ea3f-0c75-4a70-96ae-abf9bb267346.jpg?v=1729617575",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839150760024,
+      "created_at": "2024-10-22T13:19:33-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T13:19:35-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP2_977f0da6-b768-42d8-bb32-2bded98a8c5f.jpg?v=1729617575",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839150792792,
+      "created_at": "2024-10-22T13:19:33-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T13:19:35-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP3_03cb7cfa-5473-43e2-813e-50f60bc93af6.jpg?v=1729617575",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839150825560,
+      "created_at": "2024-10-22T13:19:33-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T13:19:35-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP4_37ce3efc-c8ef-4f22-aa8a-3e7b08aec4f9.jpg?v=1729617575",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839150727256,
+      "created_at": "2024-10-22T13:19:33-04:00",
+      "position": 6,
+      "updated_at": "2024-10-22T13:19:35-04:00",
+      "product_id": 8159691866200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP5_feeb1747-8d50-46b0-82be-a09188998cf4.jpg?v=1729617575",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IPXR_Seashell.jpg?v=1729089627",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone XR",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

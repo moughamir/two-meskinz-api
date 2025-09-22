@@ -1,0 +1,101 @@
+{
+  "id": 7886003372079,
+  "title": "Hellfire Club Holiday Kitchen Towel",
+  "handle": "hellfire-club-holiday-kitchen-towel",
+  "body_html": "<p>Have a Hellfire Holiday with the <em>Hellfire Club </em>Holiday Kitchen Towel! Whether you're hosting a <em>Stranger Things</em>-themed holiday party, celebrating with friends, or just adding a bit of Hawkins' rebellious spirit to your kitchen, this towel is a must-have for fans of the show.</p>\n<ul>\n<li>16\" x 24\"</li>\n<li>Microfiber Cloth (80% Polyester, 20% Polyamide)</li>\n<li>Superior Absorbency</li>\n<li>Fast Dry</li>\n<li>Cold water washing and low heat drying or hand wash</li>\n<li>No bleach</li>\n</ul>",
+  "published_at": "2024-12-11T10:49:22-05:00",
+  "created_at": "2024-12-10T03:34:55-05:00",
+  "updated_at": "2025-09-22T11:40:55-04:00",
+  "vendor": "progift",
+  "product_type": "Kitchen Towels",
+  "tags": [
+    "80057281",
+    "Dish Towels",
+    "Gifting",
+    "Holiday",
+    "Home & Office",
+    "home and office",
+    "Kitchen Accessories",
+    "Kitchen Towels",
+    "Stranger Things",
+    "Title: Stranger Things",
+    "Towels",
+    "unisex",
+    "Waffle Tea Towel"
+  ],
+  "variants": [
+    {
+      "id": 43463204798511,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ST-101814-0001-ST-HLTW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.95",
+      "grams": 113,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7886003372079,
+      "created_at": "2024-12-10T03:34:55-05:00",
+      "updated_at": "2025-09-22T11:40:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35154060771375,
+      "created_at": "2024-12-10T03:34:55-05:00",
+      "position": 1,
+      "updated_at": "2024-12-10T22:05:33-05:00",
+      "product_id": 7886003372079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLTW_101814_LIFE.jpg?v=1733886333",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154060705839,
+      "created_at": "2024-12-10T03:34:55-05:00",
+      "position": 2,
+      "updated_at": "2024-12-10T22:05:33-05:00",
+      "product_id": 7886003372079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLTW_101814_MF.jpg?v=1733886333",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154060738607,
+      "created_at": "2024-12-10T03:34:55-05:00",
+      "position": 3,
+      "updated_at": "2024-12-10T22:05:33-05:00",
+      "product_id": 7886003372079,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLTW_101814_RO.jpg?v=1733886333",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/ST-HLTW_101814_LIFE.jpg?v=1733886333",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "progift",
+  "category": "Kitchen Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

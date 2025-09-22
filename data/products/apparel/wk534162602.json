@@ -1,0 +1,67 @@
+{
+  "id": 7785402826919,
+  "title": "Brand: Panduit / Part #: SP2-2L-C",
+  "handle": "wk534162602",
+  "body_html": "<br><strong>Item #: </strong>38975082<br><strong>Brand: </strong>Panduit<br><strong>Model #: </strong>SP2-2L-C<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Connector Material</strong>\n</td>\n<td>Copper</td>\n</tr>\n<tr>\n<td><strong>Minimum Compatible Wire Size</strong></td>\n<td>10 AWG</td>\n</tr>\n<tr>\n<td><strong>Maximum Compatible Wire Size</strong></td>\n<td>2 AWG</td>\n</tr>\n<tr>\n<td><strong>Pressure Bar Material</strong></td>\n<td>Copper Alloy</td>\n</tr>\n<tr>\n<td><strong>Compatible Wire Type</strong></td>\n<td>Copper</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>1.2800 in</td>\n</tr>\n<tr>\n<td><strong>Head Shape</strong></td>\n<td>Hex</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>UL Listed</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:05:29-06:00",
+  "created_at": "2023-12-28T20:05:29-06:00",
+  "updated_at": "2025-09-22T10:55:24-05:00",
+  "vendor": "Panduit",
+  "product_type": "Lighting & Electrical",
+  "tags": [
+    "Electrical Connectors"
+  ],
+  "variants": [
+    {
+      "id": 43703768744103,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "38975082",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "97.19",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785402826919,
+      "created_at": "2023-12-28T20:05:29-06:00",
+      "updated_at": "2025-09-22T10:55:24-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236863496359,
+      "created_at": "2025-02-03T17:56:31-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:56:32-06:00",
+      "product_id": 7785402826919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3895028-21_197d5264-dafa-4717-88d3-796077de52af.jpg?v=1738626992",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 97.19,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3895028-21_197d5264-dafa-4717-88d3-796077de52af.jpg?v=1738626992",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Panduit",
+  "category": "Lighting & Electrical",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 7032742641773,
+  "title": "Leather & Leaves",
+  "handle": "leather-leaves",
+  "body_html": "<p>Fallen autumn <strong>leaves</strong> gather with dark <strong>oud</strong>, fragrant <strong>fir needle</strong>, and cracked <strong>peppercorn</strong> amid notes of worn <strong>leather</strong> and woodland <strong>musk</strong>.</p>",
+  "published_at": "2023-08-01T08:41:55-06:00",
+  "created_at": "2023-07-19T13:07:38-06:00",
+  "updated_at": "2025-09-22T13:12:52-06:00",
+  "vendor": "Anthropologie",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:Anthropologie",
+    "CollectionFilter_Fall Essentials",
+    "collectionfilter_Woodsy",
+    "Group_Home",
+    "Leather & Leaves",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Scent Type_Aromatic Herbal",
+    "Scent Type_Woody",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart18",
+    "type_smart19",
+    "type_smart20",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 40685451444333,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "LLAH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "18.99",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7032742641773,
+      "created_at": "2023-07-19T13:07:39-06:00",
+      "updated_at": "2025-09-22T13:12:52-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30249125412973,
+      "created_at": "2023-07-25T10:13:57-06:00",
+      "position": 1,
+      "updated_at": "2023-07-25T10:14:09-06:00",
+      "product_id": 7032742641773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnthropologieLeatherandLeaves-resized_-2.jpg?v=1690301649",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30249118138477,
+      "created_at": "2023-07-25T10:13:11-06:00",
+      "position": 2,
+      "updated_at": "2023-07-25T10:14:09-06:00",
+      "product_id": 7032742641773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/fallleavesingredients-resized-4.jpg?v=1690301649",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 30345378103405,
+      "created_at": "2023-08-13T14:42:35-06:00",
+      "position": 3,
+      "updated_at": "2023-08-13T14:42:39-06:00",
+      "product_id": 7032742641773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Anthropologie-Leather-And-Leaves-Device-V4.jpg?v=1691959359",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 30249118040173,
+      "created_at": "2023-07-25T10:13:11-06:00",
+      "position": 4,
+      "updated_at": "2023-08-13T14:42:39-06:00",
+      "product_id": 7032742641773,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnthropologieLeatherandLeaves-resized_-3.jpg?v=1691959359",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 18.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/AnthropologieLeatherandLeaves-resized_-2.jpg?v=1690301649",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Anthropologie",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

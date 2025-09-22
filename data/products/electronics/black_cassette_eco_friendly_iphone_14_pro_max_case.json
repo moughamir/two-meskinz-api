@@ -1,0 +1,121 @@
+{
+  "id": 7363996549208,
+  "title": "Black Cassette iPhone 14 Pro Max Case",
+  "handle": "black-cassette-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Rewind to the retro era with the Pela Cassette Phone Case! This groovy accessory brings back the nostalgic mixtape days with its classic cassette tape design, complete with vintage labeling and reel-to-reel details. Made for music lovers and retro enthusiasts, this case hits all the right notes of style and protection. Slide this case onto your phone and let it play the soundtrack of your life, one call at a time. Whether you're streaming today's hits or old-school jams, this case is sure to be a conversation starter. 📼🎶📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-06-01T09:02:11-04:00",
+  "created_at": "2023-05-30T14:50:42-04:00",
+  "updated_at": "2025-09-22T15:16:46-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "bestseller",
+    "collection:Retrospin",
+    "fathers day",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Cassette",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40234196336728,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16870-IP14PMAX-BLACK-AOD:CASSETTE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363996549208,
+      "created_at": "2023-05-30T14:50:43-04:00",
+      "updated_at": "2025-09-22T15:16:46-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30275018424408,
+      "created_at": "2023-05-30T14:50:43-04:00",
+      "position": 1,
+      "updated_at": "2023-05-30T14:50:43-04:00",
+      "product_id": 7363996549208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP14PMAX_Black.jpg?v=1685472643",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275850272856,
+      "created_at": "2023-05-31T09:58:42-04:00",
+      "position": 2,
+      "updated_at": "2023-05-31T09:58:43-04:00",
+      "product_id": 7363996549208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN2_bb46ff69-c01a-4eb3-bef9-88052ff429a2.png?v=1685541523",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30275850240088,
+      "created_at": "2023-05-31T09:58:42-04:00",
+      "position": 3,
+      "updated_at": "2023-05-31T09:58:43-04:00",
+      "product_id": 7363996549208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETROSPIN6_8f3a24a7-b6e1-41de-b520-b463411155f1.png?v=1685541523",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800420171864,
+      "created_at": "2023-10-03T11:57:11-04:00",
+      "position": 4,
+      "updated_at": "2023-10-03T11:57:13-04:00",
+      "product_id": 7363996549208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_05022_76e82b3d-c4c4-4e15-bef3-9e0195ef0366.jpg?v=1696348633",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 31800420106328,
+      "created_at": "2023-10-03T11:57:11-04:00",
+      "position": 5,
+      "updated_at": "2023-10-03T11:57:13-04:00",
+      "product_id": 7363996549208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_04612_cf7e283e-c3d5-4e61-80a1-1d82054c2450.jpg?v=1696348633",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/CASSETTE_IP14PMAX_Black.jpg?v=1685472643",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

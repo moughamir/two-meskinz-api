@@ -1,0 +1,98 @@
+{
+  "id": 7374104035416,
+  "title": "Seashell Floral Daze Samsung Galaxy S22 Case",
+  "handle": "seashell-floral-daze-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><span>Embrace the blossoming beauty of nature with our Floral Daze Phone Case, a design that marries the digital and natural world in a celebration of form and function.  This case features a tapestry of abstract floral patterns in shades of cream and spring leaf green, evoking the feel of a serene meadow.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:48:13-04:00",
+  "created_at": "2023-08-29T15:01:12-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Floral Daze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258377187416,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13594-S22-SEASHELL-AOD:FLORAL-DAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374104035416,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352884891736,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:12-04:00",
+      "product_id": 7374104035416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_S22_Seashell.jpg?v=1693335672",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356578435160,
+      "created_at": "2023-09-05T18:04:44-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:04:46-04:00",
+      "product_id": 7374104035416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams2_b51d94ff-4c5f-4507-b8e1-7a3849ebcaa4.jpg?v=1693951486",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356578402392,
+      "created_at": "2023-09-05T18:04:44-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:04:45-04:00",
+      "product_id": 7374104035416,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_b6273245-565a-4fe2-bb4b-6efbcba312f3.jpg?v=1693951485",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_S22_Seashell.jpg?v=1693335672",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 8345580404824,
+  "title": "Seashell Wild Canada iPhone 13 Mini Case",
+  "handle": "seashell-wild-canada-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p data-start=\"77\" data-end=\"299\" class=\"\">Take a walk on the wild side with a phone case that’s bursting with Canadian critters—from mighty moose to curious bears, waddling ducks to salmon mid-leap. It's a full-on forest parade, and yes, the beavers are invited.</p>\n<p data-start=\"301\" data-end=\"484\" class=\"\">Made in Canada and inspired by it too, this case brings a little wilderness wherever you wander. Sturdy, sustainable, and proudly northern—what’s more Canadian than that, eh? 🇨🇦🦫📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:38:21-04:00",
+  "created_at": "2025-04-14T10:39:33-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Wild Canada",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815081906264,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:WILD-CANADA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345580404824,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829660422232,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:35-04:00",
+      "product_id": 8345580404824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP13MINI_Seashell.jpg?v=1744641575",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982836961368,
+      "created_at": "2025-05-07T16:47:16-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:47:19-04:00",
+      "product_id": 8345580404824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_7b1e1657-d1ab-42c5-8ce9-22979277cc42.jpg?v=1746650839",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982836863064,
+      "created_at": "2025-05-07T16:47:16-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:47:18-04:00",
+      "product_id": 8345580404824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_47e6fe3c-102d-46bc-ad8b-5f2c02864c14.jpg?v=1746650838",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982836928600,
+      "created_at": "2025-05-07T16:47:16-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:47:18-04:00",
+      "product_id": 8345580404824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_b320f842-4a55-4b6b-89b5-f1babbf7a219.jpg?v=1746650838",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982836895832,
+      "created_at": "2025-05-07T16:47:16-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:47:18-04:00",
+      "product_id": 8345580404824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_5e8e7aed-bd3c-4407-9d84-6dbf9c92b87d.jpg?v=1746650838",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP13MINI_Seashell.jpg?v=1744641575",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

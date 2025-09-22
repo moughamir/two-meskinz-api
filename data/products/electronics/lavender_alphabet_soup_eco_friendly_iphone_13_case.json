@@ -1,0 +1,110 @@
+{
+  "id": 8142179663960,
+  "title": "Lavender Alphabet Soup iPhone 13 Case",
+  "handle": "lavender-alphabet-soup-eco-friendly-iphone-13-case",
+  "body_html": "<p class=\"p1\">Get ready to spell out your style with the Alphabet Soup Phone Case! With its colorful mix of abstract letter-inspired shapes in bold greens, oranges, purples, and more, this case is like a fun bowl of creativity simmering right in your pocket! 🍲📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-10T08:41:14-04:00",
+  "created_at": "2024-09-25T12:26:27-04:00",
+  "updated_at": "2025-09-22T15:15:40-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13",
+  "tags": [
+    "art-type:Print",
+    "collection:Fall Fever",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Alphabet Soup",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42294277374040,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16687-IP13-LAV-AOD:ALPHABET-SOUP",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8142179663960,
+      "created_at": "2024-09-25T12:26:27-04:00",
+      "updated_at": "2025-09-22T15:15:40-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33677681033304,
+      "created_at": "2024-09-25T12:26:27-04:00",
+      "position": 1,
+      "updated_at": "2024-09-25T12:26:27-04:00",
+      "product_id": 8142179663960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABET-SOUP_IP13_Lavender.jpg?v=1727281587",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33749462253656,
+      "created_at": "2024-10-09T17:38:10-04:00",
+      "position": 2,
+      "updated_at": "2024-10-09T17:38:12-04:00",
+      "product_id": 8142179663960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABETSOUP_PDP2_6254739b-c076-41aa-adf6-38970f85f177.jpg?v=1728509892",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749462286424,
+      "created_at": "2024-10-09T17:38:10-04:00",
+      "position": 3,
+      "updated_at": "2024-10-09T17:38:12-04:00",
+      "product_id": 8142179663960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABETSOUP_PDP1_77c30f1e-eb3f-436d-b891-57a467e50794.jpg?v=1728509892",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 33749462220888,
+      "created_at": "2024-10-09T17:38:10-04:00",
+      "position": 4,
+      "updated_at": "2024-10-09T17:38:12-04:00",
+      "product_id": 8142179663960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AllCases_PDP_1_8dc59d92-452b-40b1-98cc-53bcf3d6603e.jpg?v=1728509892",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/ALPHABET-SOUP_IP13_Lavender.jpg?v=1727281587",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786153017511,
+  "title": "Brand: Lyon / Part #: NF72546",
+  "handle": "ba524c22h0107",
+  "body_html": "<br><strong>Item #: </strong>16553331<br><strong>Brand: </strong>Lyon<br><strong>Model #: </strong>NF72546<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Component Type</strong>\n</td>\n<td>Partical Board Decking</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>Bulk Storage &amp; Rivet Rack</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Height (Feet)</strong></td>\n<td>5.000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Width (Feet)</strong></td>\n<td>5.00</td>\n</tr>\n<tr>\n<td><strong>Height (Decimal Inch)</strong></td>\n<td>60.000000</td>\n</tr>\n<tr>\n<td><strong>Length (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.0000</td>\n</tr>\n<tr>\n<td><strong>Number Of Shelves</strong></td>\n<td>0</td>\n</tr>\n<tr>\n<td><strong>Width (Decimal Inch - 4 Decimals)</strong></td>\n<td>60.0000</td>\n</tr>\n<tr>\n<td><strong>Thickness (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Depth (Decimal Inch)</strong></td>\n<td>36.0000</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:46:02-06:00",
+  "created_at": "2023-12-29T11:46:02-06:00",
+  "updated_at": "2025-09-22T10:47:18-05:00",
+  "vendor": "Lyon",
+  "product_type": "Material Handling & Storage",
+  "tags": [
+    "Storage Furniture & Systems"
+  ],
+  "variants": [
+    {
+      "id": 43707087061159,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "16553331",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "51.62",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786153017511,
+      "created_at": "2023-12-29T11:46:02-06:00",
+      "updated_at": "2025-09-22T10:47:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237940154535,
+      "created_at": "2025-02-03T18:30:11-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:30:12-06:00",
+      "product_id": 7786153017511,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3210353-21_e55ed750-2030-4b54-ab5a-79ccd550d5e9.jpg?v=1738629012",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 51.62,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/3210353-21_e55ed750-2030-4b54-ab5a-79ccd550d5e9.jpg?v=1738629012",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Lyon",
+  "category": "Material Handling & Storage",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

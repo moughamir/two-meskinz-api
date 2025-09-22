@@ -1,0 +1,108 @@
+{
+  "id": 7363432677464,
+  "title": "Seashell Patchwork iPhone 6/6s/7/8/SE Case",
+  "handle": "seashell-patchwork-eco-friendly-iphone-6-6s-7-8-se-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Wrap your phone in a kaleidoscope of color with the Pela Patchwork Phone Case! This vibrant accessory features an enchanting array of colorful tiles, arranged in a dynamic, sweeping pattern that brings to mind the spirited designs of a patchwork quilt. Perfect for those who love to add a splash of fun and a pop of color to their everyday essentials, this case not only protects your phone but also turns it into a statement piece. It's an artful celebration of creativity and joy, ensuring your device stands out in the most delightful way. 🌈📱✨</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-05-25T08:21:11-04:00",
+  "created_at": "2023-05-24T12:43:06-04:00",
+  "updated_at": "2025-09-22T15:16:49-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 6/6s/7/8/SE",
+  "tags": [
+    "art-type:Print",
+    "collection:Retro Shapes",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Patchwork",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40232963604568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:32744-IP7-SEASHELL-AOD:PATCHWORK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7363432677464,
+      "created_at": "2023-05-24T12:43:06-04:00",
+      "updated_at": "2025-09-22T15:16:49-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30270394564696,
+      "created_at": "2023-05-24T12:43:06-04:00",
+      "position": 1,
+      "updated_at": "2023-05-24T12:43:06-04:00",
+      "product_id": 7363432677464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP7_Seashell.jpg?v=1684946586",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413930584,
+      "created_at": "2023-05-24T13:10:27-04:00",
+      "position": 2,
+      "updated_at": "2023-05-24T13:10:29-04:00",
+      "product_id": 7363432677464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesignv3_f2ab18f3-ea4b-477a-9540-656f9955ea54.png?v=1684948229",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413963352,
+      "created_at": "2023-05-24T13:10:27-04:00",
+      "position": 3,
+      "updated_at": "2023-05-24T13:10:29-04:00",
+      "product_id": 7363432677464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RETRO-CASE-25_5e5d52a1-cb23-4709-a346-80fe9807e88c.jpg?v=1684948229",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30270413996120,
+      "created_at": "2023-05-24T13:10:27-04:00",
+      "position": 4,
+      "updated_at": "2023-05-24T13:10:28-04:00",
+      "product_id": 7363432677464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/retrodesign_f55146ed-7a20-415d-be83-90279221a01b.png?v=1684948228",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PATCHWORK_IP7_Seashell.jpg?v=1684946586",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 6/6s/7/8/SE",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

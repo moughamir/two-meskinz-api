@@ -1,0 +1,67 @@
+{
+  "id": 7785764913319,
+  "title": "Brand: Milwaukee Tool / Part #: 49-66-0506",
+  "handle": "eh5669063",
+  "body_html": "<br><strong>Item #: </strong>58782442<br><strong>Brand: </strong>Milwaukee Tool<br><strong>Model #: </strong>49-66-0506<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bit Type</strong>\n</td>\n<td>Impact Nut Driver</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Hex</td>\n</tr>\n<tr>\n<td><strong>Drive Size</strong></td>\n<td>7/16</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>1-7/8</td>\n</tr>\n<tr>\n<td><strong>Hex Size Range (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Blade Width</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch</td>\n</tr>\n<tr>\n<td><strong>Includes</strong></td>\n<td>(10) SHOCKWAVE? 7/16 In. x 1-7/8 In. Magnetic Nut Driver</td>\n</tr>\n<tr>\n<td><strong>Type</strong></td>\n<td>Impact; Magnetic</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>10</td>\n</tr>\n<tr>\n<td><strong>Hex Size (Inch - 0 Decimals)</strong></td>\n<td>1/4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:28:48-06:00",
+  "created_at": "2023-12-29T01:28:48-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "Milwaukee Tool",
+  "product_type": "Power Tools",
+  "tags": [
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 43705458327719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "58782442",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.60",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785764913319,
+      "created_at": "2023-12-29T01:28:48-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237217718439,
+      "created_at": "2025-02-03T18:08:43-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:45-06:00",
+      "product_id": 7785764913319,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5878244-21.jpg?v=1738627725",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.6,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/5878244-21.jpg?v=1738627725",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Milwaukee Tool",
+  "category": "Power Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

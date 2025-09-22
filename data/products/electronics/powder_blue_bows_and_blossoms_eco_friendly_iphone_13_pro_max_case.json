@@ -1,0 +1,111 @@
+{
+  "id": 7536127705176,
+  "title": "Powder Blue Bows and Blossoms iPhone 13 Pro Max Case",
+  "handle": "powder-blue-bows-and-blossoms-eco-friendly-iphone-13-pro-max-case",
+  "body_html": "<p><span>Wrap your phone in the quaint charm of the Bows and Blossoms Phone Case. This case's enchanting powder blue backdrop is adorned with a symmetrical dance of florals and bows, creating a soothing and graceful pattern that's a nod to traditional fabric designs. 🎀🌸📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:19:56-05:00",
+  "created_at": "2024-01-15T11:10:10-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "coquette",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bows and Blossoms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949023670360,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16835-IP13PMAX-POWDERBLUE-AOD:BOWS-AND-BLOSSOMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536127705176,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079725789272,
+      "created_at": "2024-01-15T11:10:10-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:10-05:00",
+      "product_id": 7536127705176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/BOWS-AND-BLOSSOMS_IP13PMAX_PowderBlue.jpg?v=1705335010",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088924094552,
+      "created_at": "2024-01-17T10:43:31-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:43:33-05:00",
+      "product_id": 7536127705176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP2_f9a401ae-9856-498b-8a77-84118b3c1f4b.png?v=1705506213",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088924127320,
+      "created_at": "2024-01-17T10:43:31-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:43:33-05:00",
+      "product_id": 7536127705176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Bows_Blossoms_PDP1_a1bd158e-0c06-4971-8320-64c4a0e0a404.png?v=1705506213",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088924160088,
+      "created_at": "2024-01-17T10:43:31-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:43:33-05:00",
+      "product_id": 7536127705176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_14f8162b-d748-4b30-a9b4-03d71761cbb2.png?v=1705506213",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/BOWS-AND-BLOSSOMS_IP13PMAX_PowderBlue.jpg?v=1705335010",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

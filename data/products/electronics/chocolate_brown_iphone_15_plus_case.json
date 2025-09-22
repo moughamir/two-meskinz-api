@@ -1,0 +1,126 @@
+{
+  "id": 8278276374616,
+  "title": "Chocolate Brown iPhone 15 Plus Case",
+  "handle": "chocolate-brown-iphone-15-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:16:22-05:00",
+  "created_at": "2025-02-04T10:22:35-05:00",
+  "updated_at": "2025-09-22T15:15:05-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Plus",
+  "tags": [
+    "Classic",
+    "magsafe compatible",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642246500440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "17197-IP15PLUS-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 36,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278276374616,
+      "created_at": "2025-02-04T10:22:35-05:00",
+      "updated_at": "2025-09-22T15:15:05-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569296216152,
+      "created_at": "2025-02-20T10:49:38-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:49:39-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP15PLUS_CHOCOLATE_BROWN_BACK.jpg?v=1740066579",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569296314456,
+      "created_at": "2025-02-20T10:49:38-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:49:39-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP15PLUS_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066579",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569296347224,
+      "created_at": "2025-02-20T10:49:38-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:49:39-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP15PLUS_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066579",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569403662424,
+      "created_at": "2025-02-20T11:05:27-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:05:28-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_421741c9-563d-4960-9656-4cfc64625f53.jpg?v=1740067528",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569403695192,
+      "created_at": "2025-02-20T11:05:27-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:05:28-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_1c396d64-5ea8-49f2-98de-3ac3eba8c638.jpg?v=1740067528",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569403727960,
+      "created_at": "2025-02-20T11:05:27-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:05:29-05:00",
+      "product_id": 8278276374616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_596bff03-7c39-4368-8e63-73e45f27d407.jpg?v=1740067529",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/IP15PLUS_CHOCOLATE_BROWN_BACK.jpg?v=1740066579",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

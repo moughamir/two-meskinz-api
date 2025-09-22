@@ -1,0 +1,120 @@
+{
+  "id": 8345578373208,
+  "title": "Seashell Maple Leaf iPhone 13 Mini Case",
+  "handle": "seashell-maple-leaf-eco-friendly-iphone-13-mini-case",
+  "body_html": "<p><meta charset=\"utf-8\">Oh Canada, you’ve never looked so good on a phone case. With a flurry of fiery red leaves, this design brings all the cozy, crunchy charm of a crisp fall day—plus a little national pride. Whether you're a true north local or just maple-obsessed, this case says “eh” in the cutest way possible. <meta charset=\"utf-8\">🇨🇦📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:41:54-04:00",
+  "created_at": "2025-04-14T10:39:24-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 13 Mini",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Maple Leaf",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815079809112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16626-IP13MINI-SEASHELL-AOD:MAPLE-LEAF",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345578373208,
+      "created_at": "2025-04-14T10:39:24-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829656064088,
+      "created_at": "2025-04-14T10:39:24-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:26-04:00",
+      "product_id": 8345578373208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP13MINI_Seashell.jpg?v=1744641566",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982669910104,
+      "created_at": "2025-05-07T16:15:44-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:15:51-04:00",
+      "product_id": 8345578373208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_a2eddff4-2917-4a99-9e77-3f51d3b7e967.jpg?v=1746648951",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982670008408,
+      "created_at": "2025-05-07T16:15:44-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:15:51-04:00",
+      "product_id": 8345578373208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_9590e853-2da0-4506-b07c-4cbb14087514.jpg?v=1746648951",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982669975640,
+      "created_at": "2025-05-07T16:15:44-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:15:51-04:00",
+      "product_id": 8345578373208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_83cebe4b-6361-48ac-8c95-76167d4a07a2.jpg?v=1746648951",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982669942872,
+      "created_at": "2025-05-07T16:15:44-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:15:51-04:00",
+      "product_id": 8345578373208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_33f3ab3b-bd12-4be5-aaa1-0d6ca24dc50e.jpg?v=1746648951",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MAPLE-LEAF_IP13MINI_Seashell.jpg?v=1744641566",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 13 Mini",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 8159692783704,
+  "title": "Seashell Be Merry Google Pixel 7 Case",
+  "handle": "seashell-be-merry-eco-friendly-google-pixel-7-case",
+  "body_html": "<p class=\"p1\">Spread the holiday cheer with the Be Merry Phone Case! 🌲✨ Adorned with festive gingerbread cookies, holly, bows, and sprigs of mistletoe, this case brings all the cozy vibes of the season right to your phone. It’s the perfect holiday accessory for keeping your phone safe while adding a touch of merry magic to your everyday. Lightweight, durable, and full of seasonal spirit—this case is a must-have for spreading joy all winter long! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:16:01-04:00",
+  "created_at": "2024-10-16T10:40:32-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Be Merry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333271195736,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14836-PX7-SEASHELL-AOD:BE-MERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159692783704,
+      "created_at": "2024-10-16T10:40:32-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799054295128,
+      "created_at": "2024-10-16T10:40:32-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:32-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_PX7_Seashell.jpg?v=1729089632",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33839119958104,
+      "created_at": "2024-10-22T13:15:24-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T13:15:26-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP1_40ce9da2-6827-4b76-ac2c-ad737766c536.jpg?v=1729617326",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839120023640,
+      "created_at": "2024-10-22T13:15:24-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T13:15:26-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP2_bb361bb6-19a4-4141-8a80-d296f1314ec3.jpg?v=1729617326",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839120089176,
+      "created_at": "2024-10-22T13:15:24-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T13:15:26-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP3_867884c0-b31f-4d7a-ba07-50960cae97b2.jpg?v=1729617326",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839120056408,
+      "created_at": "2024-10-22T13:15:24-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T13:15:26-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP4_799cc137-eff6-4d60-a944-4ca75afd2736.jpg?v=1729617326",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839119990872,
+      "created_at": "2024-10-22T13:15:24-04:00",
+      "position": 6,
+      "updated_at": "2024-10-22T13:15:26-04:00",
+      "product_id": 8159692783704,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP5_cd3a234e-5a3b-48fe-abcb-3624f69189e6.jpg?v=1729617326",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_PX7_Seashell.jpg?v=1729089632",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

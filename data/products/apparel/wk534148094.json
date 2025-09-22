@@ -1,0 +1,67 @@
+{
+  "id": 7785404039335,
+  "title": "Brand: Widia / Part #: 6945698",
+  "handle": "wk534148094",
+  "body_html": "<br><strong>Item #: </strong>99008419<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6945698<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.6250</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>5/8</td>\n</tr>\n<tr>\n<td><strong>Finish/Coating</strong></td>\n<td>TiAlN</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>37; 39</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Weldon Flat</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (Decimal Inch)</strong></td>\n<td>0.7500</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>WU20PE</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.6250</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>3.0000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Variable</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Regular</td>\n</tr>\n<tr>\n<td><strong>Through Coolant</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>W401</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T20:07:42-06:00",
+  "created_at": "2023-12-28T20:07:42-06:00",
+  "updated_at": "2025-09-22T10:55:24-05:00",
+  "vendor": "Widia",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43703770153127,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "99008419",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "96.94",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785404039335,
+      "created_at": "2023-12-28T20:07:42-06:00",
+      "updated_at": "2025-09-22T10:55:24-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236866248871,
+      "created_at": "2025-02-03T17:56:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:56:38-06:00",
+      "product_id": 7785404039335,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9093657-21_c0578afe-06ec-4727-bd6a-e5ad4de50e2b.jpg?v=1738626998",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 96.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9093657-21_c0578afe-06ec-4727-bd6a-e5ad4de50e2b.jpg?v=1738626998",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

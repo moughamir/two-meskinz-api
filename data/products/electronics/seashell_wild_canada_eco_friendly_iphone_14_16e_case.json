@@ -1,0 +1,120 @@
+{
+  "id": 8345580437592,
+  "title": "Seashell Wild Canada iPhone 14/16e Case",
+  "handle": "seashell-wild-canada-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p data-start=\"77\" data-end=\"299\" class=\"\">Take a walk on the wild side with a phone case that’s bursting with Canadian critters—from mighty moose to curious bears, waddling ducks to salmon mid-leap. It's a full-on forest parade, and yes, the beavers are invited.</p>\n<p data-start=\"301\" data-end=\"484\" class=\"\">Made in Canada and inspired by it too, this case brings a little wilderness wherever you wander. Sturdy, sustainable, and proudly northern—what’s more Canadian than that, eh? 🇨🇦🦫📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-06T03:38:18-04:00",
+  "created_at": "2025-04-14T10:39:33-04:00",
+  "updated_at": "2025-09-22T15:14:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:Canada",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Wild Canada",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42815081775192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16736-IP14-SEASHELL-AOD:WILD-CANADA",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8345580437592,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "updated_at": "2025-09-22T15:14:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34829659963480,
+      "created_at": "2025-04-14T10:39:33-04:00",
+      "position": 1,
+      "updated_at": "2025-04-14T10:39:34-04:00",
+      "product_id": 8345580437592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP14_Seashell.jpg?v=1744641574",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34982841647192,
+      "created_at": "2025-05-07T16:48:32-04:00",
+      "position": 2,
+      "updated_at": "2025-05-07T16:48:34-04:00",
+      "product_id": 8345580437592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_IPGrid_PDP_1x1_05_3fc67304-845f-443d-a3d0-10b8b6b0bbf1.jpg?v=1746650914",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982841679960,
+      "created_at": "2025-05-07T16:48:32-04:00",
+      "position": 3,
+      "updated_at": "2025-05-07T16:48:35-04:00",
+      "product_id": 8345580437592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Pile_PDP_1x1_02_05a7aa66-4b04-46e7-8883-fc49f88ebd2e.jpg?v=1746650915",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982841712728,
+      "created_at": "2025-05-07T16:48:32-04:00",
+      "position": 4,
+      "updated_at": "2025-05-07T16:48:35-04:00",
+      "product_id": 8345580437592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Androids_PDP_1x1_03_1c88473b-9edf-43e2-92d2-38d7ef626793.jpg?v=1746650915",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34982841614424,
+      "created_at": "2025-05-07T16:48:32-04:00",
+      "position": 5,
+      "updated_at": "2025-05-07T16:48:34-04:00",
+      "product_id": 8345580437592,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Canada_Render_Group_1x1_Video_Render_Group_Friends_PDP_1x1_01_e92e226c-2bac-46be-b3d7-961e82f59ce2.jpg?v=1746650914",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/WILD-CANADA_IP14_Seashell.jpg?v=1744641574",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

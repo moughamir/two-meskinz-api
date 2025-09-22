@@ -1,0 +1,65 @@
+{
+  "id": 7785349775527,
+  "title": "Brand: NIBCO / Part #: NL95G0C",
+  "handle": "er4510966",
+  "body_html": "<br><strong>Item #: </strong>09041062<br><strong>Brand: </strong>NIBCO<br><strong>Model #: </strong>NL95G0C<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Type</strong>\n</td>\n<td>Standard Ball Valve</td>\n</tr>\n<tr>\n<td><strong>Valve Type</strong></td>\n<td>Standard Ball Valve</td>\n</tr>\n<tr>\n<td><strong>Pipe Size</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>End Connection</strong></td>\n<td>MNPT x FNPT</td>\n</tr>\n<tr>\n<td><strong>Port Type</strong></td>\n<td>Full</td>\n</tr>\n<tr>\n<td><strong>Handle Type</strong></td>\n<td>Lever</td>\n</tr>\n<tr>\n<td><strong>Trim Material</strong></td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td><strong>Wsp Rating</strong></td>\n<td>200 psi</td>\n</tr>\n<tr>\n<td><strong>Seat Material</strong></td>\n<td>Reinforced Polytetrafluroethylene</td>\n</tr>\n<tr>\n<td><strong>Number Of Pieces</strong></td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T18:24:11-06:00",
+  "created_at": "2023-12-28T18:24:11-06:00",
+  "updated_at": "2025-09-22T10:55:39-05:00",
+  "vendor": "NIBCO",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 43703657791655,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "09041062",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "103.42",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785349775527,
+      "created_at": "2023-12-28T18:24:11-06:00",
+      "updated_at": "2025-09-22T10:55:39-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236758114471,
+      "created_at": "2025-02-03T17:52:58-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:53:00-06:00",
+      "product_id": 7785349775527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0904109-11_2585d5df-d52a-461b-a2a6-fc4510acbd77.jpg?v=1738626780",
+      "width": 600,
+      "height": 331
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 103.42,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0904109-11_2585d5df-d52a-461b-a2a6-fc4510acbd77.jpg?v=1738626780",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "NIBCO",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

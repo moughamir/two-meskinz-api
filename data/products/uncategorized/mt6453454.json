@@ -1,0 +1,68 @@
+{
+  "id": 5336453316775,
+  "title": "L0100100.7062 GO/NOGO SET",
+  "handle": "mt6453454",
+  "body_html": "<br><strong>Item #: </strong>ER45L101007062<br><strong>Brand: </strong>EMUGE-FRANKEN<br><strong>Model #: </strong>L0100100.7062<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Type</strong></td>\n<td>Thread Plug Gage with Handle </td>\n</tr>\n<tr>\n<td><strong>Pitch</strong></td>\n<td>6 </td>\n</tr>\n<tr>\n<td><strong>Go / No Go</strong></td>\n<td>Go/No Go </td>\n</tr>\n<tr>\n<td><strong>Single or Double End</strong></td>\n<td>Double End </td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>36 </td>\n</tr>\n<tr>\n<td><strong>Certification</strong></td>\n<td>Short form certificate included </td>\n</tr>\n<tr>\n<td><strong>Thread Type</strong></td>\n<td>Tr </td>\n</tr>\n<tr>\n<td><strong>Dimension Standards</strong></td>\n<td>DIN 2280 </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T21:33:04-06:00",
+  "created_at": "2020-06-15T12:58:38-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "EMUGE-FRANKEN",
+  "product_type": "Testing, Measuring & Inspection",
+  "tags": [
+    "Drilling",
+    "Reference & Thread Gages"
+  ],
+  "variants": [
+    {
+      "id": 34731183308967,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "ER45L101007062",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "541.33",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5336453316775,
+      "created_at": "2020-06-15T12:58:38-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143195906215,
+      "created_at": "2025-01-23T21:33:14-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T21:33:15-06:00",
+      "product_id": 5336453316775,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f500efa1-0045-4c77-8edf-cb610233f597.png?v=1737689595",
+      "width": 620,
+      "height": 620
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 541.33,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/camera_f500efa1-0045-4c77-8edf-cb610233f597.png?v=1737689595",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EMUGE-FRANKEN",
+  "category": "Testing, Measuring & Inspection",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

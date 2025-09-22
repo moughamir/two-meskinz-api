@@ -1,0 +1,101 @@
+{
+  "id": 7556235591768,
+  "title": "Bubblegum Pink Cow iPhone 14 Pro Max Case",
+  "handle": "bubblegum-pink-cow-eco-friendly-iphone-14-pro-max-case",
+  "body_html": "<p>Protect your phone in style with our Bubblegum Pink Cow Phone Case. Made from sustainable and durable materials, this beautifully designed case features a fun cow print. Plus, it's compostable for added environmental benefits. (Moo-ve over boring cases!)</p>",
+  "published_at": "2024-02-22T04:47:53-05:00",
+  "created_at": "2024-02-08T11:08:37-05:00",
+  "updated_at": "2025-09-22T15:16:19-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Animal Print Collection",
+    "collection:Bubblegum Pink",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Bubbles",
+    "name:Cow",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41038007107672,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16882-IP14PMAX-BUBPINK-AOD:COW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7556235591768,
+      "created_at": "2024-02-08T11:08:37-05:00",
+      "updated_at": "2025-09-22T15:16:19-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32177738055768,
+      "created_at": "2024-02-08T11:08:37-05:00",
+      "position": 1,
+      "updated_at": "2024-02-08T11:08:37-05:00",
+      "product_id": 7556235591768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP14PMAX_BubblegumPink.jpg?v=1707408517",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211977601112,
+      "created_at": "2024-02-21T03:09:58-05:00",
+      "position": 2,
+      "updated_at": "2024-02-21T03:10:00-05:00",
+      "product_id": 7556235591768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-1_28c0c42e-9113-4e31-97dc-7302816d6977.jpg?v=1708503000",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32211977568344,
+      "created_at": "2024-02-21T03:09:58-05:00",
+      "position": 3,
+      "updated_at": "2024-02-21T03:10:00-05:00",
+      "product_id": 7556235591768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COW_BUBBLEGGUM_1-2_70595c55-58c9-42e8-9f1a-42d9fdfc94a7.jpg?v=1708503000",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/COW_IP14PMAX_BubblegumPink.jpg?v=1707408517",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 8452752015527,
+  "title": "Installer Drill Bits; Drill Bit Size (Inch): 3/4; Overall Length (Inch): 8-1/2; Shank Type: Hex; Drill Bit Material: Carbon Steel; Drill Bit Finish/Coating: Oxide; Drill Bit Type: Electrician's Bit; Point Type: Screw Point",
+  "handle": "77150878",
+  "body_html": "<br><strong>Item #: </strong>85738482<br><strong>Brand: </strong>Mag-Bit<br><strong>Model #: </strong>770.1216<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Drill Bit Size (Inch)</strong>\n</td>\n<td>3/4</td>\n</tr>\n<tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>8-1/2</td>\n</tr>\n<tr> <td> <strong>Shank Type</strong>\n</td>\n<td>Hex</td>\n</tr>\n<tr> <td> <strong>Drill Bit Material</strong>\n</td>\n<td>Carbon Steel</td>\n</tr>\n<tr> <td> <strong>Drill Bit Finish/Coating</strong>\n</td>\n<td>Oxide</td>\n</tr>\n<tr> <td> <strong>Drill Bit Type</strong>\n</td>\n<td>Electrician's Bit</td>\n</tr>\n<tr> <td> <strong>Point Type</strong>\n</td>\n<td>Screw Point</td>\n</tr>\n<tr> <td> <strong>Extension Capability</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Number of Spurs</strong>\n</td>\n<td>1</td>\n</tr>\n<tr> <td> <strong>Wire-Fishing Hole</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>2</td>\n</tr>\n<tr> <td> <strong>Shank Diameter (Inch - 0 Decimals)</strong>\n</td>\n<td>5/16</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111500</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>Taiwan</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T16:40:41-06:00",
+  "created_at": "2025-01-23T16:40:39-06:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Mag-Bit",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 46498848702631,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "85738482",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.87",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452752015527,
+      "created_at": "2025-01-23T16:40:39-06:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38252095504551,
+      "created_at": "2025-02-04T03:05:46-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:05:47-06:00",
+      "product_id": 8452752015527,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8573840-11_484227b6-5daa-4ea8-9096-3b7bae20d3fd.jpg?v=1738659947",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.87,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8573840-11_484227b6-5daa-4ea8-9096-3b7bae20d3fd.jpg?v=1738659947",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Mag-Bit",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

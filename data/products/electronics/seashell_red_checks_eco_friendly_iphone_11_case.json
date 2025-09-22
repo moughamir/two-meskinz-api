@@ -1,0 +1,97 @@
+{
+  "id": 8295453917272,
+  "title": "Seashell Red Checks iPhone 11 Case",
+  "handle": "seashell-red-checks-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Hold onto your hat—this case is a wild ride for your eyes! <em data-start=\"99\" data-end=\"111\">Red Checks</em> puts a twist on classic harlequin patterns, with bold waves and a dizzying design that feels straight out of a carnival funhouse. It’s bold, retro, and totally unforgettable!<br><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-06T09:09:39-05:00",
+  "created_at": "2025-02-21T13:31:45-05:00",
+  "updated_at": "2025-09-22T15:14:58-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Circus",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Red Checks",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42688143622232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16209-IP11-SEASHELL-AOD:RED-CHECKS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8295453917272,
+      "created_at": "2025-02-21T13:31:45-05:00",
+      "updated_at": "2025-09-22T15:14:58-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34579774799960,
+      "created_at": "2025-02-21T13:31:45-05:00",
+      "position": 1,
+      "updated_at": "2025-02-21T13:31:47-05:00",
+      "product_id": 8295453917272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP11_Seashell.jpg?v=1740162707",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34615787782232,
+      "created_at": "2025-02-28T10:01:54-05:00",
+      "position": 2,
+      "updated_at": "2025-02-28T10:01:56-05:00",
+      "product_id": 8295453917272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP1_f34e44a4-25f4-4769-be8a-69f6e709f53c.jpg?v=1740754916",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34615787815000,
+      "created_at": "2025-02-28T10:01:54-05:00",
+      "position": 3,
+      "updated_at": "2025-02-28T10:01:56-05:00",
+      "product_id": 8295453917272,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/RedChecks_PDP2_7ec6c688-2bad-4c1d-8717-256616baa52d.jpg?v=1740754916",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/RED-CHECKS_IP11_Seashell.jpg?v=1740162707",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

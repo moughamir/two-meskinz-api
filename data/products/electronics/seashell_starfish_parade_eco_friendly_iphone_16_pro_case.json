@@ -1,0 +1,98 @@
+{
+  "id": 8385756069976,
+  "title": "Seashell Starfish Parade iPhone 16 Pro Case",
+  "handle": "seashell-starfish-parade-eco-friendly-iphone-16-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Turn your phone into a seaside celebration with the Starfish Parade Phone Case! Featuring a colorful cast of coral-cuties in pinks, purples, and sunset orange, this case is a beachy dream come true. It's like a tide pool dance party in your pocket—no shell required. Perfect for anyone who believes life’s better with a splash of ocean sparkle. 🌊⭐🧡</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-05-29T09:26:42-04:00",
+  "created_at": "2025-05-27T09:18:34-04:00",
+  "updated_at": "2025-09-22T15:13:59-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Under the Sea",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Starfish Parade",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42908177039448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17286-IP16P-SEASHELL-AOD:STARFISH-PARADE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8385756069976,
+      "created_at": "2025-05-27T09:18:34-04:00",
+      "updated_at": "2025-09-22T15:13:59-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35101688823896,
+      "created_at": "2025-05-27T09:18:34-04:00",
+      "position": 1,
+      "updated_at": "2025-05-27T09:18:36-04:00",
+      "product_id": 8385756069976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/STARFISH-PARADE_IP16P_Seashell.jpg?v=1748351916",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35102108909656,
+      "created_at": "2025-05-27T11:09:44-04:00",
+      "position": 2,
+      "updated_at": "2025-05-27T11:09:44-04:00",
+      "product_id": 8385756069976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/3d93d2bd231ada264dda70cb562ad896_44c314b0-ea19-4cf2-99e3-0c6648b05461.jpg?v=1748358584",
+      "width": 4196,
+      "height": 4196
+    },
+    {
+      "id": 35102109565016,
+      "created_at": "2025-05-27T11:09:46-04:00",
+      "position": 3,
+      "updated_at": "2025-05-27T11:09:46-04:00",
+      "product_id": 8385756069976,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/a3b79abae2229818cef56fa81578c292_b656e111-8fd8-411d-89d6-9d6052ee1985.jpg?v=1748358586",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/STARFISH-PARADE_IP16P_Seashell.jpg?v=1748351916",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

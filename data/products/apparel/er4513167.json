@@ -1,0 +1,67 @@
+{
+  "id": 7785334964391,
+  "title": "Brand: OSG / Part #: 99530003",
+  "handle": "er4513167",
+  "body_html": "<br><strong>Item #: </strong>80080989<br><strong>Brand: </strong>OSG<br><strong>Model #: </strong>99530003<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Collet Type</strong>\n</td>\n<td>Spring Collet</td>\n</tr>\n<tr>\n<td><strong>Collet Series</strong></td>\n<td>ER32</td>\n</tr>\n<tr>\n<td><strong>TIR (Decimal Inch)</strong></td>\n<td>0.000100</td>\n</tr>\n<tr>\n<td><strong>Collet Size (Decimal Inch)</strong></td>\n<td>0.3810</td>\n</tr>\n<tr>\n<td><strong>Minimum Collet Capacity</strong></td>\n<td>0.2860 in</td>\n</tr>\n<tr>\n<td><strong>Tap Size</strong></td>\n<td>3/8; M10</td>\n</tr>\n<tr>\n<td><strong>Hand or Pipe Tap</strong></td>\n<td>Hand</td>\n</tr>\n<tr>\n<td><strong>Through Coolant</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Tension Tap</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Square Size (Decimal Inch)</strong></td>\n<td>0.2860</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T17:53:09-06:00",
+  "created_at": "2023-12-28T17:53:09-06:00",
+  "updated_at": "2025-09-22T10:55:42-05:00",
+  "vendor": "OSG",
+  "product_type": "Tool Holding",
+  "tags": [
+    "Collets; Closers & Accessories"
+  ],
+  "variants": [
+    {
+      "id": 43703638327463,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "80080989",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "105.02",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785334964391,
+      "created_at": "2023-12-28T17:53:09-06:00",
+      "updated_at": "2025-09-22T10:55:42-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38236726689959,
+      "created_at": "2025-02-03T17:51:57-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T17:51:58-06:00",
+      "product_id": 7785334964391,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8008100-21_989a6517-84e5-48da-bfbe-72df5fffbe8a.jpg?v=1738626718",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 105.02,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8008100-21_989a6517-84e5-48da-bfbe-72df5fffbe8a.jpg?v=1738626718",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "OSG",
+  "category": "Tool Holding",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

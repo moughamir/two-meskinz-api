@@ -1,0 +1,52 @@
+{
+  "id": 8453399937191,
+  "title": "Clamp Meter Electrical Test Kit",
+  "handle": "kp6040530",
+  "body_html": null,
+  "published_at": "2025-01-24T04:23:35-06:00",
+  "created_at": "2025-01-24T04:23:33-06:00",
+  "updated_at": "2025-09-22T10:51:48-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500606181543,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6040530",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "100.17",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453399937191,
+      "created_at": "2025-01-24T04:23:34-06:00",
+      "updated_at": "2025-09-22T10:51:48-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 100.17,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

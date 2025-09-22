@@ -1,0 +1,129 @@
+{
+  "id": 8444654354520,
+  "title": "Bubblegum Pink Pretty Picnic iPhone Air Case",
+  "handle": "bubblegum-pink-pretty-picnic-eco-friendly-iphone-air-case",
+  "body_html": "<p>Protect your phone in style with the Bubblegum Pink Pretty Picnic Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bows, cherries, baskets, watermelons, flowers and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>\n<p> </p>",
+  "published_at": "2025-09-09T17:22:13-04:00",
+  "created_at": "2025-08-08T11:48:47-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pretty Picnic",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184110731352,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:PRETTY-PICNIC_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "90.00",
+      "grams": 0,
+      "compare_at_price": "90.00",
+      "position": 1,
+      "product_id": 8444654354520,
+      "created_at": "2025-09-03T18:27:45-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184110764120,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17545-IP17AIR-BUBPINK-AOD:PRETTY-PICNIC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 2,
+      "product_id": 8444654354520,
+      "created_at": "2025-09-03T18:27:45-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567191457880,
+      "created_at": "2025-08-08T11:48:47-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:48:49-04:00",
+      "product_id": 8444654354520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTY-PICNIC_IP17AIR_BubblegumPink.jpg?v=1754668129",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35600788488280,
+      "created_at": "2024-02-28T09:52:18-05:00",
+      "position": 2,
+      "updated_at": "2024-02-28T09:52:18-05:00",
+      "product_id": 8444654354520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/yeunglove-pretty-picnic-lifestyle.jpg?v=1709131938",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": 35065768575064,
+      "created_at": "2025-05-21T11:32:31-04:00",
+      "position": 3,
+      "updated_at": "2025-08-14T13:17:00-04:00",
+      "product_id": 8444654354520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTYPICNIC_BUBBLEGUM_1_7e004ac7-6e55-4dc2-bacf-80fa53ec7a1c.jpg?v=1755191820",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32241128833112,
+      "created_at": "2024-02-28T17:29:28-05:00",
+      "position": 4,
+      "updated_at": "2025-08-14T13:17:00-04:00",
+      "product_id": 8444654354520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Pretty_Picnic_3.jpg?v=1755191820",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PRETTY-PICNIC_IP17AIR_BubblegumPink.jpg?v=1754668129",
+  "images_count": 4,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

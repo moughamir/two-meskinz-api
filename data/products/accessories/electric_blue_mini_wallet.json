@@ -1,0 +1,104 @@
+{
+  "id": 7714668150872,
+  "title": "Electric Blue Mini Wallet",
+  "handle": "electric-blue-mini-wallet",
+  "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Our minimalist Mini Wallet from Pela Case is a stylish yet sustainable way to keep track of your cards. Available in a variety of colors.</span></p>\n<p><strong>Perfectly Sized</strong><span>: With dimensions of 97.7mm x 66mm, it's designed to hold up to two cards on each side. Initially snug, it promises to stretch just enough to fit your cards comfortably over time.</span></p>\n<p><strong>Sustainable Chic</strong><span>: Crafted from Pela's signature compostable material, it combines environmental responsibility with elegant design.</span></p>\n<p><span><strong>Seamlessly Welded:</strong> Crafted without adhesives for enhanced durability and a sleek profile</span></p>\n<ul></ul>\n<ul></ul>\n<ul></ul>\n<ul></ul>",
+  "published_at": "2024-05-14T12:36:07-04:00",
+  "created_at": "2024-04-04T13:38:39-04:00",
+  "updated_at": "2025-09-22T15:16:09-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Mini Wallet",
+  "tags": [
+    "accessory",
+    "Mini Wallet",
+    "new accessory",
+    "Solid Color Mini Wallet"
+  ],
+  "variants": [
+    {
+      "id": 41355209146456,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25622-CARDK-ELEBLUE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 41,
+      "compare_at_price": "40.00",
+      "position": 1,
+      "product_id": 7714668150872,
+      "created_at": "2024-04-04T13:38:40-04:00",
+      "updated_at": "2025-09-22T15:16:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640212172888,
+      "created_at": "2024-04-16T14:30:59-04:00",
+      "position": 1,
+      "updated_at": "2024-04-23T11:22:09-04:00",
+      "product_id": 7714668150872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_ELECTRIC_BLUE_FRONT45R.jpg?v=1713885729",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640212271192,
+      "created_at": "2024-04-16T14:30:59-04:00",
+      "position": 2,
+      "updated_at": "2024-04-23T11:22:09-04:00",
+      "product_id": 7714668150872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_ELECTRIC_BLUE_FRONT.jpg?v=1713885729",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640212140120,
+      "created_at": "2024-04-16T14:30:59-04:00",
+      "position": 3,
+      "updated_at": "2024-04-16T14:31:04-04:00",
+      "product_id": 7714668150872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_ELECTRIC_BLUE_BACK.jpg?v=1713292264",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640212205656,
+      "created_at": "2024-04-16T14:30:59-04:00",
+      "position": 4,
+      "updated_at": "2024-04-16T14:31:04-04:00",
+      "product_id": 7714668150872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_ELECTRIC_BLUE_BACK45L.jpg?v=1713292264",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "compare_at_price": 40,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/Mini_Wallet_ELECTRIC_BLUE_FRONT45R.jpg?v=1713885729",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Mini Wallet",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

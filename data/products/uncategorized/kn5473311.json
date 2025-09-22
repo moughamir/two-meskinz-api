@@ -1,0 +1,68 @@
+{
+  "id": 5322758160551,
+  "title": ".4230 ST FL RHC REAMER",
+  "handle": "kn5473311",
+  "body_html": "<br><strong>Item #: </strong>MW205000004230<br><strong>Brand: </strong>Monster Tool Company<br><strong>Model #: </strong>500-0004230<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>0.423″ </td>\n</tr>\n<tr>\n<td><strong>Coating</strong></td>\n<td>Bright </td>\n</tr>\n<tr>\n<td><strong>Applicable Material</strong></td>\n<td>| Steel | Stainless Steel | Cast Iron | Hard Materials | Super-Alloys / Titanium | Aluminum / Non-Ferrous Materials | </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Material</strong></td>\n<td>Solid Tungsten Carbide </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>‎1-3/8″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Cutting Edge Length (L)</strong></td>\n<td>‎1-3/8″ </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>500 </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>0.423″ </td>\n</tr>\n<tr>\n<td><strong>Decimal Equivalent</strong></td>\n<td>0.423″ </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>6 </td>\n</tr>\n<tr>\n<td><strong>End Shape</strong></td>\n<td>45° Chamfered End </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>4″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter Tolerance</strong></td>\n<td>‎+0.0003 / -0.0000 </td>\n</tr>\n<tr>\n<td><strong>Neck Length (LN)</strong></td>\n<td>7/8″ </td>\n</tr>\n<tr>\n<td><strong>Single / Double End</strong></td>\n<td>Single End </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Length Group</strong></td>\n<td>Regular </td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>C-2 Sub-Micron </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T22:04:00-06:00",
+  "created_at": "2020-06-12T17:01:28-05:00",
+  "updated_at": "2025-09-22T10:52:07-05:00",
+  "vendor": "Monster Tool Company",
+  "product_type": "Holemaking",
+  "tags": [
+    "Reaming",
+    "Screwdrivers; Nutdrivers & Hex Keys"
+  ],
+  "variants": [
+    {
+      "id": 34697070936231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MW205000004230",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "102.92",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5322758160551,
+      "created_at": "2020-06-12T17:01:29-05:00",
+      "updated_at": "2025-09-22T10:52:07-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38143881347239,
+      "created_at": "2025-01-23T22:04:08-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T22:04:09-06:00",
+      "product_id": 5322758160551,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0556786.png?v=1737691449",
+      "width": 265,
+      "height": 265
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 102.92,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0556786.png?v=1737691449",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Monster Tool Company",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

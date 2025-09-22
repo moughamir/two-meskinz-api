@@ -1,0 +1,77 @@
+{
+  "id": 7571956465752,
+  "title": "Powder Blue Denim Heart iPhone 14/16e Case",
+  "handle": "powder-blue-denim-heart-eco-friendly-iphone-14-16e-case",
+  "body_html": "<p><span>Rekindle your fond memories of the '90s with our Denim Heart Phone Case. This case features a classic denim design complete with a stitched heart emblem, evoking the timeless fashion staple that defined an era.</span></p>\n<p><span>This case isn't just about protection; it's about expressing a love for the past with a commitment to the future. Adorn your phone with this case and let it whisper tales of old-school charm coupled with modern responsibility. 🌎👖💚</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-03-12T09:47:24-04:00",
+  "created_at": "2024-03-01T15:24:01-05:00",
+  "updated_at": "2025-09-22T15:16:16-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 14/16e",
+  "tags": [
+    "art-type:Print",
+    "collection:90s",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "magsafe_compatible",
+    "name:Denim Heart",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 41090280751192,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16739-IP14-POWDERBLUE-AOD:DENIM-HEART",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7571956465752,
+      "created_at": "2024-03-01T15:24:01-05:00",
+      "updated_at": "2025-09-22T15:16:16-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32249900531800,
+      "created_at": "2024-03-01T15:24:01-05:00",
+      "position": 1,
+      "updated_at": "2024-03-01T15:24:01-05:00",
+      "product_id": 7571956465752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DENIM-HEART_IP14_PowderBlue.jpg?v=1709324641",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DENIM-HEART_IP14_PowderBlue.jpg?v=1709324641",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 14/16e",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

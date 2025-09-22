@@ -1,0 +1,120 @@
+{
+  "id": 7536126558296,
+  "title": "London Fog Petite Perennials Samsung Galaxy S21 Case",
+  "handle": "london-fog-petite-perennials-eco-friendly-samsung-galaxy-s21-case",
+  "body_html": "<p><span>Delight in the simple joys of nature with the Petite Perennials Phone Case, featuring a delicate scattering of blue wildflowers against a serene London Fog background. Each slender stem and tiny blossom is a whisper of spring's gentle arrival, turning your phone into a pocket-sized meadow. 🌼🌱📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-25T09:17:49-05:00",
+  "created_at": "2024-01-15T11:10:04-05:00",
+  "updated_at": "2025-09-22T15:16:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S21",
+  "tags": [
+    "art-type:Print",
+    "collection:Blue Blooms",
+    "collection:Florals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Petite Perennials",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40949021802584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13500-S21-LFOG-AOD:PETITE-PERENNIALS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7536126558296,
+      "created_at": "2024-01-15T11:10:04-05:00",
+      "updated_at": "2025-09-22T15:16:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32079724380248,
+      "created_at": "2024-01-15T11:10:04-05:00",
+      "position": 1,
+      "updated_at": "2024-01-15T11:10:04-05:00",
+      "product_id": 7536126558296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_S21_LondonFog.jpg?v=1705335004",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32088882184280,
+      "created_at": "2024-01-17T10:29:34-05:00",
+      "position": 2,
+      "updated_at": "2024-01-17T10:29:38-05:00",
+      "product_id": 7536126558296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP2_904b5f98-8e78-4cc9-8c60-1b018d3c5381.png?v=1705505378",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088882217048,
+      "created_at": "2024-01-17T10:29:34-05:00",
+      "position": 3,
+      "updated_at": "2024-01-17T10:29:38-05:00",
+      "product_id": 7536126558296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP3_761b1165-3be6-4455-840d-a95edac01c2c.png?v=1705505378",
+      "width": 660,
+      "height": 659
+    },
+    {
+      "id": 32088882249816,
+      "created_at": "2024-01-17T10:29:34-05:00",
+      "position": 4,
+      "updated_at": "2024-01-17T10:29:38-05:00",
+      "product_id": 7536126558296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PetitePerennials_PDP1_52c8cc6a-2742-4901-a9a3-aed4fe175e70.png?v=1705505378",
+      "width": 659,
+      "height": 659
+    },
+    {
+      "id": 32088881987672,
+      "created_at": "2024-01-17T10:29:34-05:00",
+      "position": 5,
+      "updated_at": "2024-01-17T10:29:38-05:00",
+      "product_id": 7536126558296,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MULTI_PDP1_b7c5c5cd-b209-4c8b-96f0-00c157840f16.png?v=1705505378",
+      "width": 659,
+      "height": 659
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/PETITE-PERENNIALS_S21_LondonFog.jpg?v=1705335004",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S21",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

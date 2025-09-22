@@ -1,0 +1,98 @@
+{
+  "id": 8299257987160,
+  "title": "Chocolate Brown Coffee Club iPhone 15 Pro Case",
+  "handle": "chocolate-brown-coffee-club-eco-friendly-iphone-15-pro-case",
+  "body_html": "<p><meta charset=\"utf-8\">Calling all coffee lovers—this phone case was made for you! <meta charset=\"utf-8\">☕📖<em data-start=\"4436\" data-end=\"4449\">Coffee Club</em> features hand-drawn doodles of lattes, French presses, and cozy café vibes, perfect for those who never start their day without a good brew. Sustainable, stylish, and caffeine-approved.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-13T07:04:44-04:00",
+  "created_at": "2025-02-26T10:04:27-05:00",
+  "updated_at": "2025-09-22T15:14:55-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 15 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Chocolate Brown",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Coffee Club",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42697348120664,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17064-IP15P-CHOBROWN-AOD:COFFEE-CLUB",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8299257987160,
+      "created_at": "2025-02-26T10:04:27-05:00",
+      "updated_at": "2025-09-22T15:14:55-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34599154548824,
+      "created_at": "2025-02-26T10:04:27-05:00",
+      "position": 1,
+      "updated_at": "2025-02-26T10:04:29-05:00",
+      "product_id": 8299257987160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/COFFEE-CLUB_IP15P_ChocolateBrown.jpg?v=1740582269",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34676684554328,
+      "created_at": "2025-03-12T09:40:54-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T09:40:55-04:00",
+      "product_id": 8299257987160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoffeeClub_PDP1_b0d8a4b6-76ea-4388-98b3-df18d0b07583.jpg?v=1741786855",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 34676684587096,
+      "created_at": "2025-03-12T09:40:54-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T09:40:55-04:00",
+      "product_id": 8299257987160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CoffeeClub_PDP2_2ebc2548-e9e5-4438-b843-a3b0859780a6.jpg?v=1741786855",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/COFFEE-CLUB_IP15P_ChocolateBrown.jpg?v=1740582269",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 15 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

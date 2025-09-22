@@ -1,0 +1,68 @@
+{
+  "id": 8452591517863,
+  "title": "Hex Socket Cap Screw: 5/16-24 Thread, 3/4\" Length Under Head, Stainless Steel, Bright/Uncoated Finish",
+  "handle": "55063564",
+  "body_html": "<br><strong>Item #: </strong>12146551<br><strong>Brand: </strong>Made in USA<br><strong>Model #: </strong>31F75KCSS<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Thread Size (Inch)</strong>\n</td>\n<td>5/16-24</td>\n</tr>\n<tr> <td> <strong>Length Under Head (Inch)</strong>\n</td>\n<td>3/4</td>\n</tr>\n<tr> <td> <strong>Full or Partial Threading</strong>\n</td>\n<td>Fully Threaded</td>\n</tr>\n<tr> <td> <strong>Drive Type</strong>\n</td>\n<td>Hex</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Stainless Steel</td>\n</tr>\n<tr> <td> <strong>Finish Coating</strong>\n</td>\n<td>Bright/Uncoated</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>31161501</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T11:05:00-06:00",
+  "created_at": "2025-01-23T11:04:58-06:00",
+  "updated_at": "2025-09-22T10:52:18-05:00",
+  "vendor": "Made in USA",
+  "product_type": "Fasteners",
+  "tags": [
+    "Bolts",
+    "Screws & Cap Screws"
+  ],
+  "variants": [
+    {
+      "id": 46498191802535,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "12146551",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.29",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452591517863,
+      "created_at": "2025-01-23T11:04:58-06:00",
+      "updated_at": "2025-09-22T10:52:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38244666835111,
+      "created_at": "2025-02-03T22:43:33-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T22:43:34-06:00",
+      "product_id": 8452591517863,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1214698-21_b3097a47-8a4d-4ab5-8029-63790ad5662f.jpg?v=1738644214",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30.29,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/1214698-21_b3097a47-8a4d-4ab5-8029-63790ad5662f.jpg?v=1738644214",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Made in USA",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

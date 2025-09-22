@@ -1,0 +1,67 @@
+{
+  "id": 8452534337703,
+  "title": "Impact Socket: 1-1/2\" Drive, 3-3/16\" Socket, Hex Drive",
+  "handle": "01-350-213",
+  "body_html": "<br><strong>Item #: </strong>05152285<br><strong>Brand: </strong>EGA Master<br><strong>Model #: </strong>68739<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Drive Size</strong>\n</td>\n<td>1-1/2</td>\n</tr>\n<tr> <td> <strong>Socket Size (Inch)</strong>\n</td>\n<td>3-3/16</td>\n</tr>\n<tr> <td> <strong>Number Of Points</strong>\n</td>\n<td>6</td>\n</tr>\n<tr> <td> <strong>Drive Style</strong>\n</td>\n<td>Hex</td>\n</tr>\n<tr> <td> <strong>Length Type</strong>\n</td>\n<td>Standard</td>\n</tr>\n<tr> <td> <strong>Overall Length (mm)</strong>\n</td>\n<td>110.00</td>\n</tr>\n<tr> <td> <strong>Material</strong>\n</td>\n<td>Chromium-Molybdenum Steel</td>\n</tr>\n<tr> <td> <strong>Finish</strong>\n</td>\n<td>Black Phosphate</td>\n</tr>\n<tr> <td> <strong>Insulated</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Non-sparking</strong>\n</td>\n<td>No</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>DIN 3129</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27111704</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T09:19:56-06:00",
+  "created_at": "2025-01-23T09:19:55-06:00",
+  "updated_at": "2025-09-22T10:52:23-05:00",
+  "vendor": "EGA Master",
+  "product_type": "Hand Tools",
+  "tags": [
+    "Sockets & Socket Accessories"
+  ],
+  "variants": [
+    {
+      "id": 46498010267815,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "05152285",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1268.89",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8452534337703,
+      "created_at": "2025-01-23T09:19:55-06:00",
+      "updated_at": "2025-09-22T10:52:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38242338341031,
+      "created_at": "2025-02-03T21:28:37-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T21:28:38-06:00",
+      "product_id": 8452534337703,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0520647-21_4d11a2b1-8091-4ba2-9adb-4a4432a64662.jpg?v=1738639718",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1268.89,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/0520647-21_4d11a2b1-8091-4ba2-9adb-4a4432a64662.jpg?v=1738639718",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "EGA Master",
+  "category": "Hand Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8453324210343,
+  "title": "FOLDING UTILITY KNIFE",
+  "handle": "kp6010925",
+  "body_html": null,
+  "published_at": "2025-01-24T01:13:47-06:00",
+  "created_at": "2025-01-24T01:13:45-06:00",
+  "updated_at": "2025-09-22T10:51:57-05:00",
+  "vendor": "ET02 New 2021",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500305272999,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6010925",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "28.89",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453324210343,
+      "created_at": "2025-01-24T01:13:45-06:00",
+      "updated_at": "2025-09-22T10:51:57-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 28.89,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2021",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

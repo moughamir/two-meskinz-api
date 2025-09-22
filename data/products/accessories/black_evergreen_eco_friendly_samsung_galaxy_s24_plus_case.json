@@ -1,0 +1,97 @@
+{
+  "id": 7529025437784,
+  "title": "Black Evergreen Samsung Galaxy S24+(Plus) Case",
+  "handle": "black-evergreen-eco-friendly-samsung-galaxy-s24-plus-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌿✨ Immerse yourself in nature’s tranquility with the Evergreen Phone Case! This case features a lush, botanical pattern of green leaves against a deep black background, evoking the serene beauty of a forest in full bloom. Perfect for nature enthusiasts and those who appreciate a touch of elegance, this case turns your device into a mini oasis. Carry the essence of evergreen forests with you and let your phone flourish in style! 🍃📱</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-17T09:51:57-05:00",
+  "created_at": "2024-01-04T11:25:39-05:00",
+  "updated_at": "2025-09-22T15:16:28-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S24+(Plus)",
+  "tags": [
+    "art-type:Print",
+    "collection:Secret Garden",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Evergreen",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40920529567832,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13825-S24PLUS-BLACK-AOD:EVERGREEN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7529025437784,
+      "created_at": "2024-01-04T11:25:39-05:00",
+      "updated_at": "2025-09-22T15:16:28-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32043869503576,
+      "created_at": "2024-01-04T11:25:39-05:00",
+      "position": 1,
+      "updated_at": "2024-01-04T11:25:39-05:00",
+      "product_id": 7529025437784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_S24PLUS_Black.jpg?v=1704385539",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32044262686808,
+      "created_at": "2024-01-04T13:56:06-05:00",
+      "position": 2,
+      "updated_at": "2024-01-04T13:56:08-05:00",
+      "product_id": 7529025437784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SecretGarden4_bb1df209-178b-4398-a209-d208ea415b80.png?v=1704394568",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32044262654040,
+      "created_at": "2024-01-04T13:56:06-05:00",
+      "position": 3,
+      "updated_at": "2024-01-04T13:56:08-05:00",
+      "product_id": 7529025437784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9094_1_87ed9e21-b6b4-4c82-b555-4c4c7facee70.jpg?v=1704394568",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/EVERGREEN_S24PLUS_Black.jpg?v=1704385539",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S24+(Plus)",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

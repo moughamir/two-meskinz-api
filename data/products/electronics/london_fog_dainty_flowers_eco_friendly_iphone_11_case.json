@@ -1,0 +1,87 @@
+{
+  "id": 6828716621912,
+  "title": "London Fog Dainty Flowers iPhone 11 Case",
+  "handle": "london-fog-dainty-flowers-eco-friendly-iphone-11-case",
+  "body_html": "<p><meta charset=\"utf-8\">Sprinkle a dash of delicate charm onto your device with the Dainty Flowers Phone Case! This adorable design is adorned with petite blossoms in a lovely array of colors, making your phone feel like a garden in full bloom. Perfect for those who appreciate the subtler side of floral beauty, this case brings a touch of nature’s elegance wherever you go. Let your phone flourish with the sweet and whimsical allure of the Dainty Flowers Phone Case! 🌼🌷✨</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-01-23T14:05:56-05:00",
+  "created_at": "2021-10-22T13:46:18-04:00",
+  "updated_at": "2025-09-22T15:16:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Wild Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Dainty Flowers",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 39685098635352,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16219-IP11-LFOG-AOD:DAINTY-FLOWERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 6828716621912,
+      "created_at": "2021-10-22T13:46:18-04:00",
+      "updated_at": "2025-09-22T15:16:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32116384858200,
+      "created_at": "2024-01-23T13:43:45-05:00",
+      "position": 1,
+      "updated_at": "2024-01-23T13:43:45-05:00",
+      "product_id": 6828716621912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAINTY-FLOWERS_IP11_LondonFog_233fc6c1-ea2f-4c22-93fd-261893859001.jpg?v=1706035425",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28838162661464,
+      "created_at": "2021-10-26T14:39:25-04:00",
+      "position": 2,
+      "updated_at": "2021-10-26T14:39:26-04:00",
+      "product_id": 6828716621912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAINTYFLOWERS_42ce67f9-8933-44a3-b232-2b45baba7961.jpg?v=1635273566",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/DAINTY-FLOWERS_IP11_LondonFog_233fc6c1-ea2f-4c22-93fd-261893859001.jpg?v=1706035425",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

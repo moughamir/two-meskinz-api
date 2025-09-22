@@ -1,0 +1,69 @@
+{
+  "id": 5321882042535,
+  "title": "Brand: E-Z LOK / Part #: DT-524",
+  "handle": "tm1180511",
+  "body_html": "<br><strong>Item #: </strong>48542492<br><strong>Brand: </strong>E-Z LOK<br><strong>Model #: </strong>DT-524<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Product Type</strong>\n</td>\n<td>Knife</td>\n</tr>\n<tr>\n<td><strong>Thread Size</strong></td>\n<td>5/16-24</td>\n</tr>\n<tr>\n<td><strong>Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Drill Size</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Hex Size</strong></td>\n<td>1/2</td>\n</tr>\n<tr>\n<td><strong>Hole Diameter</strong></td>\n<td>0.5000</td>\n</tr>\n<tr>\n<td><strong>Insert Diameter</strong></td>\n<td>0.60 in</td>\n</tr>\n<tr>\n<td><strong>Overall Length</strong></td>\n<td>1.88</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T09:35:55-06:00",
+  "created_at": "2020-06-12T11:57:49-05:00",
+  "updated_at": "2025-09-22T10:53:14-05:00",
+  "vendor": "E-Z LOK",
+  "product_type": "Fasteners",
+  "tags": [
+    "Coated Abrasives",
+    "Drilling",
+    "Threaded Inserts; Rivet Nuts & Weld Nuts"
+  ],
+  "variants": [
+    {
+      "id": 34694219268263,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "48542492",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.94",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5321882042535,
+      "created_at": "2020-06-12T11:57:49-05:00",
+      "updated_at": "2025-09-22T10:53:14-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38239132975271,
+      "created_at": "2025-02-03T19:21:18-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T19:21:20-06:00",
+      "product_id": 5321882042535,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4854249-21.jpg?v=1738632080",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.94,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4854249-21.jpg?v=1738632080",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "E-Z LOK",
+  "category": "Fasteners",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

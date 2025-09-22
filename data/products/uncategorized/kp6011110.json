@@ -1,0 +1,52 @@
+{
+  "id": 8453357535399,
+  "title": "8 PLIER LONG NOSE_SIDECUT",
+  "handle": "kp6011110",
+  "body_html": null,
+  "published_at": "2025-01-24T02:51:36-06:00",
+  "created_at": "2025-01-24T02:51:34-06:00",
+  "updated_at": "2025-09-22T10:51:50-05:00",
+  "vendor": "ET02 New 2021",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500437655719,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6011110",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.04",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453357535399,
+      "created_at": "2025-01-24T02:51:34-06:00",
+      "updated_at": "2025-09-22T10:51:50-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55.04,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2021",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

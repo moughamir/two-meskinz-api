@@ -1,0 +1,67 @@
+{
+  "id": 8451930423463,
+  "title": "Brand: Race Sport / Part #: 1007334",
+  "handle": "07119373-1",
+  "body_html": "<br><strong>Item #: </strong>76205913<br><strong>Brand: </strong>Race Sport<br><strong>Model #: </strong>1007334<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Bulb Type</strong>\n</td>\n<td>Switch Back Replacement Bulb</td>\n</tr>\n<tr>\n<td><strong>Bulb Shape</strong></td>\n<td>Cylinder</td>\n</tr>\n<tr>\n<td><strong>Bulb Material</strong></td>\n<td>Mixed Metals</td>\n</tr>\n<tr>\n<td><strong>Bulb Base Type</strong></td>\n<td>7443 Base</td>\n</tr>\n<tr>\n<td><strong>Light Technology</strong></td>\n<td>LED</td>\n</tr>\n<tr>\n<td><strong>Light Appearance</strong></td>\n<td>White/Amber</td>\n</tr>\n<tr>\n<td><strong>Voltage</strong></td>\n<td>12 VDC</td>\n</tr>\n<tr>\n<td><strong>Amperage</strong></td>\n<td>0.1 A</td>\n</tr>\n<tr>\n<td><strong>Rated Life</strong></td>\n<td>30000 h</td>\n</tr>\n<tr>\n<td><strong>Maximum Temperature</strong></td>\n<td>120 ?F</td>\n</tr>\n<tr>\n<td><strong>Standards</strong></td>\n<td>Prop 65 WARNING</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T10:20:41-06:00",
+  "created_at": "2025-01-22T10:20:39-06:00",
+  "updated_at": "2025-09-22T10:45:37-05:00",
+  "vendor": "Race Sport",
+  "product_type": "Fleet Maintenance",
+  "tags": [
+    "Automotive Electrical & Lighting"
+  ],
+  "variants": [
+    {
+      "id": 46494540136615,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "76205913",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451930423463,
+      "created_at": "2025-01-22T10:20:39-06:00",
+      "updated_at": "2025-09-22T10:45:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38113765687463,
+      "created_at": "2025-01-22T10:20:48-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T10:20:50-06:00",
+      "product_id": 8451930423463,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7620591-21_40eb5422-1814-4664-9823-d2d42e96258a.jpg?v=1737562850",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7620591-21_40eb5422-1814-4664-9823-d2d42e96258a.jpg?v=1737562850",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Race Sport",
+  "category": "Fleet Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

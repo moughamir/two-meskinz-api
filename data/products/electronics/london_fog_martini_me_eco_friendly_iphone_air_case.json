@@ -1,0 +1,118 @@
+{
+  "id": 8444683419736,
+  "title": "London Fog Martini Me iPhone Air Case",
+  "handle": "london-fog-martini-me-eco-friendly-iphone-air-case",
+  "body_html": "<p class=\"p1\">For those who appreciate a good cocktail and a dash of elegance, the Martini Me Phone Case is here to serve. Featuring a playful pattern of martini glasses adorned with a twist of ribbon and olives, this case is as classy as it is fun. Slip it on and let every day feel like a happy hour for your style! Cheers to that!<b>🍸✨</b></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-09-09T17:02:36-04:00",
+  "created_at": "2025-08-08T11:50:32-04:00",
+  "updated_at": "2025-09-22T15:12:39-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone Air",
+  "tags": [
+    "art-type:Print",
+    "collection:Cheers",
+    "IP17 Series",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Martini Me",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43184181510232,
+      "title": "With MagSafe",
+      "option1": "With MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:MARTINI-ME_CNC",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "75.00",
+      "grams": 0,
+      "compare_at_price": "75.00",
+      "position": 1,
+      "product_id": 8444683419736,
+      "created_at": "2025-09-03T18:38:46-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    },
+    {
+      "id": 43184181543000,
+      "title": "Without MagSafe",
+      "option1": "Without MagSafe",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17540-IP17AIR-LFOG-AOD:MARTINI-ME",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 2,
+      "product_id": 8444683419736,
+      "created_at": "2025-09-03T18:38:46-04:00",
+      "updated_at": "2025-09-22T15:12:39-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567255322712,
+      "created_at": "2025-08-08T11:50:32-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:50:35-04:00",
+      "product_id": 8444683419736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINI-ME_IP17AIR_LondonFog.jpg?v=1754668235",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34672167780440,
+      "created_at": "2025-03-11T16:04:52-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T16:04:54-04:00",
+      "product_id": 8444683419736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINIME_PDP1_a1a4ab04-6ff5-49a6-a495-065425294cdc.jpg?v=1741723494",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33950472274008,
+      "created_at": "2024-11-08T11:08:44-05:00",
+      "position": 3,
+      "updated_at": "2024-11-08T11:08:46-05:00",
+      "product_id": 8444683419736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINIME_PDP2_18a581aa-d767-40fe-a71a-c5929d3395e4.jpg?v=1731082126",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "MagSafe Compatibility",
+      "position": 1,
+      "values": [
+        "With MagSafe",
+        "Without MagSafe"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/MARTINI-ME_IP17AIR_LondonFog.jpg?v=1754668235",
+  "images_count": 3,
+  "variants_count": 2,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone Air",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

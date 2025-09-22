@@ -1,0 +1,97 @@
+{
+  "id": 8310732554328,
+  "title": "Sage Green Bright Spring Google Pixel 9a Case",
+  "handle": "sage-green-bright-spring-eco-friendly-google-pixel-9a-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Embrace the vibrancy of the season with the Pela Bright Spring Phone Case! This case bursts with a vivid and playful palette, featuring an eclectic mix of floral designs that bring the joy of a blooming garden right to your fingertips. Each flower is rendered in bold, eye-catching colors—from sunlit yellows to deep blues—creating a lively pattern that celebrates the energetic beauty of spring. Perfect for those who love to carry a piece of sunshine and freshness with them, this phone case not only protects your device but also infuses your day with a touch of floral delight.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-03-19T09:32:47-04:00",
+  "created_at": "2025-03-11T12:31:57-04:00",
+  "updated_at": "2025-09-22T15:14:47-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9a",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Flowers",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Bright Spring",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42726124355672,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15738-PX9a-SAGE-AOD:BRIGHT-SPRING",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8310732554328,
+      "created_at": "2025-03-11T12:31:57-04:00",
+      "updated_at": "2025-09-22T15:14:47-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34671282487384,
+      "created_at": "2025-03-11T12:31:57-04:00",
+      "position": 1,
+      "updated_at": "2025-03-11T12:31:59-04:00",
+      "product_id": 8310732554328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BRIGHT-SPRING_PX9A_SageGreen.jpg?v=1741710719",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678513991768,
+      "created_at": "2025-03-12T16:03:56-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T16:03:57-04:00",
+      "product_id": 8310732554328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/IMG_9477.jpg?v=1741809837",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34678513959000,
+      "created_at": "2025-03-12T16:03:56-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T16:03:57-04:00",
+      "product_id": 8310732554328,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringFlowersv2.png?v=1741809837",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BRIGHT-SPRING_PX9A_SageGreen.jpg?v=1741710719",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

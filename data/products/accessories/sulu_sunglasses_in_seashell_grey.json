@@ -1,0 +1,117 @@
+{
+  "id": 6764888195160,
+  "title": "Sulu Sunglasses in Seashell Grey",
+  "handle": "sulu-sunglasses-in-seashell-grey",
+  "body_html": "<meta charset=\"utf-8\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Eyewear for People Who Care:<span data-mce-fragment=\"1\"> </span></span><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span><span data-mce-fragment=\"1\"> These sunglasses offer full UVA/UVB protection and is durable enough for anything you want to do outside. Sustainability has never looked this cool.</span>",
+  "published_at": "2025-05-08T09:12:32-04:00",
+  "created_at": "2021-09-21T12:27:04-04:00",
+  "updated_at": "2025-09-22T15:14:14-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Sulu"
+  ],
+  "variants": [
+    {
+      "id": 39617072693336,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40142-SULU-SEASHELL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6764888195160,
+      "created_at": "2021-09-21T12:27:04-04:00",
+      "updated_at": "2025-09-22T15:14:14-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28654063157336,
+      "created_at": "2021-09-21T13:39:37-04:00",
+      "position": 1,
+      "updated_at": "2021-09-21T13:39:39-04:00",
+      "product_id": 6764888195160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_SEASHELLGREY__1.png?v=1632245979",
+      "width": 2000,
+      "height": 1984
+    },
+    {
+      "id": 28654063190104,
+      "created_at": "2021-09-21T13:39:37-04:00",
+      "position": 2,
+      "updated_at": "2021-09-21T13:39:39-04:00",
+      "product_id": 6764888195160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_SEASHELLGREY__2.png?v=1632245979",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654063124568,
+      "created_at": "2021-09-21T13:39:37-04:00",
+      "position": 3,
+      "updated_at": "2021-09-21T13:39:38-04:00",
+      "product_id": 6764888195160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_SEASHELLGREY__3.png?v=1632245978",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654063255640,
+      "created_at": "2021-09-21T13:39:37-04:00",
+      "position": 4,
+      "updated_at": "2021-09-21T13:39:39-04:00",
+      "product_id": 6764888195160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_SEASHELLGREY__4.png?v=1632245979",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28654063222872,
+      "created_at": "2021-09-21T13:39:37-04:00",
+      "position": 5,
+      "updated_at": "2021-09-21T13:39:39-04:00",
+      "product_id": 6764888195160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/Sulu-Seashell-Grey-Alexis.jpg?v=1632245979",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SULU_SEASHELLGREY__1.png?v=1632245979",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

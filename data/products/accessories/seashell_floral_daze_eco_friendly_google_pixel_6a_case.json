@@ -1,0 +1,98 @@
+{
+  "id": 7374104363096,
+  "title": "Seashell Floral Daze Google Pixel 6a Case",
+  "handle": "seashell-floral-daze-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><span>Embrace the blossoming beauty of nature with our Floral Daze Phone Case, a design that marries the digital and natural world in a celebration of form and function.  This case features a tapestry of abstract floral patterns in shades of cream and spring leaf green, evoking the feel of a serene meadow.</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2023-09-07T08:48:30-04:00",
+  "created_at": "2023-08-29T15:01:12-04:00",
+  "updated_at": "2025-09-22T15:16:36-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Florals",
+    "collection:Groovy Dreams",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Floral Daze",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 40258377449560,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:FLORAL-DAZE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 7374104363096,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "updated_at": "2025-09-22T15:16:36-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 30352885153880,
+      "created_at": "2023-08-29T15:01:12-04:00",
+      "position": 1,
+      "updated_at": "2023-08-29T15:01:12-04:00",
+      "product_id": 7374104363096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_PX6A_Seashell.jpg?v=1693335672",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356577091672,
+      "created_at": "2023-09-05T18:04:03-04:00",
+      "position": 2,
+      "updated_at": "2023-09-05T18:04:04-04:00",
+      "product_id": 7374104363096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams2_952458ad-21dc-4f04-a807-83b154b9dd3c.jpg?v=1693951444",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 30356577124440,
+      "created_at": "2023-09-05T18:04:03-04:00",
+      "position": 3,
+      "updated_at": "2023-09-05T18:04:04-04:00",
+      "product_id": 7374104363096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Groovydreams6_2c8f437b-0b7e-42a6-8b80-2853e538a894.jpg?v=1693951444",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/FLORAL-DAZE_PX6A_Seashell.jpg?v=1693335672",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

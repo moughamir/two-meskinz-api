@@ -1,0 +1,114 @@
+{
+  "id": 6720756383832,
+  "title": "Sage Green AirTag Holder",
+  "handle": "sage-green-airtag-holder",
+  "body_html": "<meta charset=\"utf-8\"><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Give your AirTag a protective cover without using single-use plastics. Meet the world's first compostable AirTag case. Whether you prefer to keep tabs on your backpack, keychain or furry friends, a Pela Case AirTag holder will keep your Apple AirTag secure. These AirTag cases are designed with a clip to secure your AirTag to all kinds of items. Like all Pela products, these AirTag accessories are made from Flaxstic, a high-performing material that offers a comfortable feel while taking a stand against plastic. Discover our entire line-up of AirTag cases today!</span><br>",
+  "published_at": "2024-04-22T14:07:17-04:00",
+  "created_at": "2021-08-12T11:44:14-04:00",
+  "updated_at": "2025-09-22T15:16:11-04:00",
+  "vendor": "Pela Case",
+  "product_type": "AirTag Holder",
+  "tags": [
+    "accessory",
+    "AirTag Holder",
+    "new accessory"
+  ],
+  "variants": [
+    {
+      "id": 39559864713304,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "25673-AIRTAGH-SAGE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "15.00",
+      "grams": 3,
+      "compare_at_price": "15.00",
+      "position": 1,
+      "product_id": 6720756383832,
+      "created_at": "2021-08-12T11:44:14-04:00",
+      "updated_at": "2025-09-22T15:16:11-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 32640177700952,
+      "created_at": "2024-04-16T14:16:32-04:00",
+      "position": 1,
+      "updated_at": "2024-04-16T14:16:40-04:00",
+      "product_id": 6720756383832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_FRONT_SAGEGREEN.jpg?v=1713291400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640177504344,
+      "created_at": "2024-04-16T14:16:32-04:00",
+      "position": 2,
+      "updated_at": "2024-04-16T14:16:40-04:00",
+      "product_id": 6720756383832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_FRONT45L_SAGEGREEN.jpg?v=1713291400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640177668184,
+      "created_at": "2024-04-16T14:16:32-04:00",
+      "position": 3,
+      "updated_at": "2024-04-16T14:16:40-04:00",
+      "product_id": 6720756383832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_FRONT45R_SAGEGREEN.jpg?v=1713291400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640177602648,
+      "created_at": "2024-04-16T14:16:32-04:00",
+      "position": 4,
+      "updated_at": "2024-04-16T14:16:40-04:00",
+      "product_id": 6720756383832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_BACK_SAGEGREEN.jpg?v=1713291400",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 32640177569880,
+      "created_at": "2024-04-16T14:16:32-04:00",
+      "position": 5,
+      "updated_at": "2024-04-16T14:16:40-04:00",
+      "product_id": 6720756383832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_NO_TAG_45R_SAGEGREEN.jpg?v=1713291400",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 15,
+  "compare_at_price": 15,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/AIRTAG_FRONT_SAGEGREEN.jpg?v=1713291400",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "AirTag Holder",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

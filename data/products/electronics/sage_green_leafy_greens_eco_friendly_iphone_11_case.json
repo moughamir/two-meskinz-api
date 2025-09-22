@@ -1,0 +1,108 @@
+{
+  "id": 8286011097176,
+  "title": "Sage Green Leafy Greens iPhone 11 Case",
+  "handle": "sage-green-leafy-greens-eco-friendly-iphone-11-case",
+  "body_html": "<p data-end=\"353\" data-start=\"69\"><meta charset=\"utf-8\">Give your phone the freshest fit around! <meta charset=\"utf-8\">🌿🥬 The Leafy Greens Phone Case is here to add a playful twist of vibrant kale and leafy goodness to your everyday style. This fun, garden-inspired case is perfect for green thumbs, salad enthusiasts, or anyone craving a splash of nature in their pocket.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-02-27T08:56:14-05:00",
+  "created_at": "2025-02-12T10:14:45-05:00",
+  "updated_at": "2025-09-22T15:15:00-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 11",
+  "tags": [
+    "art-type:Print",
+    "collection:Unfun Vegetables",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Leafy Greens",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42658626830424,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16218-IP11-SAGE-AOD:LEAFY-GREENS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8286011097176,
+      "created_at": "2025-02-12T10:14:45-05:00",
+      "updated_at": "2025-09-22T15:15:00-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34505570254936,
+      "created_at": "2025-02-12T10:14:45-05:00",
+      "position": 1,
+      "updated_at": "2025-02-12T10:14:48-05:00",
+      "product_id": 8286011097176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_IP11_SageGreen.jpg?v=1739373288",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34600902328408,
+      "created_at": "2025-02-26T15:57:31-05:00",
+      "position": 2,
+      "updated_at": "2025-02-26T15:57:32-05:00",
+      "product_id": 8286011097176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_06_7a085105-c54f-43c6-8c04-598f3f2f590f.jpg?v=1740603452",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600902393944,
+      "created_at": "2025-02-26T15:57:31-05:00",
+      "position": 3,
+      "updated_at": "2025-02-26T15:57:32-05:00",
+      "product_id": 8286011097176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Lifestyle_Group_PDP_1x1_08_bc1b732e-23b6-4f42-8725-9229df9c40c5.jpg?v=1740603452",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34600902361176,
+      "created_at": "2025-02-26T15:57:31-05:00",
+      "position": 4,
+      "updated_at": "2025-02-26T15:57:32-05:00",
+      "product_id": 8286011097176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/UnfunVeggies_Render_Group_Androids_PDP_1x1_03_a5f8e9b3-c998-4f62-9448-6027b181c5d0.jpg?v=1740603452",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LEAFY-GREENS_IP11_SageGreen.jpg?v=1739373288",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 11",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

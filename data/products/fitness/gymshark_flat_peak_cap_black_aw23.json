@@ -1,0 +1,110 @@
+{
+  "id": 6805438628042,
+  "title": "Gymshark Flat Peak Cap - Black",
+  "handle": "gymshark-flat-peak-cap-black-aw23",
+  "body_html": "<p><strong>GET AHEAD OF THE GAME</strong></p>\n<p><br data-mce-fragment=\"1\">A hat thatÕs sure to get heads turning. The Flat Peak Baseball Cap features sweat-wicking, stretchy fabric and a premium metal adjuster to the back, making it the perfect addition to your everyday.</p>\n<p>Ê</p>\n<p><br data-mce-fragment=\"1\">- Sweat-wicking, stretchy fabric<br data-mce-fragment=\"1\">- Metal adjuster to back with Gymshark logo<br data-mce-fragment=\"1\">- Raised rubber printed Gymshark wordmark to front<br data-mce-fragment=\"1\">- 100% Polyester<br data-mce-fragment=\"1\">- SKU:ÊI2A4E-BBBB</p>",
+  "published_at": "2023-09-29T07:22:04-07:00",
+  "created_at": "2023-08-04T07:59:56-07:00",
+  "updated_at": "2025-09-22T08:46:10-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Accessories",
+  "tags": [
+    "%IS-refresh",
+    "20EXTRA",
+    "31/07/23",
+    "Accessories",
+    "activity: rest day",
+    "algolia",
+    "all-products",
+    "AW22",
+    "aw22-accessories",
+    "bf-23",
+    "caps",
+    "category:Headwear",
+    "filter-colour: Black",
+    "headwear",
+    "nosizeguide",
+    "not-cyber-deals",
+    "range:Key Items",
+    "rest-day",
+    "subcategory:Cap",
+    "test",
+    "tier:2",
+    "webhooks-active"
+  ],
+  "variants": [
+    {
+      "id": 39789908590794,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I2A4E-BBBB-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "28.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6805438628042,
+      "created_at": "2023-08-04T07:59:57-07:00",
+      "updated_at": "2025-09-22T08:46:10-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28976273260746,
+      "created_at": "2023-09-29T03:13:53-07:00",
+      "position": 1,
+      "updated_at": "2023-09-29T03:13:55-07:00",
+      "product_id": 6805438628042,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/FlatPeakBaseballCap-Black-I2A4E-BBBB-0201.jpg?v=1695982435",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976273555658,
+      "created_at": "2023-09-29T03:13:53-07:00",
+      "position": 2,
+      "updated_at": "2023-09-29T03:13:55-07:00",
+      "product_id": 6805438628042,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/FlatPeakBaseballCap-Black-I2A4E-BBBB-0205.jpg?v=1695982435",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28976273424586,
+      "created_at": "2023-09-29T03:13:53-07:00",
+      "position": 3,
+      "updated_at": "2023-09-29T03:13:55-07:00",
+      "product_id": 6805438628042,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/FlatPeakBaseballCap-Black-I2A4E-BBBB-0204.jpg?v=1695982435",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 28,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/FlatPeakBaseballCap-Black-I2A4E-BBBB-0201.jpg?v=1695982435",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Accessories",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

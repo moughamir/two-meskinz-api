@@ -1,0 +1,97 @@
+{
+  "id": 8254925897816,
+  "title": "Electric Blue Blue Crush Samsung Galaxy S25 Case",
+  "handle": "electric-blue-blue-crush-eco-friendly-samsung-galaxy-s25-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>🌊📱 Make waves with our Blue Crush Phone Case by Pela! Inspired by the rhythmic flow of ocean waves, this striking blue and white design offers a fresh, modern look that captures the essence of a seaside escape. Perfect for the environmentally conscious and style-savvy, it’s made from sustainable, compostable materials that protect your phone and the planet. Whether you’re surfing the web or catching real waves, this case keeps your device safe and stylish. Dive into sustainability with a splash of bold, oceanic flair! 🐚💙</span></p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T10:00:33-05:00",
+  "created_at": "2025-01-15T10:48:47-05:00",
+  "updated_at": "2025-09-22T15:15:20-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25",
+  "tags": [
+    "art-type:Print",
+    "collection:Bold and Bright",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Blue Crush",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567782301784,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13904-S25-ELEBLUE-AOD:BLUE-CRUSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254925897816,
+      "created_at": "2025-01-15T10:48:47-05:00",
+      "updated_at": "2025-09-22T15:15:20-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303330123864,
+      "created_at": "2025-01-15T10:48:47-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T10:48:49-05:00",
+      "product_id": 8254925897816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_S25_ElectricBlue.jpg?v=1736956129",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671841083480,
+      "created_at": "2025-03-11T14:37:52-04:00",
+      "position": 2,
+      "updated_at": "2025-03-11T14:37:56-04:00",
+      "product_id": 8254925897816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BRIGHTBLOOMS_LAV_1-3_fb5f4078-5696-4db8-8df6-f982dcb7c5ac.jpg?v=1741718276",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34671841116248,
+      "created_at": "2025-03-11T14:37:52-04:00",
+      "position": 3,
+      "updated_at": "2025-03-11T14:37:54-04:00",
+      "product_id": 8254925897816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BOLDANDBRIGHT_MULTI-16_408dc583-2383-4f10-a673-1c90265c9c75.jpg?v=1741718274",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BLUE-CRUSH_S25_ElectricBlue.jpg?v=1736956129",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5325541081255,
+  "title": "MEV 1250W100064T Standard Length Shank, 90 Degree End Mill",
+  "handle": "jr52050m",
+  "body_html": "<br><strong>Item #: </strong>KY96THN08556<br><strong>Brand: </strong>Kyocera Precision Tools<br><strong>Model #: </strong>THN08556<br><br><a name=\"specs\"></a><div id=\"pdp-specs\"><table class=\"ui striped table\"> <thead><tr><th colspan=\"2\" align=\"left\">Product Specifications</th></tr></thead>\n<tbody>\n<tr>\n<td><strong>Cutting Diameter (DC/DCX)</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Usable Length (LU)</strong></td>\n<td>0.2362″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter (DC)</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Flute Count (NOF)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Cutting Diameter Maximum (DCX)</strong></td>\n<td>‎1-1/4″ </td>\n</tr>\n<tr>\n<td><strong>Coolant Supply Property (CSP)</strong></td>\n<td>Coolant Thru </td>\n</tr>\n<tr>\n<td><strong>Cutting Item Count (CICT)</strong></td>\n<td>4 </td>\n</tr>\n<tr>\n<td><strong>Tool Cutting Edge Angle (KAPR)</strong></td>\n<td>90 Degrees </td>\n</tr>\n<tr>\n<td><strong>Depth of Cut Maximum (APMX)</strong></td>\n<td>0.2362″ </td>\n</tr>\n<tr>\n<td><strong>Style</strong></td>\n<td>MEV </td>\n</tr>\n<tr>\n<td><strong>Overall Length (OAL)</strong></td>\n<td>3.7311″ </td>\n</tr>\n<tr>\n<td><strong>Cutting Direction (HAND)</strong></td>\n<td>Right Hand </td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Weldon </td>\n</tr>\n<tr>\n<td><strong>Angle</strong></td>\n<td>90 Degrees </td>\n</tr>\n<tr>\n<td><strong>Application</strong></td>\n<td>Facing | Helical Milling | Plunging | Pocketing | Ramping | Shouldering | Slotting </td>\n</tr>\n<tr>\n<td><strong>Series/List #</strong></td>\n<td>MEV </td>\n</tr>\n<tr>\n<td><strong>Connection Diameter Machine Side (DCONMS)</strong></td>\n<td>1″ </td>\n</tr>\n<tr>\n<td><strong>Measurement Type</strong></td>\n<td>Inch </td>\n</tr>\n<tr>\n<td><strong>Master Insert Identification (MIID)</strong></td>\n<td>TOMT06-GM | TOMT06-SM </td>\n</tr>\n<tr>\n<td><strong>Model Number</strong></td>\n<td>8609422 </td>\n</tr>\n<tr>\n<td><strong>Weight of Item (WT)</strong></td>\n<td>0.85 </td>\n</tr>\n<tr>\n<td><strong>Body Material</strong></td>\n<td>Steel </td>\n</tr>\n<tr>\n<td><strong>Head Length (LH)</strong></td>\n<td>1.45″ </td>\n</tr>\n<tr>\n<td><strong>Shank Length (LS)</strong></td>\n<td>2.2811″ </td>\n</tr>\n<tr>\n<td><strong>Functional Length (LF)</strong></td>\n<td>3.7311″ </td>\n</tr>\n<tr>\n<td><strong></strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table></div>",
+  "published_at": "2025-01-23T20:28:44-06:00",
+  "created_at": "2020-06-13T07:51:43-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Kyocera Precision Tools",
+  "product_type": "Milling",
+  "tags": [
+    "Indexable",
+    "Inside Diameter Measurement Equipment"
+  ],
+  "variants": [
+    {
+      "id": 34704767320231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KY96THN08556",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "452.05",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5325541081255,
+      "created_at": "2020-06-13T07:51:43-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38140233547943,
+      "created_at": "2025-01-23T20:28:52-06:00",
+      "position": 1,
+      "updated_at": "2025-01-23T20:28:53-06:00",
+      "product_id": 5325541081255,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_MEV_EM_6c9b_1b086fc3-d36f-4708-bcc8-7193e5892a25.jpg?v=1737685733",
+      "width": 240,
+      "height": 300
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 452.05,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/KIC_MEV_EM_6c9b_1b086fc3-d36f-4708-bcc8-7193e5892a25.jpg?v=1737685733",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Kyocera Precision Tools",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

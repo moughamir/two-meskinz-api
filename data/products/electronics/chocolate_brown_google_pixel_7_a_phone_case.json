@@ -1,0 +1,125 @@
+{
+  "id": 8278278144088,
+  "title": "Chocolate Brown Google Pixel 7 a Phone Case",
+  "handle": "chocolate-brown-google-pixel-7-a-phone-case",
+  "body_html": "<p><meta charset=\"utf-8\"><span>Beautifully designed, Pela cases are the world’s first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</span></p>\n<p><!----></p>",
+  "published_at": "2025-02-20T12:17:20-05:00",
+  "created_at": "2025-02-04T10:23:49-05:00",
+  "updated_at": "2025-09-22T15:15:03-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 7a",
+  "tags": [
+    "Classic",
+    "Phone Case",
+    "Solid Color"
+  ],
+  "variants": [
+    {
+      "id": 42642249318488,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "14913-PX7a-CHOBROWN",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "55.00",
+      "grams": 39,
+      "compare_at_price": "55.00",
+      "position": 1,
+      "product_id": 8278278144088,
+      "created_at": "2025-02-04T10:23:49-05:00",
+      "updated_at": "2025-09-22T15:15:03-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34569283928152,
+      "created_at": "2025-02-20T10:47:10-05:00",
+      "position": 1,
+      "updated_at": "2025-02-20T10:47:12-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7A_CHOCOLATE_BROWN_BACK.jpg?v=1740066432",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569283862616,
+      "created_at": "2025-02-20T10:47:10-05:00",
+      "position": 2,
+      "updated_at": "2025-02-20T10:47:11-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7A_CHOCOLATE_BROWN_BACK45L.jpg?v=1740066431",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569283895384,
+      "created_at": "2025-02-20T10:47:10-05:00",
+      "position": 3,
+      "updated_at": "2025-02-20T10:47:11-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7A_CHOCOLATE_BROWN_BACK45R.jpg?v=1740066431",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34569391341656,
+      "created_at": "2025-02-20T11:03:41-05:00",
+      "position": 4,
+      "updated_at": "2025-02-20T11:03:43-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP2_263d1cca-7a79-40c5-9230-104a6adee227.jpg?v=1740067423",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569391308888,
+      "created_at": "2025-02-20T11:03:41-05:00",
+      "position": 5,
+      "updated_at": "2025-02-20T11:03:43-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP3_74c1c468-4272-48c3-8cb0-9fb909a1bf19.jpg?v=1740067423",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 34569391243352,
+      "created_at": "2025-02-20T11:03:41-05:00",
+      "position": 6,
+      "updated_at": "2025-02-20T11:03:43-05:00",
+      "product_id": 8278278144088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/CHOCOLATEBROWN_PDP1_ad416b7d-624a-4d13-be8d-0d0aaa1f376a.jpg?v=1740067423",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 55,
+  "compare_at_price": 55,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PX7A_CHOCOLATE_BROWN_BACK.jpg?v=1740066432",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 7a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

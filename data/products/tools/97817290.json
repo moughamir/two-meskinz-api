@@ -1,0 +1,68 @@
+{
+  "id": 5299153272999,
+  "title": "Indexable Square-Shoulder Face Mill:  R220.940050058LO12.4A",
+  "handle": "97817290",
+  "body_html": "<br><strong>Item #: </strong>87117412<br><strong>Brand: </strong>Seco<br><strong>Model #: </strong>10215183<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody>\n<tr> <td> <strong>Minimum Cutting Diameter (mm)</strong>\n</td>\n<td>50.00</td>\n</tr>\n<tr> <td> <strong>Maximum Cutting Diameter (mm)</strong>\n</td>\n<td>50.00</td>\n</tr>\n<tr> <td> <strong>Maximum Depth of Cut (mm)</strong>\n</td>\n<td>58.00</td>\n</tr>\n<tr> <td> <strong>Arbor Hole Diameter (mm)</strong>\n</td>\n<td>27.00</td>\n</tr>\n<tr> <td> <strong>Compatible Insert Size Code</strong>\n</td>\n<td>1207..</td>\n</tr>\n<tr> <td> <strong>Cutter Style</strong>\n</td>\n<td>R220.94</td>\n</tr>\n<tr> <td> <strong>Cutting Direction</strong>\n</td>\n<td>Right Hand</td>\n</tr>\n<tr> <td> <strong>Insert Holding Method</strong>\n</td>\n<td>Screw</td>\n</tr>\n<tr> <td> <strong>Lead Angle</strong>\n</td>\n<td>90</td>\n</tr>\n<tr> <td> <strong>Rake</strong>\n</td>\n<td>Negative</td>\n</tr>\n<tr> <td> <strong>Series</strong>\n</td>\n<td>R220.94</td>\n</tr>\n<tr> <td> <strong>Maximum Ramping Angle</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>Maximum Body Diameter (mm)</strong>\n</td>\n<td>50.00</td>\n</tr>\n<tr> <td> <strong>Overall Height (Mm - 5 Decimals)</strong>\n</td>\n<td>80.00000</td>\n</tr>\n<tr> <td> <strong>Keyway Width (mm)</strong>\n</td>\n<td>12.40</td>\n</tr>\n<tr> <td> <strong>Hub Diameter (mm)</strong>\n</td>\n<td>46.400</td>\n</tr>\n<tr> <td> <strong>Pitch Type</strong>\n</td>\n<td>Close</td>\n</tr>\n<tr> <td> <strong>Maximum RPM</strong>\n</td>\n<td>9900.000</td>\n</tr>\n<tr> <td> <strong>Tool Application</strong>\n</td>\n<td>Slotting; Shouldering</td>\n</tr>\n<tr> <td> <strong>Tool Performance</strong>\n</td>\n<td>General Purpose</td>\n</tr>\n<tr> <td> <strong>Standards</strong>\n</td>\n<td>ISO; ANSI</td>\n</tr>\n<tr> <td> <strong>Number of Adjustable Pockets</strong>\n</td>\n<td>0</td>\n</tr>\n<tr> <td> <strong>Minimum Insert Radius (Decimal Inch)</strong>\n</td>\n<td>0.0160</td>\n</tr>\n<tr> <td> <strong>Complete Insert Compatibility</strong>\n</td>\n<td>LOEX1207</td>\n</tr>\n<tr> <td> <strong>UNSPSC Code</strong>\n</td>\n<td>27112803</td>\n</tr>\n<tr> <td> <strong>Toolholder Material</strong>\n</td>\n<td>Steel</td>\n</tr>\n<tr> <td> <strong>Manufacturers Catalog Number</strong>\n</td>\n<td>10215183</td>\n</tr>\n<tr> <td> <strong>Maximum Insert Radius (Decimal Inch)</strong>\n</td>\n<td>0.2480</td>\n</tr>\n<tr> <td> <strong>Coolant Through</strong>\n</td>\n<td>Yes</td>\n</tr>\n<tr> <td> <strong>Number Of Cutter Inserts</strong>\n</td>\n<td>20</td>\n</tr>\n<tr> <td> <strong>Number Of Flutes</strong>\n</td>\n<td>4</td>\n</tr>\n<tr> <td> <strong>Country of Origin</strong>\n</td>\n<td>France</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-23T16:59:47-06:00",
+  "created_at": "2020-06-08T06:29:30-05:00",
+  "updated_at": "2025-09-22T10:52:11-05:00",
+  "vendor": "Seco",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Milling",
+    "Power Fastening Tools"
+  ],
+  "variants": [
+    {
+      "id": 34625358364839,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "87117412",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "1702.80",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 5299153272999,
+      "created_at": "2020-06-08T06:29:31-05:00",
+      "updated_at": "2025-09-22T10:52:11-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38252517785767,
+      "created_at": "2025-02-04T03:20:36-06:00",
+      "position": 1,
+      "updated_at": "2025-02-04T03:20:37-06:00",
+      "product_id": 5299153272999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8711741-21.jpg?v=1738660837",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 1702.8,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8711741-21.jpg?v=1738660837",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Seco",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 8254949654616,
+  "title": "Seashell Lil Flutters Samsung Galaxy S25 Ultra Case",
+  "handle": "seashell-lil-flutters-eco-friendly-samsung-galaxy-s25-ultra-case",
+  "body_html": "<p>Flutter your way through the day with the Seashell Lil Flutters Phone Case! This playful case features a charming print of little pink butterflies that will transform your phone into a whimsical accessory. Embrace the fun with this unique case!</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-01-22T09:49:57-05:00",
+  "created_at": "2025-01-15T11:23:57-05:00",
+  "updated_at": "2025-09-22T15:15:22-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S25 Ultra",
+  "tags": [
+    "art-type:Print",
+    "collection:Flutterbies",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Lil Flutters",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42567849902168,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13965-S25ULTRA-SEASHELL-AOD:LIL-FLUTTERS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8254949654616,
+      "created_at": "2025-01-15T11:23:57-05:00",
+      "updated_at": "2025-09-22T15:15:22-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34303443632216,
+      "created_at": "2025-01-15T11:23:57-05:00",
+      "position": 1,
+      "updated_at": "2025-01-15T11:23:59-05:00",
+      "product_id": 8254949654616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_S25ULTRA_Seashell.jpg?v=1736958239",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677462859864,
+      "created_at": "2025-03-12T12:02:59-04:00",
+      "position": 2,
+      "updated_at": "2025-03-12T12:03:03-04:00",
+      "product_id": 8254949654616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-10_36ae8009-2863-4755-9d42-cc04fc9edb52.jpg?v=1741795383",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677462892632,
+      "created_at": "2025-03-12T12:02:59-04:00",
+      "position": 3,
+      "updated_at": "2025-03-12T12:03:03-04:00",
+      "product_id": 8254949654616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-37_456d0f52-924d-4305-9d10-cf283cadae37.jpg?v=1741795383",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34677462925400,
+      "created_at": "2025-03-12T12:02:59-04:00",
+      "position": 4,
+      "updated_at": "2025-03-12T12:03:01-04:00",
+      "product_id": 8254949654616,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BUTTERFLY-RESIZE-03_8d80555e-2e8b-4485-90b5-5f9c7fc69f4a.jpg?v=1741795381",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/LIL-FLUTTERS_S25ULTRA_Seashell.jpg?v=1736958239",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S25 Ultra",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

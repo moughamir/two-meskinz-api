@@ -1,0 +1,67 @@
+{
+  "id": 7786138960039,
+  "title": "Brand: Harvey Tool / Part #: 756960",
+  "handle": "wk533895466",
+  "body_html": "<br><strong>Item #: </strong>82834771<br><strong>Brand: </strong>Harvey Tool<br><strong>Model #: </strong>756960<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (Inch)</strong>\n</td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Mill Diameter (Decimal Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Radius (Decimal Inch)</strong></td>\n<td>0.0600</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Straight</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.1875</td>\n</tr>\n<tr>\n<td><strong>Tip Diameter (Decimal Inch)</strong></td>\n<td>0.0580</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.0000</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>Corner Rounding End Mills - 2 &amp; 4 Flute - Flared</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Single Or Double End</strong></td>\n<td>Double</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T11:05:05-06:00",
+  "created_at": "2023-12-29T11:05:05-06:00",
+  "updated_at": "2025-09-22T10:47:18-05:00",
+  "vendor": "Harvey Tool",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43707047018663,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "82834771",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "53.06",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786138960039,
+      "created_at": "2023-12-29T11:05:05-06:00",
+      "updated_at": "2025-09-22T10:47:18-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237901881511,
+      "created_at": "2025-02-03T18:28:53-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:28:55-06:00",
+      "product_id": 7786138960039,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6199234-21_c9823169-e9f4-4181-993d-69ccdecadf40.jpg?v=1738628935",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 53.06,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/6199234-21_c9823169-e9f4-4181-993d-69ccdecadf40.jpg?v=1738628935",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Harvey Tool",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

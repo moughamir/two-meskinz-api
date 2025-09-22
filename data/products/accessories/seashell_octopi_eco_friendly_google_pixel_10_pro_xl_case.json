@@ -1,0 +1,86 @@
+{
+  "id": 8444619423832,
+  "title": "Seashell Octopi Google Pixel 10 Pro XL Case",
+  "handle": "seashell-octopi-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p class=\"p1\">Dive into a vibrant underwater celebration with the Octopi Phone Case! Bursting with color, these playful octopuses are here to bring some whimsy to your day. Each adorable sea creature is splashed in bright hues, from electric pinks to ocean blues, with quirky spots and friendly faces. This case is as fun as it is functional, offering protection while giving your phone a playful, aquatic flair. Perfect for ocean lovers, daydreamers, and anyone who loves a good splash of color! 🐙 🌊</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T11:36:13-04:00",
+  "created_at": "2025-08-08T11:03:23-04:00",
+  "updated_at": "2025-09-22T15:13:10-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Sea Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Octopi",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107922575448,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15821-PX10PXL-SEASHELL-AOD:OCTOPI",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444619423832,
+      "created_at": "2025-08-08T11:03:23-04:00",
+      "updated_at": "2025-09-22T15:13:10-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567047704664,
+      "created_at": "2025-08-08T11:03:23-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:03:25-04:00",
+      "product_id": 8444619423832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_PX10PXL_Seashell.jpg?v=1754665405",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33516482592856,
+      "created_at": "2024-08-22T12:39:14-04:00",
+      "position": 2,
+      "updated_at": "2024-08-22T12:39:16-04:00",
+      "product_id": 8444619423832,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SeaAnimals_1x1_Octopi_147cd00d-de63-4a46-9083-47a0031febfc.jpg?v=1724344756",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCTOPI_PX10PXL_Seashell.jpg?v=1754665405",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7786243162279,
+  "title": "Brand: Proto / Part #: J2343",
+  "handle": "wk713539748",
+  "body_html": "<br><strong>Item #: </strong>77956084<br><strong>Brand: </strong>Proto<br><strong>Model #: </strong>J2343<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Flexibility</strong>\n</td>\n<td>Stiff</td>\n</tr>\n<tr>\n<td><strong>Blade Length (Inch)</strong></td>\n<td>6-1/4</td>\n</tr>\n<tr>\n<td><strong>Blade Width (Inch)</strong></td>\n<td>1-1/2</td>\n</tr>\n<tr>\n<td><strong>Blade Width (Decimal Inch)</strong></td>\n<td>1.5000</td>\n</tr>\n<tr>\n<td><strong>Blade Material</strong></td>\n<td>Hardened Steel</td>\n</tr>\n<tr>\n<td><strong>Number Of Edges</strong></td>\n<td>1</td>\n</tr>\n<tr>\n<td><strong>Handle Length (Decimal Inch)</strong></td>\n<td>4-1/4</td>\n</tr>\n<tr>\n<td><strong>Handle Material</strong></td>\n<td>Acetate</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Inch)</strong></td>\n<td>10-3/8</td>\n</tr>\n<tr>\n<td><strong>Non-Conductive</strong></td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T15:24:56-06:00",
+  "created_at": "2023-12-29T15:24:56-06:00",
+  "updated_at": "2025-09-22T10:53:50-05:00",
+  "vendor": "Proto",
+  "product_type": "Janitorial & Facility Maintenance",
+  "tags": [
+    "Paints; Coatings & Surface Preparation"
+  ],
+  "variants": [
+    {
+      "id": 43707324301479,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "77956084",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.63",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786243162279,
+      "created_at": "2023-12-29T15:24:56-06:00",
+      "updated_at": "2025-09-22T10:53:50-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238149836967,
+      "created_at": "2025-02-03T18:38:05-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:38:07-06:00",
+      "product_id": 7786243162279,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7795609-21_794fb72e-2807-4cce-ba73-cc2eaad19630.jpg?v=1738629487",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44.63,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/7795609-21_794fb72e-2807-4cce-ba73-cc2eaad19630.jpg?v=1738629487",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Proto",
+  "category": "Janitorial & Facility Maintenance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

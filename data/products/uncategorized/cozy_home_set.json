@@ -1,0 +1,89 @@
+{
+  "id": 7543244521581,
+  "title": "Cozy Home Set",
+  "handle": "cozy-home-set",
+  "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">This set includes two premium Bridgewater Candle Company scents, Welcome Home and Sweet Grace, and a Pura Plus™ smart fragrance diffuser.<br></p>\n<p><br></p>",
+  "published_at": "2025-09-10T11:33:38-06:00",
+  "created_at": "2024-09-23T14:15:32-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Bridgewater Candle Company",
+  "product_type": "Plus Set",
+  "tags": [
+    "Brand:Brooklyn Candle Studio",
+    "Group_Home",
+    "Mood_Bold",
+    "Mood_Cheerful",
+    "Mood_Cozy",
+    "Mood_Relaxing",
+    "Pura Plus",
+    "Scent Type_Amber",
+    "Strength_Strong",
+    "type_Smartvial",
+    "YCRF_homedevices",
+    "YGroup_SweetGrace"
+  ],
+  "variants": [
+    {
+      "id": 41838554775661,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-01037",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.99",
+      "grams": 680,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7543244521581,
+      "created_at": "2024-09-23T14:15:32-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33068026101869,
+      "created_at": "2024-09-23T14:27:25-06:00",
+      "position": 1,
+      "updated_at": "2024-09-23T14:27:27-06:00",
+      "product_id": 7543244521581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraPlus-WelcomeHome-SweetGrace-Set-Prod1-0724.jpg?v=1727123247",
+      "width": 3674,
+      "height": 4899
+    },
+    {
+      "id": 33068026167405,
+      "created_at": "2024-09-23T14:27:25-06:00",
+      "position": 2,
+      "updated_at": "2024-09-23T14:27:27-06:00",
+      "product_id": 7543244521581,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraPlus-WelcomeHome-SweetGrace-Set-Contents-Prod1-0724.jpg?v=1727123247",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/PuraPlus-WelcomeHome-SweetGrace-Set-Prod1-0724.jpg?v=1727123247",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Bridgewater Candle Company",
+  "category": "Plus Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 6806313533642,
+  "title": "Gymshark Hijab - Worn Blue",
+  "handle": "gymshark-hijab-headwear-blue-aw25",
+  "body_html": "<p><b>COMFORT &amp; COVERAGE FOR ALL YOU'RE CAPABLE OF</b></p><p>Train in comfort &amp; with confidence in our Hijab, specially designed so you can move distraction-free and wear it your way.</p><ul>\n<li>Lightweight and breathable for distraction-free training</li>\n<li>Can be adjusted and worn in multiple ways to suit you</li>\n<li>Wrap style scarf</li>\n</ul><p><br></p><p><b>SIZE &amp; FIT</b></p><ul>\n<li>One size</li>\n<li>Width: 61cm. Length: 170cm</li>\n</ul><p><br></p><p><b>MATERIALS &amp; CARE</b></p><ul><li>92% Polyester, 8% Elastane</li></ul>",
+  "published_at": "2025-08-28T10:59:02-07:00",
+  "created_at": "2025-01-20T08:05:04-08:00",
+  "updated_at": "2025-09-22T08:44:37-07:00",
+  "vendor": "Gymshark | Be a visionary.",
+  "product_type": "Headwear",
+  "tags": [
+    "28/08/25-missing",
+    "accessories",
+    "akeneo_updated_at:1756391991",
+    "akeneo_updated_at:1757057626",
+    "akeneo_updated_at:1757934274",
+    "all-products",
+    "build-your-wishlist",
+    "category:Headwear",
+    "created_by:product-service",
+    "division:Accessories",
+    "feature:breathable",
+    "feature:lightweight",
+    "filter-colour:Blue",
+    "headwear",
+    "hijabs",
+    "lower-bucket",
+    "Mens",
+    "new-accessories",
+    "new-releases",
+    "over-40-off",
+    "over-50-off",
+    "over-60-off",
+    "over-70-off",
+    "percentageInStockV2",
+    "range:Modesty Essentials",
+    "seamtype:Accessories",
+    "seasonal-accessories",
+    "segmentation:Conditioning",
+    "stocking-fillers",
+    "subcategory:Hijab",
+    "tier:1",
+    "Womens"
+  ],
+  "variants": [
+    {
+      "id": 39795356893386,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "I3A3X-UDR1-OS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "30.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 6806313533642,
+      "created_at": "2025-01-20T08:05:04-08:00",
+      "updated_at": "2025-09-22T08:44:37-07:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28994193326282,
+      "created_at": "2025-08-07T11:21:49-07:00",
+      "position": 1,
+      "updated_at": "2025-08-07T11:21:52-07:00",
+      "product_id": 6806313533642,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-newHijabGSWornBlueI3A3X_UDR1_0234.jpg?v=1754590912",
+      "width": 1692,
+      "height": 2018
+    },
+    {
+      "id": 28994193391818,
+      "created_at": "2025-08-07T11:21:49-07:00",
+      "position": 2,
+      "updated_at": "2025-08-07T11:21:52-07:00",
+      "product_id": 6806313533642,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-newHijabGSWornBlueI3A3X_UDR1_0235.jpg?v=1754590912",
+      "width": 1692,
+      "height": 2018
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 30,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-newHijabGSWornBlueI3A3X_UDR1_0234.jpg?v=1754590912",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Gymshark | Be a visionary.",
+  "category": "Headwear",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

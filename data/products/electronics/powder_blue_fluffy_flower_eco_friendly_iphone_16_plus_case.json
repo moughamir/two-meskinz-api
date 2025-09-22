@@ -1,0 +1,120 @@
+{
+  "id": 8381664297048,
+  "title": "Powder Blue Fluffy Flower iPhone 16 Plus Case",
+  "handle": "powder-blue-fluffy-flower-eco-friendly-iphone-16-plus-case",
+  "body_html": "<p>Protect your phone in style with the Powder Blue Fluffy Flower Case from our Pela x yeunglove Artist Series Collection.  This sustainable, durable, and compostable phone case is inspired by spring and features lil' bunnies, clouds and more. Keep your phone safe while adding a touch of whimsy to your everyday life.</p>",
+  "published_at": "2025-05-21T17:06:52-04:00",
+  "created_at": "2025-05-21T09:52:43-04:00",
+  "updated_at": "2025-09-22T15:14:08-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 16 Plus",
+  "tags": [
+    "art-type:Print",
+    "collection:Pela x yeunglove",
+    "Made to Order",
+    "made-in:north-america",
+    "magsafe compatible",
+    "name:Fluffy Flower",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42895732244568,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:17364-IP16PLUS-POWDERBLUE-AOD:FLUFFY-FLOWER",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "80.00",
+      "grams": 0,
+      "compare_at_price": "80.00",
+      "position": 1,
+      "product_id": 8381664297048,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "updated_at": "2025-09-22T15:14:08-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35065439354968,
+      "created_at": "2025-05-21T09:52:43-04:00",
+      "position": 1,
+      "updated_at": "2025-05-21T09:52:45-04:00",
+      "product_id": 8381664297048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16PLUS_PowderBlue.jpg?v=1747835565",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065762971736,
+      "created_at": "2025-05-21T11:28:02-04:00",
+      "position": 2,
+      "updated_at": "2025-05-21T11:28:05-04:00",
+      "product_id": 8381664297048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_1_cea24c90-cca8-4d65-990c-138d5a0a02dd.jpg?v=1747841285",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065762906200,
+      "created_at": "2025-05-21T11:28:02-04:00",
+      "position": 3,
+      "updated_at": "2025-05-21T11:28:04-04:00",
+      "product_id": 8381664297048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_2_91651ece-3a24-479d-bdcc-e885951558bb.jpg?v=1747841284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065762938968,
+      "created_at": "2025-05-21T11:28:02-04:00",
+      "position": 4,
+      "updated_at": "2025-05-21T11:28:04-04:00",
+      "product_id": 8381664297048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFYFLOWER_POWDERBLUE_3_c1c0232c-bace-4222-89d3-a92f8a06b106.jpg?v=1747841284",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35065764085848,
+      "created_at": "2025-05-21T11:29:00-04:00",
+      "position": 5,
+      "updated_at": "2025-05-21T11:29:01-04:00",
+      "product_id": 8381664297048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/YEUNGLOVE_MULTI_1_0f364323-cb13-4a1a-867c-a30faff9518d.jpg?v=1747841341",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 80,
+  "compare_at_price": 80,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLUFFY-FLOWER_IP16PLUS_PowderBlue.jpg?v=1747835565",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 16 Plus",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

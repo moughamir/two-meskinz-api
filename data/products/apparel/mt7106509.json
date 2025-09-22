@@ -1,0 +1,67 @@
+{
+  "id": 7786430922919,
+  "title": "Brand: Widia / Part #: 6853543",
+  "handle": "mt7106509",
+  "body_html": "<br><strong>Item #: </strong>97981930<br><strong>Brand: </strong>Widia<br><strong>Model #: </strong>6853543<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mill Diameter (mm)</strong>\n</td>\n<td>4.00</td>\n</tr>\n<tr>\n<td><strong>Corner Radius (mm)</strong></td>\n<td>0.20</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>End Mill Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Single Or Double End</strong></td>\n<td>Single</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>50.0000</td>\n</tr>\n<tr>\n<td><strong>Length of Cut (mm)</strong></td>\n<td>12.0000</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Pitch</strong></td>\n<td>Normal</td>\n</tr>\n<tr>\n<td><strong>Flute Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Helix Angle</strong></td>\n<td>33</td>\n</tr>\n<tr>\n<td><strong>Chipbreaker</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>End Type</strong></td>\n<td>Corner Radius</td>\n</tr>\n<tr>\n<td><strong>Length Type</strong></td>\n<td>Regular</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Helical</td>\n</tr>\n<tr>\n<td><strong>Extended Reach</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Centercutting</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Variable Index</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Variable Helix</strong></td>\n<td>Yes</td>\n</tr>\n<tr>\n<td><strong>Material Removal Type</strong></td>\n<td>Finishing</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>4.0000</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (mm)</strong></td>\n<td>0.000</td>\n</tr>\n<tr>\n<td><strong>Minimum Helix Angle</strong></td>\n<td>37</td>\n</tr>\n<tr>\n<td><strong>Maximum Helix Angle</strong></td>\n<td>39</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material</strong></td>\n<td>Non-Ferrous Metal</td>\n</tr>\n<tr>\n<td><strong>Primary Workpiece Material Code</strong></td>\n<td>N</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>2A09</td>\n</tr>\n<tr>\n<td><strong>Coating Classification</strong></td>\n<td>Uncoated</td>\n</tr>\n<tr>\n<td><strong>Helix Style</strong></td>\n<td>Variable</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-30T00:22:23-06:00",
+  "created_at": "2023-12-30T00:22:23-06:00",
+  "updated_at": "2025-09-22T10:53:23-05:00",
+  "vendor": "Widia",
+  "product_type": "Milling",
+  "tags": [
+    "End Mills"
+  ],
+  "variants": [
+    {
+      "id": 43707972550823,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "97981930",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "32.30",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786430922919,
+      "created_at": "2023-12-30T00:22:23-06:00",
+      "updated_at": "2025-09-22T10:53:23-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238627299495,
+      "created_at": "2025-02-03T18:57:25-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:57:26-06:00",
+      "product_id": 7786430922919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9798219-21_45da2584-6f89-427c-8ac9-e299ba75b41b.jpg?v=1738630646",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 32.3,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9798219-21_45da2584-6f89-427c-8ac9-e299ba75b41b.jpg?v=1738630646",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Widia",
+  "category": "Milling",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

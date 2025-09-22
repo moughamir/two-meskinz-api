@@ -1,0 +1,108 @@
+{
+  "id": 8127740772440,
+  "title": "Seashell Pumpkin Spice Google Pixel 9/9 Pro Case",
+  "handle": "seashell-pumpkin-spice-eco-friendly-google-pixel-9-9-pro-case",
+  "body_html": "<p class=\"p1\">Get ready to fall in love with your phone all over again with the Pumpkin Spice Phone Case! 🎃🍂 This charming design is a tribute to all things cozy—steaming mugs of coffee, cinnamon sticks, pumpkin pie, and a sprinkle of autumn magic. It’s like wrapping your phone in a warm blanket of fall vibes, perfect for pumpkin spice lovers and autumn enthusiasts alike. Sip your latte, cozy up, and let your phone bask in the sweet, spicy goodness of the season! ☕🍁</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-09-26T09:08:12-04:00",
+  "created_at": "2024-09-13T10:29:32-04:00",
+  "updated_at": "2025-09-22T15:15:42-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 9/9 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Harvest",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Pumpkin Spice",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42263346282584,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15666-PX9-SEASHELL-AOD:PUMPKIN-SPICE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8127740772440,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "updated_at": "2025-09-22T15:15:42-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33615318646872,
+      "created_at": "2024-09-13T10:29:32-04:00",
+      "position": 1,
+      "updated_at": "2024-09-13T10:29:32-04:00",
+      "product_id": 8127740772440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_PX9_Seashell.jpg?v=1726237772",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685749432408,
+      "created_at": "2024-09-26T17:41:42-04:00",
+      "position": 2,
+      "updated_at": "2024-09-26T17:41:44-04:00",
+      "product_id": 8127740772440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_02_5ce4d1ca-45b3-4f49-b171-a4555eb2e581.jpg?v=1727386904",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33678556299352,
+      "created_at": "2024-09-25T15:24:35-04:00",
+      "position": 3,
+      "updated_at": "2024-09-25T15:24:37-04:00",
+      "product_id": 8127740772440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_PumpkinSpice_2000x2000_f3c0fc59-f4c0-4ee7-bad6-afd64a4448a3.jpg?v=1727292277",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33685749465176,
+      "created_at": "2024-09-26T17:41:42-04:00",
+      "position": 4,
+      "updated_at": "2024-09-26T17:41:44-04:00",
+      "product_id": 8127740772440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/Harvest_AllCases_2000x2000_e26e5741-5cfa-44a6-aac5-278a3ef11648.jpg?v=1727386904",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/PUMPKIN-SPICE_PX9_Seashell.jpg?v=1726237772",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 9/9 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

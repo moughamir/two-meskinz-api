@@ -1,0 +1,99 @@
+{
+  "id": 7885999439919,
+  "title": "Heartstopper Hi, Hi Kitchen Towel",
+  "handle": "heartstopper-hi-hi-kitchen-towel",
+  "body_html": "<p>The <em>Heartstopper </em>Hi, Hi Kitchen Towel is a sweet and playful tribute to the tender moments shared between Nick and Charlie in <em>Heartstopper. </em>Whether you're rewatching your favorite episodes or just cherishing the sweet simplicity of Nick and Charlie's connection, this towel brings a little piece of their love story into your everyday moments.</p><ul>\n<li>      16\" x 24\" </li>\n<li>    Microfiber Cloth (80% Polyester, 20% Polyamide)</li>\n<li>       Superior Absorbency</li>\n<li>       Fast Dry</li>\n<li>       Cold water washing and low heat drying or hand wash</li>\n<li>       No bleach</li>\n</ul>",
+  "published_at": "2024-12-11T10:49:10-05:00",
+  "created_at": "2024-12-10T03:16:35-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "progift",
+  "product_type": "Kitchen Towels",
+  "tags": [
+    "81059939",
+    "Dish Towels",
+    "Heartstopper",
+    "Home & Office",
+    "home and office",
+    "Kitchen Accessories",
+    "Kitchen Towels",
+    "Towels",
+    "unisex",
+    "Valentines Day",
+    "Waffle Tea Towel"
+  ],
+  "variants": [
+    {
+      "id": 43463174651951,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "HRTSTPR-101814-0001-HS-HITW",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "19.95",
+      "grams": 113,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7885999439919,
+      "created_at": "2024-12-10T03:16:35-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35154017452079,
+      "created_at": "2024-12-10T03:16:35-05:00",
+      "position": 1,
+      "updated_at": "2024-12-10T22:04:21-05:00",
+      "product_id": 7885999439919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HITW_101814_LIFE.jpg?v=1733886261",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154017386543,
+      "created_at": "2024-12-10T03:16:35-05:00",
+      "position": 2,
+      "updated_at": "2024-12-10T22:04:21-05:00",
+      "product_id": 7885999439919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HITW_101814_MF.jpg?v=1733886261",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 35154017419311,
+      "created_at": "2024-12-10T03:16:35-05:00",
+      "position": 3,
+      "updated_at": "2024-12-10T22:04:21-05:00",
+      "product_id": 7885999439919,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HITW_101814_RO.jpg?v=1733886261",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 19.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/HS-HITW_101814_LIFE.jpg?v=1733886261",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "progift",
+  "category": "Kitchen Towels",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

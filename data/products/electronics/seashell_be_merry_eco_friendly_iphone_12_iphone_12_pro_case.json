@@ -1,0 +1,130 @@
+{
+  "id": 8159692062808,
+  "title": "Seashell Be Merry iPhone 12/ iPhone 12 Pro Case",
+  "handle": "seashell-be-merry-eco-friendly-iphone-12-iphone-12-pro-case",
+  "body_html": "<p class=\"p1\">Spread the holiday cheer with the Be Merry Phone Case! 🌲✨ Adorned with festive gingerbread cookies, holly, bows, and sprigs of mistletoe, this case brings all the cozy vibes of the season right to your phone. It’s the perfect holiday accessory for keeping your phone safe while adding a touch of merry magic to your everyday. Lightweight, durable, and full of seasonal spirit—this case is a must-have for spreading joy all winter long! 🌿📱</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2024-10-24T09:15:56-04:00",
+  "created_at": "2024-10-16T10:40:27-04:00",
+  "updated_at": "2025-09-22T15:15:35-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12/ iPhone 12 Pro",
+  "tags": [
+    "art-type:Print",
+    "collection:Holiday",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Be Merry",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42333270638680,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16461-IP12-SEASHELL-AOD:BE-MERRY",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8159692062808,
+      "created_at": "2024-10-16T10:40:27-04:00",
+      "updated_at": "2025-09-22T15:15:35-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33799053705304,
+      "created_at": "2024-10-16T10:40:27-04:00",
+      "position": 1,
+      "updated_at": "2024-10-16T10:40:27-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IP12_Seashell.jpg?v=1729089627",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 33839129526360,
+      "created_at": "2024-10-22T13:17:03-04:00",
+      "position": 2,
+      "updated_at": "2024-10-22T13:17:05-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP1_b45aa166-85af-4760-85bb-47d2a642b188.jpg?v=1729617425",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839129559128,
+      "created_at": "2024-10-22T13:17:03-04:00",
+      "position": 3,
+      "updated_at": "2024-10-22T13:17:05-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP2_dc80b8a4-85ff-40f5-801e-ea3eecd24641.jpg?v=1729617425",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839129493592,
+      "created_at": "2024-10-22T13:17:03-04:00",
+      "position": 4,
+      "updated_at": "2024-10-22T13:17:04-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP3_0cbfc1fd-a787-45fe-98b3-ebe6ce48d668.jpg?v=1729617424",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839129657432,
+      "created_at": "2024-10-22T13:17:03-04:00",
+      "position": 5,
+      "updated_at": "2024-10-22T13:17:05-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP4_3d11c3fe-cce0-43fa-b4fc-726cd58c0aa9.jpg?v=1729617425",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": 33839129624664,
+      "created_at": "2024-10-22T13:17:03-04:00",
+      "position": 6,
+      "updated_at": "2024-10-22T13:17:05-04:00",
+      "product_id": 8159692062808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/BEMERRY_PDP5_afcdd78b-2e80-43a2-9180-ff617f138b90.jpg?v=1729617425",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/BE-MERRY_IP12_Seashell.jpg?v=1729089627",
+  "images_count": 6,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12/ iPhone 12 Pro",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

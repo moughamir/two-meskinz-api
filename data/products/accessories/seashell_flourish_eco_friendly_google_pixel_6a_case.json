@@ -1,0 +1,108 @@
+{
+  "id": 8320080085080,
+  "title": "Seashell Flourish Google Pixel 6a Case",
+  "handle": "seashell-flourish-eco-friendly-google-pixel-6a-case",
+  "body_html": "<p><meta charset=\"utf-8\">Spring has officially sprung—on your phone! The <em data-start=\"83\" data-end=\"93\">Flourish</em> Phone Case is a bloom-filled wonderland sprinkled with bunnies, ducklings, bees, blossoms, and even the occasional hedgehog. It's like a storybook meadow that fits in the palm of your hand, perfect for anyone who loves sunny days, fresh flowers, and all things adorable.<meta charset=\"utf-8\">🐇🌷</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-04-10T09:28:07-04:00",
+  "created_at": "2025-03-20T10:50:35-04:00",
+  "updated_at": "2025-09-22T15:14:31-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 6a",
+  "tags": [
+    "art-type:Print",
+    "collection:Spring Animals",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Flourish",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 42756159373400,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:14806-PX6a-SEASHELL-AOD:FLOURISH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8320080085080,
+      "created_at": "2025-03-20T10:50:35-04:00",
+      "updated_at": "2025-09-22T15:14:31-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34722012397656,
+      "created_at": "2025-03-20T10:50:35-04:00",
+      "position": 1,
+      "updated_at": "2025-03-20T10:50:37-04:00",
+      "product_id": 8320080085080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_PX6A_Seashell.jpg?v=1742482237",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34814140940376,
+      "created_at": "2025-04-10T10:20:29-04:00",
+      "position": 2,
+      "updated_at": "2025-04-10T10:20:32-04:00",
+      "product_id": 8320080085080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Androids_PDP_1x1_03_4f950cb2-3fe2-465a-9396-f4e0e35cd0a0.jpg?v=1744294832",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814140973144,
+      "created_at": "2025-04-10T10:20:29-04:00",
+      "position": 3,
+      "updated_at": "2025-04-10T10:20:32-04:00",
+      "product_id": 8320080085080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Friends_PDP_1x1_01_0a4d692e-0c8e-4dce-afc8-8174c0102d4b.jpg?v=1744294832",
+      "width": 810,
+      "height": 810
+    },
+    {
+      "id": 34814141005912,
+      "created_at": "2025-04-10T10:20:29-04:00",
+      "position": 4,
+      "updated_at": "2025-04-10T10:20:35-04:00",
+      "product_id": 8320080085080,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/SpringAnimals_Render_Group_Pile_PDP_1x1_02_dd9f6e55-2ebe-4632-8f42-cb95e6aef26f.jpg?v=1744294835",
+      "width": 810,
+      "height": 810
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FLOURISH_PX6A_Seashell.jpg?v=1742482237",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 6a",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 7865954172975,
+  "title": "Bridgerton Jewels Holiday Stocking",
+  "handle": "bridgerton-jewels-holiday-stocking",
+  "body_html": "<p>Step into a world of Regency elegance with our <em>Bridgerton </em>Jewels Holiday Stocking! Adorned with luxurious, jewel-toned accents and opulent detailing, this stocking channels the lavish spirit of the <em>Bridgerton </em>family—perfect for hanging by the fireplace or draping across your manor's grand staircase. Whether it's filled with treats or a season's worth of gossip, this stocking is sure to add a dash of drama and delight to your festive celebrations.</p><ul>\n<li>Add these festive stockings to your Holiday decorations!</li>\n<li>Measures: 10\" W x  19\" L. </li>\n<li>Made Of: 100% polyester. </li>\n<li>Care: Machine wash cold on gentle cycle with mild detergent and similar colors. Tumble dry low or lay flat to dry for longest life.</li>\n</ul>",
+  "published_at": "2024-11-15T10:25:29-05:00",
+  "created_at": "2024-11-11T06:09:21-05:00",
+  "updated_at": "2025-09-22T11:41:02-04:00",
+  "vendor": "progift",
+  "product_type": "Stockings",
+  "tags": [
+    "80232398",
+    "Bridgerton",
+    "Gifting",
+    "Holiday",
+    "Netflix at Home",
+    "Promo Eligible Collection",
+    "Stocking",
+    "Stockings",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43360829702191,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "BRDGTN-100234-0002-BR-STOCK",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "22.95",
+      "grams": 454,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7865954172975,
+      "created_at": "2024-11-11T06:09:21-05:00",
+      "updated_at": "2025-09-22T11:41:02-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35025969512495,
+      "created_at": "2024-11-19T20:39:00-05:00",
+      "position": 1,
+      "updated_at": "2024-11-19T20:39:01-05:00",
+      "product_id": 7865954172975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-STOCK_36_100234_MF2_5c6c56f5-4c79-45c2-8743-02ae7c91cc90.png?v=1732066741",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34963760807983,
+      "created_at": "2024-11-11T06:09:21-05:00",
+      "position": 2,
+      "updated_at": "2024-11-11T06:09:21-05:00",
+      "product_id": 7865954172975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-STOCK_36_100234_MF.jpg?v=1731323361",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34963760840751,
+      "created_at": "2024-11-11T06:09:21-05:00",
+      "position": 3,
+      "updated_at": "2024-11-11T06:09:21-05:00",
+      "product_id": 7865954172975,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-STOCK_36_100234_LIFE.jpg?v=1731323361",
+      "width": 750,
+      "height": 998
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 22.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/BR-STOCK_36_100234_MF2_5c6c56f5-4c79-45c2-8743-02ae7c91cc90.png?v=1732066741",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "progift",
+  "category": "Stockings",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

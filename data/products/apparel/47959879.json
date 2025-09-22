@@ -1,0 +1,67 @@
+{
+  "id": 8451797942439,
+  "title": "Brand: Seco / Part #: 10138061",
+  "handle": "47959879",
+  "body_html": "<br><strong>Item #: </strong>40063539<br><strong>Brand: </strong>Seco<br><strong>Model #: </strong>10138061<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Overall Length (Inch)</strong>\n</td>\n<td>4-1/2</td>\n</tr>\n<tr>\n<td><strong>Neck Diameter (Decimal Inch)</strong></td>\n<td>0.7244</td>\n</tr>\n<tr>\n<td><strong>Neck Thread Size</strong></td>\n<td>E20</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>3/4</td>\n</tr>\n<tr>\n<td><strong>Nose Diameter (Decimal Inch - 4 Decimals)</strong></td>\n<td>0.7244</td>\n</tr>\n<tr>\n<td><strong>Toolholder Style</strong></td>\n<td>XE</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Steel</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>XE</td>\n</tr>\n<tr>\n<td><strong>Maximum Diameter (Decimal Inch)</strong></td>\n<td>0.7500</td>\n</tr>\n<tr>\n<td><strong>Tip Connection Size</strong></td>\n<td>E20</td>\n</tr>\n<tr>\n<td><strong>Tool Application</strong></td>\n<td>Milling</td>\n</tr>\n<tr>\n<td><strong>Tool Performance</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Weldon Flat</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Effective Length (Decimal Inch)</strong></td>\n<td>1.0000</td>\n</tr>\n<tr>\n<td><strong>Milling Tip Style</strong></td>\n<td>E20</td>\n</tr>\n<tr>\n<td><strong>Shank Shape</strong></td>\n<td>Round</td>\n</tr>\n<tr>\n<td><strong>Thread Size Connection to Tip</strong></td>\n<td>E20</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2025-01-22T09:32:35-06:00",
+  "created_at": "2025-01-22T09:32:33-06:00",
+  "updated_at": "2025-09-22T10:52:31-05:00",
+  "vendor": "Seco",
+  "product_type": "Indexable Cutting Tools",
+  "tags": [
+    "Indexable Milling"
+  ],
+  "variants": [
+    {
+      "id": 46493901095079,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "40063539",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "0.00",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8451797942439,
+      "created_at": "2025-01-22T09:32:33-06:00",
+      "updated_at": "2025-09-22T10:52:31-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38111034212519,
+      "created_at": "2025-01-22T09:32:43-06:00",
+      "position": 1,
+      "updated_at": "2025-01-22T09:32:44-06:00",
+      "product_id": 8451797942439,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4006353-21_e94ec63e-bba1-4883-842f-536ea0a4b969.jpg?v=1737559964",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 0,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/4006353-21_e94ec63e-bba1-4883-842f-536ea0a4b969.jpg?v=1737559964",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Seco",
+  "category": "Indexable Cutting Tools",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 6818082521176,
+  "title": "Solana Sunglasses in Rose Tortoise",
+  "handle": "solana-sunglasses-in-rose-tortoise",
+  "body_html": "<span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Back and better than ever. Meet the Solana, Cocos, and Nusa sunglasses. Our newest frames are stylish and sophisticated — the perfect addition to your favorite outfit (or loungewear!).  Offering full UVA/UVB protection, these sunnies are comfortable and durable<span data-mce-fragment=\"1\">. </span><span data-mce-fragment=\"1\">Eyewear for People Who Care: </span><span data-mce-fragment=\"1\">33% less CO2e Emissions, 34% less water usage, and 82% less waste compared to conventional sunglasses and packaging.</span></span>",
+  "published_at": "2025-05-08T09:08:33-04:00",
+  "created_at": "2021-10-13T11:27:35-04:00",
+  "updated_at": "2025-09-22T15:14:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Sunglasses",
+  "tags": [
+    "accessory",
+    "Clearance",
+    "exclude_rebuy",
+    "exclude_SS",
+    "product_notice_4",
+    "Solana"
+  ],
+  "variants": [
+    {
+      "id": 39672939905112,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "42005-SOLANA-ROSE",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "38.00",
+      "grams": 113,
+      "compare_at_price": "64.00",
+      "position": 1,
+      "product_id": 6818082521176,
+      "created_at": "2021-10-13T11:27:36-04:00",
+      "updated_at": "2025-09-22T15:14:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 28798502076504,
+      "created_at": "2021-10-13T14:14:47-04:00",
+      "position": 1,
+      "updated_at": "2021-10-13T14:14:47-04:00",
+      "product_id": 6818082521176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-ROSETORTOISE-FRONT.jpg?v=1634148887",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798502109272,
+      "created_at": "2021-10-13T14:14:47-04:00",
+      "position": 2,
+      "updated_at": "2021-10-13T14:14:47-04:00",
+      "product_id": 6818082521176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-ROSETORTOISE-FRONT-ANGLE-swway.jpg?v=1634148887",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798502142040,
+      "created_at": "2021-10-13T14:14:47-04:00",
+      "position": 3,
+      "updated_at": "2021-10-13T14:14:47-04:00",
+      "product_id": 6818082521176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-ROSETORTOISE-BACK-ANGLE-swway.jpg?v=1634148887",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 28798502174808,
+      "created_at": "2021-10-13T14:14:47-04:00",
+      "position": 4,
+      "updated_at": "2021-10-13T14:14:47-04:00",
+      "product_id": 6818082521176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA_ROSETORT_SWWAY_SQUARE-0893.jpg?v=1634148887",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38,
+  "compare_at_price": 64,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/products/SOLANA-ROSETORTOISE-FRONT.jpg?v=1634148887",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Sunglasses",
+  "availability": "out of stock",
+  "condition": "new",
+  "dimensions": {}
+}

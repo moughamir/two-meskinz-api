@@ -1,0 +1,88 @@
+{
+  "id": 7774214127663,
+  "title": "Cobra Kai Miyagi-Do Karate Embroidered Dad Hat",
+  "handle": "cobra-kai-miyagi-do-karate-embroidered-dad-hat",
+  "body_html": "<p>Show your allegiance to <em>Cobra Kai </em>with our Miyagi-Do Karate Embroidered Dad Hat, featuring a striking design straight from the dojo. Perfect for fans of the hit show, this hat blends style and fandom effortlessly. Grab yours today and strike first in <em>Cobra Kai</em> fashion!</p>\n<ul>\n<li>Made of: 100% chino cotton twill</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2024-07-19T13:57:20-04:00",
+  "created_at": "2024-07-18T03:56:29-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "81002370",
+    "accessories",
+    "clothing",
+    "Cobra Kai",
+    "Geeked",
+    "hat",
+    "Hats",
+    "Promo Eligible Collection",
+    "Title: Cobra Kai",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43105365753903,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CK-101082-0002-CK-MDKT",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "29.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7774214127663,
+      "created_at": "2024-07-18T03:56:29-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34306527461423,
+      "created_at": "2024-07-19T05:20:44-04:00",
+      "position": 1,
+      "updated_at": "2024-07-19T05:20:44-04:00",
+      "product_id": 7774214127663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MDKT_100998_FT_MF.jpg?v=1721380844",
+      "width": 750,
+      "height": 1000
+    },
+    {
+      "id": 34306527789103,
+      "created_at": "2024-07-19T05:20:46-04:00",
+      "position": 2,
+      "updated_at": "2024-07-19T05:20:46-04:00",
+      "product_id": 7774214127663,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MDKT_100998_BK_MF.png?v=1721380846",
+      "width": 750,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 29.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/CK-MDKT_100998_FT_MF.jpg?v=1721380844",
+  "images_count": 2,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

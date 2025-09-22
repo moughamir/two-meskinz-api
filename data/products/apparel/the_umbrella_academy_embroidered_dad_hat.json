@@ -1,0 +1,108 @@
+{
+  "id": 7812021157935,
+  "title": "The Umbrella Academy Embroidered Dad Hat",
+  "handle": "the-umbrella-academy-embroidered-dad-hat",
+  "body_html": "<p>Flaunt your favorite show wearing an <em>The Umbrella Academy</em> Classic Dad Hat! Featuring an embroidered design this hat will add flair to any outfit.</p>\n<ul>\n<li>Made of: 100% chino cotton twill</li>\n<li>Unstructured, 6-panel, low-profile</li>\n<li>Adjustable strap with antique buckle</li>\n</ul>",
+  "published_at": "2024-09-06T14:19:03-04:00",
+  "created_at": "2024-08-27T05:16:25-04:00",
+  "updated_at": "2025-09-22T11:41:09-04:00",
+  "vendor": "printful2",
+  "product_type": "Hats",
+  "tags": [
+    "6245CM",
+    "80186863",
+    "accessories",
+    "Geeked",
+    "Hats",
+    "Promo Eligible Collection",
+    "The Umbrella Academy",
+    "Type: Accessories",
+    "unisex"
+  ],
+  "variants": [
+    {
+      "id": 43196552970287,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TUA-101082-0002-UA-UM",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "44.95",
+      "grams": 227,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7812021157935,
+      "created_at": "2024-08-27T05:16:25-04:00",
+      "updated_at": "2025-09-22T11:41:09-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34587124072495,
+      "created_at": "2024-09-06T14:06:13-04:00",
+      "position": 1,
+      "updated_at": "2024-09-06T14:06:14-04:00",
+      "product_id": 7812021157935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/UA-UM_100998_FT_MF_NETFLIX.png?v=1725645974",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34587124203567,
+      "created_at": "2024-09-06T14:06:13-04:00",
+      "position": 2,
+      "updated_at": "2024-09-06T14:06:15-04:00",
+      "product_id": 7812021157935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/UA-UM_100998_BK_MF_NETFLIX.png?v=1725645975",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34587124170799,
+      "created_at": "2024-09-06T14:06:13-04:00",
+      "position": 3,
+      "updated_at": "2024-09-06T14:06:15-04:00",
+      "product_id": 7812021157935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/UA-UM_100998_FT_LIFE_NETFLIX.png?v=1725645975",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "id": 34587124105263,
+      "created_at": "2024-09-06T14:06:12-04:00",
+      "position": 4,
+      "updated_at": "2024-09-06T14:06:14-04:00",
+      "product_id": 7812021157935,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/UA-UM_100998_BK_LIFE_NETFLIX.png?v=1725645974",
+      "width": 1500,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 44.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0522/8222/8911/files/UA-UM_100998_FT_MF_NETFLIX.png?v=1725645974",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "printful2",
+  "category": "Hats",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

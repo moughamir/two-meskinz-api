@@ -1,0 +1,111 @@
+{
+  "id": 7589382422637,
+  "title": "Wild Honeysuckle",
+  "handle": "wild-honeysuckle",
+  "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">Step into a sunny afternoon as refreshing <strong>mint</strong> and <strong>cucumber</strong> drift into <strong>wild honeysuckle</strong>, <strong>violet leaf</strong>, and<strong> soft woods.</strong></p>",
+  "published_at": "2025-02-05T09:17:28-07:00",
+  "created_at": "2025-01-07T16:19:36-07:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "LAFCO",
+  "product_type": "Fragrance",
+  "tags": [
+    "Brand:LAFCO",
+    "Group_Home",
+    "Mood_Romantic",
+    "Scent Type_Floral",
+    "Strength_Strong",
+    "type_smart12",
+    "type_smart21",
+    "type_smart22",
+    "type_smart23",
+    "type_Smartvial",
+    "vial type_Smartvial",
+    "YCRF_homefragrances"
+  ],
+  "variants": [
+    {
+      "id": 41988070604909,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "WYSH",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "21.00",
+      "grams": 91,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7589382422637,
+      "created_at": "2025-01-07T16:19:36-07:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 33538572255341,
+      "created_at": "2025-01-07T16:34:47-07:00",
+      "position": 1,
+      "updated_at": "2025-01-07T16:34:54-07:00",
+      "product_id": 7589382422637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCO-WildHoneysuckle-Prod1-0724.jpg?v=1736292894",
+      "width": 3362,
+      "height": 4482
+    },
+    {
+      "id": 33538572288109,
+      "created_at": "2025-01-07T16:34:47-07:00",
+      "position": 2,
+      "updated_at": "2025-01-07T16:34:54-07:00",
+      "product_id": 7589382422637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Ingredients-Honeysuckle-Resized-0724.jpg?v=1736292894",
+      "width": 2400,
+      "height": 3200
+    },
+    {
+      "id": 33538572320877,
+      "created_at": "2025-01-07T16:34:47-07:00",
+      "position": 3,
+      "updated_at": "2025-01-07T16:34:54-07:00",
+      "product_id": 7589382422637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/WildHoneysuckle-Retail-Image04.png?v=1736292894",
+      "width": 3000,
+      "height": 3000
+    },
+    {
+      "id": 33538572222573,
+      "created_at": "2025-01-07T16:34:47-07:00",
+      "position": 4,
+      "updated_at": "2025-01-07T16:34:54-07:00",
+      "product_id": 7589382422637,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCO-WildHoneysuckle-Prod4-0724.jpg?v=1736292894",
+      "width": 2410,
+      "height": 3214
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 21,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/LAFCO-WildHoneysuckle-Prod1-0724.jpg?v=1736292894",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "LAFCO",
+  "category": "Fragrance",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

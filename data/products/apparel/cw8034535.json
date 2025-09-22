@@ -1,0 +1,67 @@
+{
+  "id": 7785764192423,
+  "title": "Brand: PRO-SOURCE / Part #: CED5359-WK",
+  "handle": "cw8034535",
+  "body_html": "<br><strong>Item #: </strong>38647319<br><strong>Brand: </strong>PRO-SOURCE<br><strong>Model #: </strong>CED5359-WK<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Accessory Type</strong>\n</td>\n<td>Wheel Kit</td>\n</tr>\n<tr>\n<td><strong>For Use With</strong></td>\n<td>61027264; MSC Item</td>\n</tr>\n<tr>\n<td><strong>Fan Size</strong></td>\n<td>42</td>\n</tr>\n<tr>\n<td><strong>Fan Size</strong></td>\n<td>42 in</td>\n</tr>\n<tr>\n<td><strong>Color</strong></td>\n<td>Silver</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T01:27:34-06:00",
+  "created_at": "2023-12-29T01:27:34-06:00",
+  "updated_at": "2025-09-22T10:48:08-05:00",
+  "vendor": "PRO-SOURCE",
+  "product_type": "HVAC",
+  "tags": [
+    "Fans"
+  ],
+  "variants": [
+    {
+      "id": 43705457311911,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "38647319",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "79.70",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785764192423,
+      "created_at": "2023-12-29T01:27:34-06:00",
+      "updated_at": "2025-09-22T10:48:08-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237217128615,
+      "created_at": "2025-02-03T18:08:42-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:08:44-06:00",
+      "product_id": 7785764192423,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_671456e7-b315-4938-ae9a-80a4f2323373.jpg?v=1738627724",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 79.7,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/NOIMAGE-11_671456e7-b315-4938-ae9a-80a4f2323373.jpg?v=1738627724",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "PRO-SOURCE",
+  "category": "HVAC",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

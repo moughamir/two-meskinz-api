@@ -1,0 +1,108 @@
+{
+  "id": 8418749907032,
+  "title": "Powder Blue Ocean Charms iPhone 12 Pro Max Case",
+  "handle": "powder-blue-ocean-charms-eco-friendly-iphone-12-pro-max-case",
+  "body_html": "<p data-start=\"0\" data-end=\"84\">Say hello to your pocket-sized treasure trove — the Ocean Charms Phone Case! 🐚✨</p>\n<p data-start=\"86\" data-end=\"409\">Adorned in sea-blue with hand-sketched shells, pearls, starfish, and mermaid tails, this case is basically a beach day in your hand. It’s giving “found this at low tide on a magical island” vibes. Whether you’re a full-time beach bum or just wish you were, this dreamy design keeps your phone looking shore-stoppingly cute.</p>\n<p><br>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-07-24T08:45:46-04:00",
+  "created_at": "2025-07-02T13:46:40-04:00",
+  "updated_at": "2025-09-22T15:13:33-04:00",
+  "vendor": "Pela Case",
+  "product_type": "iPhone 12 Pro Max",
+  "tags": [
+    "art-type:Print",
+    "collection:Mermaidcore",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Ocean Charms",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43031086301272,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:16549-IP12PMAX-POWDERBLUE-AOD:OCEAN-CHARMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "52.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8418749907032,
+      "created_at": "2025-07-02T13:46:40-04:00",
+      "updated_at": "2025-09-22T15:13:33-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35348387823704,
+      "created_at": "2025-07-02T13:46:40-04:00",
+      "position": 1,
+      "updated_at": "2025-07-02T13:46:42-04:00",
+      "product_id": 8418749907032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-CHARMS_IP12PMAX_PowderBlue.jpg?v=1751478402",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35453406445656,
+      "created_at": "2025-07-21T16:25:26-04:00",
+      "position": 2,
+      "updated_at": "2025-07-21T16:25:26-04:00",
+      "product_id": 8418749907032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/6837e9716632f288f38e090d60bb4baa_943dc0c8-5acc-43a4-aa80-9c2f518de02f.jpg?v=1753129526",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453406838872,
+      "created_at": "2025-07-21T16:25:28-04:00",
+      "position": 3,
+      "updated_at": "2025-07-21T16:25:28-04:00",
+      "product_id": 8418749907032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/b7c940d51dae60d7ddb93d59f55dd636_e1bc421d-a389-40e5-8f15-995c237b635d.jpg?v=1753129528",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35453407232088,
+      "created_at": "2025-07-21T16:25:29-04:00",
+      "position": 4,
+      "updated_at": "2025-07-21T16:25:29-04:00",
+      "product_id": 8418749907032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/d2b12b1eacd315cad35d149d4bdd544a_a6fe982f-5a02-4667-a582-c8a725d41b1f.jpg?v=1753129529",
+      "width": 4480,
+      "height": 4480
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 52,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/OCEAN-CHARMS_IP12PMAX_PowderBlue.jpg?v=1751478402",
+  "images_count": 4,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "iPhone 12 Pro Max",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

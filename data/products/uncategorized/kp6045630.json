@@ -1,0 +1,52 @@
+{
+  "id": 8453464228007,
+  "title": "Adjustable Wrench Standard Capacity, 24″",
+  "handle": "kp6045630",
+  "body_html": null,
+  "published_at": "2025-01-24T07:16:29-06:00",
+  "created_at": "2025-01-24T07:16:28-06:00",
+  "updated_at": "2025-09-22T10:51:44-05:00",
+  "vendor": "ET02 New 2023",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 46500872323239,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "KP6045630",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "320.43",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8453464228007,
+      "created_at": "2025-01-24T07:16:28-06:00",
+      "updated_at": "2025-09-22T10:51:44-05:00"
+    }
+  ],
+  "images": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 320.43,
+  "images_count": 0,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "ET02 New 2023",
+  "category": "",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

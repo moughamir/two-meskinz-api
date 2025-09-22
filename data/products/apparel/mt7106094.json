@@ -1,0 +1,67 @@
+{
+  "id": 7786338844839,
+  "title": "Brand: JAZ USA / Part #: 43562B",
+  "handle": "mt7106094",
+  "body_html": "<br><strong>Item #: </strong>80230154<br><strong>Brand: </strong>JAZ USA<br><strong>Model #: </strong>43562B<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Mount Type</strong>\n</td>\n<td>Arbor Hole</td>\n</tr>\n<tr>\n<td><strong>Wire Type</strong></td>\n<td>Knotted Stringer Bead Twist</td>\n</tr>\n<tr>\n<td><strong>Outside Diameter (Inch)</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>Face Width (Inch)</strong></td>\n<td>3/16</td>\n</tr>\n<tr>\n<td><strong>Arbor Hole Thread Size</strong></td>\n<td>5/8-11</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Fill Material</strong></td>\n<td>Carbon Steel</td>\n</tr>\n<tr>\n<td><strong>Trim Length (Inch)</strong></td>\n<td>1-3/8</td>\n</tr>\n<tr>\n<td><strong>Grade</strong></td>\n<td>Coarse</td>\n</tr>\n<tr>\n<td><strong>Arbor Hole Style</strong></td>\n<td>Threaded</td>\n</tr>\n<tr>\n<td><strong>Maximum Rpm</strong></td>\n<td>12500.000</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n<tr>\n<td><strong>Inside Diameter (Inch)</strong></td>\n<td>1/4</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-29T19:28:34-06:00",
+  "created_at": "2023-12-29T19:28:34-06:00",
+  "updated_at": "2025-09-22T10:53:37-05:00",
+  "vendor": "JAZ USA",
+  "product_type": "Abrasives",
+  "tags": [
+    "Abrasive Brushes"
+  ],
+  "variants": [
+    {
+      "id": 43707573993639,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "80230154",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "38.71",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7786338844839,
+      "created_at": "2023-12-29T19:28:34-06:00",
+      "updated_at": "2025-09-22T10:53:37-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38238365843623,
+      "created_at": "2025-02-03T18:46:44-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:46:46-06:00",
+      "product_id": 7786338844839,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8025171-21_8f53e907-b7cc-47ad-b80f-b7176d15bf1f.jpg?v=1738630006",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 38.71,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/8025171-21_8f53e907-b7cc-47ad-b80f-b7176d15bf1f.jpg?v=1738630006",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "JAZ USA",
+  "category": "Abrasives",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7785668542631,
+  "title": "Brand: Ingersoll Cutting Tools / Part #: 6154709",
+  "handle": "ft8527639",
+  "body_html": "<br><strong>Item #: </strong>94476348<br><strong>Brand: </strong>Ingersoll Cutting Tools<br><strong>Model #: </strong>6154709<br><br><strong><a name=\"specs\"></a><div id=\"pdp-specs\">\n<h3 class=\"ui header pdp-section-title\" id=\"pdp-specs-title\">Product Specifications</h3>\n<table class=\"ui striped table\" summary=\"product-Specification\"> <tbody> <tr> <td> <strong>Drill Bit Size (Decimal Inch)</strong>\n</td>\n<td>0.1260</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Size (mm)</strong></td>\n<td>3.20</td>\n</tr>\n<tr>\n<td><strong>Tool Material</strong></td>\n<td>Solid Carbide</td>\n</tr>\n<tr>\n<td><strong>Cutting Direction</strong></td>\n<td>Right Hand</td>\n</tr>\n<tr>\n<td><strong>Coating/Finish</strong></td>\n<td>TiAlN</td>\n</tr>\n<tr>\n<td><strong>Drill Point Angle</strong></td>\n<td>140</td>\n</tr>\n<tr>\n<td><strong>Spiral Type</strong></td>\n<td>Regular Spiral</td>\n</tr>\n<tr>\n<td><strong>Flute Type</strong></td>\n<td>Spiral</td>\n</tr>\n<tr>\n<td><strong>Point Type</strong></td>\n<td>Self Centering</td>\n</tr>\n<tr>\n<td><strong>Coolant Through</strong></td>\n<td>No</td>\n</tr>\n<tr>\n<td><strong>Shank Type</strong></td>\n<td>Cylindrical</td>\n</tr>\n<tr>\n<td><strong>Number Of Flutes</strong></td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (Decimal Inch)</strong></td>\n<td>0.2362</td>\n</tr>\n<tr>\n<td><strong>Overall Length (mm)</strong></td>\n<td>62.0000</td>\n</tr>\n<tr>\n<td><strong>Overall Length (Decimal Inch)</strong></td>\n<td>2.4409</td>\n</tr>\n<tr>\n<td><strong>Shank Diameter (mm)</strong></td>\n<td>6.0000</td>\n</tr>\n<tr>\n<td><strong>Series</strong></td>\n<td>DJ</td>\n</tr>\n<tr>\n<td><strong>Web Thinning</strong></td>\n<td>Web-Thinned</td>\n</tr>\n<tr>\n<td><strong>Drill Length Type</strong></td>\n<td>Screw Machine Length</td>\n</tr>\n<tr>\n<td><strong>Maximum Drilling Depth (Decimal Inch)</strong></td>\n<td>0.5512</td>\n</tr>\n<tr>\n<td><strong>Maximum Drilling Depth (mm)</strong></td>\n<td>14.00</td>\n</tr>\n<tr>\n<td><strong>Shank Length (Decimal Inch)</strong></td>\n<td>1.3386</td>\n</tr>\n<tr>\n<td><strong>Shank Length (mm)</strong></td>\n<td>34.000</td>\n</tr>\n<tr>\n<td><strong>Drill Point Length (mm)</strong></td>\n<td>0.50</td>\n</tr>\n<tr>\n<td><strong>Drill Point Length (Decimal Inch)</strong></td>\n<td>0.0197</td>\n</tr>\n<tr>\n<td><strong>Flute By Diameter Ratio</strong></td>\n<td>3xD</td>\n</tr>\n<tr>\n<td><strong>Tool Performance</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Flute Length (Decimal Inch)</strong></td>\n<td>0.7874</td>\n</tr>\n<tr>\n<td><strong>Flute Length (mm)</strong></td>\n<td>20.00</td>\n</tr>\n<tr>\n<td><strong>Drill Bit Grade</strong></td>\n<td>General Purpose</td>\n</tr>\n<tr>\n<td><strong>Material Grade</strong></td>\n<td>IN2005</td>\n</tr>\n</tbody>\n</table>\n</div></strong>",
+  "published_at": "2023-12-28T23:58:21-06:00",
+  "created_at": "2023-12-28T23:58:21-06:00",
+  "updated_at": "2025-09-22T10:54:57-05:00",
+  "vendor": "Ingersoll Cutting Tools",
+  "product_type": "Holemaking",
+  "tags": [
+    "Drilling & Drill Bits"
+  ],
+  "variants": [
+    {
+      "id": 43705026904231,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "94476348",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "83.95",
+      "grams": 45,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7785668542631,
+      "created_at": "2023-12-28T23:58:21-06:00",
+      "updated_at": "2025-09-22T10:54:57-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 38237124198567,
+      "created_at": "2025-02-03T18:05:22-06:00",
+      "position": 1,
+      "updated_at": "2025-02-03T18:05:23-06:00",
+      "product_id": 7785668542631,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9447634-21.jpg?v=1738627523",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 83.95,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0393/9598/3527/files/9447634-21.jpg?v=1738627523",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Ingersoll Cutting Tools",
+  "category": "Holemaking",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

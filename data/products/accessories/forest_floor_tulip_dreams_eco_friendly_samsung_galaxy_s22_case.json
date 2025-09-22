@@ -1,0 +1,119 @@
+{
+  "id": 8419718168664,
+  "title": "Forest Floor Tulip Dreams Samsung Galaxy S22 Case",
+  "handle": "forest-floor-tulip-dreams-eco-friendly-samsung-galaxy-s22-case",
+  "body_html": "<p><meta charset=\"utf-8\">Say hello to soft blooms and daydreams with the Tulip Dreams Phone Case. Featuring a delicate sky-blue tulip outline that dances across a rich olive green backdrop, this case brings a garden stroll right to your fingertips. It's minimalist, modern, and effortlessly whimsical — perfect for flower lovers with a subtle side.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-07T09:37:02-04:00",
+  "created_at": "2025-07-03T14:10:53-04:00",
+  "updated_at": "2025-09-22T15:13:25-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Samsung Galaxy S22",
+  "tags": [
+    "art-type:Print",
+    "collection:Forest Floor",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Tulip Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43033213796440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:13602-S22-FOREST-AOD:TULIP-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8419718168664,
+      "created_at": "2025-07-03T14:10:53-04:00",
+      "updated_at": "2025-09-22T15:13:25-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35354043449432,
+      "created_at": "2025-07-03T14:10:53-04:00",
+      "position": 1,
+      "updated_at": "2025-07-03T14:10:55-04:00",
+      "product_id": 8419718168664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/TULIP-DREAMS_S22_ForestFloor.jpg?v=1751566255",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 35547936096344,
+      "created_at": "2025-08-05T11:39:03-04:00",
+      "position": 2,
+      "updated_at": "2025-08-05T11:39:03-04:00",
+      "product_id": 8419718168664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/9198bfbd7a66cf14738901e514b48527_f2317658-8766-4ec7-8489-22ba0de05e0b.jpg?v=1754408343",
+      "width": 4305,
+      "height": 4305
+    },
+    {
+      "id": 35547936194648,
+      "created_at": "2025-08-05T11:39:05-04:00",
+      "position": 3,
+      "updated_at": "2025-08-05T11:39:05-04:00",
+      "product_id": 8419718168664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/0376dedb39d1dc4715a0c62f49578d59_c1a0a25e-4b1c-4524-bbc8-ac8a2a32359d.jpg?v=1754408345",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547936292952,
+      "created_at": "2025-08-05T11:39:07-04:00",
+      "position": 4,
+      "updated_at": "2025-08-05T11:39:07-04:00",
+      "product_id": 8419718168664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/4275fc2fff5ae41943158767f03000e3_7c13e973-11a3-4950-b570-e38f8113cfe7.jpg?v=1754408347",
+      "width": 4480,
+      "height": 4480
+    },
+    {
+      "id": 35547936358488,
+      "created_at": "2025-08-05T11:39:08-04:00",
+      "position": 5,
+      "updated_at": "2025-08-05T11:39:08-04:00",
+      "product_id": 8419718168664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/128ed6cfb6a87fe6e417b16d3a332785_bd22d06e-e0a3-44d8-a473-b9a263739cdf.jpg?v=1754408348",
+      "width": 4157,
+      "height": 4157
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/TULIP-DREAMS_S22_ForestFloor.jpg?v=1751566255",
+  "images_count": 5,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Samsung Galaxy S22",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

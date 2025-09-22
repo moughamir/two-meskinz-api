@@ -1,0 +1,97 @@
+{
+  "id": 8444629287000,
+  "title": "Black Fern Dreams Google Pixel 10 Pro XL Case",
+  "handle": "black-fern-dreams-eco-friendly-google-pixel-10-pro-xl-case",
+  "body_html": "<p><meta charset=\"utf-8\">Drift into the lush tranquility of the forest with <em data-start=\"92\" data-end=\"105\">Fern Dreams Phone Case</em>! <meta charset=\"utf-8\">🌿 This deep, moody botanical design features layered ferns in rich, earthy tones—perfect for those who feel most at home among towering trees and misty trails. Whether you’re a nature lover, plant parent, or just love a touch of wild elegance, this case is your forest fantasy come to life.</p>\n<p>Beautifully designed, Pela cases are the world's first truly sustainable phone case. They are durable enough to protect your phone from drops and scratches and are also compostable!</p>",
+  "published_at": "2025-08-20T10:06:28-04:00",
+  "created_at": "2025-08-08T11:03:58-04:00",
+  "updated_at": "2025-09-22T15:13:17-04:00",
+  "vendor": "Pela Case",
+  "product_type": "Google Pixel 10 Pro XL",
+  "tags": [
+    "art-type:Print",
+    "collection:Plantopia",
+    "Made to Order",
+    "made-in:north-america",
+    "name:Fern Dreams",
+    "Phone Case",
+    "product_notice_2",
+    "protection-level:2"
+  ],
+  "variants": [
+    {
+      "id": 43107933028440,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "blank:15815-PX10PXL-BLACK-AOD:FERN-DREAMS",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "65.00",
+      "grams": 0,
+      "compare_at_price": "65.00",
+      "position": 1,
+      "product_id": 8444629287000,
+      "created_at": "2025-08-08T11:03:58-04:00",
+      "updated_at": "2025-09-22T15:13:17-04:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35567068315736,
+      "created_at": "2025-08-08T11:03:58-04:00",
+      "position": 1,
+      "updated_at": "2025-08-08T11:04:01-04:00",
+      "product_id": 8444629287000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FERN-DREAMS_PX10PXL_Black.jpg?v=1754665441",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 34705803214936,
+      "created_at": "2025-03-17T13:20:13-04:00",
+      "position": 2,
+      "updated_at": "2025-03-17T13:20:15-04:00",
+      "product_id": 8444629287000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FernDream_PDP3_175226bc-861d-4efb-a6d2-8d78a3b02209.jpg?v=1742232015",
+      "width": 3693,
+      "height": 3693
+    },
+    {
+      "id": 34705803247704,
+      "created_at": "2025-03-17T13:20:13-04:00",
+      "position": 3,
+      "updated_at": "2025-03-17T13:20:15-04:00",
+      "product_id": 8444629287000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0078/1032/files/FernDream_PDP2_875f67c2-57cf-45e9-a43a-82d388b24ea9.jpg?v=1742232015",
+      "width": 3780,
+      "height": 3780
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 65,
+  "compare_at_price": 65,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0078/1032/files/FERN-DREAMS_PX10PXL_Black.jpg?v=1754665441",
+  "images_count": 3,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pela Case",
+  "category": "Google Pixel 10 Pro XL",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}

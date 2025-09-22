@@ -1,0 +1,70 @@
+{
+  "id": 7633387356269,
+  "title": "Build a Pura Mini Set",
+  "handle": "build-a-pura-mini-set",
+  "body_html": "",
+  "published_at": "2025-04-09T16:36:39-06:00",
+  "created_at": "2025-04-03T19:20:12-06:00",
+  "updated_at": "2025-09-22T13:12:49-06:00",
+  "vendor": "Pura",
+  "product_type": "Mini Set",
+  "tags": [
+    "__label:Customize",
+    "Group_Home",
+    "type_Smartvial",
+    "YCRF_homedevices"
+  ],
+  "variants": [
+    {
+      "id": 42323917996141,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "900-02160",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "34.99",
+      "grams": 408,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7633387356269,
+      "created_at": "2025-04-03T19:20:12-06:00",
+      "updated_at": "2025-09-22T13:12:49-06:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 34038391898221,
+      "created_at": "2025-04-03T19:20:14-06:00",
+      "position": 1,
+      "updated_at": "2025-04-03T19:20:15-06:00",
+      "product_id": 7633387356269,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini-Set-BlankFragrance-PDP-Resized-0125.jpg?v=1743729615",
+      "width": 3674,
+      "height": 4899
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "price": 34.99,
+  "featured_image_url": "https://cdn.shopify.com/s/files/1/0023/0021/5405/files/Mini-Set-BlankFragrance-PDP-Resized-0125.jpg?v=1743729615",
+  "images_count": 1,
+  "variants_count": 1,
+  "status": "active",
+  "brand": "Pura",
+  "category": "Mini Set",
+  "availability": "in stock",
+  "condition": "new",
+  "dimensions": {}
+}
