@@ -1,0 +1,36 @@
+{
+  "name": "product-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint",
+    "prepare:data": "tsc --project tsconfig.scripts.json && node dist-scripts/scripts/prepare-data.js && rm -rf dist-scripts"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.18",
+    "lunr": "^2.3.9",
+    "msgpack-lite": "^0.1.26",
+    "next": "15.5.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/lunr": "^2.3.7",
+    "@types/msgpack-lite": "^0.1.11",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.3",
+    "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5"
+  }
+}
